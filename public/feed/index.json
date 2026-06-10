@@ -1,0 +1,1133 @@
+{
+  "generated_at": "2026-06-09T19:00:00Z",
+  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines — open the original via each article's link for the full text.",
+  "packs": [
+    {
+      "pack_id": "feed-2026-06-09-partenze-giugno",
+      "title": "Con la fine della scuola, 16 milioni di italiani partono in vacanza",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B1",
+      "topics": [
+        "society",
+        "culture"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-partenze-giugno",
+        "meta": {
+          "title": "Con la fine della scuola, 16 milioni di italiani partono in vacanza",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "società",
+            "viaggi"
+          ],
+          "level": "B1"
+        },
+        "summary_en": "With school over, about 16 million Italians are setting off on holiday already in June. Most want the sea and prefer to stay in Italy. The tourism sector expects billions in business.",
+        "resumen_es": "Con la fine della scuola, circa 16 milioni di italiani partono in vacanza già a giugno. La maggior parte vuole il mare e preferisce restare in Italia. Il settore del turismo prevede un grande giro d'affari.",
+        "vocab": [
+          {
+            "id": "partenza",
+            "front": "partenza",
+            "pos": "noun",
+            "back": "departure",
+            "example": "Le partenze iniziano a giugno.",
+            "tier": "B1",
+            "tags": [
+              "viaggi"
+            ]
+          },
+          {
+            "id": "vacanza",
+            "front": "vacanza",
+            "pos": "noun",
+            "back": "holiday",
+            "example": "Vado in vacanza al mare.",
+            "tier": "B1",
+            "tags": [
+              "viaggi"
+            ]
+          },
+          {
+            "id": "turismo",
+            "front": "turismo",
+            "pos": "noun",
+            "back": "tourism",
+            "example": "Il turismo è importante per l'economia.",
+            "tier": "B1",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "la-maggior-parte",
+            "front": "la maggior parte",
+            "pos": "phrase",
+            "back": "most, the majority",
+            "example": "La maggior parte vuole il mare.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "costa",
+            "front": "costa",
+            "pos": "noun",
+            "back": "coast",
+            "example": "Molti vanno verso la costa.",
+            "tier": "B1",
+            "tags": [
+              "viaggi"
+            ]
+          },
+          {
+            "id": "prevedere",
+            "front": "prevedere",
+            "pos": "verb",
+            "back": "to expect, to forecast",
+            "example": "Prevedono molti turisti quest'estate.",
+            "tier": "B1",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "giro-d-affari",
+            "front": "giro d'affari",
+            "pos": "phrase",
+            "back": "turnover, business volume",
+            "example": "Un giro d'affari di miliardi di euro.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "restare",
+            "front": "restare",
+            "pos": "verb",
+            "back": "to stay, to remain",
+            "example": "Preferiscono restare in Italia.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "circa",
+            "front": "circa",
+            "pos": "adv",
+            "back": "about, around",
+            "example": "Circa 16 milioni di persone.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "meta",
+            "front": "meta",
+            "pos": "noun",
+            "back": "destination",
+            "example": "L'Italia è la meta preferita.",
+            "tier": "B1",
+            "tags": [
+              "viaggi"
+            ]
+          },
+          {
+            "id": "preferire",
+            "front": "preferire",
+            "pos": "verb",
+            "back": "to prefer",
+            "example": "Preferiscono il mare alla montagna.",
+            "tier": "B1",
+            "tags": []
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La maggior parte vuole il mare.",
+            "point": "collective subject + singular verb",
+            "explanation": "'la maggior parte' (the majority) takes a singular verb ('vuole'), even though it refers to many people.",
+            "why_tricky": "English says 'most want' with a plural verb, so learners use the plural."
+          },
+          {
+            "sentence": "Preferiscono restare in Italia.",
+            "point": "'-isc-' verbs in the present (preferire)",
+            "explanation": "Verbs like 'preferire', 'capire', 'finire' add '-isc-' in most present forms: preferisco, preferisci, preferisce, preferiscono.",
+            "why_tricky": "The extra '-isc-' has no English equivalent and is easy to drop."
+          },
+          {
+            "sentence": "Vanno al mare a giugno.",
+            "point": "'andare a / in' with places + article contraction",
+            "explanation": "'andare' uses 'a' or 'in' before places; 'a + il' becomes 'al' (al mare, in montagna).",
+            "why_tricky": "English just says 'to'; Italian chooses a/in and merges with the article."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare le valigie",
+            "meaning": "to pack one's bags",
+            "example": "Prima di partire, faccio le valigie."
+          },
+          {
+            "phrase": "andare in ferie",
+            "meaning": "to go on holiday / take leave",
+            "example": "Ad agosto molti italiani vanno in ferie."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "In quale mese partono molti italiani e perché?",
+            "type": "factual"
+          },
+          {
+            "q": "Dove preferisce andare la maggior parte?",
+            "type": "factual"
+          },
+          {
+            "q": "Secondo te, è meglio il mare o la montagna?",
+            "type": "opinion"
+          }
+        ],
+        "opinion_prompt": "Dove ti piace andare in vacanza e con chi? Scrivi ~80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-09-orso-valtellina",
+      "title": "Un orso corre di notte tra le case di un paese in Valtellina",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B1",
+      "topics": [
+        "society",
+        "science"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-orso-valtellina",
+        "meta": {
+          "title": "Un orso corre di notte tra le case di un paese in Valtellina",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/italia/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "società",
+            "natura"
+          ],
+          "level": "B1"
+        },
+        "summary_en": "A bear was filmed at night running through the streets of a village in Valtellina, in northern Italy. A driver recorded the animal as it fled. Sightings near homes are becoming more frequent.",
+        "resumen_es": "Un orso è stato filmato di notte mentre correva tra le case di un paese in Valtellina, nel nord Italia. Un automobilista ha ripreso l'animale in fuga. Avvistamenti come questo, vicino alle case, sono sempre più frequenti.",
+        "vocab": [
+          {
+            "id": "orso",
+            "front": "orso",
+            "pos": "noun",
+            "back": "bear",
+            "example": "Un orso è apparso vicino al paese.",
+            "tier": "B1",
+            "tags": [
+              "natura"
+            ]
+          },
+          {
+            "id": "fauna-selvatica",
+            "front": "fauna selvatica",
+            "pos": "phrase",
+            "back": "wildlife",
+            "example": "La fauna selvatica si avvicina ai paesi.",
+            "tier": "B2",
+            "tags": [
+              "natura"
+            ]
+          },
+          {
+            "id": "paese",
+            "front": "paese",
+            "pos": "noun",
+            "back": "village, town (also: country)",
+            "example": "Vive in un piccolo paese di montagna.",
+            "tier": "B1",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "di-notte",
+            "front": "di notte",
+            "pos": "phrase",
+            "back": "at night",
+            "example": "L'orso è arrivato di notte.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "correre",
+            "front": "correre",
+            "pos": "verb",
+            "back": "to run",
+            "example": "L'orso correva molto veloce.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "fuga",
+            "front": "fuga",
+            "pos": "noun",
+            "back": "escape, flight",
+            "example": "L'animale era in fuga.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "riprendere",
+            "front": "riprendere",
+            "pos": "verb",
+            "back": "to film, to record",
+            "example": "Ha ripreso la scena con il telefono.",
+            "tier": "B2",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "avvistamento",
+            "front": "avvistamento",
+            "pos": "noun",
+            "back": "sighting",
+            "example": "Gli avvistamenti di orsi aumentano.",
+            "tier": "B2",
+            "tags": [
+              "natura"
+            ]
+          },
+          {
+            "id": "avvicinarsi",
+            "front": "avvicinarsi",
+            "pos": "verb",
+            "back": "to approach, to come near",
+            "example": "Gli orsi si avvicinano alle case.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "frequente",
+            "front": "frequente",
+            "pos": "adj",
+            "back": "frequent, common",
+            "example": "Questi episodi sono sempre più frequenti.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "vicino-a",
+            "front": "vicino a",
+            "pos": "phrase",
+            "back": "near, close to",
+            "example": "Il bosco è vicino al paese.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'orso è stato filmato di notte.",
+            "point": "passive in the past (essere stato + participle)",
+            "explanation": "The past passive uses 'essere' in the passato prossimo + past participle: 'è stato filmato' = 'was filmed'.",
+            "why_tricky": "English uses 'was filmed'; Italian needs both 'essere' and agreement."
+          },
+          {
+            "sentence": "Mentre correva, un'auto lo ha ripreso.",
+            "point": "imperfetto with 'mentre' for an ongoing past action",
+            "explanation": "'mentre' + imperfetto ('correva') sets the ongoing background; the passato prossimo ('ha ripreso') is the completed event.",
+            "why_tricky": "English 'while it was running' vs 'recorded'; learners mix the two past tenses."
+          },
+          {
+            "sentence": "Gli orsi si avvicinano alle case.",
+            "point": "reflexive verbs (avvicinarsi)",
+            "explanation": "Reflexive verbs carry a pronoun (mi/ti/si…): 'si avvicinano' = 'they come near'.",
+            "why_tricky": "The pronoun has no English equivalent ('they approach'), so it gets dropped."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere paura",
+            "meaning": "to be afraid",
+            "example": "La gente del paese ha avuto paura."
+          },
+          {
+            "phrase": "a tu per tu",
+            "meaning": "face to face",
+            "example": "Si è trovato a tu per tu con l'orso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha fatto l'orso e dove?",
+            "type": "factual"
+          },
+          {
+            "q": "Chi ha ripreso l'animale?",
+            "type": "factual"
+          },
+          {
+            "q": "Perché, secondo te, gli orsi si avvicinano ai paesi?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "Hai mai visto un animale selvatico vicino a casa? Racconta. Scrivi ~80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-09-nozze-taylor-swift",
+      "title": "Si scommette sulle nozze di Taylor Swift: dove si sposerà?",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B1",
+      "topics": [
+        "culture"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-nozze-taylor-swift",
+        "meta": {
+          "title": "Si scommette sulle nozze di Taylor Swift: dove si sposerà?",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "cultura",
+            "spettacolo"
+          ],
+          "level": "B1"
+        },
+        "summary_en": "Bookmakers are taking bets on where pop star Taylor Swift will marry Travis Kelce. The secret location is worth millions to the betting industry. Fans are trying to guess too.",
+        "resumen_es": "Gli allibratori accettano scommesse su dove la popstar Taylor Swift sposerà Travis Kelce. Il luogo segreto vale milioni per le agenzie di scommesse. Anche i fan provano a indovinare.",
+        "vocab": [
+          {
+            "id": "nozze",
+            "front": "nozze",
+            "pos": "noun",
+            "back": "wedding",
+            "example": "Le nozze saranno in estate.",
+            "tier": "B1",
+            "tags": [
+              "cultura"
+            ]
+          },
+          {
+            "id": "sposarsi",
+            "front": "sposarsi",
+            "pos": "verb",
+            "back": "to get married",
+            "example": "Si sposeranno l'anno prossimo.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "scommessa",
+            "front": "scommessa",
+            "pos": "noun",
+            "back": "bet",
+            "example": "Ha vinto una scommessa importante.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "scommettere",
+            "front": "scommettere",
+            "pos": "verb",
+            "back": "to bet",
+            "example": "Molti scommettono sul luogo.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "luogo",
+            "front": "luogo",
+            "pos": "noun",
+            "back": "place, location",
+            "example": "Il luogo delle nozze è segreto.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "mistero",
+            "front": "mistero",
+            "pos": "noun",
+            "back": "mystery",
+            "example": "Dove si sposerà è un mistero.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "valere",
+            "front": "valere",
+            "pos": "verb",
+            "back": "to be worth",
+            "example": "La notizia vale milioni di euro.",
+            "tier": "B1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "indovinare",
+            "front": "indovinare",
+            "pos": "verb",
+            "back": "to guess",
+            "example": "Nessuno riesce a indovinare il luogo.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "segreto",
+            "front": "segreto",
+            "pos": "adj",
+            "back": "secret",
+            "example": "Il piano è ancora segreto.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "provare-a",
+            "front": "provare a",
+            "pos": "phrase",
+            "back": "to try to",
+            "example": "I fan provano a indovinare.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "persino",
+            "front": "persino",
+            "pos": "adv",
+            "back": "even",
+            "example": "Persino i giornali ne parlano.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si sposeranno l'anno prossimo.",
+            "point": "future of reflexive verbs",
+            "explanation": "Reflexive verbs keep their pronoun in the future too: 'si sposeranno' = 'they will get married'.",
+            "why_tricky": "English 'they will marry' has no pronoun, so 'si' is forgotten."
+          },
+          {
+            "sentence": "Non si sa dove si sposerà.",
+            "point": "impersonal 'si' ('one / people')",
+            "explanation": "'si' + verb makes an impersonal sentence: 'si sa' = 'it is known / people know'; 'si scommette' = 'people bet'.",
+            "why_tricky": "English needs a dummy subject ('it', 'people'); Italian uses 'si'."
+          },
+          {
+            "sentence": "I fan provano a indovinare.",
+            "point": "'provare a' + infinitive",
+            "explanation": "'provare a' means 'to try to' and is followed by an infinitive.",
+            "why_tricky": "English 'try to' matches, but learners forget the required 'a'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare notizia",
+            "meaning": "to make headlines",
+            "example": "Le nozze fanno notizia in tutto il mondo."
+          },
+          {
+            "phrase": "tenere col fiato sospeso",
+            "meaning": "to keep on tenterhooks",
+            "example": "Il mistero tiene i fan col fiato sospeso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Su che cosa scommette la gente?",
+            "type": "factual"
+          },
+          {
+            "q": "Perché il luogo è importante per le agenzie di scommesse?",
+            "type": "factual"
+          },
+          {
+            "q": "Ti interessano le notizie sulle celebrità? Perché?",
+            "type": "opinion"
+          }
+        ],
+        "opinion_prompt": "Segui le notizie sulle celebrità? Ti sembrano importanti? Scrivi ~80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-09-ia-pubblica-amministrazione",
+      "title": "Il 66% dei dipendenti pubblici usa l'intelligenza artificiale al lavoro",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B2",
+      "topics": [
+        "tech",
+        "society"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-ia-pubblica-amministrazione",
+        "meta": {
+          "title": "Il 66% dei dipendenti pubblici usa l'intelligenza artificiale al lavoro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "tecnologia",
+            "società"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "A survey found that 66% of Italian public-sector employees now use AI tools in their work. Many see the public administration as a reference point for citizens and businesses. The findings were presented at Forum PA.",
+        "resumen_es": "Secondo un'indagine, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale al lavoro. Molti considerano la pubblica amministrazione un punto di riferimento per cittadini e imprese. I dati sono stati presentati al Forum PA.",
+        "vocab": [
+          {
+            "id": "dipendente",
+            "front": "dipendente",
+            "pos": "noun",
+            "back": "employee",
+            "example": "I dipendenti pubblici sono milioni.",
+            "tier": "B1",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "strumento",
+            "front": "strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Usano nuovi strumenti digitali.",
+            "tier": "B1",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "indagine",
+            "front": "indagine",
+            "pos": "noun",
+            "back": "survey, investigation",
+            "example": "Un'indagine recente lo conferma.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "intelligenza-artificiale",
+            "front": "intelligenza artificiale",
+            "pos": "phrase",
+            "back": "artificial intelligence",
+            "example": "L'intelligenza artificiale cambia il lavoro.",
+            "tier": "B1",
+            "tags": [
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "pubblica-amministrazione",
+            "front": "pubblica amministrazione",
+            "pos": "phrase",
+            "back": "public administration",
+            "example": "Lavora nella pubblica amministrazione.",
+            "tier": "B2",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "punto-di-riferimento",
+            "front": "punto di riferimento",
+            "pos": "phrase",
+            "back": "point of reference",
+            "example": "È un punto di riferimento per tutti.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "impresa",
+            "front": "impresa",
+            "pos": "noun",
+            "back": "company, business",
+            "example": "Le imprese chiedono servizi migliori.",
+            "tier": "B1",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "cittadino",
+            "front": "cittadino",
+            "pos": "noun",
+            "back": "citizen",
+            "example": "I cittadini usano i servizi online.",
+            "tier": "B1",
+            "tags": [
+              "società"
+            ]
+          },
+          {
+            "id": "secondo",
+            "front": "secondo",
+            "pos": "prep",
+            "back": "according to",
+            "example": "Secondo l'indagine, l'uso cresce.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "migliorare",
+            "front": "migliorare",
+            "pos": "verb",
+            "back": "to improve",
+            "example": "L'IA può migliorare i servizi.",
+            "tier": "B1",
+            "tags": []
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo un'indagine, l'uso cresce.",
+            "point": "'secondo' to report a source",
+            "explanation": "'secondo' + noun means 'according to' and is common when reporting data or opinions.",
+            "why_tricky": "It matches English 'according to', but learners confuse it with 'secondo' = 'second'."
+          },
+          {
+            "sentence": "I dati sono stati presentati al Forum.",
+            "point": "passive (essere + agreeing participle)",
+            "explanation": "Passive: 'sono stati presentati' — the participle agrees with the subject ('i dati', masculine plural).",
+            "why_tricky": "English participles never change; Italian ones must agree in gender and number."
+          },
+          {
+            "sentence": "Il 66% usa strumenti di IA.",
+            "point": "percentages + singular verb",
+            "explanation": "A percentage usually takes a singular verb ('il 66% usa').",
+            "why_tricky": "English often uses a plural; Italian prefers the singular here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "stare al passo coi tempi",
+            "meaning": "to keep up with the times",
+            "example": "La pubblica amministrazione vuole stare al passo coi tempi."
+          },
+          {
+            "phrase": "fare la differenza",
+            "meaning": "to make a difference",
+            "example": "Per molti, l'IA può fare la differenza."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanti dipendenti pubblici usano l'IA?",
+            "type": "factual"
+          },
+          {
+            "q": "Come viene vista la pubblica amministrazione?",
+            "type": "factual"
+          },
+          {
+            "q": "Secondo te, l'IA al lavoro è più un aiuto o un rischio?",
+            "type": "opinion"
+          }
+        ],
+        "opinion_prompt": "L'intelligenza artificiale ti aiuta nel lavoro o nello studio? Come? Scrivi ~80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-09-ponte-stretto-corruzione",
+      "title": "Ponte sullo Stretto: tre persone indagate per corruzione",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B2",
+      "topics": [
+        "crime",
+        "politics"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-ponte-stretto-corruzione",
+        "meta": {
+          "title": "Ponte sullo Stretto: tre persone indagate per corruzione",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "cronaca",
+            "politica"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "Three people, including a former senior judge, are under investigation for corruption linked to the Strait of Messina bridge project. Searches have been ordered. The inquiry names several officials.",
+        "resumen_es": "Tre persone, tra cui un ex alto giudice, sono indagate per corruzione in un'inchiesta legata al progetto del Ponte sullo Stretto. Sono state disposte alcune perquisizioni. L'inchiesta fa diversi nomi.",
+        "vocab": [
+          {
+            "id": "indagato",
+            "front": "indagato",
+            "pos": "noun/adj",
+            "back": "person under investigation, suspect",
+            "example": "Tre persone sono indagate.",
+            "tier": "B2",
+            "tags": [
+              "cronaca"
+            ]
+          },
+          {
+            "id": "corruzione",
+            "front": "corruzione",
+            "pos": "noun",
+            "back": "corruption",
+            "example": "L'accusa è di corruzione.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "inchiesta",
+            "front": "inchiesta",
+            "pos": "noun",
+            "back": "inquiry, investigation",
+            "example": "L'inchiesta va avanti da mesi.",
+            "tier": "B2",
+            "tags": [
+              "cronaca"
+            ]
+          },
+          {
+            "id": "giudice",
+            "front": "giudice",
+            "pos": "noun",
+            "back": "judge",
+            "example": "Il giudice ha firmato l'ordine.",
+            "tier": "B1",
+            "tags": [
+              "cronaca"
+            ]
+          },
+          {
+            "id": "perquisizione",
+            "front": "perquisizione",
+            "pos": "noun",
+            "back": "(police) search",
+            "example": "Hanno disposto una perquisizione.",
+            "tier": "C1",
+            "tags": [
+              "cronaca"
+            ]
+          },
+          {
+            "id": "progetto",
+            "front": "progetto",
+            "pos": "noun",
+            "back": "project, plan",
+            "example": "Il progetto del ponte è enorme.",
+            "tier": "B1",
+            "tags": []
+          },
+          {
+            "id": "legato-a",
+            "front": "legato a",
+            "pos": "phrase",
+            "back": "linked to, connected to",
+            "example": "Un caso legato al progetto.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "ex",
+            "front": "ex",
+            "pos": "adj",
+            "back": "former, ex-",
+            "example": "Un ex ministro è coinvolto.",
+            "tier": "B1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "disporre",
+            "front": "disporre",
+            "pos": "verb",
+            "back": "to order, to arrange (formal)",
+            "example": "Il giudice ha disposto i controlli.",
+            "tier": "C1",
+            "tags": []
+          },
+          {
+            "id": "tra-cui",
+            "front": "tra cui",
+            "pos": "phrase",
+            "back": "including, among whom",
+            "example": "Tre persone, tra cui un giudice.",
+            "tier": "B2",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "sospetto",
+            "front": "sospetto",
+            "pos": "noun",
+            "back": "suspicion",
+            "example": "Ci sono sospetti di corruzione.",
+            "tier": "B2",
+            "tags": [
+              "cronaca"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sono state disposte alcune perquisizioni.",
+            "point": "passive + 'alcune' (some)",
+            "explanation": "Passive 'sono state disposte' (agreeing) plus 'alcune' to mean 'some' searches.",
+            "why_tricky": "English 'some searches were ordered' keeps the verb simple; Italian agrees the participle."
+          },
+          {
+            "sentence": "Tre persone, tra cui un giudice, sono indagate.",
+            "point": "'tra cui' (among whom / including)",
+            "explanation": "'tra cui' introduces examples from a group: 'three people, including a judge'.",
+            "why_tricky": "English can say 'including' or 'among whom'; the single Italian phrase covers both."
+          },
+          {
+            "sentence": "Un'inchiesta legata al progetto.",
+            "point": "past participle as adjective + 'a' contraction",
+            "explanation": "'legato/legata a' ('linked to') agrees like an adjective; 'a + il' = 'al'.",
+            "why_tricky": "English 'linked to' doesn't change form; Italian agrees and merges the preposition."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare luce su",
+            "meaning": "to shed light on",
+            "example": "Gli inquirenti vogliono fare luce sul caso."
+          },
+          {
+            "phrase": "finire nei guai",
+            "meaning": "to get into trouble",
+            "example": "Tre persone sono finite nei guai."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Di che cosa sono accusate le tre persone?",
+            "type": "factual"
+          },
+          {
+            "q": "A quale grande progetto è legata l'inchiesta?",
+            "type": "factual"
+          },
+          {
+            "q": "Perché la corruzione nei grandi progetti è un problema?",
+            "type": "inferential"
+          }
+        ],
+        "opinion_prompt": "Perché è importante combattere la corruzione nei progetti pubblici? Scrivi ~80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-09-sanzioni-russia",
+      "title": "L'Unione Europea presenta nuove sanzioni contro la Russia",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "B2",
+      "topics": [
+        "politics",
+        "news"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-09-sanzioni-russia",
+        "meta": {
+          "title": "L'Unione Europea presenta nuove sanzioni contro la Russia",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/09/",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-09",
+          "tags": [
+            "politica",
+            "mondo"
+          ],
+          "level": "B2"
+        },
+        "summary_en": "The European Commission has presented its 21st package of sanctions against Russia, targeting energy and finance. Ursula von der Leyen said the EU's perseverance is paying off. The war continues, with strikes on Kharkiv.",
+        "resumen_es": "La Commissione europea ha presentato il 21° pacchetto di sanzioni contro la Russia, che colpisce l'energia e la finanza. Ursula von der Leyen ha detto che la costanza dell'Europa sta dando i suoi frutti. La guerra continua, con attacchi su Kharkiv.",
+        "vocab": [
+          {
+            "id": "sanzione",
+            "front": "sanzione",
+            "pos": "noun",
+            "back": "sanction",
+            "example": "L'UE prepara nuove sanzioni.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "pacchetto",
+            "front": "pacchetto",
+            "pos": "noun",
+            "back": "package, set",
+            "example": "Il nuovo pacchetto di misure è duro.",
+            "tier": "B1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "colpire",
+            "front": "colpire",
+            "pos": "verb",
+            "back": "to hit, to strike, to affect",
+            "example": "Le sanzioni colpiscono l'energia.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "costanza",
+            "front": "costanza",
+            "pos": "noun",
+            "back": "perseverance, steadiness",
+            "example": "Serve costanza per ottenere risultati.",
+            "tier": "B2",
+            "tags": []
+          },
+          {
+            "id": "guerra",
+            "front": "guerra",
+            "pos": "noun",
+            "back": "war",
+            "example": "La guerra continua da anni.",
+            "tier": "B1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "attacco",
+            "front": "attacco",
+            "pos": "noun",
+            "back": "attack",
+            "example": "Un attacco ha colpito la città.",
+            "tier": "B1",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "misura",
+            "front": "misura",
+            "pos": "noun",
+            "back": "measure, step",
+            "example": "Hanno preso misure dure.",
+            "tier": "B2",
+            "tags": [
+              "politica"
+            ]
+          },
+          {
+            "id": "finanza",
+            "front": "finanza",
+            "pos": "noun",
+            "back": "finance",
+            "example": "Le sanzioni toccano la finanza russa.",
+            "tier": "B2",
+            "tags": [
+              "economia"
+            ]
+          },
+          {
+            "id": "contro",
+            "front": "contro",
+            "pos": "prep",
+            "back": "against",
+            "example": "Sanzioni contro la Russia.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          },
+          {
+            "id": "mentre",
+            "front": "mentre",
+            "pos": "conj",
+            "back": "while, whereas",
+            "example": "Mentre la guerra continua, l'UE reagisce.",
+            "tier": "B1",
+            "tags": [
+              "conector"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Commissione ha presentato il pacchetto.",
+            "point": "passato prossimo with 'avere'",
+            "explanation": "Most verbs form the past with 'avere' + past participle ('ha presentato' = '(it) has presented').",
+            "why_tricky": "The participle does NOT agree with the subject when 'avere' is used — a common error."
+          },
+          {
+            "sentence": "Un pacchetto che colpisce l'energia.",
+            "point": "relative 'che' as subject + '-isc-' verb",
+            "explanation": "'che' links the clause ('that affects energy'); 'colpisce' is an '-isc-' verb (colpisco, colpisci, colpisce).",
+            "why_tricky": "English 'which/that' is the same, but the '-isc-' present trips learners."
+          },
+          {
+            "sentence": "La costanza dell'Europa.",
+            "point": "possession with 'di' + article ('dell'')",
+            "explanation": "Possession uses 'di' + article, merged: 'di + l'Europa' = 'dell'Europa' ('of Europe').",
+            "why_tricky": "English uses 's or 'of'; Italian merges 'di' with the article."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dare i suoi frutti",
+            "meaning": "to bear fruit, to pay off",
+            "example": "Lo sforzo dell'Europa dà i suoi frutti."
+          },
+          {
+            "phrase": "alzare la posta",
+            "meaning": "to raise the stakes",
+            "example": "Con nuove sanzioni, l'UE alza la posta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quante volte l'UE ha già sanzionato la Russia?",
+            "type": "factual"
+          },
+          {
+            "q": "Quali settori colpiscono le nuove sanzioni?",
+            "type": "factual"
+          },
+          {
+            "q": "Secondo te, le sanzioni sono uno strumento efficace? Perché?",
+            "type": "opinion"
+          }
+        ],
+        "opinion_prompt": "Pensi che le sanzioni economiche siano utili per fermare una guerra? Scrivi ~80 parole."
+      }
+    }
+  ]
+}
