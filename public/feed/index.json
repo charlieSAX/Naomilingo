@@ -193,7 +193,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "Dove ti piace andare in vacanza e con chi? Scrivi ~80 parole."
+        "opinion_prompt": "Dove ti piace andare in vacanza e con chi? Scrivi ~80 parole.",
+        "revision": 1
       }
     },
     {
@@ -383,7 +384,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "Hai mai visto un animale selvatico vicino a casa? Racconta. Scrivi ~80 parole."
+        "opinion_prompt": "Hai mai visto un animale selvatico vicino a casa? Racconta. Scrivi ~80 parole.",
+        "revision": 1
       }
     },
     {
@@ -566,7 +568,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "Segui le notizie sulle celebrità? Ti sembrano importanti? Scrivi ~80 parole."
+        "opinion_prompt": "Segui le notizie sulle celebrità? Ti sembrano importanti? Scrivi ~80 parole.",
+        "revision": 1
       }
     },
     {
@@ -749,7 +752,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "L'intelligenza artificiale ti aiuta nel lavoro o nello studio? Come? Scrivi ~80 parole."
+        "opinion_prompt": "L'intelligenza artificiale ti aiuta nel lavoro o nello studio? Come? Scrivi ~80 parole.",
+        "revision": 1
       }
     },
     {
@@ -943,7 +947,8 @@
             "type": "inferential"
           }
         ],
-        "opinion_prompt": "Perché è importante combattere la corruzione nei progetti pubblici? Scrivi ~80 parole."
+        "opinion_prompt": "Perché è importante combattere la corruzione nei progetti pubblici? Scrivi ~80 parole.",
+        "revision": 1
       }
     },
     {
@@ -1126,7 +1131,8 @@
             "type": "opinion"
           }
         ],
-        "opinion_prompt": "Pensi che le sanzioni economiche siano utili per fermare una guerra? Scrivi ~80 parole."
+        "opinion_prompt": "Pensi che le sanzioni economiche siano utili per fermare una guerra? Scrivi ~80 parole.",
+        "revision": 1
       }
     }
   ]
