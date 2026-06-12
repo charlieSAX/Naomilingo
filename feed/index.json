@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-12T00:00:00Z",
+  "generated_at": "2026-06-12T09:35:00Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
+      "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
+      "source": "ANSA",
+      "date": "2026-06-12",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "arte"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
+        "revision": 1,
+        "meta": {
+          "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/06/11/casa-leopardi-a-recanati-scoperto-affresco-databile-tra-500-e-600-nella_fd1f59a0-a85f-4847-b5a9-5408cce8e487.html",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "cultura",
+            "arte"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "At Casa Leopardi in Recanati, the home of poet Giacomo Leopardi, a cycle of frescoes hidden for centuries has been discovered in the library, dating from the 16th-17th century.",
+        "resumen_es": "A Recanati, una piccola città nelle Marche, c'è una casa molto famosa: Casa Leopardi. Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani. Ora la casa è di nuovo nelle notizie per una scoperta straordinaria. Nella biblioteca, sotto strati di pittura, sono riapparsi degli affreschi antichi, nascosti per secoli. Gli esperti dicono che le pitture sono molto vecchie: risalgono al Cinquecento o al Seicento. Nessuno sapeva che esistevano. La scoperta è emozionante anche per un altro motivo: Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare. Una discendente della famiglia ha detto che è suggestivo pensare che il poeta guardasse quelle pareti. Ora i restauratori lavorano per pulire e proteggere gli affreschi. Presto i visitatori potranno vederli. Per gli amanti dell'arte e della letteratura, è un buon motivo in più per visitare Recanati.",
+        "vocab": [
+          {
+            "front": "la scoperta",
+            "pos": "noun",
+            "back": "discovery",
+            "example": "È una scoperta straordinaria.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'affresco",
+            "pos": "noun",
+            "back": "fresco (wall painting)",
+            "example": "Gli affreschi sono molto antichi.",
+            "tier": "B1"
+          },
+          {
+            "front": "nascosto",
+            "pos": "adj",
+            "back": "hidden",
+            "example": "Le pitture erano nascoste per secoli.",
+            "tier": "B1"
+          },
+          {
+            "front": "riapparire",
+            "pos": "verb",
+            "back": "to reappear",
+            "example": "Sotto la pittura sono riapparsi gli affreschi.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strato",
+            "pos": "noun",
+            "back": "layer",
+            "example": "C'erano molti strati di pittura.",
+            "tier": "B1"
+          },
+          {
+            "front": "risalire a",
+            "pos": "phrase",
+            "back": "to date back to",
+            "example": "Le pitture risalgono al Cinquecento.",
+            "tier": "B1"
+          },
+          {
+            "front": "la biblioteca",
+            "pos": "noun",
+            "back": "library",
+            "example": "Il poeta studiava nella biblioteca di casa.",
+            "tier": "A2"
+          },
+          {
+            "front": "il poeta",
+            "pos": "noun",
+            "back": "poet",
+            "example": "Leopardi è un grande poeta italiano.",
+            "tier": "A2"
+          },
+          {
+            "front": "suggestivo",
+            "pos": "adj",
+            "back": "evocative, fascinating",
+            "example": "È suggestivo pensare alla storia di queste mura.",
+            "tier": "B1"
+          },
+          {
+            "front": "il restauratore",
+            "pos": "noun",
+            "back": "restorer",
+            "example": "I restauratori puliscono le pitture.",
+            "tier": "B1"
+          },
+          {
+            "front": "la parete",
+            "pos": "noun",
+            "back": "wall (interior)",
+            "example": "Gli affreschi sono sulle pareti della sala.",
+            "tier": "A2"
+          },
+          {
+            "front": "ore e ore",
+            "pos": "phrase",
+            "back": "hours and hours",
+            "example": "Passava ore e ore a leggere.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani.",
+            "point": "passato prossimo con essere",
+            "explanation": "'È nato' uses essere because nascere is a verb of change/state.",
+            "why_tricky": "Choosing avere or essere as auxiliary is a classic difficulty."
+          },
+          {
+            "sentence": "Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare.",
+            "point": "imperfetto per abitudini",
+            "explanation": "'Passava' describes a repeated habit in the past.",
+            "why_tricky": "English uses simple past for both habits and single events; Italian separates them."
+          },
+          {
+            "sentence": "Presto i visitatori potranno vederli.",
+            "point": "futuro semplice + pronome",
+            "explanation": "'Potranno vederli' = 'they will be able to see them'; the pronoun attaches to the infinitive.",
+            "why_tricky": "Pronoun position after the infinitive feels unusual for English speakers."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere di nuovo nelle notizie",
+            "meaning": "to be in the news again",
+            "example": "La casa del poeta è di nuovo nelle notizie."
+          },
+          {
+            "phrase": "un motivo in più",
+            "meaning": "one more reason",
+            "example": "È un motivo in più per visitare le Marche."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa è stato scoperto a Casa Leopardi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la scoperta è speciale per chi ama la letteratura?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa fanno ora i restauratori?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "C'è un luogo storico nella tua città o nel tuo paese che ami? Descrivilo e spiega perché è importante."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-12-spacex-ipo",
+      "title": "SpaceX, il giorno della più grande Ipo della storia: la compagnia di Musk debutta a Wall Street",
+      "source": "Rai News",
+      "date": "2026-06-12",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-spacex-ipo",
+        "revision": 1,
+        "meta": {
+          "title": "SpaceX, il giorno della più grande Ipo della storia: la compagnia di Musk debutta a Wall Street",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/06/spacex-il-giorno-della-piu-grande-ipo-della-storia-la-compagnia-di-musk-debutta-a-wall-street-517e673f-ad54-4352-81bb-2cfe5937754c.html",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "economia",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "SpaceX, Elon Musk's space company, is making its Wall Street debut in the biggest IPO in history, aiming to raise 75 billion dollars and making thousands of employees rich.",
+        "resumen_es": "Oggi è un giorno importante per la finanza mondiale. SpaceX, la compagnia spaziale di Elon Musk, debutta in Borsa a Wall Street. Gli esperti la chiamano la più grande Ipo della storia. Ipo è una sigla inglese: significa che, per la prima volta, tutti possono comprare azioni della società. L'obiettivo è enorme: raccogliere 75 miliardi di dollari. I numeri sorprendono anche per un altro motivo. Secondo le stime, circa 4.400 dipendenti di SpaceX diventeranno milionari, perché possiedono azioni della compagnia. SpaceX costruisce razzi e satelliti e porta astronauti nello spazio. Per molti anni è stata una società privata. Ora, con i soldi della Borsa, vuole crescere ancora: nuovi viaggi spaziali, più satelliti per internet e, un giorno, forse, l'arrivo dell'uomo su Marte. I mercati europei guardano con interesse, e anche le borse italiane oggi sono in festa.",
+        "vocab": [
+          {
+            "front": "debuttare",
+            "pos": "verb",
+            "back": "to debut, to make a first appearance",
+            "example": "La società debutta in Borsa oggi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la Borsa",
+            "pos": "noun",
+            "back": "stock exchange",
+            "example": "La Borsa di Milano è in festa.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'azione",
+            "pos": "noun",
+            "back": "share (in a company)",
+            "example": "Tutti possono comprare azioni della società.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccogliere",
+            "pos": "verb",
+            "back": "to raise, to collect",
+            "example": "Vogliono raccogliere 75 miliardi di dollari.",
+            "tier": "B1"
+          },
+          {
+            "front": "il miliardo",
+            "pos": "noun",
+            "back": "billion",
+            "example": "Un miliardo è mille milioni.",
+            "tier": "A2"
+          },
+          {
+            "front": "il dipendente",
+            "pos": "noun",
+            "back": "employee",
+            "example": "Molti dipendenti diventeranno ricchi.",
+            "tier": "B1"
+          },
+          {
+            "front": "diventare",
+            "pos": "verb",
+            "back": "to become",
+            "example": "Diventeranno milionari con le azioni.",
+            "tier": "A2"
+          },
+          {
+            "front": "possedere",
+            "pos": "verb",
+            "back": "to own",
+            "example": "Possiedono azioni della compagnia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il razzo",
+            "pos": "noun",
+            "back": "rocket",
+            "example": "SpaceX costruisce razzi e satelliti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stima",
+            "pos": "noun",
+            "back": "estimate",
+            "example": "Secondo le stime, saranno in 4.400.",
+            "tier": "B1"
+          },
+          {
+            "front": "il mercato",
+            "pos": "noun",
+            "back": "market",
+            "example": "I mercati europei guardano con interesse.",
+            "tier": "A2"
+          },
+          {
+            "front": "essere in festa",
+            "pos": "phrase",
+            "back": "to be celebrating",
+            "example": "Le borse italiane sono in festa.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "per la prima volta, tutti possono comprare azioni della società",
+            "point": "potere + infinito",
+            "explanation": "'Possono comprare' = 'can buy'; modal verb plus infinitive.",
+            "why_tricky": "Simple structure, but learners forget to conjugate only the modal."
+          },
+          {
+            "sentence": "circa 4.400 dipendenti di SpaceX diventeranno milionari",
+            "point": "futuro semplice",
+            "explanation": "'Diventeranno' expresses a future prediction.",
+            "why_tricky": "Italian often uses the present for the near future, but predictions take the future tense."
+          },
+          {
+            "sentence": "Per molti anni è stata una società privata.",
+            "point": "passato prossimo con essere (durata conclusa)",
+            "explanation": "'È stata' describes a finished period in the past.",
+            "why_tricky": "English would say 'was' (simple past); Italian uses the compound past."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "guardare con interesse",
+            "meaning": "to watch with interest",
+            "example": "Gli investitori guardano con interesse il debutto."
+          },
+          {
+            "phrase": "un giorno, forse",
+            "meaning": "one day, maybe",
+            "example": "Un giorno, forse, andremo su Marte."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa succede oggi a Wall Street?",
+            "type": "open"
+          },
+          {
+            "q": "Perché 4.400 dipendenti diventeranno milionari?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa vuole fare SpaceX con i soldi raccolti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Compreresti azioni di una compagnia spaziale? Perché sì o perché no?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-12-birrificio-fotovoltaico",
+      "title": "Oltre 15 mila pannelli fotovoltaici per alimentare il birrificio di Assemini",
+      "source": "ANSA",
+      "date": "2026-06-12",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-12-birrificio-fotovoltaico",
+        "revision": 1,
+        "meta": {
+          "title": "Oltre 15 mila pannelli fotovoltaici per alimentare il birrificio di Assemini",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/ansacom/notizie/ansa2030/ichnusa/2026/06/11/oltre-15-mila-pannelli-fotovoltaici-per-alimentare-il-birrificio-di-assemini_80fffcca-2cb1-469c-a60f-db85ed1358a0.html",
+          "date_published": "2026-06-12",
+          "date_processed": "2026-06-12",
+          "tags": [
+            "ambiente",
+            "economia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A brewery in Assemini, Sardinia, has installed more than 15,000 solar panels covering nearly 14 hectares; the plant now covers all of the site's daytime energy needs.",
+        "resumen_es": "In Sardegna c'è una novità che unisce la birra e il sole. Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico: oltre 15 mila pannelli solari su quasi 14 ettari di terreno. È una superficie enorme, come molti campi da calcio insieme. Grazie a questi pannelli, il birrificio copre tutto il suo fabbisogno di energia durante il giorno. In altre parole: quando c'è il sole, la fabbrica produce birra con energia pulita. Il progetto è un buon esempio di come l'industria può diventare più sostenibile. In Italia sempre più aziende investono nelle energie rinnovabili: il sole non manca, soprattutto nel sud del paese e nelle isole. Così si risparmia denaro e si proteggono l'ambiente e il clima. E i clienti? Per loro la birra ha lo stesso sapore di sempre, ma adesso, dietro ogni bottiglia, c'è anche un po' di energia del sole sardo.",
+        "vocab": [
+          {
+            "front": "il birrificio",
+            "pos": "noun",
+            "back": "brewery",
+            "example": "Il birrificio si trova vicino a Cagliari.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pannello solare",
+            "pos": "phrase",
+            "back": "solar panel",
+            "example": "Hanno installato 15 mila pannelli solari.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'impianto",
+            "pos": "noun",
+            "back": "plant, installation, system",
+            "example": "L'impianto fotovoltaico è enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ettaro",
+            "pos": "noun",
+            "back": "hectare",
+            "example": "Il terreno misura quasi 14 ettari.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fabbisogno",
+            "pos": "noun",
+            "back": "(energy) needs, requirement",
+            "example": "I pannelli coprono il fabbisogno diurno.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'energia pulita",
+            "pos": "phrase",
+            "back": "clean energy",
+            "example": "La fabbrica usa energia pulita.",
+            "tier": "A2"
+          },
+          {
+            "front": "sostenibile",
+            "pos": "adj",
+            "back": "sustainable",
+            "example": "L'industria vuole diventare più sostenibile.",
+            "tier": "B1"
+          },
+          {
+            "front": "investire in",
+            "pos": "phrase",
+            "back": "to invest in",
+            "example": "Molte aziende investono nelle rinnovabili.",
+            "tier": "B1"
+          },
+          {
+            "front": "le energie rinnovabili",
+            "pos": "phrase",
+            "back": "renewable energy",
+            "example": "Le energie rinnovabili crescono in Italia.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (money, energy)",
+            "example": "Con il sole si risparmia denaro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ambiente",
+            "pos": "noun",
+            "back": "environment",
+            "example": "Proteggere l'ambiente è importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sapore",
+            "pos": "noun",
+            "back": "taste, flavour",
+            "example": "La birra ha lo stesso sapore di sempre.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico",
+            "point": "passato prossimo con avere",
+            "explanation": "'Ha installato': transitive verb, auxiliary avere.",
+            "why_tricky": "Contrast with verbs that take essere; transitive verbs use avere."
+          },
+          {
+            "sentence": "Così si risparmia denaro e si proteggono l'ambiente e il clima.",
+            "point": "si impersonale / si passivante",
+            "explanation": "'Si risparmia', 'si proteggono': the 'si' construction; the verb agrees with what follows.",
+            "why_tricky": "Singular 'si risparmia denaro' but plural 'si proteggono l'ambiente e il clima'."
+          },
+          {
+            "sentence": "Il progetto è un buon esempio di come l'industria può diventare più sostenibile.",
+            "point": "di come + indicativo",
+            "explanation": "'Un esempio di come...' introduces an explanatory clause.",
+            "why_tricky": "Learners expect the subjunctive; the indicative is normal here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in altre parole",
+            "meaning": "in other words",
+            "example": "In altre parole, la fabbrica funziona con il sole."
+          },
+          {
+            "phrase": "lo stesso di sempre",
+            "meaning": "the same as always",
+            "example": "Il gusto è lo stesso di sempre."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha installato il birrificio di Assemini?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa copre l'impianto durante il giorno?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'Italia è un buon paese per l'energia solare?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Le aziende dovrebbero essere obbligate a usare energie rinnovabili? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-06-09-partenze-giugno",
       "title": "Con la fine della scuola, 16 milioni di italiani partono in vacanza",
