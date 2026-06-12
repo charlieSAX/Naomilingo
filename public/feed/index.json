@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T19:00:00Z",
-  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines — open the original via each article's link for the full text.",
+  "generated_at": "2026-06-12T00:00:00Z",
+  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
     {
       "pack_id": "feed-2026-06-09-partenze-giugno",
@@ -27,7 +27,7 @@
           "level": "B1"
         },
         "summary_en": "With school over, about 16 million Italians are setting off on holiday already in June. Most want the sea and prefer to stay in Italy. The tourism sector expects billions in business.",
-        "resumen_es": "Con la fine della scuola, circa 16 milioni di italiani partono in vacanza già a giugno. La maggior parte vuole il mare e preferisce restare in Italia. Il settore del turismo prevede un grande giro d'affari.",
+        "resumen_es": "La scuola è finita e per molti italiani iniziano le vacanze. Secondo le stime, circa 16 milioni di persone partono già a giugno, senza aspettare l'estate piena. È un numero molto alto, e dice una cosa chiara: gli italiani amano partire presto, quando i prezzi sono più bassi e le spiagge sono meno piene. La maggior parte dei viaggiatori sceglie il mare. Le mete preferite sono le coste italiane: la Puglia, la Sicilia, la Sardegna, la Romagna. Molti preferiscono restare in Italia invece di andare all'estero. Le vacanze sono spesso brevi, una settimana o anche meno, ma quasi tutti vogliono almeno qualche giorno di riposo dopo un anno di lavoro e di scuola. Per il settore del turismo è un momento d'oro. Alberghi, ristoranti, stabilimenti balneari e treni si preparano a un grande giro d'affari, che vale miliardi di euro. Giugno, insomma, non è più un mese di attesa: è già estate.",
         "vocab": [
           {
             "id": "partenza",
@@ -221,7 +221,7 @@
           "level": "B1"
         },
         "summary_en": "A bear was filmed at night running through the streets of a village in Valtellina, in northern Italy. A driver recorded the animal as it fled. Sightings near homes are becoming more frequent.",
-        "resumen_es": "Un orso è stato filmato di notte mentre correva tra le case di un paese in Valtellina, nel nord Italia. Un automobilista ha ripreso l'animale in fuga. Avvistamenti come questo, vicino alle case, sono sempre più frequenti.",
+        "resumen_es": "Una notte, in un piccolo paese della Valtellina, nel nord Italia, è successa una cosa sorprendente. Un orso è stato filmato mentre correva tra le case, in mezzo alla strada. Un automobilista ha visto l'animale e lo ha ripreso con il telefono. Nel video si vede l'orso che corre veloce e poi scappa nel buio. Per fortuna nessuno si è fatto male. L'orso aveva probabilmente paura ed è tornato presto verso i boschi e le montagne. Ma il video ha fatto il giro dei social e ha riaperto una discussione importante. Gli avvistamenti di orsi e di lupi vicino alle case sono sempre più frequenti nelle Alpi. Gli animali selvatici cercano cibo e nuovi territori, e a volte arrivano fino ai paesi. Alcuni abitanti hanno paura, altri sono contenti di vedere la natura così vicina. Gli esperti ricordano le regole: non avvicinarsi mai, non dare cibo e avvisare subito le autorità.",
         "vocab": [
           {
             "id": "orso",
@@ -410,7 +410,7 @@
           "level": "B1"
         },
         "summary_en": "Bookmakers are taking bets on where pop star Taylor Swift will marry Travis Kelce. The secret location is worth millions to the betting industry. Fans are trying to guess too.",
-        "resumen_es": "Gli allibratori accettano scommesse su dove la popstar Taylor Swift sposerà Travis Kelce. Il luogo segreto vale milioni per le agenzie di scommesse. Anche i fan provano a indovinare.",
+        "resumen_es": "Dove si sposerà Taylor Swift? È la domanda del momento, e vale milioni. La popstar americana sposerà Travis Kelce, giocatore di football americano, ma il luogo del matrimonio è ancora segreto. Così gli allibratori, cioè le agenzie di scommesse, hanno aperto le scommesse: si può puntare denaro sulla città e sul paese delle nozze. C'è chi dice gli Stati Uniti, magari il Tennessee, dove la cantante ha una casa. C'è chi sogna un matrimonio in Europa, forse in Italia, magari sul lago di Como, un posto amato dalle star di Hollywood. Ogni indizio diventa importante: un viaggio, una foto, una parola in un'intervista. Anche i fan giocano a indovinare sui social. Per l'industria delle scommesse questo segreto vale milioni di euro. E per Taylor Swift? Probabilmente la privacy non ha prezzo. Una cosa è sicura: quando la notizia arriverà, ne parlerà tutto il mondo.",
         "vocab": [
           {
             "id": "nozze",
@@ -594,7 +594,7 @@
           "level": "B2"
         },
         "summary_en": "A survey found that 66% of Italian public-sector employees now use AI tools in their work. Many see the public administration as a reference point for citizens and businesses. The findings were presented at Forum PA.",
-        "resumen_es": "Secondo un'indagine, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale al lavoro. Molti considerano la pubblica amministrazione un punto di riferimento per cittadini e imprese. I dati sono stati presentati al Forum PA.",
+        "resumen_es": "L'intelligenza artificiale è entrata negli uffici pubblici italiani. Secondo un'indagine presentata al Forum PA, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale al lavoro. È un numero alto: due persone su tre. I dipendenti usano l'IA per scrivere testi, cercare informazioni, preparare documenti e rispondere ai cittadini. Molti dicono che così il lavoro è più veloce e più semplice. Molti intervistati pensano anche che la pubblica amministrazione debba essere un punto di riferimento per cittadini e imprese: deve mostrare come usare bene queste nuove tecnologie. Ma ci sono anche dubbi e paure. Serve formazione, perché non tutti sanno usare bene questi strumenti. Servono regole chiare, per proteggere i dati delle persone. E serve attenzione, perché l'IA a volte sbaglia. Il messaggio dell'indagine è chiaro: l'intelligenza artificiale è già qui, anche nello Stato. Ora bisogna imparare a usarla bene, con intelligenza umana.",
         "vocab": [
           {
             "id": "dipendente",
@@ -713,7 +713,7 @@
           {
             "sentence": "I dati sono stati presentati al Forum.",
             "point": "passive (essere + agreeing participle)",
-            "explanation": "Passive: 'sono stati presentati' — the participle agrees with the subject ('i dati', masculine plural).",
+            "explanation": "Passive: 'sono stati presentati', the participle agrees with the subject ('i dati', masculine plural).",
             "why_tricky": "English participles never change; Italian ones must agree in gender and number."
           },
           {
@@ -777,7 +777,7 @@
           "level": "B2"
         },
         "summary_en": "Three people, including a former senior judge, are under investigation for corruption linked to the Strait of Messina bridge project. Searches have been ordered. The inquiry names several officials.",
-        "resumen_es": "Tre persone, tra cui un ex alto giudice, sono indagate per corruzione in un'inchiesta legata al progetto del Ponte sullo Stretto. Sono state disposte alcune perquisizioni. L'inchiesta fa diversi nomi.",
+        "resumen_es": "Il Ponte sullo Stretto di Messina è un progetto famoso e discusso da decenni: un ponte enorme per unire la Sicilia e la Calabria. Ora il progetto è di nuovo nelle notizie, ma per un motivo diverso. Tre persone sono indagate per corruzione, e tra loro c'è anche un ex alto giudice. Secondo l'inchiesta, queste persone avrebbero ricevuto o promesso denaro per favorire interessi privati legati al grande progetto. La polizia ha fatto perquisizioni in uffici e case, cercando documenti e prove. L'inchiesta fa diversi nomi e potrebbe crescere nelle prossime settimane. Gli indagati si dicono innocenti, e l'indagine è solo all'inizio. Il caso è delicato perché il ponte è un'opera pubblica enorme, che vale molti miliardi di euro. I lavori sono appena cominciati, e i critici del progetto ora hanno un argomento in più. Il governo, invece, difende l'opera e vuole andare avanti.",
         "vocab": [
           {
             "id": "indagato",
@@ -971,7 +971,7 @@
           "level": "B2"
         },
         "summary_en": "The European Commission has presented its 21st package of sanctions against Russia, targeting energy and finance. Ursula von der Leyen said the EU's perseverance is paying off. The war continues, with strikes on Kharkiv.",
-        "resumen_es": "La Commissione europea ha presentato il 21° pacchetto di sanzioni contro la Russia, che colpisce l'energia e la finanza. Ursula von der Leyen ha detto che la costanza dell'Europa sta dando i suoi frutti. La guerra continua, con attacchi su Kharkiv.",
+        "resumen_es": "L'Unione Europea ha presentato un nuovo pacchetto di sanzioni contro la Russia, il numero 21 dall'inizio della guerra in Ucraina. Le nuove misure colpiscono soprattutto due settori: l'energia e la finanza. L'obiettivo è semplice: ridurre i soldi che la Russia può usare per la guerra. La presidente della Commissione europea, Ursula von der Leyen, ha difeso questa strategia. Ha detto che la costanza dell'Europa sta dando i suoi frutti e che l'economia russa è sotto pressione. Le sanzioni devono ancora essere approvate da tutti i paesi membri, e non è sempre facile: alcuni governi hanno dubbi e chiedono modifiche. Intanto la guerra continua. Nelle stesse ore, nuovi attacchi russi hanno colpito la città ucraina di Kharkiv, causando danni e feriti. Dopo anni di conflitto, la pace resta purtroppo ancora lontana. L'Europa, intanto, prova a usare la sua arma più forte: quella economica.",
         "vocab": [
           {
             "id": "sanzione",
@@ -1085,7 +1085,7 @@
             "sentence": "La Commissione ha presentato il pacchetto.",
             "point": "passato prossimo with 'avere'",
             "explanation": "Most verbs form the past with 'avere' + past participle ('ha presentato' = '(it) has presented').",
-            "why_tricky": "The participle does NOT agree with the subject when 'avere' is used — a common error."
+            "why_tricky": "The participle does NOT agree with the subject when 'avere' is used, a common error."
           },
           {
             "sentence": "Un pacchetto che colpisce l'energia.",

@@ -8,7 +8,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 // (Vite base, PWA manifest scope, start_url, service-worker registration)
 // is derived from it. If you deploy at the domain root instead, set REPO = ''.
 // ─────────────────────────────────────────────────────────────────────────────
-const REPO = 'naomilingo'
+const REPO = 'Naomilingo'
 const BASE = REPO ? `/${REPO}/` : '/'
 
 export default defineConfig({

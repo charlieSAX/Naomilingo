@@ -37,7 +37,7 @@ export const SAMPLE_PACKS: StudyPack[] = [
       { id: 'soprattutto', front: 'soprattutto', pos: 'adv', back: 'above all, especially', example: 'Soprattutto i giovani cucinano di più.', tier: 'B1', tags: ['conector'] },
     ],
     grammar: [
-      { sentence: 'Mi piace cucinare.', point: "the verb 'piacere' (to like)", explanation: "'piacere' works backwards: the thing liked is the subject and the person is an indirect object — 'mi piace' = 'it is pleasing to me'.", why_tricky: "English 'I like' makes the person the subject; Italian flips it." },
+      { sentence: 'Mi piace cucinare.', point: "the verb 'piacere' (to like)", explanation: "'piacere' works backwards: the thing liked is the subject and the person is an indirect object; 'mi piace' = 'it is pleasing to me'.", why_tricky: "English 'I like' makes the person the subject; Italian flips it." },
       { sentence: 'Sempre più italiani cucinano a casa.', point: "'sempre più' (more and more)", explanation: "'sempre più' + noun or adjective expresses an increasing amount ('more and more').", why_tricky: 'There is no single word for it in English; learners translate it literally.' },
       { sentence: 'Cucinare a casa aiuta a risparmiare.', point: "verb + 'a' + infinitive ('aiutare a')", explanation: "Some Italian verbs need 'a' before an infinitive: 'aiutare a', 'imparare a', 'cominciare a'.", why_tricky: "English uses 'to' or nothing; the required 'a' is easy to forget." },
     ],
