@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-12T09:35:00Z",
+  "generated_at": "2026-06-15T10:21:40Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-15-art-nouveau-week",
+      "title": "Torna l'Art Nouveau Week, viaggio in Europa sulle tracce del Liberty",
+      "source": "ANSA",
+      "date": "2026-06-15",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "viaggi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-art-nouveau-week",
+        "revision": 1,
+        "meta": {
+          "title": "Torna l'Art Nouveau Week, viaggio in Europa sulle tracce del Liberty",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/06/14/torna-lart-nouveau-week-viaggio-in-europa-sulle-tracce-del-liberty_af9bdfb6-c8bc-4a16-a64c-1c196de16533.html",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "cultura",
+            "viaggi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Art Nouveau Week returns from July 8 to 14, opening around 1,500 historic sites in more than 300 European cities. Art Nouveau (called Liberty in Italy) is a style from the late 1800s and early 1900s, with curved lines, flowers and soft colors seen in palaces, houses, shops and cafes. Visitors can enter buildings usually closed and join guided tours, making it a great chance to discover hidden heritage.",
+        "resumen_es": "Torna l'Art Nouveau Week, una settimana dedicata all'arte e all'architettura del Liberty. L'evento va dall'8 al 14 luglio. In questi giorni aprono al pubblico circa 1500 luoghi storici. Sono in più di 300 città di tutta Europa. Il Liberty è uno stile artistico di fine Ottocento e inizio Novecento. Usa linee curve, fiori, piante e colori delicati. Possiamo vederlo nei palazzi, nelle case, nei negozi e nei caffè di molte città europee. Durante la settimana, i visitatori possono entrare in edifici di solito chiusi. Possono anche fare visite guidate e belle passeggiate. È un'ottima occasione per scoprire un patrimonio nascosto. Inoltre, è un modo semplice per viaggiare e conoscere la storia dell'arte. L'iniziativa unisce tante città e tanti Paesi diversi. Per gli amanti dell'arte, è un appuntamento da non perdere. Se vi piace l'architettura, potete organizzare un bel viaggio in Europa.",
+        "vocab": [
+          {
+            "front": "tornare",
+            "pos": "verb",
+            "back": "to return, to come back",
+            "example": "L'evento torna ogni anno.",
+            "tier": "A2"
+          },
+          {
+            "front": "la settimana",
+            "pos": "noun",
+            "back": "week",
+            "example": "La prossima settimana vado a Roma.",
+            "tier": "A2"
+          },
+          {
+            "front": "dedicato a",
+            "pos": "phrase",
+            "back": "dedicated to",
+            "example": "Il museo è dedicato all'arte moderna.",
+            "tier": "B1"
+          },
+          {
+            "front": "aprire al pubblico",
+            "pos": "phrase",
+            "back": "to open to the public",
+            "example": "Il giardino apre al pubblico in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "il luogo",
+            "pos": "noun",
+            "back": "place",
+            "example": "È un luogo molto bello e tranquillo.",
+            "tier": "A2"
+          },
+          {
+            "front": "storico",
+            "pos": "adj",
+            "back": "historic, old",
+            "example": "Visitiamo il centro storico della città.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo stile",
+            "pos": "noun",
+            "back": "style",
+            "example": "Mi piace lo stile di questa casa.",
+            "tier": "A2"
+          },
+          {
+            "front": "le linee curve",
+            "pos": "phrase",
+            "back": "curved lines",
+            "example": "Il disegno ha tante linee curve.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'edificio",
+            "pos": "noun",
+            "back": "building",
+            "example": "Quell'edificio è molto alto.",
+            "tier": "A2"
+          },
+          {
+            "front": "la visita guidata",
+            "pos": "phrase",
+            "back": "guided tour",
+            "example": "Facciamo una visita guidata del castello.",
+            "tier": "B1"
+          },
+          {
+            "front": "scoprire",
+            "pos": "verb",
+            "back": "to discover",
+            "example": "Voglio scoprire posti nuovi.",
+            "tier": "A2"
+          },
+          {
+            "front": "il patrimonio",
+            "pos": "noun",
+            "back": "heritage",
+            "example": "L'Italia ha un grande patrimonio culturale.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'appuntamento",
+            "pos": "noun",
+            "back": "appointment, event, date",
+            "example": "È un appuntamento importante per tutti.",
+            "tier": "A2"
+          },
+          {
+            "front": "da non perdere",
+            "pos": "phrase",
+            "back": "not to be missed",
+            "example": "Questo film è da non perdere.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante la settimana, i visitatori possono entrare in edifici di solito chiusi.",
+            "point": "Verbo modale 'potere' + infinito",
+            "explanation": "Dopo 'possono' (verbo potere) usiamo l'infinito 'entrare'. Il modale esprime la possibilita di fare qualcosa.",
+            "why_tricky": "Il secondo verbo resta all'infinito e non si coniuga: si dice 'possono entrare', non 'possono entrano'."
+          },
+          {
+            "sentence": "Se vi piace l'architettura, potete organizzare un bel viaggio in Europa.",
+            "point": "Periodo ipotetico reale (se + presente, presente)",
+            "explanation": "Con 'se' + presente esprimiamo una condizione reale e possibile; nella seconda parte usiamo di nuovo il presente.",
+            "why_tricky": "Il verbo 'piacere' si usa con il pronome ('vi piace') e cambia secondo la cosa che piace."
+          },
+          {
+            "sentence": "Possiamo vederlo nei palazzi, nelle case, nei negozi e nei caffè di molte città europee.",
+            "point": "Preposizioni articolate (in + articolo)",
+            "explanation": "'Nei', 'nelle' nascono da 'in' + articolo (in + i = nei; in + le = nelle). Indicano dove si trova qualcosa.",
+            "why_tricky": "Bisogna scegliere l'articolo giusto secondo il genere e il numero del nome che segue."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da non perdere",
+            "meaning": "qualcosa di molto bello, che vale la pena vedere",
+            "example": "La mostra è davvero da non perdere."
+          },
+          {
+            "phrase": "un'ottima occasione",
+            "meaning": "una buona opportunita",
+            "example": "È un'ottima occasione per imparare."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando si svolge l'Art Nouveau Week?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa possono fare i visitatori durante la settimana?",
+            "type": "open"
+          },
+          {
+            "q": "Com'è lo stile Liberty? Descrivilo con parole tue.",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace visitare città storiche? Scrivi qualche frase su un viaggio o un luogo che vorresti vedere."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-15-maturita-intelligenza-artificiale",
+      "title": "Maturità, 3 maturandi su 4 si sono preparati con l'IA",
+      "source": "ANSA",
+      "date": "2026-06-15",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-maturita-intelligenza-artificiale",
+        "revision": 1,
+        "meta": {
+          "title": "Maturità, 3 maturandi su 4 si sono preparati con l'IA",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/14/maturita-3-maturandi-su-4-si-sono-preparati-con-lia_ffb78d3f-cfcc-4d66-9bf0-bf93ca21dbc7.html",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "scuola",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy, a survey suggests three out of four students preparing for the final school exam (maturita) used artificial intelligence to study. AI helps them revise, summarize texts and explain difficult topics, and many now use it instead of traditional study groups. But it carries risks, since AI sometimes gives wrong answers, so teachers advise always checking the information. AI can be a useful aid, but it does not replace real study.",
+        "resumen_es": "In Italia molti studenti si preparano per la maturità, l'esame finale della scuola superiore. Quest'anno c'è una novità importante. Secondo un'indagine, tre studenti su quattro hanno usato l'intelligenza artificiale per studiare. L'IA aiuta a ripassare, a riassumere i testi e a spiegare gli argomenti difficili. Molti ragazzi la usano al posto dei vecchi gruppi di studio. Prima, infatti, gli studenti si incontravano per studiare insieme. Adesso preferiscono fare domande al computer. Questo strumento è veloce e disponibile a ogni ora. Però ci sono anche dei rischi. A volte l'intelligenza artificiale dà risposte sbagliate. Per questo gli insegnanti consigliano di controllare sempre le informazioni. L'IA può essere un aiuto utile, ma non sostituisce lo studio vero. Gli studenti devono ancora leggere, capire e ricordare. La tecnologia cambia il modo di imparare, ma la testa resta sempre la cosa più importante.",
+        "vocab": [
+          {
+            "front": "la maturità",
+            "pos": "noun",
+            "back": "final secondary-school exam",
+            "example": "Mio fratello fa la maturità a giugno.",
+            "tier": "B1"
+          },
+          {
+            "front": "prepararsi",
+            "pos": "verb",
+            "back": "to prepare (oneself)",
+            "example": "Mi preparo per l'esame.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'esame",
+            "pos": "noun",
+            "back": "exam",
+            "example": "Domani ho un esame difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la scuola superiore",
+            "pos": "phrase",
+            "back": "high school",
+            "example": "Frequenta la scuola superiore.",
+            "tier": "A2"
+          },
+          {
+            "front": "la novità",
+            "pos": "noun",
+            "back": "news, novelty",
+            "example": "C'è una novità interessante.",
+            "tier": "A2"
+          },
+          {
+            "front": "secondo",
+            "pos": "prep",
+            "back": "according to",
+            "example": "Secondo me, hai ragione.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'indagine",
+            "pos": "noun",
+            "back": "survey, investigation",
+            "example": "L'indagine mostra dati nuovi.",
+            "tier": "B1"
+          },
+          {
+            "front": "ripassare",
+            "pos": "verb",
+            "back": "to revise, to review",
+            "example": "Devo ripassare la lezione.",
+            "tier": "A2"
+          },
+          {
+            "front": "riassumere",
+            "pos": "verb",
+            "back": "to summarise",
+            "example": "Puoi riassumere il testo?",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Il telefono è uno strumento utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "il rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "C'è il rischio di sbagliare.",
+            "tier": "B1"
+          },
+          {
+            "front": "sbagliato",
+            "pos": "adj",
+            "back": "wrong, mistaken",
+            "example": "La risposta è sbagliata.",
+            "tier": "A2"
+          },
+          {
+            "front": "consigliare",
+            "pos": "verb",
+            "back": "to advise, to recommend",
+            "example": "Ti consiglio questo libro.",
+            "tier": "A2"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Il computer non sostituisce il professore.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo un'indagine, tre studenti su quattro hanno usato l'intelligenza artificiale per studiare.",
+            "point": "Passato prossimo con 'avere'",
+            "explanation": "'Hanno usato' e' passato prossimo: si forma con il presente di 'avere' + il participio passato 'usato'. Indica un'azione finita.",
+            "why_tricky": "Con il verbo 'avere' il participio non cambia: si dice sempre 'usato', anche con un soggetto plurale."
+          },
+          {
+            "sentence": "Prima, infatti, gli studenti si incontravano per studiare insieme.",
+            "point": "Imperfetto per abitudini del passato",
+            "explanation": "'Si incontravano' e' imperfetto e descrive un'abitudine che si ripeteva nel passato.",
+            "why_tricky": "Si confonde con il passato prossimo: l'imperfetto si usa per azioni ripetute o senza fine precisa."
+          },
+          {
+            "sentence": "Per questo gli insegnanti consigliano di controllare sempre le informazioni.",
+            "point": "'Consigliare di' + infinito",
+            "explanation": "Dopo 'consigliare' usiamo 'di' + infinito ('di controllare') per dare un suggerimento.",
+            "why_tricky": "Bisogna ricordare la preposizione 'di', che in inglese non c'e' ('advise to check')."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "al posto di",
+            "meaning": "invece di, in sostituzione di",
+            "example": "Bevo tè al posto del caffè."
+          },
+          {
+            "phrase": "per questo",
+            "meaning": "per questa ragione, ecco perche",
+            "example": "Piove, per questo resto a casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come usano gli studenti l'intelligenza artificiale per la maturità?",
+            "type": "open"
+          },
+          {
+            "q": "Quali rischi ha l'uso dell'IA secondo il testo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'IA non può sostituire lo studio vero?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Tu useresti l'intelligenza artificiale per studiare? Scrivi qualche frase con i pro e i contro."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-15-elasmosauro-asta",
+      "title": "All'asta uno scheletro di Elasmosaurus lungo 9 metri, base stimata 200mila euro",
+      "source": "ANSA",
+      "date": "2026-06-15",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "natura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-15-elasmosauro-asta",
+        "revision": 1,
+        "meta": {
+          "title": "All'asta uno scheletro di Elasmosaurus lungo 9 metri, base stimata 200mila euro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/06/14/allasta-uno-scheletro-di-elasmosaurus-lungo-9-metri-base-stimata-200mila-euro_e2463dee-f21c-4760-9bb3-fbdd098c1cbf.html",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-15",
+          "tags": [
+            "scienza",
+            "natura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In France, an almost complete skeleton of an Elasmosaurus, a large ancient sea reptile with a very long neck, will go up for auction. The roughly nine-metre fossil has a starting price of about 200,000 euros, though the final price could be far higher, with museums and private collectors interested. Some scientists worry that important fossils end up in private homes where the public cannot see them, and prefer such finds to be kept in museums.",
+        "resumen_es": "In Francia un fossile molto speciale andrà all'asta. È lo scheletro di un Elasmosauro, un grande rettile marino del passato. Questo animale viveva nel mare milioni di anni fa. Aveva un collo lunghissimo e quattro pinne grandi. Lo scheletro misura circa nove metri. È quasi completo e per questo è molto raro. La vendita avrà luogo il 21 giugno, allo zoo di Beauval, in Francia. Il prezzo di partenza è di circa 200mila euro. Però il prezzo finale potrebbe essere molto più alto. Molti musei e collezionisti privati sono interessati. Alcuni scienziati, però, non sono contenti. Hanno paura che fossili così importanti finiscano nelle case private. In questo modo, infatti, il pubblico non può più vederli. La scienza preferisce conservare questi reperti nei musei. Così tutti possono ammirarli e studiare la storia della Terra.",
+        "vocab": [
+          {
+            "front": "il fossile",
+            "pos": "noun",
+            "back": "fossil",
+            "example": "Hanno trovato un fossile antico.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo scheletro",
+            "pos": "noun",
+            "back": "skeleton",
+            "example": "Lo scheletro è esposto al museo.",
+            "tier": "B1"
+          },
+          {
+            "front": "andare all'asta",
+            "pos": "phrase",
+            "back": "to go up for auction",
+            "example": "Il quadro andrà all'asta domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rettile",
+            "pos": "noun",
+            "back": "reptile",
+            "example": "Il coccodrillo è un rettile.",
+            "tier": "B1"
+          },
+          {
+            "front": "il collo",
+            "pos": "noun",
+            "back": "neck",
+            "example": "La giraffa ha un collo lungo.",
+            "tier": "A2"
+          },
+          {
+            "front": "la pinna",
+            "pos": "noun",
+            "back": "fin",
+            "example": "Il pesce muove le pinne.",
+            "tier": "A2"
+          },
+          {
+            "front": "misurare",
+            "pos": "verb",
+            "back": "to measure, to be (a length)",
+            "example": "La stanza misura quattro metri.",
+            "tier": "A2"
+          },
+          {
+            "front": "raro",
+            "pos": "adj",
+            "back": "rare",
+            "example": "È un animale molto raro.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vendita",
+            "pos": "noun",
+            "back": "sale",
+            "example": "La vendita comincia alle dieci.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere luogo",
+            "pos": "phrase",
+            "back": "to take place",
+            "example": "La festa avrà luogo sabato.",
+            "tier": "B1"
+          },
+          {
+            "front": "il prezzo di partenza",
+            "pos": "phrase",
+            "back": "starting price",
+            "example": "Il prezzo di partenza è basso.",
+            "tier": "B1"
+          },
+          {
+            "front": "il collezionista",
+            "pos": "noun",
+            "back": "collector",
+            "example": "Il collezionista compra quadri antichi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il reperto",
+            "pos": "noun",
+            "back": "(archaeological) find",
+            "example": "Il reperto è molto prezioso.",
+            "tier": "B1"
+          },
+          {
+            "front": "ammirare",
+            "pos": "verb",
+            "back": "to admire",
+            "example": "I turisti ammirano la statua.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Questo animale viveva nel mare milioni di anni fa.",
+            "point": "Imperfetto per descrivere il passato",
+            "explanation": "'Viveva' e' imperfetto e descrive una situazione del passato che durava nel tempo.",
+            "why_tricky": "L'imperfetto non indica un momento preciso, ma una situazione o un'abitudine che continuava."
+          },
+          {
+            "sentence": "La vendita avrà luogo il 21 giugno, allo zoo di Beauval, in Francia.",
+            "point": "Futuro semplice",
+            "explanation": "'Avra' e' il futuro semplice del verbo 'avere' e indica un'azione che succedera' dopo, nel futuro.",
+            "why_tricky": "Il futuro di 'avere' e' irregolare: avro, avrai, avra. Bisogna impararlo a memoria."
+          },
+          {
+            "sentence": "Hanno paura che fossili così importanti finiscano nelle case private.",
+            "point": "Congiuntivo dopo 'avere paura che'",
+            "explanation": "Dopo espressioni di timore come 'avere paura che' si usa il congiuntivo ('finiscano').",
+            "why_tricky": "Il congiuntivo presente di 'finire' e' 'finiscano' e si usa per cose non sicure o temute."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere luogo",
+            "meaning": "succedere, svolgersi (un evento)",
+            "example": "Il concerto ha luogo in piazza."
+          },
+          {
+            "phrase": "in questo modo",
+            "meaning": "cosi, in questa maniera",
+            "example": "In questo modo risparmi tempo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Com'era fatto l'Elasmosauro? Descrivi il suo corpo.",
+            "type": "open"
+          },
+          {
+            "q": "Dove e quando avrà luogo la vendita del fossile?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcuni scienziati non sono contenti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i fossili importanti devono stare nei musei o possono andare ai privati? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
       "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
@@ -14,7 +542,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
           "source": "ANSA",
@@ -27,8 +555,8 @@
           ],
           "level": "A2-B1"
         },
-        "summary_en": "At Casa Leopardi in Recanati, the home of poet Giacomo Leopardi, a cycle of frescoes hidden for centuries has been discovered in the library, dating from the 16th-17th century.",
-        "resumen_es": "A Recanati, una piccola città nelle Marche, c'è una casa molto famosa: Casa Leopardi. Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani. Ora la casa è di nuovo nelle notizie per una scoperta straordinaria. Nella biblioteca, sotto strati di pittura, sono riapparsi degli affreschi antichi, nascosti per secoli. Gli esperti dicono che le pitture sono molto vecchie: risalgono al Cinquecento o al Seicento. Nessuno sapeva che esistevano. La scoperta è emozionante anche per un altro motivo: Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare. Una discendente della famiglia ha detto che è suggestivo pensare che il poeta guardasse quelle pareti. Ora i restauratori lavorano per pulire e proteggere gli affreschi. Presto i visitatori potranno vederli. Per gli amanti dell'arte e della letteratura, è un buon motivo in più per visitare Recanati.",
+        "summary_en": "In Recanati, a small town in the Marche region, there is a very famous house: Casa Leopardi. Giacomo Leopardi, one of Italy's greatest poets, was born here. Now the house is in the news again because of an extraordinary discovery. In the library, under layers of paint, ancient frescoes have reappeared, hidden for centuries. The experts say the paintings are very old: they date back to the 1500s or 1600s. Nobody knew they existed.\n\nThe discovery is exciting for another reason too: Giacomo Leopardi spent hours and hours in that library, reading and studying. A descendant of the family said it is fascinating to think that the poet looked at those walls. Now the restorers are working to clean and protect the frescoes. Soon visitors will be able to see them. For lovers of art and literature, it is one more reason to visit Recanati.",
+        "resumen_es": "A Recanati, una piccola città nelle Marche, c'è una casa molto famosa: Casa Leopardi. Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani. Ora la casa è di nuovo nelle notizie per una scoperta straordinaria. Nella biblioteca, sotto strati di pittura, sono riapparsi degli affreschi antichi, nascosti per secoli. Gli esperti dicono che le pitture sono molto vecchie: risalgono al Cinquecento o al Seicento. Nessuno sapeva che esistevano.\n\nLa scoperta è emozionante anche per un altro motivo: Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare. Una discendente della famiglia ha detto che è suggestivo pensare che il poeta guardasse quelle pareti. Ora i restauratori lavorano per pulire e proteggere gli affreschi. Presto i visitatori potranno vederli. Per gli amanti dell'arte e della letteratura, è un buon motivo in più per visitare Recanati.",
         "vocab": [
           {
             "front": "la scoperta",
@@ -176,7 +704,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-spacex-ipo",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "SpaceX, il giorno della più grande Ipo della storia: la compagnia di Musk debutta a Wall Street",
           "source": "Rai News",
@@ -189,8 +717,8 @@
           ],
           "level": "A2-B1"
         },
-        "summary_en": "SpaceX, Elon Musk's space company, is making its Wall Street debut in the biggest IPO in history, aiming to raise 75 billion dollars and making thousands of employees rich.",
-        "resumen_es": "Oggi è un giorno importante per la finanza mondiale. SpaceX, la compagnia spaziale di Elon Musk, debutta in Borsa a Wall Street. Gli esperti la chiamano la più grande Ipo della storia. Ipo è una sigla inglese: significa che, per la prima volta, tutti possono comprare azioni della società. L'obiettivo è enorme: raccogliere 75 miliardi di dollari. I numeri sorprendono anche per un altro motivo. Secondo le stime, circa 4.400 dipendenti di SpaceX diventeranno milionari, perché possiedono azioni della compagnia. SpaceX costruisce razzi e satelliti e porta astronauti nello spazio. Per molti anni è stata una società privata. Ora, con i soldi della Borsa, vuole crescere ancora: nuovi viaggi spaziali, più satelliti per internet e, un giorno, forse, l'arrivo dell'uomo su Marte. I mercati europei guardano con interesse, e anche le borse italiane oggi sono in festa.",
+        "summary_en": "Today is an important day for world finance. SpaceX, Elon Musk's space company, is making its stock market debut on Wall Street. Experts are calling it the biggest IPO in history. IPO is an English abbreviation: it means that, for the first time, anyone can buy shares in the company. The goal is enormous: to raise 75 billion dollars.\n\nThe numbers are surprising for another reason too. According to estimates, around 4,400 SpaceX employees will become millionaires, because they own shares in the company. SpaceX builds rockets and satellites and takes astronauts into space. For many years it was a private company. Now, with the money from the stock market, it wants to grow further: new space journeys, more internet satellites and, one day, perhaps, humans on Mars. European markets are watching with interest, and Italy's stock exchanges are celebrating today too.",
+        "resumen_es": "Oggi è un giorno importante per la finanza mondiale. SpaceX, la compagnia spaziale di Elon Musk, debutta in Borsa a Wall Street. Gli esperti la chiamano la più grande Ipo della storia. Ipo è una sigla inglese: significa che, per la prima volta, tutti possono comprare azioni della società. L'obiettivo è enorme: raccogliere 75 miliardi di dollari.\n\nI numeri sorprendono anche per un altro motivo. Secondo le stime, circa 4.400 dipendenti di SpaceX diventeranno milionari, perché possiedono azioni della compagnia. SpaceX costruisce razzi e satelliti e porta astronauti nello spazio. Per molti anni è stata una società privata. Ora, con i soldi della Borsa, vuole crescere ancora: nuovi viaggi spaziali, più satelliti per internet e, un giorno, forse, l'arrivo dell'uomo su Marte. I mercati europei guardano con interesse, e anche le borse italiane oggi sono in festa.",
         "vocab": [
           {
             "front": "debuttare",
@@ -338,7 +866,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-06-12-birrificio-fotovoltaico",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Oltre 15 mila pannelli fotovoltaici per alimentare il birrificio di Assemini",
           "source": "ANSA",
@@ -351,8 +879,8 @@
           ],
           "level": "A2-B1"
         },
-        "summary_en": "A brewery in Assemini, Sardinia, has installed more than 15,000 solar panels covering nearly 14 hectares; the plant now covers all of the site's daytime energy needs.",
-        "resumen_es": "In Sardegna c'è una novità che unisce la birra e il sole. Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico: oltre 15 mila pannelli solari su quasi 14 ettari di terreno. È una superficie enorme, come molti campi da calcio insieme. Grazie a questi pannelli, il birrificio copre tutto il suo fabbisogno di energia durante il giorno. In altre parole: quando c'è il sole, la fabbrica produce birra con energia pulita. Il progetto è un buon esempio di come l'industria può diventare più sostenibile. In Italia sempre più aziende investono nelle energie rinnovabili: il sole non manca, soprattutto nel sud del paese e nelle isole. Così si risparmia denaro e si proteggono l'ambiente e il clima. E i clienti? Per loro la birra ha lo stesso sapore di sempre, ma adesso, dietro ogni bottiglia, c'è anche un po' di energia del sole sardo.",
+        "summary_en": "In Sardinia there is news that brings together beer and the sun. The brewery in Assemini, near Cagliari, has installed a large solar power plant: more than 15,000 solar panels on almost 14 hectares of land. It is an enormous area, like many football pitches together. Thanks to these panels, the brewery covers all its energy needs during the day. In other words: when the sun shines, the factory makes beer with clean energy.\n\nThe project is a good example of how industry can become more sustainable. In Italy more and more companies are investing in renewable energy: there is no lack of sunshine, especially in the south of the country and on the islands. This saves money and protects the environment and the climate. And the customers? For them the beer tastes the same as always, but now, behind every bottle, there is also a little energy from the Sardinian sun.",
+        "resumen_es": "In Sardegna c'è una novità che unisce la birra e il sole. Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico: oltre 15 mila pannelli solari su quasi 14 ettari di terreno. È una superficie enorme, come molti campi da calcio insieme. Grazie a questi pannelli, il birrificio copre tutto il suo fabbisogno di energia durante il giorno. In altre parole: quando c'è il sole, la fabbrica produce birra con energia pulita.\n\nIl progetto è un buon esempio di come l'industria può diventare più sostenibile. In Italia sempre più aziende investono nelle energie rinnovabili: il sole non manca, soprattutto nel sud del paese e nelle isole. Così si risparmia denaro e si proteggono l'ambiente e il clima. E i clienti? Per loro la birra ha lo stesso sapore di sempre, ma adesso, dietro ogni bottiglia, c'è anche un po' di energia del sole sardo.",
         "vocab": [
           {
             "front": "il birrificio",
@@ -512,8 +1040,8 @@
           ],
           "level": "B1"
         },
-        "summary_en": "With school over, about 16 million Italians are setting off on holiday already in June. Most want the sea and prefer to stay in Italy. The tourism sector expects billions in business.",
-        "resumen_es": "La scuola è finita e per molti italiani iniziano le vacanze. Secondo le stime, circa 16 milioni di persone partono già a giugno, senza aspettare l'estate piena. È un numero molto alto, e dice una cosa chiara: gli italiani amano partire presto, quando i prezzi sono più bassi e le spiagge sono meno piene. La maggior parte dei viaggiatori sceglie il mare. Le mete preferite sono le coste italiane: la Puglia, la Sicilia, la Sardegna, la Romagna. Molti preferiscono restare in Italia invece di andare all'estero. Le vacanze sono spesso brevi, una settimana o anche meno, ma quasi tutti vogliono almeno qualche giorno di riposo dopo un anno di lavoro e di scuola. Per il settore del turismo è un momento d'oro. Alberghi, ristoranti, stabilimenti balneari e treni si preparano a un grande giro d'affari, che vale miliardi di euro. Giugno, insomma, non è più un mese di attesa: è già estate.",
+        "summary_en": "School is over and for many Italians the holidays are beginning. According to estimates, around 16 million people are setting off already in June, without waiting for high summer. It is a very high number, and it says one thing clearly: Italians love to leave early, when prices are lower and the beaches are less crowded.\n\nMost travellers choose the sea. The favourite destinations are Italy's own coasts: Puglia, Sicily, Sardinia, Romagna. Many prefer to stay in Italy rather than go abroad. The holidays are often short, a week or even less, but almost everyone wants at least a few days of rest after a year of work and school. For the tourism sector it is a golden moment. Hotels, restaurants, beach clubs and trains are preparing for a huge amount of business, worth billions of euros. June, in short, is no longer a month of waiting: it is already summer.",
+        "resumen_es": "La scuola è finita e per molti italiani iniziano le vacanze. Secondo le stime, circa 16 milioni di persone partono già a giugno, senza aspettare l'estate piena. È un numero molto alto, e dice una cosa chiara: gli italiani amano partire presto, quando i prezzi sono più bassi e le spiagge sono meno piene.\n\nLa maggior parte dei viaggiatori sceglie il mare. Le mete preferite sono le coste italiane: la Puglia, la Sicilia, la Sardegna, la Romagna. Molti preferiscono restare in Italia invece di andare all'estero. Le vacanze sono spesso brevi, una settimana o anche meno, ma quasi tutti vogliono almeno qualche giorno di riposo dopo un anno di lavoro e di scuola. Per il settore del turismo è un momento d'oro. Alberghi, ristoranti, stabilimenti balneari e treni si preparano a un grande giro d'affari, che vale miliardi di euro. Giugno, insomma, non è più un mese di attesa: è già estate.",
         "vocab": [
           {
             "id": "partenza",
@@ -680,7 +1208,7 @@
           }
         ],
         "opinion_prompt": "Dove ti piace andare in vacanza e con chi? Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -707,8 +1235,8 @@
           ],
           "level": "B1"
         },
-        "summary_en": "A bear was filmed at night running through the streets of a village in Valtellina, in northern Italy. A driver recorded the animal as it fled. Sightings near homes are becoming more frequent.",
-        "resumen_es": "Una notte, in un piccolo paese della Valtellina, nel nord Italia, è successa una cosa sorprendente. Un orso è stato filmato mentre correva tra le case, in mezzo alla strada. Un automobilista ha visto l'animale e lo ha ripreso con il telefono. Nel video si vede l'orso che corre veloce e poi scappa nel buio. Per fortuna nessuno si è fatto male. L'orso aveva probabilmente paura ed è tornato presto verso i boschi e le montagne. Ma il video ha fatto il giro dei social e ha riaperto una discussione importante. Gli avvistamenti di orsi e di lupi vicino alle case sono sempre più frequenti nelle Alpi. Gli animali selvatici cercano cibo e nuovi territori, e a volte arrivano fino ai paesi. Alcuni abitanti hanno paura, altri sono contenti di vedere la natura così vicina. Gli esperti ricordano le regole: non avvicinarsi mai, non dare cibo e avvisare subito le autorità.",
+        "summary_en": "One night, in a small village in Valtellina, in northern Italy, something surprising happened. A bear was filmed running between the houses, in the middle of the street. A driver saw the animal and recorded it on his phone. In the video you can see the bear running fast and then escaping into the dark. Luckily nobody was hurt. The bear was probably scared and soon returned to the woods and the mountains.\n\nBut the video went around social media and reopened an important discussion. Sightings of bears and wolves near houses are more and more frequent in the Alps. Wild animals look for food and new territory, and sometimes they reach the villages. Some residents are afraid, others are happy to see nature so close. The experts repeat the rules: never approach, never offer food, and alert the authorities straight away.",
+        "resumen_es": "Una notte, in un piccolo paese della Valtellina, nel nord Italia, è successa una cosa sorprendente. Un orso è stato filmato mentre correva tra le case, in mezzo alla strada. Un automobilista ha visto l'animale e lo ha ripreso con il telefono. Nel video si vede l'orso che corre veloce e poi scappa nel buio. Per fortuna nessuno si è fatto male. L'orso aveva probabilmente paura ed è tornato presto verso i boschi e le montagne.\n\nMa il video ha fatto il giro dei social e ha riaperto una discussione importante. Gli avvistamenti di orsi e di lupi vicino alle case sono sempre più frequenti nelle Alpi. Gli animali selvatici cercano cibo e nuovi territori, e a volte arrivano fino ai paesi. Alcuni abitanti hanno paura, altri sono contenti di vedere la natura così vicina. Gli esperti ricordano le regole: non avvicinarsi mai, non dare cibo e avvisare subito le autorità.",
         "vocab": [
           {
             "id": "orso",
@@ -871,7 +1399,7 @@
           }
         ],
         "opinion_prompt": "Hai mai visto un animale selvatico vicino a casa? Racconta. Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -897,8 +1425,8 @@
           ],
           "level": "B1"
         },
-        "summary_en": "Bookmakers are taking bets on where pop star Taylor Swift will marry Travis Kelce. The secret location is worth millions to the betting industry. Fans are trying to guess too.",
-        "resumen_es": "Dove si sposerà Taylor Swift? È la domanda del momento, e vale milioni. La popstar americana sposerà Travis Kelce, giocatore di football americano, ma il luogo del matrimonio è ancora segreto. Così gli allibratori, cioè le agenzie di scommesse, hanno aperto le scommesse: si può puntare denaro sulla città e sul paese delle nozze. C'è chi dice gli Stati Uniti, magari il Tennessee, dove la cantante ha una casa. C'è chi sogna un matrimonio in Europa, forse in Italia, magari sul lago di Como, un posto amato dalle star di Hollywood. Ogni indizio diventa importante: un viaggio, una foto, una parola in un'intervista. Anche i fan giocano a indovinare sui social. Per l'industria delle scommesse questo segreto vale milioni di euro. E per Taylor Swift? Probabilmente la privacy non ha prezzo. Una cosa è sicura: quando la notizia arriverà, ne parlerà tutto il mondo.",
+        "summary_en": "Where will Taylor Swift get married? It is the question of the moment, and it is worth millions. The American pop star will marry Travis Kelce, an American football player, but the location of the wedding is still secret. So the bookmakers have opened the betting: you can put money on the city and the country of the wedding.\n\nSome say the United States, perhaps Tennessee, where the singer has a house. Others dream of a wedding in Europe, maybe in Italy, perhaps on Lake Como, a place loved by Hollywood stars. Every clue becomes important: a trip, a photo, a word in an interview. The fans are playing the guessing game on social media too. For the betting industry this secret is worth millions of euros. And for Taylor Swift? Privacy probably has no price. One thing is certain: when the news comes, the whole world will talk about it.",
+        "resumen_es": "Dove si sposerà Taylor Swift? È la domanda del momento, e vale milioni. La popstar americana sposerà Travis Kelce, giocatore di football americano, ma il luogo del matrimonio è ancora segreto. Così gli allibratori, cioè le agenzie di scommesse, hanno aperto le scommesse: si può puntare denaro sulla città e sul paese delle nozze.\n\nC'è chi dice gli Stati Uniti, magari il Tennessee, dove la cantante ha una casa. C'è chi sogna un matrimonio in Europa, forse in Italia, magari sul lago di Como, un posto amato dalle star di Hollywood. Ogni indizio diventa importante: un viaggio, una foto, una parola in un'intervista. Anche i fan giocano a indovinare sui social. Per l'industria delle scommesse questo segreto vale milioni di euro. E per Taylor Swift? Probabilmente la privacy non ha prezzo. Una cosa è sicura: quando la notizia arriverà, ne parlerà tutto il mondo.",
         "vocab": [
           {
             "id": "nozze",
@@ -1055,7 +1583,7 @@
           }
         ],
         "opinion_prompt": "Segui le notizie sulle celebrità? Ti sembrano importanti? Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1082,8 +1610,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "A survey found that 66% of Italian public-sector employees now use AI tools in their work. Many see the public administration as a reference point for citizens and businesses. The findings were presented at Forum PA.",
-        "resumen_es": "L'intelligenza artificiale è entrata negli uffici pubblici italiani. Secondo un'indagine presentata al Forum PA, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale al lavoro. È un numero alto: due persone su tre. I dipendenti usano l'IA per scrivere testi, cercare informazioni, preparare documenti e rispondere ai cittadini. Molti dicono che così il lavoro è più veloce e più semplice. Molti intervistati pensano anche che la pubblica amministrazione debba essere un punto di riferimento per cittadini e imprese: deve mostrare come usare bene queste nuove tecnologie. Ma ci sono anche dubbi e paure. Serve formazione, perché non tutti sanno usare bene questi strumenti. Servono regole chiare, per proteggere i dati delle persone. E serve attenzione, perché l'IA a volte sbaglia. Il messaggio dell'indagine è chiaro: l'intelligenza artificiale è già qui, anche nello Stato. Ora bisogna imparare a usarla bene, con intelligenza umana.",
+        "summary_en": "Artificial intelligence has arrived in Italy's public offices. According to a survey presented at Forum PA, 66% of public sector employees use artificial intelligence tools at work. That is a high number: two people out of three. Employees use AI to write texts, search for information, prepare documents and answer citizens. Many say that this makes their work faster and simpler. Many of those surveyed also think the public administration should be a point of reference for citizens and businesses: it should show how to use these new technologies well.\n\nBut there are also doubts and fears. Training is needed, because not everyone knows how to use these tools well. Clear rules are needed, to protect people's data. And care is needed, because AI sometimes makes mistakes. The survey's message is clear: artificial intelligence is already here, even in the state. Now we must learn to use it well, with human intelligence.",
+        "resumen_es": "L'intelligenza artificiale è entrata negli uffici pubblici italiani. Secondo un'indagine presentata al Forum PA, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale al lavoro. È un numero alto: due persone su tre. I dipendenti usano l'IA per scrivere testi, cercare informazioni, preparare documenti e rispondere ai cittadini. Molti dicono che così il lavoro è più veloce e più semplice. Molti intervistati pensano anche che la pubblica amministrazione debba essere un punto di riferimento per cittadini e imprese: deve mostrare come usare bene queste nuove tecnologie.\n\nMa ci sono anche dubbi e paure. Serve formazione, perché non tutti sanno usare bene questi strumenti. Servono regole chiare, per proteggere i dati delle persone. E serve attenzione, perché l'IA a volte sbaglia. Il messaggio dell'indagine è chiaro: l'intelligenza artificiale è già qui, anche nello Stato. Ora bisogna imparare a usarla bene, con intelligenza umana.",
         "vocab": [
           {
             "id": "dipendente",
@@ -1239,7 +1767,7 @@
           }
         ],
         "opinion_prompt": "L'intelligenza artificiale ti aiuta nel lavoro o nello studio? Come? Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1266,8 +1794,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "Three people, including a former senior judge, are under investigation for corruption linked to the Strait of Messina bridge project. Searches have been ordered. The inquiry names several officials.",
-        "resumen_es": "Il Ponte sullo Stretto di Messina è un progetto famoso e discusso da decenni: un ponte enorme per unire la Sicilia e la Calabria. Ora il progetto è di nuovo nelle notizie, ma per un motivo diverso. Tre persone sono indagate per corruzione, e tra loro c'è anche un ex alto giudice. Secondo l'inchiesta, queste persone avrebbero ricevuto o promesso denaro per favorire interessi privati legati al grande progetto. La polizia ha fatto perquisizioni in uffici e case, cercando documenti e prove. L'inchiesta fa diversi nomi e potrebbe crescere nelle prossime settimane. Gli indagati si dicono innocenti, e l'indagine è solo all'inizio. Il caso è delicato perché il ponte è un'opera pubblica enorme, che vale molti miliardi di euro. I lavori sono appena cominciati, e i critici del progetto ora hanno un argomento in più. Il governo, invece, difende l'opera e vuole andare avanti.",
+        "summary_en": "The Strait of Messina Bridge is a famous project, discussed for decades: an enormous bridge to join Sicily and Calabria. Now the project is in the news again, but for a different reason. Three people are under investigation for corruption, and among them is a former senior judge. According to the inquiry, these people allegedly received or promised money to favour private interests connected to the great project.\n\nThe police have carried out searches in offices and homes, looking for documents and evidence. The inquiry names several people and could grow in the coming weeks. The suspects say they are innocent, and the investigation is only at the beginning. The case is sensitive because the bridge is an enormous public work, worth many billions of euros. Construction has only just begun, and the project's critics now have one more argument. The government, instead, defends the work and wants to push ahead.",
+        "resumen_es": "Il Ponte sullo Stretto di Messina è un progetto famoso e discusso da decenni: un ponte enorme per unire la Sicilia e la Calabria. Ora il progetto è di nuovo nelle notizie, ma per un motivo diverso. Tre persone sono indagate per corruzione, e tra loro c'è anche un ex alto giudice. Secondo l'inchiesta, queste persone avrebbero ricevuto o promesso denaro per favorire interessi privati legati al grande progetto.\n\nLa polizia ha fatto perquisizioni in uffici e case, cercando documenti e prove. L'inchiesta fa diversi nomi e potrebbe crescere nelle prossime settimane. Gli indagati si dicono innocenti, e l'indagine è solo all'inizio. Il caso è delicato perché il ponte è un'opera pubblica enorme, che vale molti miliardi di euro. I lavori sono appena cominciati, e i critici del progetto ora hanno un argomento in più. Il governo, invece, difende l'opera e vuole andare avanti.",
         "vocab": [
           {
             "id": "indagato",
@@ -1434,7 +1962,7 @@
           }
         ],
         "opinion_prompt": "Perché è importante combattere la corruzione nei progetti pubblici? Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     },
     {
@@ -1461,8 +1989,8 @@
           ],
           "level": "B2"
         },
-        "summary_en": "The European Commission has presented its 21st package of sanctions against Russia, targeting energy and finance. Ursula von der Leyen said the EU's perseverance is paying off. The war continues, with strikes on Kharkiv.",
-        "resumen_es": "L'Unione Europea ha presentato un nuovo pacchetto di sanzioni contro la Russia, il numero 21 dall'inizio della guerra in Ucraina. Le nuove misure colpiscono soprattutto due settori: l'energia e la finanza. L'obiettivo è semplice: ridurre i soldi che la Russia può usare per la guerra. La presidente della Commissione europea, Ursula von der Leyen, ha difeso questa strategia. Ha detto che la costanza dell'Europa sta dando i suoi frutti e che l'economia russa è sotto pressione. Le sanzioni devono ancora essere approvate da tutti i paesi membri, e non è sempre facile: alcuni governi hanno dubbi e chiedono modifiche. Intanto la guerra continua. Nelle stesse ore, nuovi attacchi russi hanno colpito la città ucraina di Kharkiv, causando danni e feriti. Dopo anni di conflitto, la pace resta purtroppo ancora lontana. L'Europa, intanto, prova a usare la sua arma più forte: quella economica.",
+        "summary_en": "The European Union has presented a new package of sanctions against Russia, the 21st since the start of the war in Ukraine. The new measures hit two sectors above all: energy and finance. The goal is simple: to reduce the money Russia can use for the war. The president of the European Commission, Ursula von der Leyen, defended this strategy. She said Europe's persistence is bearing fruit and that the Russian economy is under pressure.\n\nThe sanctions still have to be approved by all the member states, and that is not always easy: some governments have doubts and ask for changes. Meanwhile the war goes on. In the same hours, new Russian attacks hit the Ukrainian city of Kharkiv, causing damage and injuries. After years of conflict, peace unfortunately remains far away. Europe, meanwhile, is trying to use its strongest weapon: the economic one.",
+        "resumen_es": "L'Unione Europea ha presentato un nuovo pacchetto di sanzioni contro la Russia, il numero 21 dall'inizio della guerra in Ucraina. Le nuove misure colpiscono soprattutto due settori: l'energia e la finanza. L'obiettivo è semplice: ridurre i soldi che la Russia può usare per la guerra. La presidente della Commissione europea, Ursula von der Leyen, ha difeso questa strategia. Ha detto che la costanza dell'Europa sta dando i suoi frutti e che l'economia russa è sotto pressione.\n\nLe sanzioni devono ancora essere approvate da tutti i paesi membri, e non è sempre facile: alcuni governi hanno dubbi e chiedono modifiche. Intanto la guerra continua. Nelle stesse ore, nuovi attacchi russi hanno colpito la città ucraina di Kharkiv, causando danni e feriti. Dopo anni di conflitto, la pace resta purtroppo ancora lontana. L'Europa, intanto, prova a usare la sua arma più forte: quella economica.",
         "vocab": [
           {
             "id": "sanzione",
@@ -1618,7 +2146,7 @@
           }
         ],
         "opinion_prompt": "Pensi che le sanzioni economiche siano utili per fermare una guerra? Scrivi ~80 parole.",
-        "revision": 1
+        "revision": 2
       }
     }
   ]
