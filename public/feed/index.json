@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-16T09:24:27Z",
+  "generated_at": "2026-06-16T21:13:53Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-16-partenze-estate-italiani",
+      "title": "Con la fine della scuola scattano le partenze a giugno, in viaggio 16 milioni italiani",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "estate"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-partenze-estate-italiani",
+        "revision": 1,
+        "meta": {
+          "title": "Con la fine della scuola scattano le partenze a giugno, in viaggio 16 milioni italiani",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/06/09/con-la-fine-della-scuola-scattano-le-partenze-a-giugno-in-viaggio-16-milioni-italiani_1249426c-bb33-49f7-9c7a-9f0fe80416d2.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "viaggi",
+            "estate"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "School is over and many Italians are leaving for the holidays. According to a study, in June about 16 million people go travelling. Most of them choose the seaside and prefer to stay in Italy. Families look for a bit of rest after months of work and study. For many people, summer is the most beautiful time of the year.\n\nThis movement is also very important for the economy. Hotels, restaurants and shops earn more during this period. Seaside towns fill up with tourists and life. But prices often go up, and finding a free spot is not always easy. For this reason, many people book their hotel well in advance. In the end, even a simple trip can become a lovely memory for the whole family.",
+        "resumen_es": "La scuola è finita e molti italiani partono per le vacanze. Secondo una ricerca, a giugno circa 16 milioni di persone vanno in viaggio. La maggior parte sceglie il mare e preferisce restare in Italia. Le famiglie cercano un po' di riposo dopo i mesi di lavoro e di studio. Per molti, l'estate è il momento più bello dell'anno.\n\nQuesto movimento è molto importante anche per l'economia. Gli alberghi, i ristoranti e i negozi guadagnano di più in questo periodo. Le città di mare si riempiono di turisti e di vita. Però i prezzi spesso salgono e trovare un posto libero non è sempre facile. Per questo molte persone prenotano l'hotel con grande anticipo. Alla fine, anche un viaggio semplice può diventare un bel ricordo per tutta la famiglia.",
+        "vocab": [
+          {
+            "front": "la vacanza",
+            "pos": "noun",
+            "back": "holiday, vacation",
+            "example": "Andiamo in vacanza al mare.",
+            "tier": "A2"
+          },
+          {
+            "front": "partire",
+            "pos": "verb",
+            "back": "to leave, to depart",
+            "example": "Domani partiamo presto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il viaggio",
+            "pos": "noun",
+            "back": "trip, journey",
+            "example": "Il viaggio è stato lungo ma bello.",
+            "tier": "A2"
+          },
+          {
+            "front": "la maggior parte",
+            "pos": "phrase",
+            "back": "most (of)",
+            "example": "La maggior parte dei turisti è straniera.",
+            "tier": "B1"
+          },
+          {
+            "front": "scegliere",
+            "pos": "verb",
+            "back": "to choose",
+            "example": "Devo scegliere un hotel.",
+            "tier": "A2"
+          },
+          {
+            "front": "il riposo",
+            "pos": "noun",
+            "back": "rest",
+            "example": "Ho proprio bisogno di riposo.",
+            "tier": "B1"
+          },
+          {
+            "front": "guadagnare",
+            "pos": "verb",
+            "back": "to earn",
+            "example": "In estate i negozi guadagnano di più.",
+            "tier": "A2"
+          },
+          {
+            "front": "il prezzo",
+            "pos": "noun",
+            "back": "price",
+            "example": "Il prezzo è troppo alto.",
+            "tier": "A2"
+          },
+          {
+            "front": "salire",
+            "pos": "verb",
+            "back": "to go up, to rise",
+            "example": "I prezzi salgono in estate.",
+            "tier": "A2"
+          },
+          {
+            "front": "prenotare",
+            "pos": "verb",
+            "back": "to book, to reserve",
+            "example": "Ho prenotato un tavolo per due.",
+            "tier": "A2"
+          },
+          {
+            "front": "in anticipo",
+            "pos": "phrase",
+            "back": "in advance, early",
+            "example": "Compra i biglietti in anticipo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ricordo",
+            "pos": "noun",
+            "back": "memory",
+            "example": "Che bel ricordo di quel viaggio!",
+            "tier": "B1"
+          },
+          {
+            "front": "riempirsi (di)",
+            "pos": "verb",
+            "back": "to fill up (with)",
+            "example": "La spiaggia si riempie di gente.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'albergo",
+            "pos": "noun",
+            "back": "hotel",
+            "example": "Dormiamo in un albergo piccolo.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La scuola è finita e molti italiani partono per le vacanze.",
+            "point": "Passato prossimo con 'essere' e presente",
+            "explanation": "'È finita' usa l'ausiliare 'essere' e il participio concorda con il soggetto femminile 'la scuola'. Poi 'partono' e' presente per descrivere cio che succede ora.",
+            "why_tricky": "Con 'essere' il participio cambia in -a, -i, -e secondo il soggetto, mentre con 'avere' di solito resta uguale."
+          },
+          {
+            "sentence": "La maggior parte sceglie il mare e preferisce restare in Italia.",
+            "point": "Presente irregolare: 'scegliere' e 'preferire'",
+            "explanation": "'Sceglie' viene da 'scegliere' (verbo irregolare). 'Preferisce' appartiene ai verbi in -isc-, come 'capire' e 'finire'.",
+            "why_tricky": "Questi verbi non seguono il modello regolare; bisogna imparare a memoria 'sceglie' e l'inserto -isc- di 'preferisce'."
+          },
+          {
+            "sentence": "Però i prezzi spesso salgono e trovare un posto libero non è sempre facile.",
+            "point": "Connettivo 'però' e infinito come soggetto",
+            "explanation": "'Però' introduce un contrasto, come 'ma'. 'Trovare' e' un infinito che funziona da soggetto della frase ('cercare un posto ... non e' facile').",
+            "why_tricky": "In italiano l'infinito puo' essere soggetto senza articolo, mentre in altre lingue serve una forma come '-ing'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare in vacanza",
+            "meaning": "partire per riposarsi, di solito in estate",
+            "example": "Quest'anno andiamo in vacanza in Sicilia."
+          },
+          {
+            "phrase": "con (grande) anticipo",
+            "meaning": "molto tempo prima del momento previsto",
+            "example": "Ho prenotato l'hotel con grande anticipo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché molti italiani partono a giugno?",
+            "type": "open"
+          },
+          {
+            "q": "Quali luoghi preferiscono per le vacanze?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questo periodo è importante per l'economia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace di più il mare o la montagna per le vacanze? Scrivi qualche frase e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-forum-pa-ia-lavoro",
+      "title": "Forum Pa, il 66% dei dipendenti pubblici usa strumenti di Ia nelle attività lavorative",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-forum-pa-ia-lavoro",
+        "revision": 1,
+        "meta": {
+          "title": "Forum Pa, il 66% dei dipendenti pubblici usa strumenti di Ia nelle attività lavorative",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/06/09/forum-pa-il-66-dei-dipendenti-pubblici-usa-strumenti-di-ia-nelle-attivita-lavorative_6b5bb9de-6429-43da-8814-1193440d5b01.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "tecnologia",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Today many people use artificial intelligence at work too. According to a study presented at Forum PA, 66% of public employees use artificial intelligence tools. These programs help to write texts, to look for information and to do some tasks more quickly. For many workers, technology has become a normal, everyday help.\n\nArtificial intelligence can save time and reduce mistakes. However, it is important to use it carefully and to understand well how it works. Some people are afraid of losing their job, while others think that technology makes everything simpler. The most useful thing is to learn to use these tools in the right way. In the end, technology is a help, but the important decisions stay in people's hands.",
+        "resumen_es": "Oggi molte persone usano l'intelligenza artificiale anche al lavoro. Secondo una ricerca presentata al Forum PA, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale. Questi programmi aiutano a scrivere testi, a cercare informazioni e a fare più in fretta alcune attività. Per molti lavoratori, la tecnologia è diventata un aiuto normale di ogni giorno.\n\nL'intelligenza artificiale può far risparmiare tempo e ridurre gli errori. Però è importante usarla con attenzione e capire bene come funziona. Alcune persone hanno paura di perdere il lavoro, mentre altre pensano che la tecnologia renda tutto più semplice. La cosa più utile è imparare a usare questi strumenti nel modo giusto. Alla fine, la tecnologia è un aiuto, ma le decisioni importanti restano nelle mani delle persone.",
+        "vocab": [
+          {
+            "front": "l'intelligenza artificiale",
+            "pos": "noun",
+            "back": "artificial intelligence",
+            "example": "L'intelligenza artificiale cambia il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "È uno strumento molto utile.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dipendente",
+            "pos": "noun",
+            "back": "employee",
+            "example": "L'azienda ha cento dipendenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il lavoro",
+            "pos": "noun",
+            "back": "work, job",
+            "example": "Mi piace il mio lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "aiutare",
+            "pos": "verb",
+            "back": "to help",
+            "example": "Questi programmi aiutano molto.",
+            "tier": "A2"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (time, money)",
+            "example": "Così possiamo risparmiare tempo.",
+            "tier": "A2"
+          },
+          {
+            "front": "ridurre",
+            "pos": "verb",
+            "back": "to reduce",
+            "example": "Vogliamo ridurre gli errori.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'errore",
+            "pos": "noun",
+            "back": "mistake, error",
+            "example": "Ho fatto un piccolo errore.",
+            "tier": "A2"
+          },
+          {
+            "front": "la tecnologia",
+            "pos": "noun",
+            "back": "technology",
+            "example": "La tecnologia ci aiuta ogni giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere paura (di)",
+            "pos": "phrase",
+            "back": "to be afraid (of)",
+            "example": "Ho paura di sbagliare.",
+            "tier": "A2"
+          },
+          {
+            "front": "funzionare",
+            "pos": "verb",
+            "back": "to work, to function",
+            "example": "Capire come funziona è importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "utile",
+            "pos": "adj",
+            "back": "useful",
+            "example": "È un consiglio molto utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la decisione",
+            "pos": "noun",
+            "back": "decision",
+            "example": "È una decisione difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "in fretta",
+            "pos": "phrase",
+            "back": "quickly, in a hurry",
+            "example": "Ho fatto tutto in fretta.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Oggi molte persone usano l'intelligenza artificiale anche al lavoro.",
+            "point": "Presente regolare e posizione di 'anche'",
+            "explanation": "'Usano' e' il presente di 'usare' (terza persona plurale). 'Anche' significa 'too' e qui si mette davanti a 'al lavoro' per aggiungere un'informazione.",
+            "why_tricky": "La posizione di 'anche' cambia il significato: va vicino alla parola a cui si riferisce, non sempre dopo il verbo."
+          },
+          {
+            "sentence": "L'intelligenza artificiale può far risparmiare tempo e ridurre gli errori.",
+            "point": "'Potere + infinito' e costruzione causativa 'far + infinito'",
+            "explanation": "'Può' e' il verbo modale 'potere' seguito dall'infinito. 'Far risparmiare' significa 'permettere di risparmiare': e' la struttura causativa 'fare + infinito'.",
+            "why_tricky": "Davanti a un altro infinito 'fare' diventa 'far' (senza la -e finale), cosa che confonde molti studenti."
+          },
+          {
+            "sentence": "Alcune persone hanno paura di perdere il lavoro, mentre altre pensano che la tecnologia renda tutto più semplice.",
+            "point": "'Avere paura di + infinito' e 'pensare che + congiuntivo'",
+            "explanation": "'Hanno paura di perdere' usa la preposizione 'di' prima dell'infinito. Dopo 'pensare che' si usa il congiuntivo, per questo si dice 'renda' e non 'rende'.",
+            "why_tricky": "Il congiuntivo 'renda' suona strano ai principianti, ma e' obbligatorio dopo verbi di opinione come 'pensare che'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare in fretta",
+            "meaning": "fare qualcosa velocemente, in poco tempo",
+            "example": "Dobbiamo fare in fretta, è quasi tardi."
+          },
+          {
+            "phrase": "nelle mani di (qualcuno)",
+            "meaning": "sotto il controllo o la responsabilità di qualcuno",
+            "example": "La decisione finale è nelle mani del direttore."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quante persone usano l'intelligenza artificiale al lavoro, secondo la ricerca?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono i vantaggi di questi strumenti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune persone hanno paura della tecnologia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Usi l'intelligenza artificiale nella tua vita o nel tuo lavoro? Scrivi qualche frase e spiega come."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-papa-barcellona-sagrada",
+      "title": "Il Papa a Barcellona, 'diffondere solidarietà, oltre le polarizzazioni'",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "religione"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-papa-barcellona-sagrada",
+        "revision": 1,
+        "meta": {
+          "title": "Il Papa a Barcellona, 'diffondere solidarietà, oltre le polarizzazioni'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/vaticano/notizie/2026/06/09/il-papa-a-barcellona-diffondere-solidarieta-oltre-le-polarizzazioni-_968f8843-e3cd-495f-8111-0269e72cc76a.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "cultura",
+            "religione"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Pope visited the city of Barcelona, in Spain. During the visit he spoke about solidarity and peace among people. He invited everyone to build unity and to live with a spirit of welcome. Many faithful went to listen to him and to greet him with joy.\n\nAn important moment of the visit was linked to the Sagrada Familia, the famous church designed by Antoni Gaudi. This building is one of the symbols of the city and attracts tourists from all over the world. Its construction began a long time ago and still continues today. The church is celebrating a historic anniversary, a real milestone for the city. In the end, the Pope's visit brought together faith, art and culture in a single day.",
+        "resumen_es": "Il Papa ha visitato la città di Barcellona, in Spagna. Durante la visita ha parlato di solidarietà e di pace tra le persone. Ha invitato tutti a costruire unità e a vivere con spirito di accoglienza. Molti fedeli sono andati ad ascoltarlo e ad accoglierlo con gioia.\n\nUn momento importante della visita è stato legato alla Sagrada Familia, la famosa chiesa disegnata da Antoni Gaudí. Questo edificio è uno dei simboli della città e attira turisti da tutto il mondo. La sua costruzione è iniziata molto tempo fa e continua ancora oggi. La chiesa vive un anniversario storico, un vero traguardo per la città. Alla fine, la visita del Papa ha unito fede, arte e cultura in un solo giorno.",
+        "vocab": [
+          {
+            "front": "visitare",
+            "pos": "verb",
+            "back": "to visit",
+            "example": "Voglio visitare Roma quest'estate.",
+            "tier": "A2"
+          },
+          {
+            "front": "la solidarietà",
+            "pos": "noun",
+            "back": "solidarity",
+            "example": "La solidarietà aiuta chi è in difficoltà.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pace",
+            "pos": "noun",
+            "back": "peace",
+            "example": "Tutti desiderano la pace.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'accoglienza",
+            "pos": "noun",
+            "back": "welcome, hospitality",
+            "example": "L'accoglienza è stata molto calorosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fedele",
+            "pos": "noun",
+            "back": "believer, worshipper",
+            "example": "Molti fedeli erano in piazza.",
+            "tier": "B1"
+          },
+          {
+            "front": "la chiesa",
+            "pos": "noun",
+            "back": "church",
+            "example": "La chiesa è vicino alla piazza.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'edificio",
+            "pos": "noun",
+            "back": "building",
+            "example": "Quell'edificio è molto antico.",
+            "tier": "A2"
+          },
+          {
+            "front": "disegnare",
+            "pos": "verb",
+            "back": "to design, to draw",
+            "example": "Un grande architetto ha disegnato la chiesa.",
+            "tier": "A2"
+          },
+          {
+            "front": "il simbolo",
+            "pos": "noun",
+            "back": "symbol",
+            "example": "La torre è un simbolo della città.",
+            "tier": "B1"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "Il museo attira molti turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la costruzione",
+            "pos": "noun",
+            "back": "construction",
+            "example": "La costruzione è durata molti anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'anniversario",
+            "pos": "noun",
+            "back": "anniversary",
+            "example": "Oggi è l'anniversario della scuola.",
+            "tier": "A2"
+          },
+          {
+            "front": "il traguardo",
+            "pos": "noun",
+            "back": "milestone, goal",
+            "example": "È un traguardo importante per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gioia",
+            "pos": "noun",
+            "back": "joy",
+            "example": "I bambini saltavano di gioia.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il Papa ha visitato la città di Barcellona, in Spagna.",
+            "point": "Passato prossimo con 'avere'",
+            "explanation": "'Ha visitato' e' il passato prossimo: ausiliare 'avere' al presente piu' il participio 'visitato'. Si usa per un'azione finita nel passato.",
+            "why_tricky": "Con l'ausiliare 'avere' il participio di solito non cambia, a differenza dei verbi con 'essere'."
+          },
+          {
+            "sentence": "Questo edificio è uno dei simboli della città e attira turisti da tutto il mondo.",
+            "point": "Struttura 'uno dei + plurale' e presente",
+            "explanation": "'Uno dei simboli' significa 'one of the symbols' e richiede il nome al plurale. 'Attira' e' il presente di 'attirare'.",
+            "why_tricky": "Dopo 'uno dei' molti mettono il singolare, ma in italiano serve sempre il plurale ('uno dei simboli')."
+          },
+          {
+            "sentence": "La sua costruzione è iniziata molto tempo fa e continua ancora oggi.",
+            "point": "Passato prossimo con 'essere' e 'fa' (= tempo trascorso)",
+            "explanation": "'E' iniziata' usa 'essere' e il participio concorda con 'la costruzione' (femminile). 'Fa' indica quanto tempo e' passato, come 'ago' in inglese.",
+            "why_tricky": "L'ordine 'molto tempo fa' mette 'fa' alla fine, e il participio deve concordare con il soggetto femminile."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da tutto il mondo",
+            "meaning": "da ogni parte del pianeta",
+            "example": "A Roma arrivano turisti da tutto il mondo."
+          },
+          {
+            "phrase": "molto tempo fa",
+            "meaning": "in un passato lontano",
+            "example": "Questa storia è cominciata molto tempo fa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Di che cosa ha parlato il Papa durante la visita?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la Sagrada Familia è importante per Barcellona?",
+            "type": "open"
+          },
+          {
+            "q": "Chi ha disegnato questa chiesa?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "C'è un monumento o una chiesa famosa che vorresti visitare? Scrivi qualche frase e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-06-16-barberini-vermeer-velazquez",
       "title": "Chiude a Roma 'Bernini e i Barberini' ma arrivano Vermeer e poi Velázquez",
