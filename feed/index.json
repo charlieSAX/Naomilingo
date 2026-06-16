@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-15T21:12:06Z",
+  "generated_at": "2026-06-16T09:24:27Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-16-barberini-vermeer-velazquez",
+      "title": "Chiude a Roma 'Bernini e i Barberini' ma arrivano Vermeer e poi Velázquez",
+      "source": "ANSA",
+      "date": "2026-06-15",
+      "level": "A2-B1",
+      "topics": [
+        "arte",
+        "musei"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-barberini-vermeer-velazquez",
+        "revision": 1,
+        "meta": {
+          "title": "Chiude a Roma 'Bernini e i Barberini' ma arrivano Vermeer e poi Velázquez",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/06/15/chiude-a-roma-bernini-e-i-barberini-ma-arrivano-vermeer-e-poi-velazquez_726c2ed2-3079-4843-a846-432f2d73e5de.html",
+          "date_published": "2026-06-15",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "arte",
+            "musei"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Rome, at Palazzo Barberini, the exhibition about Bernini and the Barberini family is ending. The show was very successful: many people went to see it. Now the museum is getting ready for new, eagerly awaited exhibitions. Soon a famous painting by the Dutch painter Vermeer will arrive. Later, the palace will also host works by the Spaniard Velazquez.\n\nPalazzo Barberini is one of the most important museums in Rome. There are many old paintings and decorated rooms. The big exhibitions help the museum introduce art to a new audience. For many tourists, seeing a Vermeer painting is a rare chance, because his works are few in the world. So, even after an exhibition ends, the museum keeps offering something special to its visitors.",
+        "resumen_es": "A Roma, a Palazzo Barberini, finisce la mostra dedicata a Bernini e alla famiglia Barberini. La mostra ha avuto molto successo: tante persone sono andate a vederla. Ora il museo si prepara a nuove mostre molto attese. Presto arriverà un quadro famoso del pittore olandese Vermeer. Più avanti, il palazzo ospiterà anche opere dello spagnolo Velázquez.\n\nPalazzo Barberini è uno dei musei più importanti di Roma. Ci sono molti dipinti antichi e sale decorate. Le grandi mostre aiutano il museo a far conoscere l'arte a un pubblico nuovo. Per molti turisti, vedere un quadro di Vermeer è un'occasione rara, perché le sue opere sono poche nel mondo. Così, anche dopo la fine di una mostra, il museo continua a offrire qualcosa di speciale ai suoi visitatori.",
+        "vocab": [
+          {
+            "front": "la mostra",
+            "pos": "noun",
+            "back": "exhibition",
+            "example": "Domenica andiamo a vedere una mostra di fotografia.",
+            "tier": "A2"
+          },
+          {
+            "front": "il quadro",
+            "pos": "noun",
+            "back": "painting, picture",
+            "example": "In salotto c'è un quadro molto colorato.",
+            "tier": "A2"
+          },
+          {
+            "front": "il dipinto",
+            "pos": "noun",
+            "back": "painting",
+            "example": "Questo dipinto è molto antico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pittore",
+            "pos": "noun",
+            "back": "painter",
+            "example": "Leonardo da Vinci è un pittore famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere successo",
+            "pos": "phrase",
+            "back": "to be successful",
+            "example": "Il suo nuovo libro ha avuto molto successo.",
+            "tier": "B1"
+          },
+          {
+            "front": "atteso",
+            "pos": "adj",
+            "back": "awaited, expected",
+            "example": "Il concerto era molto atteso da tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "ospitare",
+            "pos": "verb",
+            "back": "to host",
+            "example": "La città ospita una grande fiera ogni anno.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'opera",
+            "pos": "noun",
+            "back": "work (of art)",
+            "example": "Le opere di questo artista sono in tutto il mondo.",
+            "tier": "B1"
+          },
+          {
+            "front": "far conoscere",
+            "pos": "phrase",
+            "back": "to make known, to introduce",
+            "example": "La scuola vuole far conoscere la musica ai bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico ha applaudito a lungo.",
+            "tier": "A2"
+          },
+          {
+            "front": "raro",
+            "pos": "adj",
+            "back": "rare",
+            "example": "È un fiore molto raro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "visitor",
+            "example": "I visitatori del museo erano tantissimi.",
+            "tier": "B1"
+          },
+          {
+            "front": "prepararsi a",
+            "pos": "verb",
+            "back": "to get ready for",
+            "example": "Mi preparo a un esame difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la sala",
+            "pos": "noun",
+            "back": "room, hall",
+            "example": "La sala del museo era piena di gente.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La mostra ha avuto molto successo: tante persone sono andate a vederla.",
+            "point": "passato prossimo con 'avere' e con 'essere'",
+            "explanation": "'Ha avuto' usa l'ausiliare avere; 'sono andate' usa essere e il participio concorda con il soggetto (persone, femminile plurale).",
+            "why_tricky": "Con 'essere' il participio cambia (andato, andata, andati, andate); con 'avere' di solito no."
+          },
+          {
+            "sentence": "Presto arriverà un quadro famoso del pittore olandese Vermeer.",
+            "point": "futuro semplice",
+            "explanation": "'Arriverà' è il futuro di 'arrivare' e indica un'azione che succederà presto.",
+            "why_tricky": "Il futuro di 'arrivare' raddoppia la erre (arriverà) e prende l'accento sulla a finale."
+          },
+          {
+            "sentence": "Le grandi mostre aiutano il museo a far conoscere l'arte a un pubblico nuovo.",
+            "point": "'aiutare a + infinito' e 'fare + infinito'",
+            "explanation": "Dopo 'aiutare' si usa 'a + infinito'. 'Far conoscere' è un fare causativo: il museo fa in modo che il pubblico conosca l'arte.",
+            "why_tricky": "La preposizione 'a' dopo 'aiutare' è obbligatoria e spesso viene dimenticata."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare a ruba",
+            "meaning": "to sell out, to go like hotcakes",
+            "example": "I biglietti per la mostra sono andati a ruba."
+          },
+          {
+            "phrase": "valere la pena",
+            "meaning": "to be worth it",
+            "example": "Vale la pena visitare questo museo almeno una volta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quale mostra finisce a Palazzo Barberini?",
+            "type": "open"
+          },
+          {
+            "q": "Quali artisti arriveranno presto al museo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché vedere un quadro di Vermeer è un'occasione speciale?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace visitare i musei? Scrivi qualche frase su una mostra o un quadro che vorresti vedere."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-ondate-di-calore-salute",
+      "title": "Ondate di calore, i livelli di rischio e le città più colpite. Come proteggere la nostra salute",
+      "source": "RaiNews",
+      "date": "2026-06-16",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-ondate-di-calore-salute",
+        "revision": 1,
+        "meta": {
+          "title": "Ondate di calore, i livelli di rischio e le città più colpite. Come proteggere la nostra salute",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/06/ondate-di-calore-i-livelli-di-rischio-e-le-citta-piu-colpite-come-proteggere-la-nostra-salute-2e2cac48-0581-4a17-aeeb-7b0734ad4596.html",
+          "date_published": "2026-06-16",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "salute",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the season of heat waves is beginning. Every day, from the end of May to September, bulletins about the heat risk come out in many Italian cities. The bulletins use risk levels, usually with colours. This way people know when the heat is most dangerous. Big cities and those in the South are often the most affected.\n\nStrong heat can be a problem for health, especially for the elderly and children. For this reason it is important to follow some simple tips. You should drink a lot of water and stay in the shade during the hottest hours. It is better not to go out between midday and six in the evening. In addition, it is a good idea to eat fresh fruit and vegetables. With small precautions, we can better protect our health during the summer.",
+        "resumen_es": "In Italia comincia la stagione delle ondate di calore. Ogni giorno, da fine maggio a settembre, escono i bollettini sul rischio del caldo in molte città italiane. I bollettini usano dei livelli di rischio, di solito con dei colori. Così le persone sanno quando il caldo è più pericoloso. Le città grandi e quelle del Sud sono spesso le più colpite.\n\nIl caldo forte può essere un problema per la salute, soprattutto per gli anziani e i bambini. Per questo è importante seguire alcuni consigli semplici. Bisogna bere molta acqua e stare all'ombra nelle ore più calde. È meglio non uscire tra mezzogiorno e le sei di sera. Inoltre, conviene mangiare frutta e verdura fresche. Con piccole attenzioni, possiamo proteggere meglio la nostra salute durante l'estate.",
+        "vocab": [
+          {
+            "front": "l'ondata di calore",
+            "pos": "noun",
+            "back": "heat wave",
+            "example": "Questa ondata di calore durerà tutta la settimana.",
+            "tier": "B1"
+          },
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "heat",
+            "example": "In agosto il caldo è davvero forte.",
+            "tier": "A2"
+          },
+          {
+            "front": "il bollettino",
+            "pos": "noun",
+            "back": "bulletin, report",
+            "example": "Il bollettino del tempo annuncia pioggia per domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "C'è il rischio di temporali nel pomeriggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "pericoloso",
+            "pos": "adj",
+            "back": "dangerous",
+            "example": "Nuotare qui è molto pericoloso.",
+            "tier": "A2"
+          },
+          {
+            "front": "colpito",
+            "pos": "adj",
+            "back": "hit, affected",
+            "example": "Le regioni del Sud sono le più colpite dal caldo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "Fare sport fa bene alla salute.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'anziano",
+            "pos": "noun",
+            "back": "elderly person",
+            "example": "Gli anziani devono bere molta acqua quando fa caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "piece of advice, tip",
+            "example": "Ti do un consiglio: riposa di più.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ombra",
+            "pos": "noun",
+            "back": "shade, shadow",
+            "example": "Mettiamoci all'ombra di quell'albero.",
+            "tier": "A2"
+          },
+          {
+            "front": "bisogna",
+            "pos": "verb",
+            "back": "one must, it is necessary",
+            "example": "Bisogna prenotare prima di andare al museo.",
+            "tier": "B1"
+          },
+          {
+            "front": "convenire",
+            "pos": "verb",
+            "back": "to be advisable, to be worth it",
+            "example": "Conviene partire presto per evitare il traffico.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Un cappello aiuta a proteggere la testa dal sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "fresco",
+            "pos": "adj",
+            "back": "fresh, cool",
+            "example": "Mi piace mangiare frutta fresca d'estate.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il caldo forte può essere un problema per la salute, soprattutto per gli anziani e i bambini.",
+            "point": "verbo modale 'potere + infinito'",
+            "explanation": "'Può essere' usa il verbo modale 'potere' seguito dall'infinito 'essere' per indicare una possibilità.",
+            "why_tricky": "La terza persona di 'potere' è 'può', con l'accento sulla o finale; molti la scrivono senza accento."
+          },
+          {
+            "sentence": "Bisogna bere molta acqua e stare all'ombra nelle ore più calde.",
+            "point": "'bisogna + infinito' (forma impersonale)",
+            "explanation": "'Bisogna' significa 'è necessario' e regge sempre l'infinito: bisogna bere, bisogna stare.",
+            "why_tricky": "'Bisogna' è impersonale: non cambia mai e non ha un soggetto preciso."
+          },
+          {
+            "sentence": "È meglio non uscire tra mezzogiorno e le sei di sera.",
+            "point": "'è meglio + infinito' per dare un consiglio; infinito negativo",
+            "explanation": "'È meglio' più l'infinito serve per consigliare. La forma negativa mette 'non' davanti all'infinito: non uscire.",
+            "why_tricky": "Nell'infinito negativo il 'non' va prima del verbo, non dopo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "morire di caldo",
+            "meaning": "to be boiling, to be dying of heat",
+            "example": "Oggi in città si muore di caldo!"
+          },
+          {
+            "phrase": "prendersi cura di",
+            "meaning": "to take care of",
+            "example": "È importante prendersi cura della propria salute."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando escono i bollettini sul caldo in Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Chi sono le persone più a rischio con il caldo forte?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli dà il testo per proteggere la salute?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come passi le giornate molto calde d'estate? Scrivi qualche frase con i tuoi consigli per stare bene."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-16-terremoto-indonesia-sulawesi",
+      "title": "Indonesia, terremoto di magnitudo 6.7 sull'isola di Sulawesi",
+      "source": "RaiNews",
+      "date": "2026-06-16",
+      "level": "A2-B1",
+      "topics": [
+        "mondo",
+        "terremoto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-16-terremoto-indonesia-sulawesi",
+        "revision": 1,
+        "meta": {
+          "title": "Indonesia, terremoto di magnitudo 6.7 sull'isola di Sulawesi",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/06/indonesia-terremoto-di-magnitudo-67-sullisola-di-sulawesi-008784ca-a984-4174-823b-30a4c82a8de9.html",
+          "date_published": "2026-06-16",
+          "date_processed": "2026-06-16",
+          "tags": [
+            "mondo",
+            "terremoto"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A strong earthquake has hit Indonesia. The quake, with a magnitude of 6.7, struck the island of Sulawesi, in the centre of the country. The epicentre was near the city of Palu. Many people were frightened and went out of their homes. Some buildings were damaged, and in a few hospitals patients were moved outside for safety.\n\nIndonesia is a country with many earthquakes. It lies in an area where the earth often moves, called the Pacific 'Ring of Fire'. For this reason, earthquakes and volcanoes are very common. The authorities are constantly monitoring the situation and are asking people to be careful. For now there is no certain news about the total damage. In the coming hours, experts will give more information about the earthquake.",
+        "resumen_es": "Un forte terremoto ha colpito l'Indonesia. La scossa, di magnitudo 6.7, è arrivata sull'isola di Sulawesi, nel centro del Paese. L'epicentro era vicino alla città di Palu. Molte persone hanno avuto paura e sono uscite di casa. Alcuni edifici sono stati danneggiati e in qualche ospedale i pazienti sono stati spostati fuori per sicurezza.\n\nL'Indonesia è un Paese con molti terremoti. Si trova in una zona dove la terra si muove spesso, chiamata 'Anello di Fuoco' del Pacifico. Per questo, i terremoti e i vulcani sono molto comuni. Le autorità controllano sempre la situazione e chiedono alle persone di stare attente. Per ora non ci sono notizie certe sui danni totali. Nelle prossime ore gli esperti daranno altre informazioni sul terremoto.",
+        "vocab": [
+          {
+            "front": "il terremoto",
+            "pos": "noun",
+            "back": "earthquake",
+            "example": "Il terremoto ha fatto tremare le case.",
+            "tier": "A2"
+          },
+          {
+            "front": "la scossa",
+            "pos": "noun",
+            "back": "tremor, quake",
+            "example": "Abbiamo sentito una forte scossa nella notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "colpire",
+            "pos": "verb",
+            "back": "to hit, to strike",
+            "example": "La tempesta ha colpito tutta la regione.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'epicentro",
+            "pos": "noun",
+            "back": "epicentre",
+            "example": "L'epicentro del sisma era in mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'edificio",
+            "pos": "noun",
+            "back": "building",
+            "example": "Quell'edificio è molto vecchio.",
+            "tier": "A2"
+          },
+          {
+            "front": "danneggiare",
+            "pos": "verb",
+            "back": "to damage",
+            "example": "Il vento ha danneggiato molti alberi.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere paura",
+            "pos": "phrase",
+            "back": "to be afraid",
+            "example": "I bambini hanno paura del buio.",
+            "tier": "A2"
+          },
+          {
+            "front": "spostare",
+            "pos": "verb",
+            "back": "to move (something)",
+            "example": "Dobbiamo spostare il tavolo in cucina.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sicurezza",
+            "pos": "noun",
+            "back": "safety, security",
+            "example": "La sicurezza dei passeggeri viene prima di tutto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il vulcano",
+            "pos": "noun",
+            "back": "volcano",
+            "example": "L'Etna è un vulcano molto attivo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'autorità",
+            "pos": "noun",
+            "back": "authority",
+            "example": "Le autorità hanno chiuso la strada.",
+            "tier": "B1"
+          },
+          {
+            "front": "stare attento",
+            "pos": "phrase",
+            "back": "to be careful",
+            "example": "Stai attento quando attraversi la strada.",
+            "tier": "A2"
+          },
+          {
+            "front": "i danni",
+            "pos": "noun",
+            "back": "damage",
+            "example": "L'alluvione ha causato molti danni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esperto",
+            "pos": "noun",
+            "back": "expert",
+            "example": "Gli esperti studiano il clima da anni.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Molte persone hanno avuto paura e sono uscite di casa.",
+            "point": "passato prossimo: 'avere' e 'essere' a confronto",
+            "explanation": "'Hanno avuto' usa avere; 'sono uscite' usa essere e il participio concorda con il soggetto femminile plurale (uscite).",
+            "why_tricky": "I verbi di movimento come 'uscire' vogliono essere, e il participio deve concordare."
+          },
+          {
+            "sentence": "Le autorità controllano sempre la situazione e chiedono alle persone di stare attente.",
+            "point": "'chiedere a qualcuno di + infinito'",
+            "explanation": "Con 'chiedere' si usa la struttura 'chiedere a qualcuno di fare qualcosa': chiedono alle persone di stare attente.",
+            "why_tricky": "Serve la preposizione 'a' per la persona e 'di' prima dell'infinito; è facile dimenticarne una."
+          },
+          {
+            "sentence": "Nelle prossime ore gli esperti daranno altre informazioni sul terremoto.",
+            "point": "futuro semplice irregolare ('dare')",
+            "explanation": "'Daranno' è il futuro di 'dare', un verbo irregolare al futuro (darò, darai, darà, daranno).",
+            "why_tricky": "Il futuro di 'dare' mantiene la a (daranno) e non diventa 'e' come in molti altri verbi."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sano e salvo",
+            "meaning": "safe and sound",
+            "example": "Per fortuna dopo la scossa erano tutti sani e salvi."
+          },
+          {
+            "phrase": "tirare un sospiro di sollievo",
+            "meaning": "to breathe a sigh of relief",
+            "example": "Quando è finita la scossa, tutti hanno tirato un sospiro di sollievo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è arrivato il terremoto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa hanno fatto le persone durante la scossa?",
+            "type": "open"
+          },
+          {
+            "q": "Perché in Indonesia ci sono molti terremoti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai mai sentito un terremoto o un'altra emergenza? Scrivi qualche frase su che cosa si deve fare per stare al sicuro."
+      }
+    },
     {
       "pack_id": "feed-2026-06-15-sicilia-isola-bella",
       "title": "Telegraph: 'La Sicilia l'isola più bella del Mediterraneo per chi ci vive'",
