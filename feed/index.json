@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-06-16T21:13:53Z",
+  "generated_at": "2026-06-17T10:50:20Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-17-festa-central-park",
+      "title": "Mondiali: mega party gratuito a Central Park per la finale il 19 luglio",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "eventi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-festa-central-park",
+        "revision": 1,
+        "meta": {
+          "title": "Mondiali: mega party gratuito a Central Park per la finale il 19 luglio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/09/mondiali-mega-party-gratuito-a-central-park-per-la-finale-il-19-luglio_43a0078c-ec86-4ab4-9c98-d2d64b55c392.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "calcio",
+            "eventi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "For the final of the football World Cup, there will be a big free party in New York. The date is 19 July at Central Park, the most famous park in the city. About fifty thousand people can take part. The places are not for everyone: to get in you have to win a lottery. Whoever is lucky will be able to watch the match on a big screen, together with many other fans. During the day there will also be music and live entertainment.\n\nThis party is a lovely chance for those who love football and do not have a ticket for the stadium. Watching the final all together, outdoors, creates a special atmosphere full of joy. The organisers want even the fans without a ticket to be able to live the emotion of the World Cup. Events like this help the city to welcome people from all over the world. For many tourists, it will be a day to remember forever.",
+        "resumen_es": "Per la finale dei Mondiali di calcio, a New York ci sarà una grande festa gratis. L'appuntamento è il 19 luglio a Central Park, il parco più famoso della città. Possono partecipare circa cinquantamila persone. I posti non sono per tutti: per entrare bisogna vincere una lotteria. Chi è fortunato potrà guardare la partita su un grande schermo, insieme a tanti altri tifosi. Durante la giornata ci sarà anche musica e intrattenimento dal vivo.\n\nQuesta festa è una bella occasione per chi ama il calcio e non ha un biglietto per lo stadio. Guardare la finale tutti insieme, all'aperto, crea un'atmosfera speciale e piena di gioia. Gli organizzatori vogliono che anche i tifosi senza biglietto possano vivere l'emozione dei Mondiali. Eventi come questo aiutano la città ad accogliere persone da tutto il mondo. Per molti turisti, sarà un giorno da ricordare per sempre.",
+        "vocab": [
+          {
+            "front": "la finale",
+            "pos": "noun",
+            "back": "the final (match)",
+            "example": "La finale è il 19 luglio.",
+            "tier": "A2"
+          },
+          {
+            "front": "gratis",
+            "pos": "adv",
+            "back": "free, for free",
+            "example": "La festa è gratis per tutti.",
+            "tier": "A2"
+          },
+          {
+            "front": "la festa",
+            "pos": "noun",
+            "back": "party, celebration",
+            "example": "Organizzano una grande festa.",
+            "tier": "A2"
+          },
+          {
+            "front": "partecipare",
+            "pos": "verb",
+            "back": "to take part",
+            "example": "Possono partecipare molte persone.",
+            "tier": "A2"
+          },
+          {
+            "front": "la lotteria",
+            "pos": "noun",
+            "back": "lottery",
+            "example": "Per entrare bisogna vincere una lotteria.",
+            "tier": "B1"
+          },
+          {
+            "front": "vincere",
+            "pos": "verb",
+            "back": "to win",
+            "example": "Spero di vincere un biglietto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "(sports) fan",
+            "example": "I tifosi guardano la partita insieme.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "La partita si vede su un grande schermo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'intrattenimento",
+            "pos": "noun",
+            "back": "entertainment",
+            "example": "Ci sarà intrattenimento per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "dal vivo",
+            "pos": "phrase",
+            "back": "live",
+            "example": "C'è musica dal vivo.",
+            "tier": "B1"
+          },
+          {
+            "front": "all'aperto",
+            "pos": "phrase",
+            "back": "outdoors",
+            "example": "Mangiamo all'aperto d'estate.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'occasione",
+            "pos": "noun",
+            "back": "chance, occasion",
+            "example": "È una bella occasione per divertirsi.",
+            "tier": "B1"
+          },
+          {
+            "front": "accogliere",
+            "pos": "verb",
+            "back": "to welcome",
+            "example": "La città accoglie tanti turisti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "per entrare bisogna vincere una lotteria",
+            "point": "Forma impersonale 'bisogna + infinito'",
+            "explanation": "'Bisogna' significa 'è necessario' ed è sempre seguito dall'infinito. Non cambia mai con la persona.",
+            "why_tricky": "Gli studenti cercano di coniugare 'bisogna' o aggiungono un soggetto, ma resta sempre uguale."
+          },
+          {
+            "sentence": "Questa festa è una bella occasione per chi ama il calcio",
+            "point": "Pronome relativo 'chi' (= le persone che)",
+            "explanation": "'Chi' unisce due idee e significa 'le persone che'. Il verbo che segue va alla terza persona singolare.",
+            "why_tricky": "'Chi' si confonde con 'che'; inoltre regge il verbo al singolare anche se pensiamo a molte persone."
+          },
+          {
+            "sentence": "Gli organizzatori vogliono che anche i tifosi senza biglietto possano vivere l'emozione dei Mondiali",
+            "point": "Congiuntivo dopo 'volere che'",
+            "explanation": "Quando il soggetto della frase principale è diverso da quello della subordinata, dopo 'volere che' si usa il congiuntivo ('possano').",
+            "why_tricky": "In molte lingue qui si userebbe l'infinito; in italiano serve il congiuntivo perché i soggetti sono diversi."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un giorno da ricordare",
+            "meaning": "una giornata speciale, indimenticabile",
+            "example": "La festa è stata un giorno da ricordare."
+          },
+          {
+            "phrase": "fare festa",
+            "meaning": "festeggiare, divertirsi insieme",
+            "example": "Dopo la vittoria, i tifosi hanno fatto festa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove e quando si svolge la grande festa per la finale?",
+            "type": "open"
+          },
+          {
+            "q": "Come si può partecipare all'evento?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo te, molti tifosi sono contenti di questa iniziativa?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe guardare una partita importante insieme a tante persone all'aperto? Scrivi un breve testo e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-17-sinner-controlli",
+      "title": "Jannik Sinner tornato al San Raffaele per completare gli accertamenti",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "tennis",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-sinner-controlli",
+        "revision": 1,
+        "meta": {
+          "title": "Jannik Sinner tornato al San Raffaele per completare gli accertamenti",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/2026/06/09/jannik-sinner-tornato-al-san-raffaele-per-completare-gli-accertamenti_41ec3c54-a8c0-465d-8165-7cf0ca2815de.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "tennis",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Jannik Sinner, the number one tennis player in the world, has gone back to a hospital in Milan for some medical checks. The champion felt unwell during a match at Roland Garros, the famous tournament in Paris. For this reason the doctors want to understand well what happened. Sinner stayed in the facility for more than three hours and had several tests. For now there is no worrying news about his condition.\n\nFans all over the world are anxiously waiting to know how their champion is. Sinner is one of the most loved and followed Italian athletes of recent years. His health is very important, especially because the tennis season is long and tiring. Everyone hopes that the player can soon return to the court. In the meantime, it is right that he takes the time he needs to rest and get better calmly.",
+        "resumen_es": "Jannik Sinner, il tennista numero uno del mondo, è tornato in ospedale a Milano per alcuni controlli medici. Il campione si è sentito male durante una partita al Roland Garros, il famoso torneo di Parigi. Per questo motivo i medici vogliono capire bene che cosa è successo. Sinner è rimasto nella struttura per più di tre ore e ha fatto diversi esami. Per ora non ci sono notizie preoccupanti sulle sue condizioni.\n\nI tifosi di tutto il mondo aspettano con ansia di sapere come sta il loro campione. Sinner è uno degli sportivi italiani più amati e seguiti degli ultimi anni. La sua salute è molto importante, soprattutto perché la stagione del tennis è lunga e faticosa. Tutti sperano che il giocatore possa tornare presto in campo. Intanto, è giusto che si prenda il tempo necessario per riposare e curarsi con calma.",
+        "vocab": [
+          {
+            "front": "il tennista",
+            "pos": "noun",
+            "back": "tennis player",
+            "example": "È il tennista più forte del mondo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ospedale",
+            "pos": "noun",
+            "back": "hospital",
+            "example": "È andato in ospedale per i controlli.",
+            "tier": "A2"
+          },
+          {
+            "front": "il controllo medico",
+            "pos": "noun",
+            "back": "medical check-up",
+            "example": "Ha fatto un controllo medico ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "sentirsi male",
+            "pos": "phrase",
+            "back": "to feel unwell",
+            "example": "Si è sentito male durante la partita.",
+            "tier": "A2"
+          },
+          {
+            "front": "il torneo",
+            "pos": "noun",
+            "back": "tournament",
+            "example": "Roland Garros è un torneo famoso.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esame",
+            "pos": "noun",
+            "back": "test, exam (medical)",
+            "example": "I medici hanno fatto diversi esami.",
+            "tier": "A2"
+          },
+          {
+            "front": "le condizioni",
+            "pos": "noun",
+            "back": "(health) condition",
+            "example": "Le sue condizioni sono buone.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi sono preoccupati.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "La salute viene prima di tutto.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo sportivo",
+            "pos": "noun",
+            "back": "athlete, sportsperson",
+            "example": "È uno sportivo molto amato.",
+            "tier": "B1"
+          },
+          {
+            "front": "faticoso/a",
+            "pos": "adj",
+            "back": "tiring, hard",
+            "example": "La stagione è lunga e faticosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "tornare in campo",
+            "pos": "phrase",
+            "back": "to return to the field/court",
+            "example": "Spera di tornare in campo presto.",
+            "tier": "B1"
+          },
+          {
+            "front": "riposare",
+            "pos": "verb",
+            "back": "to rest",
+            "example": "Deve riposare qualche giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "curarsi",
+            "pos": "verb",
+            "back": "to get better, to take care of oneself",
+            "example": "Ha bisogno di tempo per curarsi.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il campione si è sentito male durante una partita al Roland Garros",
+            "point": "Passato prossimo dei verbi riflessivi",
+            "explanation": "I verbi riflessivi come 'sentirsi' formano il passato prossimo con l'ausiliare 'essere' e il participio concorda con il soggetto ('sentito').",
+            "why_tricky": "Si tende a usare 'avere' invece di 'essere', e a dimenticare l'accordo del participio."
+          },
+          {
+            "sentence": "Tutti sperano che il giocatore possa tornare presto in campo",
+            "point": "Congiuntivo dopo 'sperare che'",
+            "explanation": "Dopo 'sperare che' il verbo va al congiuntivo ('possa') perché esprime desiderio e incertezza.",
+            "why_tricky": "Molti usano l'indicativo ('può'), ma 'sperare che' richiede sempre il congiuntivo."
+          },
+          {
+            "sentence": "è giusto che si prenda il tempo necessario",
+            "point": "Congiuntivo dopo espressioni impersonali ('è giusto che')",
+            "explanation": "Le espressioni come 'è giusto che', 'è importante che' introducono il congiuntivo ('si prenda').",
+            "why_tricky": "L'espressione impersonale non ha un soggetto chiaro, quindi è facile dimenticare il congiuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "aspettare con ansia",
+            "meaning": "attendere qualcosa con molta impazienza",
+            "example": "Aspettiamo con ansia le sue notizie."
+          },
+          {
+            "phrase": "prendersi il tempo necessario",
+            "meaning": "non avere fretta, fare le cose con calma",
+            "example": "Per guarire bene, prenditi il tempo necessario."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Jannik Sinner è andato in ospedale?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa è successo durante il torneo di Parigi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo te, la salute è così importante per uno sportivo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, gli sportivi famosi devono riposare di più quando si sentono male? Scrivi la tua opinione con qualche esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-17-autovelox-decreto",
+      "title": "Salvini firma il decreto per l'omologazione e la disciplina degli autovelox",
+      "source": "ANSA",
+      "date": "2026-06-09",
+      "level": "A2-B1",
+      "topics": [
+        "strade",
+        "sicurezza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-17-autovelox-decreto",
+        "revision": 1,
+        "meta": {
+          "title": "Salvini firma il decreto per l'omologazione e la disciplina degli autovelox",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/06/09/salvini-firma-decreto-per-omologazione-e-disciplina-degli-autovelox_fa609e16-b186-4b64-871e-b769681597a3.html",
+          "date_published": "2026-06-09",
+          "date_processed": "2026-06-17",
+          "tags": [
+            "strade",
+            "sicurezza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy there are new rules for speed cameras, the devices that measure the speed of cars on the roads. The Minister of Transport has signed a decree that establishes how these instruments must work and where they can be used. The aim is to have clear and equal rules throughout the country. Until now, in fact, the rules were not always precise, and this created confusion among drivers and local authorities.\n\nSpeed cameras serve above all for safety on the roads. When cars go too fast, the risk of accidents increases. With clearer rules, the checks become fairer and more transparent for everyone. Those who drive respecting the limits do not have to be afraid of fines. The government hopes that these measures help to reduce accidents and make the roads safer. It is important that every driver knows the rules well and drives carefully.",
+        "resumen_es": "In Italia ci sono nuove regole per gli autovelox, gli apparecchi che misurano la velocità delle auto sulle strade. Il ministro dei Trasporti ha firmato un decreto che stabilisce come questi strumenti devono funzionare e dove possono essere usati. L'obiettivo è avere regole chiare e uguali in tutto il paese. Fino a oggi, infatti, le norme non erano sempre precise, e questo creava confusione tra gli automobilisti e le amministrazioni locali.\n\nGli autovelox servono soprattutto per la sicurezza sulle strade. Quando le auto vanno troppo veloci, il rischio di incidenti aumenta. Con regole più chiare, i controlli diventano più giusti e trasparenti per tutti. Chi guida rispettando i limiti non deve avere paura delle multe. Il governo spera che queste misure aiutino a ridurre gli incidenti e a rendere le strade più sicure. È importante che ogni automobilista conosca bene le regole e guidi con prudenza.",
+        "vocab": [
+          {
+            "front": "l'autovelox",
+            "pos": "noun",
+            "back": "speed camera",
+            "example": "C'è un autovelox lungo la strada.",
+            "tier": "B1"
+          },
+          {
+            "front": "la velocità",
+            "pos": "noun",
+            "back": "speed",
+            "example": "L'autovelox misura la velocità.",
+            "tier": "A2"
+          },
+          {
+            "front": "la strada",
+            "pos": "noun",
+            "back": "road, street",
+            "example": "La strada è molto trafficata.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ministro",
+            "pos": "noun",
+            "back": "minister",
+            "example": "Il ministro ha firmato il decreto.",
+            "tier": "B1"
+          },
+          {
+            "front": "firmare",
+            "pos": "verb",
+            "back": "to sign",
+            "example": "Deve firmare il documento.",
+            "tier": "A2"
+          },
+          {
+            "front": "il decreto",
+            "pos": "noun",
+            "back": "decree",
+            "example": "Il decreto introduce nuove regole.",
+            "tier": "B1"
+          },
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "Bisogna rispettare le regole.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'automobilista",
+            "pos": "noun",
+            "back": "driver, motorist",
+            "example": "Gli automobilisti devono fare attenzione.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sicurezza",
+            "pos": "noun",
+            "back": "safety, security",
+            "example": "La sicurezza sulle strade è importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'incidente",
+            "pos": "noun",
+            "back": "accident",
+            "example": "Gli incidenti sono diminuiti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il limite",
+            "pos": "noun",
+            "back": "limit",
+            "example": "Bisogna rispettare il limite di velocità.",
+            "tier": "A2"
+          },
+          {
+            "front": "la multa",
+            "pos": "noun",
+            "back": "fine, ticket",
+            "example": "Ho preso una multa per eccesso di velocità.",
+            "tier": "B1"
+          },
+          {
+            "front": "guidare",
+            "pos": "verb",
+            "back": "to drive",
+            "example": "Guida sempre con prudenza.",
+            "tier": "A2"
+          },
+          {
+            "front": "la prudenza",
+            "pos": "noun",
+            "back": "caution, care",
+            "example": "Bisogna guidare con prudenza.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il ministro dei Trasporti ha firmato un decreto che stabilisce come questi strumenti devono funzionare",
+            "point": "Pronome relativo 'che' + interrogativa indiretta 'come'",
+            "explanation": "'Che' unisce due frasi e si riferisce al decreto. 'Come' introduce una domanda indiretta sul modo di funzionare.",
+            "why_tricky": "Si confonde il 'che' relativo con altri usi di 'che', e si mette il punto interrogativo nella frase indiretta."
+          },
+          {
+            "sentence": "Il governo spera che queste misure aiutino a ridurre gli incidenti",
+            "point": "Congiuntivo dopo 'sperare che'",
+            "explanation": "Dopo 'sperare che' il verbo va al congiuntivo presente ('aiutino') perché esprime un desiderio.",
+            "why_tricky": "Si usa spesso l'indicativo ('aiutano') al posto del congiuntivo richiesto."
+          },
+          {
+            "sentence": "È importante che ogni automobilista conosca bene le regole",
+            "point": "Congiuntivo dopo 'è importante che'",
+            "explanation": "Le espressioni impersonali come 'è importante che' richiedono il congiuntivo ('conosca').",
+            "why_tricky": "Il verbo 'conoscere' al congiuntivo ('conosca') cambia forma rispetto all'indicativo ('conosce')."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare troppo veloce",
+            "meaning": "superare la velocità giusta o consentita",
+            "example": "Non andare troppo veloce in città."
+          },
+          {
+            "phrase": "guidare con prudenza",
+            "meaning": "guidare con attenzione e senza rischi",
+            "example": "Con la pioggia bisogna guidare con prudenza."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa misurano gli autovelox e dove si trovano?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il ministro ha firmato un nuovo decreto?",
+            "type": "open"
+          },
+          {
+            "q": "Come possono gli autovelox rendere le strade più sicure?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, gli autovelox sono utili per la sicurezza o servono solo a dare multe? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-06-16-partenze-estate-italiani",
       "title": "Con la fine della scuola scattano le partenze a giugno, in viaggio 16 milioni italiani",
