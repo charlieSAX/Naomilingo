@@ -1,7 +1,500 @@
 {
-  "generated_at": "2026-06-18T10:42:54Z",
+  "generated_at": "2026-06-18T21:31:12Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-18-vasco-concerti-roma",
+      "title": "Vasco annuncia i 10 concerti del 2027 allo Stadio Olimpico di Roma",
+      "source": "RaiNews",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-vasco-concerti-roma",
+        "revision": 1,
+        "meta": {
+          "title": "Vasco annuncia i 10 concerti del 2027 allo Stadio Olimpico di Roma",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/video/2026/06/vasco-annuncia-i-10-concerti-del-2027-allo-stadio-olimpico-di-roma-83e41f74-ff03-4d1c-b361-ad59571db79f.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "musica",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Vasco Rossi has announced great news for his fans. In 2027 the singer will hold ten concerts at the Olympic Stadium in Rome. In this way he is celebrating fifty years of his career. Vasco is one of the most loved artists in Italy and his music accompanies many generations. For this reason the excitement among the public is already very high.\n\nThe organisers expect about half a million people across all the concerts. For Rome this means many tourists, a lot of work for the hotels and the restaurants. Buying the tickets, however, will not be easy, because demand is enormous. Many fans are already getting ready so as not to miss this special event. It will surely be a great celebration of Italian music.",
+        "resumen_es": "Vasco Rossi ha annunciato una grande notizia per i suoi fan. Nel 2027 il cantante terrà dieci concerti allo Stadio Olimpico di Roma. In questo modo festeggia cinquanta anni di carriera. Vasco è uno degli artisti più amati in Italia e la sua musica accompagna molte generazioni. Per questo l'attesa tra il pubblico è già altissima.\n\nGli organizzatori aspettano circa mezzo milione di persone durante tutti i concerti. Per Roma questo significa molti turisti, molto lavoro per gli alberghi e per i ristoranti. Comprare i biglietti, però, non sarà facile, perché la richiesta è enorme. Molti fan si preparano già per non perdere questo evento speciale. Sarà sicuramente una grande festa della musica italiana.",
+        "vocab": [
+          {
+            "front": "annunciare",
+            "pos": "verb",
+            "back": "to announce",
+            "example": "Il governo annuncia nuove regole.",
+            "tier": "A2"
+          },
+          {
+            "front": "cantante",
+            "pos": "noun",
+            "back": "singer",
+            "example": "Il cantante saluta il pubblico.",
+            "tier": "A2"
+          },
+          {
+            "front": "concerto",
+            "pos": "noun",
+            "back": "concert",
+            "example": "Andiamo al concerto sabato sera.",
+            "tier": "A2"
+          },
+          {
+            "front": "carriera",
+            "pos": "noun",
+            "back": "career",
+            "example": "Ha avuto una lunga carriera nel cinema.",
+            "tier": "B1"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Festeggiamo il compleanno di Maria.",
+            "tier": "A2"
+          },
+          {
+            "front": "attesa",
+            "pos": "noun",
+            "back": "wait, anticipation",
+            "example": "L'attesa per il film è grande.",
+            "tier": "B1"
+          },
+          {
+            "front": "biglietto",
+            "pos": "noun",
+            "back": "ticket",
+            "example": "Ho comprato due biglietti per il treno.",
+            "tier": "A2"
+          },
+          {
+            "front": "richiesta",
+            "pos": "noun",
+            "back": "demand, request",
+            "example": "C'è molta richiesta di case in centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico applaude felice.",
+            "tier": "A2"
+          },
+          {
+            "front": "albergo",
+            "pos": "noun",
+            "back": "hotel",
+            "example": "Dormiamo in un albergo vicino al mare.",
+            "tier": "A2"
+          },
+          {
+            "front": "perdere",
+            "pos": "verb",
+            "back": "to miss, to lose",
+            "example": "Non voglio perdere il treno.",
+            "tier": "A2"
+          },
+          {
+            "front": "evento",
+            "pos": "noun",
+            "back": "event",
+            "example": "È stato un evento molto importante.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nel 2027 il cantante terrà dieci concerti allo Stadio Olimpico di Roma.",
+            "point": "Futuro semplice irregolare",
+            "explanation": "'Terrà' è il futuro irregolare del verbo 'tenere' e qui significa 'farà' o 'organizzerà' i concerti.",
+            "why_tricky": "Molti verbi comuni hanno un futuro irregolare che non segue la radice dell'infinito."
+          },
+          {
+            "sentence": "Vasco è uno degli artisti più amati in Italia e la sua musica accompagna molte generazioni.",
+            "point": "Superlativo relativo",
+            "explanation": "'Uno degli artisti più amati' indica che Vasco fa parte di un piccolo gruppo dei migliori.",
+            "why_tricky": "Bisogna usare 'degli' (di + gli) e l'aggettivo deve concordare al plurale."
+          },
+          {
+            "sentence": "Comprare i biglietti, però, non sarà facile, perché la richiesta è enorme.",
+            "point": "Infinito come soggetto",
+            "explanation": "'Comprare i biglietti' è il soggetto della frase, come dire 'l'azione di comprare'.",
+            "why_tricky": "In inglese si userebbe la forma in -ing, quindi gli studenti dimenticano l'infinito."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non vedere l'ora",
+            "meaning": "to look forward to, to not be able to wait",
+            "example": "Non vedo l'ora di andare al concerto."
+          },
+          {
+            "phrase": "fare il tutto esaurito",
+            "meaning": "to sell out (all tickets gone)",
+            "example": "Il concerto ha fatto il tutto esaurito in un giorno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha annunciato Vasco Rossi per il 2027?",
+            "type": "open"
+          },
+          {
+            "q": "Perché secondo il testo non sarà facile comprare i biglietti?",
+            "type": "open"
+          },
+          {
+            "q": "Quali vantaggi porteranno i concerti alla città di Roma?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace andare ai concerti? Scrivi un breve testo e racconta qual è il concerto o l'artista che vorresti vedere dal vivo e perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-mostre-weekend-chagall",
+      "title": "Le mostre del weekend, da Chagall all'arte della citazione",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "arte",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-mostre-weekend-chagall",
+        "revision": 1,
+        "meta": {
+          "title": "Le mostre del weekend, da Chagall all'arte della citazione",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/06/17/le-mostre-del-weekend-da-chagall-allarte-della-citazione_54632300-ea0f-4147-84c7-17a0e0c382d6.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "arte",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "This weekend Italian cities offer many interesting exhibitions for art lovers. You can admire the colourful and poetic world of Marc Chagall, a painter famous all over the world. His works tell of dreams, love and memories with bright colours. It is a perfect chance to spend a few hours in a museum and discover great artists.\n\nIn Milan an exhibition is dedicated to the photographer Aurelio Amendola, famous for his black and white images. In Turin, instead, an exhibition tells the role of play in art, from the Renaissance until today. The exhibitions are suitable for everyone, including families with children. Visiting a museum at the weekend is a simple and pleasant way to learn something new.",
+        "resumen_es": "Questo fine settimana le città italiane offrono molte mostre interessanti per gli amanti dell'arte. Si può ammirare il mondo colorato e poetico di Marc Chagall, un pittore famoso in tutto il mondo. Le sue opere raccontano sogni, amore e ricordi con colori vivaci. È un'occasione perfetta per passare qualche ora in un museo e scoprire grandi artisti.\n\nA Milano una mostra è dedicata al fotografo Aurelio Amendola, famoso per le sue immagini in bianco e nero. A Torino, invece, una esposizione racconta il ruolo del gioco nell'arte, dal Rinascimento fino a oggi. Le mostre sono adatte a tutti, anche alle famiglie con bambini. Visitare un museo nel weekend è un modo semplice e piacevole per imparare qualcosa di nuovo.",
+        "vocab": [
+          {
+            "front": "mostra",
+            "pos": "noun",
+            "back": "exhibition",
+            "example": "La mostra apre alle dieci.",
+            "tier": "A2"
+          },
+          {
+            "front": "pittore",
+            "pos": "noun",
+            "back": "painter",
+            "example": "Il pittore lavora nel suo studio.",
+            "tier": "A2"
+          },
+          {
+            "front": "opera",
+            "pos": "noun",
+            "back": "work (of art)",
+            "example": "Questa opera è molto famosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "ammirare",
+            "pos": "verb",
+            "back": "to admire",
+            "example": "Tutti ammirano il panorama.",
+            "tier": "B1"
+          },
+          {
+            "front": "colorato",
+            "pos": "adj",
+            "back": "colourful",
+            "example": "Il quadro è molto colorato.",
+            "tier": "A2"
+          },
+          {
+            "front": "ricordo",
+            "pos": "noun",
+            "back": "memory",
+            "example": "Ho un bel ricordo di quel viaggio.",
+            "tier": "A2"
+          },
+          {
+            "front": "museo",
+            "pos": "noun",
+            "back": "museum",
+            "example": "Il museo è chiuso il lunedì.",
+            "tier": "A2"
+          },
+          {
+            "front": "fotografo",
+            "pos": "noun",
+            "back": "photographer",
+            "example": "Il fotografo scatta molte foto.",
+            "tier": "A2"
+          },
+          {
+            "front": "esposizione",
+            "pos": "noun",
+            "back": "exhibition, display",
+            "example": "L'esposizione dura un mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "ruolo",
+            "pos": "noun",
+            "back": "role",
+            "example": "Ha un ruolo importante nel film.",
+            "tier": "B1"
+          },
+          {
+            "front": "adatto",
+            "pos": "adj",
+            "back": "suitable",
+            "example": "Questo film è adatto ai bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "piacevole",
+            "pos": "adj",
+            "back": "pleasant",
+            "example": "È stata una serata piacevole.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si può ammirare il mondo colorato e poetico di Marc Chagall, un pittore famoso in tutto il mondo.",
+            "point": "Si impersonale con il verbo potere",
+            "explanation": "'Si può ammirare' significa 'si riesce a vedere' o 'la gente può ammirare', senza un soggetto preciso.",
+            "why_tricky": "Il 'si' impersonale si confonde con il 'si' riflessivo e con il pronome 'si' di terza persona."
+          },
+          {
+            "sentence": "A Torino, invece, una esposizione racconta il ruolo del gioco nell'arte, dal Rinascimento fino a oggi.",
+            "point": "Indicazione di tempo 'dal... fino a'",
+            "explanation": "'Dal Rinascimento fino a oggi' indica un lungo periodo che va da un punto del passato fino al presente.",
+            "why_tricky": "Serve la preposizione articolata 'dal' (da + il) e poi 'fino a' senza articolo."
+          },
+          {
+            "sentence": "Visitare un museo nel weekend è un modo semplice e piacevole per imparare qualcosa di nuovo.",
+            "point": "Infinito come soggetto e 'qualcosa di + aggettivo'",
+            "explanation": "'Visitare' è il soggetto della frase; 'qualcosa di nuovo' usa sempre 'di' prima dell'aggettivo.",
+            "why_tricky": "Gli studenti dimenticano il 'di' e dicono 'qualcosa nuovo'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in bianco e nero",
+            "meaning": "in black and white",
+            "example": "Adoro le vecchie foto in bianco e nero."
+          },
+          {
+            "phrase": "qualcosa di nuovo",
+            "meaning": "something new",
+            "example": "Voglio provare qualcosa di nuovo questa estate."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali artisti si possono scoprire nelle mostre di questo fine settimana?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa racconta l'esposizione di Torino?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il testo, visitare un museo è un'attività adatta a tutti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace visitare i musei? Scrivi un breve testo e descrivi l'ultima mostra o il museo che hai visitato, oppure uno che vorresti visitare."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-storia-costumi-bagno",
+      "title": "La storia nell'armadio: i costumi da bagno",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "moda",
+        "storia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-storia-costumi-bagno",
+        "revision": 1,
+        "meta": {
+          "title": "La storia nell'armadio: i costumi da bagno",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/podcast/ansa_voice_magazine/2026/06/18/la-storia-nellarmadio-i-costumi-da-bagno_e9ed7562-4952-41cf-9f32-9d44a3d919b1.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "moda",
+            "storia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The swimsuit has a long and curious history. Today we use it without thinking, but in the past things were very different. Many years ago swimsuits were big, heavy and covered almost the whole body. Going to the sea was a rare activity and followed very strict rules, especially for women.\n\nOver time the swimsuit has changed a great deal and has become smaller, more comfortable and colourful. This change also tells how society and the way of living free time have changed. Today the swimsuit is a symbol of summer, of the sun and of holidays. Studying its history helps us to understand better the fashions and tastes of every era.",
+        "resumen_es": "Il costume da bagno ha una storia lunga e curiosa. Oggi lo usiamo senza pensarci, ma in passato le cose erano molto diverse. Tanti anni fa i costumi erano grandi, pesanti e coprivano quasi tutto il corpo. Andare al mare era un'attività rara e seguiva regole molto severe, soprattutto per le donne.\n\nCon il tempo il costume da bagno è cambiato tantissimo ed è diventato più piccolo, comodo e colorato. Questo cambiamento racconta anche come è cambiata la società e il modo di vivere il tempo libero. Oggi il costume è un simbolo dell'estate, del sole e delle vacanze. Studiare la sua storia ci aiuta a capire meglio le mode e i gusti di ogni epoca.",
+        "vocab": [
+          {
+            "front": "costume da bagno",
+            "pos": "phrase",
+            "back": "swimsuit",
+            "example": "Ho comprato un costume da bagno nuovo.",
+            "tier": "A2"
+          },
+          {
+            "front": "passato",
+            "pos": "noun",
+            "back": "past",
+            "example": "Nel passato la vita era più lenta.",
+            "tier": "A2"
+          },
+          {
+            "front": "pesante",
+            "pos": "adj",
+            "back": "heavy",
+            "example": "Questa valigia è troppo pesante.",
+            "tier": "A2"
+          },
+          {
+            "front": "coprire",
+            "pos": "verb",
+            "back": "to cover",
+            "example": "La neve copre le montagne.",
+            "tier": "B1"
+          },
+          {
+            "front": "corpo",
+            "pos": "noun",
+            "back": "body",
+            "example": "Lo sport fa bene al corpo.",
+            "tier": "A2"
+          },
+          {
+            "front": "regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "Dobbiamo rispettare le regole.",
+            "tier": "A2"
+          },
+          {
+            "front": "severo",
+            "pos": "adj",
+            "back": "strict",
+            "example": "Il professore è molto severo.",
+            "tier": "B1"
+          },
+          {
+            "front": "comodo",
+            "pos": "adj",
+            "back": "comfortable",
+            "example": "Queste scarpe sono molto comode.",
+            "tier": "A2"
+          },
+          {
+            "front": "cambiamento",
+            "pos": "noun",
+            "back": "change",
+            "example": "Il cambiamento fa un po' paura.",
+            "tier": "B1"
+          },
+          {
+            "front": "tempo libero",
+            "pos": "phrase",
+            "back": "free time",
+            "example": "Nel tempo libero leggo molto.",
+            "tier": "A2"
+          },
+          {
+            "front": "moda",
+            "pos": "noun",
+            "back": "fashion",
+            "example": "Segue sempre l'ultima moda.",
+            "tier": "B1"
+          },
+          {
+            "front": "gusto",
+            "pos": "noun",
+            "back": "taste, preference",
+            "example": "Ognuno ha i suoi gusti.",
+            "tier": "B1"
+          },
+          {
+            "front": "epoca",
+            "pos": "noun",
+            "back": "era, age",
+            "example": "Vivevano in un'altra epoca.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tanti anni fa i costumi erano grandi, pesanti e coprivano quasi tutto il corpo.",
+            "point": "Imperfetto per descrizioni al passato",
+            "explanation": "'Erano' e 'coprivano' usano l'imperfetto per descrivere com'erano le cose abitualmente nel passato.",
+            "why_tricky": "Si confonde con il passato prossimo, che indica azioni concluse e puntuali."
+          },
+          {
+            "sentence": "Con il tempo il costume da bagno è cambiato tantissimo ed è diventato più piccolo, comodo e colorato.",
+            "point": "Passato prossimo con l'ausiliare essere",
+            "explanation": "'È cambiato' ed 'è diventato' usano 'essere' e il participio concorda con il soggetto.",
+            "why_tricky": "Bisogna scegliere tra 'essere' e 'avere' e poi accordare il participio."
+          },
+          {
+            "sentence": "Studiare la sua storia ci aiuta a capire meglio le mode e i gusti di ogni epoca.",
+            "point": "Infinito come soggetto e 'aiutare a + infinito",
+            "explanation": "'Studiare' è il soggetto; il verbo 'aiutare' regge 'a' prima dell'infinito 'capire'.",
+            "why_tricky": "Si dimentica la preposizione 'a' richiesta dal verbo aiutare."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "con il tempo",
+            "meaning": "over time, in time",
+            "example": "Con il tempo tutto si aggiusta."
+          },
+          {
+            "phrase": "fare il bagno",
+            "meaning": "to go for a swim, to bathe",
+            "example": "D'estate mi piace fare il bagno al mare."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Com'erano i costumi da bagno tanti anni fa?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, che cosa racconta il cambiamento del costume da bagno?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è interessante studiare la storia del costume da bagno?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci il mare o la montagna per le vacanze estive? Scrivi un breve testo e spiega perché, descrivendo che cosa ti piace fare nel tempo libero d'estate."
+      }
+    },
     {
       "pack_id": "feed-2026-06-18-maturita-italia",
       "title": "Maturità, tra le tracce un testo tratto dal libro di Calabresi, Frank Furedi 'I confini contano', una poesia di Pavese e l'Assemblea Costituente",
