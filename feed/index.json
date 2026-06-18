@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-17T10:50:20Z",
+  "generated_at": "2026-06-18T10:42:54Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-18-maturita-italia",
+      "title": "Maturità, tra le tracce un testo tratto dal libro di Calabresi, Frank Furedi 'I confini contano', una poesia di Pavese e l'Assemblea Costituente",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "esami"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-maturita-italia",
+        "revision": 1,
+        "meta": {
+          "title": "Maturità, tra le tracce un testo tratto dal libro di Calabresi, Frank Furedi 'I confini contano', una poesia di Pavese e l'Assemblea Costituente",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/06/18/e-il-giorno-degli-esami-di-maturita-per-oltre-527mila-studenti_40402b12-0fb4-4b1b-8961-0e83e901f6ce.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "scuola",
+            "esami"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Today in Italy the maturità exam begins. It is a very important exam for students in their final year of high school. This year more than 527 thousand young people are taking part. The first test is the Italian essay. All the students write on the same day. For many young people it is a moment full of excitement and also of fear.\n\nAfter the first test, students have to face other written tests and an oral exam. During the oral, the students speak in front of their teachers and answer their questions. The maturità is not just an exam. For many it is the end of a long journey at school. It is also the beginning of a new life, at university or in the world of work. For this reason, it is a day that students do not forget easily.",
+        "resumen_es": "Oggi in Italia comincia l'esame di maturità. È un esame molto importante per gli studenti dell'ultimo anno delle scuole superiori. Quest'anno partecipano più di 527 mila ragazzi. La prima prova è il tema di italiano. Tutti gli studenti scrivono lo stesso giorno. Per molti giovani è un momento pieno di emozione e anche di paura.\n\nDopo la prima prova, gli studenti devono affrontare altre prove scritte e un esame orale. Durante l'orale, i ragazzi parlano davanti ai professori e rispondono alle loro domande. La maturità non è solo un esame. Per molti è la fine di un lungo percorso a scuola. È anche l'inizio di una nuova vita, all'università o nel mondo del lavoro. Per questo motivo, è un giorno che gli studenti non dimenticano facilmente.",
+        "vocab": [
+          {
+            "front": "l'esame",
+            "pos": "noun",
+            "back": "exam",
+            "example": "Domani ho un esame difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la maturità",
+            "pos": "noun",
+            "back": "final high-school exam",
+            "example": "La maturità è alla fine del liceo.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo studente",
+            "pos": "noun",
+            "back": "student",
+            "example": "Lo studente legge un libro.",
+            "tier": "A2"
+          },
+          {
+            "front": "la scuola superiore",
+            "pos": "phrase",
+            "back": "high school",
+            "example": "Mia sorella va alla scuola superiore.",
+            "tier": "A2"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "test",
+            "example": "La prova di matematica è lunga.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tema",
+            "pos": "noun",
+            "back": "essay, written composition",
+            "example": "Scrive un tema di italiano.",
+            "tier": "B1"
+          },
+          {
+            "front": "affrontare",
+            "pos": "verb",
+            "back": "to face, to deal with",
+            "example": "Deve affrontare un problema difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esame orale",
+            "pos": "phrase",
+            "back": "oral exam",
+            "example": "L'esame orale è la prossima settimana.",
+            "tier": "B1"
+          },
+          {
+            "front": "il professore",
+            "pos": "noun",
+            "back": "teacher, professor",
+            "example": "Il professore spiega la lezione.",
+            "tier": "A2"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "journey, path",
+            "example": "È stato un lungo percorso di studio.",
+            "tier": "B1"
+          },
+          {
+            "front": "dimenticare",
+            "pos": "verb",
+            "back": "to forget",
+            "example": "Non dimenticare le chiavi di casa.",
+            "tier": "A2"
+          },
+          {
+            "front": "pieno di",
+            "pos": "phrase",
+            "back": "full of",
+            "example": "Il bicchiere è pieno di acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "il mondo del lavoro",
+            "pos": "phrase",
+            "back": "the world of work",
+            "example": "Dopo la scuola entra nel mondo del lavoro.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Dopo la prima prova, gli studenti devono affrontare altre prove scritte e un esame orale.",
+            "point": "Verbo modale 'dovere' + infinito",
+            "explanation": "'Devono' è il presente di 'dovere' e indica obbligo. Dopo un verbo modale si usa sempre l'infinito, qui 'affrontare'.",
+            "why_tricky": "'Dovere' è irregolare: io devo, tu devi, loro devono."
+          },
+          {
+            "sentence": "Per molti giovani è un momento pieno di emozione e anche di paura.",
+            "point": "Aggettivo 'pieno' + preposizione 'di'",
+            "explanation": "'Pieno di' significa 'che contiene molto'. La preposizione 'di' introduce ciò che riempie: emozione e paura.",
+            "why_tricky": "Si dice sempre 'pieno di' e non 'pieno con'."
+          },
+          {
+            "sentence": "Per questo motivo, è un giorno che gli studenti non dimenticano facilmente.",
+            "point": "Connettivo 'per questo motivo' + frase relativa con 'che'",
+            "explanation": "'Per questo motivo' introduce una conseguenza. 'Che' collega la frase relativa al nome 'giorno'.",
+            "why_tricky": "La negazione 'non' va prima del verbo: 'non dimenticano'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "per questo motivo",
+            "meaning": "for this reason, that is why",
+            "example": "Era molto emozionato, per questo motivo non ha dormito."
+          },
+          {
+            "phrase": "in bocca al lupo",
+            "meaning": "good luck (said before a test or challenge)",
+            "example": "Domani c'è la maturità: in bocca al lupo a tutti!"
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cos'è la maturità e chi la fa?",
+            "type": "open"
+          },
+          {
+            "q": "Quali prove devono affrontare gli studenti durante l'esame?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la maturità è un giorno importante nella vita dei ragazzi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, gli esami sono utili o creano troppa ansia? Scrivi la tua opinione con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-venezia-app-trasporti",
+      "title": "Venezia premia chi lascia l'auto a casa: 500mila dollari per due app che incentivano bus e bici",
+      "source": "Rai News",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "città"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-venezia-app-trasporti",
+        "revision": 1,
+        "meta": {
+          "title": "Venezia premia chi lascia l'auto a casa: 500mila dollari per due app che incentivano bus e bici",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/06/venezia-premia-chi-lascia-lauto-a-casa-500mila-dollari-per-due-app-che-incentivano-bus-e-bici-30ece32f-f796-4fbb-873e-e279e590d46e.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "ambiente",
+            "città"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Venice two apps reward people who do not use the car. The two applications give points and gifts to those who take the bus or ride a bike. The startups that created these apps won a prize of 500 thousand dollars. The prize comes from an international competition. Venice is the only European city chosen for this programme.\n\nThe idea is simple but very useful. If people leave the car at home, there is less traffic and less pollution in the city. Also, taking public transport or the bike is good for your health too. Many cities in the world have the same problem: too many cars on the streets. For this reason, examples like Venice's can help us imagine a greener and calmer future for everyone.",
+        "resumen_es": "A Venezia due app premiano le persone che non usano l'auto. Le due applicazioni danno punti e regali a chi prende l'autobus o usa la bici. Le startup che hanno creato queste app hanno vinto un premio di 500 mila dollari. Il premio arriva da un bando internazionale. Venezia è l'unica città europea scelta in questo programma.\n\nL'idea è semplice ma molto utile. Se le persone lasciano l'auto a casa, c'è meno traffico e meno inquinamento in città. Inoltre, prendere i mezzi pubblici o la bici fa bene anche alla salute. Molte città nel mondo hanno lo stesso problema: troppe auto nelle strade. Per questo, esempi come quello di Venezia possono aiutare a immaginare un futuro più verde e più tranquillo per tutti.",
+        "vocab": [
+          {
+            "front": "premiare",
+            "pos": "verb",
+            "back": "to reward",
+            "example": "La scuola premia i bravi studenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'auto",
+            "pos": "noun",
+            "back": "car",
+            "example": "Lascia l'auto a casa e va a piedi.",
+            "tier": "A2"
+          },
+          {
+            "front": "i mezzi pubblici",
+            "pos": "phrase",
+            "back": "public transport",
+            "example": "Prendo i mezzi pubblici ogni giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "la bici",
+            "pos": "noun",
+            "back": "bike",
+            "example": "Vado al lavoro in bici.",
+            "tier": "A2"
+          },
+          {
+            "front": "il premio",
+            "pos": "noun",
+            "back": "prize",
+            "example": "Ha vinto un premio importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "il bando",
+            "pos": "noun",
+            "back": "public call, competition",
+            "example": "Ha partecipato a un bando internazionale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traffico",
+            "pos": "noun",
+            "back": "traffic",
+            "example": "C'è molto traffico in centro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'inquinamento",
+            "pos": "noun",
+            "back": "pollution",
+            "example": "L'inquinamento è un grande problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "Lo sport fa bene alla salute.",
+            "tier": "A2"
+          },
+          {
+            "front": "lasciare",
+            "pos": "verb",
+            "back": "to leave (something)",
+            "example": "Lascia le chiavi sul tavolo.",
+            "tier": "A2"
+          },
+          {
+            "front": "utile",
+            "pos": "adj",
+            "back": "useful",
+            "example": "Questo consiglio è molto utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "immaginare",
+            "pos": "verb",
+            "back": "to imagine",
+            "example": "Prova a immaginare il futuro.",
+            "tier": "B1"
+          },
+          {
+            "front": "inoltre",
+            "pos": "adv",
+            "back": "moreover, also",
+            "example": "È bravo; inoltre, è molto gentile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se le persone lasciano l'auto a casa, c'è meno traffico e meno inquinamento in città.",
+            "point": "Periodo ipotetico della realtà: 'se' + presente",
+            "explanation": "Con 'se' + presente e poi un altro presente si esprime una condizione reale o molto probabile. Qui 'c'è' indica il risultato.",
+            "why_tricky": "In italiano si usa il presente in tutte e due le parti, senza il futuro."
+          },
+          {
+            "sentence": "Inoltre, prendere i mezzi pubblici o la bici fa bene anche alla salute.",
+            "point": "Infinito come soggetto + 'fare bene a'",
+            "explanation": "L'infinito 'prendere' funziona da soggetto della frase. 'Fa bene a' significa 'è positivo per' e regge la preposizione 'a'.",
+            "why_tricky": "L'infinito resta invariabile e il verbo 'fa' va alla terza persona singolare."
+          },
+          {
+            "sentence": "Le startup che hanno creato queste app hanno vinto un premio di 500 mila dollari.",
+            "point": "Passato prossimo + frase relativa con 'che'",
+            "explanation": "'Hanno creato' e 'hanno vinto' sono passato prossimo (avere + participio). 'Che' introduce la frase relativa che descrive le startup.",
+            "why_tricky": "Il participio con 'avere' di solito non cambia: 'hanno creato', 'hanno vinto'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare bene alla salute",
+            "meaning": "to be good for your health",
+            "example": "Mangiare verdura fa bene alla salute."
+          },
+          {
+            "phrase": "lasciare a casa",
+            "meaning": "to leave (something) at home, not bring it",
+            "example": "Oggi ho lasciato la macchina a casa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa fanno le due app di Venezia?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è utile usare i mezzi pubblici o la bici invece dell'auto?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, queste app possono funzionare anche nella tua città?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Tu come vai a scuola o al lavoro? Scrivi un breve testo sui mezzi di trasporto che usi e perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-18-castaner-espadrillas",
+      "title": "I 100 anni di Castañer, le espadrillas amate da Dalí e Grace Kelly",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "moda",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-18-castaner-espadrillas",
+        "revision": 1,
+        "meta": {
+          "title": "I 100 anni di Castañer, le espadrillas amate da Dalí e Grace Kelly",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/06/17/i-100-anni-di-castaner-le-espadrillas-amate-da-dali-e-grace-kelly_9f9580cf-af37-49e2-ae54-b3c5bc0fc3da.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-18",
+          "tags": [
+            "moda",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Spanish brand Castañer is celebrating one hundred years of history. Castañer is famous for espadrilles, light shoes made of canvas with a rope sole. They are perfect for summer. In the past, these shoes were loved by famous people such as the artist Salvador Dalí and the actress Grace Kelly. Today they are still fashionable all over the world. Even the youngest wear them with pleasure.\n\nTo celebrate this special birthday, the brand is presenting a new collection at Pitti Uomo, a big fashion fair. The new espadrilles recall the classic models of many years ago. The story of Castañer shows something interesting. Sometimes a simple object, like a pair of shoes, can become a symbol of style. And it can last for many generations, without ever going out of fashion.",
+        "resumen_es": "Il marchio spagnolo Castañer festeggia cento anni di storia. Castañer è famoso per le espadrillas, scarpe leggere fatte di tela con la suola di corda. Sono perfette per l'estate. Nel passato, queste scarpe sono piaciute a personaggi famosi come l'artista Salvador Dalí e l'attrice Grace Kelly. Oggi sono ancora di moda in tutto il mondo. Anche i più giovani le indossano con piacere.\n\nPer festeggiare questo compleanno speciale, il marchio presenta una nuova collezione a Pitti Uomo, una grande fiera della moda. Le nuove espadrillas ricordano i modelli classici di tanti anni fa. La storia di Castañer mostra una cosa interessante. A volte un oggetto semplice, come un paio di scarpe, può diventare un simbolo di stile. E può durare per molte generazioni, senza mai passare di moda.",
+        "vocab": [
+          {
+            "front": "il marchio",
+            "pos": "noun",
+            "back": "brand",
+            "example": "È un marchio molto famoso.",
+            "tier": "B1"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Festeggiamo il tuo compleanno domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "le scarpe",
+            "pos": "noun",
+            "back": "shoes",
+            "example": "Queste scarpe sono molto comode.",
+            "tier": "A2"
+          },
+          {
+            "front": "la tela",
+            "pos": "noun",
+            "back": "canvas, cloth",
+            "example": "Ha comprato una borsa di tela.",
+            "tier": "B1"
+          },
+          {
+            "front": "la suola",
+            "pos": "noun",
+            "back": "sole (of a shoe)",
+            "example": "La suola di queste scarpe è di gomma.",
+            "tier": "B1"
+          },
+          {
+            "front": "leggero",
+            "pos": "adj",
+            "back": "light (in weight)",
+            "example": "Porto uno zaino leggero.",
+            "tier": "A2"
+          },
+          {
+            "front": "di moda",
+            "pos": "phrase",
+            "back": "in fashion",
+            "example": "Questo colore è molto di moda.",
+            "tier": "A2"
+          },
+          {
+            "front": "la collezione",
+            "pos": "noun",
+            "back": "collection",
+            "example": "Ha presentato la nuova collezione.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fiera",
+            "pos": "noun",
+            "back": "fair, expo",
+            "example": "Andiamo alla fiera del libro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il modello",
+            "pos": "noun",
+            "back": "model, style",
+            "example": "Mi piace molto questo modello.",
+            "tier": "A2"
+          },
+          {
+            "front": "il paio",
+            "pos": "noun",
+            "back": "pair",
+            "example": "Ho comprato un paio di scarpe nuove.",
+            "tier": "A2"
+          },
+          {
+            "front": "il simbolo",
+            "pos": "noun",
+            "back": "symbol",
+            "example": "La colomba è un simbolo di pace.",
+            "tier": "B1"
+          },
+          {
+            "front": "indossare",
+            "pos": "verb",
+            "back": "to wear",
+            "example": "Indossa un vestito rosso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nel passato, queste scarpe sono piaciute a personaggi famosi come l'artista Salvador Dalí e l'attrice Grace Kelly.",
+            "point": "Verbo 'piacere' al passato prossimo con 'essere'",
+            "explanation": "'Piacere' usa l'ausiliare 'essere', quindi il participio cambia: 'sono piaciute' concorda con il soggetto 'scarpe' (femminile plurale). La persona che prova il piacere è introdotta da 'a'.",
+            "why_tricky": "Il participio concorda con la cosa che piace, non con la persona."
+          },
+          {
+            "sentence": "A volte un oggetto semplice, come un paio di scarpe, può diventare un simbolo di stile.",
+            "point": "Verbo modale 'potere' + infinito",
+            "explanation": "'Può' è il presente di 'potere' ed esprime possibilità. È seguito dall'infinito 'diventare'.",
+            "why_tricky": "'Un paio di' è singolare e vuole il verbo singolare, anche se parla di due scarpe."
+          },
+          {
+            "sentence": "Anche i più giovani le indossano con piacere.",
+            "point": "Pronome diretto 'le' + superlativo relativo 'i più giovani'",
+            "explanation": "'Le' è il pronome diretto femminile plurale e sostituisce 'le espadrillas'. 'I più giovani' è un superlativo relativo.",
+            "why_tricky": "Il pronome 'le' va prima del verbo: 'le indossano'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "passare di moda",
+            "meaning": "to go out of fashion",
+            "example": "I jeans non passano mai di moda."
+          },
+          {
+            "phrase": "con piacere",
+            "meaning": "with pleasure, gladly",
+            "example": "Vengo alla tua festa con piacere."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Per che cosa è famoso il marchio Castañer?",
+            "type": "open"
+          },
+          {
+            "q": "Chi amava le espadrillas nel passato?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perché alcune scarpe diventano un simbolo di stile?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è il tuo capo di abbigliamento preferito e perché? Scrivi un breve testo."
+      }
+    },
     {
       "pack_id": "feed-2026-06-17-festa-central-park",
       "title": "Mondiali: mega party gratuito a Central Park per la finale il 19 luglio",
