@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-18T21:31:12Z",
+  "generated_at": "2026-06-19T09:14:16Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-19-egitto-viaggio-deserto",
+      "title": "Nel cuore segreto dell'Egitto, un viaggio 'on the road' oltre il deserto",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "Egitto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-egitto-viaggio-deserto",
+        "revision": 1,
+        "meta": {
+          "title": "Nel cuore segreto dell'Egitto, un viaggio 'on the road' oltre il deserto",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/06/18/nel-cuore-segreto-dellegitto-un-viaggio-on-the-road-oltre-il-deserto_ff719299-827e-4d46-9dd8-51e7f97abcb7.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "viaggi",
+            "Egitto"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "An ANSA article tells the story of a special trip in Egypt. It is not about the usual pyramids near Cairo. The trip goes to Middle Egypt, an area less known by tourists. It is an 'on the road' itinerary, that is, a free route by car. The travellers cross the desert and discover places full of history and silence.\n\nDuring the route you can see surprising things. In some parts of the desert there are whale fossils, very ancient. Long ago, in fact, the sea was here. Further on there are forgotten necropolises, that is, ancient cemeteries that few people know. This trip is perfect for those who love nature, history and adventure. It is also a different way to see Egypt, far from the crowds and the most famous places. A calm but unforgettable experience.",
+        "resumen_es": "Un articolo dell'ANSA racconta un viaggio speciale in Egitto. Non si parla delle solite piramidi vicino al Cairo. Il viaggio porta nel Medio Egitto, una zona meno conosciuta dai turisti. È un itinerario 'on the road', cioè un percorso libero in macchina. I viaggiatori attraversano il deserto e scoprono luoghi pieni di storia e di silenzio.\n\nDurante il percorso si possono vedere cose sorprendenti. In alcuni punti del deserto ci sono fossili di balena, molto antichi. Una volta, infatti, qui c'era il mare. Più avanti si trovano necropoli dimenticate, cioè antichi cimiteri che pochi conoscono. Questo viaggio è perfetto per chi ama la natura, la storia e l'avventura. È anche un modo diverso di vedere l'Egitto, lontano dalla folla e dai posti più famosi. Un'esperienza tranquilla, ma indimenticabile.",
+        "vocab": [
+          {
+            "front": "il viaggio",
+            "pos": "noun",
+            "back": "the trip, the journey",
+            "example": "Faccio un viaggio in Italia.",
+            "tier": "A2"
+          },
+          {
+            "front": "il deserto",
+            "pos": "noun",
+            "back": "the desert",
+            "example": "Il deserto è molto grande e silenzioso.",
+            "tier": "A2"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross",
+            "example": "Attraversiamo la strada con attenzione.",
+            "tier": "A2"
+          },
+          {
+            "front": "scoprire",
+            "pos": "verb",
+            "back": "to discover",
+            "example": "Voglio scoprire posti nuovi.",
+            "tier": "A2"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "the route, the path",
+            "example": "Il percorso è lungo ma bello.",
+            "tier": "B1"
+          },
+          {
+            "front": "conosciuto",
+            "pos": "adj",
+            "back": "known, well-known",
+            "example": "È un posto molto conosciuto.",
+            "tier": "A2"
+          },
+          {
+            "front": "sorprendente",
+            "pos": "adj",
+            "back": "surprising",
+            "example": "È una notizia sorprendente.",
+            "tier": "B1"
+          },
+          {
+            "front": "antico",
+            "pos": "adj",
+            "back": "ancient, old",
+            "example": "Roma è una città antica.",
+            "tier": "A2"
+          },
+          {
+            "front": "dimenticato",
+            "pos": "adj",
+            "back": "forgotten",
+            "example": "È un luogo dimenticato da tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la folla",
+            "pos": "noun",
+            "back": "the crowd",
+            "example": "C'è troppa folla in centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "indimenticabile",
+            "pos": "adj",
+            "back": "unforgettable",
+            "example": "È stata una vacanza indimenticabile.",
+            "tier": "B1"
+          },
+          {
+            "front": "lontano da",
+            "pos": "phrase",
+            "back": "far from",
+            "example": "Abito lontano dal centro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il turista",
+            "pos": "noun",
+            "back": "the tourist",
+            "example": "I turisti visitano il museo.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il viaggio porta nel Medio Egitto, una zona meno conosciuta dai turisti.",
+            "point": "Il complemento d'agente con 'da' (conosciuta dai turisti).",
+            "explanation": "Quando l'azione è subita, chi la compie si introduce con 'da': 'conosciuta dai turisti' significa che sono i turisti a conoscere il luogo. 'Meno' forma il comparativo di minoranza.",
+            "why_tricky": "Gli studenti confondono 'da' (agente) con 'di', e dimenticano l'accordo del participio 'conosciuta' con 'zona' (femminile)."
+          },
+          {
+            "sentence": "In alcuni punti del deserto ci sono fossili di balena, molto antichi.",
+            "point": "L'uso di 'c'è / ci sono' per indicare esistenza.",
+            "explanation": "'Ci sono' si usa con i nomi al plurale ('fossili'), mentre 'c'è' si usa con il singolare. Indica che qualcosa esiste o si trova in un luogo.",
+            "why_tricky": "È facile usare 'c'è' anche con il plurale, dimenticando l'accordo tra 'ci sono' e il nome plurale."
+          },
+          {
+            "sentence": "Questo viaggio è perfetto per chi ama la natura, la storia e l'avventura.",
+            "point": "Il pronome relativo 'chi' (uguale a 'le persone che').",
+            "explanation": "'Chi' unisce due idee e significa 'la persona che' o 'le persone che'. Il verbo dopo 'chi' va sempre al singolare: 'chi ama'.",
+            "why_tricky": "Si tende a mettere il verbo al plurale dopo 'chi', oppure a confonderlo con 'che'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "lontano dalla folla",
+            "meaning": "in un posto tranquillo, con poche persone",
+            "example": "Cerco una spiaggia lontano dalla folla."
+          },
+          {
+            "phrase": "un modo diverso di vedere le cose",
+            "meaning": "una prospettiva nuova, un altro punto di vista",
+            "example": "Viaggiare ti dà un modo diverso di vedere le cose."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove va il viaggio descritto nell'articolo?",
+            "type": "open"
+          },
+          {
+            "q": "Quali cose sorprendenti si possono vedere nel deserto?",
+            "type": "open"
+          },
+          {
+            "q": "Per quale tipo di persona è perfetto questo viaggio? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace viaggiare in posti tranquilli o preferisci le città famose e piene di gente? Scrivi un breve testo e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-19-kpop-demon-hunters",
+      "title": "Fenomeno KPop Demon Hunters, a un anno dall'uscita resta blockbuster su Netflix",
+      "source": "ANSA",
+      "date": "2026-06-18",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-kpop-demon-hunters",
+        "revision": 1,
+        "meta": {
+          "title": "Fenomeno KPop Demon Hunters, a un anno dall'uscita resta blockbuster su Netflix",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/06/18/fenomeno-kpop-demon-hunters-a-un-anno-dalluscita-resta-blockbuster-su-netflix_17084544-d7e0-4514-bcf9-bf81414f076c.html",
+          "date_published": "2026-06-18",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A film called 'KPop Demon Hunters' is still a big success on Netflix. It came out a year ago, but it is still very popular. According to ANSA, the film stayed for 52 weeks in a row in the platform's global Top 10. This means that many people, all over the world, still watch it today.\n\nThe film combines K-pop music with a story of action and fantasy. The main characters are singers, but they also fight against demons. This original idea is especially popular with young people. The success was so big that the film won two Oscars. That is an important result for an animated film. Its story shows that today online platforms can create real cultural phenomena, able to bring together music, cinema and an audience from every country.",
+        "resumen_es": "Un film chiamato 'KPop Demon Hunters' continua ad avere un grande successo su Netflix. È uscito un anno fa, ma è ancora molto popolare. Secondo l'ANSA, il film è rimasto per 52 settimane di fila nella Top 10 mondiale della piattaforma. Questo significa che tante persone, in tutto il mondo, lo guardano ancora oggi.\n\nIl film unisce la musica K-pop e una storia di azione e fantasia. I protagonisti sono cantanti, ma combattono anche contro i demoni. Questa idea originale piace soprattutto ai giovani. Il successo è stato così grande che il film ha vinto due premi Oscar. È un risultato importante per un film d'animazione. La sua storia dimostra che oggi le piattaforme online possono creare veri fenomeni culturali, capaci di unire musica, cinema e pubblico di ogni Paese.",
+        "vocab": [
+          {
+            "front": "il film",
+            "pos": "noun",
+            "back": "the film, the movie",
+            "example": "Guardo un film stasera.",
+            "tier": "A2"
+          },
+          {
+            "front": "il successo",
+            "pos": "noun",
+            "back": "the success",
+            "example": "Il film ha molto successo.",
+            "tier": "A2"
+          },
+          {
+            "front": "uscire",
+            "pos": "verb",
+            "back": "to come out, to be released",
+            "example": "Il film esce domani al cinema.",
+            "tier": "A2"
+          },
+          {
+            "front": "popolare",
+            "pos": "adj",
+            "back": "popular",
+            "example": "È una canzone molto popolare.",
+            "tier": "A2"
+          },
+          {
+            "front": "la piattaforma",
+            "pos": "noun",
+            "back": "the platform",
+            "example": "Netflix è una piattaforma online.",
+            "tier": "B1"
+          },
+          {
+            "front": "il protagonista",
+            "pos": "noun",
+            "back": "the main character",
+            "example": "Il protagonista è un ragazzo giovane.",
+            "tier": "B1"
+          },
+          {
+            "front": "combattere",
+            "pos": "verb",
+            "back": "to fight",
+            "example": "I soldati combattono in guerra.",
+            "tier": "B1"
+          },
+          {
+            "front": "il premio",
+            "pos": "noun",
+            "back": "the prize, the award",
+            "example": "Ha vinto un premio importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "originale",
+            "pos": "adj",
+            "back": "original",
+            "example": "È un'idea molto originale.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "the audience, the public",
+            "example": "Il pubblico applaude alla fine.",
+            "tier": "B1"
+          },
+          {
+            "front": "soprattutto",
+            "pos": "adv",
+            "back": "especially, above all",
+            "example": "Mi piace soprattutto la musica.",
+            "tier": "A2"
+          },
+          {
+            "front": "dimostrare",
+            "pos": "verb",
+            "back": "to show, to prove",
+            "example": "Questo dimostra che hai ragione.",
+            "tier": "B1"
+          },
+          {
+            "front": "di fila",
+            "pos": "phrase",
+            "back": "in a row, consecutively",
+            "example": "Ho lavorato cinque giorni di fila.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "È uscito un anno fa, ma è ancora molto popolare.",
+            "point": "Il passato prossimo con l'ausiliare 'essere' (è uscito) e l'avverbio 'fa'.",
+            "explanation": "Il verbo 'uscire' usa l'ausiliare 'essere', quindi il participio si accorda: 'è uscito' (il film). 'Fa' indica un tempo passato: 'un anno fa'.",
+            "why_tricky": "Molti usano 'avere' al posto di 'essere' con i verbi di movimento e dimenticano l'accordo del participio."
+          },
+          {
+            "sentence": "I protagonisti sono cantanti, ma combattono anche contro i demoni.",
+            "point": "Il presente indicativo dei verbi (sono, combattono) e la congiunzione 'ma'.",
+            "explanation": "Il presente descrive ciò che accade nel film. 'Sono' e 'combattono' sono al plurale perché il soggetto è 'i protagonisti'. 'Ma' introduce un contrasto.",
+            "why_tricky": "La coniugazione di 'combattere' alla terza persona plurale ('combattono') confonde chi non ricorda l'accento."
+          },
+          {
+            "sentence": "Il successo è stato così grande che il film ha vinto due premi Oscar.",
+            "point": "La struttura 'così... che' per esprimere una conseguenza.",
+            "explanation": "'Così grande che' introduce il risultato di qualcosa: il successo è grande, e la conseguenza è che il film ha vinto due Oscar.",
+            "why_tricky": "Si confonde 'così... che' (conseguenza) con 'come' (paragone) o si dimentica il 'che'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere successo",
+            "meaning": "andare molto bene, piacere a molte persone",
+            "example": "Il suo nuovo libro ha avuto molto successo."
+          },
+          {
+            "phrase": "di fila",
+            "meaning": "uno dopo l'altro, senza interruzione",
+            "example": "Ho guardato tre episodi di fila."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Da quanto tempo è uscito il film e perché è ancora famoso?",
+            "type": "open"
+          },
+          {
+            "q": "Di che cosa parla la storia del film?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il successo di questo film è importante per le piattaforme online?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacciono i film o le serie che uniscono musica e azione? Scrivi un breve testo e parla di un film o di una serie che ti è piaciuto molto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-19-social-neogenitori",
+      "title": "I rischi della dipendenza da social, campagna destinata ai neogenitori: \"Non è mai troppo presto!\"",
+      "source": "RaiNews",
+      "date": "2026-06-19",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-19-social-neogenitori",
+        "revision": 1,
+        "meta": {
+          "title": "I rischi della dipendenza da social, campagna destinata ai neogenitori: \"Non è mai troppo presto!\"",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/06/i-rischi-della-dipendenza-da-social-campagna-destinata-ai-neogenitori-non-e-mai-troppo-presto--1d8631ed-9273-42de-881a-3ec4d87e0db2.html",
+          "date_published": "2026-06-19",
+          "date_processed": "2026-06-19",
+          "tags": [
+            "società",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A new campaign talks about the risks of addiction to social networks. According to RaiNews, the campaign is aimed at new parents, that is, parents who have just had a baby. The message is clear: it is never too early to think about this problem. For this reason, in hospitals a small brochure with nine useful tips is handed out.\n\nThe idea is simple but important. Parents use their phone a lot, even in front of their small children. Children learn by watching adults and they copy their behaviour. If mum and dad check social media every minute, the children too risk doing the same when they grow up. The campaign therefore invites families to use technology with more care. The goal is not to eliminate social media, but to find a healthy balance between real life and the online world.",
+        "resumen_es": "Una nuova campagna parla dei rischi della dipendenza dai social network. Secondo RaiNews, la campagna è rivolta ai neogenitori, cioè ai genitori che hanno appena avuto un bambino. Il messaggio è chiaro: non è mai troppo presto per pensare a questo problema. Per questo motivo, negli ospedali viene distribuita una piccola brochure con nove consigli utili.\n\nL'idea è semplice ma importante. I genitori usano molto il telefono, anche davanti ai figli piccoli. I bambini imparano guardando gli adulti e copiano i loro comportamenti. Se mamma e papà controllano i social ogni minuto, anche i figli rischiano di fare lo stesso da grandi. La campagna invita quindi le famiglie a usare la tecnologia con più attenzione. L'obiettivo non è eliminare i social, ma trovare un equilibrio sano tra la vita reale e il mondo online.",
+        "vocab": [
+          {
+            "front": "la dipendenza",
+            "pos": "noun",
+            "back": "addiction, dependence",
+            "example": "La dipendenza dal telefono è un problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "i social network",
+            "pos": "noun",
+            "back": "social media",
+            "example": "Passo troppo tempo sui social network.",
+            "tier": "A2"
+          },
+          {
+            "front": "il genitore",
+            "pos": "noun",
+            "back": "the parent",
+            "example": "I genitori amano i loro figli.",
+            "tier": "A2"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "the advice, the tip",
+            "example": "Ti do un consiglio utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ospedale",
+            "pos": "noun",
+            "back": "the hospital",
+            "example": "Il bambino è nato in ospedale.",
+            "tier": "A2"
+          },
+          {
+            "front": "distribuire",
+            "pos": "verb",
+            "back": "to hand out, to distribute",
+            "example": "Distribuiscono i volantini in strada.",
+            "tier": "B1"
+          },
+          {
+            "front": "il comportamento",
+            "pos": "noun",
+            "back": "the behaviour",
+            "example": "Il suo comportamento è un po' strano.",
+            "tier": "B1"
+          },
+          {
+            "front": "copiare",
+            "pos": "verb",
+            "back": "to copy",
+            "example": "I bambini copiano gli adulti.",
+            "tier": "A2"
+          },
+          {
+            "front": "rischiare",
+            "pos": "verb",
+            "back": "to risk",
+            "example": "Rischi di arrivare tardi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'equilibrio",
+            "pos": "noun",
+            "back": "the balance",
+            "example": "Cerco un equilibrio tra lavoro e famiglia.",
+            "tier": "B1"
+          },
+          {
+            "front": "sano",
+            "pos": "adj",
+            "back": "healthy",
+            "example": "Una dieta sana fa bene.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "the goal, the objective",
+            "example": "Il mio obiettivo è imparare l'italiano.",
+            "tier": "B1"
+          },
+          {
+            "front": "appena",
+            "pos": "adv",
+            "back": "just (recently)",
+            "example": "Sono appena arrivato a casa.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il messaggio è chiaro: non è mai troppo presto per pensare a questo problema.",
+            "point": "La struttura impersonale 'non è mai troppo presto per + infinito'.",
+            "explanation": "'È presto' è una forma impersonale (non ha un soggetto preciso). 'Per' introduce l'infinito 'pensare' e indica lo scopo.",
+            "why_tricky": "La posizione di 'mai' tra 'non' e il verbo confonde, perché in altre lingue la doppia negazione non si usa."
+          },
+          {
+            "sentence": "I bambini imparano guardando gli adulti e copiano i loro comportamenti.",
+            "point": "Il gerundio 'guardando' per esprimere il modo.",
+            "explanation": "Il gerundio 'guardando' spiega come i bambini imparano: imparano mentre guardano. Si forma con la radice del verbo più '-ando' (prima coniugazione).",
+            "why_tricky": "Si confonde il gerundio italiano con quello inglese, che spesso funziona da soggetto o sostantivo."
+          },
+          {
+            "sentence": "L'obiettivo non è eliminare i social, ma trovare un equilibrio sano tra la vita reale e il mondo online.",
+            "point": "La correlazione 'non... ma' seguita dall'infinito.",
+            "explanation": "'Non eliminare... ma trovare' contrappone due azioni: si nega la prima e si afferma la seconda. Entrambi i verbi sono all'infinito.",
+            "why_tricky": "Si tende a cambiare il modo dei verbi o ad aggiungere un articolo davanti all'infinito."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non è mai troppo presto",
+            "meaning": "si può o si deve iniziare già adesso, anche se sembra molto presto",
+            "example": "Per imparare le lingue non è mai troppo presto."
+          },
+          {
+            "phrase": "trovare un equilibrio",
+            "meaning": "riuscire a bilanciare due cose diverse senza esagerare",
+            "example": "È difficile trovare un equilibrio tra studio e tempo libero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "A chi è rivolta questa campagna e dove viene distribuita la brochure?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il comportamento dei genitori è importante per i bambini?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è il vero obiettivo della campagna?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Quanto tempo passi ogni giorno sui social? Scrivi un breve testo e spiega se secondo te è troppo, poco o giusto, e perché."
+      }
+    },
     {
       "pack_id": "feed-2026-06-18-vasco-concerti-roma",
       "title": "Vasco annuncia i 10 concerti del 2027 allo Stadio Olimpico di Roma",
