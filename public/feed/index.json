@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-06-21T11:19:32Z",
+ "generated_at": "2026-06-21T21:14:01Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-06-21-prime-stelle-gas",
+   "title": "Visto il gas che ha formato le prime stelle",
+   "source": "ANSA",
+   "date": "2026-06-21",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "spazio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-06-21-prime-stelle-gas",
+    "revision": 1,
+    "meta": {
+     "title": "Visto il gas che ha formato le prime stelle",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/06/21/visto-il-gas-che-ha-formato-le-prime-stelle_98bed71f-8749-4982-a830-44348b8bac18.html",
+     "date_published": "2026-06-21",
+     "date_processed": "2026-06-21",
+     "tags": [
+      "scienza",
+      "spazio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Scientists have made an important discovery in space. For the first time, they have seen the gas that formed the first stars in the universe. This gas is very old. It formed shortly after the Big Bang, that is, at the beginning of everything. The news is very interesting for those who study the sky.\n\nThe first stars were born a very long time ago, billions of years before us. For astronomers it is hard to see them, because they are extremely far away. With modern telescopes, however, today we can observe the light of the past. In this way, scientists understand better how the universe was born. Every new discovery helps us to know our history. Space, in fact, is still full of mysteries to discover.",
+    "resumen_es": "Gli scienziati hanno fatto una scoperta importante nello spazio. Hanno visto per la prima volta il gas che ha formato le prime stelle dell'universo. Questo gas è molto antico. Si è formato poco dopo il Big Bang, cioè all'inizio di tutto. La notizia è molto interessante per chi studia il cielo.\n\nLe prime stelle sono nate tanto tempo fa, miliardi di anni prima di noi. Per gli astronomi è difficile vederle, perché sono lontanissime. Con i telescopi moderni, però, oggi possiamo osservare la luce del passato. Così gli scienziati capiscono meglio come è nato l'universo. Ogni nuova scoperta ci aiuta a conoscere la nostra storia. Lo spazio, infatti, è ancora pieno di misteri da scoprire.",
+    "vocab": [
+     {
+      "front": "la scoperta",
+      "pos": "noun",
+      "back": "discovery",
+      "example": "Una grande scoperta scientifica.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo spazio",
+      "pos": "noun",
+      "back": "space",
+      "example": "Lo spazio è infinito.",
+      "tier": "A2"
+     },
+     {
+      "front": "la stella",
+      "pos": "noun",
+      "back": "star",
+      "example": "La stella brilla nel cielo.",
+      "tier": "A2"
+     },
+     {
+      "front": "il gas",
+      "pos": "noun",
+      "back": "gas",
+      "example": "Il gas è invisibile.",
+      "tier": "A2"
+     },
+     {
+      "front": "antico",
+      "pos": "adj",
+      "back": "ancient, old",
+      "example": "Un libro molto antico.",
+      "tier": "A2"
+     },
+     {
+      "front": "formarsi",
+      "pos": "verb",
+      "back": "to form, take shape",
+      "example": "Le nuvole si formano in cielo.",
+      "tier": "B1"
+     },
+     {
+      "front": "nascere",
+      "pos": "verb",
+      "back": "to be born",
+      "example": "L'universo è nato tanto tempo fa.",
+      "tier": "A2"
+     },
+     {
+      "front": "lontanissimo",
+      "pos": "adj",
+      "back": "very far away",
+      "example": "La stella è lontanissima.",
+      "tier": "A2"
+     },
+     {
+      "front": "il telescopio",
+      "pos": "noun",
+      "back": "telescope",
+      "example": "Guardo le stelle con il telescopio.",
+      "tier": "B1"
+     },
+     {
+      "front": "osservare",
+      "pos": "verb",
+      "back": "to observe, watch",
+      "example": "Osserviamo il cielo di notte.",
+      "tier": "B1"
+     },
+     {
+      "front": "il cielo",
+      "pos": "noun",
+      "back": "sky",
+      "example": "Il cielo è sereno.",
+      "tier": "A2"
+     },
+     {
+      "front": "il mistero",
+      "pos": "noun",
+      "back": "mystery",
+      "example": "È ancora un mistero.",
+      "tier": "B1"
+     },
+     {
+      "front": "capire",
+      "pos": "verb",
+      "back": "to understand",
+      "example": "Voglio capire meglio.",
+      "tier": "A2"
+     },
+     {
+      "front": "la luce",
+      "pos": "noun",
+      "back": "light",
+      "example": "La luce delle stelle è debole.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Hanno visto per la prima volta il gas che ha formato le prime stelle dell'universo.",
+      "point": "Passato prossimo con «avere»",
+      "explanation": "«hanno visto» e «ha formato» sono passato prossimo: presente di avere più participio passato (visto, formato).",
+      "why_tricky": "Il participio «visto» (da vedere) è irregolare e lo studente deve scegliere avere, non essere."
+     },
+     {
+      "sentence": "Con i telescopi moderni, però, oggi possiamo osservare la luce del passato.",
+      "point": "«potere + infinito»",
+      "explanation": "«possiamo osservare» è il verbo modale potere seguito dall'infinito.",
+      "why_tricky": "I verbi modali sono seguiti direttamente dall'infinito, senza preposizione."
+     },
+     {
+      "sentence": "Ogni nuova scoperta ci aiuta a conoscere la nostra storia.",
+      "point": "«aiutare a + infinito» + pronome «ci»",
+      "explanation": "«aiutare» vuole la preposizione «a» prima dell'infinito; «ci» significa «noi».",
+      "why_tricky": "Lo studente dimentica la preposizione «a» e può sbagliare la posizione del pronome «ci»."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "tanto tempo fa",
+      "meaning": "a long time ago",
+      "example": "Tanto tempo fa vivevo in campagna."
+     },
+     {
+      "phrase": "per la prima volta",
+      "meaning": "for the first time",
+      "example": "Oggi vado a Roma per la prima volta."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa hanno visto gli scienziati nello spazio?",
+      "type": "open"
+     },
+     {
+      "q": "Perché è difficile vedere le prime stelle?",
+      "type": "open"
+     },
+     {
+      "q": "Come ci aiutano i telescopi moderni?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti interessa lo spazio? Scrivi qualche frase: vorresti viaggiare tra le stelle? Perché sì o perché no?"
+   }
+  },
+  {
+   "pack_id": "feed-2026-06-21-solstizio-estate",
+   "title": "È il Solstizio d'Estate: tra miti e leggende, il giorno più lungo dell'anno",
+   "source": "RAI News",
+   "date": "2026-06-21",
+   "level": "A2-B1",
+   "topics": [
+    "cultura",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-06-21-solstizio-estate",
+    "revision": 1,
+    "meta": {
+     "title": "È il Solstizio d'Estate: tra miti e leggende, il giorno più lungo dell'anno",
+     "source": "RAI News",
+     "url": "https://www.rainews.it/articoli/2026/06/arriva-il-solstizio-estate-cose-e-quando-arriva-il-giorno-piu-lungo-dell-anno-22d64aa5-55f3-4d86-acb7-d7222996aec6.html",
+     "date_published": "2026-06-21",
+     "date_processed": "2026-06-21",
+     "tags": [
+      "cultura",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Today is the summer solstice, the longest day of the year. On this day the sun stays in the sky longer and the night is very short. It is the official start of summer. In many countries people celebrate with music, fires and ancient traditions.\n\nThe solstice is linked to many myths and legends. In ancient times it was a very important celebration of light and nature. At Stonehenge, in England, every year many people wait together for the sunrise. In ancient Rome too this special day was celebrated. Today the solstice reminds us of the bond between humans and nature. It is a perfect moment to be outdoors and enjoy the long, warm days.",
+    "resumen_es": "Oggi è il solstizio d'estate, il giorno più lungo dell'anno. In questo giorno il sole resta in cielo più a lungo e la notte è molto corta. È l'inizio ufficiale dell'estate. In molti paesi le persone festeggiano con musica, fuochi e tradizioni antiche.\n\nIl solstizio è legato a tanti miti e leggende. Nei tempi antichi era una festa molto importante per la luce e per la natura. A Stonehenge, in Inghilterra, ogni anno molte persone aspettano insieme il sorgere del sole. Anche nell'antica Roma si celebrava questo giorno speciale. Oggi il solstizio ci ricorda il legame tra l'uomo e la natura. È un momento perfetto per stare all'aperto e godere delle giornate lunghe e calde.",
+    "vocab": [
+     {
+      "front": "il solstizio",
+      "pos": "noun",
+      "back": "solstice",
+      "example": "Il solstizio d'estate è a giugno.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'estate",
+      "pos": "noun",
+      "back": "summer",
+      "example": "In estate fa caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "il sole",
+      "pos": "noun",
+      "back": "sun",
+      "example": "Il sole splende oggi.",
+      "tier": "A2"
+     },
+     {
+      "front": "il cielo",
+      "pos": "noun",
+      "back": "sky",
+      "example": "Il cielo è azzurro.",
+      "tier": "A2"
+     },
+     {
+      "front": "lungo",
+      "pos": "adj",
+      "back": "long",
+      "example": "È il giorno più lungo.",
+      "tier": "A2"
+     },
+     {
+      "front": "festeggiare",
+      "pos": "verb",
+      "back": "to celebrate",
+      "example": "Festeggiamo il compleanno.",
+      "tier": "A2"
+     },
+     {
+      "front": "la tradizione",
+      "pos": "noun",
+      "back": "tradition",
+      "example": "È una tradizione antica.",
+      "tier": "B1"
+     },
+     {
+      "front": "il mito",
+      "pos": "noun",
+      "back": "myth",
+      "example": "Mi piacciono i miti greci.",
+      "tier": "B1"
+     },
+     {
+      "front": "la leggenda",
+      "pos": "noun",
+      "back": "legend",
+      "example": "Conosci questa leggenda?",
+      "tier": "B1"
+     },
+     {
+      "front": "il sorgere del sole",
+      "pos": "phrase",
+      "back": "sunrise",
+      "example": "Aspettiamo il sorgere del sole.",
+      "tier": "B1"
+     },
+     {
+      "front": "il legame",
+      "pos": "noun",
+      "back": "bond, link",
+      "example": "Un legame forte con la natura.",
+      "tier": "B1"
+     },
+     {
+      "front": "la natura",
+      "pos": "noun",
+      "back": "nature",
+      "example": "Amo la natura.",
+      "tier": "A2"
+     },
+     {
+      "front": "all'aperto",
+      "pos": "phrase",
+      "back": "outdoors, in the open air",
+      "example": "Mangiamo all'aperto.",
+      "tier": "A2"
+     },
+     {
+      "front": "godere (di)",
+      "pos": "verb",
+      "back": "to enjoy",
+      "example": "Godo del sole d'estate.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "In questo giorno il sole resta in cielo più a lungo e la notte è molto corta.",
+      "point": "Comparativo «più a lungo»",
+      "explanation": "«più a lungo» è il comparativo dell'avverbio «a lungo» (per molto tempo) e significa «per più tempo».",
+      "why_tricky": "Con gli avverbi il comparativo usa «più» davanti, e «a lungo» è un'espressione fissa che lo studente può non conoscere."
+     },
+     {
+      "sentence": "A Stonehenge, in Inghilterra, ogni anno molte persone aspettano insieme il sorgere del sole.",
+      "point": "«aspettare» senza preposizione",
+      "explanation": "«aspettare» regge un oggetto diretto in italiano, senza preposizione.",
+      "why_tricky": "In inglese si aggiunge «for» dopo «wait», quindi lo studente mette per sbaglio «per» in italiano."
+     },
+     {
+      "sentence": "Anche nell'antica Roma si celebrava questo giorno speciale.",
+      "point": "«si» passivante + imperfetto",
+      "explanation": "«si celebrava» usa il «si» impersonale con l'imperfetto per descrivere un'abitudine del passato.",
+      "why_tricky": "La costruzione con «si» e la scelta dell'imperfetto per le azioni abituali del passato sono entrambe difficili."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "all'aperto",
+      "meaning": "outdoors, in the open air",
+      "example": "D'estate dormiamo all'aperto."
+     },
+     {
+      "phrase": "il giorno più lungo dell'anno",
+      "meaning": "the longest day of the year (the solstice)",
+      "example": "Il 21 giugno è il giorno più lungo dell'anno."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cos'è il solstizio d'estate?",
+      "type": "open"
+     },
+     {
+      "q": "Come festeggiano le persone a Stonehenge?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa ci ricorda oggi il solstizio?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Qual è la tua stagione preferita? Scrivi qualche frase e spiega perché ti piace."
+   }
+  },
+  {
+   "pack_id": "feed-2026-06-21-mccartney-palermo",
+   "title": "Paul McCartney atterra con un jet privato all'aeroporto di Palermo",
+   "source": "ANSA",
+   "date": "2026-06-21",
+   "level": "A2-B1",
+   "topics": [
+    "musica",
+    "cultura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-06-21-mccartney-palermo",
+    "revision": 1,
+    "meta": {
+     "title": "Paul McCartney atterra con un jet privato all'aeroporto di Palermo",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sicilia/notizie/2026/06/21/atterrato-a-palermo-paul-mccartney_5fcf0049-cad6-4619-b467-d77a60f4d6b4.html",
+     "date_published": "2026-06-21",
+     "date_processed": "2026-06-21",
+     "tags": [
+      "musica",
+      "cultura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Paul McCartney has arrived in Palermo, in Sicily. The famous singer, a former member of the Beatles, landed with a private jet at the city's airport. After arriving, he took a photo with the airport staff. Many people are happy to see such an important artist in Italy.\n\nPaul McCartney is a true music legend. With the Beatles he wrote songs famous all over the world. Even today, after so many years, he keeps singing and playing. Sicily is a very beautiful region, with the sea, the sun and a rich history. Maybe the singer is on holiday, or perhaps he is preparing a new concert. Italian fans hope to meet him soon and to hear his music live again.",
+    "resumen_es": "Paul McCartney è arrivato a Palermo, in Sicilia. Il famoso cantante, ex membro dei Beatles, è atterrato con un jet privato all'aeroporto della città. Dopo l'arrivo, ha fatto una foto con il personale dell'aeroporto. Molte persone sono felici di vedere un artista così importante in Italia.\n\nPaul McCartney è una vera leggenda della musica. Con i Beatles ha scritto canzoni famose in tutto il mondo. Ancora oggi, dopo tanti anni, continua a cantare e a suonare. La Sicilia è una regione bellissima, con il mare, il sole e una storia ricca. Forse il cantante è in vacanza, oppure prepara un nuovo concerto. I fan italiani sperano di incontrarlo presto e di ascoltare di nuovo la sua musica dal vivo.",
+    "vocab": [
+     {
+      "front": "atterrare",
+      "pos": "verb",
+      "back": "to land",
+      "example": "L'aereo atterra alle nove.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'aeroporto",
+      "pos": "noun",
+      "back": "airport",
+      "example": "Vado all'aeroporto in taxi.",
+      "tier": "A2"
+     },
+     {
+      "front": "il cantante",
+      "pos": "noun",
+      "back": "singer",
+      "example": "È un cantante famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "famoso",
+      "pos": "adj",
+      "back": "famous",
+      "example": "Una persona famosa.",
+      "tier": "A2"
+     },
+     {
+      "front": "ex",
+      "pos": "adj",
+      "back": "former, ex-",
+      "example": "Il mio ex collega abita qui.",
+      "tier": "B1"
+     },
+     {
+      "front": "il membro",
+      "pos": "noun",
+      "back": "member",
+      "example": "È un membro del gruppo.",
+      "tier": "B1"
+     },
+     {
+      "front": "il personale",
+      "pos": "noun",
+      "back": "staff, personnel",
+      "example": "Il personale dell'hotel è gentile.",
+      "tier": "B1"
+     },
+     {
+      "front": "la leggenda",
+      "pos": "noun",
+      "back": "legend",
+      "example": "È una leggenda della musica.",
+      "tier": "B1"
+     },
+     {
+      "front": "la canzone",
+      "pos": "noun",
+      "back": "song",
+      "example": "Questa canzone mi piace molto.",
+      "tier": "A2"
+     },
+     {
+      "front": "suonare",
+      "pos": "verb",
+      "back": "to play (an instrument)",
+      "example": "Suono la chitarra.",
+      "tier": "A2"
+     },
+     {
+      "front": "il concerto",
+      "pos": "noun",
+      "back": "concert",
+      "example": "Andiamo a un concerto stasera.",
+      "tier": "A2"
+     },
+     {
+      "front": "la vacanza",
+      "pos": "noun",
+      "back": "holiday, vacation",
+      "example": "Sono in vacanza al mare.",
+      "tier": "A2"
+     },
+     {
+      "front": "dal vivo",
+      "pos": "phrase",
+      "back": "live, in person",
+      "example": "Ascoltare la musica dal vivo è bello.",
+      "tier": "B1"
+     },
+     {
+      "front": "incontrare",
+      "pos": "verb",
+      "back": "to meet",
+      "example": "Voglio incontrare i miei amici.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Il famoso cantante, ex membro dei Beatles, è atterrato con un jet privato all'aeroporto della città.",
+      "point": "Passato prossimo con «essere» + accordo",
+      "explanation": "«atterrare» usa l'ausiliare essere, quindi il participio «atterrato» concorda con il soggetto maschile singolare.",
+      "why_tricky": "Scegliere essere o avere è difficile, e con essere il participio deve concordare in genere e numero."
+     },
+     {
+      "sentence": "Ancora oggi, dopo tanti anni, continua a cantare e a suonare.",
+      "point": "«continuare a + infinito»",
+      "explanation": "«continuare» vuole la preposizione «a» prima di ogni infinito: «a cantare e a suonare».",
+      "why_tricky": "La preposizione «a» va ripetuta prima del secondo infinito, e lo studente spesso la dimentica."
+     },
+     {
+      "sentence": "I fan italiani sperano di incontrarlo presto e di ascoltare di nuovo la sua musica dal vivo.",
+      "point": "«sperare di + infinito» + pronome attaccato",
+      "explanation": "«sperare» regge «di» prima dell'infinito; il pronome «lo» si attacca all'infinito in «incontrarlo».",
+      "why_tricky": "Il pronome si unisce alla fine dell'infinito e si usa «di», non «che», quando il soggetto è lo stesso."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dal vivo",
+      "meaning": "live, in person (not recorded)",
+      "example": "Ho visto il concerto dal vivo."
+     },
+     {
+      "phrase": "in tutto il mondo",
+      "meaning": "all over the world",
+      "example": "Le sue canzoni sono famose in tutto il mondo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Dove è arrivato Paul McCartney?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa ha fatto dopo l'arrivo all'aeroporto?",
+      "type": "open"
+     },
+     {
+      "q": "Perché Paul McCartney è famoso?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Qual è il tuo cantante o gruppo preferito? Scrivi qualche frase e spiega perché ti piace la sua musica."
+   }
+  },
   {
    "pack_id": "feed-2026-06-21-caldo-bollino-arancione",
    "title": "Caldo, venerdì salgono a 8 le città con il bollino arancione",
@@ -6330,385 +6858,6 @@
      }
     ],
     "opinion_prompt": "L'intelligenza artificiale ti aiuta nel lavoro o nello studio? Come? Scrivi ~80 parole.",
-    "revision": 2
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-09-ponte-stretto-corruzione",
-   "title": "Ponte sullo Stretto: tre persone indagate per corruzione",
-   "source": "ANSA",
-   "date": "2026-06-09",
-   "level": "B2",
-   "topics": [
-    "crime",
-    "politics"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-09-ponte-stretto-corruzione",
-    "meta": {
-     "title": "Ponte sullo Stretto: tre persone indagate per corruzione",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/",
-     "date_published": "2026-06-09",
-     "date_processed": "2026-06-09",
-     "tags": [
-      "cronaca",
-      "politica"
-     ],
-     "level": "B2"
-    },
-    "summary_en": "The Strait of Messina Bridge is a famous project, discussed for decades: an enormous bridge to join Sicily and Calabria. Now the project is in the news again, but for a different reason. Three people are under investigation for corruption, and among them is a former senior judge. According to the inquiry, these people allegedly received or promised money to favour private interests connected to the great project.\n\nThe police have carried out searches in offices and homes, looking for documents and evidence. The inquiry names several people and could grow in the coming weeks. The suspects say they are innocent, and the investigation is only at the beginning. The case is sensitive because the bridge is an enormous public work, worth many billions of euros. Construction has only just begun, and the project's critics now have one more argument. The government, instead, defends the work and wants to push ahead.",
-    "resumen_es": "Il Ponte sullo Stretto di Messina è un progetto famoso e discusso da decenni: un ponte enorme per unire la Sicilia e la Calabria. Ora il progetto è di nuovo nelle notizie, ma per un motivo diverso. Tre persone sono indagate per corruzione, e tra loro c'è anche un ex alto giudice. Secondo l'inchiesta, queste persone avrebbero ricevuto o promesso denaro per favorire interessi privati legati al grande progetto.\n\nLa polizia ha fatto perquisizioni in uffici e case, cercando documenti e prove. L'inchiesta fa diversi nomi e potrebbe crescere nelle prossime settimane. Gli indagati si dicono innocenti, e l'indagine è solo all'inizio. Il caso è delicato perché il ponte è un'opera pubblica enorme, che vale molti miliardi di euro. I lavori sono appena cominciati, e i critici del progetto ora hanno un argomento in più. Il governo, invece, difende l'opera e vuole andare avanti.",
-    "vocab": [
-     {
-      "id": "indagato",
-      "front": "indagato",
-      "pos": "noun/adj",
-      "back": "person under investigation, suspect",
-      "example": "Tre persone sono indagate.",
-      "tier": "B2",
-      "tags": [
-       "cronaca"
-      ]
-     },
-     {
-      "id": "corruzione",
-      "front": "corruzione",
-      "pos": "noun",
-      "back": "corruption",
-      "example": "L'accusa è di corruzione.",
-      "tier": "B2",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "inchiesta",
-      "front": "inchiesta",
-      "pos": "noun",
-      "back": "inquiry, investigation",
-      "example": "L'inchiesta va avanti da mesi.",
-      "tier": "B2",
-      "tags": [
-       "cronaca"
-      ]
-     },
-     {
-      "id": "giudice",
-      "front": "giudice",
-      "pos": "noun",
-      "back": "judge",
-      "example": "Il giudice ha firmato l'ordine.",
-      "tier": "B1",
-      "tags": [
-       "cronaca"
-      ]
-     },
-     {
-      "id": "perquisizione",
-      "front": "perquisizione",
-      "pos": "noun",
-      "back": "(police) search",
-      "example": "Hanno disposto una perquisizione.",
-      "tier": "C1",
-      "tags": [
-       "cronaca"
-      ]
-     },
-     {
-      "id": "progetto",
-      "front": "progetto",
-      "pos": "noun",
-      "back": "project, plan",
-      "example": "Il progetto del ponte è enorme.",
-      "tier": "B1",
-      "tags": []
-     },
-     {
-      "id": "legato-a",
-      "front": "legato a",
-      "pos": "phrase",
-      "back": "linked to, connected to",
-      "example": "Un caso legato al progetto.",
-      "tier": "B2",
-      "tags": [
-       "conector"
-      ]
-     },
-     {
-      "id": "ex",
-      "front": "ex",
-      "pos": "adj",
-      "back": "former, ex-",
-      "example": "Un ex ministro è coinvolto.",
-      "tier": "B1",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "disporre",
-      "front": "disporre",
-      "pos": "verb",
-      "back": "to order, to arrange (formal)",
-      "example": "Il giudice ha disposto i controlli.",
-      "tier": "C1",
-      "tags": []
-     },
-     {
-      "id": "tra-cui",
-      "front": "tra cui",
-      "pos": "phrase",
-      "back": "including, among whom",
-      "example": "Tre persone, tra cui un giudice.",
-      "tier": "B2",
-      "tags": [
-       "conector"
-      ]
-     },
-     {
-      "id": "sospetto",
-      "front": "sospetto",
-      "pos": "noun",
-      "back": "suspicion",
-      "example": "Ci sono sospetti di corruzione.",
-      "tier": "B2",
-      "tags": [
-       "cronaca"
-      ]
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Sono state disposte alcune perquisizioni.",
-      "point": "passive + 'alcune' (some)",
-      "explanation": "Passive 'sono state disposte' (agreeing) plus 'alcune' to mean 'some' searches.",
-      "why_tricky": "English 'some searches were ordered' keeps the verb simple; Italian agrees the participle."
-     },
-     {
-      "sentence": "Tre persone, tra cui un giudice, sono indagate.",
-      "point": "'tra cui' (among whom / including)",
-      "explanation": "'tra cui' introduces examples from a group: 'three people, including a judge'.",
-      "why_tricky": "English can say 'including' or 'among whom'; the single Italian phrase covers both."
-     },
-     {
-      "sentence": "Un'inchiesta legata al progetto.",
-      "point": "past participle as adjective + 'a' contraction",
-      "explanation": "'legato/legata a' ('linked to') agrees like an adjective; 'a + il' = 'al'.",
-      "why_tricky": "English 'linked to' doesn't change form; Italian agrees and merges the preposition."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare luce su",
-      "meaning": "to shed light on",
-      "example": "Gli inquirenti vogliono fare luce sul caso."
-     },
-     {
-      "phrase": "finire nei guai",
-      "meaning": "to get into trouble",
-      "example": "Tre persone sono finite nei guai."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Di che cosa sono accusate le tre persone?",
-      "type": "factual"
-     },
-     {
-      "q": "A quale grande progetto è legata l'inchiesta?",
-      "type": "factual"
-     },
-     {
-      "q": "Perché la corruzione nei grandi progetti è un problema?",
-      "type": "inferential"
-     }
-    ],
-    "opinion_prompt": "Perché è importante combattere la corruzione nei progetti pubblici? Scrivi ~80 parole.",
-    "revision": 2
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-09-sanzioni-russia",
-   "title": "L'Unione Europea presenta nuove sanzioni contro la Russia",
-   "source": "ANSA",
-   "date": "2026-06-09",
-   "level": "B2",
-   "topics": [
-    "politics",
-    "news"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-09-sanzioni-russia",
-    "meta": {
-     "title": "L'Unione Europea presenta nuove sanzioni contro la Russia",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/09/",
-     "date_published": "2026-06-09",
-     "date_processed": "2026-06-09",
-     "tags": [
-      "politica",
-      "mondo"
-     ],
-     "level": "B2"
-    },
-    "summary_en": "The European Union has presented a new package of sanctions against Russia, the 21st since the start of the war in Ukraine. The new measures hit two sectors above all: energy and finance. The goal is simple: to reduce the money Russia can use for the war. The president of the European Commission, Ursula von der Leyen, defended this strategy. She said Europe's persistence is bearing fruit and that the Russian economy is under pressure.\n\nThe sanctions still have to be approved by all the member states, and that is not always easy: some governments have doubts and ask for changes. Meanwhile the war goes on. In the same hours, new Russian attacks hit the Ukrainian city of Kharkiv, causing damage and injuries. After years of conflict, peace unfortunately remains far away. Europe, meanwhile, is trying to use its strongest weapon: the economic one.",
-    "resumen_es": "L'Unione Europea ha presentato un nuovo pacchetto di sanzioni contro la Russia, il numero 21 dall'inizio della guerra in Ucraina. Le nuove misure colpiscono soprattutto due settori: l'energia e la finanza. L'obiettivo è semplice: ridurre i soldi che la Russia può usare per la guerra. La presidente della Commissione europea, Ursula von der Leyen, ha difeso questa strategia. Ha detto che la costanza dell'Europa sta dando i suoi frutti e che l'economia russa è sotto pressione.\n\nLe sanzioni devono ancora essere approvate da tutti i paesi membri, e non è sempre facile: alcuni governi hanno dubbi e chiedono modifiche. Intanto la guerra continua. Nelle stesse ore, nuovi attacchi russi hanno colpito la città ucraina di Kharkiv, causando danni e feriti. Dopo anni di conflitto, la pace resta purtroppo ancora lontana. L'Europa, intanto, prova a usare la sua arma più forte: quella economica.",
-    "vocab": [
-     {
-      "id": "sanzione",
-      "front": "sanzione",
-      "pos": "noun",
-      "back": "sanction",
-      "example": "L'UE prepara nuove sanzioni.",
-      "tier": "B2",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "pacchetto",
-      "front": "pacchetto",
-      "pos": "noun",
-      "back": "package, set",
-      "example": "Il nuovo pacchetto di misure è duro.",
-      "tier": "B1",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "colpire",
-      "front": "colpire",
-      "pos": "verb",
-      "back": "to hit, to strike, to affect",
-      "example": "Le sanzioni colpiscono l'energia.",
-      "tier": "B2",
-      "tags": []
-     },
-     {
-      "id": "costanza",
-      "front": "costanza",
-      "pos": "noun",
-      "back": "perseverance, steadiness",
-      "example": "Serve costanza per ottenere risultati.",
-      "tier": "B2",
-      "tags": []
-     },
-     {
-      "id": "guerra",
-      "front": "guerra",
-      "pos": "noun",
-      "back": "war",
-      "example": "La guerra continua da anni.",
-      "tier": "B1",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "attacco",
-      "front": "attacco",
-      "pos": "noun",
-      "back": "attack",
-      "example": "Un attacco ha colpito la città.",
-      "tier": "B1",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "misura",
-      "front": "misura",
-      "pos": "noun",
-      "back": "measure, step",
-      "example": "Hanno preso misure dure.",
-      "tier": "B2",
-      "tags": [
-       "politica"
-      ]
-     },
-     {
-      "id": "finanza",
-      "front": "finanza",
-      "pos": "noun",
-      "back": "finance",
-      "example": "Le sanzioni toccano la finanza russa.",
-      "tier": "B2",
-      "tags": [
-       "economia"
-      ]
-     },
-     {
-      "id": "contro",
-      "front": "contro",
-      "pos": "prep",
-      "back": "against",
-      "example": "Sanzioni contro la Russia.",
-      "tier": "B1",
-      "tags": [
-       "conector"
-      ]
-     },
-     {
-      "id": "mentre",
-      "front": "mentre",
-      "pos": "conj",
-      "back": "while, whereas",
-      "example": "Mentre la guerra continua, l'UE reagisce.",
-      "tier": "B1",
-      "tags": [
-       "conector"
-      ]
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La Commissione ha presentato il pacchetto.",
-      "point": "passato prossimo with 'avere'",
-      "explanation": "Most verbs form the past with 'avere' + past participle ('ha presentato' = '(it) has presented').",
-      "why_tricky": "The participle does NOT agree with the subject when 'avere' is used, a common error."
-     },
-     {
-      "sentence": "Un pacchetto che colpisce l'energia.",
-      "point": "relative 'che' as subject + '-isc-' verb",
-      "explanation": "'che' links the clause ('that affects energy'); 'colpisce' is an '-isc-' verb (colpisco, colpisci, colpisce).",
-      "why_tricky": "English 'which/that' is the same, but the '-isc-' present trips learners."
-     },
-     {
-      "sentence": "La costanza dell'Europa.",
-      "point": "possession with 'di' + article ('dell'')",
-      "explanation": "Possession uses 'di' + article, merged: 'di + l'Europa' = 'dell'Europa' ('of Europe').",
-      "why_tricky": "English uses 's or 'of'; Italian merges 'di' with the article."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dare i suoi frutti",
-      "meaning": "to bear fruit, to pay off",
-      "example": "Lo sforzo dell'Europa dà i suoi frutti."
-     },
-     {
-      "phrase": "alzare la posta",
-      "meaning": "to raise the stakes",
-      "example": "Con nuove sanzioni, l'UE alza la posta."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Quante volte l'UE ha già sanzionato la Russia?",
-      "type": "factual"
-     },
-     {
-      "q": "Quali settori colpiscono le nuove sanzioni?",
-      "type": "factual"
-     },
-     {
-      "q": "Secondo te, le sanzioni sono uno strumento efficace? Perché?",
-      "type": "opinion"
-     }
-    ],
-    "opinion_prompt": "Pensi che le sanzioni economiche siano utili per fermare una guerra? Scrivi ~80 parole.",
     "revision": 2
    }
   }
