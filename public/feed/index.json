@@ -1,7 +1,472 @@
 {
-  "generated_at": "2026-06-22T09:14:23Z",
+  "generated_at": "2026-06-23T09:19:47Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-23-ia-lavoro",
+      "title": "Futuro24: assunti dall'intelligenza artificiale?",
+      "source": "Rai News",
+      "date": "2026-06-23",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-ia-lavoro",
+        "revision": 1,
+        "meta": {
+          "title": "Futuro24: assunti dall'intelligenza artificiale?",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/06/futuro24-assunti-dallintelligenza-artificiale-e25dd55e-7254-4d9c-b936-9e7c42052b9d.html",
+          "date_published": "2026-06-23",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "tecnologia",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Today artificial intelligence is also entering the world of work. In some companies, computer programs help to choose the new employees. These systems read CVs, analyse the candidates' answers and sometimes even run the first interviews. The goal is to save time and to manage a large number of applications quickly. For many companies, the technology has become a real help.\n\nBut this new development also opens many questions. Can a machine really understand a person's qualities? Some experts fear that the algorithms make mistakes or treat candidates unfairly. For this reason, many people say that the final decision must stay in the hands of a person. Artificial intelligence can be a useful tool, but work remains, above all, a human matter.",
+        "resumen_es": "Oggi l'intelligenza artificiale entra anche nel mondo del lavoro. In alcune aziende, i programmi informatici aiutano a scegliere i nuovi dipendenti. Questi sistemi leggono i curriculum, analizzano le risposte dei candidati e a volte conducono persino i primi colloqui. L'obiettivo è risparmiare tempo e gestire un grande numero di domande in modo veloce. Per molte imprese, la tecnologia è diventata un vero aiuto.\n\nPerò questa novità apre anche molte domande. Una macchina può capire davvero le qualità di una persona? Alcuni esperti temono che gli algoritmi facciano errori o trattino i candidati in modo ingiusto. Per questo motivo, molti dicono che la decisione finale deve restare nelle mani di una persona. L'intelligenza artificiale può essere uno strumento utile, ma il lavoro resta prima di tutto una questione umana.",
+        "vocab": [
+          {
+            "front": "il lavoro",
+            "pos": "noun",
+            "back": "work, job",
+            "example": "Cerco un nuovo lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'azienda",
+            "pos": "noun",
+            "back": "company, firm",
+            "example": "L'azienda assume dieci persone.",
+            "tier": "A2"
+          },
+          {
+            "front": "il dipendente",
+            "pos": "noun",
+            "back": "employee",
+            "example": "Ogni dipendente ha un contratto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il colloquio",
+            "pos": "noun",
+            "back": "(job) interview",
+            "example": "Domani ho un colloquio importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "il candidato",
+            "pos": "noun",
+            "back": "candidate, applicant",
+            "example": "Il candidato è molto preparato.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (time or money)",
+            "example": "Voglio risparmiare tempo.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Il computer è uno strumento utile.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'algoritmo",
+            "pos": "noun",
+            "back": "algorithm",
+            "example": "L'algoritmo sceglie i risultati.",
+            "tier": "B1"
+          },
+          {
+            "front": "ingiusto",
+            "pos": "adj",
+            "back": "unfair",
+            "example": "Mi sembra una scelta ingiusta.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid",
+            "example": "Temo di arrivare in ritardo.",
+            "tier": "B1"
+          },
+          {
+            "front": "utile",
+            "pos": "adj",
+            "back": "useful",
+            "example": "Questo consiglio è molto utile.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Questi sistemi leggono i curriculum, analizzano le risposte dei candidati e a volte conducono persino i primi colloqui.",
+            "point": "Present indicative, third person plural",
+            "explanation": "The verbs 'leggono', 'analizzano' and 'conducono' are all 'loro' forms in the present. 'Persino' adds the idea of 'even'.",
+            "why_tricky": "'Conducono' comes from the irregular verb 'condurre', so its stem does not look like its infinitive."
+          },
+          {
+            "sentence": "Alcuni esperti temono che gli algoritmi facciano errori o trattino i candidati in modo ingiusto.",
+            "point": "Subjunctive after 'temere che'",
+            "explanation": "Verbs of fear like 'temere che' trigger the congiuntivo, so we say 'facciano' and 'trattino' instead of 'fanno' and 'trattano'.",
+            "why_tricky": "English uses a normal present after 'fear that', so learners forget that Italian needs the subjunctive, and 'facciano' is irregular."
+          },
+          {
+            "sentence": "L'intelligenza artificiale può essere uno strumento utile, ma il lavoro resta prima di tutto una questione umana.",
+            "point": "Modal 'potere' plus infinitive and contrast with 'ma'",
+            "explanation": "'Può essere' is the modal 'potere' followed by the infinitive 'essere'. 'Ma' introduces a contrast and 'prima di tutto' means 'above all'.",
+            "why_tricky": "After a modal verb Italian keeps the infinitive with no preposition, unlike many English structures."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "prima di tutto",
+            "meaning": "first of all, above all",
+            "example": "Prima di tutto, dobbiamo ascoltare le persone."
+          },
+          {
+            "phrase": "nelle mani di",
+            "meaning": "in the hands of, under the control of",
+            "example": "La decisione resta nelle mani del direttore."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "In che modo l'intelligenza artificiale aiuta le aziende a scegliere i dipendenti?",
+            "type": "open"
+          },
+          {
+            "q": "Quali rischi o problemi temono alcuni esperti?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, chi deve prendere la decisione finale e perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe fare un colloquio di lavoro con un computer invece che con una persona? Spiega in poche frasi perché sì o perché no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-gioielli-cardinale",
+      "title": "All'asta da Christie's i gioielli di Claudia Cardinale",
+      "source": "ANSA",
+      "date": "2026-06-22",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-gioielli-cardinale",
+        "revision": 1,
+        "meta": {
+          "title": "All'asta da Christie's i gioielli di Claudia Cardinale",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/06/22/allasta-da-christies-i-gioielli-di-claudia-cardinale_f047d71c-0bb8-4d62-b406-d36061e6b5ac.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "cultura",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Claudia Cardinale's jewels are going up for auction. The famous Italian actress, one of the great stars of cinema, has left a beautiful collection of precious stones. Among the pieces there are rings, necklaces and earrings from famous brands such as Bulgari and Van Cleef. The auction house Christie's is organising the sale, and many collectors are waiting for this moment with great interest.\n\nBut this sale is not only about luxury. A part of the money will go to a foundation that helps young women artists. In this way, the jewels of a great actress become support for the women who today want to work in the world of art. The life of Claudia Cardinale thus continues to inspire new generations, also through a gesture of solidarity.",
+        "resumen_es": "I gioielli di Claudia Cardinale vanno all'asta. La famosa attrice italiana, una delle grandi star del cinema, ha lasciato una bellissima collezione di pietre preziose. Tra i pezzi ci sono anelli, collane e orecchini di marchi celebri come Bulgari e Van Cleef. La casa d'aste Christie's organizza la vendita e molti collezionisti aspettano questo momento con grande interesse.\n\nMa questa vendita non pensa solo al lusso. Una parte dei soldi andrà a una fondazione che aiuta le giovani artiste. In questo modo, i gioielli di una grande attrice diventano un sostegno per le donne che oggi vogliono lavorare nel mondo dell'arte. La vita di Claudia Cardinale continua così a ispirare nuove generazioni, anche attraverso un gesto di solidarietà.",
+        "vocab": [
+          {
+            "front": "il gioiello",
+            "pos": "noun",
+            "back": "jewel, piece of jewellery",
+            "example": "Questo gioiello è molto antico.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'asta",
+            "pos": "noun",
+            "back": "auction",
+            "example": "Il quadro è stato venduto all'asta.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'attrice",
+            "pos": "noun",
+            "back": "actress",
+            "example": "L'attrice ha vinto un premio.",
+            "tier": "A2"
+          },
+          {
+            "front": "la collana",
+            "pos": "noun",
+            "back": "necklace",
+            "example": "Porta una collana d'oro.",
+            "tier": "A2"
+          },
+          {
+            "front": "prezioso",
+            "pos": "adj",
+            "back": "precious, valuable",
+            "example": "È una pietra molto preziosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "il marchio",
+            "pos": "noun",
+            "back": "brand",
+            "example": "È un marchio molto conosciuto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vendita",
+            "pos": "noun",
+            "back": "sale",
+            "example": "La vendita comincia domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "il collezionista",
+            "pos": "noun",
+            "back": "collector",
+            "example": "Il collezionista cerca pezzi rari.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fondazione",
+            "pos": "noun",
+            "back": "foundation (charity)",
+            "example": "La fondazione aiuta i giovani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sostegno",
+            "pos": "noun",
+            "back": "support",
+            "example": "Offrono un sostegno alle famiglie.",
+            "tier": "B1"
+          },
+          {
+            "front": "la solidarietà",
+            "pos": "noun",
+            "back": "solidarity",
+            "example": "È un gesto di solidarietà importante.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tra i pezzi ci sono anelli, collane e orecchini di marchi celebri come Bulgari e Van Cleef.",
+            "point": "'ci sono' for plural 'there are'",
+            "explanation": "Italian uses 'c'è' with a singular noun and 'ci sono' with plural nouns. Here the plural 'anelli, collane e orecchini' requires 'ci sono'.",
+            "why_tricky": "English keeps 'there is/are' simple, but learners often leave 'c'è' even when the following noun is plural."
+          },
+          {
+            "sentence": "Una parte dei soldi andrà a una fondazione che aiuta le giovani artiste.",
+            "point": "Future 'andrà' and the relative 'che'",
+            "explanation": "'Andrà' is the simple future of the irregular 'andare'. 'Che' introduces a relative clause describing the foundation.",
+            "why_tricky": "The future of 'andare' uses the stem 'andr-', which is irregular and easy to confuse with the present 'va'."
+          },
+          {
+            "sentence": "La vita di Claudia Cardinale continua così a ispirare nuove generazioni, anche attraverso un gesto di solidarietà.",
+            "point": "'continuare a' plus infinitive",
+            "explanation": "The verb 'continuare' needs the preposition 'a' before another verb, so we say 'continua a ispirare'.",
+            "why_tricky": "English says 'continue to inspire' or 'continue inspiring', so learners forget the obligatory 'a' in Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare all'asta",
+            "meaning": "to go up for auction",
+            "example": "La villa andrà all'asta il mese prossimo."
+          },
+          {
+            "phrase": "in questo modo",
+            "meaning": "in this way, thus",
+            "example": "In questo modo possiamo aiutare tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa va all'asta e chi era Claudia Cardinale?",
+            "type": "open"
+          },
+          {
+            "q": "Quali tipi di gioielli fanno parte della collezione?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa vendita è speciale e a chi andrà una parte dei soldi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, è una buona idea vendere oggetti famosi per aiutare i giovani artisti? Spiega la tua opinione in poche frasi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-lucio-corsi-palazzetti",
+      "title": "Lucio Corsi si prepara al debutto nei palazzetti italiani con l'arrivo di nuova musica",
+      "source": "ANSA",
+      "date": "2026-06-22",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-lucio-corsi-palazzetti",
+        "revision": 1,
+        "meta": {
+          "title": "Lucio Corsi si prepara al debutto nei palazzetti italiani con l'arrivo di nuova musica",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/06/22/lucio-corsi-si-prepara-al-debutto-nei-palazzetti-italiani-con-larrivo-di-nuova_964cdd73-70bd-4cd0-b95b-a85708443e2f.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "musica",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The singer Lucio Corsi is getting ready for a new adventure. For the first time he will play in the big Italian arenas, the indoor venues where the most important concerts are held. The tour will begin on 27 November and will stop in cities such as Florence, Rome and Milan. Along with the tour comes new music too, because the singer-songwriter is preparing more songs for his fans.\n\nThis step is very important in Lucio Corsi's career. Playing in arenas means having an audience that is bigger and more devoted. The singer is known for his original style and for lyrics full of poetic images. Now many people are waiting for the new concerts, which promise shows full of emotion. For his admirers, the winter of 2026 will be a season not to be missed.",
+        "resumen_es": "Il cantante Lucio Corsi si prepara a una nuova avventura. Per la prima volta suonerà nei grandi palazzetti italiani, gli spazi al chiuso dove si tengono i concerti più importanti. Il tour comincerà il 27 novembre e toccherà città come Firenze, Roma e Milano. Insieme al tour arriva anche nuova musica, perché il cantautore sta preparando altre canzoni per i suoi fan.\n\nQuesto passo è molto importante nella carriera di Lucio Corsi. Suonare nei palazzetti significa avere un pubblico sempre più grande e affezionato. Il cantante è conosciuto per il suo stile originale e per i testi pieni di immagini poetiche. Adesso molti aspettano i nuovi concerti, che promettono spettacoli ricchi di emozioni. Per i suoi ammiratori, l'inverno del 2026 sarà una stagione da non perdere.",
+        "vocab": [
+          {
+            "front": "il cantante",
+            "pos": "noun",
+            "back": "singer",
+            "example": "Il cantante saluta il pubblico.",
+            "tier": "A2"
+          },
+          {
+            "front": "il palazzetto",
+            "pos": "noun",
+            "back": "indoor arena, sports hall",
+            "example": "Il concerto è in un palazzetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il concerto",
+            "pos": "noun",
+            "back": "concert",
+            "example": "Il concerto comincia alle nove.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tour",
+            "pos": "noun",
+            "back": "tour",
+            "example": "Il tour passa per molte città.",
+            "tier": "A2"
+          },
+          {
+            "front": "la canzone",
+            "pos": "noun",
+            "back": "song",
+            "example": "Questa canzone è bellissima.",
+            "tier": "A2"
+          },
+          {
+            "front": "il cantautore",
+            "pos": "noun",
+            "back": "singer-songwriter",
+            "example": "È un cantautore molto amato.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico applaude felice.",
+            "tier": "B1"
+          },
+          {
+            "front": "affezionato",
+            "pos": "adj",
+            "back": "devoted, fond",
+            "example": "Ha un pubblico affezionato.",
+            "tier": "B1"
+          },
+          {
+            "front": "il testo",
+            "pos": "noun",
+            "back": "lyrics, text",
+            "example": "I testi delle sue canzoni sono poetici.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettacolo",
+            "pos": "noun",
+            "back": "show, performance",
+            "example": "Lo spettacolo dura due ore.",
+            "tier": "A2"
+          },
+          {
+            "front": "la stagione",
+            "pos": "noun",
+            "back": "season",
+            "example": "L'inverno è la mia stagione preferita.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Per la prima volta suonerà nei grandi palazzetti italiani, gli spazi al chiuso dove si tengono i concerti più importanti.",
+            "point": "Future 'suonerà' and passive 'si'",
+            "explanation": "'Suonerà' is the simple future of 'suonare'. 'Si tengono' uses the passive 'si', meaning the concerts 'are held', and the verb agrees with the plural 'concerti'.",
+            "why_tricky": "The 'si' construction has no direct English equal, and the verb must agree with the noun, so it becomes plural 'tengono'."
+          },
+          {
+            "sentence": "Insieme al tour arriva anche nuova musica, perché il cantautore sta preparando altre canzoni per i suoi fan.",
+            "point": "Present continuous 'stare' plus gerund",
+            "explanation": "'Sta preparando' is 'stare' plus the gerund and describes an action happening now. 'Insieme a' means 'together with'.",
+            "why_tricky": "Italian often prefers the simple present, so the 'stare + gerundio' form for ongoing action is easy to overuse or forget."
+          },
+          {
+            "sentence": "Suonare nei palazzetti significa avere un pubblico sempre più grande e affezionato.",
+            "point": "Infinitive as subject and 'sempre più'",
+            "explanation": "Here 'suonare' works like a noun, the subject of 'significa'. 'Sempre più' means 'more and more' before an adjective.",
+            "why_tricky": "English would use the -ing form ('playing') as the subject, while Italian uses the plain infinitive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da non perdere",
+            "meaning": "not to be missed",
+            "example": "È una mostra da non perdere."
+          },
+          {
+            "phrase": "sempre più",
+            "meaning": "more and more",
+            "example": "Il gruppo è sempre più famoso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa farà Lucio Corsi per la prima volta?",
+            "type": "open"
+          },
+          {
+            "q": "Quando comincia il tour e quali città toccherà?",
+            "type": "open"
+          },
+          {
+            "q": "Perché suonare nei palazzetti è importante per la sua carriera?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è l'ultimo concerto che hai visto o che vorresti vedere? Descrivi in poche frasi com'è stato o come lo immagini."
+      }
+    },
     {
       "pack_id": "feed-2026-06-22-moschino-direttori",
       "title": "Messina e Rizzo nuovi direttori creativi di Moschino",
@@ -6309,525 +6774,6 @@
           }
         ],
         "opinion_prompt": "C'è un luogo storico nella tua città o nel tuo paese che ami? Descrivilo e spiega perché è importante."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-spacex-ipo",
-      "title": "SpaceX, il giorno della più grande Ipo della storia: la compagnia di Musk debutta a Wall Street",
-      "source": "Rai News",
-      "date": "2026-06-12",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-spacex-ipo",
-        "revision": 2,
-        "meta": {
-          "title": "SpaceX, il giorno della più grande Ipo della storia: la compagnia di Musk debutta a Wall Street",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/06/spacex-il-giorno-della-piu-grande-ipo-della-storia-la-compagnia-di-musk-debutta-a-wall-street-517e673f-ad54-4352-81bb-2cfe5937754c.html",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "economia",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today is an important day for world finance. SpaceX, Elon Musk's space company, is making its stock market debut on Wall Street. Experts are calling it the biggest IPO in history. IPO is an English abbreviation: it means that, for the first time, anyone can buy shares in the company. The goal is enormous: to raise 75 billion dollars.\n\nThe numbers are surprising for another reason too. According to estimates, around 4,400 SpaceX employees will become millionaires, because they own shares in the company. SpaceX builds rockets and satellites and takes astronauts into space. For many years it was a private company. Now, with the money from the stock market, it wants to grow further: new space journeys, more internet satellites and, one day, perhaps, humans on Mars. European markets are watching with interest, and Italy's stock exchanges are celebrating today too.",
-        "resumen_es": "Oggi è un giorno importante per la finanza mondiale. SpaceX, la compagnia spaziale di Elon Musk, debutta in Borsa a Wall Street. Gli esperti la chiamano la più grande Ipo della storia. Ipo è una sigla inglese: significa che, per la prima volta, tutti possono comprare azioni della società. L'obiettivo è enorme: raccogliere 75 miliardi di dollari.\n\nI numeri sorprendono anche per un altro motivo. Secondo le stime, circa 4.400 dipendenti di SpaceX diventeranno milionari, perché possiedono azioni della compagnia. SpaceX costruisce razzi e satelliti e porta astronauti nello spazio. Per molti anni è stata una società privata. Ora, con i soldi della Borsa, vuole crescere ancora: nuovi viaggi spaziali, più satelliti per internet e, un giorno, forse, l'arrivo dell'uomo su Marte. I mercati europei guardano con interesse, e anche le borse italiane oggi sono in festa.",
-        "vocab": [
-          {
-            "front": "debuttare",
-            "pos": "verb",
-            "back": "to debut, to make a first appearance",
-            "example": "La società debutta in Borsa oggi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la Borsa",
-            "pos": "noun",
-            "back": "stock exchange",
-            "example": "La Borsa di Milano è in festa.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'azione",
-            "pos": "noun",
-            "back": "share (in a company)",
-            "example": "Tutti possono comprare azioni della società.",
-            "tier": "B1"
-          },
-          {
-            "front": "raccogliere",
-            "pos": "verb",
-            "back": "to raise, to collect",
-            "example": "Vogliono raccogliere 75 miliardi di dollari.",
-            "tier": "B1"
-          },
-          {
-            "front": "il miliardo",
-            "pos": "noun",
-            "back": "billion",
-            "example": "Un miliardo è mille milioni.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dipendente",
-            "pos": "noun",
-            "back": "employee",
-            "example": "Molti dipendenti diventeranno ricchi.",
-            "tier": "B1"
-          },
-          {
-            "front": "diventare",
-            "pos": "verb",
-            "back": "to become",
-            "example": "Diventeranno milionari con le azioni.",
-            "tier": "A2"
-          },
-          {
-            "front": "possedere",
-            "pos": "verb",
-            "back": "to own",
-            "example": "Possiedono azioni della compagnia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il razzo",
-            "pos": "noun",
-            "back": "rocket",
-            "example": "SpaceX costruisce razzi e satelliti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stima",
-            "pos": "noun",
-            "back": "estimate",
-            "example": "Secondo le stime, saranno in 4.400.",
-            "tier": "B1"
-          },
-          {
-            "front": "il mercato",
-            "pos": "noun",
-            "back": "market",
-            "example": "I mercati europei guardano con interesse.",
-            "tier": "A2"
-          },
-          {
-            "front": "essere in festa",
-            "pos": "phrase",
-            "back": "to be celebrating",
-            "example": "Le borse italiane sono in festa.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "per la prima volta, tutti possono comprare azioni della società",
-            "point": "potere + infinito",
-            "explanation": "'Possono comprare' = 'can buy'; modal verb plus infinitive.",
-            "why_tricky": "Simple structure, but learners forget to conjugate only the modal."
-          },
-          {
-            "sentence": "circa 4.400 dipendenti di SpaceX diventeranno milionari",
-            "point": "futuro semplice",
-            "explanation": "'Diventeranno' expresses a future prediction.",
-            "why_tricky": "Italian often uses the present for the near future, but predictions take the future tense."
-          },
-          {
-            "sentence": "Per molti anni è stata una società privata.",
-            "point": "passato prossimo con essere (durata conclusa)",
-            "explanation": "'È stata' describes a finished period in the past.",
-            "why_tricky": "English would say 'was' (simple past); Italian uses the compound past."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "guardare con interesse",
-            "meaning": "to watch with interest",
-            "example": "Gli investitori guardano con interesse il debutto."
-          },
-          {
-            "phrase": "un giorno, forse",
-            "meaning": "one day, maybe",
-            "example": "Un giorno, forse, andremo su Marte."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa succede oggi a Wall Street?",
-            "type": "open"
-          },
-          {
-            "q": "Perché 4.400 dipendenti diventeranno milionari?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa vuole fare SpaceX con i soldi raccolti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Compreresti azioni di una compagnia spaziale? Perché sì o perché no?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-birrificio-fotovoltaico",
-      "title": "Oltre 15 mila pannelli fotovoltaici per alimentare il birrificio di Assemini",
-      "source": "ANSA",
-      "date": "2026-06-12",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-birrificio-fotovoltaico",
-        "revision": 2,
-        "meta": {
-          "title": "Oltre 15 mila pannelli fotovoltaici per alimentare il birrificio di Assemini",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/ansacom/notizie/ansa2030/ichnusa/2026/06/11/oltre-15-mila-pannelli-fotovoltaici-per-alimentare-il-birrificio-di-assemini_80fffcca-2cb1-469c-a60f-db85ed1358a0.html",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "ambiente",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Sardinia there is news that brings together beer and the sun. The brewery in Assemini, near Cagliari, has installed a large solar power plant: more than 15,000 solar panels on almost 14 hectares of land. It is an enormous area, like many football pitches together. Thanks to these panels, the brewery covers all its energy needs during the day. In other words: when the sun shines, the factory makes beer with clean energy.\n\nThe project is a good example of how industry can become more sustainable. In Italy more and more companies are investing in renewable energy: there is no lack of sunshine, especially in the south of the country and on the islands. This saves money and protects the environment and the climate. And the customers? For them the beer tastes the same as always, but now, behind every bottle, there is also a little energy from the Sardinian sun.",
-        "resumen_es": "In Sardegna c'è una novità che unisce la birra e il sole. Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico: oltre 15 mila pannelli solari su quasi 14 ettari di terreno. È una superficie enorme, come molti campi da calcio insieme. Grazie a questi pannelli, il birrificio copre tutto il suo fabbisogno di energia durante il giorno. In altre parole: quando c'è il sole, la fabbrica produce birra con energia pulita.\n\nIl progetto è un buon esempio di come l'industria può diventare più sostenibile. In Italia sempre più aziende investono nelle energie rinnovabili: il sole non manca, soprattutto nel sud del paese e nelle isole. Così si risparmia denaro e si proteggono l'ambiente e il clima. E i clienti? Per loro la birra ha lo stesso sapore di sempre, ma adesso, dietro ogni bottiglia, c'è anche un po' di energia del sole sardo.",
-        "vocab": [
-          {
-            "front": "il birrificio",
-            "pos": "noun",
-            "back": "brewery",
-            "example": "Il birrificio si trova vicino a Cagliari.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pannello solare",
-            "pos": "phrase",
-            "back": "solar panel",
-            "example": "Hanno installato 15 mila pannelli solari.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'impianto",
-            "pos": "noun",
-            "back": "plant, installation, system",
-            "example": "L'impianto fotovoltaico è enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ettaro",
-            "pos": "noun",
-            "back": "hectare",
-            "example": "Il terreno misura quasi 14 ettari.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fabbisogno",
-            "pos": "noun",
-            "back": "(energy) needs, requirement",
-            "example": "I pannelli coprono il fabbisogno diurno.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'energia pulita",
-            "pos": "phrase",
-            "back": "clean energy",
-            "example": "La fabbrica usa energia pulita.",
-            "tier": "A2"
-          },
-          {
-            "front": "sostenibile",
-            "pos": "adj",
-            "back": "sustainable",
-            "example": "L'industria vuole diventare più sostenibile.",
-            "tier": "B1"
-          },
-          {
-            "front": "investire in",
-            "pos": "phrase",
-            "back": "to invest in",
-            "example": "Molte aziende investono nelle rinnovabili.",
-            "tier": "B1"
-          },
-          {
-            "front": "le energie rinnovabili",
-            "pos": "phrase",
-            "back": "renewable energy",
-            "example": "Le energie rinnovabili crescono in Italia.",
-            "tier": "B1"
-          },
-          {
-            "front": "risparmiare",
-            "pos": "verb",
-            "back": "to save (money, energy)",
-            "example": "Con il sole si risparmia denaro.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'ambiente",
-            "pos": "noun",
-            "back": "environment",
-            "example": "Proteggere l'ambiente è importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sapore",
-            "pos": "noun",
-            "back": "taste, flavour",
-            "example": "La birra ha lo stesso sapore di sempre.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il birrificio di Assemini, vicino a Cagliari, ha installato un grande impianto fotovoltaico",
-            "point": "passato prossimo con avere",
-            "explanation": "'Ha installato': transitive verb, auxiliary avere.",
-            "why_tricky": "Contrast with verbs that take essere; transitive verbs use avere."
-          },
-          {
-            "sentence": "Così si risparmia denaro e si proteggono l'ambiente e il clima.",
-            "point": "si impersonale / si passivante",
-            "explanation": "'Si risparmia', 'si proteggono': the 'si' construction; the verb agrees with what follows.",
-            "why_tricky": "Singular 'si risparmia denaro' but plural 'si proteggono l'ambiente e il clima'."
-          },
-          {
-            "sentence": "Il progetto è un buon esempio di come l'industria può diventare più sostenibile.",
-            "point": "di come + indicativo",
-            "explanation": "'Un esempio di come...' introduces an explanatory clause.",
-            "why_tricky": "Learners expect the subjunctive; the indicative is normal here."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in altre parole",
-            "meaning": "in other words",
-            "example": "In altre parole, la fabbrica funziona con il sole."
-          },
-          {
-            "phrase": "lo stesso di sempre",
-            "meaning": "the same as always",
-            "example": "Il gusto è lo stesso di sempre."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha installato il birrificio di Assemini?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa copre l'impianto durante il giorno?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'Italia è un buon paese per l'energia solare?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Le aziende dovrebbero essere obbligate a usare energie rinnovabili? Scrivi la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-09-partenze-giugno",
-      "title": "Con la fine della scuola, 16 milioni di italiani partono in vacanza",
-      "source": "ANSA",
-      "date": "2026-06-09",
-      "level": "B1",
-      "topics": [
-        "society",
-        "culture"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-09-partenze-giugno",
-        "meta": {
-          "title": "Con la fine della scuola, 16 milioni di italiani partono in vacanza",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/06/09/",
-          "date_published": "2026-06-09",
-          "date_processed": "2026-06-09",
-          "tags": [
-            "società",
-            "viaggi"
-          ],
-          "level": "B1"
-        },
-        "summary_en": "School is over and for many Italians the holidays are beginning. According to estimates, around 16 million people are setting off already in June, without waiting for high summer. It is a very high number, and it says one thing clearly: Italians love to leave early, when prices are lower and the beaches are less crowded.\n\nMost travellers choose the sea. The favourite destinations are Italy's own coasts: Puglia, Sicily, Sardinia, Romagna. Many prefer to stay in Italy rather than go abroad. The holidays are often short, a week or even less, but almost everyone wants at least a few days of rest after a year of work and school. For the tourism sector it is a golden moment. Hotels, restaurants, beach clubs and trains are preparing for a huge amount of business, worth billions of euros. June, in short, is no longer a month of waiting: it is already summer.",
-        "resumen_es": "La scuola è finita e per molti italiani iniziano le vacanze. Secondo le stime, circa 16 milioni di persone partono già a giugno, senza aspettare l'estate piena. È un numero molto alto, e dice una cosa chiara: gli italiani amano partire presto, quando i prezzi sono più bassi e le spiagge sono meno piene.\n\nLa maggior parte dei viaggiatori sceglie il mare. Le mete preferite sono le coste italiane: la Puglia, la Sicilia, la Sardegna, la Romagna. Molti preferiscono restare in Italia invece di andare all'estero. Le vacanze sono spesso brevi, una settimana o anche meno, ma quasi tutti vogliono almeno qualche giorno di riposo dopo un anno di lavoro e di scuola. Per il settore del turismo è un momento d'oro. Alberghi, ristoranti, stabilimenti balneari e treni si preparano a un grande giro d'affari, che vale miliardi di euro. Giugno, insomma, non è più un mese di attesa: è già estate.",
-        "vocab": [
-          {
-            "id": "partenza",
-            "front": "partenza",
-            "pos": "noun",
-            "back": "departure",
-            "example": "Le partenze iniziano a giugno.",
-            "tier": "B1",
-            "tags": [
-              "viaggi"
-            ]
-          },
-          {
-            "id": "vacanza",
-            "front": "vacanza",
-            "pos": "noun",
-            "back": "holiday",
-            "example": "Vado in vacanza al mare.",
-            "tier": "B1",
-            "tags": [
-              "viaggi"
-            ]
-          },
-          {
-            "id": "turismo",
-            "front": "turismo",
-            "pos": "noun",
-            "back": "tourism",
-            "example": "Il turismo è importante per l'economia.",
-            "tier": "B1",
-            "tags": [
-              "società"
-            ]
-          },
-          {
-            "id": "la-maggior-parte",
-            "front": "la maggior parte",
-            "pos": "phrase",
-            "back": "most, the majority",
-            "example": "La maggior parte vuole il mare.",
-            "tier": "B1",
-            "tags": [
-              "conector"
-            ]
-          },
-          {
-            "id": "costa",
-            "front": "costa",
-            "pos": "noun",
-            "back": "coast",
-            "example": "Molti vanno verso la costa.",
-            "tier": "B1",
-            "tags": [
-              "viaggi"
-            ]
-          },
-          {
-            "id": "prevedere",
-            "front": "prevedere",
-            "pos": "verb",
-            "back": "to expect, to forecast",
-            "example": "Prevedono molti turisti quest'estate.",
-            "tier": "B1",
-            "tags": [
-              "società"
-            ]
-          },
-          {
-            "id": "giro-d-affari",
-            "front": "giro d'affari",
-            "pos": "phrase",
-            "back": "turnover, business volume",
-            "example": "Un giro d'affari di miliardi di euro.",
-            "tier": "B2",
-            "tags": [
-              "economia"
-            ]
-          },
-          {
-            "id": "restare",
-            "front": "restare",
-            "pos": "verb",
-            "back": "to stay, to remain",
-            "example": "Preferiscono restare in Italia.",
-            "tier": "B1",
-            "tags": []
-          },
-          {
-            "id": "circa",
-            "front": "circa",
-            "pos": "adv",
-            "back": "about, around",
-            "example": "Circa 16 milioni di persone.",
-            "tier": "B1",
-            "tags": [
-              "conector"
-            ]
-          },
-          {
-            "id": "meta",
-            "front": "meta",
-            "pos": "noun",
-            "back": "destination",
-            "example": "L'Italia è la meta preferita.",
-            "tier": "B1",
-            "tags": [
-              "viaggi"
-            ]
-          },
-          {
-            "id": "preferire",
-            "front": "preferire",
-            "pos": "verb",
-            "back": "to prefer",
-            "example": "Preferiscono il mare alla montagna.",
-            "tier": "B1",
-            "tags": []
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La maggior parte vuole il mare.",
-            "point": "collective subject + singular verb",
-            "explanation": "'la maggior parte' (the majority) takes a singular verb ('vuole'), even though it refers to many people.",
-            "why_tricky": "English says 'most want' with a plural verb, so learners use the plural."
-          },
-          {
-            "sentence": "Preferiscono restare in Italia.",
-            "point": "'-isc-' verbs in the present (preferire)",
-            "explanation": "Verbs like 'preferire', 'capire', 'finire' add '-isc-' in most present forms: preferisco, preferisci, preferisce, preferiscono.",
-            "why_tricky": "The extra '-isc-' has no English equivalent and is easy to drop."
-          },
-          {
-            "sentence": "Vanno al mare a giugno.",
-            "point": "'andare a / in' with places + article contraction",
-            "explanation": "'andare' uses 'a' or 'in' before places; 'a + il' becomes 'al' (al mare, in montagna).",
-            "why_tricky": "English just says 'to'; Italian chooses a/in and merges with the article."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare le valigie",
-            "meaning": "to pack one's bags",
-            "example": "Prima di partire, faccio le valigie."
-          },
-          {
-            "phrase": "andare in ferie",
-            "meaning": "to go on holiday / take leave",
-            "example": "Ad agosto molti italiani vanno in ferie."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "In quale mese partono molti italiani e perché?",
-            "type": "factual"
-          },
-          {
-            "q": "Dove preferisce andare la maggior parte?",
-            "type": "factual"
-          },
-          {
-            "q": "Secondo te, è meglio il mare o la montagna?",
-            "type": "opinion"
-          }
-        ],
-        "opinion_prompt": "Dove ti piace andare in vacanza e con chi? Scrivi ~80 parole.",
-        "revision": 2
       }
     }
   ]
