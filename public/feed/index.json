@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-23T09:19:47Z",
+  "generated_at": "2026-06-23T21:17:41Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-23-festa-della-musica",
+      "title": "\"La voce dei luoghi\", è la 32ma Festa della Musica, tanti paesi uniti dalle note",
+      "source": "RAI News",
+      "date": "2026-06-21",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-festa-della-musica",
+        "revision": 1,
+        "meta": {
+          "title": "\"La voce dei luoghi\", è la 32ma Festa della Musica, tanti paesi uniti dalle note",
+          "source": "RAI News",
+          "url": "https://www.rainews.it/articoli/2026/06/la-voce-dei-luoghi-e-la-32-festa-della-musica-tanti-paesi-in-festa-uniti-dalle-note-f1540394-e5f7-4393-a00d-b57f968d60a0.html",
+          "date_published": "2026-06-21",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "musica",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Festa della Musica is back, now in its thirty-second edition. This year's theme is The Voice of Places. In many cities and many Italian towns the music fills the streets, while choirs and groups play together. The main venue is L'Aquila, which in 2026 is the Italian Capital of Culture.\n\nThe festival's ambassador is the saxophonist Stefano Di Battista. The idea is simple but beautiful: to bring people together through music. The music also becomes a way to discover the local area and its traditions. Anyone can take part, listen or play in the street. It is a day of joy, open to everyone. The festival reminds us that music belongs to each person and knows no borders.",
+        "resumen_es": "Torna la Festa della Musica, giunta alla sua trentaduesima edizione. Il tema di quest'anno e La voce dei luoghi. In tante citta e in tanti paesi italiani la musica riempie le strade, mentre cori e gruppi suonano insieme. La sede principale e L'Aquila, che nel 2026 e Capitale Italiana della Cultura.\n\nIl testimonial della festa e il sassofonista Stefano Di Battista. L'idea e semplice ma bella: unire le persone grazie alle note. La musica diventa anche un modo per scoprire il territorio e le sue tradizioni. Chiunque puo partecipare, ascoltare o suonare per strada. E una giornata di gioia, aperta a tutti. La festa ci ricorda che la musica appartiene a ognuno e non conosce confini.",
+        "vocab": [
+          {
+            "front": "festa",
+            "pos": "noun",
+            "back": "party, festival",
+            "example": "Oggi c'e una grande festa in citta.",
+            "tier": "A2"
+          },
+          {
+            "front": "edizione",
+            "pos": "noun",
+            "back": "edition",
+            "example": "E la trentaduesima edizione della festa.",
+            "tier": "B1"
+          },
+          {
+            "front": "luogo",
+            "pos": "noun",
+            "back": "place",
+            "example": "Ogni luogo ha la sua voce e la sua storia.",
+            "tier": "A2"
+          },
+          {
+            "front": "coro",
+            "pos": "noun",
+            "back": "choir",
+            "example": "Il coro canta in piazza la sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "suonare",
+            "pos": "verb",
+            "back": "to play (an instrument)",
+            "example": "I ragazzi suonano la chitarra per strada.",
+            "tier": "A2"
+          },
+          {
+            "front": "sede",
+            "pos": "noun",
+            "back": "venue, main seat",
+            "example": "La sede principale della festa e L'Aquila.",
+            "tier": "B1"
+          },
+          {
+            "front": "capitale",
+            "pos": "noun",
+            "back": "capital",
+            "example": "Roma e la capitale d'Italia.",
+            "tier": "A2"
+          },
+          {
+            "front": "cultura",
+            "pos": "noun",
+            "back": "culture",
+            "example": "Ama molto la cultura italiana.",
+            "tier": "A2"
+          },
+          {
+            "front": "testimonial",
+            "pos": "noun",
+            "back": "ambassador, spokesperson",
+            "example": "Il testimonial e un musicista famoso.",
+            "tier": "B1"
+          },
+          {
+            "front": "sassofonista",
+            "pos": "noun",
+            "back": "saxophonist",
+            "example": "Il sassofonista suona davvero bene.",
+            "tier": "B1"
+          },
+          {
+            "front": "unire",
+            "pos": "verb",
+            "back": "to unite, to bring together",
+            "example": "La musica unisce le persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "nota",
+            "pos": "noun",
+            "back": "(musical) note",
+            "example": "Le note riempiono l'aria della sera.",
+            "tier": "A2"
+          },
+          {
+            "front": "tradizione",
+            "pos": "noun",
+            "back": "tradition",
+            "example": "Le tradizioni del paese sono molto antiche.",
+            "tier": "B1"
+          },
+          {
+            "front": "confine",
+            "pos": "noun",
+            "back": "border, boundary",
+            "example": "La musica non conosce confini.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Torna la Festa della Musica, giunta alla sua trentaduesima edizione.",
+            "point": "L'ordine delle parole: il soggetto puo venire dopo il verbo.",
+            "explanation": "In italiano il soggetto 'la Festa della Musica' segue il verbo 'torna'. Questa inversione e comune e mette in rilievo l'azione.",
+            "why_tricky": "Chi parla inglese si aspetta sempre soggetto + verbo, e l'inversione puo confondere."
+          },
+          {
+            "sentence": "In tante citta e in tanti paesi italiani la musica riempie le strade, mentre cori e gruppi suonano insieme.",
+            "point": "'mentre' + presente per azioni che avvengono insieme e l'accordo soggetto-verbo.",
+            "explanation": "'Mentre' collega due azioni simultanee. Nota l'accordo: 'la musica riempie' (singolare) e 'cori e gruppi suonano' (plurale).",
+            "why_tricky": "Si sbaglia spesso la desinenza del verbo quando il soggetto e singolare o plurale."
+          },
+          {
+            "sentence": "La sede principale e L'Aquila, che nel 2026 e Capitale Italiana della Cultura.",
+            "point": "Il pronome relativo 'che' come soggetto.",
+            "explanation": "'Che' sostituisce 'L'Aquila' e introduce una informazione in piu. Vale sia per persone sia per cose.",
+            "why_tricky": "In italiano 'che' non cambia mai forma, ma gli studenti cercano una parola diversa per cose e persone."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non conoscere confini",
+            "meaning": "non avere limiti, essere universale",
+            "example": "La gentilezza non conosce confini."
+          },
+          {
+            "phrase": "aperto a tutti",
+            "meaning": "a cui chiunque puo partecipare",
+            "example": "Il concerto in piazza e aperto a tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Qual e il tema della Festa della Musica di quest'anno?",
+            "type": "open"
+          },
+          {
+            "q": "Quale citta e la sede principale della festa?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perche la musica e importante?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, la musica puo unire le persone? Scrivi un breve testo con la tua opinione e qualche esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-maturita-prova-orale",
+      "title": "Dieci regole d'oro per affrontare la prova orale dell'esame di maturità",
+      "source": "ANSA",
+      "date": "2026-06-21",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "esami"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-maturita-prova-orale",
+        "revision": 1,
+        "meta": {
+          "title": "Dieci regole d'oro per affrontare la prova orale dell'esame di maturità",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/21/dieci-regole-doro-per-affrontare-la-prova-orale-dellesame-di-maturita_b458de5d-34dc-4ea3-914c-847d1ff5b35a.html",
+          "date_published": "2026-06-21",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "scuola",
+            "esami"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "For many Italian students the moment of the oral exam of the maturita has arrived. It is the last step before the diploma. To help the young people, the website Skuola.net has prepared ten golden rules. The tips are simple but very useful.\n\nFirst of all, it is important to sleep well in the nights before the exam. The way you dress also matters: better a tidy and comfortable outfit. The experts advise revising calmly and not studying until the last minute. Chatbots can help to ask practice questions, but they do not replace studying. Finally, you have to stay calm and speak with confidence in front of the teachers. With a bit of organization and a bit of calm, even the oral exam becomes easier to face.",
+        "resumen_es": "Per molti studenti italiani e arrivato il momento della prova orale dell'esame di maturita. E l'ultimo passo prima del diploma. Per aiutare i ragazzi, il sito Skuola.net ha preparato dieci regole d'oro. I consigli sono semplici ma molto utili.\n\nPrima di tutto, e importante dormire bene nelle notti prima dell'esame. Anche il modo di vestirsi conta: meglio un abbigliamento ordinato e comodo. Gli esperti consigliano di ripassare con calma e di non studiare fino all'ultimo minuto. I chatbot possono aiutare a fare domande di prova, ma non sostituiscono lo studio. Infine, bisogna restare tranquilli e parlare con sicurezza davanti ai professori. Con un po' di organizzazione e un po' di calma, anche l'esame orale diventa piu facile da affrontare.",
+        "vocab": [
+          {
+            "front": "prova",
+            "pos": "noun",
+            "back": "test, exam",
+            "example": "Domani c'e la prova orale d'inglese.",
+            "tier": "A2"
+          },
+          {
+            "front": "orale",
+            "pos": "adj",
+            "back": "oral",
+            "example": "L'esame orale e sempre un po' difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "esame di maturita",
+            "pos": "phrase",
+            "back": "school-leaving exam",
+            "example": "L'esame di maturita e molto importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "diploma",
+            "pos": "noun",
+            "back": "diploma",
+            "example": "Dopo l'esame arriva finalmente il diploma.",
+            "tier": "A2"
+          },
+          {
+            "front": "regola d'oro",
+            "pos": "phrase",
+            "back": "golden rule",
+            "example": "La prima regola d'oro e dormire bene.",
+            "tier": "B1"
+          },
+          {
+            "front": "consiglio",
+            "pos": "noun",
+            "back": "advice, tip",
+            "example": "Ti do un consiglio molto utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "dormire",
+            "pos": "verb",
+            "back": "to sleep",
+            "example": "E meglio dormire prima di un esame.",
+            "tier": "A2"
+          },
+          {
+            "front": "vestirsi",
+            "pos": "verb",
+            "back": "to get dressed",
+            "example": "Bisogna vestirsi in modo ordinato.",
+            "tier": "B1"
+          },
+          {
+            "front": "abbigliamento",
+            "pos": "noun",
+            "back": "clothing, outfit",
+            "example": "Sceglie un abbigliamento comodo per l'esame.",
+            "tier": "B1"
+          },
+          {
+            "front": "ripassare",
+            "pos": "verb",
+            "back": "to review, to revise",
+            "example": "Devo ripassare la storia stasera.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Il chatbot non sostituisce lo studio.",
+            "tier": "B1"
+          },
+          {
+            "front": "tranquillo",
+            "pos": "adj",
+            "back": "calm, relaxed",
+            "example": "Resta tranquillo durante l'esame.",
+            "tier": "A2"
+          },
+          {
+            "front": "sicurezza",
+            "pos": "noun",
+            "back": "confidence, security",
+            "example": "Parla con sicurezza davanti ai professori.",
+            "tier": "B1"
+          },
+          {
+            "front": "professore",
+            "pos": "noun",
+            "back": "teacher, professor",
+            "example": "I professori ascoltano lo studente.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Per molti studenti italiani e arrivato il momento della prova orale dell'esame di maturita.",
+            "point": "Passato prossimo con l'ausiliare 'essere' (e arrivato).",
+            "explanation": "'Arrivare' usa l'ausiliare 'essere'. Il participio 'arrivato' concorda con 'il momento' (maschile singolare).",
+            "why_tricky": "Molti usano 'avere' per tutti i verbi, ma i verbi di movimento come 'arrivare' vogliono 'essere'."
+          },
+          {
+            "sentence": "Anche il modo di vestirsi conta: meglio un abbigliamento ordinato e comodo.",
+            "point": "Verbo riflessivo all'infinito: 'vestirsi'.",
+            "explanation": "All'infinito il pronome riflessivo si attacca al verbo: 'vestir' + 'si'. Significa vestire se stessi.",
+            "why_tricky": "Lo studente dimentica il pronome 'si' oppure lo mette davanti al verbo."
+          },
+          {
+            "sentence": "Gli esperti consigliano di ripassare con calma e di non studiare fino all'ultimo minuto.",
+            "point": "'consigliare di + infinito' e l'infinito negativo 'non studiare'.",
+            "explanation": "Dopo 'consigliare' si usa 'di' + infinito. Per la forma negativa si mette 'non' davanti all'infinito.",
+            "why_tricky": "Si dimentica la preposizione 'di' e si sbaglia la posizione di 'non'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "regola d'oro",
+            "meaning": "un consiglio fondamentale e molto importante",
+            "example": "La regola d'oro e non lasciare tutto all'ultimo."
+          },
+          {
+            "phrase": "all'ultimo minuto",
+            "meaning": "proprio alla fine, con pochissimo tempo",
+            "example": "Ha preparato tutto all'ultimo minuto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa devono affrontare gli studenti in questo periodo?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli ha preparato il sito Skuola.net?",
+            "type": "open"
+          },
+          {
+            "q": "Perche i chatbot non possono sostituire lo studio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come ti prepari di solito prima di un esame importante? Descrivi le tue strategie in un breve testo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-23-prezzi-estate",
+      "title": "Codacons, i prezzi 'pazzi' dell'estate: 300mila euro per un alloggio a Firenze",
+      "source": "ANSA",
+      "date": "2026-06-21",
+      "level": "A2-B1",
+      "topics": [
+        "turismo",
+        "prezzi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-23-prezzi-estate",
+        "revision": 1,
+        "meta": {
+          "title": "Codacons, i prezzi 'pazzi' dell'estate: 300mila euro per un alloggio a Firenze",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/06/21/codacons-i-prezzi-pazzi-dellestate-300mila-euro-per-un-alloggio-a-firenze_f9b1aeab-f238-4233-a29d-004ccae58aa6.html",
+          "date_published": "2026-06-21",
+          "date_processed": "2026-06-23",
+          "tags": [
+            "turismo",
+            "prezzi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The consumer association Codacons is raising the alarm about summer prices. According to the report, some costs are really crazy. In Florence, for example, a luxury accommodation can come to cost up to three hundred thousand euros. Travelling far is also very expensive, because an economy flight to Oceania can exceed twenty thousand euros.\n\nLuckily, not everything is so costly. The same report also points out cheaper options, with some accommodations under two hundred euros. The advice for tourists is simple: compare prices well before booking. Whoever searches carefully can still find a nice holiday without spending too much. Summer, in short, remains within everyone's reach, but a bit of patience is needed.",
+        "resumen_es": "L'associazione dei consumatori Codacons lancia l'allarme sui prezzi dell'estate. Secondo il rapporto, alcuni costi sono davvero pazzi. A Firenze, per esempio, un alloggio di lusso puo arrivare a costare fino a trecentomila euro. Anche viaggiare lontano e molto caro, perche un volo in economy per l'Oceania puo superare i ventimila euro.\n\nPer fortuna non tutto e cosi costoso. Lo stesso rapporto segnala anche soluzioni economiche, con alcune sistemazioni sotto i duecento euro. Il consiglio per i turisti e semplice: confrontare bene i prezzi prima di prenotare. Chi cerca con attenzione puo ancora trovare una vacanza bella senza spendere troppo. L'estate, insomma, resta alla portata di tutti, ma serve un po' di pazienza.",
+        "vocab": [
+          {
+            "front": "prezzo",
+            "pos": "noun",
+            "back": "price",
+            "example": "I prezzi degli hotel sono molto alti.",
+            "tier": "A2"
+          },
+          {
+            "front": "consumatore",
+            "pos": "noun",
+            "back": "consumer",
+            "example": "I consumatori protestano per i costi.",
+            "tier": "B1"
+          },
+          {
+            "front": "lanciare l'allarme",
+            "pos": "phrase",
+            "back": "to raise the alarm",
+            "example": "L'associazione lancia l'allarme sui prezzi.",
+            "tier": "B1"
+          },
+          {
+            "front": "alloggio",
+            "pos": "noun",
+            "back": "accommodation, lodging",
+            "example": "Cerco un alloggio economico al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "lusso",
+            "pos": "noun",
+            "back": "luxury",
+            "example": "E un albergo di lusso molto famoso.",
+            "tier": "B1"
+          },
+          {
+            "front": "volo",
+            "pos": "noun",
+            "back": "flight",
+            "example": "Il volo per Roma costa poco oggi.",
+            "tier": "A2"
+          },
+          {
+            "front": "caro",
+            "pos": "adj",
+            "back": "expensive",
+            "example": "Viaggiare in estate e molto caro.",
+            "tier": "A2"
+          },
+          {
+            "front": "economico",
+            "pos": "adj",
+            "back": "cheap, affordable",
+            "example": "Ho trovato una soluzione economica.",
+            "tier": "A2"
+          },
+          {
+            "front": "sistemazione",
+            "pos": "noun",
+            "back": "accommodation, place to stay",
+            "example": "Le sistemazioni in centro sono care.",
+            "tier": "B1"
+          },
+          {
+            "front": "confrontare",
+            "pos": "verb",
+            "back": "to compare",
+            "example": "Conviene confrontare i prezzi online.",
+            "tier": "B1"
+          },
+          {
+            "front": "prenotare",
+            "pos": "verb",
+            "back": "to book, to reserve",
+            "example": "Devo prenotare l'albergo per agosto.",
+            "tier": "A2"
+          },
+          {
+            "front": "vacanza",
+            "pos": "noun",
+            "back": "holiday, vacation",
+            "example": "Vado in vacanza al mare con la famiglia.",
+            "tier": "A2"
+          },
+          {
+            "front": "alla portata di tutti",
+            "pos": "phrase",
+            "back": "within everyone's reach",
+            "example": "Vogliamo una vacanza alla portata di tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "pazienza",
+            "pos": "noun",
+            "back": "patience",
+            "example": "Ci vuole un po' di pazienza per risparmiare.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Firenze, per esempio, un alloggio di lusso puo arrivare a costare fino a trecentomila euro.",
+            "point": "Verbo modale 'puo' + infinito e la struttura 'arrivare a + infinito'.",
+            "explanation": "Dopo il modale 'puo' si usa l'infinito. 'Arrivare a costare' significa raggiungere quel prezzo, anche molto alto.",
+            "why_tricky": "Si tende a coniugare il secondo verbo invece di lasciarlo all'infinito dopo 'puo'."
+          },
+          {
+            "sentence": "Il consiglio per i turisti e semplice: confrontare bene i prezzi prima di prenotare.",
+            "point": "La struttura 'prima di + infinito'.",
+            "explanation": "'Prima di' regge sempre l'infinito: 'prima di prenotare' vuol dire prima dell'azione di prenotare.",
+            "why_tricky": "Lo studente usa spesso un verbo coniugato dopo 'prima di', mentre serve l'infinito."
+          },
+          {
+            "sentence": "Chi cerca con attenzione puo ancora trovare una vacanza bella senza spendere troppo.",
+            "point": "Il pronome 'chi' e la struttura 'senza + infinito'.",
+            "explanation": "'Chi' significa 'la persona che' e regge il verbo al singolare. 'Senza spendere' usa l'infinito dopo 'senza'.",
+            "why_tricky": "'Chi' confonde perche racchiude soggetto e relativo in una sola parola."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "alla portata di tutti",
+            "meaning": "accessibile a chiunque, non troppo costoso",
+            "example": "Vogliamo offrire prezzi alla portata di tutti."
+          },
+          {
+            "phrase": "prezzi pazzi",
+            "meaning": "prezzi esagerati, troppo alti",
+            "example": "In agosto ci sono prezzi pazzi sulla costa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche Codacons parla di prezzi pazzi?",
+            "type": "open"
+          },
+          {
+            "q": "Quali soluzioni economiche segnala il rapporto?",
+            "type": "open"
+          },
+          {
+            "q": "Quale consiglio viene dato ai turisti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perche in estate i prezzi diventano cosi alti? Scrivi la tua opinione in un breve paragrafo."
+      }
+    },
     {
       "pack_id": "feed-2026-06-23-ia-lavoro",
       "title": "Futuro24: assunti dall'intelligenza artificiale?",
@@ -6260,520 +6788,6 @@
           }
         ],
         "opinion_prompt": "Ti piace visitare città storiche? Scrivi qualche frase su un viaggio o un luogo che vorresti vedere."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-maturita-intelligenza-artificiale",
-      "title": "Maturità, 3 maturandi su 4 si sono preparati con l'IA",
-      "source": "ANSA",
-      "date": "2026-06-15",
-      "level": "A2-B1",
-      "topics": [
-        "scuola",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-maturita-intelligenza-artificiale",
-        "revision": 1,
-        "meta": {
-          "title": "Maturità, 3 maturandi su 4 si sono preparati con l'IA",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/14/maturita-3-maturandi-su-4-si-sono-preparati-con-lia_ffb78d3f-cfcc-4d66-9bf0-bf93ca21dbc7.html",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "scuola",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy, a survey suggests three out of four students preparing for the final school exam (maturita) used artificial intelligence to study. AI helps them revise, summarize texts and explain difficult topics, and many now use it instead of traditional study groups. But it carries risks, since AI sometimes gives wrong answers, so teachers advise always checking the information. AI can be a useful aid, but it does not replace real study.",
-        "resumen_es": "In Italia molti studenti si preparano per la maturità, l'esame finale della scuola superiore. Quest'anno c'è una novità importante. Secondo un'indagine, tre studenti su quattro hanno usato l'intelligenza artificiale per studiare. L'IA aiuta a ripassare, a riassumere i testi e a spiegare gli argomenti difficili. Molti ragazzi la usano al posto dei vecchi gruppi di studio. Prima, infatti, gli studenti si incontravano per studiare insieme. Adesso preferiscono fare domande al computer. Questo strumento è veloce e disponibile a ogni ora. Però ci sono anche dei rischi. A volte l'intelligenza artificiale dà risposte sbagliate. Per questo gli insegnanti consigliano di controllare sempre le informazioni. L'IA può essere un aiuto utile, ma non sostituisce lo studio vero. Gli studenti devono ancora leggere, capire e ricordare. La tecnologia cambia il modo di imparare, ma la testa resta sempre la cosa più importante.",
-        "vocab": [
-          {
-            "front": "la maturità",
-            "pos": "noun",
-            "back": "final secondary-school exam",
-            "example": "Mio fratello fa la maturità a giugno.",
-            "tier": "B1"
-          },
-          {
-            "front": "prepararsi",
-            "pos": "verb",
-            "back": "to prepare (oneself)",
-            "example": "Mi preparo per l'esame.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'esame",
-            "pos": "noun",
-            "back": "exam",
-            "example": "Domani ho un esame difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scuola superiore",
-            "pos": "phrase",
-            "back": "high school",
-            "example": "Frequenta la scuola superiore.",
-            "tier": "A2"
-          },
-          {
-            "front": "la novità",
-            "pos": "noun",
-            "back": "news, novelty",
-            "example": "C'è una novità interessante.",
-            "tier": "A2"
-          },
-          {
-            "front": "secondo",
-            "pos": "prep",
-            "back": "according to",
-            "example": "Secondo me, hai ragione.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'indagine",
-            "pos": "noun",
-            "back": "survey, investigation",
-            "example": "L'indagine mostra dati nuovi.",
-            "tier": "B1"
-          },
-          {
-            "front": "ripassare",
-            "pos": "verb",
-            "back": "to revise, to review",
-            "example": "Devo ripassare la lezione.",
-            "tier": "A2"
-          },
-          {
-            "front": "riassumere",
-            "pos": "verb",
-            "back": "to summarise",
-            "example": "Puoi riassumere il testo?",
-            "tier": "B1"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "Il telefono è uno strumento utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "C'è il rischio di sbagliare.",
-            "tier": "B1"
-          },
-          {
-            "front": "sbagliato",
-            "pos": "adj",
-            "back": "wrong, mistaken",
-            "example": "La risposta è sbagliata.",
-            "tier": "A2"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to advise, to recommend",
-            "example": "Ti consiglio questo libro.",
-            "tier": "A2"
-          },
-          {
-            "front": "sostituire",
-            "pos": "verb",
-            "back": "to replace",
-            "example": "Il computer non sostituisce il professore.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo un'indagine, tre studenti su quattro hanno usato l'intelligenza artificiale per studiare.",
-            "point": "Passato prossimo con 'avere'",
-            "explanation": "'Hanno usato' e' passato prossimo: si forma con il presente di 'avere' + il participio passato 'usato'. Indica un'azione finita.",
-            "why_tricky": "Con il verbo 'avere' il participio non cambia: si dice sempre 'usato', anche con un soggetto plurale."
-          },
-          {
-            "sentence": "Prima, infatti, gli studenti si incontravano per studiare insieme.",
-            "point": "Imperfetto per abitudini del passato",
-            "explanation": "'Si incontravano' e' imperfetto e descrive un'abitudine che si ripeteva nel passato.",
-            "why_tricky": "Si confonde con il passato prossimo: l'imperfetto si usa per azioni ripetute o senza fine precisa."
-          },
-          {
-            "sentence": "Per questo gli insegnanti consigliano di controllare sempre le informazioni.",
-            "point": "'Consigliare di' + infinito",
-            "explanation": "Dopo 'consigliare' usiamo 'di' + infinito ('di controllare') per dare un suggerimento.",
-            "why_tricky": "Bisogna ricordare la preposizione 'di', che in inglese non c'e' ('advise to check')."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al posto di",
-            "meaning": "invece di, in sostituzione di",
-            "example": "Bevo tè al posto del caffè."
-          },
-          {
-            "phrase": "per questo",
-            "meaning": "per questa ragione, ecco perche",
-            "example": "Piove, per questo resto a casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come usano gli studenti l'intelligenza artificiale per la maturità?",
-            "type": "open"
-          },
-          {
-            "q": "Quali rischi ha l'uso dell'IA secondo il testo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'IA non può sostituire lo studio vero?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Tu useresti l'intelligenza artificiale per studiare? Scrivi qualche frase con i pro e i contro."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-elasmosauro-asta",
-      "title": "All'asta uno scheletro di Elasmosaurus lungo 9 metri, base stimata 200mila euro",
-      "source": "ANSA",
-      "date": "2026-06-15",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "natura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-elasmosauro-asta",
-        "revision": 1,
-        "meta": {
-          "title": "All'asta uno scheletro di Elasmosaurus lungo 9 metri, base stimata 200mila euro",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/06/14/allasta-uno-scheletro-di-elasmosaurus-lungo-9-metri-base-stimata-200mila-euro_e2463dee-f21c-4760-9bb3-fbdd098c1cbf.html",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "scienza",
-            "natura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In France, an almost complete skeleton of an Elasmosaurus, a large ancient sea reptile with a very long neck, will go up for auction. The roughly nine-metre fossil has a starting price of about 200,000 euros, though the final price could be far higher, with museums and private collectors interested. Some scientists worry that important fossils end up in private homes where the public cannot see them, and prefer such finds to be kept in museums.",
-        "resumen_es": "In Francia un fossile molto speciale andrà all'asta. È lo scheletro di un Elasmosauro, un grande rettile marino del passato. Questo animale viveva nel mare milioni di anni fa. Aveva un collo lunghissimo e quattro pinne grandi. Lo scheletro misura circa nove metri. È quasi completo e per questo è molto raro. La vendita avrà luogo il 21 giugno, allo zoo di Beauval, in Francia. Il prezzo di partenza è di circa 200mila euro. Però il prezzo finale potrebbe essere molto più alto. Molti musei e collezionisti privati sono interessati. Alcuni scienziati, però, non sono contenti. Hanno paura che fossili così importanti finiscano nelle case private. In questo modo, infatti, il pubblico non può più vederli. La scienza preferisce conservare questi reperti nei musei. Così tutti possono ammirarli e studiare la storia della Terra.",
-        "vocab": [
-          {
-            "front": "il fossile",
-            "pos": "noun",
-            "back": "fossil",
-            "example": "Hanno trovato un fossile antico.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo scheletro",
-            "pos": "noun",
-            "back": "skeleton",
-            "example": "Lo scheletro è esposto al museo.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare all'asta",
-            "pos": "phrase",
-            "back": "to go up for auction",
-            "example": "Il quadro andrà all'asta domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rettile",
-            "pos": "noun",
-            "back": "reptile",
-            "example": "Il coccodrillo è un rettile.",
-            "tier": "B1"
-          },
-          {
-            "front": "il collo",
-            "pos": "noun",
-            "back": "neck",
-            "example": "La giraffa ha un collo lungo.",
-            "tier": "A2"
-          },
-          {
-            "front": "la pinna",
-            "pos": "noun",
-            "back": "fin",
-            "example": "Il pesce muove le pinne.",
-            "tier": "A2"
-          },
-          {
-            "front": "misurare",
-            "pos": "verb",
-            "back": "to measure, to be (a length)",
-            "example": "La stanza misura quattro metri.",
-            "tier": "A2"
-          },
-          {
-            "front": "raro",
-            "pos": "adj",
-            "back": "rare",
-            "example": "È un animale molto raro.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vendita",
-            "pos": "noun",
-            "back": "sale",
-            "example": "La vendita comincia alle dieci.",
-            "tier": "A2"
-          },
-          {
-            "front": "avere luogo",
-            "pos": "phrase",
-            "back": "to take place",
-            "example": "La festa avrà luogo sabato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il prezzo di partenza",
-            "pos": "phrase",
-            "back": "starting price",
-            "example": "Il prezzo di partenza è basso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il collezionista",
-            "pos": "noun",
-            "back": "collector",
-            "example": "Il collezionista compra quadri antichi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il reperto",
-            "pos": "noun",
-            "back": "(archaeological) find",
-            "example": "Il reperto è molto prezioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "ammirare",
-            "pos": "verb",
-            "back": "to admire",
-            "example": "I turisti ammirano la statua.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Questo animale viveva nel mare milioni di anni fa.",
-            "point": "Imperfetto per descrivere il passato",
-            "explanation": "'Viveva' e' imperfetto e descrive una situazione del passato che durava nel tempo.",
-            "why_tricky": "L'imperfetto non indica un momento preciso, ma una situazione o un'abitudine che continuava."
-          },
-          {
-            "sentence": "La vendita avrà luogo il 21 giugno, allo zoo di Beauval, in Francia.",
-            "point": "Futuro semplice",
-            "explanation": "'Avra' e' il futuro semplice del verbo 'avere' e indica un'azione che succedera' dopo, nel futuro.",
-            "why_tricky": "Il futuro di 'avere' e' irregolare: avro, avrai, avra. Bisogna impararlo a memoria."
-          },
-          {
-            "sentence": "Hanno paura che fossili così importanti finiscano nelle case private.",
-            "point": "Congiuntivo dopo 'avere paura che'",
-            "explanation": "Dopo espressioni di timore come 'avere paura che' si usa il congiuntivo ('finiscano').",
-            "why_tricky": "Il congiuntivo presente di 'finire' e' 'finiscano' e si usa per cose non sicure o temute."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere luogo",
-            "meaning": "succedere, svolgersi (un evento)",
-            "example": "Il concerto ha luogo in piazza."
-          },
-          {
-            "phrase": "in questo modo",
-            "meaning": "cosi, in questa maniera",
-            "example": "In questo modo risparmi tempo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Com'era fatto l'Elasmosauro? Descrivi il suo corpo.",
-            "type": "open"
-          },
-          {
-            "q": "Dove e quando avrà luogo la vendita del fossile?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcuni scienziati non sono contenti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, i fossili importanti devono stare nei musei o possono andare ai privati? Scrivi la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
-      "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
-      "source": "ANSA",
-      "date": "2026-06-12",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "arte"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-12-casa-leopardi-affreschi",
-        "revision": 2,
-        "meta": {
-          "title": "Casa Leopardi, a Recanati riaffiora un ciclo di affreschi nascosto per secoli",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/06/11/casa-leopardi-a-recanati-scoperto-affresco-databile-tra-500-e-600-nella_fd1f59a0-a85f-4847-b5a9-5408cce8e487.html",
-          "date_published": "2026-06-12",
-          "date_processed": "2026-06-12",
-          "tags": [
-            "cultura",
-            "arte"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Recanati, a small town in the Marche region, there is a very famous house: Casa Leopardi. Giacomo Leopardi, one of Italy's greatest poets, was born here. Now the house is in the news again because of an extraordinary discovery. In the library, under layers of paint, ancient frescoes have reappeared, hidden for centuries. The experts say the paintings are very old: they date back to the 1500s or 1600s. Nobody knew they existed.\n\nThe discovery is exciting for another reason too: Giacomo Leopardi spent hours and hours in that library, reading and studying. A descendant of the family said it is fascinating to think that the poet looked at those walls. Now the restorers are working to clean and protect the frescoes. Soon visitors will be able to see them. For lovers of art and literature, it is one more reason to visit Recanati.",
-        "resumen_es": "A Recanati, una piccola città nelle Marche, c'è una casa molto famosa: Casa Leopardi. Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani. Ora la casa è di nuovo nelle notizie per una scoperta straordinaria. Nella biblioteca, sotto strati di pittura, sono riapparsi degli affreschi antichi, nascosti per secoli. Gli esperti dicono che le pitture sono molto vecchie: risalgono al Cinquecento o al Seicento. Nessuno sapeva che esistevano.\n\nLa scoperta è emozionante anche per un altro motivo: Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare. Una discendente della famiglia ha detto che è suggestivo pensare che il poeta guardasse quelle pareti. Ora i restauratori lavorano per pulire e proteggere gli affreschi. Presto i visitatori potranno vederli. Per gli amanti dell'arte e della letteratura, è un buon motivo in più per visitare Recanati.",
-        "vocab": [
-          {
-            "front": "la scoperta",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "È una scoperta straordinaria.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'affresco",
-            "pos": "noun",
-            "back": "fresco (wall painting)",
-            "example": "Gli affreschi sono molto antichi.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascosto",
-            "pos": "adj",
-            "back": "hidden",
-            "example": "Le pitture erano nascoste per secoli.",
-            "tier": "B1"
-          },
-          {
-            "front": "riapparire",
-            "pos": "verb",
-            "back": "to reappear",
-            "example": "Sotto la pittura sono riapparsi gli affreschi.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo strato",
-            "pos": "noun",
-            "back": "layer",
-            "example": "C'erano molti strati di pittura.",
-            "tier": "B1"
-          },
-          {
-            "front": "risalire a",
-            "pos": "phrase",
-            "back": "to date back to",
-            "example": "Le pitture risalgono al Cinquecento.",
-            "tier": "B1"
-          },
-          {
-            "front": "la biblioteca",
-            "pos": "noun",
-            "back": "library",
-            "example": "Il poeta studiava nella biblioteca di casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "il poeta",
-            "pos": "noun",
-            "back": "poet",
-            "example": "Leopardi è un grande poeta italiano.",
-            "tier": "A2"
-          },
-          {
-            "front": "suggestivo",
-            "pos": "adj",
-            "back": "evocative, fascinating",
-            "example": "È suggestivo pensare alla storia di queste mura.",
-            "tier": "B1"
-          },
-          {
-            "front": "il restauratore",
-            "pos": "noun",
-            "back": "restorer",
-            "example": "I restauratori puliscono le pitture.",
-            "tier": "B1"
-          },
-          {
-            "front": "la parete",
-            "pos": "noun",
-            "back": "wall (interior)",
-            "example": "Gli affreschi sono sulle pareti della sala.",
-            "tier": "A2"
-          },
-          {
-            "front": "ore e ore",
-            "pos": "phrase",
-            "back": "hours and hours",
-            "example": "Passava ore e ore a leggere.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Qui è nato Giacomo Leopardi, uno dei più grandi poeti italiani.",
-            "point": "passato prossimo con essere",
-            "explanation": "'È nato' uses essere because nascere is a verb of change/state.",
-            "why_tricky": "Choosing avere or essere as auxiliary is a classic difficulty."
-          },
-          {
-            "sentence": "Giacomo Leopardi passava ore e ore in quella biblioteca, a leggere e studiare.",
-            "point": "imperfetto per abitudini",
-            "explanation": "'Passava' describes a repeated habit in the past.",
-            "why_tricky": "English uses simple past for both habits and single events; Italian separates them."
-          },
-          {
-            "sentence": "Presto i visitatori potranno vederli.",
-            "point": "futuro semplice + pronome",
-            "explanation": "'Potranno vederli' = 'they will be able to see them'; the pronoun attaches to the infinitive.",
-            "why_tricky": "Pronoun position after the infinitive feels unusual for English speakers."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere di nuovo nelle notizie",
-            "meaning": "to be in the news again",
-            "example": "La casa del poeta è di nuovo nelle notizie."
-          },
-          {
-            "phrase": "un motivo in più",
-            "meaning": "one more reason",
-            "example": "È un motivo in più per visitare le Marche."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è stato scoperto a Casa Leopardi?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la scoperta è speciale per chi ama la letteratura?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa fanno ora i restauratori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "C'è un luogo storico nella tua città o nel tuo paese che ami? Descrivilo e spiega perché è importante."
       }
     }
   ]
