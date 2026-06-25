@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-06-24T20:13:47Z",
+  "generated_at": "2026-06-25T08:17:48Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-25-meteorite-oro",
+      "title": "L'impatto di un meteorite potrebbe aver fatto piovere oro sull'Australia",
+      "source": "ANSA",
+      "date": "2026-06-25",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "spazio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-meteorite-oro",
+        "revision": 1,
+        "meta": {
+          "title": "L'impatto di un meteorite potrebbe aver fatto piovere oro sull'Australia",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/06/22/limpatto-di-un-meteorite-potrebbe-aver-fatto-piovere-oro-sullaustralia-_fa3c8987-5f1f-4e30-80f5-8509aefa2eb3.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "scienza",
+            "spazio"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Some scientists think that a large meteorite fell on Australia a very long time ago. According to them, this impact may have brought a lot of gold to our planet. The collision happened more than a hundred million years ago. The experts found the evidence inside a large crater about four kilometres wide. For this reason the study is very interesting for everyone.\n\nWhen a meteorite hits the Earth, it releases a huge amount of energy and heat. In this way it can change the ground and bring new metals from space. Scientists are now studying the rocks of the area to understand better what happened. They want to know how much gold arrived with this impact. Discoveries like this help us to learn about the history of our planet and the space around us.",
+        "resumen_es": "Alcuni scienziati pensano che un grande meteorite sia caduto sull'Australia molto tempo fa. Secondo loro, questo impatto potrebbe aver portato molto oro sul nostro pianeta. Lo scontro e avvenuto piu di cento milioni di anni fa. Gli esperti hanno trovato le prove dentro un grande cratere largo circa quattro chilometri. Per questo motivo lo studio e molto interessante per tutti.\n\nQuando un meteorite colpisce la Terra, libera tantissima energia e calore. In questo modo puo cambiare il terreno e portare nuovi metalli dallo spazio. Gli scienziati ora studiano le rocce della zona per capire meglio cosa e successo. Vogliono sapere quanto oro e arrivato con questo impatto. Scoperte come questa ci aiutano a conoscere la storia del nostro pianeta e dello spazio intorno a noi.",
+        "vocab": [
+          {
+            "front": "il meteorite",
+            "pos": "noun",
+            "back": "the meteorite",
+            "example": "Il meteorite e caduto nel deserto.",
+            "tier": "B1"
+          },
+          {
+            "front": "cadere",
+            "pos": "verb",
+            "back": "to fall",
+            "example": "La pioggia cade dal cielo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'impatto",
+            "pos": "noun",
+            "back": "the impact",
+            "example": "L'impatto ha creato un grande cratere.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'oro",
+            "pos": "noun",
+            "back": "the gold",
+            "example": "L'anello e fatto d'oro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pianeta",
+            "pos": "noun",
+            "back": "the planet",
+            "example": "La Terra e il nostro pianeta.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo scontro",
+            "pos": "noun",
+            "back": "the collision, the clash",
+            "example": "Lo scontro tra le due auto e stato forte.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "the proof, the evidence",
+            "example": "Gli scienziati cercano le prove.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cratere",
+            "pos": "noun",
+            "back": "the crater",
+            "example": "Il cratere e largo molti chilometri.",
+            "tier": "B1"
+          },
+          {
+            "front": "colpire",
+            "pos": "verb",
+            "back": "to hit, to strike",
+            "example": "Il meteorite colpisce la Terra.",
+            "tier": "B1"
+          },
+          {
+            "front": "il calore",
+            "pos": "noun",
+            "back": "the heat",
+            "example": "Il sole produce molto calore.",
+            "tier": "A2"
+          },
+          {
+            "front": "la roccia",
+            "pos": "noun",
+            "back": "the rock",
+            "example": "Gli esperti studiano le rocce antiche.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scoperta",
+            "pos": "noun",
+            "back": "the discovery",
+            "example": "E stata una scoperta importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo spazio",
+            "pos": "noun",
+            "back": "the space (outer space)",
+            "example": "Gli astronauti viaggiano nello spazio.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Alcuni scienziati pensano che un grande meteorite sia caduto sull'Australia molto tempo fa.",
+            "point": "Congiuntivo passato dopo 'pensare che'",
+            "explanation": "Dopo 'pensare che' si usa il congiuntivo. 'Sia caduto' e il congiuntivo passato del verbo 'cadere', che vuole l'ausiliare 'essere'.",
+            "why_tricky": "Gli studenti usano spesso l'indicativo ('e caduto') invece del congiuntivo."
+          },
+          {
+            "sentence": "Quando un meteorite colpisce la Terra, libera tantissima energia e calore.",
+            "point": "Presente per verita generali con 'quando'",
+            "explanation": "Si usa il presente indicativo per descrivere qualcosa che e sempre vero. 'Quando' introduce la condizione generale.",
+            "why_tricky": "Si tende a usare un tempo passato, ma qui serve il presente."
+          },
+          {
+            "sentence": "Scoperte come questa ci aiutano a conoscere la storia del nostro pianeta e dello spazio intorno a noi.",
+            "point": "'aiutare a + infinito' con pronome 'ci'",
+            "explanation": "'Aiutare' vuole la preposizione 'a' prima dell'infinito. 'Ci' significa 'a noi' e sta prima del verbo.",
+            "why_tricky": "La preposizione 'a' dopo 'aiutare' viene spesso dimenticata."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "molto tempo fa",
+            "meaning": "a long time ago",
+            "example": "Questa storia e cominciata molto tempo fa."
+          },
+          {
+            "phrase": "un sacco di",
+            "meaning": "a lot of (colloquial)",
+            "example": "Il meteorite ha portato un sacco di energia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa pensano gli scienziati del meteorite?",
+            "type": "open"
+          },
+          {
+            "q": "Dove hanno trovato le prove dell'impatto?",
+            "type": "open"
+          },
+          {
+            "q": "Perche secondo te queste scoperte sono importanti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace la scienza dello spazio? Scrivi qualche frase e spiega perche."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-maturita-orali",
+      "title": "Vigilia degli orali degli esami di Maturita",
+      "source": "ANSA",
+      "date": "2026-06-25",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-maturita-orali",
+        "revision": 1,
+        "meta": {
+          "title": "Vigilia degli orali degli esami di Maturita",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/06/22/vigilia-degli-orali-degli-esami-di-maturita_5be3f72b-8b2b-43fb-8972-75938ac2e9ef.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "scuola",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy a very important week begins for many students. Tomorrow the oral exams of the Maturita start, the final test of high school. Thousands of young people are excited and a little nervous. In front of the board they have to talk about different subjects and show what they have learned in five years. For them it is a special moment and also a small milestone.\n\nThis year there are some changes in the rules of the exam. For example, students can no longer stay silent in front of the teachers. Before, some young people did the so-called 'silent scene' as a protest, but now this behaviour will have consequences on the grade. The teachers want everyone to take part and answer the questions. After the exam, the young people will finally be able to rest and celebrate the end of a long school journey.",
+        "resumen_es": "In Italia comincia una settimana molto importante per molti studenti. Domani iniziano gli esami orali della Maturita, la prova finale della scuola superiore. Migliaia di ragazzi sono emozionati e un po' nervosi. Davanti alla commissione devono parlare di diverse materie e mostrare quello che hanno imparato in cinque anni. Per loro e un momento speciale e anche un piccolo traguardo.\n\nQuest'anno ci sono alcune novita nelle regole dell'esame. Per esempio, gli studenti non possono piu restare in silenzio davanti ai professori. Prima alcuni ragazzi facevano la cosiddetta 'scena muta' per protesta, ma ora questo comportamento avra conseguenze sul voto. Gli insegnanti vogliono che tutti partecipino e rispondano alle domande. Dopo l'esame, i ragazzi potranno finalmente riposare e festeggiare la fine di un lungo percorso scolastico.",
+        "vocab": [
+          {
+            "front": "la Maturita",
+            "pos": "noun",
+            "back": "the Italian final high-school exam",
+            "example": "Mio fratello prepara la Maturita.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esame",
+            "pos": "noun",
+            "back": "the exam",
+            "example": "Domani ho un esame difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "the test",
+            "example": "La prova scritta e gia finita.",
+            "tier": "A2"
+          },
+          {
+            "front": "la scuola superiore",
+            "pos": "phrase",
+            "back": "high school",
+            "example": "Frequenta l'ultimo anno di scuola superiore.",
+            "tier": "A2"
+          },
+          {
+            "front": "emozionato",
+            "pos": "adj",
+            "back": "excited, moved",
+            "example": "Sono molto emozionato per il viaggio.",
+            "tier": "A2"
+          },
+          {
+            "front": "nervoso",
+            "pos": "adj",
+            "back": "nervous",
+            "example": "Prima dell'esame sono sempre nervoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "la commissione",
+            "pos": "noun",
+            "back": "the exam board",
+            "example": "La commissione fa molte domande.",
+            "tier": "B1"
+          },
+          {
+            "front": "la materia",
+            "pos": "noun",
+            "back": "the (school) subject",
+            "example": "La mia materia preferita e la storia.",
+            "tier": "A2"
+          },
+          {
+            "front": "imparare",
+            "pos": "verb",
+            "back": "to learn",
+            "example": "Voglio imparare l'italiano bene.",
+            "tier": "A2"
+          },
+          {
+            "front": "il traguardo",
+            "pos": "noun",
+            "back": "the goal, the finish line",
+            "example": "La laurea e un grande traguardo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la novita",
+            "pos": "noun",
+            "back": "the news, the change",
+            "example": "C'e una novita nel programma.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'insegnante",
+            "pos": "noun",
+            "back": "the teacher",
+            "example": "L'insegnante spiega la lezione.",
+            "tier": "A2"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Festeggiamo la fine della scuola.",
+            "tier": "A2"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "the path, the journey",
+            "example": "E stato un lungo percorso di studio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Davanti alla commissione devono parlare di diverse materie e mostrare quello che hanno imparato in cinque anni.",
+            "point": "'dovere + infinito' e passato prossimo",
+            "explanation": "'Devono parlare' e 'mostrare' usano dovere piu l'infinito. 'Hanno imparato' e il passato prossimo con l'ausiliare 'avere'.",
+            "why_tricky": "Si dimentica che dopo il primo infinito gli altri restano all'infinito ('mostrare')."
+          },
+          {
+            "sentence": "gli studenti non possono piu restare in silenzio davanti ai professori.",
+            "point": "La negazione 'non ... piu'",
+            "explanation": "'Non ... piu' significa che qualcosa non e piu permesso o non accade piu. Avvolge il verbo 'possono'.",
+            "why_tricky": "L'ordine delle due parole della negazione confonde i principianti."
+          },
+          {
+            "sentence": "Gli insegnanti vogliono che tutti partecipino e rispondano alle domande.",
+            "point": "Congiuntivo dopo 'volere che'",
+            "explanation": "Dopo 'volere che' serve il congiuntivo: 'partecipino' e 'rispondano' sono congiuntivo presente.",
+            "why_tricky": "Con soggetti diversi serve il congiuntivo, non l'infinito."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare scena muta",
+            "meaning": "to stay completely silent, to say nothing",
+            "example": "All'esame ha fatto scena muta e non ha risposto."
+          },
+          {
+            "phrase": "in bocca al lupo",
+            "meaning": "good luck (lit. 'into the wolf's mouth')",
+            "example": "In bocca al lupo a tutti gli studenti per l'esame!"
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa e la Maturita in Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Qual e una novita importante di quest'anno?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perche gli esami orali sono difficili?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Racconta un esame importante della tua vita. Come ti sei sentito?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-tassa-pacchi",
+      "title": "Slitta al primo ottobre la tassa sui pacchi, sara di due euro",
+      "source": "ANSA",
+      "date": "2026-06-25",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-tassa-pacchi",
+        "revision": 1,
+        "meta": {
+          "title": "Slitta al primo ottobre la tassa sui pacchi, sara di due euro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/06/22/slitta-al-primo-ottobre-la-tassa-sui-pacchi-sara-di-due-euro_d0e14eee-4410-4cd2-ac75-39b55b290cf1.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "economia",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy a new tax will arrive on the parcels that we buy online. Every parcel will cost two euros more. But the government has decided to wait: the new rule will not start immediately, but from the first of October. This way shops and companies will have more time to get organised. Many people often buy on the internet, so this news matters to many Italian families.\n\nThe government hopes to earn money with this tax and to help the small shops of the cities. Some think it is a good idea, while others are not happy because they will have to pay more. In the same period other rules also return, for example the possibility of stopping work when it is too hot. In this way the State wants to protect workers during the hottest days of summer.",
+        "resumen_es": "In Italia arrivera una nuova tassa sui pacchi che compriamo online. Ogni pacco costera due euro in piu. Pero il governo ha deciso di aspettare: la nuova regola non partira subito, ma dal primo ottobre. Cosi i negozi e le aziende avranno piu tempo per organizzarsi. Molte persone comprano spesso su internet, quindi questa notizia interessa tante famiglie italiane.\n\nIl governo spera di guadagnare soldi con questa tassa e di aiutare i piccoli negozi delle citta. Alcuni pensano che sia una buona idea, altri invece non sono contenti perche dovranno pagare di piu. Nello stesso periodo tornano anche altre regole, per esempio la possibilita di fermare il lavoro quando fa troppo caldo. In questo modo lo Stato vuole proteggere i lavoratori durante le giornate piu calde dell'estate.",
+        "vocab": [
+          {
+            "front": "la tassa",
+            "pos": "noun",
+            "back": "the tax",
+            "example": "Bisogna pagare una nuova tassa.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pacco",
+            "pos": "noun",
+            "back": "the parcel, the package",
+            "example": "Il pacco arriva domani mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "comprare",
+            "pos": "verb",
+            "back": "to buy",
+            "example": "Compro spesso libri online.",
+            "tier": "A2"
+          },
+          {
+            "front": "online",
+            "pos": "adv",
+            "back": "online",
+            "example": "Faccio molti acquisti online.",
+            "tier": "A2"
+          },
+          {
+            "front": "il governo",
+            "pos": "noun",
+            "back": "the government",
+            "example": "Il governo ha approvato la legge.",
+            "tier": "B1"
+          },
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "the rule",
+            "example": "Dobbiamo seguire le regole nuove.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'azienda",
+            "pos": "noun",
+            "back": "the company, the firm",
+            "example": "L'azienda vende prodotti italiani.",
+            "tier": "B1"
+          },
+          {
+            "front": "guadagnare",
+            "pos": "verb",
+            "back": "to earn",
+            "example": "Vuole guadagnare di piu.",
+            "tier": "A2"
+          },
+          {
+            "front": "il negozio",
+            "pos": "noun",
+            "back": "the shop",
+            "example": "Il negozio apre alle nove.",
+            "tier": "A2"
+          },
+          {
+            "front": "il lavoratore",
+            "pos": "noun",
+            "back": "the worker",
+            "example": "I lavoratori riposano d'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Lo Stato vuole proteggere tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "the heat",
+            "example": "In estate il caldo e forte.",
+            "tier": "A2"
+          },
+          {
+            "front": "aspettare",
+            "pos": "verb",
+            "back": "to wait",
+            "example": "Aspetto il pacco da due giorni.",
+            "tier": "A2"
+          },
+          {
+            "front": "la notizia",
+            "pos": "noun",
+            "back": "the (piece of) news",
+            "example": "Ho letto una notizia interessante.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il governo spera di guadagnare soldi con questa tassa e di aiutare i piccoli negozi delle citta.",
+            "point": "'sperare di + infinito'",
+            "explanation": "Dopo 'sperare' si usa 'di' piu l'infinito: 'sperare di guadagnare', 'sperare di aiutare'.",
+            "why_tricky": "La preposizione 'di' prima dell'infinito viene spesso dimenticata."
+          },
+          {
+            "sentence": "Alcuni pensano che sia una buona idea, altri invece non sono contenti perche dovranno pagare di piu.",
+            "point": "Congiuntivo 'sia' e futuro 'dovranno'",
+            "explanation": "'Pensano che' richiede il congiuntivo 'sia'. 'Dovranno' e il futuro del verbo 'dovere'.",
+            "why_tricky": "Si mescolano congiuntivo e indicativo nella stessa frase."
+          },
+          {
+            "sentence": "In questo modo lo Stato vuole proteggere i lavoratori durante le giornate piu calde dell'estate.",
+            "point": "'volere + infinito' e superlativo relativo",
+            "explanation": "'Vuole proteggere' usa volere piu l'infinito. 'Le giornate piu calde' e un superlativo relativo.",
+            "why_tricky": "Il superlativo relativo 'piu ... di' confonde con il comparativo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "costare un occhio della testa",
+            "meaning": "to cost a fortune (lit. 'an eye from the head')",
+            "example": "Comprare online a volte puo costare un occhio della testa."
+          },
+          {
+            "phrase": "fare caldo",
+            "meaning": "to be hot (weather)",
+            "example": "D'estate in citta fa molto caldo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanto costera la nuova tassa sui pacchi?",
+            "type": "open"
+          },
+          {
+            "q": "Da quando partira la nuova regola?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, e giusto pagare di piu per i pacchi online? Perche?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Compri spesso online? Scrivi qualche frase sui vantaggi e gli svantaggi."
+      }
+    },
     {
       "pack_id": "feed-2026-06-24-loggia-raffaello",
       "title": "Ai Musei Vaticani al via il restauro della Loggia di Raffaello",
@@ -6281,520 +6802,6 @@
           }
         ],
         "opinion_prompt": "Ti piace visitare i musei? Scrivi qualche frase su una mostra o un quadro che vorresti vedere."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-ondate-di-calore-salute",
-      "title": "Ondate di calore, i livelli di rischio e le città più colpite. Come proteggere la nostra salute",
-      "source": "RaiNews",
-      "date": "2026-06-16",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "ambiente"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-ondate-di-calore-salute",
-        "revision": 1,
-        "meta": {
-          "title": "Ondate di calore, i livelli di rischio e le città più colpite. Come proteggere la nostra salute",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/06/ondate-di-calore-i-livelli-di-rischio-e-le-citta-piu-colpite-come-proteggere-la-nostra-salute-2e2cac48-0581-4a17-aeeb-7b0734ad4596.html",
-          "date_published": "2026-06-16",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "salute",
-            "ambiente"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy the season of heat waves is beginning. Every day, from the end of May to September, bulletins about the heat risk come out in many Italian cities. The bulletins use risk levels, usually with colours. This way people know when the heat is most dangerous. Big cities and those in the South are often the most affected.\n\nStrong heat can be a problem for health, especially for the elderly and children. For this reason it is important to follow some simple tips. You should drink a lot of water and stay in the shade during the hottest hours. It is better not to go out between midday and six in the evening. In addition, it is a good idea to eat fresh fruit and vegetables. With small precautions, we can better protect our health during the summer.",
-        "resumen_es": "In Italia comincia la stagione delle ondate di calore. Ogni giorno, da fine maggio a settembre, escono i bollettini sul rischio del caldo in molte città italiane. I bollettini usano dei livelli di rischio, di solito con dei colori. Così le persone sanno quando il caldo è più pericoloso. Le città grandi e quelle del Sud sono spesso le più colpite.\n\nIl caldo forte può essere un problema per la salute, soprattutto per gli anziani e i bambini. Per questo è importante seguire alcuni consigli semplici. Bisogna bere molta acqua e stare all'ombra nelle ore più calde. È meglio non uscire tra mezzogiorno e le sei di sera. Inoltre, conviene mangiare frutta e verdura fresche. Con piccole attenzioni, possiamo proteggere meglio la nostra salute durante l'estate.",
-        "vocab": [
-          {
-            "front": "l'ondata di calore",
-            "pos": "noun",
-            "back": "heat wave",
-            "example": "Questa ondata di calore durerà tutta la settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "In agosto il caldo è davvero forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "il bollettino",
-            "pos": "noun",
-            "back": "bulletin, report",
-            "example": "Il bollettino del tempo annuncia pioggia per domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "C'è il rischio di temporali nel pomeriggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Nuotare qui è molto pericoloso.",
-            "tier": "A2"
-          },
-          {
-            "front": "colpito",
-            "pos": "adj",
-            "back": "hit, affected",
-            "example": "Le regioni del Sud sono le più colpite dal caldo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la salute",
-            "pos": "noun",
-            "back": "health",
-            "example": "Fare sport fa bene alla salute.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'anziano",
-            "pos": "noun",
-            "back": "elderly person",
-            "example": "Gli anziani devono bere molta acqua quando fa caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il consiglio",
-            "pos": "noun",
-            "back": "piece of advice, tip",
-            "example": "Ti do un consiglio: riposa di più.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'ombra",
-            "pos": "noun",
-            "back": "shade, shadow",
-            "example": "Mettiamoci all'ombra di quell'albero.",
-            "tier": "A2"
-          },
-          {
-            "front": "bisogna",
-            "pos": "verb",
-            "back": "one must, it is necessary",
-            "example": "Bisogna prenotare prima di andare al museo.",
-            "tier": "B1"
-          },
-          {
-            "front": "convenire",
-            "pos": "verb",
-            "back": "to be advisable, to be worth it",
-            "example": "Conviene partire presto per evitare il traffico.",
-            "tier": "B1"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Un cappello aiuta a proteggere la testa dal sole.",
-            "tier": "B1"
-          },
-          {
-            "front": "fresco",
-            "pos": "adj",
-            "back": "fresh, cool",
-            "example": "Mi piace mangiare frutta fresca d'estate.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il caldo forte può essere un problema per la salute, soprattutto per gli anziani e i bambini.",
-            "point": "verbo modale 'potere + infinito'",
-            "explanation": "'Può essere' usa il verbo modale 'potere' seguito dall'infinito 'essere' per indicare una possibilità.",
-            "why_tricky": "La terza persona di 'potere' è 'può', con l'accento sulla o finale; molti la scrivono senza accento."
-          },
-          {
-            "sentence": "Bisogna bere molta acqua e stare all'ombra nelle ore più calde.",
-            "point": "'bisogna + infinito' (forma impersonale)",
-            "explanation": "'Bisogna' significa 'è necessario' e regge sempre l'infinito: bisogna bere, bisogna stare.",
-            "why_tricky": "'Bisogna' è impersonale: non cambia mai e non ha un soggetto preciso."
-          },
-          {
-            "sentence": "È meglio non uscire tra mezzogiorno e le sei di sera.",
-            "point": "'è meglio + infinito' per dare un consiglio; infinito negativo",
-            "explanation": "'È meglio' più l'infinito serve per consigliare. La forma negativa mette 'non' davanti all'infinito: non uscire.",
-            "why_tricky": "Nell'infinito negativo il 'non' va prima del verbo, non dopo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "morire di caldo",
-            "meaning": "to be boiling, to be dying of heat",
-            "example": "Oggi in città si muore di caldo!"
-          },
-          {
-            "phrase": "prendersi cura di",
-            "meaning": "to take care of",
-            "example": "È importante prendersi cura della propria salute."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando escono i bollettini sul caldo in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Chi sono le persone più a rischio con il caldo forte?",
-            "type": "open"
-          },
-          {
-            "q": "Quali consigli dà il testo per proteggere la salute?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come passi le giornate molto calde d'estate? Scrivi qualche frase con i tuoi consigli per stare bene."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-terremoto-indonesia-sulawesi",
-      "title": "Indonesia, terremoto di magnitudo 6.7 sull'isola di Sulawesi",
-      "source": "RaiNews",
-      "date": "2026-06-16",
-      "level": "A2-B1",
-      "topics": [
-        "mondo",
-        "terremoto"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-terremoto-indonesia-sulawesi",
-        "revision": 1,
-        "meta": {
-          "title": "Indonesia, terremoto di magnitudo 6.7 sull'isola di Sulawesi",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/06/indonesia-terremoto-di-magnitudo-67-sullisola-di-sulawesi-008784ca-a984-4174-823b-30a4c82a8de9.html",
-          "date_published": "2026-06-16",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "mondo",
-            "terremoto"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A strong earthquake has hit Indonesia. The quake, with a magnitude of 6.7, struck the island of Sulawesi, in the centre of the country. The epicentre was near the city of Palu. Many people were frightened and went out of their homes. Some buildings were damaged, and in a few hospitals patients were moved outside for safety.\n\nIndonesia is a country with many earthquakes. It lies in an area where the earth often moves, called the Pacific 'Ring of Fire'. For this reason, earthquakes and volcanoes are very common. The authorities are constantly monitoring the situation and are asking people to be careful. For now there is no certain news about the total damage. In the coming hours, experts will give more information about the earthquake.",
-        "resumen_es": "Un forte terremoto ha colpito l'Indonesia. La scossa, di magnitudo 6.7, è arrivata sull'isola di Sulawesi, nel centro del Paese. L'epicentro era vicino alla città di Palu. Molte persone hanno avuto paura e sono uscite di casa. Alcuni edifici sono stati danneggiati e in qualche ospedale i pazienti sono stati spostati fuori per sicurezza.\n\nL'Indonesia è un Paese con molti terremoti. Si trova in una zona dove la terra si muove spesso, chiamata 'Anello di Fuoco' del Pacifico. Per questo, i terremoti e i vulcani sono molto comuni. Le autorità controllano sempre la situazione e chiedono alle persone di stare attente. Per ora non ci sono notizie certe sui danni totali. Nelle prossime ore gli esperti daranno altre informazioni sul terremoto.",
-        "vocab": [
-          {
-            "front": "il terremoto",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "Il terremoto ha fatto tremare le case.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scossa",
-            "pos": "noun",
-            "back": "tremor, quake",
-            "example": "Abbiamo sentito una forte scossa nella notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "colpire",
-            "pos": "verb",
-            "back": "to hit, to strike",
-            "example": "La tempesta ha colpito tutta la regione.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'epicentro",
-            "pos": "noun",
-            "back": "epicentre",
-            "example": "L'epicentro del sisma era in mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'edificio",
-            "pos": "noun",
-            "back": "building",
-            "example": "Quell'edificio è molto vecchio.",
-            "tier": "A2"
-          },
-          {
-            "front": "danneggiare",
-            "pos": "verb",
-            "back": "to damage",
-            "example": "Il vento ha danneggiato molti alberi.",
-            "tier": "B1"
-          },
-          {
-            "front": "avere paura",
-            "pos": "phrase",
-            "back": "to be afraid",
-            "example": "I bambini hanno paura del buio.",
-            "tier": "A2"
-          },
-          {
-            "front": "spostare",
-            "pos": "verb",
-            "back": "to move (something)",
-            "example": "Dobbiamo spostare il tavolo in cucina.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "safety, security",
-            "example": "La sicurezza dei passeggeri viene prima di tutto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il vulcano",
-            "pos": "noun",
-            "back": "volcano",
-            "example": "L'Etna è un vulcano molto attivo.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'autorità",
-            "pos": "noun",
-            "back": "authority",
-            "example": "Le autorità hanno chiuso la strada.",
-            "tier": "B1"
-          },
-          {
-            "front": "stare attento",
-            "pos": "phrase",
-            "back": "to be careful",
-            "example": "Stai attento quando attraversi la strada.",
-            "tier": "A2"
-          },
-          {
-            "front": "i danni",
-            "pos": "noun",
-            "back": "damage",
-            "example": "L'alluvione ha causato molti danni.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'esperto",
-            "pos": "noun",
-            "back": "expert",
-            "example": "Gli esperti studiano il clima da anni.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Molte persone hanno avuto paura e sono uscite di casa.",
-            "point": "passato prossimo: 'avere' e 'essere' a confronto",
-            "explanation": "'Hanno avuto' usa avere; 'sono uscite' usa essere e il participio concorda con il soggetto femminile plurale (uscite).",
-            "why_tricky": "I verbi di movimento come 'uscire' vogliono essere, e il participio deve concordare."
-          },
-          {
-            "sentence": "Le autorità controllano sempre la situazione e chiedono alle persone di stare attente.",
-            "point": "'chiedere a qualcuno di + infinito'",
-            "explanation": "Con 'chiedere' si usa la struttura 'chiedere a qualcuno di fare qualcosa': chiedono alle persone di stare attente.",
-            "why_tricky": "Serve la preposizione 'a' per la persona e 'di' prima dell'infinito; è facile dimenticarne una."
-          },
-          {
-            "sentence": "Nelle prossime ore gli esperti daranno altre informazioni sul terremoto.",
-            "point": "futuro semplice irregolare ('dare')",
-            "explanation": "'Daranno' è il futuro di 'dare', un verbo irregolare al futuro (darò, darai, darà, daranno).",
-            "why_tricky": "Il futuro di 'dare' mantiene la a (daranno) e non diventa 'e' come in molti altri verbi."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sano e salvo",
-            "meaning": "safe and sound",
-            "example": "Per fortuna dopo la scossa erano tutti sani e salvi."
-          },
-          {
-            "phrase": "tirare un sospiro di sollievo",
-            "meaning": "to breathe a sigh of relief",
-            "example": "Quando è finita la scossa, tutti hanno tirato un sospiro di sollievo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è arrivato il terremoto?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa hanno fatto le persone durante la scossa?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in Indonesia ci sono molti terremoti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Hai mai sentito un terremoto o un'altra emergenza? Scrivi qualche frase su che cosa si deve fare per stare al sicuro."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-15-sicilia-isola-bella",
-      "title": "Telegraph: 'La Sicilia l'isola più bella del Mediterraneo per chi ci vive'",
-      "source": "ANSA",
-      "date": "2026-06-09",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "Sicilia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-15-sicilia-isola-bella",
-        "revision": 1,
-        "meta": {
-          "title": "Telegraph: 'La Sicilia l'isola più bella del Mediterraneo per chi ci vive'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/06/08/telegraph-sicilia-isola-piu-bella-del-mediterraneo-per-chi-ci-vive_0db6b683-9ef3-4e37-8e39-faa03dbaaa83.html",
-          "date_published": "2026-06-09",
-          "date_processed": "2026-06-15",
-          "tags": [
-            "viaggi",
-            "Sicilia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A British newspaper, the Telegraph, has chosen Sicily as the most beautiful island in the Mediterranean Sea. The newspaper compared fifty different islands. Sicily came in first place above all for those who live there. Its nature, its food and its climate are greatly appreciated.\n\nSicily is the largest island in the Mediterranean. Here there are beaches, mountains and cities full of history. The Etna volcano also attracts many tourists every year. According to the newspaper, living in Sicily is pleasant because life is calm and people are welcoming. Many Italians are happy about this news. They hope that more visitors will choose the island for their summer holidays.",
-        "resumen_es": "Un giornale britannico, il Telegraph, ha scelto la Sicilia come isola più bella del Mar Mediterraneo. Il giornale ha confrontato cinquanta isole diverse. La Sicilia è arrivata al primo posto soprattutto per chi ci vive. La sua natura, il suo cibo e il suo clima sono molto apprezzati.\n\nLa Sicilia è la più grande isola del Mediterraneo. Qui ci sono spiagge, montagne e città piene di storia. Anche il vulcano Etna attira molti turisti ogni anno. Secondo il giornale, vivere in Sicilia è piacevole perché la vita è tranquilla e le persone sono ospitali. Molti italiani sono contenti di questa notizia. Sperano che più visitatori scelgano l'isola per le loro vacanze estive.",
-        "vocab": [
-          {
-            "front": "giornale",
-            "pos": "noun",
-            "back": "newspaper",
-            "example": "Leggo il giornale ogni mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "scegliere",
-            "pos": "verb",
-            "back": "to choose",
-            "example": "Devo scegliere un regalo per mia madre.",
-            "tier": "A2"
-          },
-          {
-            "front": "confrontare",
-            "pos": "verb",
-            "back": "to compare",
-            "example": "Mi piace confrontare i prezzi prima di comprare.",
-            "tier": "B1"
-          },
-          {
-            "front": "isola",
-            "pos": "noun",
-            "back": "island",
-            "example": "D'estate andiamo su una piccola isola.",
-            "tier": "A2"
-          },
-          {
-            "front": "apprezzato",
-            "pos": "adj",
-            "back": "appreciated, valued",
-            "example": "È un cuoco molto apprezzato.",
-            "tier": "B1"
-          },
-          {
-            "front": "spiaggia",
-            "pos": "noun",
-            "back": "beach",
-            "example": "La spiaggia era piena di gente.",
-            "tier": "A2"
-          },
-          {
-            "front": "vulcano",
-            "pos": "noun",
-            "back": "volcano",
-            "example": "L'Etna è un vulcano attivo.",
-            "tier": "A2"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "Il museo attira molti visitatori.",
-            "tier": "B1"
-          },
-          {
-            "front": "ospitale",
-            "pos": "adj",
-            "back": "welcoming, hospitable",
-            "example": "I miei vicini sono molto ospitali.",
-            "tier": "B1"
-          },
-          {
-            "front": "tranquillo",
-            "pos": "adj",
-            "back": "calm, quiet",
-            "example": "Vivo in un quartiere tranquillo.",
-            "tier": "A2"
-          },
-          {
-            "front": "visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori fanno molte foto.",
-            "tier": "B1"
-          },
-          {
-            "front": "vacanza",
-            "pos": "noun",
-            "back": "holiday",
-            "example": "Le vacanze estive iniziano a giugno.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Un giornale britannico, il Telegraph, ha scelto la Sicilia come isola più bella del Mar Mediterraneo.",
-            "point": "Il passato prossimo con il verbo irregolare \"scegliere\"",
-            "explanation": "Il participio passato di \"scegliere\" è \"scelto\", e con l'ausiliare \"avere\" non cambia.",
-            "why_tricky": "\"Scelto\" è irregolare e non segue la regola dei verbi in -ere come \"venduto\"."
-          },
-          {
-            "sentence": "La Sicilia è la più grande isola del Mediterraneo.",
-            "point": "Il superlativo relativo",
-            "explanation": "\"La più grande\" indica il grado massimo all'interno di un gruppo: si usa l'articolo + \"più\" + aggettivo.",
-            "why_tricky": "Bisogna ricordare l'articolo (\"la\") prima di \"più\"; in inglese basta \"the largest\"."
-          },
-          {
-            "sentence": "Sperano che più visitatori scelgano l'isola per le loro vacanze estive.",
-            "point": "Il congiuntivo dopo \"sperare che\"",
-            "explanation": "Dopo \"sperare che\" si usa il congiuntivo: per questo si dice \"scelgano\" e non \"scelgono\".",
-            "why_tricky": "Il congiuntivo di \"scegliere\" (scelgano) è irregolare ed è facile usare l'indicativo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al primo posto",
-            "meaning": "in first place",
-            "example": "La nostra squadra è al primo posto in classifica."
-          },
-          {
-            "phrase": "essere contento di",
-            "meaning": "to be happy about",
-            "example": "Sono contento del mio nuovo lavoro."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale isola ha scelto il Telegraph come la più bella?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la vita in Sicilia è considerata piacevole?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa sperano molti italiani dopo questa notizia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è la tua isola o il tuo posto preferito per le vacanze? Descrivilo con qualche frase."
       }
     }
   ]
