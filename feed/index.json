@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-06-25T08:17:48Z",
+  "generated_at": "2026-06-25T20:12:16Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-25-ia-studenti",
+      "title": "Da Ue e Ocse linee guida sull'intelligenza artificiale per gli studenti",
+      "source": "ANSA",
+      "date": "2026-06-22",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "scuola"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-ia-studenti",
+        "revision": 1,
+        "meta": {
+          "title": "Da Ue e Ocse linee guida sull'intelligenza artificiale per gli studenti",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/06/18/da-ue-e-ocse-linee-guida-sullintelligenza-artificiale-per-gli-studenti_434af04f-806e-4f23-bd0b-936dca8fd6e4.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "tecnologia",
+            "scuola"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The European Union and the OECD have presented new guidelines on artificial intelligence for students. The goal is to help young people use these tools responsibly, both at school and at home. The guidance explains when artificial intelligence can be useful and when, instead, it is better not to use it.\n\nAccording to the experts, learning to use technology well is very important for the future. A good knowledge of artificial intelligence can help young people at work and in everyday life. The new rules also want to protect students from risks, such as fake news or the careless use of personal data. For this reason the schools will have a central role: they will have to explain calmly how these tools work.",
+        "resumen_es": "L'Unione Europea e l'Ocse hanno presentato nuove linee guida sull'intelligenza artificiale per gli studenti. L'obiettivo è aiutare i ragazzi a usare questi strumenti in modo responsabile, sia a scuola sia a casa. Le indicazioni spiegano quando l'intelligenza artificiale può essere utile e quando, invece, è meglio non usarla.\n\nSecondo gli esperti, imparare a usare bene la tecnologia è molto importante per il futuro. Una buona conoscenza dell'intelligenza artificiale può aiutare i ragazzi nel lavoro e nella vita di tutti i giorni. Le nuove regole vogliono anche proteggere gli studenti dai rischi, come le notizie false o l'uso poco attento dei dati personali. Per questo le scuole avranno un ruolo centrale: dovranno spiegare con calma come funzionano questi strumenti.",
+        "vocab": [
+          {
+            "front": "le linee guida",
+            "pos": "noun",
+            "back": "guidelines",
+            "example": "Il governo ha pubblicato nuove linee guida.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'intelligenza artificiale",
+            "pos": "noun",
+            "back": "artificial intelligence",
+            "example": "L'intelligenza artificiale cambia il lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Il telefono è uno strumento utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo studente / la studentessa",
+            "pos": "noun",
+            "back": "student",
+            "example": "Gli studenti studiano in biblioteca.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "goal, objective",
+            "example": "Il nostro obiettivo è imparare.",
+            "tier": "A2"
+          },
+          {
+            "front": "responsabile",
+            "pos": "adj",
+            "back": "responsible",
+            "example": "È una persona responsabile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la conoscenza",
+            "pos": "noun",
+            "back": "knowledge",
+            "example": "Ha una buona conoscenza dell'inglese.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Dobbiamo proteggere i bambini.",
+            "tier": "A2"
+          },
+          {
+            "front": "il rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "C'è il rischio di sbagliare.",
+            "tier": "B1"
+          },
+          {
+            "front": "le notizie false",
+            "pos": "phrase",
+            "back": "fake news",
+            "example": "Su internet ci sono molte notizie false.",
+            "tier": "B1"
+          },
+          {
+            "front": "i dati personali",
+            "pos": "phrase",
+            "back": "personal data",
+            "example": "Non dare i tuoi dati personali a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ruolo",
+            "pos": "noun",
+            "back": "role",
+            "example": "La scuola ha un ruolo importante.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'Unione Europea e l'Ocse hanno presentato nuove linee guida sull'intelligenza artificiale per gli studenti.",
+            "point": "Passato prossimo with 'avere'",
+            "explanation": "'Hanno presentato' is the passato prossimo: present of 'avere' plus the past participle 'presentato'. It describes a completed action.",
+            "why_tricky": "The participle stays '-ato' and does not change with 'avere' here, unlike with 'essere'."
+          },
+          {
+            "sentence": "L'obiettivo è aiutare i ragazzi a usare questi strumenti in modo responsabile, sia a scuola sia a casa.",
+            "point": "Verb + 'a' + infinitive ('aiutare a')",
+            "explanation": "'Aiutare a usare' shows that some verbs need the preposition 'a' before another verb in the infinitive.",
+            "why_tricky": "Beginners forget the small word 'a' and say 'aiutare usare', which is wrong."
+          },
+          {
+            "sentence": "Per questo le scuole avranno un ruolo centrale: dovranno spiegare con calma come funzionano questi strumenti.",
+            "point": "Futuro semplice",
+            "explanation": "'Avranno' and 'dovranno' are the simple future of 'avere' and 'dovere', used here for what will happen later.",
+            "why_tricky": "These future forms are irregular, so learners must memorise the stems 'avr-' and 'dovr-'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in modo responsabile",
+            "meaning": "in a responsible way",
+            "example": "Bisogna usare internet in modo responsabile."
+          },
+          {
+            "phrase": "la vita di tutti i giorni",
+            "meaning": "everyday life",
+            "example": "La tecnologia entra nella vita di tutti i giorni."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi ha presentato le nuove linee guida sull'intelligenza artificiale?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo gli esperti, è importante imparare a usare bene la tecnologia?",
+            "type": "open"
+          },
+          {
+            "q": "Quale ruolo avranno le scuole con queste nuove regole?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, l'intelligenza artificiale aiuta o no gli studenti a scuola? Scrivi la tua opinione con alcuni esempi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-bollino-rosso",
+      "title": "Sono salite a 12 le città da bollino rosso e sono destinate ad aumentare",
+      "source": "ANSA",
+      "date": "2026-06-22",
+      "level": "A2-B1",
+      "topics": [
+        "caldo",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-bollino-rosso",
+        "revision": 1,
+        "meta": {
+          "title": "Sono salite a 12 le città da bollino rosso e sono destinate ad aumentare",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/06/22/sono-salite-a-12-le-citta-da-bollino-rosso-e-sono-destinate-ad-aumentare_807798bf-dea1-41e2-adfe-9b1b0cde8027.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "caldo",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the number of cities with a red alert for the heat keeps rising. The red alert is the highest level and signals a danger for the health of everyone, not only the elderly or the sick. In the coming days other cities will also be added to the list.\n\nThe authorities recommend some simple rules to face the heat waves. It is important to drink a lot of water, to avoid going out in the hottest hours and to stay in cool places. We must be careful above all with children and elderly people, who suffer more with high temperatures. The experts remember that intense heat is by now more and more frequent because of the changes of the climate.",
+        "resumen_es": "In Italia il numero delle città con il bollino rosso per il caldo continua a salire. Il bollino rosso è il livello più alto e segnala un pericolo per la salute di tutti, non solo degli anziani o dei malati. Nei prossimi giorni anche altre città si aggiungeranno alla lista.\n\nLe autorità consigliano alcune regole semplici per affrontare le ondate di calore. È importante bere molta acqua, evitare di uscire nelle ore più calde e stare in luoghi freschi. Bisogna fare attenzione soprattutto ai bambini e alle persone anziane, che soffrono di più con le alte temperature. Gli esperti ricordano che il caldo intenso è ormai sempre più frequente a causa dei cambiamenti del clima.",
+        "vocab": [
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "heat",
+            "example": "Oggi c'è molto caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il bollino rosso",
+            "pos": "phrase",
+            "back": "red alert (heat warning)",
+            "example": "Domani c'è il bollino rosso in città.",
+            "tier": "B1"
+          },
+          {
+            "front": "salire",
+            "pos": "verb",
+            "back": "to rise, go up",
+            "example": "I prezzi continuano a salire.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pericolo",
+            "pos": "noun",
+            "back": "danger",
+            "example": "C'è il pericolo di un incendio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "La salute viene prima di tutto.",
+            "tier": "A2"
+          },
+          {
+            "front": "gli anziani",
+            "pos": "noun",
+            "back": "the elderly",
+            "example": "Gli anziani escono al mattino presto.",
+            "tier": "A2"
+          },
+          {
+            "front": "affrontare",
+            "pos": "verb",
+            "back": "to face, deal with",
+            "example": "Dobbiamo affrontare il problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ondata di calore",
+            "pos": "phrase",
+            "back": "heat wave",
+            "example": "Un'ondata di calore arriva sull'Italia.",
+            "tier": "B1"
+          },
+          {
+            "front": "evitare di",
+            "pos": "verb",
+            "back": "to avoid (doing)",
+            "example": "Evita di uscire a mezzogiorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare attenzione",
+            "pos": "phrase",
+            "back": "to be careful, pay attention",
+            "example": "Fai attenzione quando attraversi.",
+            "tier": "A2"
+          },
+          {
+            "front": "soffrire",
+            "pos": "verb",
+            "back": "to suffer",
+            "example": "Soffro molto il caldo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cambiamento (del clima)",
+            "pos": "noun",
+            "back": "(climate) change",
+            "example": "Il cambiamento del clima preoccupa tutti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In Italia il numero delle città con il bollino rosso per il caldo continua a salire.",
+            "point": "'continuare a' + infinitive",
+            "explanation": "'Continua a salire' uses 'continuare a' plus the infinitive to say an action keeps going.",
+            "why_tricky": "The preposition 'a' is needed before the infinitive; learners often leave it out."
+          },
+          {
+            "sentence": "Nei prossimi giorni anche altre città si aggiungeranno alla lista.",
+            "point": "Reflexive verb in the future ('aggiungersi')",
+            "explanation": "'Si aggiungeranno' is the future of the reflexive verb 'aggiungersi'; the pronoun 'si' stays before the verb.",
+            "why_tricky": "Combining the reflexive 'si' with a future ending is hard, and the verb must agree with the plural 'città'."
+          },
+          {
+            "sentence": "È importante bere molta acqua, evitare di uscire nelle ore più calde e stare in luoghi freschi.",
+            "point": "Impersonal 'è importante' + infinitive",
+            "explanation": "After 'è importante' Italian uses the infinitive ('bere', 'evitare', 'stare') to give general advice.",
+            "why_tricky": "Learners may try to use a conjugated verb, but the impersonal structure needs the infinitive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare attenzione a",
+            "meaning": "to watch out for, be careful with",
+            "example": "Fai attenzione al sole nelle ore più calde."
+          },
+          {
+            "phrase": "sempre più",
+            "meaning": "more and more",
+            "example": "Le estati sono sempre più calde."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa significa il bollino rosso per il caldo?",
+            "type": "open"
+          },
+          {
+            "q": "Quali regole semplici consigliano le autorità per affrontare il caldo?",
+            "type": "open"
+          },
+          {
+            "q": "A quali persone bisogna fare più attenzione e perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come affronti tu le giornate molto calde? Scrivi tre cose che fai per stare bene quando fa caldo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-25-tifosi-norvegia",
+      "title": "Mondiali: i tifosi della Norvegia invadono New York, la remata vichinga a Times Square",
+      "source": "ANSA",
+      "date": "2026-06-22",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "tifosi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-25-tifosi-norvegia",
+        "revision": 1,
+        "meta": {
+          "title": "Mondiali: i tifosi della Norvegia invadono New York, la remata vichinga a Times Square",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/22/mondiali-tifosi-norvegia-invadono-new-york-la-remata-vichinga-a-times-square_17b1cd14-a42f-4c4d-84cc-a845b4e8f822.html",
+          "date_published": "2026-06-22",
+          "date_processed": "2026-06-25",
+          "tags": [
+            "calcio",
+            "tifosi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "During the football World Cup, the fans of Norway invaded the streets of New York. Many of them gathered in Times Square to sing and celebrate together. The fans also did the \"Viking row\", a very famous gesture in which the public moves the arms as if they were rowing on a boat.\n\nThe group of fans performed even inside the cars of the underground, to the amusement of the passengers. These moments show how a big sporting competition can bring together people from different countries. Football, in fact, is not only a match, but also a celebration of colours, songs and traditions. For many fans, following their own team in another country is an unforgettable experience.",
+        "resumen_es": "Durante i Mondiali di calcio, i tifosi della Norvegia hanno invaso le strade di New York. In tanti si sono riuniti a Times Square per cantare e festeggiare insieme. I tifosi hanno fatto anche la \"remata vichinga\", un gesto molto famoso in cui il pubblico muove le braccia come se stesse remando su una barca.\n\nIl gruppo di tifosi si è esibito perfino dentro i vagoni della metropolitana, tra il divertimento dei passeggeri. Questi momenti mostrano come una grande competizione sportiva possa unire persone di Paesi diversi. Il calcio, infatti, non è solo una partita, ma anche una festa di colori, canti e tradizioni. Per molti tifosi, seguire la propria squadra in un altro Paese è un'esperienza indimenticabile.",
+        "vocab": [
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "(sports) fan, supporter",
+            "example": "I tifosi cantano allo stadio.",
+            "tier": "A2"
+          },
+          {
+            "front": "invadere",
+            "pos": "verb",
+            "back": "to invade, flood (a place)",
+            "example": "I turisti invadono la piazza in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "riunirsi",
+            "pos": "verb",
+            "back": "to gather, meet up",
+            "example": "Ci riuniamo a casa di Marco.",
+            "tier": "B1"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Festeggiamo il compleanno di Anna.",
+            "tier": "A2"
+          },
+          {
+            "front": "il gesto",
+            "pos": "noun",
+            "back": "gesture",
+            "example": "Ha fatto un gesto con la mano.",
+            "tier": "B1"
+          },
+          {
+            "front": "remare",
+            "pos": "verb",
+            "back": "to row",
+            "example": "I ragazzi remano sul lago.",
+            "tier": "B1"
+          },
+          {
+            "front": "esibirsi",
+            "pos": "verb",
+            "back": "to perform",
+            "example": "La band si esibisce stasera.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vagone",
+            "pos": "noun",
+            "back": "(train) carriage, car",
+            "example": "Il vagone era pieno di gente.",
+            "tier": "B1"
+          },
+          {
+            "front": "la metropolitana",
+            "pos": "noun",
+            "back": "underground, subway",
+            "example": "Prendo la metropolitana ogni giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "la squadra",
+            "pos": "noun",
+            "back": "team",
+            "example": "La mia squadra ha vinto.",
+            "tier": "A2"
+          },
+          {
+            "front": "perfino",
+            "pos": "adv",
+            "back": "even",
+            "example": "Perfino i bambini hanno cantato.",
+            "tier": "B1"
+          },
+          {
+            "front": "indimenticabile",
+            "pos": "adj",
+            "back": "unforgettable",
+            "example": "È stata una serata indimenticabile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In tanti si sono riuniti a Times Square per cantare e festeggiare insieme.",
+            "point": "Passato prossimo of reflexive verbs (with 'essere')",
+            "explanation": "Reflexive verbs form the passato prossimo with 'essere', so the participle agrees: 'si sono riuniti' (masculine plural).",
+            "why_tricky": "Learners often use 'avere' here, but reflexives always take 'essere', and the ending must agree with the subject."
+          },
+          {
+            "sentence": "I tifosi hanno fatto anche la \"remata vichinga\", un gesto molto famoso in cui il pubblico muove le braccia come se stesse remando su una barca.",
+            "point": "'come se' + imperfect subjunctive",
+            "explanation": "'Come se stesse remando' uses 'come se' followed by the imperfect subjunctive to describe an imagined comparison.",
+            "why_tricky": "'Come se' always needs the subjunctive, not the indicative, even though it talks about something that looks real."
+          },
+          {
+            "sentence": "Il calcio, infatti, non è solo una partita, ma anche una festa di colori, canti e tradizioni.",
+            "point": "Correlative 'non solo... ma anche'",
+            "explanation": "'Non solo... ma anche' links two ideas meaning 'not only... but also', adding information.",
+            "why_tricky": "The two parts must stay in order, and learners sometimes forget 'anche' in the second part."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in tanti",
+            "meaning": "a lot of people, many of them",
+            "example": "In tanti sono venuti alla festa."
+          },
+          {
+            "phrase": "tra il divertimento di",
+            "meaning": "to the amusement of",
+            "example": "Ha cantato in strada, tra il divertimento dei passanti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno fatto i tifosi della Norvegia a New York?",
+            "type": "open"
+          },
+          {
+            "q": "Che cos'è la \"remata vichinga\"?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perché il calcio non è solo una partita?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace seguire lo sport con altri tifosi? Scrivi se preferisci guardare le partite allo stadio, a casa o con gli amici e perché."
+      }
+    },
     {
       "pack_id": "feed-2026-06-25-meteorite-oro",
       "title": "L'impatto di un meteorite potrebbe aver fatto piovere oro sull'Australia",
@@ -6274,534 +6760,6 @@
           }
         ],
         "opinion_prompt": "Ti piace di più il mare o la montagna per le vacanze? Scrivi qualche frase e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-forum-pa-ia-lavoro",
-      "title": "Forum Pa, il 66% dei dipendenti pubblici usa strumenti di Ia nelle attività lavorative",
-      "source": "ANSA",
-      "date": "2026-06-09",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "lavoro"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-forum-pa-ia-lavoro",
-        "revision": 1,
-        "meta": {
-          "title": "Forum Pa, il 66% dei dipendenti pubblici usa strumenti di Ia nelle attività lavorative",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/06/09/forum-pa-il-66-dei-dipendenti-pubblici-usa-strumenti-di-ia-nelle-attivita-lavorative_6b5bb9de-6429-43da-8814-1193440d5b01.html",
-          "date_published": "2026-06-09",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "tecnologia",
-            "lavoro"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today many people use artificial intelligence at work too. According to a study presented at Forum PA, 66% of public employees use artificial intelligence tools. These programs help to write texts, to look for information and to do some tasks more quickly. For many workers, technology has become a normal, everyday help.\n\nArtificial intelligence can save time and reduce mistakes. However, it is important to use it carefully and to understand well how it works. Some people are afraid of losing their job, while others think that technology makes everything simpler. The most useful thing is to learn to use these tools in the right way. In the end, technology is a help, but the important decisions stay in people's hands.",
-        "resumen_es": "Oggi molte persone usano l'intelligenza artificiale anche al lavoro. Secondo una ricerca presentata al Forum PA, il 66% dei dipendenti pubblici usa strumenti di intelligenza artificiale. Questi programmi aiutano a scrivere testi, a cercare informazioni e a fare più in fretta alcune attività. Per molti lavoratori, la tecnologia è diventata un aiuto normale di ogni giorno.\n\nL'intelligenza artificiale può far risparmiare tempo e ridurre gli errori. Però è importante usarla con attenzione e capire bene come funziona. Alcune persone hanno paura di perdere il lavoro, mentre altre pensano che la tecnologia renda tutto più semplice. La cosa più utile è imparare a usare questi strumenti nel modo giusto. Alla fine, la tecnologia è un aiuto, ma le decisioni importanti restano nelle mani delle persone.",
-        "vocab": [
-          {
-            "front": "l'intelligenza artificiale",
-            "pos": "noun",
-            "back": "artificial intelligence",
-            "example": "L'intelligenza artificiale cambia il lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "È uno strumento molto utile.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dipendente",
-            "pos": "noun",
-            "back": "employee",
-            "example": "L'azienda ha cento dipendenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il lavoro",
-            "pos": "noun",
-            "back": "work, job",
-            "example": "Mi piace il mio lavoro.",
-            "tier": "A2"
-          },
-          {
-            "front": "aiutare",
-            "pos": "verb",
-            "back": "to help",
-            "example": "Questi programmi aiutano molto.",
-            "tier": "A2"
-          },
-          {
-            "front": "risparmiare",
-            "pos": "verb",
-            "back": "to save (time, money)",
-            "example": "Così possiamo risparmiare tempo.",
-            "tier": "A2"
-          },
-          {
-            "front": "ridurre",
-            "pos": "verb",
-            "back": "to reduce",
-            "example": "Vogliamo ridurre gli errori.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'errore",
-            "pos": "noun",
-            "back": "mistake, error",
-            "example": "Ho fatto un piccolo errore.",
-            "tier": "A2"
-          },
-          {
-            "front": "la tecnologia",
-            "pos": "noun",
-            "back": "technology",
-            "example": "La tecnologia ci aiuta ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "avere paura (di)",
-            "pos": "phrase",
-            "back": "to be afraid (of)",
-            "example": "Ho paura di sbagliare.",
-            "tier": "A2"
-          },
-          {
-            "front": "funzionare",
-            "pos": "verb",
-            "back": "to work, to function",
-            "example": "Capire come funziona è importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "utile",
-            "pos": "adj",
-            "back": "useful",
-            "example": "È un consiglio molto utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la decisione",
-            "pos": "noun",
-            "back": "decision",
-            "example": "È una decisione difficile.",
-            "tier": "B1"
-          },
-          {
-            "front": "in fretta",
-            "pos": "phrase",
-            "back": "quickly, in a hurry",
-            "example": "Ho fatto tutto in fretta.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Oggi molte persone usano l'intelligenza artificiale anche al lavoro.",
-            "point": "Presente regolare e posizione di 'anche'",
-            "explanation": "'Usano' e' il presente di 'usare' (terza persona plurale). 'Anche' significa 'too' e qui si mette davanti a 'al lavoro' per aggiungere un'informazione.",
-            "why_tricky": "La posizione di 'anche' cambia il significato: va vicino alla parola a cui si riferisce, non sempre dopo il verbo."
-          },
-          {
-            "sentence": "L'intelligenza artificiale può far risparmiare tempo e ridurre gli errori.",
-            "point": "'Potere + infinito' e costruzione causativa 'far + infinito'",
-            "explanation": "'Può' e' il verbo modale 'potere' seguito dall'infinito. 'Far risparmiare' significa 'permettere di risparmiare': e' la struttura causativa 'fare + infinito'.",
-            "why_tricky": "Davanti a un altro infinito 'fare' diventa 'far' (senza la -e finale), cosa che confonde molti studenti."
-          },
-          {
-            "sentence": "Alcune persone hanno paura di perdere il lavoro, mentre altre pensano che la tecnologia renda tutto più semplice.",
-            "point": "'Avere paura di + infinito' e 'pensare che + congiuntivo'",
-            "explanation": "'Hanno paura di perdere' usa la preposizione 'di' prima dell'infinito. Dopo 'pensare che' si usa il congiuntivo, per questo si dice 'renda' e non 'rende'.",
-            "why_tricky": "Il congiuntivo 'renda' suona strano ai principianti, ma e' obbligatorio dopo verbi di opinione come 'pensare che'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare in fretta",
-            "meaning": "fare qualcosa velocemente, in poco tempo",
-            "example": "Dobbiamo fare in fretta, è quasi tardi."
-          },
-          {
-            "phrase": "nelle mani di (qualcuno)",
-            "meaning": "sotto il controllo o la responsabilità di qualcuno",
-            "example": "La decisione finale è nelle mani del direttore."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quante persone usano l'intelligenza artificiale al lavoro, secondo la ricerca?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono i vantaggi di questi strumenti?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcune persone hanno paura della tecnologia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Usi l'intelligenza artificiale nella tua vita o nel tuo lavoro? Scrivi qualche frase e spiega come."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-papa-barcellona-sagrada",
-      "title": "Il Papa a Barcellona, 'diffondere solidarietà, oltre le polarizzazioni'",
-      "source": "ANSA",
-      "date": "2026-06-09",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "religione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-papa-barcellona-sagrada",
-        "revision": 1,
-        "meta": {
-          "title": "Il Papa a Barcellona, 'diffondere solidarietà, oltre le polarizzazioni'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/vaticano/notizie/2026/06/09/il-papa-a-barcellona-diffondere-solidarieta-oltre-le-polarizzazioni-_968f8843-e3cd-495f-8111-0269e72cc76a.html",
-          "date_published": "2026-06-09",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "cultura",
-            "religione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Pope visited the city of Barcelona, in Spain. During the visit he spoke about solidarity and peace among people. He invited everyone to build unity and to live with a spirit of welcome. Many faithful went to listen to him and to greet him with joy.\n\nAn important moment of the visit was linked to the Sagrada Familia, the famous church designed by Antoni Gaudi. This building is one of the symbols of the city and attracts tourists from all over the world. Its construction began a long time ago and still continues today. The church is celebrating a historic anniversary, a real milestone for the city. In the end, the Pope's visit brought together faith, art and culture in a single day.",
-        "resumen_es": "Il Papa ha visitato la città di Barcellona, in Spagna. Durante la visita ha parlato di solidarietà e di pace tra le persone. Ha invitato tutti a costruire unità e a vivere con spirito di accoglienza. Molti fedeli sono andati ad ascoltarlo e ad accoglierlo con gioia.\n\nUn momento importante della visita è stato legato alla Sagrada Familia, la famosa chiesa disegnata da Antoni Gaudí. Questo edificio è uno dei simboli della città e attira turisti da tutto il mondo. La sua costruzione è iniziata molto tempo fa e continua ancora oggi. La chiesa vive un anniversario storico, un vero traguardo per la città. Alla fine, la visita del Papa ha unito fede, arte e cultura in un solo giorno.",
-        "vocab": [
-          {
-            "front": "visitare",
-            "pos": "verb",
-            "back": "to visit",
-            "example": "Voglio visitare Roma quest'estate.",
-            "tier": "A2"
-          },
-          {
-            "front": "la solidarietà",
-            "pos": "noun",
-            "back": "solidarity",
-            "example": "La solidarietà aiuta chi è in difficoltà.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pace",
-            "pos": "noun",
-            "back": "peace",
-            "example": "Tutti desiderano la pace.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'accoglienza",
-            "pos": "noun",
-            "back": "welcome, hospitality",
-            "example": "L'accoglienza è stata molto calorosa.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fedele",
-            "pos": "noun",
-            "back": "believer, worshipper",
-            "example": "Molti fedeli erano in piazza.",
-            "tier": "B1"
-          },
-          {
-            "front": "la chiesa",
-            "pos": "noun",
-            "back": "church",
-            "example": "La chiesa è vicino alla piazza.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'edificio",
-            "pos": "noun",
-            "back": "building",
-            "example": "Quell'edificio è molto antico.",
-            "tier": "A2"
-          },
-          {
-            "front": "disegnare",
-            "pos": "verb",
-            "back": "to design, to draw",
-            "example": "Un grande architetto ha disegnato la chiesa.",
-            "tier": "A2"
-          },
-          {
-            "front": "il simbolo",
-            "pos": "noun",
-            "back": "symbol",
-            "example": "La torre è un simbolo della città.",
-            "tier": "B1"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "Il museo attira molti turisti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la costruzione",
-            "pos": "noun",
-            "back": "construction",
-            "example": "La costruzione è durata molti anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'anniversario",
-            "pos": "noun",
-            "back": "anniversary",
-            "example": "Oggi è l'anniversario della scuola.",
-            "tier": "A2"
-          },
-          {
-            "front": "il traguardo",
-            "pos": "noun",
-            "back": "milestone, goal",
-            "example": "È un traguardo importante per tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gioia",
-            "pos": "noun",
-            "back": "joy",
-            "example": "I bambini saltavano di gioia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il Papa ha visitato la città di Barcellona, in Spagna.",
-            "point": "Passato prossimo con 'avere'",
-            "explanation": "'Ha visitato' e' il passato prossimo: ausiliare 'avere' al presente piu' il participio 'visitato'. Si usa per un'azione finita nel passato.",
-            "why_tricky": "Con l'ausiliare 'avere' il participio di solito non cambia, a differenza dei verbi con 'essere'."
-          },
-          {
-            "sentence": "Questo edificio è uno dei simboli della città e attira turisti da tutto il mondo.",
-            "point": "Struttura 'uno dei + plurale' e presente",
-            "explanation": "'Uno dei simboli' significa 'one of the symbols' e richiede il nome al plurale. 'Attira' e' il presente di 'attirare'.",
-            "why_tricky": "Dopo 'uno dei' molti mettono il singolare, ma in italiano serve sempre il plurale ('uno dei simboli')."
-          },
-          {
-            "sentence": "La sua costruzione è iniziata molto tempo fa e continua ancora oggi.",
-            "point": "Passato prossimo con 'essere' e 'fa' (= tempo trascorso)",
-            "explanation": "'E' iniziata' usa 'essere' e il participio concorda con 'la costruzione' (femminile). 'Fa' indica quanto tempo e' passato, come 'ago' in inglese.",
-            "why_tricky": "L'ordine 'molto tempo fa' mette 'fa' alla fine, e il participio deve concordare con il soggetto femminile."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da tutto il mondo",
-            "meaning": "da ogni parte del pianeta",
-            "example": "A Roma arrivano turisti da tutto il mondo."
-          },
-          {
-            "phrase": "molto tempo fa",
-            "meaning": "in un passato lontano",
-            "example": "Questa storia è cominciata molto tempo fa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Di che cosa ha parlato il Papa durante la visita?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la Sagrada Familia è importante per Barcellona?",
-            "type": "open"
-          },
-          {
-            "q": "Chi ha disegnato questa chiesa?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "C'è un monumento o una chiesa famosa che vorresti visitare? Scrivi qualche frase e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-16-barberini-vermeer-velazquez",
-      "title": "Chiude a Roma 'Bernini e i Barberini' ma arrivano Vermeer e poi Velázquez",
-      "source": "ANSA",
-      "date": "2026-06-15",
-      "level": "A2-B1",
-      "topics": [
-        "arte",
-        "musei"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-16-barberini-vermeer-velazquez",
-        "revision": 1,
-        "meta": {
-          "title": "Chiude a Roma 'Bernini e i Barberini' ma arrivano Vermeer e poi Velázquez",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/06/15/chiude-a-roma-bernini-e-i-barberini-ma-arrivano-vermeer-e-poi-velazquez_726c2ed2-3079-4843-a846-432f2d73e5de.html",
-          "date_published": "2026-06-15",
-          "date_processed": "2026-06-16",
-          "tags": [
-            "arte",
-            "musei"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Rome, at Palazzo Barberini, the exhibition about Bernini and the Barberini family is ending. The show was very successful: many people went to see it. Now the museum is getting ready for new, eagerly awaited exhibitions. Soon a famous painting by the Dutch painter Vermeer will arrive. Later, the palace will also host works by the Spaniard Velazquez.\n\nPalazzo Barberini is one of the most important museums in Rome. There are many old paintings and decorated rooms. The big exhibitions help the museum introduce art to a new audience. For many tourists, seeing a Vermeer painting is a rare chance, because his works are few in the world. So, even after an exhibition ends, the museum keeps offering something special to its visitors.",
-        "resumen_es": "A Roma, a Palazzo Barberini, finisce la mostra dedicata a Bernini e alla famiglia Barberini. La mostra ha avuto molto successo: tante persone sono andate a vederla. Ora il museo si prepara a nuove mostre molto attese. Presto arriverà un quadro famoso del pittore olandese Vermeer. Più avanti, il palazzo ospiterà anche opere dello spagnolo Velázquez.\n\nPalazzo Barberini è uno dei musei più importanti di Roma. Ci sono molti dipinti antichi e sale decorate. Le grandi mostre aiutano il museo a far conoscere l'arte a un pubblico nuovo. Per molti turisti, vedere un quadro di Vermeer è un'occasione rara, perché le sue opere sono poche nel mondo. Così, anche dopo la fine di una mostra, il museo continua a offrire qualcosa di speciale ai suoi visitatori.",
-        "vocab": [
-          {
-            "front": "la mostra",
-            "pos": "noun",
-            "back": "exhibition",
-            "example": "Domenica andiamo a vedere una mostra di fotografia.",
-            "tier": "A2"
-          },
-          {
-            "front": "il quadro",
-            "pos": "noun",
-            "back": "painting, picture",
-            "example": "In salotto c'è un quadro molto colorato.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dipinto",
-            "pos": "noun",
-            "back": "painting",
-            "example": "Questo dipinto è molto antico.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pittore",
-            "pos": "noun",
-            "back": "painter",
-            "example": "Leonardo da Vinci è un pittore famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "avere successo",
-            "pos": "phrase",
-            "back": "to be successful",
-            "example": "Il suo nuovo libro ha avuto molto successo.",
-            "tier": "B1"
-          },
-          {
-            "front": "atteso",
-            "pos": "adj",
-            "back": "awaited, expected",
-            "example": "Il concerto era molto atteso da tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "ospitare",
-            "pos": "verb",
-            "back": "to host",
-            "example": "La città ospita una grande fiera ogni anno.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'opera",
-            "pos": "noun",
-            "back": "work (of art)",
-            "example": "Le opere di questo artista sono in tutto il mondo.",
-            "tier": "B1"
-          },
-          {
-            "front": "far conoscere",
-            "pos": "phrase",
-            "back": "to make known, to introduce",
-            "example": "La scuola vuole far conoscere la musica ai bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico ha applaudito a lungo.",
-            "tier": "A2"
-          },
-          {
-            "front": "raro",
-            "pos": "adj",
-            "back": "rare",
-            "example": "È un fiore molto raro.",
-            "tier": "A2"
-          },
-          {
-            "front": "il visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori del museo erano tantissimi.",
-            "tier": "B1"
-          },
-          {
-            "front": "prepararsi a",
-            "pos": "verb",
-            "back": "to get ready for",
-            "example": "Mi preparo a un esame difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la sala",
-            "pos": "noun",
-            "back": "room, hall",
-            "example": "La sala del museo era piena di gente.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La mostra ha avuto molto successo: tante persone sono andate a vederla.",
-            "point": "passato prossimo con 'avere' e con 'essere'",
-            "explanation": "'Ha avuto' usa l'ausiliare avere; 'sono andate' usa essere e il participio concorda con il soggetto (persone, femminile plurale).",
-            "why_tricky": "Con 'essere' il participio cambia (andato, andata, andati, andate); con 'avere' di solito no."
-          },
-          {
-            "sentence": "Presto arriverà un quadro famoso del pittore olandese Vermeer.",
-            "point": "futuro semplice",
-            "explanation": "'Arriverà' è il futuro di 'arrivare' e indica un'azione che succederà presto.",
-            "why_tricky": "Il futuro di 'arrivare' raddoppia la erre (arriverà) e prende l'accento sulla a finale."
-          },
-          {
-            "sentence": "Le grandi mostre aiutano il museo a far conoscere l'arte a un pubblico nuovo.",
-            "point": "'aiutare a + infinito' e 'fare + infinito'",
-            "explanation": "Dopo 'aiutare' si usa 'a + infinito'. 'Far conoscere' è un fare causativo: il museo fa in modo che il pubblico conosca l'arte.",
-            "why_tricky": "La preposizione 'a' dopo 'aiutare' è obbligatoria e spesso viene dimenticata."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare a ruba",
-            "meaning": "to sell out, to go like hotcakes",
-            "example": "I biglietti per la mostra sono andati a ruba."
-          },
-          {
-            "phrase": "valere la pena",
-            "meaning": "to be worth it",
-            "example": "Vale la pena visitare questo museo almeno una volta."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale mostra finisce a Palazzo Barberini?",
-            "type": "open"
-          },
-          {
-            "q": "Quali artisti arriveranno presto al museo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché vedere un quadro di Vermeer è un'occasione speciale?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace visitare i musei? Scrivi qualche frase su una mostra o un quadro che vorresti vedere."
       }
     }
   ]
