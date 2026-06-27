@@ -1,7 +1,516 @@
 {
-  "generated_at": "2026-06-26T20:13:45Z",
+  "generated_at": "2026-06-27T08:59:41Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-27-cani-estate",
+      "title": "Fondazione Cave Canem: i consigli utili per il benessere dei cani in estate",
+      "source": "ANSA",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "animali",
+        "estate"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-cani-estate",
+        "revision": 1,
+        "meta": {
+          "title": "Fondazione Cave Canem: i consigli utili per il benessere dei cani in estate",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/italia/2026/06/26/fondazione-cave-canem-i-consigli-utili-per-il-benessere-dei-cani-in-estate_d106c923-a825-4a99-97e8-5fa517c97acf.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "animali",
+            "estate"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In summer it is very hot and dogs suffer from the high temperatures too. A foundation that takes care of animals has given some simple tips to protect dogs during the hottest months. An expert explains that the asphalt can become scorching and burn the animals' paws, so it is better not to take them for a walk in the middle of the day.\n\nThere are other easy rules to follow. It is important to always leave fresh water available and never to leave the dog in the car under the sun. A short walk early in the morning or in the evening is much safer. With a little care, our four-legged friends can spend the summer healthy and without problems.",
+        "resumen_es": "In estate fa molto caldo e anche i cani soffrono per le alte temperature. Una fondazione che si occupa di animali ha dato alcuni consigli semplici per proteggere i cani durante i mesi più caldi. Un esperto spiega che l'asfalto può diventare rovente e bruciare le zampe degli animali, quindi è meglio non portarli a spasso nelle ore centrali della giornata.\n\nCi sono altre regole facili da seguire. È importante lasciare sempre acqua fresca a disposizione e non lasciare mai il cane in macchina sotto il sole. Una breve passeggiata al mattino presto o alla sera è molto più sicura. Con un po' di attenzione, i nostri amici a quattro zampe possono passare l'estate in salute e senza problemi.",
+        "vocab": [
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "heat, hot weather",
+            "example": "In estate il caldo è molto forte.",
+            "tier": "B1"
+          },
+          {
+            "front": "soffrire",
+            "pos": "verb",
+            "back": "to suffer",
+            "example": "I cani soffrono quando fa caldo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "advice, tip",
+            "example": "Ti do un consiglio utile.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Dobbiamo proteggere gli animali dal sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'asfalto",
+            "pos": "noun",
+            "back": "asphalt, road surface",
+            "example": "L'asfalto è molto caldo a mezzogiorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "rovente",
+            "pos": "adj",
+            "back": "scorching, very hot",
+            "example": "La strada diventa rovente in estate.",
+            "tier": "B2"
+          },
+          {
+            "front": "la zampa",
+            "pos": "noun",
+            "back": "paw",
+            "example": "Il cane si è fatto male a una zampa.",
+            "tier": "B1"
+          },
+          {
+            "front": "portare a spasso",
+            "pos": "phrase",
+            "back": "to take for a walk",
+            "example": "Porto il cane a spasso ogni sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'acqua fresca",
+            "pos": "phrase",
+            "back": "cool, fresh water",
+            "example": "Lascio sempre acqua fresca al cane.",
+            "tier": "A2"
+          },
+          {
+            "front": "la passeggiata",
+            "pos": "noun",
+            "back": "walk, stroll",
+            "example": "Facciamo una passeggiata al parco.",
+            "tier": "A2"
+          },
+          {
+            "front": "al mattino presto",
+            "pos": "phrase",
+            "back": "early in the morning",
+            "example": "Esco con il cane al mattino presto.",
+            "tier": "A2"
+          },
+          {
+            "front": "sicuro",
+            "pos": "adj",
+            "back": "safe",
+            "example": "È più sicuro uscire la sera.",
+            "tier": "A2"
+          },
+          {
+            "front": "amici a quattro zampe",
+            "pos": "phrase",
+            "back": "four-legged friends (pets)",
+            "example": "I nostri amici a quattro zampe amano l'acqua.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In estate fa molto caldo e anche i cani soffrono per le alte temperature.",
+            "point": "Weather with 'fare'",
+            "explanation": "Italian describes the weather with the verb 'fare': 'fa caldo' means 'it is hot'.",
+            "why_tricky": "English uses 'to be' ('it is hot'), so beginners often say 'è caldo' by mistake."
+          },
+          {
+            "sentence": "È importante lasciare sempre acqua fresca a disposizione e non lasciare mai il cane in macchina sotto il sole.",
+            "point": "'è importante' + infinitive and 'non...mai'",
+            "explanation": "After 'è importante' we use the infinitive; 'non ... mai' wraps around the verb to mean 'never'.",
+            "why_tricky": "The two parts of the negation ('non' and 'mai') sit in different places in the sentence."
+          },
+          {
+            "sentence": "Una breve passeggiata al mattino presto o alla sera è molto più sicura.",
+            "point": "Comparative with 'più'",
+            "explanation": "'Molto più sicura' means 'much safer'; 'più' forms the comparative of the adjective.",
+            "why_tricky": "The adjective 'sicura' must agree in gender with 'passeggiata' (feminine)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "amici a quattro zampe",
+            "meaning": "four-legged friends, a friendly way to say pets or dogs",
+            "example": "In estate i nostri amici a quattro zampe hanno bisogno di ombra."
+          },
+          {
+            "phrase": "portare a spasso",
+            "meaning": "to take (a dog or someone) for a walk",
+            "example": "Ogni giorno porto il cane a spasso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché i cani soffrono in estate?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli dà l'esperto per proteggere i cani?",
+            "type": "open"
+          },
+          {
+            "q": "Quando è meglio portare il cane a fare una passeggiata?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai un animale domestico o ne vorresti uno? Scrivi come ti prendi cura di lui o come lo faresti."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-new-york-viaggio",
+      "title": "New York effetto wow garantito, tips su grattacieli e crociere",
+      "source": "ANSA",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "città"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-new-york-viaggio",
+        "revision": 1,
+        "meta": {
+          "title": "New York effetto wow garantito, tips su grattacieli e crociere",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/06/26/new-york-effetto-wow-garantito-tips-su-grattacieli-e-crociere_99a00ddb-f22a-45bb-acf6-e5f68cfe2e98.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "viaggi",
+            "città"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "New York is one of the most famous cities in the world and every year it attracts millions of tourists. The Big Apple appeals to everyone because it offers so many things to do. You can admire the very tall skyscrapers from above, going up onto the observation decks, or look at the skyline from below, during a cruise on the river.\n\nThere are many different ways to discover the city. Some tourists prefer to walk in the big parks and among the colorful neighborhoods, while others love to go shopping or visit the museums. Food is a great attraction too, because in New York you find dishes from all over the world. For those who travel, seeing this city at least once in a lifetime remains a very common dream.",
+        "resumen_es": "New York è una delle città più famose del mondo e ogni anno attira milioni di turisti. La Grande Mela piace a tutti perché offre tantissime cose da fare. Si possono ammirare i grattacieli altissimi dall'alto, salendo sulle terrazze panoramiche, oppure guardare lo skyline dal basso, durante una crociera sul fiume.\n\nCi sono molti modi diversi per scoprire la città. Alcuni turisti preferiscono camminare nei grandi parchi e tra i quartieri colorati, mentre altri amano fare shopping o visitare i musei. Anche il cibo è una grande attrazione, perché a New York si trovano piatti di tutto il mondo. Per chi viaggia, vedere questa città almeno una volta nella vita resta un sogno molto comune.",
+        "vocab": [
+          {
+            "front": "famoso",
+            "pos": "adj",
+            "back": "famous",
+            "example": "New York è una città molto famosa.",
+            "tier": "A2"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "La città attira molti turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il turista",
+            "pos": "noun",
+            "back": "tourist",
+            "example": "I turisti scattano molte foto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il grattacielo",
+            "pos": "noun",
+            "back": "skyscraper",
+            "example": "I grattacieli sono altissimi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la terrazza panoramica",
+            "pos": "phrase",
+            "back": "observation deck, panoramic terrace",
+            "example": "Saliamo sulla terrazza panoramica.",
+            "tier": "B1"
+          },
+          {
+            "front": "la crociera",
+            "pos": "noun",
+            "back": "cruise",
+            "example": "Facciamo una crociera sul fiume.",
+            "tier": "B1"
+          },
+          {
+            "front": "il quartiere",
+            "pos": "noun",
+            "back": "neighborhood, district",
+            "example": "Ogni quartiere ha il suo carattere.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare shopping",
+            "pos": "phrase",
+            "back": "to go shopping",
+            "example": "Mi piace fare shopping in centro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il museo",
+            "pos": "noun",
+            "back": "museum",
+            "example": "Visitiamo un museo famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "il cibo",
+            "pos": "noun",
+            "back": "food",
+            "example": "Il cibo qui è molto buono.",
+            "tier": "A2"
+          },
+          {
+            "front": "il piatto",
+            "pos": "noun",
+            "back": "dish",
+            "example": "Provo un piatto nuovo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sogno",
+            "pos": "noun",
+            "back": "dream",
+            "example": "Visitare New York è il mio sogno.",
+            "tier": "A2"
+          },
+          {
+            "front": "almeno una volta nella vita",
+            "pos": "phrase",
+            "back": "at least once in a lifetime",
+            "example": "Voglio vedere New York almeno una volta nella vita.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si possono ammirare i grattacieli altissimi dall'alto, salendo sulle terrazze panoramiche, oppure guardare lo skyline dal basso, durante una crociera sul fiume.",
+            "point": "Impersonal 'si' + gerund",
+            "explanation": "'Si possono ammirare' means 'one can admire'; 'salendo' is a gerund showing how you do it.",
+            "why_tricky": "With 'si', the verb agrees with the plural noun ('grattacieli'), so it becomes 'possono'."
+          },
+          {
+            "sentence": "Alcuni turisti preferiscono camminare nei grandi parchi e tra i quartieri colorati, mentre altri amano fare shopping o visitare i musei.",
+            "point": "'preferire'/'amare' + infinitive",
+            "explanation": "After 'preferiscono' and 'amano' the second verb stays in the infinitive ('camminare', 'fare', 'visitare').",
+            "why_tricky": "English sometimes uses '-ing' here, but Italian always uses the infinitive."
+          },
+          {
+            "sentence": "Anche il cibo è una grande attrazione, perché a New York si trovano piatti di tutto il mondo.",
+            "point": "'si' passivante in the plural",
+            "explanation": "'Si trovano piatti' means 'dishes are found'; the verb is plural because 'piatti' is plural.",
+            "why_tricky": "Beginners often keep the verb singular and say 'si trova', which is incorrect here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la Grande Mela",
+            "meaning": "the Big Apple, the nickname for New York",
+            "example": "Quest'estate andiamo nella Grande Mela."
+          },
+          {
+            "phrase": "almeno una volta nella vita",
+            "meaning": "at least once in a lifetime, something worth doing at least once",
+            "example": "Bisogna vedere New York almeno una volta nella vita."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché New York attira tanti turisti?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono due modi diversi per scoprire la città?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il cibo è una grande attrazione a New York?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è una città che vorresti visitare almeno una volta nella vita? Spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-vesuvio-rotoli",
+      "title": "L'intelligenza artificiale per decifrare gli antichi rotoli dell'eruzione del Vesuvio",
+      "source": "Rai News",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "storia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-vesuvio-rotoli",
+        "revision": 1,
+        "meta": {
+          "title": "L'intelligenza artificiale per decifrare gli antichi rotoli dell'eruzione del Vesuvio",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/06/gli-scienziati-usano-lia-per-decifrare-gli-antichi-rotoli-delleruzione-del-vesuvio-057b8935-19b9-40e6-b74f-e56ae02b62e0.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "scienza",
+            "storia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Almost two thousand years ago, the eruption of Vesuvius destroyed many cities near Naples. Among the remains, ancient papyrus scrolls have been found, burnt and impossible to open without breaking them. Today a group of scientists uses artificial intelligence to read these pages without touching them, thanks to special scans with X-rays.\n\nThis work is very important for historians. The scrolls contain ancient texts that no one has read for centuries and that could tell many things about life in the past. The project combines modern technology and history in a surprising way. If all goes well, in the future it will be possible to read hundreds of other papyri and discover words that have stayed hidden for a very long time.",
+        "resumen_es": "Quasi duemila anni fa, l'eruzione del Vesuvio distrusse molte città vicino a Napoli. Tra i resti sono stati trovati antichi rotoli di papiro, bruciati e impossibili da aprire senza romperli. Oggi un gruppo di scienziati usa l'intelligenza artificiale per leggere queste pagine senza toccarle, grazie a scansioni speciali con i raggi X.\n\nQuesto lavoro è molto importante per gli storici. I rotoli contengono testi antichi che nessuno legge da secoli e che potrebbero raccontare molte cose sulla vita del passato. Il progetto unisce la tecnologia moderna e la storia in modo sorprendente. Se tutto va bene, in futuro sarà possibile leggere centinaia di altri papiri e scoprire parole rimaste nascoste per tantissimo tempo.",
+        "vocab": [
+          {
+            "front": "l'eruzione",
+            "pos": "noun",
+            "back": "eruption",
+            "example": "L'eruzione del vulcano fu terribile.",
+            "tier": "B1"
+          },
+          {
+            "front": "distruggere",
+            "pos": "verb",
+            "back": "to destroy",
+            "example": "Il fuoco distrusse la città.",
+            "tier": "B1"
+          },
+          {
+            "front": "i resti",
+            "pos": "noun",
+            "back": "remains, ruins",
+            "example": "Tra i resti hanno trovato oggetti antichi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rotolo",
+            "pos": "noun",
+            "back": "scroll, roll",
+            "example": "Hanno aperto un rotolo molto antico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il papiro",
+            "pos": "noun",
+            "back": "papyrus",
+            "example": "Il papiro è fragile e si rompe facilmente.",
+            "tier": "B2"
+          },
+          {
+            "front": "bruciato",
+            "pos": "adj",
+            "back": "burnt",
+            "example": "I documenti erano tutti bruciati.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo scienziato",
+            "pos": "noun",
+            "back": "scientist",
+            "example": "Gli scienziati studiano i papiri.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'intelligenza artificiale",
+            "pos": "phrase",
+            "back": "artificial intelligence",
+            "example": "L'intelligenza artificiale aiuta a leggere i testi.",
+            "tier": "B1"
+          },
+          {
+            "front": "leggere",
+            "pos": "verb",
+            "back": "to read",
+            "example": "Ora possiamo leggere parole nascoste.",
+            "tier": "A2"
+          },
+          {
+            "front": "i raggi X",
+            "pos": "phrase",
+            "back": "X-rays",
+            "example": "Usano i raggi X per vedere dentro il rotolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo storico",
+            "pos": "noun",
+            "back": "historian",
+            "example": "Gli storici sono molto interessati.",
+            "tier": "B1"
+          },
+          {
+            "front": "il secolo",
+            "pos": "noun",
+            "back": "century",
+            "example": "Nessuno legge quel testo da secoli.",
+            "tier": "A2"
+          },
+          {
+            "front": "nascosto",
+            "pos": "adj",
+            "back": "hidden",
+            "example": "Le parole erano rimaste nascoste.",
+            "tier": "B1"
+          },
+          {
+            "front": "scoprire",
+            "pos": "verb",
+            "back": "to discover",
+            "example": "Vogliono scoprire nuovi testi.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Tra i resti sono stati trovati antichi rotoli di papiro, bruciati e impossibili da aprire senza romperli.",
+            "point": "Passive in the passato prossimo",
+            "explanation": "'Sono stati trovati' is a passive form: the scrolls received the action of being found.",
+            "why_tricky": "The participle 'trovati' agrees in number and gender with 'rotoli' (masculine plural)."
+          },
+          {
+            "sentence": "I rotoli contengono testi antichi che nessuno legge da secoli e che potrebbero raccontare molte cose sulla vita del passato.",
+            "point": "'da' + time and the conditional",
+            "explanation": "'Legge da secoli' uses the present with 'da' for an action lasting until now; 'potrebbero' is the conditional of 'potere'.",
+            "why_tricky": "Italian uses the present tense with 'da', while English uses 'has read for'."
+          },
+          {
+            "sentence": "Se tutto va bene, in futuro sarà possibile leggere centinaia di altri papiri e scoprire parole rimaste nascoste per tantissimo tempo.",
+            "point": "Real conditional (se + present, future)",
+            "explanation": "'Se tutto va bene ... sarà possibile' links a present condition to a future result.",
+            "why_tricky": "Both clauses use different tenses, and the order of present and future must stay clear."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "se tutto va bene",
+            "meaning": "if all goes well, an expression of cautious hope",
+            "example": "Se tutto va bene, leggeremo molti altri testi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa successe quasi duemila anni fa vicino a Napoli?",
+            "type": "open"
+          },
+          {
+            "q": "Come fanno gli scienziati a leggere i rotoli senza aprirli?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questo progetto è importante per gli storici?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, come può aiutare la tecnologia a proteggere e studiare la storia? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-06-26-bioparco-caldo",
       "title": "Caldo, al Bioparco di Roma ghiaccioli e piscine per aiutare gli animali",
@@ -6260,506 +6769,6 @@
           }
         ],
         "opinion_prompt": "Ti piace andare ai concerti? Scrivi un breve testo e racconta qual è il concerto o l'artista che vorresti vedere dal vivo e perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-mostre-weekend-chagall",
-      "title": "Le mostre del weekend, da Chagall all'arte della citazione",
-      "source": "ANSA",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "arte",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-mostre-weekend-chagall",
-        "revision": 1,
-        "meta": {
-          "title": "Le mostre del weekend, da Chagall all'arte della citazione",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/06/17/le-mostre-del-weekend-da-chagall-allarte-della-citazione_54632300-ea0f-4147-84c7-17a0e0c382d6.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "arte",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "This weekend Italian cities offer many interesting exhibitions for art lovers. You can admire the colourful and poetic world of Marc Chagall, a painter famous all over the world. His works tell of dreams, love and memories with bright colours. It is a perfect chance to spend a few hours in a museum and discover great artists.\n\nIn Milan an exhibition is dedicated to the photographer Aurelio Amendola, famous for his black and white images. In Turin, instead, an exhibition tells the role of play in art, from the Renaissance until today. The exhibitions are suitable for everyone, including families with children. Visiting a museum at the weekend is a simple and pleasant way to learn something new.",
-        "resumen_es": "Questo fine settimana le città italiane offrono molte mostre interessanti per gli amanti dell'arte. Si può ammirare il mondo colorato e poetico di Marc Chagall, un pittore famoso in tutto il mondo. Le sue opere raccontano sogni, amore e ricordi con colori vivaci. È un'occasione perfetta per passare qualche ora in un museo e scoprire grandi artisti.\n\nA Milano una mostra è dedicata al fotografo Aurelio Amendola, famoso per le sue immagini in bianco e nero. A Torino, invece, una esposizione racconta il ruolo del gioco nell'arte, dal Rinascimento fino a oggi. Le mostre sono adatte a tutti, anche alle famiglie con bambini. Visitare un museo nel weekend è un modo semplice e piacevole per imparare qualcosa di nuovo.",
-        "vocab": [
-          {
-            "front": "mostra",
-            "pos": "noun",
-            "back": "exhibition",
-            "example": "La mostra apre alle dieci.",
-            "tier": "A2"
-          },
-          {
-            "front": "pittore",
-            "pos": "noun",
-            "back": "painter",
-            "example": "Il pittore lavora nel suo studio.",
-            "tier": "A2"
-          },
-          {
-            "front": "opera",
-            "pos": "noun",
-            "back": "work (of art)",
-            "example": "Questa opera è molto famosa.",
-            "tier": "B1"
-          },
-          {
-            "front": "ammirare",
-            "pos": "verb",
-            "back": "to admire",
-            "example": "Tutti ammirano il panorama.",
-            "tier": "B1"
-          },
-          {
-            "front": "colorato",
-            "pos": "adj",
-            "back": "colourful",
-            "example": "Il quadro è molto colorato.",
-            "tier": "A2"
-          },
-          {
-            "front": "ricordo",
-            "pos": "noun",
-            "back": "memory",
-            "example": "Ho un bel ricordo di quel viaggio.",
-            "tier": "A2"
-          },
-          {
-            "front": "museo",
-            "pos": "noun",
-            "back": "museum",
-            "example": "Il museo è chiuso il lunedì.",
-            "tier": "A2"
-          },
-          {
-            "front": "fotografo",
-            "pos": "noun",
-            "back": "photographer",
-            "example": "Il fotografo scatta molte foto.",
-            "tier": "A2"
-          },
-          {
-            "front": "esposizione",
-            "pos": "noun",
-            "back": "exhibition, display",
-            "example": "L'esposizione dura un mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "ruolo",
-            "pos": "noun",
-            "back": "role",
-            "example": "Ha un ruolo importante nel film.",
-            "tier": "B1"
-          },
-          {
-            "front": "adatto",
-            "pos": "adj",
-            "back": "suitable",
-            "example": "Questo film è adatto ai bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "piacevole",
-            "pos": "adj",
-            "back": "pleasant",
-            "example": "È stata una serata piacevole.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Si può ammirare il mondo colorato e poetico di Marc Chagall, un pittore famoso in tutto il mondo.",
-            "point": "Si impersonale con il verbo potere",
-            "explanation": "'Si può ammirare' significa 'si riesce a vedere' o 'la gente può ammirare', senza un soggetto preciso.",
-            "why_tricky": "Il 'si' impersonale si confonde con il 'si' riflessivo e con il pronome 'si' di terza persona."
-          },
-          {
-            "sentence": "A Torino, invece, una esposizione racconta il ruolo del gioco nell'arte, dal Rinascimento fino a oggi.",
-            "point": "Indicazione di tempo 'dal... fino a'",
-            "explanation": "'Dal Rinascimento fino a oggi' indica un lungo periodo che va da un punto del passato fino al presente.",
-            "why_tricky": "Serve la preposizione articolata 'dal' (da + il) e poi 'fino a' senza articolo."
-          },
-          {
-            "sentence": "Visitare un museo nel weekend è un modo semplice e piacevole per imparare qualcosa di nuovo.",
-            "point": "Infinito come soggetto e 'qualcosa di + aggettivo'",
-            "explanation": "'Visitare' è il soggetto della frase; 'qualcosa di nuovo' usa sempre 'di' prima dell'aggettivo.",
-            "why_tricky": "Gli studenti dimenticano il 'di' e dicono 'qualcosa nuovo'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in bianco e nero",
-            "meaning": "in black and white",
-            "example": "Adoro le vecchie foto in bianco e nero."
-          },
-          {
-            "phrase": "qualcosa di nuovo",
-            "meaning": "something new",
-            "example": "Voglio provare qualcosa di nuovo questa estate."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quali artisti si possono scoprire nelle mostre di questo fine settimana?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa racconta l'esposizione di Torino?",
-            "type": "open"
-          },
-          {
-            "q": "Perché, secondo il testo, visitare un museo è un'attività adatta a tutti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace visitare i musei? Scrivi un breve testo e descrivi l'ultima mostra o il museo che hai visitato, oppure uno che vorresti visitare."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-storia-costumi-bagno",
-      "title": "La storia nell'armadio: i costumi da bagno",
-      "source": "ANSA",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "moda",
-        "storia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-storia-costumi-bagno",
-        "revision": 1,
-        "meta": {
-          "title": "La storia nell'armadio: i costumi da bagno",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/podcast/ansa_voice_magazine/2026/06/18/la-storia-nellarmadio-i-costumi-da-bagno_e9ed7562-4952-41cf-9f32-9d44a3d919b1.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "moda",
-            "storia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The swimsuit has a long and curious history. Today we use it without thinking, but in the past things were very different. Many years ago swimsuits were big, heavy and covered almost the whole body. Going to the sea was a rare activity and followed very strict rules, especially for women.\n\nOver time the swimsuit has changed a great deal and has become smaller, more comfortable and colourful. This change also tells how society and the way of living free time have changed. Today the swimsuit is a symbol of summer, of the sun and of holidays. Studying its history helps us to understand better the fashions and tastes of every era.",
-        "resumen_es": "Il costume da bagno ha una storia lunga e curiosa. Oggi lo usiamo senza pensarci, ma in passato le cose erano molto diverse. Tanti anni fa i costumi erano grandi, pesanti e coprivano quasi tutto il corpo. Andare al mare era un'attività rara e seguiva regole molto severe, soprattutto per le donne.\n\nCon il tempo il costume da bagno è cambiato tantissimo ed è diventato più piccolo, comodo e colorato. Questo cambiamento racconta anche come è cambiata la società e il modo di vivere il tempo libero. Oggi il costume è un simbolo dell'estate, del sole e delle vacanze. Studiare la sua storia ci aiuta a capire meglio le mode e i gusti di ogni epoca.",
-        "vocab": [
-          {
-            "front": "costume da bagno",
-            "pos": "phrase",
-            "back": "swimsuit",
-            "example": "Ho comprato un costume da bagno nuovo.",
-            "tier": "A2"
-          },
-          {
-            "front": "passato",
-            "pos": "noun",
-            "back": "past",
-            "example": "Nel passato la vita era più lenta.",
-            "tier": "A2"
-          },
-          {
-            "front": "pesante",
-            "pos": "adj",
-            "back": "heavy",
-            "example": "Questa valigia è troppo pesante.",
-            "tier": "A2"
-          },
-          {
-            "front": "coprire",
-            "pos": "verb",
-            "back": "to cover",
-            "example": "La neve copre le montagne.",
-            "tier": "B1"
-          },
-          {
-            "front": "corpo",
-            "pos": "noun",
-            "back": "body",
-            "example": "Lo sport fa bene al corpo.",
-            "tier": "A2"
-          },
-          {
-            "front": "regola",
-            "pos": "noun",
-            "back": "rule",
-            "example": "Dobbiamo rispettare le regole.",
-            "tier": "A2"
-          },
-          {
-            "front": "severo",
-            "pos": "adj",
-            "back": "strict",
-            "example": "Il professore è molto severo.",
-            "tier": "B1"
-          },
-          {
-            "front": "comodo",
-            "pos": "adj",
-            "back": "comfortable",
-            "example": "Queste scarpe sono molto comode.",
-            "tier": "A2"
-          },
-          {
-            "front": "cambiamento",
-            "pos": "noun",
-            "back": "change",
-            "example": "Il cambiamento fa un po' paura.",
-            "tier": "B1"
-          },
-          {
-            "front": "tempo libero",
-            "pos": "phrase",
-            "back": "free time",
-            "example": "Nel tempo libero leggo molto.",
-            "tier": "A2"
-          },
-          {
-            "front": "moda",
-            "pos": "noun",
-            "back": "fashion",
-            "example": "Segue sempre l'ultima moda.",
-            "tier": "B1"
-          },
-          {
-            "front": "gusto",
-            "pos": "noun",
-            "back": "taste, preference",
-            "example": "Ognuno ha i suoi gusti.",
-            "tier": "B1"
-          },
-          {
-            "front": "epoca",
-            "pos": "noun",
-            "back": "era, age",
-            "example": "Vivevano in un'altra epoca.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Tanti anni fa i costumi erano grandi, pesanti e coprivano quasi tutto il corpo.",
-            "point": "Imperfetto per descrizioni al passato",
-            "explanation": "'Erano' e 'coprivano' usano l'imperfetto per descrivere com'erano le cose abitualmente nel passato.",
-            "why_tricky": "Si confonde con il passato prossimo, che indica azioni concluse e puntuali."
-          },
-          {
-            "sentence": "Con il tempo il costume da bagno è cambiato tantissimo ed è diventato più piccolo, comodo e colorato.",
-            "point": "Passato prossimo con l'ausiliare essere",
-            "explanation": "'È cambiato' ed 'è diventato' usano 'essere' e il participio concorda con il soggetto.",
-            "why_tricky": "Bisogna scegliere tra 'essere' e 'avere' e poi accordare il participio."
-          },
-          {
-            "sentence": "Studiare la sua storia ci aiuta a capire meglio le mode e i gusti di ogni epoca.",
-            "point": "Infinito come soggetto e 'aiutare a + infinito",
-            "explanation": "'Studiare' è il soggetto; il verbo 'aiutare' regge 'a' prima dell'infinito 'capire'.",
-            "why_tricky": "Si dimentica la preposizione 'a' richiesta dal verbo aiutare."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "con il tempo",
-            "meaning": "over time, in time",
-            "example": "Con il tempo tutto si aggiusta."
-          },
-          {
-            "phrase": "fare il bagno",
-            "meaning": "to go for a swim, to bathe",
-            "example": "D'estate mi piace fare il bagno al mare."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Com'erano i costumi da bagno tanti anni fa?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, che cosa racconta il cambiamento del costume da bagno?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è interessante studiare la storia del costume da bagno?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci il mare o la montagna per le vacanze estive? Scrivi un breve testo e spiega perché, descrivendo che cosa ti piace fare nel tempo libero d'estate."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-maturita-italia",
-      "title": "Maturità, tra le tracce un testo tratto dal libro di Calabresi, Frank Furedi 'I confini contano', una poesia di Pavese e l'Assemblea Costituente",
-      "source": "ANSA",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "scuola",
-        "esami"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-maturita-italia",
-        "revision": 1,
-        "meta": {
-          "title": "Maturità, tra le tracce un testo tratto dal libro di Calabresi, Frank Furedi 'I confini contano', una poesia di Pavese e l'Assemblea Costituente",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/06/18/e-il-giorno-degli-esami-di-maturita-per-oltre-527mila-studenti_40402b12-0fb4-4b1b-8961-0e83e901f6ce.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "scuola",
-            "esami"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today in Italy the maturità exam begins. It is a very important exam for students in their final year of high school. This year more than 527 thousand young people are taking part. The first test is the Italian essay. All the students write on the same day. For many young people it is a moment full of excitement and also of fear.\n\nAfter the first test, students have to face other written tests and an oral exam. During the oral, the students speak in front of their teachers and answer their questions. The maturità is not just an exam. For many it is the end of a long journey at school. It is also the beginning of a new life, at university or in the world of work. For this reason, it is a day that students do not forget easily.",
-        "resumen_es": "Oggi in Italia comincia l'esame di maturità. È un esame molto importante per gli studenti dell'ultimo anno delle scuole superiori. Quest'anno partecipano più di 527 mila ragazzi. La prima prova è il tema di italiano. Tutti gli studenti scrivono lo stesso giorno. Per molti giovani è un momento pieno di emozione e anche di paura.\n\nDopo la prima prova, gli studenti devono affrontare altre prove scritte e un esame orale. Durante l'orale, i ragazzi parlano davanti ai professori e rispondono alle loro domande. La maturità non è solo un esame. Per molti è la fine di un lungo percorso a scuola. È anche l'inizio di una nuova vita, all'università o nel mondo del lavoro. Per questo motivo, è un giorno che gli studenti non dimenticano facilmente.",
-        "vocab": [
-          {
-            "front": "l'esame",
-            "pos": "noun",
-            "back": "exam",
-            "example": "Domani ho un esame difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la maturità",
-            "pos": "noun",
-            "back": "final high-school exam",
-            "example": "La maturità è alla fine del liceo.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo studente",
-            "pos": "noun",
-            "back": "student",
-            "example": "Lo studente legge un libro.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scuola superiore",
-            "pos": "phrase",
-            "back": "high school",
-            "example": "Mia sorella va alla scuola superiore.",
-            "tier": "A2"
-          },
-          {
-            "front": "la prova",
-            "pos": "noun",
-            "back": "test",
-            "example": "La prova di matematica è lunga.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tema",
-            "pos": "noun",
-            "back": "essay, written composition",
-            "example": "Scrive un tema di italiano.",
-            "tier": "B1"
-          },
-          {
-            "front": "affrontare",
-            "pos": "verb",
-            "back": "to face, to deal with",
-            "example": "Deve affrontare un problema difficile.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'esame orale",
-            "pos": "phrase",
-            "back": "oral exam",
-            "example": "L'esame orale è la prossima settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "il professore",
-            "pos": "noun",
-            "back": "teacher, professor",
-            "example": "Il professore spiega la lezione.",
-            "tier": "A2"
-          },
-          {
-            "front": "il percorso",
-            "pos": "noun",
-            "back": "journey, path",
-            "example": "È stato un lungo percorso di studio.",
-            "tier": "B1"
-          },
-          {
-            "front": "dimenticare",
-            "pos": "verb",
-            "back": "to forget",
-            "example": "Non dimenticare le chiavi di casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "pieno di",
-            "pos": "phrase",
-            "back": "full of",
-            "example": "Il bicchiere è pieno di acqua.",
-            "tier": "A2"
-          },
-          {
-            "front": "il mondo del lavoro",
-            "pos": "phrase",
-            "back": "the world of work",
-            "example": "Dopo la scuola entra nel mondo del lavoro.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Dopo la prima prova, gli studenti devono affrontare altre prove scritte e un esame orale.",
-            "point": "Verbo modale 'dovere' + infinito",
-            "explanation": "'Devono' è il presente di 'dovere' e indica obbligo. Dopo un verbo modale si usa sempre l'infinito, qui 'affrontare'.",
-            "why_tricky": "'Dovere' è irregolare: io devo, tu devi, loro devono."
-          },
-          {
-            "sentence": "Per molti giovani è un momento pieno di emozione e anche di paura.",
-            "point": "Aggettivo 'pieno' + preposizione 'di'",
-            "explanation": "'Pieno di' significa 'che contiene molto'. La preposizione 'di' introduce ciò che riempie: emozione e paura.",
-            "why_tricky": "Si dice sempre 'pieno di' e non 'pieno con'."
-          },
-          {
-            "sentence": "Per questo motivo, è un giorno che gli studenti non dimenticano facilmente.",
-            "point": "Connettivo 'per questo motivo' + frase relativa con 'che'",
-            "explanation": "'Per questo motivo' introduce una conseguenza. 'Che' collega la frase relativa al nome 'giorno'.",
-            "why_tricky": "La negazione 'non' va prima del verbo: 'non dimenticano'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per questo motivo",
-            "meaning": "for this reason, that is why",
-            "example": "Era molto emozionato, per questo motivo non ha dormito."
-          },
-          {
-            "phrase": "in bocca al lupo",
-            "meaning": "good luck (said before a test or challenge)",
-            "example": "Domani c'è la maturità: in bocca al lupo a tutti!"
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cos'è la maturità e chi la fa?",
-            "type": "open"
-          },
-          {
-            "q": "Quali prove devono affrontare gli studenti durante l'esame?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la maturità è un giorno importante nella vita dei ragazzi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, gli esami sono utili o creano troppa ansia? Scrivi la tua opinione con un esempio."
       }
     }
   ]
