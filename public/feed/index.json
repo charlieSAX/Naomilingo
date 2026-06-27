@@ -1,7 +1,478 @@
 {
-  "generated_at": "2026-06-27T08:59:41Z",
+  "generated_at": "2026-06-27T20:11:50Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-27-mel-brooks-cento-anni",
+      "title": "Il re della parodia Mel Brooks compie 100 anni, 'ridere ti mantiene vivo'",
+      "source": "ANSA",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-mel-brooks-cento-anni",
+        "revision": 1,
+        "meta": {
+          "title": "Il re della parodia Mel Brooks compie 100 anni, 'ridere ti mantiene vivo'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/06/27/il-re-della-parodia-mel-brooks-compie-100-anni-ridere-ti-mantiene-vivo_f5bb45c0-47ad-4113-8f75-7bff9a6762a5.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "cultura",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Mel Brooks turns one hundred years old. He is a famous artist born in New York. For many people he is the king of parody and comedy. In his films he makes the audience laugh with funny and absurd stories. Brooks has won important prizes in cinema, theatre, music and television. For this reason he is considered a true legend. He often says a simple sentence: laughing keeps you alive.\n\nIn his long career, Mel Brooks has worked as a director, actor and writer. His parodies make fun of the classic film genres, such as horror and the western. Still today many people watch his films and laugh like the first time. His birthday is a chance to remember how important humour is. His story teaches us that laughing is good for the body and the mind.",
+        "resumen_es": "Mel Brooks compie cento anni. È un famoso artista nato a New York. Per molti è il re della parodia e della comicità. Nei suoi film fa ridere il pubblico con storie divertenti e assurde. Brooks ha vinto premi importanti nel cinema, nel teatro, nella musica e in televisione. Per questo è considerato una vera leggenda. Lui dice spesso una frase semplice: ridere ti mantiene vivo.\n\nNella sua lunga carriera, Mel Brooks ha lavorato come regista, attore e autore. Le sue parodie prendono in giro i generi classici del cinema, come l'horror e il western. Ancora oggi molte persone guardano i suoi film e ridono come la prima volta. Il suo compleanno è un'occasione per ricordare quanto è importante l'umorismo. La sua storia insegna che ridere fa bene al corpo e alla mente.",
+        "vocab": [
+          {
+            "front": "compiere gli anni",
+            "pos": "phrase",
+            "back": "to turn a certain age",
+            "example": "Domani mio fratello compie dieci anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'artista",
+            "pos": "noun",
+            "back": "artist",
+            "example": "Quell'artista è molto famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "la parodia",
+            "pos": "noun",
+            "back": "parody",
+            "example": "Il film è una parodia divertente.",
+            "tier": "B1"
+          },
+          {
+            "front": "la comicità",
+            "pos": "noun",
+            "back": "comedy, humour",
+            "example": "La sua comicità piace a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "far ridere",
+            "pos": "phrase",
+            "back": "to make (someone) laugh",
+            "example": "Questo comico fa ridere tutti.",
+            "tier": "A2"
+          },
+          {
+            "front": "il premio",
+            "pos": "noun",
+            "back": "prize, award",
+            "example": "Ha vinto un premio importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "la leggenda",
+            "pos": "noun",
+            "back": "legend",
+            "example": "È una leggenda della musica.",
+            "tier": "B1"
+          },
+          {
+            "front": "il regista",
+            "pos": "noun",
+            "back": "film director",
+            "example": "Il regista ha girato molti film.",
+            "tier": "B1"
+          },
+          {
+            "front": "prendere in giro",
+            "pos": "phrase",
+            "back": "to make fun of, to tease",
+            "example": "Il film prende in giro i supereroi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il compleanno",
+            "pos": "noun",
+            "back": "birthday",
+            "example": "Oggi è il mio compleanno.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'umorismo",
+            "pos": "noun",
+            "back": "humour",
+            "example": "Ha un grande senso dell'umorismo.",
+            "tier": "B1"
+          },
+          {
+            "front": "divertente",
+            "pos": "adj",
+            "back": "funny, entertaining",
+            "example": "È stata una serata molto divertente.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Mel Brooks compie cento anni.",
+            "point": "The verb 'compiere' for age",
+            "explanation": "To say how old someone is becoming, Italian uses 'compiere' + the number + 'anni', not the verb 'avere'.",
+            "why_tricky": "Learners often translate 'to turn 100' literally; the natural verb is 'compiere'."
+          },
+          {
+            "sentence": "Nei suoi film fa ridere il pubblico con storie divertenti e assurde.",
+            "point": "'Fare' + infinitive (causative)",
+            "explanation": "'Fa ridere' means 'makes (someone) laugh'; 'fare' plus an infinitive shows that the subject causes the action.",
+            "why_tricky": "'Nei' is also a combined preposition ('in' + 'i'), which beginners often forget to join."
+          },
+          {
+            "sentence": "La sua storia insegna che ridere fa bene al corpo e alla mente.",
+            "point": "Infinitive as a noun + 'fare bene a'",
+            "explanation": "'Ridere' here works like a noun ('laughing'), and 'fa bene a' means 'is good for', with the combined prepositions 'al' and 'alla'.",
+            "why_tricky": "English uses the '-ing' form, while Italian keeps the plain infinitive 'ridere'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "ridere ti mantiene vivo",
+            "meaning": "laughter keeps you alive (humour is good for you)",
+            "example": "Mio nonno dice sempre che ridere ti mantiene vivo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi è Mel Brooks e perché è famoso?",
+            "type": "open"
+          },
+          {
+            "q": "In quali settori ha vinto dei premi?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perché ridere fa bene alla salute?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 80 parole: qual è il film o il programma più divertente che hai visto? Spiega perché ti è piaciuto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-sara-curtis-nuoto-record",
+      "title": "Sara Curtis vola nei 100 stile libero al Settecolli, prima italiana sotto i 53”",
+      "source": "RAI News",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "nuoto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-sara-curtis-nuoto-record",
+        "revision": 1,
+        "meta": {
+          "title": "Sara Curtis vola nei 100 stile libero al Settecolli, prima italiana sotto i 53”",
+          "source": "RAI News",
+          "url": "https://www.rainews.it/articoli/2026/06/sara-curtis-vola-nei-100-stile-libero-al-settecolli-prima-italiana-sotto-i-53-d0cba68d-94ae-49db-934e-601d740d08b6.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "sport",
+            "nuoto"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Sara Curtis is a young Italian swimmer. At the Settecolli, a famous swimming meet in Rome, she achieved a great result. In the hundred metres freestyle she became the first Italian woman to go under fifty-three seconds. It is a very fast time and for her it is an important milestone. The crowd applauded her with enthusiasm. Sara confirms that she is one of the stars of Italian swimming.\n\nThis success comes after a week that was already very positive for the athlete. Results like this help Italian sport to grow and to dream big. Young swimmers can look to Sara as an example to follow. With training and commitment, they too can improve their own times. Now the fans hope to see her as a leading figure in the next international competitions.",
+        "resumen_es": "Sara Curtis è una giovane nuotatrice italiana. Al Settecolli, una famosa gara di nuoto a Roma, ha ottenuto un grande risultato. Nei cento metri stile libero è diventata la prima italiana a scendere sotto i cinquantatré secondi. È un tempo molto veloce e per lei è un traguardo importante. Il pubblico l'ha applaudita con entusiasmo. Sara conferma di essere una delle stelle del nuoto azzurro.\n\nQuesto successo arriva dopo una settimana già molto positiva per l'atleta. Risultati come questo aiutano lo sport italiano a crescere e a sognare in grande. Le giovani nuotatrici possono guardare a Sara come a un esempio da seguire. Con allenamento e impegno, anche loro possono migliorare i propri tempi. Ora i tifosi sperano di vederla protagonista nelle prossime gare internazionali.",
+        "vocab": [
+          {
+            "front": "la nuotatrice",
+            "pos": "noun",
+            "back": "swimmer (female)",
+            "example": "La nuotatrice si allena ogni giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "race, competition",
+            "example": "La gara comincia alle dieci.",
+            "tier": "A2"
+          },
+          {
+            "front": "il nuoto",
+            "pos": "noun",
+            "back": "swimming",
+            "example": "Il nuoto è il suo sport preferito.",
+            "tier": "A2"
+          },
+          {
+            "front": "ottenere",
+            "pos": "verb",
+            "back": "to obtain, to achieve",
+            "example": "Ha ottenuto un buon voto.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo stile libero",
+            "pos": "noun",
+            "back": "freestyle (swimming)",
+            "example": "È brava nello stile libero.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traguardo",
+            "pos": "noun",
+            "back": "finish line, goal",
+            "example": "Raggiungere il traguardo è una grande gioia.",
+            "tier": "B1"
+          },
+          {
+            "front": "applaudire",
+            "pos": "verb",
+            "back": "to applaud",
+            "example": "Tutti applaudono i vincitori.",
+            "tier": "B1"
+          },
+          {
+            "front": "il successo",
+            "pos": "noun",
+            "back": "success",
+            "example": "Il concerto è stato un successo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'allenamento",
+            "pos": "noun",
+            "back": "training",
+            "example": "L'allenamento è molto duro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'impegno",
+            "pos": "noun",
+            "back": "commitment, effort",
+            "example": "Studia con grande impegno.",
+            "tier": "B1"
+          },
+          {
+            "front": "migliorare",
+            "pos": "verb",
+            "back": "to improve",
+            "example": "Voglio migliorare il mio italiano.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano allo stadio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nei cento metri stile libero è diventata la prima italiana a scendere sotto i cinquantatré secondi.",
+            "point": "Passato prossimo with 'essere'",
+            "explanation": "'Diventare' forms the passato prossimo with 'essere', so the past participle agrees with the subject: 'è diventata' (feminine).",
+            "why_tricky": "Many verbs use 'avere', but verbs of change like 'diventare' take 'essere' and need agreement."
+          },
+          {
+            "sentence": "Il pubblico l'ha applaudita con entusiasmo.",
+            "point": "Agreement with a direct object pronoun",
+            "explanation": "With 'avere', the past participle agrees with a preceding direct object pronoun, so 'l'' (= la) gives 'applaudita'.",
+            "why_tricky": "Normally the participle does not change with 'avere', but a direct object pronoun before the verb forces agreement."
+          },
+          {
+            "sentence": "Con allenamento e impegno, anche loro possono migliorare i propri tempi.",
+            "point": "'Potere' + infinitive and 'i propri'",
+            "explanation": "'Possono migliorare' shows the modal verb 'potere' plus an infinitive; 'i propri' means 'their own'.",
+            "why_tricky": "Beginners may add a preposition before the infinitive, but after modal verbs none is needed."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sognare in grande",
+            "meaning": "to dream big",
+            "example": "Per riuscire nello sport bisogna sognare in grande."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che risultato ha ottenuto Sara Curtis al Settecolli?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questo successo è importante per lo sport italiano?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, che cosa serve per diventare un campione?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 80 parole: pratichi uno sport? Racconta come ti alleni o perché ti piacerebbe iniziare."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-27-etna-colata-lavica",
+      "title": "La colata lavica a quota 3000 metri sull'Etna vista da vicino",
+      "source": "RAI News",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "natura",
+        "vulcano"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-27-etna-colata-lavica",
+        "revision": 1,
+        "meta": {
+          "title": "La colata lavica a quota 3000 metri sull'Etna vista da vicino",
+          "source": "RAI News",
+          "url": "https://www.rainews.it/video/2026/06/video-colata-lavica-a-quota-3000-metri-sulletna-vulcano-aa3c3645-0cd7-4201-8a92-ec5dca0b2be6.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-27",
+          "tags": [
+            "natura",
+            "vulcano"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Etna is the largest volcano in Europe and it is in Sicily. These days a flow of lava is coming down from the volcano at three thousand metres of altitude. Some images show the lava very close up. The fire and the heat create an impressive sight. Experts are watching the eruption with great attention. For now the situation is not dangerous for the nearby towns.\n\nEtna is a very active volcano and eruptions are quite frequent. For this reason scientists monitor it every day. The lava can be beautiful to watch, but you must always keep a safe distance. Many tourists come to Sicily exactly to admire the volcano. Etna reminds everyone of the force of nature and its great power.",
+        "resumen_es": "L'Etna è il vulcano più grande d'Europa e si trova in Sicilia. In questi giorni una colata di lava scende dal vulcano a tremila metri di altezza. Alcune immagini mostrano la lava molto da vicino. Il fuoco e il calore creano uno spettacolo impressionante. Gli esperti osservano l'eruzione con grande attenzione. Per ora la situazione non è pericolosa per i paesi vicini.\n\nL'Etna è un vulcano molto attivo e le eruzioni sono abbastanza frequenti. Per questo gli scienziati lo controllano ogni giorno. La lava può essere bella da vedere, ma bisogna sempre mantenere la distanza di sicurezza. Molti turisti arrivano in Sicilia proprio per ammirare il vulcano. L'Etna ricorda a tutti la forza della natura e il suo grande potere.",
+        "vocab": [
+          {
+            "front": "il vulcano",
+            "pos": "noun",
+            "back": "volcano",
+            "example": "Il vulcano è molto alto.",
+            "tier": "A2"
+          },
+          {
+            "front": "la colata di lava",
+            "pos": "noun",
+            "back": "lava flow",
+            "example": "La colata di lava scende lentamente.",
+            "tier": "B1"
+          },
+          {
+            "front": "scendere",
+            "pos": "verb",
+            "back": "to come/go down",
+            "example": "La lava scende dalla montagna.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'altezza",
+            "pos": "noun",
+            "back": "height, altitude",
+            "example": "L'aereo vola ad alta quota.",
+            "tier": "A2"
+          },
+          {
+            "front": "il calore",
+            "pos": "noun",
+            "back": "heat",
+            "example": "Si sente il calore del fuoco.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettacolo",
+            "pos": "noun",
+            "back": "sight, show",
+            "example": "Il tramonto è uno spettacolo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'eruzione",
+            "pos": "noun",
+            "back": "eruption",
+            "example": "L'eruzione è iniziata stanotte.",
+            "tier": "B1"
+          },
+          {
+            "front": "pericoloso",
+            "pos": "adj",
+            "back": "dangerous",
+            "example": "Quella strada è pericolosa.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo scienziato",
+            "pos": "noun",
+            "back": "scientist",
+            "example": "Lo scienziato studia il clima.",
+            "tier": "B1"
+          },
+          {
+            "front": "controllare",
+            "pos": "verb",
+            "back": "to monitor, to check",
+            "example": "I medici controllano i pazienti.",
+            "tier": "A2"
+          },
+          {
+            "front": "la distanza di sicurezza",
+            "pos": "noun",
+            "back": "safe distance",
+            "example": "Mantieni la distanza di sicurezza.",
+            "tier": "B1"
+          },
+          {
+            "front": "ammirare",
+            "pos": "verb",
+            "back": "to admire",
+            "example": "I turisti ammirano il panorama.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'Etna è il vulcano più grande d'Europa e si trova in Sicilia.",
+            "point": "Relative superlative + reflexive 'si trova'",
+            "explanation": "'Il più grande' is the relative superlative ('the biggest'), and 'si trova' is the common reflexive way to say where something is located.",
+            "why_tricky": "Learners may use 'è' for location, but Italian often prefers 'si trova'."
+          },
+          {
+            "sentence": "La lava può essere bella da vedere, ma bisogna sempre mantenere la distanza di sicurezza.",
+            "point": "'Bisogna' + infinitive (impersonal)",
+            "explanation": "'Bisogna' means 'it is necessary / one must' and is always followed by an infinitive; 'da vedere' means 'to see / to be seen'.",
+            "why_tricky": "'Bisogna' never changes form and takes no personal subject, unlike English 'you must'."
+          },
+          {
+            "sentence": "Molti turisti arrivano in Sicilia proprio per ammirare il vulcano.",
+            "point": "'Per' + infinitive to show purpose",
+            "explanation": "'Per ammirare' expresses why they come ('in order to admire'); with regions Italian uses 'in' ('in Sicilia').",
+            "why_tricky": "English uses 'to + verb' for purpose, while Italian needs 'per' before the infinitive."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da vicino",
+            "meaning": "close up, from up close",
+            "example": "Ho visto il leone da vicino allo zoo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove si trova l'Etna e perché è famoso?",
+            "type": "open"
+          },
+          {
+            "q": "Perché gli scienziati controllano il vulcano ogni giorno?",
+            "type": "open"
+          },
+          {
+            "q": "Ti piacerebbe vedere un vulcano da vicino? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 80 parole: descrivi un luogo della natura che ti ha colpito. Com'era e che cosa hai provato?"
+      }
+    },
     {
       "pack_id": "feed-2026-06-27-cani-estate",
       "title": "Fondazione Cave Canem: i consigli utili per il benessere dei cani in estate",
@@ -6269,506 +6740,6 @@
           }
         ],
         "opinion_prompt": "Ti piace viaggiare in posti tranquilli o preferisci le città famose e piene di gente? Scrivi un breve testo e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-kpop-demon-hunters",
-      "title": "Fenomeno KPop Demon Hunters, a un anno dall'uscita resta blockbuster su Netflix",
-      "source": "ANSA",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-kpop-demon-hunters",
-        "revision": 1,
-        "meta": {
-          "title": "Fenomeno KPop Demon Hunters, a un anno dall'uscita resta blockbuster su Netflix",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/06/18/fenomeno-kpop-demon-hunters-a-un-anno-dalluscita-resta-blockbuster-su-netflix_17084544-d7e0-4514-bcf9-bf81414f076c.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "cinema",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A film called 'KPop Demon Hunters' is still a big success on Netflix. It came out a year ago, but it is still very popular. According to ANSA, the film stayed for 52 weeks in a row in the platform's global Top 10. This means that many people, all over the world, still watch it today.\n\nThe film combines K-pop music with a story of action and fantasy. The main characters are singers, but they also fight against demons. This original idea is especially popular with young people. The success was so big that the film won two Oscars. That is an important result for an animated film. Its story shows that today online platforms can create real cultural phenomena, able to bring together music, cinema and an audience from every country.",
-        "resumen_es": "Un film chiamato 'KPop Demon Hunters' continua ad avere un grande successo su Netflix. È uscito un anno fa, ma è ancora molto popolare. Secondo l'ANSA, il film è rimasto per 52 settimane di fila nella Top 10 mondiale della piattaforma. Questo significa che tante persone, in tutto il mondo, lo guardano ancora oggi.\n\nIl film unisce la musica K-pop e una storia di azione e fantasia. I protagonisti sono cantanti, ma combattono anche contro i demoni. Questa idea originale piace soprattutto ai giovani. Il successo è stato così grande che il film ha vinto due premi Oscar. È un risultato importante per un film d'animazione. La sua storia dimostra che oggi le piattaforme online possono creare veri fenomeni culturali, capaci di unire musica, cinema e pubblico di ogni Paese.",
-        "vocab": [
-          {
-            "front": "il film",
-            "pos": "noun",
-            "back": "the film, the movie",
-            "example": "Guardo un film stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "il successo",
-            "pos": "noun",
-            "back": "the success",
-            "example": "Il film ha molto successo.",
-            "tier": "A2"
-          },
-          {
-            "front": "uscire",
-            "pos": "verb",
-            "back": "to come out, to be released",
-            "example": "Il film esce domani al cinema.",
-            "tier": "A2"
-          },
-          {
-            "front": "popolare",
-            "pos": "adj",
-            "back": "popular",
-            "example": "È una canzone molto popolare.",
-            "tier": "A2"
-          },
-          {
-            "front": "la piattaforma",
-            "pos": "noun",
-            "back": "the platform",
-            "example": "Netflix è una piattaforma online.",
-            "tier": "B1"
-          },
-          {
-            "front": "il protagonista",
-            "pos": "noun",
-            "back": "the main character",
-            "example": "Il protagonista è un ragazzo giovane.",
-            "tier": "B1"
-          },
-          {
-            "front": "combattere",
-            "pos": "verb",
-            "back": "to fight",
-            "example": "I soldati combattono in guerra.",
-            "tier": "B1"
-          },
-          {
-            "front": "il premio",
-            "pos": "noun",
-            "back": "the prize, the award",
-            "example": "Ha vinto un premio importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "originale",
-            "pos": "adj",
-            "back": "original",
-            "example": "È un'idea molto originale.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the audience, the public",
-            "example": "Il pubblico applaude alla fine.",
-            "tier": "B1"
-          },
-          {
-            "front": "soprattutto",
-            "pos": "adv",
-            "back": "especially, above all",
-            "example": "Mi piace soprattutto la musica.",
-            "tier": "A2"
-          },
-          {
-            "front": "dimostrare",
-            "pos": "verb",
-            "back": "to show, to prove",
-            "example": "Questo dimostra che hai ragione.",
-            "tier": "B1"
-          },
-          {
-            "front": "di fila",
-            "pos": "phrase",
-            "back": "in a row, consecutively",
-            "example": "Ho lavorato cinque giorni di fila.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "È uscito un anno fa, ma è ancora molto popolare.",
-            "point": "Il passato prossimo con l'ausiliare 'essere' (è uscito) e l'avverbio 'fa'.",
-            "explanation": "Il verbo 'uscire' usa l'ausiliare 'essere', quindi il participio si accorda: 'è uscito' (il film). 'Fa' indica un tempo passato: 'un anno fa'.",
-            "why_tricky": "Molti usano 'avere' al posto di 'essere' con i verbi di movimento e dimenticano l'accordo del participio."
-          },
-          {
-            "sentence": "I protagonisti sono cantanti, ma combattono anche contro i demoni.",
-            "point": "Il presente indicativo dei verbi (sono, combattono) e la congiunzione 'ma'.",
-            "explanation": "Il presente descrive ciò che accade nel film. 'Sono' e 'combattono' sono al plurale perché il soggetto è 'i protagonisti'. 'Ma' introduce un contrasto.",
-            "why_tricky": "La coniugazione di 'combattere' alla terza persona plurale ('combattono') confonde chi non ricorda l'accento."
-          },
-          {
-            "sentence": "Il successo è stato così grande che il film ha vinto due premi Oscar.",
-            "point": "La struttura 'così... che' per esprimere una conseguenza.",
-            "explanation": "'Così grande che' introduce il risultato di qualcosa: il successo è grande, e la conseguenza è che il film ha vinto due Oscar.",
-            "why_tricky": "Si confonde 'così... che' (conseguenza) con 'come' (paragone) o si dimentica il 'che'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere successo",
-            "meaning": "andare molto bene, piacere a molte persone",
-            "example": "Il suo nuovo libro ha avuto molto successo."
-          },
-          {
-            "phrase": "di fila",
-            "meaning": "uno dopo l'altro, senza interruzione",
-            "example": "Ho guardato tre episodi di fila."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Da quanto tempo è uscito il film e perché è ancora famoso?",
-            "type": "open"
-          },
-          {
-            "q": "Di che cosa parla la storia del film?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il successo di questo film è importante per le piattaforme online?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacciono i film o le serie che uniscono musica e azione? Scrivi un breve testo e parla di un film o di una serie che ti è piaciuto molto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-social-neogenitori",
-      "title": "I rischi della dipendenza da social, campagna destinata ai neogenitori: \"Non è mai troppo presto!\"",
-      "source": "RaiNews",
-      "date": "2026-06-19",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-social-neogenitori",
-        "revision": 1,
-        "meta": {
-          "title": "I rischi della dipendenza da social, campagna destinata ai neogenitori: \"Non è mai troppo presto!\"",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/06/i-rischi-della-dipendenza-da-social-campagna-destinata-ai-neogenitori-non-e-mai-troppo-presto--1d8631ed-9273-42de-881a-3ec4d87e0db2.html",
-          "date_published": "2026-06-19",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "società",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A new campaign talks about the risks of addiction to social networks. According to RaiNews, the campaign is aimed at new parents, that is, parents who have just had a baby. The message is clear: it is never too early to think about this problem. For this reason, in hospitals a small brochure with nine useful tips is handed out.\n\nThe idea is simple but important. Parents use their phone a lot, even in front of their small children. Children learn by watching adults and they copy their behaviour. If mum and dad check social media every minute, the children too risk doing the same when they grow up. The campaign therefore invites families to use technology with more care. The goal is not to eliminate social media, but to find a healthy balance between real life and the online world.",
-        "resumen_es": "Una nuova campagna parla dei rischi della dipendenza dai social network. Secondo RaiNews, la campagna è rivolta ai neogenitori, cioè ai genitori che hanno appena avuto un bambino. Il messaggio è chiaro: non è mai troppo presto per pensare a questo problema. Per questo motivo, negli ospedali viene distribuita una piccola brochure con nove consigli utili.\n\nL'idea è semplice ma importante. I genitori usano molto il telefono, anche davanti ai figli piccoli. I bambini imparano guardando gli adulti e copiano i loro comportamenti. Se mamma e papà controllano i social ogni minuto, anche i figli rischiano di fare lo stesso da grandi. La campagna invita quindi le famiglie a usare la tecnologia con più attenzione. L'obiettivo non è eliminare i social, ma trovare un equilibrio sano tra la vita reale e il mondo online.",
-        "vocab": [
-          {
-            "front": "la dipendenza",
-            "pos": "noun",
-            "back": "addiction, dependence",
-            "example": "La dipendenza dal telefono è un problema.",
-            "tier": "B1"
-          },
-          {
-            "front": "i social network",
-            "pos": "noun",
-            "back": "social media",
-            "example": "Passo troppo tempo sui social network.",
-            "tier": "A2"
-          },
-          {
-            "front": "il genitore",
-            "pos": "noun",
-            "back": "the parent",
-            "example": "I genitori amano i loro figli.",
-            "tier": "A2"
-          },
-          {
-            "front": "il consiglio",
-            "pos": "noun",
-            "back": "the advice, the tip",
-            "example": "Ti do un consiglio utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'ospedale",
-            "pos": "noun",
-            "back": "the hospital",
-            "example": "Il bambino è nato in ospedale.",
-            "tier": "A2"
-          },
-          {
-            "front": "distribuire",
-            "pos": "verb",
-            "back": "to hand out, to distribute",
-            "example": "Distribuiscono i volantini in strada.",
-            "tier": "B1"
-          },
-          {
-            "front": "il comportamento",
-            "pos": "noun",
-            "back": "the behaviour",
-            "example": "Il suo comportamento è un po' strano.",
-            "tier": "B1"
-          },
-          {
-            "front": "copiare",
-            "pos": "verb",
-            "back": "to copy",
-            "example": "I bambini copiano gli adulti.",
-            "tier": "A2"
-          },
-          {
-            "front": "rischiare",
-            "pos": "verb",
-            "back": "to risk",
-            "example": "Rischi di arrivare tardi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'equilibrio",
-            "pos": "noun",
-            "back": "the balance",
-            "example": "Cerco un equilibrio tra lavoro e famiglia.",
-            "tier": "B1"
-          },
-          {
-            "front": "sano",
-            "pos": "adj",
-            "back": "healthy",
-            "example": "Una dieta sana fa bene.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "the goal, the objective",
-            "example": "Il mio obiettivo è imparare l'italiano.",
-            "tier": "B1"
-          },
-          {
-            "front": "appena",
-            "pos": "adv",
-            "back": "just (recently)",
-            "example": "Sono appena arrivato a casa.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il messaggio è chiaro: non è mai troppo presto per pensare a questo problema.",
-            "point": "La struttura impersonale 'non è mai troppo presto per + infinito'.",
-            "explanation": "'È presto' è una forma impersonale (non ha un soggetto preciso). 'Per' introduce l'infinito 'pensare' e indica lo scopo.",
-            "why_tricky": "La posizione di 'mai' tra 'non' e il verbo confonde, perché in altre lingue la doppia negazione non si usa."
-          },
-          {
-            "sentence": "I bambini imparano guardando gli adulti e copiano i loro comportamenti.",
-            "point": "Il gerundio 'guardando' per esprimere il modo.",
-            "explanation": "Il gerundio 'guardando' spiega come i bambini imparano: imparano mentre guardano. Si forma con la radice del verbo più '-ando' (prima coniugazione).",
-            "why_tricky": "Si confonde il gerundio italiano con quello inglese, che spesso funziona da soggetto o sostantivo."
-          },
-          {
-            "sentence": "L'obiettivo non è eliminare i social, ma trovare un equilibrio sano tra la vita reale e il mondo online.",
-            "point": "La correlazione 'non... ma' seguita dall'infinito.",
-            "explanation": "'Non eliminare... ma trovare' contrappone due azioni: si nega la prima e si afferma la seconda. Entrambi i verbi sono all'infinito.",
-            "why_tricky": "Si tende a cambiare il modo dei verbi o ad aggiungere un articolo davanti all'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non è mai troppo presto",
-            "meaning": "si può o si deve iniziare già adesso, anche se sembra molto presto",
-            "example": "Per imparare le lingue non è mai troppo presto."
-          },
-          {
-            "phrase": "trovare un equilibrio",
-            "meaning": "riuscire a bilanciare due cose diverse senza esagerare",
-            "example": "È difficile trovare un equilibrio tra studio e tempo libero."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "A chi è rivolta questa campagna e dove viene distribuita la brochure?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il comportamento dei genitori è importante per i bambini?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il vero obiettivo della campagna?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Quanto tempo passi ogni giorno sui social? Scrivi un breve testo e spiega se secondo te è troppo, poco o giusto, e perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-18-vasco-concerti-roma",
-      "title": "Vasco annuncia i 10 concerti del 2027 allo Stadio Olimpico di Roma",
-      "source": "RaiNews",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-18-vasco-concerti-roma",
-        "revision": 1,
-        "meta": {
-          "title": "Vasco annuncia i 10 concerti del 2027 allo Stadio Olimpico di Roma",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/video/2026/06/vasco-annuncia-i-10-concerti-del-2027-allo-stadio-olimpico-di-roma-83e41f74-ff03-4d1c-b361-ad59571db79f.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-18",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Vasco Rossi has announced great news for his fans. In 2027 the singer will hold ten concerts at the Olympic Stadium in Rome. In this way he is celebrating fifty years of his career. Vasco is one of the most loved artists in Italy and his music accompanies many generations. For this reason the excitement among the public is already very high.\n\nThe organisers expect about half a million people across all the concerts. For Rome this means many tourists, a lot of work for the hotels and the restaurants. Buying the tickets, however, will not be easy, because demand is enormous. Many fans are already getting ready so as not to miss this special event. It will surely be a great celebration of Italian music.",
-        "resumen_es": "Vasco Rossi ha annunciato una grande notizia per i suoi fan. Nel 2027 il cantante terrà dieci concerti allo Stadio Olimpico di Roma. In questo modo festeggia cinquanta anni di carriera. Vasco è uno degli artisti più amati in Italia e la sua musica accompagna molte generazioni. Per questo l'attesa tra il pubblico è già altissima.\n\nGli organizzatori aspettano circa mezzo milione di persone durante tutti i concerti. Per Roma questo significa molti turisti, molto lavoro per gli alberghi e per i ristoranti. Comprare i biglietti, però, non sarà facile, perché la richiesta è enorme. Molti fan si preparano già per non perdere questo evento speciale. Sarà sicuramente una grande festa della musica italiana.",
-        "vocab": [
-          {
-            "front": "annunciare",
-            "pos": "verb",
-            "back": "to announce",
-            "example": "Il governo annuncia nuove regole.",
-            "tier": "A2"
-          },
-          {
-            "front": "cantante",
-            "pos": "noun",
-            "back": "singer",
-            "example": "Il cantante saluta il pubblico.",
-            "tier": "A2"
-          },
-          {
-            "front": "concerto",
-            "pos": "noun",
-            "back": "concert",
-            "example": "Andiamo al concerto sabato sera.",
-            "tier": "A2"
-          },
-          {
-            "front": "carriera",
-            "pos": "noun",
-            "back": "career",
-            "example": "Ha avuto una lunga carriera nel cinema.",
-            "tier": "B1"
-          },
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "Festeggiamo il compleanno di Maria.",
-            "tier": "A2"
-          },
-          {
-            "front": "attesa",
-            "pos": "noun",
-            "back": "wait, anticipation",
-            "example": "L'attesa per il film è grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "biglietto",
-            "pos": "noun",
-            "back": "ticket",
-            "example": "Ho comprato due biglietti per il treno.",
-            "tier": "A2"
-          },
-          {
-            "front": "richiesta",
-            "pos": "noun",
-            "back": "demand, request",
-            "example": "C'è molta richiesta di case in centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico applaude felice.",
-            "tier": "A2"
-          },
-          {
-            "front": "albergo",
-            "pos": "noun",
-            "back": "hotel",
-            "example": "Dormiamo in un albergo vicino al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "perdere",
-            "pos": "verb",
-            "back": "to miss, to lose",
-            "example": "Non voglio perdere il treno.",
-            "tier": "A2"
-          },
-          {
-            "front": "evento",
-            "pos": "noun",
-            "back": "event",
-            "example": "È stato un evento molto importante.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nel 2027 il cantante terrà dieci concerti allo Stadio Olimpico di Roma.",
-            "point": "Futuro semplice irregolare",
-            "explanation": "'Terrà' è il futuro irregolare del verbo 'tenere' e qui significa 'farà' o 'organizzerà' i concerti.",
-            "why_tricky": "Molti verbi comuni hanno un futuro irregolare che non segue la radice dell'infinito."
-          },
-          {
-            "sentence": "Vasco è uno degli artisti più amati in Italia e la sua musica accompagna molte generazioni.",
-            "point": "Superlativo relativo",
-            "explanation": "'Uno degli artisti più amati' indica che Vasco fa parte di un piccolo gruppo dei migliori.",
-            "why_tricky": "Bisogna usare 'degli' (di + gli) e l'aggettivo deve concordare al plurale."
-          },
-          {
-            "sentence": "Comprare i biglietti, però, non sarà facile, perché la richiesta è enorme.",
-            "point": "Infinito come soggetto",
-            "explanation": "'Comprare i biglietti' è il soggetto della frase, come dire 'l'azione di comprare'.",
-            "why_tricky": "In inglese si userebbe la forma in -ing, quindi gli studenti dimenticano l'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non vedere l'ora",
-            "meaning": "to look forward to, to not be able to wait",
-            "example": "Non vedo l'ora di andare al concerto."
-          },
-          {
-            "phrase": "fare il tutto esaurito",
-            "meaning": "to sell out (all tickets gone)",
-            "example": "Il concerto ha fatto il tutto esaurito in un giorno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha annunciato Vasco Rossi per il 2027?",
-            "type": "open"
-          },
-          {
-            "q": "Perché secondo il testo non sarà facile comprare i biglietti?",
-            "type": "open"
-          },
-          {
-            "q": "Quali vantaggi porteranno i concerti alla città di Roma?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace andare ai concerti? Scrivi un breve testo e racconta qual è il concerto o l'artista che vorresti vedere dal vivo e perché."
       }
     }
   ]
