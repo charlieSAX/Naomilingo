@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-06-28T08:15:01Z",
+  "generated_at": "2026-06-28T20:18:43Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-28-fratelli-gol-mondiali",
+      "title": "Mondiali: Luckassen e Brobbey, i fratelli in gol con nazionali diverse",
+      "source": "RaiNews",
+      "date": "2026-06-28",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "famiglia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-fratelli-gol-mondiali",
+        "revision": 1,
+        "meta": {
+          "title": "Mondiali: Luckassen e Brobbey, i fratelli in gol con nazionali diverse",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/06/calcio-coppa-del-mondo-mondiali-2026-luckassen-e-brobbey-fratelli-in-gol-con-nazionali-diverse-d2a9717d-2cc9-458a-bf52-66fabf900b79.html",
+          "date_published": "2026-06-28",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "calcio",
+            "famiglia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "At the 2026 football World Cup something very unusual happened. Two brothers scored a goal on the same day, but with two different national teams. Their names are Luckassen and Brobbey. The two have the same mother, but two different fathers. For this reason they play for different countries. The first brother scored wearing the shirt of Ghana. The second one even scored three goals wearing the shirt of the Netherlands. For their family it was a really special day, full of emotions.\n\nStories like this are not common in the world of football. Today many players have families that come from different countries. For this reason brothers sometimes choose to play for different national teams. For many fans it is a nice sign of our times, because sport can unite cultures and faraway countries.",
+        "resumen_es": "Ai Mondiali di calcio del 2026 e successa una cosa molto particolare. Due fratelli hanno segnato un gol nello stesso giorno, ma con due squadre nazionali diverse. Si chiamano Luckassen e Brobbey. I due hanno la stessa madre, ma due padri diversi. Per questo motivo giocano per Paesi diversi. Il primo fratello ha segnato con la maglia del Ghana. Il secondo ha fatto addirittura tre gol con la maglia dei Paesi Bassi. Per la loro famiglia e stata una giornata davvero speciale e piena di emozioni.\n\nStorie come questa non sono comuni nel mondo del calcio. Oggi molti giocatori hanno famiglie che vengono da Paesi diversi. Per questo a volte i fratelli scelgono di giocare per nazionali diverse. Per molti tifosi e un bel segno dei nostri tempi, perche lo sport puo unire culture e Paesi lontani.",
+        "vocab": [
+          {
+            "front": "fratello",
+            "pos": "noun",
+            "back": "brother",
+            "example": "Ho un fratello piu grande.",
+            "tier": "A2"
+          },
+          {
+            "front": "segnare un gol",
+            "pos": "phrase",
+            "back": "to score a goal",
+            "example": "Il giocatore ha segnato un gol.",
+            "tier": "A2"
+          },
+          {
+            "front": "squadra",
+            "pos": "noun",
+            "back": "team",
+            "example": "La nostra squadra ha vinto.",
+            "tier": "A2"
+          },
+          {
+            "front": "nazionale",
+            "pos": "noun",
+            "back": "national team",
+            "example": "Gioca nella nazionale del Ghana.",
+            "tier": "B1"
+          },
+          {
+            "front": "maglia",
+            "pos": "noun",
+            "back": "shirt, jersey",
+            "example": "Indossa la maglia numero dieci.",
+            "tier": "A2"
+          },
+          {
+            "front": "stesso",
+            "pos": "adj",
+            "back": "same",
+            "example": "Hanno la stessa madre.",
+            "tier": "A2"
+          },
+          {
+            "front": "diverso",
+            "pos": "adj",
+            "back": "different",
+            "example": "Giocano per Paesi diversi.",
+            "tier": "A2"
+          },
+          {
+            "front": "tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "Sono un grande tifoso del calcio.",
+            "tier": "B1"
+          },
+          {
+            "front": "giornata",
+            "pos": "noun",
+            "back": "day",
+            "example": "E stata una bella giornata.",
+            "tier": "A2"
+          },
+          {
+            "front": "scegliere",
+            "pos": "verb",
+            "back": "to choose",
+            "example": "Deve scegliere una nazionale.",
+            "tier": "B1"
+          },
+          {
+            "front": "unire",
+            "pos": "verb",
+            "back": "to unite, bring together",
+            "example": "Lo sport puo unire le persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "addirittura",
+            "pos": "adv",
+            "back": "even, actually",
+            "example": "Ha fatto addirittura tre gol.",
+            "tier": "B1"
+          },
+          {
+            "front": "lontano",
+            "pos": "adj",
+            "back": "far, distant",
+            "example": "Vengono da Paesi lontani.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Due fratelli hanno segnato un gol nello stesso giorno, ma con due squadre nazionali diverse.",
+            "point": "passato prossimo con avere",
+            "explanation": "The passato prossimo is formed with the present of avere plus the past participle (hanno segnato) to talk about a completed action.",
+            "why_tricky": "With avere the participle does not change for the subject, so it stays segnato even though the subject is plural."
+          },
+          {
+            "sentence": "Per questo a volte i fratelli scelgono di giocare per nazionali diverse.",
+            "point": "scegliere di + infinito",
+            "explanation": "Some verbs, like scegliere, need the preposition di before another verb in the infinitive (di giocare).",
+            "why_tricky": "You must learn which verbs take di, which take a and which take nothing; scegliere always takes di."
+          },
+          {
+            "sentence": "Il secondo ha fatto addirittura tre gol con la maglia dei Paesi Bassi.",
+            "point": "preposizioni articolate",
+            "explanation": "Prepositions combine with the article: di + i becomes dei, and di + il becomes del.",
+            "why_tricky": "Beginners often keep them separate (di i), but Italian joins them into one word (dei, del, della)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare il tifo per",
+            "meaning": "to root for, to support a team",
+            "example": "Faccio il tifo per l'Italia."
+          },
+          {
+            "phrase": "un segno dei tempi",
+            "meaning": "a sign of the times, something typical of today",
+            "example": "Queste storie sono un segno dei tempi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche i due fratelli giocano per nazionali diverse?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa hanno fatto Luckassen e Brobbey nello stesso giorno?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perche questa storia e un bel segno dei nostri tempi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, lo sport puo davvero unire persone di Paesi diversi? Scrivi la tua opinione con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-expoaid-inclusione",
+      "title": "Seimila persone a ExpoAid 2026, l'appuntamento con l'inclusione",
+      "source": "RaiNews",
+      "date": "2026-06-28",
+      "level": "A2-B1",
+      "topics": [
+        "inclusione",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-expoaid-inclusione",
+        "revision": 1,
+        "meta": {
+          "title": "Seimila persone a ExpoAid 2026, l'appuntamento con l'inclusione",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/video/2026/06/expoaid-2026-rimini-inclusione-persone-con-disabilita-2b3c54e3-70c2-47fa-9d0f-d8f03958d380.html",
+          "date_published": "2026-06-28",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "inclusione",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Rimini ExpoAid 2026 took place, a big event dedicated to inclusion. About six thousand people took part. The event is promoted by the Ministry for Disabilities. The aim is simple but important: to talk about the rights of people with disabilities and to show how they live every day. During the days there were meetings, debates and activities for everyone. Many associations presented their projects. ExpoAid confirms itself as one of the biggest national events on this subject.\n\nInclusion means giving everyone the same opportunities. For people with disabilities it is not always easy, because they often find many barriers. They can be physical barriers, like stairs, but also cultural barriers, like prejudices. Events like ExpoAid serve exactly this purpose: to make people talk and to change the way of thinking. In the end, a more inclusive society is a better society for everyone.",
+        "resumen_es": "A Rimini si e svolto ExpoAid 2026, un grande evento dedicato all'inclusione. Hanno partecipato circa seimila persone. L'evento e promosso dal Ministero per le Disabilita. Lo scopo e semplice ma importante: parlare dei diritti delle persone con disabilita e mostrare come vivono ogni giorno. Durante le giornate ci sono stati incontri, dibattiti e attivita per tutti. Molte associazioni hanno presentato i loro progetti. ExpoAid si conferma come uno dei piu grandi appuntamenti nazionali su questo tema.\n\nL'inclusione vuol dire dare a tutti le stesse possibilita. Per le persone con disabilita non e sempre facile, perche spesso trovano molte barriere. Possono essere barriere fisiche, come le scale, ma anche barriere culturali, come i pregiudizi. Eventi come ExpoAid servono proprio a questo: far parlare le persone e cambiare il modo di pensare. Alla fine, una societa piu inclusiva e una societa migliore per tutti.",
+        "vocab": [
+          {
+            "front": "evento",
+            "pos": "noun",
+            "back": "event",
+            "example": "L'evento e stato un successo.",
+            "tier": "A2"
+          },
+          {
+            "front": "inclusione",
+            "pos": "noun",
+            "back": "inclusion",
+            "example": "L'inclusione e importante per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "disabilita",
+            "pos": "noun",
+            "back": "disability",
+            "example": "Lavora con persone con disabilita.",
+            "tier": "B1"
+          },
+          {
+            "front": "partecipare",
+            "pos": "verb",
+            "back": "to take part",
+            "example": "Migliaia di persone hanno partecipato.",
+            "tier": "A2"
+          },
+          {
+            "front": "diritto",
+            "pos": "noun",
+            "back": "right",
+            "example": "Tutti hanno gli stessi diritti.",
+            "tier": "B1"
+          },
+          {
+            "front": "scopo",
+            "pos": "noun",
+            "back": "aim, purpose",
+            "example": "Lo scopo dell'evento e chiaro.",
+            "tier": "B1"
+          },
+          {
+            "front": "barriera",
+            "pos": "noun",
+            "back": "barrier",
+            "example": "Le scale sono una barriera per molti.",
+            "tier": "B1"
+          },
+          {
+            "front": "pregiudizio",
+            "pos": "noun",
+            "back": "prejudice",
+            "example": "Dobbiamo combattere i pregiudizi.",
+            "tier": "B1"
+          },
+          {
+            "front": "associazione",
+            "pos": "noun",
+            "back": "association, charity",
+            "example": "L'associazione aiuta le famiglie.",
+            "tier": "B1"
+          },
+          {
+            "front": "societa",
+            "pos": "noun",
+            "back": "society",
+            "example": "Vogliamo una societa piu giusta.",
+            "tier": "A2"
+          },
+          {
+            "front": "svolgersi",
+            "pos": "verb",
+            "back": "to take place",
+            "example": "L'evento si svolge a Rimini.",
+            "tier": "B1"
+          },
+          {
+            "front": "vuol dire",
+            "pos": "phrase",
+            "back": "it means",
+            "example": "Inclusione vuol dire uguaglianza.",
+            "tier": "A2"
+          },
+          {
+            "front": "migliore",
+            "pos": "adj",
+            "back": "better",
+            "example": "Domani sara un giorno migliore.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Rimini si e svolto ExpoAid 2026, un grande evento dedicato all'inclusione.",
+            "point": "verbi con si + essere",
+            "explanation": "Svolgersi is a pronominal verb; in the passato prossimo it uses essere, so the participle agrees: si e svolto (event, masculine singular).",
+            "why_tricky": "With essere the participle must agree in gender and number, unlike verbs that use avere."
+          },
+          {
+            "sentence": "L'inclusione vuol dire dare a tutti le stesse possibilita.",
+            "point": "voler dire = to mean",
+            "explanation": "The expression voler dire literally is 'to want to say', but it is the normal way to say 'to mean'.",
+            "why_tricky": "Translated word for word it makes no sense in English, so it has to be learned as a fixed expression."
+          },
+          {
+            "sentence": "Per le persone con disabilita non e sempre facile, perche spesso trovano molte barriere.",
+            "point": "perche = because",
+            "explanation": "Perche introduces the reason here and is followed by the indicative (trovano).",
+            "why_tricky": "The same word perche means both 'why' in questions and 'because' in answers, so context decides the meaning."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "voler dire",
+            "meaning": "to mean",
+            "example": "Che cosa vuol dire questa parola?"
+          },
+          {
+            "phrase": "alla fine",
+            "meaning": "in the end, after all",
+            "example": "Alla fine tutto e andato bene."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cos'e ExpoAid e dove si e svolto?",
+            "type": "open"
+          },
+          {
+            "q": "Quali tipi di barriere devono affrontare le persone con disabilita?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perche una societa piu inclusiva e migliore per tutti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, che cosa possiamo fare ogni giorno per rendere la societa piu inclusiva? Scrivi le tue idee."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-ghiacciai-alpi-caldo",
+      "title": "Caldo, sui ghiacciai delle Alpi lo zero termico sopra 4.500 metri",
+      "source": "ANSA",
+      "date": "2026-06-28",
+      "level": "A2-B1",
+      "topics": [
+        "clima",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-ghiacciai-alpi-caldo",
+        "revision": 1,
+        "meta": {
+          "title": "Caldo, sui ghiacciai delle Alpi lo zero termico sopra 4.500 metri",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/06/27/caldo-sui-ghiacciai-delle-alpi-lo-zero-termico-sopra-4.500-metri_18ef1698-6f94-40f4-ab77-cbd69ced3c1f.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "clima",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "These days it is very hot even high in the mountains. On the Alps the freezing level has risen above 4,500 metres. The freezing level is the point where the temperature reaches zero degrees. When it is so high, it means that it is hot even on the highest peaks. For this reason there is little snow and the glaciers melt quickly. Scientists are worried. They say that, with little snow, soon water will start to be missing in rivers and lakes.\n\nThis problem does not concern only the mountains. The water from the glaciers is useful to everyone: to the cities, to agriculture and to the animals. If the glaciers become smaller every year, in the future we will have less water to live and to work. Experts say that the heat of these years is linked to the change of the climate. Even small gestures, like not wasting water, can help.",
+        "resumen_es": "In questi giorni fa molto caldo anche in alta montagna. Sulle Alpi lo zero termico e salito sopra i 4.500 metri. Lo zero termico e il punto dove la temperatura arriva a zero gradi. Quando e cosi in alto, vuol dire che fa caldo anche sulle cime piu alte. Per questo la neve e poca e i ghiacciai si sciolgono in fretta. Gli scienziati sono preoccupati. Dicono che, con poca neve, presto comincera a mancare l'acqua nei fiumi e nei laghi.\n\nQuesto problema non riguarda solo la montagna. L'acqua dei ghiacciai serve a tutti: alle citta, all'agricoltura e agli animali. Se i ghiacciai diventano piu piccoli ogni anno, in futuro avremo meno acqua per vivere e per lavorare. Gli esperti dicono che il caldo di questi anni e legato al cambiamento del clima. Anche piccoli gesti, come non sprecare l'acqua, possono aiutare.",
+        "vocab": [
+          {
+            "front": "caldo",
+            "pos": "noun",
+            "back": "heat, hot",
+            "example": "Oggi fa molto caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "montagna",
+            "pos": "noun",
+            "back": "mountain",
+            "example": "In estate andiamo in montagna.",
+            "tier": "A2"
+          },
+          {
+            "front": "ghiacciaio",
+            "pos": "noun",
+            "back": "glacier",
+            "example": "Il ghiacciaio e sempre piu piccolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "neve",
+            "pos": "noun",
+            "back": "snow",
+            "example": "Quest'anno c'e poca neve.",
+            "tier": "A2"
+          },
+          {
+            "front": "sciogliersi",
+            "pos": "verb",
+            "back": "to melt",
+            "example": "Il ghiaccio si scioglie con il caldo.",
+            "tier": "B1"
+          },
+          {
+            "front": "temperatura",
+            "pos": "noun",
+            "back": "temperature",
+            "example": "La temperatura e molto alta.",
+            "tier": "A2"
+          },
+          {
+            "front": "acqua",
+            "pos": "noun",
+            "back": "water",
+            "example": "Non dobbiamo sprecare l'acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "fiume",
+            "pos": "noun",
+            "back": "river",
+            "example": "Il fiume ha poca acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "clima",
+            "pos": "noun",
+            "back": "climate",
+            "example": "Il clima sta cambiando.",
+            "tier": "B1"
+          },
+          {
+            "front": "cambiamento",
+            "pos": "noun",
+            "back": "change",
+            "example": "Il cambiamento del clima e un problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "mancare",
+            "pos": "verb",
+            "back": "to be lacking, to be missing",
+            "example": "Presto comincera a mancare l'acqua.",
+            "tier": "B1"
+          },
+          {
+            "front": "preoccupato",
+            "pos": "adj",
+            "back": "worried",
+            "example": "Gli scienziati sono preoccupati.",
+            "tier": "A2"
+          },
+          {
+            "front": "sprecare",
+            "pos": "verb",
+            "back": "to waste",
+            "example": "Non bisogna sprecare il cibo.",
+            "tier": "B1"
+          },
+          {
+            "front": "in fretta",
+            "pos": "phrase",
+            "back": "quickly, in a hurry",
+            "example": "I ghiacciai si sciolgono in fretta.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Se i ghiacciai diventano piu piccoli ogni anno, in futuro avremo meno acqua per vivere e per lavorare.",
+            "point": "periodo ipotetico della realta",
+            "explanation": "For a real, likely condition Italian often uses se + present (diventano) in the if-clause and the future (avremo) in the main clause.",
+            "why_tricky": "It feels strange to mix present and future, but this is the normal pattern for conditions seen as real."
+          },
+          {
+            "sentence": "Per questo la neve e poca e i ghiacciai si sciolgono in fretta.",
+            "point": "verbo pronominale: sciogliersi",
+            "explanation": "Sciogliersi uses the pronoun si to show that the subject changes by itself: the glaciers melt.",
+            "why_tricky": "Without si the verb sciogliere means 'to melt something'; the si turns it into 'to melt' on its own."
+          },
+          {
+            "sentence": "L'acqua dei ghiacciai serve a tutti: alle citta, all'agricoltura e agli animali.",
+            "point": "preposizioni articolate",
+            "explanation": "Di and a join the article: dei (di + i), alle (a + le), all' (a + l'), agli (a + gli).",
+            "why_tricky": "Choosing the right combined form depends on the gender, number and first letter of the following noun."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare caldo",
+            "meaning": "to be hot (about the weather)",
+            "example": "D'estate fa molto caldo."
+          },
+          {
+            "phrase": "in fretta",
+            "meaning": "quickly, in a hurry",
+            "example": "Ha fatto tutto in fretta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa e successo allo zero termico sulle Alpi?",
+            "type": "open"
+          },
+          {
+            "q": "Perche l'acqua dei ghiacciai e importante per tutti?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo gli esperti, a che cosa e legato questo grande caldo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa puoi fare tu, ogni giorno, per non sprecare l'acqua? Scrivi almeno tre idee."
+      }
+    },
     {
       "pack_id": "feed-2026-06-28-caldo-bere-ufficio",
       "title": "Estate e caldo, perché in ufficio bisogna bere di più",
@@ -6240,527 +6754,6 @@
           }
         ],
         "opinion_prompt": "Ti interessa lo spazio? Scrivi qualche frase: vorresti viaggiare tra le stelle? Perché sì o perché no?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-solstizio-estate",
-      "title": "È il Solstizio d'Estate: tra miti e leggende, il giorno più lungo dell'anno",
-      "source": "RAI News",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "natura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-solstizio-estate",
-        "revision": 1,
-        "meta": {
-          "title": "È il Solstizio d'Estate: tra miti e leggende, il giorno più lungo dell'anno",
-          "source": "RAI News",
-          "url": "https://www.rainews.it/articoli/2026/06/arriva-il-solstizio-estate-cose-e-quando-arriva-il-giorno-piu-lungo-dell-anno-22d64aa5-55f3-4d86-acb7-d7222996aec6.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "cultura",
-            "natura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today is the summer solstice, the longest day of the year. On this day the sun stays in the sky longer and the night is very short. It is the official start of summer. In many countries people celebrate with music, fires and ancient traditions.\n\nThe solstice is linked to many myths and legends. In ancient times it was a very important celebration of light and nature. At Stonehenge, in England, every year many people wait together for the sunrise. In ancient Rome too this special day was celebrated. Today the solstice reminds us of the bond between humans and nature. It is a perfect moment to be outdoors and enjoy the long, warm days.",
-        "resumen_es": "Oggi è il solstizio d'estate, il giorno più lungo dell'anno. In questo giorno il sole resta in cielo più a lungo e la notte è molto corta. È l'inizio ufficiale dell'estate. In molti paesi le persone festeggiano con musica, fuochi e tradizioni antiche.\n\nIl solstizio è legato a tanti miti e leggende. Nei tempi antichi era una festa molto importante per la luce e per la natura. A Stonehenge, in Inghilterra, ogni anno molte persone aspettano insieme il sorgere del sole. Anche nell'antica Roma si celebrava questo giorno speciale. Oggi il solstizio ci ricorda il legame tra l'uomo e la natura. È un momento perfetto per stare all'aperto e godere delle giornate lunghe e calde.",
-        "vocab": [
-          {
-            "front": "il solstizio",
-            "pos": "noun",
-            "back": "solstice",
-            "example": "Il solstizio d'estate è a giugno.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'estate",
-            "pos": "noun",
-            "back": "summer",
-            "example": "In estate fa caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sole",
-            "pos": "noun",
-            "back": "sun",
-            "example": "Il sole splende oggi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cielo",
-            "pos": "noun",
-            "back": "sky",
-            "example": "Il cielo è azzurro.",
-            "tier": "A2"
-          },
-          {
-            "front": "lungo",
-            "pos": "adj",
-            "back": "long",
-            "example": "È il giorno più lungo.",
-            "tier": "A2"
-          },
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "Festeggiamo il compleanno.",
-            "tier": "A2"
-          },
-          {
-            "front": "la tradizione",
-            "pos": "noun",
-            "back": "tradition",
-            "example": "È una tradizione antica.",
-            "tier": "B1"
-          },
-          {
-            "front": "il mito",
-            "pos": "noun",
-            "back": "myth",
-            "example": "Mi piacciono i miti greci.",
-            "tier": "B1"
-          },
-          {
-            "front": "la leggenda",
-            "pos": "noun",
-            "back": "legend",
-            "example": "Conosci questa leggenda?",
-            "tier": "B1"
-          },
-          {
-            "front": "il sorgere del sole",
-            "pos": "phrase",
-            "back": "sunrise",
-            "example": "Aspettiamo il sorgere del sole.",
-            "tier": "B1"
-          },
-          {
-            "front": "il legame",
-            "pos": "noun",
-            "back": "bond, link",
-            "example": "Un legame forte con la natura.",
-            "tier": "B1"
-          },
-          {
-            "front": "la natura",
-            "pos": "noun",
-            "back": "nature",
-            "example": "Amo la natura.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'aperto",
-            "pos": "phrase",
-            "back": "outdoors, in the open air",
-            "example": "Mangiamo all'aperto.",
-            "tier": "A2"
-          },
-          {
-            "front": "godere (di)",
-            "pos": "verb",
-            "back": "to enjoy",
-            "example": "Godo del sole d'estate.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In questo giorno il sole resta in cielo più a lungo e la notte è molto corta.",
-            "point": "Comparativo «più a lungo»",
-            "explanation": "«più a lungo» è il comparativo dell'avverbio «a lungo» (per molto tempo) e significa «per più tempo».",
-            "why_tricky": "Con gli avverbi il comparativo usa «più» davanti, e «a lungo» è un'espressione fissa che lo studente può non conoscere."
-          },
-          {
-            "sentence": "A Stonehenge, in Inghilterra, ogni anno molte persone aspettano insieme il sorgere del sole.",
-            "point": "«aspettare» senza preposizione",
-            "explanation": "«aspettare» regge un oggetto diretto in italiano, senza preposizione.",
-            "why_tricky": "In inglese si aggiunge «for» dopo «wait», quindi lo studente mette per sbaglio «per» in italiano."
-          },
-          {
-            "sentence": "Anche nell'antica Roma si celebrava questo giorno speciale.",
-            "point": "«si» passivante + imperfetto",
-            "explanation": "«si celebrava» usa il «si» impersonale con l'imperfetto per descrivere un'abitudine del passato.",
-            "why_tricky": "La costruzione con «si» e la scelta dell'imperfetto per le azioni abituali del passato sono entrambe difficili."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "all'aperto",
-            "meaning": "outdoors, in the open air",
-            "example": "D'estate dormiamo all'aperto."
-          },
-          {
-            "phrase": "il giorno più lungo dell'anno",
-            "meaning": "the longest day of the year (the solstice)",
-            "example": "Il 21 giugno è il giorno più lungo dell'anno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cos'è il solstizio d'estate?",
-            "type": "open"
-          },
-          {
-            "q": "Come festeggiano le persone a Stonehenge?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ci ricorda oggi il solstizio?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è la tua stagione preferita? Scrivi qualche frase e spiega perché ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-mccartney-palermo",
-      "title": "Paul McCartney atterra con un jet privato all'aeroporto di Palermo",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-mccartney-palermo",
-        "revision": 1,
-        "meta": {
-          "title": "Paul McCartney atterra con un jet privato all'aeroporto di Palermo",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sicilia/notizie/2026/06/21/atterrato-a-palermo-paul-mccartney_5fcf0049-cad6-4619-b467-d77a60f4d6b4.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Paul McCartney has arrived in Palermo, in Sicily. The famous singer, a former member of the Beatles, landed with a private jet at the city's airport. After arriving, he took a photo with the airport staff. Many people are happy to see such an important artist in Italy.\n\nPaul McCartney is a true music legend. With the Beatles he wrote songs famous all over the world. Even today, after so many years, he keeps singing and playing. Sicily is a very beautiful region, with the sea, the sun and a rich history. Maybe the singer is on holiday, or perhaps he is preparing a new concert. Italian fans hope to meet him soon and to hear his music live again.",
-        "resumen_es": "Paul McCartney è arrivato a Palermo, in Sicilia. Il famoso cantante, ex membro dei Beatles, è atterrato con un jet privato all'aeroporto della città. Dopo l'arrivo, ha fatto una foto con il personale dell'aeroporto. Molte persone sono felici di vedere un artista così importante in Italia.\n\nPaul McCartney è una vera leggenda della musica. Con i Beatles ha scritto canzoni famose in tutto il mondo. Ancora oggi, dopo tanti anni, continua a cantare e a suonare. La Sicilia è una regione bellissima, con il mare, il sole e una storia ricca. Forse il cantante è in vacanza, oppure prepara un nuovo concerto. I fan italiani sperano di incontrarlo presto e di ascoltare di nuovo la sua musica dal vivo.",
-        "vocab": [
-          {
-            "front": "atterrare",
-            "pos": "verb",
-            "back": "to land",
-            "example": "L'aereo atterra alle nove.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'aeroporto",
-            "pos": "noun",
-            "back": "airport",
-            "example": "Vado all'aeroporto in taxi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cantante",
-            "pos": "noun",
-            "back": "singer",
-            "example": "È un cantante famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "famoso",
-            "pos": "adj",
-            "back": "famous",
-            "example": "Una persona famosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "ex",
-            "pos": "adj",
-            "back": "former, ex-",
-            "example": "Il mio ex collega abita qui.",
-            "tier": "B1"
-          },
-          {
-            "front": "il membro",
-            "pos": "noun",
-            "back": "member",
-            "example": "È un membro del gruppo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il personale",
-            "pos": "noun",
-            "back": "staff, personnel",
-            "example": "Il personale dell'hotel è gentile.",
-            "tier": "B1"
-          },
-          {
-            "front": "la leggenda",
-            "pos": "noun",
-            "back": "legend",
-            "example": "È una leggenda della musica.",
-            "tier": "B1"
-          },
-          {
-            "front": "la canzone",
-            "pos": "noun",
-            "back": "song",
-            "example": "Questa canzone mi piace molto.",
-            "tier": "A2"
-          },
-          {
-            "front": "suonare",
-            "pos": "verb",
-            "back": "to play (an instrument)",
-            "example": "Suono la chitarra.",
-            "tier": "A2"
-          },
-          {
-            "front": "il concerto",
-            "pos": "noun",
-            "back": "concert",
-            "example": "Andiamo a un concerto stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vacanza",
-            "pos": "noun",
-            "back": "holiday, vacation",
-            "example": "Sono in vacanza al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "dal vivo",
-            "pos": "phrase",
-            "back": "live, in person",
-            "example": "Ascoltare la musica dal vivo è bello.",
-            "tier": "B1"
-          },
-          {
-            "front": "incontrare",
-            "pos": "verb",
-            "back": "to meet",
-            "example": "Voglio incontrare i miei amici.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il famoso cantante, ex membro dei Beatles, è atterrato con un jet privato all'aeroporto della città.",
-            "point": "Passato prossimo con «essere» + accordo",
-            "explanation": "«atterrare» usa l'ausiliare essere, quindi il participio «atterrato» concorda con il soggetto maschile singolare.",
-            "why_tricky": "Scegliere essere o avere è difficile, e con essere il participio deve concordare in genere e numero."
-          },
-          {
-            "sentence": "Ancora oggi, dopo tanti anni, continua a cantare e a suonare.",
-            "point": "«continuare a + infinito»",
-            "explanation": "«continuare» vuole la preposizione «a» prima di ogni infinito: «a cantare e a suonare».",
-            "why_tricky": "La preposizione «a» va ripetuta prima del secondo infinito, e lo studente spesso la dimentica."
-          },
-          {
-            "sentence": "I fan italiani sperano di incontrarlo presto e di ascoltare di nuovo la sua musica dal vivo.",
-            "point": "«sperare di + infinito» + pronome attaccato",
-            "explanation": "«sperare» regge «di» prima dell'infinito; il pronome «lo» si attacca all'infinito in «incontrarlo».",
-            "why_tricky": "Il pronome si unisce alla fine dell'infinito e si usa «di», non «che», quando il soggetto è lo stesso."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dal vivo",
-            "meaning": "live, in person (not recorded)",
-            "example": "Ho visto il concerto dal vivo."
-          },
-          {
-            "phrase": "in tutto il mondo",
-            "meaning": "all over the world",
-            "example": "Le sue canzoni sono famose in tutto il mondo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è arrivato Paul McCartney?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha fatto dopo l'arrivo all'aeroporto?",
-            "type": "open"
-          },
-          {
-            "q": "Perché Paul McCartney è famoso?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è il tuo cantante o gruppo preferito? Scrivi qualche frase e spiega perché ti piace la sua musica."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-caldo-bollino-arancione",
-      "title": "Caldo, venerdì salgono a 8 le città con il bollino arancione",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "meteo",
-        "salute"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-caldo-bollino-arancione",
-        "revision": 1,
-        "meta": {
-          "title": "Caldo, venerdì salgono a 8 le città con il bollino arancione",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/17/caldo-venerdi-salgono-a-8-le-citta-con-il-bollino-arancione_2556af40-6a09-48b1-b14a-b573d0714fa2.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "meteo",
-            "salute"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A new heat wave is arriving in Italy. In many cities the temperatures are going up and it is very hot, especially during the day. For this reason the number of cities with the orange alert is growing. The orange alert is a warning: it means that the heat can be dangerous, above all for the most fragile people.\n\nWho is most at risk? Elderly people, small children and people who are ill. Doctors give some simple advice. It is important to drink a lot of water, to stay at home in the hottest hours and not to do sport in the sun. Even in the evening, sometimes, the heat does not go away. When the temperatures go down, the situation usually gets better. For now, however, you have to be careful and follow the weather forecast every day.",
-        "resumen_es": "In Italia arriva una nuova ondata di caldo. In molte città le temperature salgono e fa molto caldo, soprattutto durante il giorno. Per questo motivo cresce il numero delle città con il bollino arancione. Il bollino arancione è un avviso: vuol dire che il caldo può essere pericoloso, soprattutto per le persone più fragili.\n\nChi rischia di più? Gli anziani, i bambini piccoli e le persone malate. I medici danno alcuni consigli semplici. È importante bere molta acqua, restare a casa nelle ore più calde e non fare sport sotto il sole. Anche la sera, a volte, il caldo non passa. Quando le temperature scendono, di solito la situazione migliora. Per ora, però, bisogna fare attenzione e seguire le previsioni del tempo ogni giorno.",
-        "vocab": [
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "Oggi fa molto caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'ondata di caldo",
-            "pos": "phrase",
-            "back": "heat wave",
-            "example": "Arriva un'ondata di caldo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la temperatura",
-            "pos": "noun",
-            "back": "temperature",
-            "example": "La temperatura sale ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "salire",
-            "pos": "verb",
-            "back": "to go up, to rise",
-            "example": "I prezzi salgono in estate.",
-            "tier": "A2"
-          },
-          {
-            "front": "scendere",
-            "pos": "verb",
-            "back": "to go down, to fall",
-            "example": "La temperatura scende la sera.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'avviso",
-            "pos": "noun",
-            "back": "warning, notice",
-            "example": "C'è un avviso importante in stazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Il caldo forte è pericoloso.",
-            "tier": "A2"
-          },
-          {
-            "front": "fragile",
-            "pos": "adj",
-            "back": "fragile, vulnerable",
-            "example": "Le persone fragili soffrono il caldo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'anziano",
-            "pos": "noun",
-            "back": "elderly person",
-            "example": "Gli anziani devono bere molto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il consiglio",
-            "pos": "noun",
-            "back": "piece of advice, tip",
-            "example": "Ti do un consiglio utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "bere",
-            "pos": "verb",
-            "back": "to drink",
-            "example": "Devi bere molta acqua.",
-            "tier": "A2"
-          },
-          {
-            "front": "fare attenzione",
-            "pos": "phrase",
-            "back": "to be careful, to pay attention",
-            "example": "Fai attenzione al sole forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "le previsioni del tempo",
-            "pos": "phrase",
-            "back": "weather forecast",
-            "example": "Guardo sempre le previsioni del tempo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Italia arriva una nuova ondata di caldo.",
-            "point": "Presente indicativo con il soggetto dopo il verbo.",
-            "explanation": "In italiano, per presentare una notizia, il verbo può venire prima del soggetto: 'arriva un'ondata'.",
-            "why_tricky": "In inglese il soggetto va quasi sempre prima del verbo, qui invece viene dopo."
-          },
-          {
-            "sentence": "È importante bere molta acqua, restare a casa nelle ore più calde e non fare sport sotto il sole.",
-            "point": "Costruzione impersonale 'è importante' + infinito.",
-            "explanation": "Dopo 'è importante' si usa l'infinito (bere, restare, fare) per dare un consiglio generale, valido per tutti.",
-            "why_tricky": "Bisogna usare l'infinito e non il presente; la negazione 'non' va prima dell'infinito ('non fare')."
-          },
-          {
-            "sentence": "Quando le temperature scendono, di solito la situazione migliora.",
-            "point": "'Quando' + presente indicativo per azioni abituali.",
-            "explanation": "Quando una cosa succede di solito, si usa il presente in tutte e due le parti della frase.",
-            "why_tricky": "È facile confondere questo uso abituale con il futuro, che vuole un altro tempo verbale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare un caldo da morire",
-            "meaning": "to be unbearably hot",
-            "example": "In agosto a volte fa un caldo da morire."
-          },
-          {
-            "phrase": "con il sole a picco",
-            "meaning": "when the sun is at its highest and hottest",
-            "example": "Non uscire con il sole a picco, è pericoloso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché cresce il numero delle città con il bollino arancione?",
-            "type": "open"
-          },
-          {
-            "q": "Quali persone rischiano di più con il caldo forte?",
-            "type": "open"
-          },
-          {
-            "q": "Quali consigli danno i medici per stare bene?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Cosa fai tu quando fa molto caldo? Scrivi le tue abitudini e i tuoi consigli."
       }
     }
   ]
