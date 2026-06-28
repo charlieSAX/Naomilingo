@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-27T20:11:50Z",
+  "generated_at": "2026-06-28T08:15:01Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-28-caldo-bere-ufficio",
+      "title": "Estate e caldo, perché in ufficio bisogna bere di più",
+      "source": "ANSA",
+      "date": "2026-06-25",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "estate"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-caldo-bere-ufficio",
+        "revision": 1,
+        "meta": {
+          "title": "Estate e caldo, perché in ufficio bisogna bere di più",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/06/25/estate-e-caldo-perche-in-ufficio-bisogna-bere-di-piu_d3a3b159-6b8a-456a-abb7-7f23e9a72194.html",
+          "date_published": "2026-06-25",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "salute",
+            "estate"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In summer it is very hot, and drinking water is even more important. Experts say that, even in the office, we must drink more during the day. When we work at the computer, we often forget to drink. The heat, in fact, makes us lose a lot of water. But the body needs water to feel well and to work with more energy.\n\nExperts advise always keeping a bottle of water on the desk. It is useful to drink a little every hour, even if we do not feel thirsty. Attention to the quality of the water we drink is also growing. Drinking fresh water helps us feel better and work more calmly. With the heat of the coming days, this small gesture can make a big difference.",
+        "resumen_es": "In estate fa molto caldo e bere acqua è ancora più importante. Gli esperti dicono che, anche in ufficio, dobbiamo bere di più durante il giorno. Quando lavoriamo al computer, spesso ci dimentichiamo di bere. Il caldo, infatti, ci fa perdere molta acqua. Però il corpo ha bisogno di acqua per stare bene e per lavorare con più energia.\n\nGli esperti consigliano di tenere sempre una bottiglia d'acqua sulla scrivania. È utile bere un po' ogni ora, anche se non sentiamo la sete. Cresce anche l'attenzione alla qualità dell'acqua che beviamo. Bere acqua fresca aiuta a sentirsi meglio e a lavorare con più calma. Con il caldo dei prossimi giorni, questo piccolo gesto può fare una grande differenza.",
+        "vocab": [
+          {
+            "front": "caldo",
+            "pos": "noun",
+            "back": "heat, hot",
+            "example": "Oggi fa molto caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "bere",
+            "pos": "verb",
+            "back": "to drink",
+            "example": "Devo bere più acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "acqua",
+            "pos": "noun",
+            "back": "water",
+            "example": "Bevo un bicchiere di acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "ufficio",
+            "pos": "noun",
+            "back": "office",
+            "example": "Lavoro in ufficio dalle nove.",
+            "tier": "A2"
+          },
+          {
+            "front": "dimenticarsi (di)",
+            "pos": "verb",
+            "back": "to forget (to)",
+            "example": "Mi dimentico sempre di bere.",
+            "tier": "B1"
+          },
+          {
+            "front": "corpo",
+            "pos": "noun",
+            "back": "body",
+            "example": "Il corpo ha bisogno di riposo.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere bisogno di",
+            "pos": "phrase",
+            "back": "to need",
+            "example": "Ho bisogno di un po' di acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "bottiglia",
+            "pos": "noun",
+            "back": "bottle",
+            "example": "Porto sempre una bottiglia con me.",
+            "tier": "A2"
+          },
+          {
+            "front": "scrivania",
+            "pos": "noun",
+            "back": "desk",
+            "example": "Il computer è sulla scrivania.",
+            "tier": "B1"
+          },
+          {
+            "front": "utile",
+            "pos": "adj",
+            "back": "useful",
+            "example": "Questo consiglio è molto utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "sete",
+            "pos": "noun",
+            "back": "thirst",
+            "example": "Ho sete, voglio dell'acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "qualità",
+            "pos": "noun",
+            "back": "quality",
+            "example": "La qualità dell'acqua è importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "fresco",
+            "pos": "adj",
+            "back": "fresh, cool",
+            "example": "Mi piace l'acqua fresca.",
+            "tier": "A2"
+          },
+          {
+            "front": "gesto",
+            "pos": "noun",
+            "back": "gesture, act",
+            "example": "È un piccolo gesto, ma utile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli esperti dicono che, anche in ufficio, dobbiamo bere di più durante il giorno.",
+            "point": "Il verbo 'dovere' + infinito",
+            "explanation": "'dobbiamo bere' usa il verbo modale 'dovere' (noi) seguito dall'infinito 'bere' per esprimere un obbligo o un consiglio.",
+            "why_tricky": "Dopo 'dovere', 'potere' e 'volere' il secondo verbo resta sempre all'infinito, senza preposizione: 'dobbiamo bere', non 'dobbiamo a bere'."
+          },
+          {
+            "sentence": "Quando lavoriamo al computer, spesso ci dimentichiamo di bere.",
+            "point": "Verbo riflessivo 'dimenticarsi di' + infinito",
+            "explanation": "'ci dimentichiamo' è la forma riflessiva (noi) del verbo, e regge la preposizione 'di' prima dell'infinito 'bere'.",
+            "why_tricky": "Si può dire 'dimenticare qualcosa' senza 'si', ma la forma riflessiva 'dimenticarsi di' è molto comune nel parlato e cambia la costruzione."
+          },
+          {
+            "sentence": "È utile bere un po' ogni ora, anche se non sentiamo la sete.",
+            "point": "'è utile' + infinito e 'anche se'",
+            "explanation": "'è utile bere' usa un aggettivo impersonale + infinito. 'anche se' introduce una concessione: facciamo una cosa nonostante un'altra.",
+            "why_tricky": "'anche se' regge l'indicativo (sentiamo), mentre in inglese 'even if' può suonare ipotetico; qui descrive una situazione reale e abituale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare una grande differenza",
+            "meaning": "to make a big difference",
+            "example": "Bere acqua può fare una grande differenza."
+          },
+          {
+            "phrase": "avere bisogno di",
+            "meaning": "to need (literally: to have need of)",
+            "example": "Ho bisogno di riposare un po'."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché in estate è importante bere più acqua?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli danno gli esperti per bere di più in ufficio?",
+            "type": "open"
+          },
+          {
+            "q": "Tu bevi abbastanza acqua durante il giorno? Come fai a ricordartene?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo (circa 80 parole) e spiega come ti prendi cura della tua salute quando fa molto caldo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-spesa-intrattenimento-live",
+      "title": "Vola la spesa per l'intrattenimento, boom dei live",
+      "source": "ANSA",
+      "date": "2026-06-26",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "musica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-spesa-intrattenimento-live",
+        "revision": 1,
+        "meta": {
+          "title": "Vola la spesa per l'intrattenimento, boom dei live",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/06/26/vola-la-spesa-per-lintrattenimento-boom-dei-live_f9b27324-e3c4-411e-98ef-844f972c34ca.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "cultura",
+            "musica"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy, spending on entertainment is growing more and more. In 2025 people spent more money on concerts, cinema, theatre and other shows. According to the data, spending rose by 7 per cent compared with the year before. Concerts, in particular, are doing very well: takings passed one billion euros.\n\nThis means that many people enjoy going out and seeing live music. After the difficult years of the pandemic, people again want to be together and to have fun. The big concerts of the stars fill the stadiums and squares all over Italy. Experts think that this growth may continue in the coming years too, because live entertainment has come back into fashion.",
+        "resumen_es": "In Italia la spesa per il divertimento cresce sempre di più. Nel 2025 le persone hanno speso più soldi per concerti, cinema, teatro e altri spettacoli. Secondo i dati, la spesa è aumentata del 7 per cento rispetto all'anno prima. I concerti, in particolare, vanno molto bene: gli incassi hanno superato un miliardo di euro.\n\nQuesto significa che a molte persone piace uscire e vedere la musica dal vivo. Dopo gli anni difficili della pandemia, la gente ha di nuovo voglia di stare insieme e di divertirsi. I grandi concerti delle star riempiono gli stadi e le piazze di tutta Italia. Gli esperti pensano che questa crescita possa continuare anche nei prossimi anni, perché lo spettacolo dal vivo è tornato di moda.",
+        "vocab": [
+          {
+            "front": "spesa",
+            "pos": "noun",
+            "back": "spending, expense",
+            "example": "La spesa per il cibo è alta.",
+            "tier": "A2"
+          },
+          {
+            "front": "divertimento",
+            "pos": "noun",
+            "back": "fun, entertainment",
+            "example": "Cerchiamo un po' di divertimento.",
+            "tier": "A2"
+          },
+          {
+            "front": "crescere",
+            "pos": "verb",
+            "back": "to grow",
+            "example": "Il numero di turisti cresce ogni anno.",
+            "tier": "B1"
+          },
+          {
+            "front": "spendere",
+            "pos": "verb",
+            "back": "to spend",
+            "example": "Ho speso troppo questo mese.",
+            "tier": "A2"
+          },
+          {
+            "front": "spettacolo",
+            "pos": "noun",
+            "back": "show",
+            "example": "Lo spettacolo inizia alle nove.",
+            "tier": "A2"
+          },
+          {
+            "front": "aumentare",
+            "pos": "verb",
+            "back": "to increase",
+            "example": "I prezzi sono aumentati molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "rispetto a",
+            "pos": "phrase",
+            "back": "compared with",
+            "example": "Sto meglio rispetto a ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "incassi",
+            "pos": "noun",
+            "back": "takings, box-office revenue",
+            "example": "Gli incassi del film sono altissimi.",
+            "tier": "B1"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to exceed, to pass",
+            "example": "Il film ha superato ogni record.",
+            "tier": "B1"
+          },
+          {
+            "front": "dal vivo",
+            "pos": "phrase",
+            "back": "live (in person)",
+            "example": "Preferisco la musica dal vivo.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere voglia di",
+            "pos": "phrase",
+            "back": "to feel like",
+            "example": "Ho voglia di un gelato.",
+            "tier": "A2"
+          },
+          {
+            "front": "riempire",
+            "pos": "verb",
+            "back": "to fill",
+            "example": "I tifosi riempiono lo stadio.",
+            "tier": "B1"
+          },
+          {
+            "front": "crescita",
+            "pos": "noun",
+            "back": "growth",
+            "example": "C'è una forte crescita del settore.",
+            "tier": "B1"
+          },
+          {
+            "front": "tornare di moda",
+            "pos": "phrase",
+            "back": "to come back into fashion",
+            "example": "Questi vestiti tornano di moda.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo i dati, la spesa è aumentata del 7 per cento rispetto all'anno prima.",
+            "point": "Passato prossimo con l'ausiliare 'essere'",
+            "explanation": "'è aumentata' usa l'ausiliare 'essere'; per questo il participio 'aumentata' concorda con il soggetto femminile 'la spesa'.",
+            "why_tricky": "Molti verbi che indicano cambiamento (aumentare, crescere, salire) usano 'essere', e il participio deve accordarsi in genere e numero con il soggetto."
+          },
+          {
+            "sentence": "Questo significa che a molte persone piace uscire e vedere la musica dal vivo.",
+            "point": "Il verbo 'piacere' + a + persona",
+            "explanation": "Con 'piacere' la persona che prova il piacere è introdotta da 'a' (a molte persone), e 'piace' è seguito dagli infiniti 'uscire' e 'vedere'.",
+            "why_tricky": "La struttura è l'opposto dell'inglese 'people like': in italiano il soggetto è la cosa che piace, non la persona."
+          },
+          {
+            "sentence": "Gli esperti pensano che questa crescita possa continuare anche nei prossimi anni, perché lo spettacolo dal vivo è tornato di moda.",
+            "point": "Il congiuntivo dopo 'pensare che'",
+            "explanation": "Dopo verbi di opinione come 'pensare che' si usa il congiuntivo: 'possa' è il congiuntivo presente di 'potere'.",
+            "why_tricky": "Nel parlato veloce si sente a volte l'indicativo, ma la forma corretta dopo 'pensare che' resta il congiuntivo 'possa', non 'può'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dal vivo",
+            "meaning": "live, in person",
+            "example": "Ho visto il cantante dal vivo."
+          },
+          {
+            "phrase": "tornare di moda",
+            "meaning": "to come back into fashion",
+            "example": "I dischi in vinile sono tornati di moda."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Di quanto è aumentata la spesa per il divertimento nel 2025?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il testo, la gente ha di nuovo voglia di andare ai concerti?",
+            "type": "open"
+          },
+          {
+            "q": "Tu preferisci ascoltare la musica dal vivo o a casa? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo (circa 80 parole) sull'ultimo concerto o spettacolo che hai visto, o che vorresti vedere."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-28-messi-record-mondiali",
+      "title": "Mondiali 2026, Messi da record: entra all'80imo e segna: Argentina, 3-1 alla Giordania",
+      "source": "RAI News",
+      "date": "2026-06-28",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "Mondiali"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-28-messi-record-mondiali",
+        "revision": 1,
+        "meta": {
+          "title": "Mondiali 2026, Messi da record: entra all'80imo e segna: Argentina, 3-1 alla Giordania",
+          "source": "RAI News",
+          "url": "https://www.rainews.it/articoli/2026/06/mondiali-2026-messi-da-record-entra-all80imo-e-segna-argentina-3-1-alla-giordania-calcio-088ec046-3730-425f-9a8d-4652137107c6.html",
+          "date_published": "2026-06-28",
+          "date_processed": "2026-06-28",
+          "tags": [
+            "calcio",
+            "Mondiali"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "At the 2026 World Cup, Leo Messi set a new record. He came onto the pitch in the 80th minute and immediately scored a goal. With this goal, he is the first player to score in seven matches in a row at the World Cup. Argentina won against Jordan 3 to 1 and ends the first phase of the tournament well.\n\nFor Argentina it is the third win out of three matches in the group. The team plays with confidence and Messi remains its most important leader. Even though he is no longer young, the champion keeps making the difference on the pitch. The fans hope that Argentina can go far in this World Cup. The next match will be harder, but the team arrives with great enthusiasm.",
+        "resumen_es": "Ai Mondiali 2026 Leo Messi ha scritto un nuovo record. È entrato in campo all'80esimo minuto e ha subito segnato un gol. Con questa rete, è il primo giocatore a segnare in sette partite di fila ai Mondiali. L'Argentina ha vinto contro la Giordania per 3 a 1 e chiude bene la prima fase del torneo.\n\nPer l'Argentina è la terza vittoria su tre partite nel girone. La squadra gioca con fiducia e Messi resta il suo leader più importante. Anche se non è più giovane, il campione continua a fare la differenza in campo. I tifosi sperano che l'Argentina possa andare lontano in questo Mondiale. La prossima sfida sarà più difficile, ma la squadra arriva con grande entusiasmo.",
+        "vocab": [
+          {
+            "front": "record",
+            "pos": "noun",
+            "back": "record",
+            "example": "Ha battuto un nuovo record.",
+            "tier": "A2"
+          },
+          {
+            "front": "entrare in campo",
+            "pos": "phrase",
+            "back": "to come onto the pitch",
+            "example": "Il giocatore entra in campo nel secondo tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "segnare",
+            "pos": "verb",
+            "back": "to score",
+            "example": "Ha segnato due gol oggi.",
+            "tier": "A2"
+          },
+          {
+            "front": "gol / rete",
+            "pos": "noun",
+            "back": "goal",
+            "example": "Che bel gol!",
+            "tier": "A2"
+          },
+          {
+            "front": "giocatore",
+            "pos": "noun",
+            "back": "player",
+            "example": "È il miglior giocatore della squadra.",
+            "tier": "A2"
+          },
+          {
+            "front": "di fila",
+            "pos": "phrase",
+            "back": "in a row, in succession",
+            "example": "Ha vinto tre partite di fila.",
+            "tier": "B1"
+          },
+          {
+            "front": "vincere",
+            "pos": "verb",
+            "back": "to win",
+            "example": "Speriamo di vincere la partita.",
+            "tier": "A2"
+          },
+          {
+            "front": "girone",
+            "pos": "noun",
+            "back": "group (in a tournament)",
+            "example": "L'Italia è nel girone con il Brasile.",
+            "tier": "B1"
+          },
+          {
+            "front": "squadra",
+            "pos": "noun",
+            "back": "team",
+            "example": "La mia squadra gioca domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "fiducia",
+            "pos": "noun",
+            "back": "confidence, trust",
+            "example": "Gioca con grande fiducia.",
+            "tier": "B1"
+          },
+          {
+            "front": "campione",
+            "pos": "noun",
+            "back": "champion",
+            "example": "Messi è un vero campione.",
+            "tier": "A2"
+          },
+          {
+            "front": "fare la differenza",
+            "pos": "phrase",
+            "back": "to make the difference",
+            "example": "Un buon portiere fa la differenza.",
+            "tier": "B1"
+          },
+          {
+            "front": "tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano allo stadio.",
+            "tier": "A2"
+          },
+          {
+            "front": "sfida",
+            "pos": "noun",
+            "back": "challenge, match",
+            "example": "La prossima sfida sarà difficile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "È entrato in campo all'80esimo minuto e ha subito segnato un gol.",
+            "point": "Passato prossimo: ausiliari 'essere' e 'avere'",
+            "explanation": "'è entrato' usa 'essere' (verbo di movimento, participio concordato), mentre 'ha segnato' usa 'avere'. I due ausiliari convivono nella stessa frase.",
+            "why_tricky": "Bisogna scegliere l'ausiliare giusto verbo per verbo: con 'essere' il participio si accorda con il soggetto, con 'avere' di solito no."
+          },
+          {
+            "sentence": "Anche se non è più giovane, il campione continua a fare la differenza in campo.",
+            "point": "'continuare a' + infinito e 'non... più'",
+            "explanation": "'continuare a' regge la preposizione 'a' prima dell'infinito 'fare'. 'non... più' significa che qualcosa non accade ormai da un certo momento.",
+            "why_tricky": "La doppia negazione 'non è più' è normale in italiano e significa 'non più / no longer', non un errore come potrebbe sembrare in inglese."
+          },
+          {
+            "sentence": "I tifosi sperano che l'Argentina possa andare lontano in questo Mondiale.",
+            "point": "Il congiuntivo dopo 'sperare che'",
+            "explanation": "Dopo 'sperare che' si usa il congiuntivo: 'possa' è il congiuntivo presente di 'potere', che esprime un desiderio o una possibilità.",
+            "why_tricky": "In inglese si usa l'indicativo ('hope that ... can'), ma in italiano i verbi di speranza e desiderio richiedono il congiuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "di fila",
+            "meaning": "in a row, one after another",
+            "example": "Ho lavorato cinque giorni di fila."
+          },
+          {
+            "phrase": "fare la differenza",
+            "meaning": "to make the difference",
+            "example": "Il tuo aiuto ha fatto la differenza."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha fatto Messi quando è entrato in campo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa vittoria è importante per l'Argentina nel girone?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, l'Argentina può vincere il Mondiale? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo (circa 80 parole) sul tuo sport preferito o su una partita che ricordi con piacere."
+      }
+    },
     {
       "pack_id": "feed-2026-06-27-mel-brooks-cento-anni",
       "title": "Il re della parodia Mel Brooks compie 100 anni, 'ridere ti mantiene vivo'",
@@ -6233,513 +6761,6 @@
           }
         ],
         "opinion_prompt": "Cosa fai tu quando fa molto caldo? Scrivi le tue abitudini e i tuoi consigli."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-treno-milano-bologna",
-      "title": "Sospesa la linea Av Milano-Bologna, ritardi e cancellazioni",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "trasporti",
-        "cronaca"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-treno-milano-bologna",
-        "revision": 1,
-        "meta": {
-          "title": "Sospesa la linea Av Milano-Bologna, ritardi e cancellazioni",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/17/sospesa-la-linea-av-milano-bologna-ritardi-e-cancellazioni-_eb198aab-8c8a-4687-88cc-3a025368b1c7.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "trasporti",
-            "cronaca"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today travelling by train between Milan and Bologna is difficult. The high-speed line is suspended for some technical checks on the electrical line. For this reason there are many delays and some services are cancelled. Many passengers are waiting at the station and do not know when they will be able to leave.\n\nWhen an important train stops, the problem does not stay small. The delays grow and also affect other lines and other cities. The train companies are trying to fix the fault as soon as possible. Meanwhile they advise travellers to check the timetables before leaving home. Anyone who has an appointment or a flight has to be patient and, if they can, leave earlier. Usually, after the checks, the trains go back to running normally.",
-        "resumen_es": "Oggi viaggiare in treno tra Milano e Bologna è difficile. La linea dell'alta velocità è sospesa per alcune verifiche tecniche alla linea elettrica. Per questo motivo ci sono molti ritardi e alcune corse sono cancellate. Tanti passeggeri aspettano in stazione e non sanno quando potranno partire.\n\nQuando un treno importante si ferma, il problema non resta piccolo. I ritardi crescono e toccano anche altre linee e altre città. Le società dei treni cercano di risolvere il guasto il più presto possibile. Intanto consigliano ai viaggiatori di controllare gli orari prima di uscire di casa. Chi ha un appuntamento o un volo deve avere pazienza e, se può, partire prima. Di solito, dopo i controlli, i treni tornano a viaggiare normalmente.",
-        "vocab": [
-          {
-            "front": "la linea",
-            "pos": "noun",
-            "back": "line",
-            "example": "La linea del treno è chiusa oggi.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'alta velocità",
-            "pos": "phrase",
-            "back": "high speed",
-            "example": "Il treno ad alta velocità è molto veloce.",
-            "tier": "B1"
-          },
-          {
-            "front": "sospeso/a",
-            "pos": "adj",
-            "back": "suspended",
-            "example": "Il servizio è sospeso per un guasto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ritardo",
-            "pos": "noun",
-            "back": "delay",
-            "example": "Il treno ha un'ora di ritardo.",
-            "tier": "A2"
-          },
-          {
-            "front": "cancellare",
-            "pos": "verb",
-            "back": "to cancel",
-            "example": "Hanno cancellato la corsa delle otto.",
-            "tier": "A2"
-          },
-          {
-            "front": "la corsa",
-            "pos": "noun",
-            "back": "run, service (of a train or bus)",
-            "example": "La prima corsa parte alle sei.",
-            "tier": "B1"
-          },
-          {
-            "front": "il guasto",
-            "pos": "noun",
-            "back": "fault, breakdown",
-            "example": "C'è un guasto sulla linea elettrica.",
-            "tier": "B1"
-          },
-          {
-            "front": "il passeggero",
-            "pos": "noun",
-            "back": "passenger",
-            "example": "I passeggeri aspettano sul binario.",
-            "tier": "A2"
-          },
-          {
-            "front": "la stazione",
-            "pos": "noun",
-            "back": "station",
-            "example": "Ci vediamo davanti alla stazione.",
-            "tier": "A2"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check",
-            "example": "Controlla sempre gli orari dei treni.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'orario",
-            "pos": "noun",
-            "back": "timetable, schedule",
-            "example": "L'orario dei treni è cambiato.",
-            "tier": "A2"
-          },
-          {
-            "front": "avere pazienza",
-            "pos": "phrase",
-            "back": "to be patient",
-            "example": "Con i ritardi, devi avere pazienza.",
-            "tier": "A2"
-          },
-          {
-            "front": "il più presto possibile",
-            "pos": "phrase",
-            "back": "as soon as possible",
-            "example": "Torna a casa il più presto possibile.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La linea dell'alta velocità è sospesa per alcune verifiche tecniche alla linea elettrica.",
-            "point": "Forma passiva con 'essere' + participio passato ('è sospesa').",
-            "explanation": "Il passivo si forma con il verbo 'essere' e il participio, che concorda con il soggetto: 'la linea è sospesa'.",
-            "why_tricky": "Il participio deve concordare in genere e numero con il soggetto (sospesa, non sospeso)."
-          },
-          {
-            "sentence": "Quando un treno importante si ferma, il problema non resta piccolo.",
-            "point": "Verbo riflessivo 'fermarsi' al presente dopo 'quando'.",
-            "explanation": "'Si ferma' usa il pronome 'si' perché il treno compie e riceve l'azione; 'quando' regge il presente.",
-            "why_tricky": "È facile dimenticare il 'si' del verbo riflessivo e tradurre come in inglese ('stops')."
-          },
-          {
-            "sentence": "Intanto consigliano ai viaggiatori di controllare gli orari prima di uscire di casa.",
-            "point": "'Consigliare a qualcuno di' + infinito, e 'prima di' + infinito.",
-            "explanation": "Dopo 'consigliare a qualcuno' si usa 'di' + infinito; allo stesso modo 'prima di' regge l'infinito ('uscire').",
-            "why_tricky": "Servono due piccole parole, 'a' e 'di', che in inglese non ci sono."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "perdere il treno",
-            "meaning": "to miss the train (also: to miss an opportunity)",
-            "example": "Con questi ritardi rischio di perdere il treno."
-          },
-          {
-            "phrase": "essere nei guai",
-            "meaning": "to be in trouble",
-            "example": "Senza treni, molti pendolari sono nei guai."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché è sospesa la linea ad alta velocità tra Milano e Bologna?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede ai passeggeri in stazione?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano le società dei treni ai viaggiatori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Racconta un viaggio in treno con un ritardo o un problema. Che cosa è successo e come ti sei sentito?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-americas-cup-napoli",
-      "title": "America's Cup, -100 giorni al titolo delle pre regate di Napoli",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "vela"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-americas-cup-napoli",
-        "revision": 1,
-        "meta": {
-          "title": "America's Cup, -100 giorni al titolo delle pre regate di Napoli",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/speciali/coppa-america-2027/2026/06/17/americas-cup-100-giorni-al-titolo-delle-pre-regate-di-napoli_62da497c-ed75-4692-92d8-bd08ad7e7f47.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "sport",
-            "vela"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "There are a hundred days to go until a big sailing event in Naples. The city is getting ready to host the preliminary races of the America's Cup, one of the most famous competitions in the world. For many people from Naples it is a great opportunity: the sea becomes the centre of the celebration. The fast boats and the international crews arrive in the city and bring tourists and excitement.\n\nFor the public there is also good news. On the seafront a village is opening where you can go in for free. Here people can see the boats up close, learn about sea sports and spend time with their family. As the days go by, the wait for the races grows. Naples hopes to show the world its sea and its energy. If everything goes well, it will be a great party for the city and for sailing fans.",
-        "resumen_es": "Mancano cento giorni a un grande evento di vela a Napoli. La città si prepara a ospitare le pre regate dell'America's Cup, una delle competizioni più famose del mondo. Per molti napoletani è una bella occasione: il mare diventa il centro della festa. Le barche veloci e gli equipaggi internazionali arrivano in città e portano turisti ed entusiasmo.\n\nPer il pubblico c'è anche una buona notizia. Sul lungomare nasce un villaggio dove si può entrare gratis. Qui le persone possono vedere le barche da vicino, conoscere gli sport del mare e passare del tempo in famiglia. Mentre i giorni passano, cresce l'attesa per le gare. Napoli spera di mostrare al mondo il suo mare e la sua energia. Se tutto va bene, sarà una grande festa per la città e per gli appassionati di vela.",
-        "vocab": [
-          {
-            "front": "la vela",
-            "pos": "noun",
-            "back": "sailing",
-            "example": "Lo sport della vela mi piace molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "mancare",
-            "pos": "verb",
-            "back": "to be left, to remain (of time)",
-            "example": "Mancano due giorni alla festa.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'evento",
-            "pos": "noun",
-            "back": "event",
-            "example": "È un grande evento sportivo.",
-            "tier": "A2"
-          },
-          {
-            "front": "ospitare",
-            "pos": "verb",
-            "back": "to host",
-            "example": "La città ospita la gara.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gara",
-            "pos": "noun",
-            "back": "race, competition",
-            "example": "La gara comincia domani mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'equipaggio",
-            "pos": "noun",
-            "back": "crew",
-            "example": "L'equipaggio della barca è internazionale.",
-            "tier": "B1"
-          },
-          {
-            "front": "la barca",
-            "pos": "noun",
-            "back": "boat",
-            "example": "La barca va molto veloce.",
-            "tier": "A2"
-          },
-          {
-            "front": "il lungomare",
-            "pos": "noun",
-            "back": "seafront, promenade",
-            "example": "Camminiamo sul lungomare la sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "gratis",
-            "pos": "adv",
-            "back": "free (of charge)",
-            "example": "L'ingresso al villaggio è gratis.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'attesa",
-            "pos": "noun",
-            "back": "wait, anticipation",
-            "example": "L'attesa per la gara è finita.",
-            "tier": "B1"
-          },
-          {
-            "front": "da vicino",
-            "pos": "phrase",
-            "back": "up close, from close by",
-            "example": "Voglio vedere le barche da vicino.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'appassionato",
-            "pos": "noun",
-            "back": "fan, enthusiast",
-            "example": "È un appassionato di vela.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'occasione",
-            "pos": "noun",
-            "back": "opportunity, occasion",
-            "example": "È una buona occasione per la città.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Mancano cento giorni a un grande evento di vela a Napoli.",
-            "point": "Il verbo 'mancare' con il tempo che resta, accordato al plurale.",
-            "explanation": "Con 'mancare' il soggetto è il tempo: 'mancano cento giorni' (plurale), 'manca un giorno' (singolare).",
-            "why_tricky": "Il verbo concorda con i giorni, non con la persona; in inglese si dice 'there are 100 days left'."
-          },
-          {
-            "sentence": "Sul lungomare nasce un villaggio dove si può entrare gratis.",
-            "point": "'Si' impersonale ('si può entrare') e il verbo prima del soggetto ('nasce un villaggio').",
-            "explanation": "'Si può' indica una possibilità per tutti, senza dire chi; il relativo 'dove' lega le due idee.",
-            "why_tricky": "L'ordine verbo-soggetto e il 'si' impersonale non hanno una traduzione diretta in inglese."
-          },
-          {
-            "sentence": "Mentre i giorni passano, cresce l'attesa per le gare.",
-            "point": "'Mentre' + presente per due azioni contemporanee.",
-            "explanation": "'Mentre' collega due cose che succedono nello stesso tempo; qui il verbo 'cresce' viene prima del soggetto 'l'attesa'.",
-            "why_tricky": "Di nuovo l'ordine delle parole cambia: il soggetto 'l'attesa' arriva dopo il verbo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non vedere l'ora",
-            "meaning": "to look forward to something, to not be able to wait",
-            "example": "I tifosi non vedono l'ora di vedere le gare."
-          },
-          {
-            "phrase": "fare il tifo",
-            "meaning": "to root for, to cheer for a team",
-            "example": "Tutta la città fa il tifo per la propria barca."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale grande evento si prepara a Napoli?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa può fare il pubblico nel villaggio sul lungomare?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questo evento è una buona occasione per Napoli?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacciono gli sport del mare? Scrivi quale sport vorresti provare e perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-19-egitto-viaggio-deserto",
-      "title": "Nel cuore segreto dell'Egitto, un viaggio 'on the road' oltre il deserto",
-      "source": "ANSA",
-      "date": "2026-06-18",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "Egitto"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-19-egitto-viaggio-deserto",
-        "revision": 1,
-        "meta": {
-          "title": "Nel cuore segreto dell'Egitto, un viaggio 'on the road' oltre il deserto",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/06/18/nel-cuore-segreto-dellegitto-un-viaggio-on-the-road-oltre-il-deserto_ff719299-827e-4d46-9dd8-51e7f97abcb7.html",
-          "date_published": "2026-06-18",
-          "date_processed": "2026-06-19",
-          "tags": [
-            "viaggi",
-            "Egitto"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "An ANSA article tells the story of a special trip in Egypt. It is not about the usual pyramids near Cairo. The trip goes to Middle Egypt, an area less known by tourists. It is an 'on the road' itinerary, that is, a free route by car. The travellers cross the desert and discover places full of history and silence.\n\nDuring the route you can see surprising things. In some parts of the desert there are whale fossils, very ancient. Long ago, in fact, the sea was here. Further on there are forgotten necropolises, that is, ancient cemeteries that few people know. This trip is perfect for those who love nature, history and adventure. It is also a different way to see Egypt, far from the crowds and the most famous places. A calm but unforgettable experience.",
-        "resumen_es": "Un articolo dell'ANSA racconta un viaggio speciale in Egitto. Non si parla delle solite piramidi vicino al Cairo. Il viaggio porta nel Medio Egitto, una zona meno conosciuta dai turisti. È un itinerario 'on the road', cioè un percorso libero in macchina. I viaggiatori attraversano il deserto e scoprono luoghi pieni di storia e di silenzio.\n\nDurante il percorso si possono vedere cose sorprendenti. In alcuni punti del deserto ci sono fossili di balena, molto antichi. Una volta, infatti, qui c'era il mare. Più avanti si trovano necropoli dimenticate, cioè antichi cimiteri che pochi conoscono. Questo viaggio è perfetto per chi ama la natura, la storia e l'avventura. È anche un modo diverso di vedere l'Egitto, lontano dalla folla e dai posti più famosi. Un'esperienza tranquilla, ma indimenticabile.",
-        "vocab": [
-          {
-            "front": "il viaggio",
-            "pos": "noun",
-            "back": "the trip, the journey",
-            "example": "Faccio un viaggio in Italia.",
-            "tier": "A2"
-          },
-          {
-            "front": "il deserto",
-            "pos": "noun",
-            "back": "the desert",
-            "example": "Il deserto è molto grande e silenzioso.",
-            "tier": "A2"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross",
-            "example": "Attraversiamo la strada con attenzione.",
-            "tier": "A2"
-          },
-          {
-            "front": "scoprire",
-            "pos": "verb",
-            "back": "to discover",
-            "example": "Voglio scoprire posti nuovi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il percorso",
-            "pos": "noun",
-            "back": "the route, the path",
-            "example": "Il percorso è lungo ma bello.",
-            "tier": "B1"
-          },
-          {
-            "front": "conosciuto",
-            "pos": "adj",
-            "back": "known, well-known",
-            "example": "È un posto molto conosciuto.",
-            "tier": "A2"
-          },
-          {
-            "front": "sorprendente",
-            "pos": "adj",
-            "back": "surprising",
-            "example": "È una notizia sorprendente.",
-            "tier": "B1"
-          },
-          {
-            "front": "antico",
-            "pos": "adj",
-            "back": "ancient, old",
-            "example": "Roma è una città antica.",
-            "tier": "A2"
-          },
-          {
-            "front": "dimenticato",
-            "pos": "adj",
-            "back": "forgotten",
-            "example": "È un luogo dimenticato da tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la folla",
-            "pos": "noun",
-            "back": "the crowd",
-            "example": "C'è troppa folla in centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "indimenticabile",
-            "pos": "adj",
-            "back": "unforgettable",
-            "example": "È stata una vacanza indimenticabile.",
-            "tier": "B1"
-          },
-          {
-            "front": "lontano da",
-            "pos": "phrase",
-            "back": "far from",
-            "example": "Abito lontano dal centro.",
-            "tier": "A2"
-          },
-          {
-            "front": "il turista",
-            "pos": "noun",
-            "back": "the tourist",
-            "example": "I turisti visitano il museo.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il viaggio porta nel Medio Egitto, una zona meno conosciuta dai turisti.",
-            "point": "Il complemento d'agente con 'da' (conosciuta dai turisti).",
-            "explanation": "Quando l'azione è subita, chi la compie si introduce con 'da': 'conosciuta dai turisti' significa che sono i turisti a conoscere il luogo. 'Meno' forma il comparativo di minoranza.",
-            "why_tricky": "Gli studenti confondono 'da' (agente) con 'di', e dimenticano l'accordo del participio 'conosciuta' con 'zona' (femminile)."
-          },
-          {
-            "sentence": "In alcuni punti del deserto ci sono fossili di balena, molto antichi.",
-            "point": "L'uso di 'c'è / ci sono' per indicare esistenza.",
-            "explanation": "'Ci sono' si usa con i nomi al plurale ('fossili'), mentre 'c'è' si usa con il singolare. Indica che qualcosa esiste o si trova in un luogo.",
-            "why_tricky": "È facile usare 'c'è' anche con il plurale, dimenticando l'accordo tra 'ci sono' e il nome plurale."
-          },
-          {
-            "sentence": "Questo viaggio è perfetto per chi ama la natura, la storia e l'avventura.",
-            "point": "Il pronome relativo 'chi' (uguale a 'le persone che').",
-            "explanation": "'Chi' unisce due idee e significa 'la persona che' o 'le persone che'. Il verbo dopo 'chi' va sempre al singolare: 'chi ama'.",
-            "why_tricky": "Si tende a mettere il verbo al plurale dopo 'chi', oppure a confonderlo con 'che'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "lontano dalla folla",
-            "meaning": "in un posto tranquillo, con poche persone",
-            "example": "Cerco una spiaggia lontano dalla folla."
-          },
-          {
-            "phrase": "un modo diverso di vedere le cose",
-            "meaning": "una prospettiva nuova, un altro punto di vista",
-            "example": "Viaggiare ti dà un modo diverso di vedere le cose."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove va il viaggio descritto nell'articolo?",
-            "type": "open"
-          },
-          {
-            "q": "Quali cose sorprendenti si possono vedere nel deserto?",
-            "type": "open"
-          },
-          {
-            "q": "Per quale tipo di persona è perfetto questo viaggio? Perché?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace viaggiare in posti tranquilli o preferisci le città famose e piene di gente? Scrivi un breve testo e spiega perché."
       }
     }
   ]
