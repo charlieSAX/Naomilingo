@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-06-28T20:18:43Z",
+  "generated_at": "2026-06-29T08:14:03Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-29-funghi-sottosuolo",
+      "title": "I funghi re del sottosuolo, la loro rete è 1 miliardo di volte la distanza Terra-Sole",
+      "source": "ANSA",
+      "date": "2026-06-29",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "natura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-funghi-sottosuolo",
+        "revision": 1,
+        "meta": {
+          "title": "I funghi re del sottosuolo, la loro rete è 1 miliardo di volte la distanza Terra-Sole",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/06/29/i-funghi-re-del-sottosuolo-la-loro-rete-e-1-miliardo-di-volte-la-distanza-terra-sole_3cec45c7-75ae-4ddc-8235-20ed5b812f0f.html",
+          "date_published": "2026-06-29",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "scienza",
+            "natura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Mushrooms and fungi are much more important than we think. A new scientific map shows that they live mostly underground, where they form a huge network. This network connects the roots of plants and helps them grow. Scientists call it the underground network. According to the study, it is extremely long: in total it measures about a billion times the distance between the Earth and the Sun.\n\nFungi are not only useful for making sauce or pizza. Underground they do a job that is fundamental for nature. They exchange water and nutrients with trees and help the soil stay healthy. They also capture part of the carbon and in this way they protect the climate. For this reason experts ask us to study them and protect them better. Knowing fungi better can help us defend the forests and the whole planet.",
+        "resumen_es": "I funghi sono molto più importanti di quanto pensiamo. Una nuova mappa scientifica mostra che vivono soprattutto sotto terra, dove formano una rete enorme. Questa rete collega le radici delle piante e le aiuta a crescere. Gli scienziati la chiamano la rete del sottosuolo. Secondo lo studio, è lunghissima: in totale misura circa un miliardo di volte la distanza tra la Terra e il Sole.\n\nI funghi non servono solo a fare il sugo o la pizza. Sotto terra fanno un lavoro fondamentale per la natura. Scambiano acqua e sostanze nutritive con gli alberi e aiutano il terreno a restare sano. Inoltre catturano una parte del carbonio e così proteggono il clima. Per questo gli esperti chiedono di studiarli e di proteggerli meglio. Conoscere meglio i funghi può aiutarci a difendere le foreste e tutto il pianeta.",
+        "vocab": [
+          {
+            "front": "il fungo",
+            "pos": "noun",
+            "back": "mushroom, fungus",
+            "example": "Mi piacciono i funghi sulla pizza.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rete",
+            "pos": "noun",
+            "back": "net, network",
+            "example": "Ho una grande rete di amici.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sottosuolo",
+            "pos": "noun",
+            "back": "the underground, subsoil",
+            "example": "Molti animali vivono nel sottosuolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la radice",
+            "pos": "noun",
+            "back": "root",
+            "example": "Le radici dell'albero sono profonde.",
+            "tier": "B1"
+          },
+          {
+            "front": "collegare",
+            "pos": "verb",
+            "back": "to connect, link",
+            "example": "Il ponte collega due città.",
+            "tier": "B1"
+          },
+          {
+            "front": "crescere",
+            "pos": "verb",
+            "back": "to grow",
+            "example": "Le piante crescono in fretta.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo scienziato",
+            "pos": "noun",
+            "back": "scientist",
+            "example": "Lo scienziato studia il clima.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sostanza nutritiva",
+            "pos": "phrase",
+            "back": "nutrient",
+            "example": "La frutta contiene molte sostanze nutritive.",
+            "tier": "B2"
+          },
+          {
+            "front": "scambiare",
+            "pos": "verb",
+            "back": "to exchange",
+            "example": "Scambiano regali a Natale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il terreno",
+            "pos": "noun",
+            "back": "soil, ground",
+            "example": "Questo terreno è molto fertile.",
+            "tier": "B1"
+          },
+          {
+            "front": "catturare",
+            "pos": "verb",
+            "back": "to capture, trap",
+            "example": "La pianta cattura la luce del sole.",
+            "tier": "B2"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Dobbiamo proteggere la natura.",
+            "tier": "B1"
+          },
+          {
+            "front": "la foresta",
+            "pos": "noun",
+            "back": "forest",
+            "example": "La foresta è piena di alberi.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Questa rete collega le radici delle piante e le aiuta a crescere.",
+            "point": "aiutare a più infinito",
+            "explanation": "Il verbo aiutare è seguito dalla preposizione a e poi dall'infinito: aiuta a crescere.",
+            "why_tricky": "Gli studenti dimenticano la a; inoltre le qui è il pronome diretto che sostituisce le piante."
+          },
+          {
+            "sentence": "Secondo lo studio, è lunghissima: in totale misura circa un miliardo di volte la distanza tra la Terra e il Sole.",
+            "point": "il superlativo assoluto in -issima",
+            "explanation": "Aggiungendo -issimo o -issima si dice molto lungo: lunghissima vuol dire very long.",
+            "why_tricky": "L'aggettivo deve accordarsi in genere e numero e perde la vocale finale prima di -issim-."
+          },
+          {
+            "sentence": "Per questo gli esperti chiedono di studiarli e di proteggerli meglio.",
+            "point": "il pronome attaccato all'infinito",
+            "explanation": "Il pronome li, che indica i funghi, si attacca alla fine dell'infinito: studiarli, proteggerli.",
+            "why_tricky": "L'infinito perde la -e finale prima del pronome (studiare diventa studiar più li)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "più di quanto pensiamo",
+            "meaning": "more than we think",
+            "example": "Questo problema è serio più di quanto pensiamo."
+          },
+          {
+            "phrase": "crescere come funghi",
+            "meaning": "to spring up very quickly, multiply fast",
+            "example": "In centro i nuovi bar crescono come funghi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove vivono soprattutto i funghi, secondo la mappa?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i funghi sono importanti per la natura e per il clima?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono di fare gli esperti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perché è importante proteggere la natura che non vediamo, come il sottosuolo? Scrivi qualche frase con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-smartphone-vacanza",
+      "title": "Digitale in vacanza, per gli esperti bisogna preparare lo smartphone prima di partire",
+      "source": "ANSA",
+      "date": "2026-06-29",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "viaggi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-smartphone-vacanza",
+        "revision": 1,
+        "meta": {
+          "title": "Digitale in vacanza, per gli esperti bisogna preparare lo smartphone prima di partire",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/06/28/digitale-in-vacanza-per-gli-esperti-bisogna-preparare-lo-smartphone-prima-di-partire_16c64bbb-ce68-4d6b-8f95-f48335a13a4e.html",
+          "date_published": "2026-06-29",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "tecnologia",
+            "viaggi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Summer has arrived and many people are leaving for the holidays. Technology experts give a simple piece of advice: before leaving, it is better to prepare your smartphone well. The phone, in fact, is useful for many things while travelling. We use it for maps, for photos, to pay and to stay in touch with the family. If it is ready, we avoid many problems during the trip.\n\nThe specialists suggest some useful apps. An app to organize the trip, a translator to understand other languages and a virtual SIM to use the internet abroad without spending too much. It is also important to be careful with online scams, which are more common on holiday. With a few minutes of preparation, the smartphone becomes a real help. This way we can enjoy the trip without bad surprises and with more peace of mind.",
+        "resumen_es": "L'estate è arrivata e molte persone partono per le vacanze. Gli esperti di tecnologia danno un consiglio semplice: prima di partire, è meglio preparare bene lo smartphone. Il telefono, infatti, serve per tante cose in viaggio. Lo usiamo per le mappe, per le foto, per pagare e per restare in contatto con la famiglia. Se è pronto, evitiamo molti problemi durante il viaggio.\n\nGli specialisti suggeriscono alcune applicazioni utili. Una app per organizzare il viaggio, un traduttore per capire le altre lingue e una sim virtuale per usare internet all'estero senza spendere troppo. È importante anche fare attenzione alle truffe online, che sono più frequenti in vacanza. Con qualche minuto di preparazione, lo smartphone diventa un vero aiuto. Così possiamo goderci il viaggio senza brutte sorprese e con più tranquillità.",
+        "vocab": [
+          {
+            "front": "partire",
+            "pos": "verb",
+            "back": "to leave, depart",
+            "example": "Partiamo domani mattina presto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vacanza",
+            "pos": "noun",
+            "back": "holiday, vacation",
+            "example": "Vado in vacanza al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "advice, piece of advice",
+            "example": "Ti do un buon consiglio.",
+            "tier": "B1"
+          },
+          {
+            "front": "preparare",
+            "pos": "verb",
+            "back": "to prepare, get ready",
+            "example": "Preparo la valigia stasera.",
+            "tier": "B1"
+          },
+          {
+            "front": "il viaggio",
+            "pos": "noun",
+            "back": "trip, journey",
+            "example": "Ti auguro un buon viaggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "restare in contatto",
+            "pos": "phrase",
+            "back": "to stay in touch",
+            "example": "Restiamo in contatto via email.",
+            "tier": "B1"
+          },
+          {
+            "front": "evitare",
+            "pos": "verb",
+            "back": "to avoid",
+            "example": "Voglio evitare i problemi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traduttore",
+            "pos": "noun",
+            "back": "translator",
+            "example": "Uso un traduttore online.",
+            "tier": "B1"
+          },
+          {
+            "front": "all'estero",
+            "pos": "adv",
+            "back": "abroad",
+            "example": "Quest'anno lavoro all'estero.",
+            "tier": "B1"
+          },
+          {
+            "front": "la truffa",
+            "pos": "noun",
+            "back": "scam, fraud",
+            "example": "Attenzione alle truffe online.",
+            "tier": "B2"
+          },
+          {
+            "front": "fare attenzione",
+            "pos": "phrase",
+            "back": "to pay attention, be careful",
+            "example": "Fai attenzione quando guidi.",
+            "tier": "B1"
+          },
+          {
+            "front": "godersi",
+            "pos": "verb",
+            "back": "to enjoy (something)",
+            "example": "Mi godo le vacanze al sole.",
+            "tier": "B2"
+          },
+          {
+            "front": "la sorpresa",
+            "pos": "noun",
+            "back": "surprise",
+            "example": "Che bella sorpresa vederti!",
+            "tier": "B1"
+          },
+          {
+            "front": "la tranquillità",
+            "pos": "noun",
+            "back": "calm, peace of mind",
+            "example": "Cerco un po' di tranquillità.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Lo usiamo per le mappe, per le foto, per pagare e per restare in contatto con la famiglia.",
+            "point": "il pronome diretto lo",
+            "explanation": "Lo sostituisce un oggetto maschile singolare, qui lo smartphone, e va prima del verbo: lo usiamo.",
+            "why_tricky": "In italiano il pronome precede il verbo, al contrario dell'ordine delle parole in inglese."
+          },
+          {
+            "sentence": "Con qualche minuto di preparazione, lo smartphone diventa un vero aiuto.",
+            "point": "qualche più sostantivo singolare",
+            "explanation": "Qualche vuole sempre il sostantivo al singolare, anche se il significato è plurale: qualche minuto.",
+            "why_tricky": "Gli studenti dicono qualche minuti, ma la forma corretta è qualche minuto."
+          },
+          {
+            "sentence": "Così possiamo goderci il viaggio senza brutte sorprese e con più tranquillità.",
+            "point": "verbo riflessivo con pronome attaccato",
+            "explanation": "Con potere più infinito, il pronome ci si attacca all'infinito: goderci il viaggio.",
+            "why_tricky": "Si può dire anche ci possiamo godere; nella forma attaccata l'infinito perde la -e finale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare attenzione",
+            "meaning": "to be careful, watch out",
+            "example": "Fai attenzione quando attraversi la strada."
+          },
+          {
+            "phrase": "una brutta sorpresa",
+            "meaning": "an unpleasant surprise",
+            "example": "Il conto al ristorante è stato una brutta sorpresa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quale consiglio danno gli esperti prima di partire?",
+            "type": "open"
+          },
+          {
+            "q": "Quali applicazioni sono utili in viaggio, secondo gli specialisti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è importante fare attenzione alle truffe online in vacanza?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Tu come prepari il telefono prima di un viaggio? Scrivi quali app usi e perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-orsara-arte-strada",
+      "title": "Galleria a cielo aperto nei vicoli di Orsara, sui muri i volti dei cittadini",
+      "source": "ANSA",
+      "date": "2026-06-27",
+      "level": "A2-B1",
+      "topics": [
+        "arte",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-orsara-arte-strada",
+        "revision": 1,
+        "meta": {
+          "title": "Galleria a cielo aperto nei vicoli di Orsara, sui muri i volti dei cittadini",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/regione/puglia/2026/06/27/galleria-a-cielo-aperto-nei-vicoli-di-orsara-sui-muri-i-volti-dei_dc8ecf8b-2f41-470d-94e6-7080f4fcef42.html",
+          "date_published": "2026-06-27",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "arte",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Orsara di Puglia, a small village in the province of Foggia, a very special art gallery has been born. It is not inside a museum, but outdoors, along the streets of the historic centre. Since this morning, thirty large photographs cover the walls of the houses. The images show the faces of the village's residents: men, women and elderly people who have always lived there.\n\nThe idea is simple but very beautiful. Art leaves the museum and enters everyday life. Anyone walking through the alleys can look into the eyes of the local people and learn their story. The project wants to promote the village and attract new visitors. For the residents it is also a way to feel like protagonists. In this way a small town becomes a big open-air museum, open to everyone and free.",
+        "resumen_es": "A Orsara di Puglia, un piccolo borgo in provincia di Foggia, è nata una galleria d'arte molto speciale. Non si trova dentro un museo, ma all'aperto, lungo le strade del centro storico. Da questa mattina, trenta grandi fotografie coprono i muri delle case. Le immagini mostrano i volti degli abitanti del paese: uomini, donne e anziani che vivono lì da sempre.\n\nL'idea è semplice ma molto bella. L'arte esce dal museo ed entra nella vita di tutti i giorni. Chi passeggia per i vicoli può guardare negli occhi le persone del posto e conoscere la loro storia. Il progetto vuole valorizzare il borgo e attirare nuovi visitatori. Per gli abitanti è anche un modo per sentirsi protagonisti. Così un piccolo paese diventa un grande museo a cielo aperto, aperto a tutti e gratuito.",
+        "vocab": [
+          {
+            "front": "il borgo",
+            "pos": "noun",
+            "back": "small town, village",
+            "example": "Vivono in un antico borgo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la galleria d'arte",
+            "pos": "phrase",
+            "back": "art gallery",
+            "example": "Visitiamo una galleria d'arte moderna.",
+            "tier": "B1"
+          },
+          {
+            "front": "all'aperto",
+            "pos": "adv",
+            "back": "outdoors, in the open air",
+            "example": "D'estate mangiamo all'aperto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il centro storico",
+            "pos": "phrase",
+            "back": "historic centre, old town",
+            "example": "Il centro storico è molto bello.",
+            "tier": "B1"
+          },
+          {
+            "front": "il muro",
+            "pos": "noun",
+            "back": "wall",
+            "example": "I muri della casa sono bianchi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il volto",
+            "pos": "noun",
+            "back": "face",
+            "example": "Aveva un volto sorridente.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'abitante",
+            "pos": "noun",
+            "back": "inhabitant, resident",
+            "example": "Gli abitanti del paese sono gentili.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'anziano",
+            "pos": "noun",
+            "back": "elderly person",
+            "example": "Aiuto spesso gli anziani.",
+            "tier": "B1"
+          },
+          {
+            "front": "passeggiare",
+            "pos": "verb",
+            "back": "to stroll, walk",
+            "example": "Mi piace passeggiare in centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vicolo",
+            "pos": "noun",
+            "back": "alley, narrow street",
+            "example": "Ci siamo persi nei vicoli.",
+            "tier": "B2"
+          },
+          {
+            "front": "valorizzare",
+            "pos": "verb",
+            "back": "to promote, make the most of",
+            "example": "Vogliono valorizzare il territorio.",
+            "tier": "B2"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "La mostra attira molti turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "visitor",
+            "example": "I visitatori arrivano d'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "gratuito",
+            "pos": "adj",
+            "back": "free (of charge)",
+            "example": "L'ingresso al parco è gratuito.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Orsara di Puglia, un piccolo borgo in provincia di Foggia, è nata una galleria d'arte molto speciale.",
+            "point": "passato prossimo con essere",
+            "explanation": "Verbi come nascere usano essere; il participio si accorda con il soggetto, qui nata al femminile (una galleria).",
+            "why_tricky": "Bisogna scegliere tra essere e avere e ricordare l'accordo del participio con il soggetto."
+          },
+          {
+            "sentence": "Chi passeggia per i vicoli può guardare negli occhi le persone del posto e conoscere la loro storia.",
+            "point": "il pronome relativo chi",
+            "explanation": "Chi significa la persona che e vuole il verbo al singolare: chi passeggia.",
+            "why_tricky": "Gli studenti confondono chi con che; chi contiene già il senso di colui che."
+          },
+          {
+            "sentence": "Le immagini mostrano i volti degli abitanti del paese: uomini, donne e anziani che vivono lì da sempre.",
+            "point": "la preposizione articolata degli",
+            "explanation": "Di si unisce all'articolo: di più gli fa degli, davanti a nomi maschili plurali che iniziano per vocale.",
+            "why_tricky": "Ci sono molte forme da ricordare: del, dello, dei, degli, delle."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a cielo aperto",
+            "meaning": "open-air, in the open",
+            "example": "C'è un mercato a cielo aperto ogni domenica."
+          },
+          {
+            "phrase": "guardare negli occhi",
+            "meaning": "to look someone in the eye",
+            "example": "Mi ha guardato negli occhi e ha sorriso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa è nato a Orsara di Puglia?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa mostrano le trenta fotografie?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono gli obiettivi del progetto per il borgo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe vedere l'arte per le strade della tua città? Scrivi qualche frase e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-06-28-fratelli-gol-mondiali",
       "title": "Mondiali: Luckassen e Brobbey, i fratelli in gol con nazionali diverse",
@@ -6226,534 +6747,6 @@
           }
         ],
         "opinion_prompt": "Ti piace la moda? Scrivi alcune frasi sul tuo stile preferito e sui vestiti che ami indossare."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-spagna-arabia-mondiali",
-      "title": "Mondiali: poker all'Arabia, Yamal e Oyarzabal rilanciano la Spagna",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "calcio",
-        "sport"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-spagna-arabia-mondiali",
-        "revision": 1,
-        "meta": {
-          "title": "Mondiali: poker all'Arabia, Yamal e Oyarzabal rilanciano la Spagna",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/21/mondiali-poker-allarabia-yamal-e-oyarzabal-rilanciano-la-spagna_3664dd08-0f1a-424e-9b9f-167f06cd33eb.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "calcio",
-            "sport"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "At the 2026 football World Cup, Spain won against Saudi Arabia by four goals to nil. It was an easy match for the Spanish team. The players played very well and scored four goals. The young Yamal scored his first goal at the World Cup. Oyarzabal also scored twice. The crowd applauded the fine victory. For Spain it was a very important result.\n\nBefore this match, Spain had disappointed its fans a little. In the first game, in fact, it had not managed to win. Now, instead, the team has found confidence and good play again. This success helps Spain to get through to the next round. The Spanish national team is one of the favourites of the tournament. The fans dream of going far in this competition. The next match will be another important test. Everyone is waiting to see whether the team will continue like this.",
-        "resumen_es": "Ai Mondiali di calcio del 2026 la Spagna ha vinto contro l'Arabia Saudita per quattro a zero. È stata una partita facile per la squadra spagnola. I giocatori hanno giocato molto bene e hanno segnato quattro gol. Il giovane Yamal ha realizzato il suo primo gol al Mondiale. Anche Oyarzabal ha segnato due volte. Il pubblico ha applaudito la bella vittoria. Per la Spagna è stato un risultato molto importante.\n\nPrima di questa partita la Spagna aveva deluso un po' i suoi tifosi. Nel primo incontro infatti non era riuscita a vincere. Ora invece la squadra ha ritrovato fiducia e gioco. Questo successo aiuta la Spagna a passare il turno. La nazionale spagnola è una delle favorite del torneo. I tifosi sognano di arrivare lontano in questa competizione. La prossima partita sarà un'altra prova importante. Tutti aspettano di vedere se la squadra continuerà così.",
-        "vocab": [
-          {
-            "front": "la partita",
-            "pos": "noun",
-            "back": "the match, the game",
-            "example": "La partita comincia alle otto.",
-            "tier": "A2"
-          },
-          {
-            "front": "la squadra",
-            "pos": "noun",
-            "back": "the team",
-            "example": "La mia squadra ha vinto ieri.",
-            "tier": "A2"
-          },
-          {
-            "front": "segnare",
-            "pos": "verb",
-            "back": "to score (a goal)",
-            "example": "Ha segnato un gol bellissimo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vittoria",
-            "pos": "noun",
-            "back": "the victory, the win",
-            "example": "È stata una grande vittoria.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "the fan, the supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la nazionale",
-            "pos": "noun",
-            "back": "the national team",
-            "example": "La nazionale gioca domani sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "il torneo",
-            "pos": "noun",
-            "back": "the tournament",
-            "example": "Il torneo dura quasi un mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il risultato",
-            "pos": "noun",
-            "back": "the result, the score",
-            "example": "Il risultato finale è due a uno.",
-            "tier": "B1"
-          },
-          {
-            "front": "passare il turno",
-            "pos": "phrase",
-            "back": "to get through to the next round",
-            "example": "La squadra vuole passare il turno.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fiducia",
-            "pos": "noun",
-            "back": "confidence, trust",
-            "example": "I giocatori hanno ritrovato fiducia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il favorito",
-            "pos": "noun",
-            "back": "the favourite",
-            "example": "La Spagna è una delle favorite.",
-            "tier": "B1"
-          },
-          {
-            "front": "prossimo",
-            "pos": "adj",
-            "back": "next",
-            "example": "La prossima partita è importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "deludere",
-            "pos": "verb",
-            "back": "to disappoint",
-            "example": "Il risultato ha deluso i tifosi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the public, the crowd",
-            "example": "Il pubblico ha applaudito a lungo.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il giovane Yamal ha realizzato il suo primo gol al Mondiale.",
-            "point": "Passato prossimo with the auxiliary 'avere'",
-            "explanation": "'Ha realizzato' is the passato prossimo of 'realizzare', formed with 'avere' plus the participle, used for a completed past action.",
-            "why_tricky": "Learners must choose between 'avere' and 'essere'; transitive verbs like 'realizzare' take 'avere' and the participle does not agree with the subject."
-          },
-          {
-            "sentence": "Nel primo incontro infatti non era riuscita a vincere.",
-            "point": "Trapassato prossimo with 'essere' and participle agreement",
-            "explanation": "'Era riuscita' is the past perfect of 'riuscire', built with 'essere'; the participle 'riuscita' agrees with 'la Spagna' (feminine).",
-            "why_tricky": "Verbs with 'essere' need participle agreement, so the masculine 'riuscito' would be wrong here."
-          },
-          {
-            "sentence": "Tutti aspettano di vedere se la squadra continuerà così.",
-            "point": "Future in an indirect question after 'se'",
-            "explanation": "'Se' here means 'whether', and 'continuerà' is the future of 'continuare' inside the reported question.",
-            "why_tricky": "Learners read 'se' as 'if' and may avoid the future, but in indirect questions the future is correct."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "passare il turno",
-            "meaning": "to qualify for the next round (in sport)",
-            "example": "Con questa vittoria possono passare il turno."
-          },
-          {
-            "phrase": "arrivare lontano",
-            "meaning": "to go far, to achieve a lot",
-            "example": "Questa squadra può arrivare lontano nel torneo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come è finita la partita tra la Spagna e l'Arabia Saudita?",
-            "type": "open"
-          },
-          {
-            "q": "Chi ha segnato i gol per la Spagna?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa vittoria è importante per la squadra spagnola?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace il calcio? Scrivi alcune frasi sulla tua squadra preferita o su uno sport che ami guardare."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-fondriest-ciclisti-sicurezza",
-      "title": "L'appello di Fondriest: \"L'auto è un'arma, servono sanzioni severe e ciclabili serie\"",
-      "source": "RaiNews",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "sicurezza",
-        "sport"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-fondriest-ciclisti-sicurezza",
-        "revision": 1,
-        "meta": {
-          "title": "L'appello di Fondriest: \"L'auto è un'arma, servono sanzioni severe e ciclabili serie\"",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/video/2026/06/lappello-di-fondriest-lauto-e-unarma-servono-sanzioni-severe-e-ciclabili-serie-3ad6abfa-462f-4b41-b225-eba32ca46f6c.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "sicurezza",
-            "sport"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The former cycling world champion Fondriest is asking for more safety for cyclists. According to him, the roads are too dangerous for those who ride a bicycle. For this reason he demands stricter rules and more careful checks. Fondriest also wants more cycle lanes in the cities. His aim is to protect young people above all. The sportsman speaks with passion about this problem. His voice is listened to a lot in the world of sport.\n\nIn recent years many cyclists have had accidents on Italian roads. For this reason the issue of safety has become very important. Fondriest proposes harsh penalties for those who do not respect the rules. He also asks for safe spaces where young people can train without fear. The sports associations support this request. Many families too hope for a fast change. The champion invites everyone to drive with more care and respect. Only in this way, he says, will the roads become safer for everyone.",
-        "resumen_es": "L'ex campione del mondo di ciclismo Fondriest chiede più sicurezza per i ciclisti. Secondo lui, le strade sono troppo pericolose per chi va in bicicletta. Per questo motivo domanda regole più severe e controlli più attenti. Fondriest vuole anche più piste ciclabili nelle città. Il suo obiettivo è proteggere soprattutto i giovani. Lo sportivo parla con passione di questo problema. La sua voce è molto ascoltata nel mondo dello sport.\n\nNegli ultimi anni molti ciclisti hanno avuto incidenti sulle strade italiane. Per questo il tema della sicurezza è diventato molto importante. Fondriest propone sanzioni dure per chi non rispetta le regole. Inoltre chiede spazi sicuri dove i ragazzi possono allenarsi senza paura. Le associazioni sportive sostengono questa richiesta. Anche molte famiglie sperano in un cambiamento rapido. Il campione invita tutti a guidare con più attenzione e rispetto. Solo così, dice, le strade diventeranno più sicure per tutti.",
-        "vocab": [
-          {
-            "front": "il ciclista",
-            "pos": "noun",
-            "back": "the cyclist",
-            "example": "Il ciclista pedala molto veloce.",
-            "tier": "A2"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "safety, security",
-            "example": "La sicurezza sulla strada è importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "la strada",
-            "pos": "noun",
-            "back": "the road, the street",
-            "example": "La strada è molto trafficata.",
-            "tier": "A2"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Questo incrocio è pericoloso.",
-            "tier": "A2"
-          },
-          {
-            "front": "la pista ciclabile",
-            "pos": "noun",
-            "back": "the cycle lane",
-            "example": "In città manca una pista ciclabile sicura.",
-            "tier": "B1"
-          },
-          {
-            "front": "la regola",
-            "pos": "noun",
-            "back": "the rule",
-            "example": "Bisogna rispettare le regole della strada.",
-            "tier": "A2"
-          },
-          {
-            "front": "la sanzione",
-            "pos": "noun",
-            "back": "the penalty, the fine",
-            "example": "La sanzione per chi corre è severa.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'incidente",
-            "pos": "noun",
-            "back": "the accident",
-            "example": "Ha avuto un incidente in bicicletta.",
-            "tier": "B1"
-          },
-          {
-            "front": "allenarsi",
-            "pos": "verb",
-            "back": "to train, to practise",
-            "example": "I ragazzi si allenano ogni giorno.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "the aim, the goal",
-            "example": "Il suo obiettivo è molto chiaro.",
-            "tier": "B1"
-          },
-          {
-            "front": "rispettare",
-            "pos": "verb",
-            "back": "to respect, to obey",
-            "example": "Devi rispettare il semaforo rosso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il campione",
-            "pos": "noun",
-            "back": "the champion",
-            "example": "È un campione del mondo di ciclismo.",
-            "tier": "A2"
-          },
-          {
-            "front": "severo",
-            "pos": "adj",
-            "back": "strict, harsh",
-            "example": "Le nuove regole sono molto severe.",
-            "tier": "B1"
-          },
-          {
-            "front": "soprattutto",
-            "pos": "adv",
-            "back": "above all, especially",
-            "example": "Voglio aiutare soprattutto i giovani.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo lui, le strade sono troppo pericolose per chi va in bicicletta.",
-            "point": "'chi' as an indefinite relative pronoun",
-            "explanation": "'Chi' means 'the person who' or 'those who' and always takes a singular verb: 'chi va in bicicletta'.",
-            "why_tricky": "Learners want a plural verb because the meaning feels plural, but 'chi' is grammatically singular."
-          },
-          {
-            "sentence": "Per questo il tema della sicurezza è diventato molto importante.",
-            "point": "Passato prossimo with 'essere' (diventare)",
-            "explanation": "'È diventato' uses 'essere' because 'diventare' is a verb of change of state; the participle agrees with 'il tema' (masculine singular).",
-            "why_tricky": "Many learners use 'avere' by default, but verbs like diventare, andare and arrivare need 'essere'."
-          },
-          {
-            "sentence": "Solo così, dice, le strade diventeranno più sicure per tutti.",
-            "point": "Simple future 'diventeranno' + comparative 'più sicure'",
-            "explanation": "'Diventeranno' is the future of 'diventare', and 'più sicure' is the comparative 'safer', agreeing with 'le strade'.",
-            "why_tricky": "The future stem of diventare (divent-) and the adjective agreement (sicure, feminine plural) are both easy to get wrong."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "secondo me/lui",
-            "meaning": "in my/his opinion",
-            "example": "Secondo me, la sicurezza viene prima di tutto."
-          },
-          {
-            "phrase": "per questo motivo",
-            "meaning": "for this reason, that is why",
-            "example": "Piove molto, per questo motivo restiamo a casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa chiede Fondriest per i ciclisti?",
-            "type": "open"
-          },
-          {
-            "q": "Perché le strade sono pericolose per chi va in bicicletta?",
-            "type": "open"
-          },
-          {
-            "q": "Quali soluzioni propone il campione per migliorare la sicurezza?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Vai spesso in bicicletta? Scrivi alcune frasi sulla sicurezza stradale nella tua città e su come si potrebbe migliorare."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-21-prime-stelle-gas",
-      "title": "Visto il gas che ha formato le prime stelle",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "spazio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-21-prime-stelle-gas",
-        "revision": 1,
-        "meta": {
-          "title": "Visto il gas che ha formato le prime stelle",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/06/21/visto-il-gas-che-ha-formato-le-prime-stelle_98bed71f-8749-4982-a830-44348b8bac18.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-21",
-          "tags": [
-            "scienza",
-            "spazio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Scientists have made an important discovery in space. For the first time, they have seen the gas that formed the first stars in the universe. This gas is very old. It formed shortly after the Big Bang, that is, at the beginning of everything. The news is very interesting for those who study the sky.\n\nThe first stars were born a very long time ago, billions of years before us. For astronomers it is hard to see them, because they are extremely far away. With modern telescopes, however, today we can observe the light of the past. In this way, scientists understand better how the universe was born. Every new discovery helps us to know our history. Space, in fact, is still full of mysteries to discover.",
-        "resumen_es": "Gli scienziati hanno fatto una scoperta importante nello spazio. Hanno visto per la prima volta il gas che ha formato le prime stelle dell'universo. Questo gas è molto antico. Si è formato poco dopo il Big Bang, cioè all'inizio di tutto. La notizia è molto interessante per chi studia il cielo.\n\nLe prime stelle sono nate tanto tempo fa, miliardi di anni prima di noi. Per gli astronomi è difficile vederle, perché sono lontanissime. Con i telescopi moderni, però, oggi possiamo osservare la luce del passato. Così gli scienziati capiscono meglio come è nato l'universo. Ogni nuova scoperta ci aiuta a conoscere la nostra storia. Lo spazio, infatti, è ancora pieno di misteri da scoprire.",
-        "vocab": [
-          {
-            "front": "la scoperta",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "Una grande scoperta scientifica.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo spazio",
-            "pos": "noun",
-            "back": "space",
-            "example": "Lo spazio è infinito.",
-            "tier": "A2"
-          },
-          {
-            "front": "la stella",
-            "pos": "noun",
-            "back": "star",
-            "example": "La stella brilla nel cielo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il gas",
-            "pos": "noun",
-            "back": "gas",
-            "example": "Il gas è invisibile.",
-            "tier": "A2"
-          },
-          {
-            "front": "antico",
-            "pos": "adj",
-            "back": "ancient, old",
-            "example": "Un libro molto antico.",
-            "tier": "A2"
-          },
-          {
-            "front": "formarsi",
-            "pos": "verb",
-            "back": "to form, take shape",
-            "example": "Le nuvole si formano in cielo.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascere",
-            "pos": "verb",
-            "back": "to be born",
-            "example": "L'universo è nato tanto tempo fa.",
-            "tier": "A2"
-          },
-          {
-            "front": "lontanissimo",
-            "pos": "adj",
-            "back": "very far away",
-            "example": "La stella è lontanissima.",
-            "tier": "A2"
-          },
-          {
-            "front": "il telescopio",
-            "pos": "noun",
-            "back": "telescope",
-            "example": "Guardo le stelle con il telescopio.",
-            "tier": "B1"
-          },
-          {
-            "front": "osservare",
-            "pos": "verb",
-            "back": "to observe, watch",
-            "example": "Osserviamo il cielo di notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cielo",
-            "pos": "noun",
-            "back": "sky",
-            "example": "Il cielo è sereno.",
-            "tier": "A2"
-          },
-          {
-            "front": "il mistero",
-            "pos": "noun",
-            "back": "mystery",
-            "example": "È ancora un mistero.",
-            "tier": "B1"
-          },
-          {
-            "front": "capire",
-            "pos": "verb",
-            "back": "to understand",
-            "example": "Voglio capire meglio.",
-            "tier": "A2"
-          },
-          {
-            "front": "la luce",
-            "pos": "noun",
-            "back": "light",
-            "example": "La luce delle stelle è debole.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Hanno visto per la prima volta il gas che ha formato le prime stelle dell'universo.",
-            "point": "Passato prossimo con «avere»",
-            "explanation": "«hanno visto» e «ha formato» sono passato prossimo: presente di avere più participio passato (visto, formato).",
-            "why_tricky": "Il participio «visto» (da vedere) è irregolare e lo studente deve scegliere avere, non essere."
-          },
-          {
-            "sentence": "Con i telescopi moderni, però, oggi possiamo osservare la luce del passato.",
-            "point": "«potere + infinito»",
-            "explanation": "«possiamo osservare» è il verbo modale potere seguito dall'infinito.",
-            "why_tricky": "I verbi modali sono seguiti direttamente dall'infinito, senza preposizione."
-          },
-          {
-            "sentence": "Ogni nuova scoperta ci aiuta a conoscere la nostra storia.",
-            "point": "«aiutare a + infinito» + pronome «ci»",
-            "explanation": "«aiutare» vuole la preposizione «a» prima dell'infinito; «ci» significa «noi».",
-            "why_tricky": "Lo studente dimentica la preposizione «a» e può sbagliare la posizione del pronome «ci»."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tanto tempo fa",
-            "meaning": "a long time ago",
-            "example": "Tanto tempo fa vivevo in campagna."
-          },
-          {
-            "phrase": "per la prima volta",
-            "meaning": "for the first time",
-            "example": "Oggi vado a Roma per la prima volta."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno visto gli scienziati nello spazio?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è difficile vedere le prime stelle?",
-            "type": "open"
-          },
-          {
-            "q": "Come ci aiutano i telescopi moderni?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti interessa lo spazio? Scrivi qualche frase: vorresti viaggiare tra le stelle? Perché sì o perché no?"
       }
     }
   ]
