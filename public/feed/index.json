@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-06-29T08:14:03Z",
+  "generated_at": "2026-06-29T20:15:08Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-06-29-bambini-caldo-consigli",
+      "title": "I 10 consigli degli esperti per proteggere i bambini dal caldo",
+      "source": "ANSA",
+      "date": "2026-06-29",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "bambini"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-bambini-caldo-consigli",
+        "revision": 1,
+        "meta": {
+          "title": "I 10 consigli degli esperti per proteggere i bambini dal caldo",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/notizie_dai_pediatri/2026/06/26/i-10-consigli-degli-esperti-per-proteggere-i-bambini-dal-caldo_7dcfa20a-238c-4dc8-9e86-450c8dcefdc7.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "salute",
+            "bambini"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "These days it is very hot in much of Italy. Strong heat can be dangerous, especially for small children. For this reason, the experts of a children's hospital have given some advice to parents. The most important thing is to make children drink often, even when they are not thirsty. It is also useful to dress them in light clothes and keep them in cool places, away from the sun during the central hours of the day.\n\nParents must pay attention to some signs. If a child has very hot skin, is tired or does not want to eat, it is better to call the doctor. A very important piece of advice is never to leave children alone in the car, because inside the temperature rises in a few minutes. With these small actions, parents can protect their children and spend the summer in a safe way. Pets also need fresh water and shade.",
+        "resumen_es": "In questi giorni fa molto caldo in gran parte d'Italia. Il caldo forte può essere pericoloso, soprattutto per i bambini piccoli. Per questo gli esperti di un ospedale pediatrico hanno dato alcuni consigli ai genitori. La cosa più importante è far bere spesso i bambini, anche quando non hanno sete. È utile anche vestirli con abiti leggeri e tenerli in luoghi freschi, lontano dal sole delle ore centrali del giorno.\n\nI genitori devono fare attenzione ad alcuni segnali. Se un bambino ha la pelle molto calda, è stanco o non vuole mangiare, è meglio chiamare il medico. Un consiglio molto importante è non lasciare mai i bambini soli in auto, perché dentro la temperatura sale in pochi minuti. Con questi piccoli gesti, i genitori possono proteggere i loro figli e passare l'estate in modo sicuro. Anche gli animali domestici hanno bisogno di acqua fresca e ombra.",
+        "vocab": [
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "heat",
+            "example": "Oggi c'è molto caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "pericoloso",
+            "pos": "adj",
+            "back": "dangerous",
+            "example": "Il sole forte è pericoloso.",
+            "tier": "A2"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "(piece of) advice",
+            "example": "Ti do un buon consiglio.",
+            "tier": "A2"
+          },
+          {
+            "front": "i genitori",
+            "pos": "noun",
+            "back": "parents",
+            "example": "I genitori amano i loro figli.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere sete",
+            "pos": "phrase",
+            "back": "to be thirsty",
+            "example": "Ho sete, voglio dell'acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "leggero",
+            "pos": "adj",
+            "back": "light (clothing)",
+            "example": "In estate porto vestiti leggeri.",
+            "tier": "A2"
+          },
+          {
+            "front": "fresco",
+            "pos": "adj",
+            "back": "cool, fresh",
+            "example": "Cerco un posto fresco.",
+            "tier": "A2"
+          },
+          {
+            "front": "fare attenzione",
+            "pos": "phrase",
+            "back": "to pay attention, to be careful",
+            "example": "Fai attenzione quando attraversi.",
+            "tier": "A2"
+          },
+          {
+            "front": "la pelle",
+            "pos": "noun",
+            "back": "skin",
+            "example": "Ha la pelle molto chiara.",
+            "tier": "B1"
+          },
+          {
+            "front": "stanco",
+            "pos": "adj",
+            "back": "tired",
+            "example": "Sono stanco dopo il lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il medico",
+            "pos": "noun",
+            "back": "doctor",
+            "example": "Domani vado dal medico.",
+            "tier": "A2"
+          },
+          {
+            "front": "lasciare",
+            "pos": "verb",
+            "back": "to leave (something/someone)",
+            "example": "Non lasciare la porta aperta.",
+            "tier": "A2"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Il cappello protegge dal sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ombra",
+            "pos": "noun",
+            "back": "shade, shadow",
+            "example": "I bambini giocano all'ombra.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La cosa più importante è far bere spesso i bambini, anche quando non hanno sete.",
+            "point": "Causativo 'fare + infinito'",
+            "explanation": "'far bere' significa 'far sì che qualcuno beva'. La struttura 'fare + infinito' indica che facciamo fare un'azione a un'altra persona.",
+            "why_tricky": "In inglese si usa 'make someone drink'; in italiano 'fare' e l'infinito stanno vicini ('far bere')."
+          },
+          {
+            "sentence": "Un consiglio molto importante è non lasciare mai i bambini soli in auto, perché dentro la temperatura sale in pochi minuti.",
+            "point": "Doppia negazione 'non ... mai'",
+            "explanation": "'non lasciare mai' significa 'in nessun caso'. In italiano la negazione usa due parole: 'non' prima del verbo e 'mai' dopo.",
+            "why_tricky": "In inglese basta una parola ('never'); in italiano servono sia 'non' sia 'mai'."
+          },
+          {
+            "sentence": "I genitori devono fare attenzione ad alcuni segnali.",
+            "point": "'dovere + infinito' e la 'd' eufonica",
+            "explanation": "'devono fare' usa il verbo modale 'dovere' seguito dall'infinito. 'ad alcuni' aggiunge una 'd' perché la parola dopo inizia per vocale.",
+            "why_tricky": "La 'd' eufonica ('ad', 'ed') si usa per rendere il suono più scorrevole davanti a una vocale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere bisogno di",
+            "meaning": "necessitare di qualcosa",
+            "example": "In estate gli animali hanno bisogno di acqua."
+          },
+          {
+            "phrase": "in modo sicuro",
+            "meaning": "in maniera sicura, senza pericoli",
+            "example": "Voglio passare le vacanze in modo sicuro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il caldo forte è pericoloso per i bambini piccoli?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli danno gli esperti ai genitori?",
+            "type": "open"
+          },
+          {
+            "q": "Perché non bisogna lasciare i bambini soli in auto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come passi le giornate molto calde dell'estate? Scrivi un piccolo testo e racconta che cosa fai per stare fresco e che cosa bevi o mangi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-taylor-swift-nozze",
+      "title": "Taylor Swift e Travis Kelce pronti alle nozze al Madison Square Garden",
+      "source": "ANSA",
+      "date": "2026-06-29",
+      "level": "A2-B1",
+      "topics": [
+        "spettacolo",
+        "musica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-taylor-swift-nozze",
+        "revision": 1,
+        "meta": {
+          "title": "Taylor Swift e Travis Kelce pronti alle nozze al Madison Square Garden",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/06/26/taylor-swift-e-travis-kelce-taylor-pronti-alle-nozze-al-madison-square_4a292dd8-3742-4476-a660-5c90283ab726.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "spettacolo",
+            "musica"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Taylor Swift is one of the most famous singers in the world. For some time she has been together with Travis Kelce, an American football player who is very well known in the United States. Now the newspapers are talking about big news: the couple might get married soon. According to some rumours, the wedding could take place in New York, in a special place like Madison Square Garden, a famous arena where concerts and matches are held.\n\nFor now the two artists have not confirmed anything. These are only rumours and nobody knows the exact date. The fans, however, are very curious and are waiting with excitement for official news. Taylor Swift, in fact, has millions of admirers all over the world, and every detail of her life immediately becomes a topic of conversation. If the news were true, it would surely be one of the most followed events of the year on social media and on television.",
+        "resumen_es": "Taylor Swift è una delle cantanti più famose del mondo. Da qualche tempo sta insieme a Travis Kelce, un giocatore di football americano molto conosciuto negli Stati Uniti. Adesso i giornali parlano di una grande novità: la coppia potrebbe sposarsi presto. Secondo alcune voci, il matrimonio potrebbe avere luogo a New York, in un posto speciale come il Madison Square Garden, una famosa arena dove si tengono concerti e partite.\n\nPer ora i due artisti non hanno confermato niente. Si tratta solo di voci e nessuno conosce la data esatta. I fan, però, sono molto curiosi e aspettano con emozione una notizia ufficiale. Taylor Swift, infatti, ha milioni di ammiratori in tutto il mondo, e ogni dettaglio della sua vita diventa subito argomento di conversazione. Se la notizia fosse vera, sarebbe sicuramente uno degli eventi più seguiti dell'anno sui social e in televisione.",
+        "vocab": [
+          {
+            "front": "la cantante",
+            "pos": "noun",
+            "back": "singer (female)",
+            "example": "La cantante ha una bella voce.",
+            "tier": "A2"
+          },
+          {
+            "front": "famoso",
+            "pos": "adj",
+            "back": "famous",
+            "example": "È un attore molto famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "stare insieme (a)",
+            "pos": "phrase",
+            "back": "to be together, to be in a relationship (with)",
+            "example": "Stanno insieme da due anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il giocatore",
+            "pos": "noun",
+            "back": "player",
+            "example": "Il giocatore ha segnato un gol.",
+            "tier": "A2"
+          },
+          {
+            "front": "la coppia",
+            "pos": "noun",
+            "back": "couple",
+            "example": "Sono una coppia molto unita.",
+            "tier": "A2"
+          },
+          {
+            "front": "sposarsi",
+            "pos": "verb",
+            "back": "to get married",
+            "example": "Si sposano in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "il matrimonio",
+            "pos": "noun",
+            "back": "wedding, marriage",
+            "example": "Il matrimonio sarà a giugno.",
+            "tier": "A2"
+          },
+          {
+            "front": "la voce",
+            "pos": "noun",
+            "back": "rumour (also: voice)",
+            "example": "Girano voci su di loro.",
+            "tier": "B1"
+          },
+          {
+            "front": "confermare",
+            "pos": "verb",
+            "back": "to confirm",
+            "example": "Non hanno confermato la notizia.",
+            "tier": "B1"
+          },
+          {
+            "front": "curioso",
+            "pos": "adj",
+            "back": "curious",
+            "example": "I bambini sono molto curiosi.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ammiratore",
+            "pos": "noun",
+            "back": "admirer, fan",
+            "example": "Ha tanti ammiratori in Italia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dettaglio",
+            "pos": "noun",
+            "back": "detail",
+            "example": "Mi ha raccontato ogni dettaglio.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere luogo",
+            "pos": "phrase",
+            "back": "to take place",
+            "example": "La festa avrà luogo in giardino.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguito",
+            "pos": "adj",
+            "back": "followed, popular",
+            "example": "È un programma molto seguito.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo alcune voci, il matrimonio potrebbe avere luogo a New York, in un posto speciale come il Madison Square Garden, una famosa arena dove si tengono concerti e partite.",
+            "point": "Condizionale 'potrebbe' e 'si' passivante",
+            "explanation": "'potrebbe' è il condizionale di 'potere' e indica una possibilità, qualcosa di non sicuro. 'si tengono' usa il 'si' passivante: i concerti vengono organizzati lì.",
+            "why_tricky": "Il condizionale serve per le ipotesi; il 'si tengono' sembra riflessivo ma in realtà ha valore passivo."
+          },
+          {
+            "sentence": "Per ora i due artisti non hanno confermato niente.",
+            "point": "Passato prossimo e doppia negazione",
+            "explanation": "'hanno confermato' è il passato prossimo con l'ausiliare 'avere'. 'non ... niente' è una doppia negazione tipica dell'italiano.",
+            "why_tricky": "In italiano 'non' e 'niente' stanno insieme; in inglese si usa una sola negazione."
+          },
+          {
+            "sentence": "Se la notizia fosse vera, sarebbe sicuramente uno degli eventi più seguiti dell'anno sui social e in televisione.",
+            "point": "Periodo ipotetico (congiuntivo + condizionale)",
+            "explanation": "'Se ... fosse ... sarebbe' è un periodo ipotetico: il congiuntivo imperfetto 'fosse' esprime un'ipotesi e il condizionale 'sarebbe' la conseguenza.",
+            "why_tricky": "Serve coordinare due modi verbali diversi (congiuntivo e condizionale) nella stessa frase."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da qualche tempo",
+            "meaning": "da un periodo non molto lungo, da un po'",
+            "example": "Da qualche tempo studio il tedesco."
+          },
+          {
+            "phrase": "si tratta di",
+            "meaning": "riguarda, è una questione di",
+            "example": "Non è sicuro: si tratta solo di voci."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi sono Taylor Swift e Travis Kelce?",
+            "type": "open"
+          },
+          {
+            "q": "Di quale novità parlano i giornali?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i due artisti non hanno ancora detto niente di sicuro?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace seguire le notizie sulle persone famose? Scrivi un piccolo testo e spiega perché sì o perché no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-06-29-ioleggoperche-libri",
+      "title": "#ioleggoperché, dal 7 al 15 novembre l'iniziativa Aie per donare libri alle biblioteche",
+      "source": "ANSA",
+      "date": "2026-06-29",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "lettura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-06-29-ioleggoperche-libri",
+        "revision": 1,
+        "meta": {
+          "title": "#ioleggoperché, dal 7 al 15 novembre l'iniziativa Aie per donare libri alle biblioteche",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/06/25/ioleggoperche-dal-7-al-15-novembre-liniziativa-aie-per-donare-libri-a-biblioteche_956502b6-f85c-415e-a53f-4a5a34088458.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-06-29",
+          "tags": [
+            "cultura",
+            "lettura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In November a lovely initiative for books and reading returns to Italy. It is called #ioleggoperche and it is organised by the association of Italian publishers. The idea is simple: for a few days, people can buy a book in a bookshop and donate it to a school. In this way school libraries receive many new books and young people have more stories to read. Publishing houses also take part and give away thousands of books.\n\nThe aim of the initiative is to grow the love of reading among children and young people. Reading, in fact, helps to learn new words, to use the imagination and to understand the world better. This year part of the books will go above all to some regions of southern Italy, where the schools need them most. Anyone can take part: you just have to go to a bookshop, choose a book and donate it. It is a small gesture that can make a big difference.",
+        "resumen_es": "A novembre torna in Italia una bella iniziativa per i libri e la lettura. Si chiama #ioleggoperché ed è organizzata dall'associazione degli editori italiani. L'idea è semplice: per alcuni giorni, le persone possono comprare un libro in libreria e donarlo a una scuola. Così le biblioteche delle scuole ricevono tanti libri nuovi e i ragazzi hanno più storie da leggere. Anche le case editrici partecipano e regalano migliaia di libri.\n\nL'obiettivo dell'iniziativa è far crescere l'amore per la lettura tra i bambini e i ragazzi. Leggere, infatti, aiuta a imparare parole nuove, a usare la fantasia e a capire meglio il mondo. Quest'anno una parte dei libri andrà soprattutto ad alcune regioni del Sud Italia, dove le scuole hanno più bisogno. Chiunque può partecipare: basta andare in una libreria, scegliere un libro e donarlo. È un piccolo gesto che può fare una grande differenza.",
+        "vocab": [
+          {
+            "front": "la lettura",
+            "pos": "noun",
+            "back": "reading",
+            "example": "La lettura è il mio passatempo preferito.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'iniziativa",
+            "pos": "noun",
+            "back": "initiative",
+            "example": "È una bella iniziativa per la scuola.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'editore",
+            "pos": "noun",
+            "back": "publisher",
+            "example": "L'editore pubblica molti libri nuovi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la libreria",
+            "pos": "noun",
+            "back": "bookshop (not 'library')",
+            "example": "Compro un libro in libreria.",
+            "tier": "A2"
+          },
+          {
+            "front": "donare",
+            "pos": "verb",
+            "back": "to donate, to give",
+            "example": "Vorrei donare questi libri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la biblioteca",
+            "pos": "noun",
+            "back": "library",
+            "example": "Studio in biblioteca ogni giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "la scuola",
+            "pos": "noun",
+            "back": "school",
+            "example": "I bambini vanno a scuola la mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "la casa editrice",
+            "pos": "phrase",
+            "back": "publishing house",
+            "example": "Lavora per una casa editrice.",
+            "tier": "B1"
+          },
+          {
+            "front": "regalare",
+            "pos": "verb",
+            "back": "to give as a gift",
+            "example": "Ti regalo questo libro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "aim, goal",
+            "example": "Il nostro obiettivo è leggere di più.",
+            "tier": "B1"
+          },
+          {
+            "front": "far crescere",
+            "pos": "phrase",
+            "back": "to make grow, to develop",
+            "example": "Lo sport fa crescere i bambini sani.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fantasia",
+            "pos": "noun",
+            "back": "imagination",
+            "example": "I libri stimolano la fantasia.",
+            "tier": "A2"
+          },
+          {
+            "front": "chiunque",
+            "pos": "pron",
+            "back": "anyone, whoever",
+            "example": "Chiunque può partecipare al gioco.",
+            "tier": "B1"
+          },
+          {
+            "front": "il gesto",
+            "pos": "noun",
+            "back": "gesture, action",
+            "example": "È stato un gesto molto gentile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'idea è semplice: per alcuni giorni, le persone possono comprare un libro in libreria e donarlo a una scuola.",
+            "point": "'potere + infinito' e pronome attaccato all'infinito",
+            "explanation": "'possono comprare' usa 'potere' più l'infinito. In 'donarlo', il pronome 'lo' (il libro) si attacca alla fine dell'infinito.",
+            "why_tricky": "In italiano il pronome oggetto si unisce all'infinito formando una sola parola ('donarlo')."
+          },
+          {
+            "sentence": "L'obiettivo dell'iniziativa è far crescere l'amore per la lettura tra i bambini e i ragazzi.",
+            "point": "Causativo 'far crescere' e preposizione articolata",
+            "explanation": "'far crescere' significa aiutare qualcosa a diventare più grande. 'dell'' è la preposizione 'di' unita all'articolo 'l''.",
+            "why_tricky": "Le preposizioni articolate (di + l' = dell') si scrivono in una parola sola e cambiano forma."
+          },
+          {
+            "sentence": "Quest'anno una parte dei libri andrà soprattutto ad alcune regioni del Sud Italia, dove le scuole hanno più bisogno.",
+            "point": "Futuro semplice 'andrà'",
+            "explanation": "'andrà' è il futuro semplice del verbo 'andare', che è irregolare. Si usa per parlare di qualcosa che succederà.",
+            "why_tricky": "Il futuro di 'andare' perde una vocale e raddoppia la 'r' ('andrà'), quindi non segue il modello regolare."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare una grande differenza",
+            "meaning": "avere un effetto importante",
+            "example": "Un piccolo aiuto può fare una grande differenza."
+          },
+          {
+            "phrase": "avere bisogno (di)",
+            "meaning": "necessitare di qualcosa",
+            "example": "Le scuole hanno bisogno di nuovi libri."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cos'è #ioleggoperché e chi la organizza?",
+            "type": "open"
+          },
+          {
+            "q": "Come possono partecipare le persone a questa iniziativa?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il testo, è importante leggere?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace leggere? Scrivi un piccolo testo e racconta qual è il tuo libro preferito e perché lo consiglieresti a un amico."
+      }
+    },
     {
       "pack_id": "feed-2026-06-29-funghi-sottosuolo",
       "title": "I funghi re del sottosuolo, la loro rete è 1 miliardo di volte la distanza Terra-Sole",
@@ -6261,492 +6789,6 @@
           }
         ],
         "opinion_prompt": "Ti piacerebbe fare un colloquio di lavoro con un computer invece che con una persona? Spiega in poche frasi perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-23-gioielli-cardinale",
-      "title": "All'asta da Christie's i gioielli di Claudia Cardinale",
-      "source": "ANSA",
-      "date": "2026-06-22",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "cinema"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-23-gioielli-cardinale",
-        "revision": 1,
-        "meta": {
-          "title": "All'asta da Christie's i gioielli di Claudia Cardinale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/06/22/allasta-da-christies-i-gioielli-di-claudia-cardinale_f047d71c-0bb8-4d62-b406-d36061e6b5ac.html",
-          "date_published": "2026-06-22",
-          "date_processed": "2026-06-23",
-          "tags": [
-            "cultura",
-            "cinema"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Claudia Cardinale's jewels are going up for auction. The famous Italian actress, one of the great stars of cinema, has left a beautiful collection of precious stones. Among the pieces there are rings, necklaces and earrings from famous brands such as Bulgari and Van Cleef. The auction house Christie's is organising the sale, and many collectors are waiting for this moment with great interest.\n\nBut this sale is not only about luxury. A part of the money will go to a foundation that helps young women artists. In this way, the jewels of a great actress become support for the women who today want to work in the world of art. The life of Claudia Cardinale thus continues to inspire new generations, also through a gesture of solidarity.",
-        "resumen_es": "I gioielli di Claudia Cardinale vanno all'asta. La famosa attrice italiana, una delle grandi star del cinema, ha lasciato una bellissima collezione di pietre preziose. Tra i pezzi ci sono anelli, collane e orecchini di marchi celebri come Bulgari e Van Cleef. La casa d'aste Christie's organizza la vendita e molti collezionisti aspettano questo momento con grande interesse.\n\nMa questa vendita non pensa solo al lusso. Una parte dei soldi andrà a una fondazione che aiuta le giovani artiste. In questo modo, i gioielli di una grande attrice diventano un sostegno per le donne che oggi vogliono lavorare nel mondo dell'arte. La vita di Claudia Cardinale continua così a ispirare nuove generazioni, anche attraverso un gesto di solidarietà.",
-        "vocab": [
-          {
-            "front": "il gioiello",
-            "pos": "noun",
-            "back": "jewel, piece of jewellery",
-            "example": "Questo gioiello è molto antico.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'asta",
-            "pos": "noun",
-            "back": "auction",
-            "example": "Il quadro è stato venduto all'asta.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'attrice",
-            "pos": "noun",
-            "back": "actress",
-            "example": "L'attrice ha vinto un premio.",
-            "tier": "A2"
-          },
-          {
-            "front": "la collana",
-            "pos": "noun",
-            "back": "necklace",
-            "example": "Porta una collana d'oro.",
-            "tier": "A2"
-          },
-          {
-            "front": "prezioso",
-            "pos": "adj",
-            "back": "precious, valuable",
-            "example": "È una pietra molto preziosa.",
-            "tier": "B1"
-          },
-          {
-            "front": "il marchio",
-            "pos": "noun",
-            "back": "brand",
-            "example": "È un marchio molto conosciuto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vendita",
-            "pos": "noun",
-            "back": "sale",
-            "example": "La vendita comincia domani.",
-            "tier": "A2"
-          },
-          {
-            "front": "il collezionista",
-            "pos": "noun",
-            "back": "collector",
-            "example": "Il collezionista cerca pezzi rari.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fondazione",
-            "pos": "noun",
-            "back": "foundation (charity)",
-            "example": "La fondazione aiuta i giovani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sostegno",
-            "pos": "noun",
-            "back": "support",
-            "example": "Offrono un sostegno alle famiglie.",
-            "tier": "B1"
-          },
-          {
-            "front": "la solidarietà",
-            "pos": "noun",
-            "back": "solidarity",
-            "example": "È un gesto di solidarietà importante.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Tra i pezzi ci sono anelli, collane e orecchini di marchi celebri come Bulgari e Van Cleef.",
-            "point": "'ci sono' for plural 'there are'",
-            "explanation": "Italian uses 'c'è' with a singular noun and 'ci sono' with plural nouns. Here the plural 'anelli, collane e orecchini' requires 'ci sono'.",
-            "why_tricky": "English keeps 'there is/are' simple, but learners often leave 'c'è' even when the following noun is plural."
-          },
-          {
-            "sentence": "Una parte dei soldi andrà a una fondazione che aiuta le giovani artiste.",
-            "point": "Future 'andrà' and the relative 'che'",
-            "explanation": "'Andrà' is the simple future of the irregular 'andare'. 'Che' introduces a relative clause describing the foundation.",
-            "why_tricky": "The future of 'andare' uses the stem 'andr-', which is irregular and easy to confuse with the present 'va'."
-          },
-          {
-            "sentence": "La vita di Claudia Cardinale continua così a ispirare nuove generazioni, anche attraverso un gesto di solidarietà.",
-            "point": "'continuare a' plus infinitive",
-            "explanation": "The verb 'continuare' needs the preposition 'a' before another verb, so we say 'continua a ispirare'.",
-            "why_tricky": "English says 'continue to inspire' or 'continue inspiring', so learners forget the obligatory 'a' in Italian."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare all'asta",
-            "meaning": "to go up for auction",
-            "example": "La villa andrà all'asta il mese prossimo."
-          },
-          {
-            "phrase": "in questo modo",
-            "meaning": "in this way, thus",
-            "example": "In questo modo possiamo aiutare tutti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa va all'asta e chi era Claudia Cardinale?",
-            "type": "open"
-          },
-          {
-            "q": "Quali tipi di gioielli fanno parte della collezione?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa vendita è speciale e a chi andrà una parte dei soldi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è una buona idea vendere oggetti famosi per aiutare i giovani artisti? Spiega la tua opinione in poche frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-23-lucio-corsi-palazzetti",
-      "title": "Lucio Corsi si prepara al debutto nei palazzetti italiani con l'arrivo di nuova musica",
-      "source": "ANSA",
-      "date": "2026-06-22",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-23-lucio-corsi-palazzetti",
-        "revision": 1,
-        "meta": {
-          "title": "Lucio Corsi si prepara al debutto nei palazzetti italiani con l'arrivo di nuova musica",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/06/22/lucio-corsi-si-prepara-al-debutto-nei-palazzetti-italiani-con-larrivo-di-nuova_964cdd73-70bd-4cd0-b95b-a85708443e2f.html",
-          "date_published": "2026-06-22",
-          "date_processed": "2026-06-23",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The singer Lucio Corsi is getting ready for a new adventure. For the first time he will play in the big Italian arenas, the indoor venues where the most important concerts are held. The tour will begin on 27 November and will stop in cities such as Florence, Rome and Milan. Along with the tour comes new music too, because the singer-songwriter is preparing more songs for his fans.\n\nThis step is very important in Lucio Corsi's career. Playing in arenas means having an audience that is bigger and more devoted. The singer is known for his original style and for lyrics full of poetic images. Now many people are waiting for the new concerts, which promise shows full of emotion. For his admirers, the winter of 2026 will be a season not to be missed.",
-        "resumen_es": "Il cantante Lucio Corsi si prepara a una nuova avventura. Per la prima volta suonerà nei grandi palazzetti italiani, gli spazi al chiuso dove si tengono i concerti più importanti. Il tour comincerà il 27 novembre e toccherà città come Firenze, Roma e Milano. Insieme al tour arriva anche nuova musica, perché il cantautore sta preparando altre canzoni per i suoi fan.\n\nQuesto passo è molto importante nella carriera di Lucio Corsi. Suonare nei palazzetti significa avere un pubblico sempre più grande e affezionato. Il cantante è conosciuto per il suo stile originale e per i testi pieni di immagini poetiche. Adesso molti aspettano i nuovi concerti, che promettono spettacoli ricchi di emozioni. Per i suoi ammiratori, l'inverno del 2026 sarà una stagione da non perdere.",
-        "vocab": [
-          {
-            "front": "il cantante",
-            "pos": "noun",
-            "back": "singer",
-            "example": "Il cantante saluta il pubblico.",
-            "tier": "A2"
-          },
-          {
-            "front": "il palazzetto",
-            "pos": "noun",
-            "back": "indoor arena, sports hall",
-            "example": "Il concerto è in un palazzetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il concerto",
-            "pos": "noun",
-            "back": "concert",
-            "example": "Il concerto comincia alle nove.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tour",
-            "pos": "noun",
-            "back": "tour",
-            "example": "Il tour passa per molte città.",
-            "tier": "A2"
-          },
-          {
-            "front": "la canzone",
-            "pos": "noun",
-            "back": "song",
-            "example": "Questa canzone è bellissima.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cantautore",
-            "pos": "noun",
-            "back": "singer-songwriter",
-            "example": "È un cantautore molto amato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico applaude felice.",
-            "tier": "B1"
-          },
-          {
-            "front": "affezionato",
-            "pos": "adj",
-            "back": "devoted, fond",
-            "example": "Ha un pubblico affezionato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il testo",
-            "pos": "noun",
-            "back": "lyrics, text",
-            "example": "I testi delle sue canzoni sono poetici.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spettacolo",
-            "pos": "noun",
-            "back": "show, performance",
-            "example": "Lo spettacolo dura due ore.",
-            "tier": "A2"
-          },
-          {
-            "front": "la stagione",
-            "pos": "noun",
-            "back": "season",
-            "example": "L'inverno è la mia stagione preferita.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Per la prima volta suonerà nei grandi palazzetti italiani, gli spazi al chiuso dove si tengono i concerti più importanti.",
-            "point": "Future 'suonerà' and passive 'si'",
-            "explanation": "'Suonerà' is the simple future of 'suonare'. 'Si tengono' uses the passive 'si', meaning the concerts 'are held', and the verb agrees with the plural 'concerti'.",
-            "why_tricky": "The 'si' construction has no direct English equal, and the verb must agree with the noun, so it becomes plural 'tengono'."
-          },
-          {
-            "sentence": "Insieme al tour arriva anche nuova musica, perché il cantautore sta preparando altre canzoni per i suoi fan.",
-            "point": "Present continuous 'stare' plus gerund",
-            "explanation": "'Sta preparando' is 'stare' plus the gerund and describes an action happening now. 'Insieme a' means 'together with'.",
-            "why_tricky": "Italian often prefers the simple present, so the 'stare + gerundio' form for ongoing action is easy to overuse or forget."
-          },
-          {
-            "sentence": "Suonare nei palazzetti significa avere un pubblico sempre più grande e affezionato.",
-            "point": "Infinitive as subject and 'sempre più'",
-            "explanation": "Here 'suonare' works like a noun, the subject of 'significa'. 'Sempre più' means 'more and more' before an adjective.",
-            "why_tricky": "English would use the -ing form ('playing') as the subject, while Italian uses the plain infinitive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da non perdere",
-            "meaning": "not to be missed",
-            "example": "È una mostra da non perdere."
-          },
-          {
-            "phrase": "sempre più",
-            "meaning": "more and more",
-            "example": "Il gruppo è sempre più famoso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa farà Lucio Corsi per la prima volta?",
-            "type": "open"
-          },
-          {
-            "q": "Quando comincia il tour e quali città toccherà?",
-            "type": "open"
-          },
-          {
-            "q": "Perché suonare nei palazzetti è importante per la sua carriera?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è l'ultimo concerto che hai visto o che vorresti vedere? Descrivi in poche frasi com'è stato o come lo immagini."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-22-moschino-direttori",
-      "title": "Messina e Rizzo nuovi direttori creativi di Moschino",
-      "source": "ANSA",
-      "date": "2026-06-21",
-      "level": "A2-B1",
-      "topics": [
-        "moda",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-22-moschino-direttori",
-        "revision": 1,
-        "meta": {
-          "title": "Messina e Rizzo nuovi direttori creativi di Moschino",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/06/21/messina-e-rizzo-nuovi-direttori-creativi-di-moschino_8ada7279-f1d0-4a01-a8d3-6c1a4322d222.html",
-          "date_published": "2026-06-21",
-          "date_processed": "2026-06-22",
-          "tags": [
-            "moda",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The fashion house Moschino has two new creative directors. They are called Messina and Rizzo and they will work together. Their job is to guide the style of the Italian brand. They arrive after the departure of the previous director. The news is important in the world of fashion. Many people are waiting to see their ideas. The two designers already have experience in the sector. Now they will have a great responsibility.\n\nTheir first public work will be in September. In that month there will be Milan Fashion Week. There the two directors will present the new collection. It will be their debut in front of the public and the press. Moschino is a brand famous for its colourful and cheerful clothes. Customers want to understand whether the style will change. For the moment the company has not given other details. The world of fashion watches this new beginning with curiosity.",
-        "resumen_es": "La casa di moda Moschino ha due nuovi direttori creativi. Si chiamano Messina e Rizzo e lavoreranno insieme. Il loro compito è guidare lo stile del marchio italiano. Arrivano dopo l'addio del direttore precedente. La notizia è importante nel mondo della moda. Molte persone aspettano di vedere le loro idee. I due stilisti hanno già esperienza nel settore. Ora avranno una grande responsabilità.\n\nIl primo lavoro pubblico sarà a settembre. In quel mese ci sarà la Settimana della Moda di Milano. Lì i due direttori presenteranno la nuova collezione. Sarà il loro debutto davanti al pubblico e alla stampa. Moschino è un marchio famoso per i suoi abiti colorati e allegri. I clienti vogliono capire se lo stile cambierà. Per il momento l'azienda non ha dato altri dettagli. Il mondo della moda osserva con curiosità questo nuovo inizio.",
-        "vocab": [
-          {
-            "front": "la moda",
-            "pos": "noun",
-            "back": "fashion",
-            "example": "Mi piace molto la moda italiana.",
-            "tier": "A2"
-          },
-          {
-            "front": "il direttore creativo",
-            "pos": "noun",
-            "back": "the creative director",
-            "example": "Il direttore creativo decide lo stile.",
-            "tier": "B1"
-          },
-          {
-            "front": "il marchio",
-            "pos": "noun",
-            "back": "the brand",
-            "example": "È un marchio molto famoso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il compito",
-            "pos": "noun",
-            "back": "the task, the job",
-            "example": "Il suo compito non è facile.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo stilista",
-            "pos": "noun",
-            "back": "the (fashion) designer",
-            "example": "Lo stilista disegna i vestiti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la collezione",
-            "pos": "noun",
-            "back": "the collection",
-            "example": "La nuova collezione è bellissima.",
-            "tier": "A2"
-          },
-          {
-            "front": "il debutto",
-            "pos": "noun",
-            "back": "the debut",
-            "example": "Tutti aspettano il suo debutto.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'abito",
-            "pos": "noun",
-            "back": "the dress, the garment",
-            "example": "Indossa un abito elegante.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'addio",
-            "pos": "noun",
-            "back": "the farewell, the departure",
-            "example": "Ha detto addio al vecchio lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il settore",
-            "pos": "noun",
-            "back": "the sector, the field",
-            "example": "Lavora nel settore della moda.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stampa",
-            "pos": "noun",
-            "back": "the press, the media",
-            "example": "La stampa segue l'evento con attenzione.",
-            "tier": "B1"
-          },
-          {
-            "front": "colorato",
-            "pos": "adj",
-            "back": "colourful",
-            "example": "Porta sempre abiti colorati.",
-            "tier": "A2"
-          },
-          {
-            "front": "insieme",
-            "pos": "adv",
-            "back": "together",
-            "example": "Lavorano insieme ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "la responsabilità",
-            "pos": "noun",
-            "back": "the responsibility",
-            "example": "Ha una grande responsabilità.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il loro compito è guidare lo stile del marchio italiano.",
-            "point": "Possessive 'il loro' with the definite article",
-            "explanation": "In Italian the possessive normally keeps its article: 'il loro compito' (their task). 'Loro' never changes form.",
-            "why_tricky": "English has no article before possessives, so learners drop the 'il', and 'loro' is invariable unlike altri possessivi."
-          },
-          {
-            "sentence": "In quel mese ci sarà la Settimana della Moda di Milano.",
-            "point": "Future of 'esserci' (ci sarà = there will be)",
-            "explanation": "'Ci sarà' is the future of 'esserci' and means 'there will be', with 'ci' marking existence or presence.",
-            "why_tricky": "Learners forget the 'ci' particle or confuse 'ci sarà' (there will be) with 'sarà' (he/she/it will be)."
-          },
-          {
-            "sentence": "I clienti vogliono capire se lo stile cambierà.",
-            "point": "Future in an indirect question after 'se'",
-            "explanation": "Here 'se' means 'whether', and the future 'cambierà' refers to a possible future change inside a reported question.",
-            "why_tricky": "'Se' looks like the conditional 'if', but in indirect questions it means 'whether' and the future tense is normal."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per il momento",
-            "meaning": "for now, for the time being",
-            "example": "Per il momento non possiamo dire di più."
-          },
-          {
-            "phrase": "dire addio a",
-            "meaning": "to say goodbye to, to leave something behind",
-            "example": "Ha detto addio alla vecchia vita e si è trasferito."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi sono i nuovi direttori creativi di Moschino?",
-            "type": "open"
-          },
-          {
-            "q": "Quando e dove presenteranno la nuova collezione?",
-            "type": "open"
-          },
-          {
-            "q": "Perché Moschino è un marchio famoso?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace la moda? Scrivi alcune frasi sul tuo stile preferito e sui vestiti che ami indossare."
       }
     }
   ]
