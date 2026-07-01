@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-06-30T20:17:29Z",
+  "generated_at": "2026-07-01T08:20:01Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-01-trenitalia-attacco-hacker",
+      "title": "Attacco hacker a Trenitalia, accesso ai dati personali di alcuni clienti",
+      "source": "ANSA",
+      "date": "2026-07-01",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "cronaca"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-trenitalia-attacco-hacker",
+        "revision": 1,
+        "meta": {
+          "title": "Attacco hacker a Trenitalia, accesso ai dati personali di alcuni clienti",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/attacco-hacker-su-alcuni-dati-personali-clienti-di-trenitalia_26fb15dd-f829-4e4a-9da7-a0734b74fd13.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "tecnologia",
+            "cronaca"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Trenitalia, the main train company in Italy, has suffered a cyberattack. Some hackers managed to get into the systems and saw the personal data of some customers, such as their first name, surname and email address. The company, however, explains that payment data, that is the credit card numbers, was not touched. Trenitalia warned the people involved and apologised. Experts are still checking what happened.\n\nThis case reminds us how important our data on the internet is. Hacker attacks against companies are more and more frequent. To protect themselves, experts recommend a few simple rules: use long and different passwords for each site, do not open strange emails and change your password from time to time. Companies too must invest more in security. Unfortunately, no one is ever safe, but with a little attention we can reduce the risks.",
+        "resumen_es": "Trenitalia, la principale azienda dei treni in Italia, ha subìto un attacco informatico. Alcuni hacker sono riusciti a entrare nei sistemi e hanno visto i dati personali di alcuni clienti, come il nome, il cognome e l'indirizzo email. L'azienda però spiega che i dati dei pagamenti, cioè i numeri delle carte di credito, non sono stati toccati. Trenitalia ha avvisato le persone coinvolte e ha chiesto scusa. Gli esperti stanno ancora controllando che cosa è successo.\n\nQuesto caso ci ricorda quanto sono importanti i nostri dati su internet. Gli attacchi hacker contro le aziende sono sempre più frequenti. Per proteggersi, gli esperti consigliano alcune regole semplici: usare password lunghe e diverse per ogni sito, non aprire email strane e cambiare la password ogni tanto. Anche le aziende devono investire di più nella sicurezza. Purtroppo nessuno è mai al sicuro, ma con un po' di attenzione possiamo ridurre i rischi.",
+        "vocab": [
+          {
+            "front": "attacco informatico",
+            "pos": "noun",
+            "back": "cyberattack",
+            "example": "L'azienda ha subìto un attacco informatico.",
+            "tier": "B1"
+          },
+          {
+            "front": "hacker",
+            "pos": "noun",
+            "back": "hacker",
+            "example": "Gli hacker sono entrati nel sistema.",
+            "tier": "A2"
+          },
+          {
+            "front": "dati personali",
+            "pos": "noun",
+            "back": "personal data",
+            "example": "Devi proteggere i tuoi dati personali.",
+            "tier": "A2"
+          },
+          {
+            "front": "azienda",
+            "pos": "noun",
+            "back": "company, firm",
+            "example": "Lavoro in una grande azienda.",
+            "tier": "A2"
+          },
+          {
+            "front": "cliente",
+            "pos": "noun",
+            "back": "customer, client",
+            "example": "Il cliente ha ricevuto un'email.",
+            "tier": "A2"
+          },
+          {
+            "front": "riuscire a",
+            "pos": "verb",
+            "back": "to manage to, succeed in",
+            "example": "Sono riuscito a finire il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "coinvolto",
+            "pos": "adj",
+            "back": "involved, affected",
+            "example": "Le persone coinvolte sono poche.",
+            "tier": "B1"
+          },
+          {
+            "front": "chiedere scusa",
+            "pos": "phrase",
+            "back": "to apologise",
+            "example": "Ha chiesto scusa per il ritardo.",
+            "tier": "A2"
+          },
+          {
+            "front": "sicurezza",
+            "pos": "noun",
+            "back": "security, safety",
+            "example": "La sicurezza online è importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "password",
+            "pos": "noun",
+            "back": "password",
+            "example": "Usa una password lunga.",
+            "tier": "A2"
+          },
+          {
+            "front": "proteggersi",
+            "pos": "verb",
+            "back": "to protect oneself",
+            "example": "Per proteggersi, usa l'antivirus.",
+            "tier": "B1"
+          },
+          {
+            "front": "ogni tanto",
+            "pos": "phrase",
+            "back": "every now and then",
+            "example": "Cambio la password ogni tanto.",
+            "tier": "A2"
+          },
+          {
+            "front": "al sicuro",
+            "pos": "phrase",
+            "back": "safe, out of danger",
+            "example": "Qui i dati sono al sicuro.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Alcuni hacker sono riusciti a entrare nei sistemi e hanno visto i dati personali di alcuni clienti, come il nome, il cognome e l'indirizzo email.",
+            "point": "Passato prossimo con essere e con avere",
+            "explanation": "'Sono riusciti' usa 'essere' e il participio concorda (-i, maschile plurale), mentre 'hanno visto' usa 'avere' e non concorda con il soggetto.",
+            "why_tricky": "Scegliere essere o avere, e ricordare che con essere il participio concorda con il soggetto, è una difficoltà classica."
+          },
+          {
+            "sentence": "L'azienda però spiega che i dati dei pagamenti, cioè i numeri delle carte di credito, non sono stati toccati.",
+            "point": "Passivo al passato prossimo (non sono stati toccati)",
+            "explanation": "Il passivo usa essere + participio: 'sono stati toccati' = 'were touched'. Qui è alla forma negativa: 'non sono stati toccati'.",
+            "why_tricky": "Mette insieme due participi ('stati toccati') e entrambi concordano con il soggetto 'i dati' (maschile plurale)."
+          },
+          {
+            "sentence": "Per proteggersi, gli esperti consigliano alcune regole semplici: usare password lunghe e diverse per ogni sito, non aprire email strane e cambiare la password ogni tanto.",
+            "point": "Infinito per dare consigli generali",
+            "explanation": "Per dare regole generali, l'italiano usa spesso l'infinito: 'usare... non aprire... cambiare...'. 'Per proteggersi' significa 'in order to protect yourself'.",
+            "why_tricky": "L'infinito negativo è 'non + infinito' ('non aprire'), diverso dalle forme dell'imperativo negativo che lo studente si aspetta."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "ogni tanto",
+            "meaning": "every now and then, occasionally",
+            "example": "Ogni tanto vado al cinema."
+          },
+          {
+            "phrase": "al sicuro",
+            "meaning": "safe, in a safe place",
+            "example": "Metti i documenti al sicuro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa è successo a Trenitalia?",
+            "type": "open"
+          },
+          {
+            "q": "Quali dati dei clienti non sono stati toccati?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli danno gli esperti per proteggere i nostri dati?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come proteggi i tuoi dati personali su internet? Scrivi alcune frasi con i tuoi consigli."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-01-volkswagen-fabbriche-tagli",
+      "title": "Nuovi tagli in arrivo per Volkswagen, chiudono 4 fabbriche",
+      "source": "ANSA",
+      "date": "2026-07-01",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-volkswagen-fabbriche-tagli",
+        "revision": 1,
+        "meta": {
+          "title": "Nuovi tagli in arrivo per Volkswagen, chiudono 4 fabbriche",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_motori/notizie/industria_analisi/2026/06/26/media-vw-intende-tagliare-altri-50.000-posti-di-lavoro_9e9b4faf-8d1e-4a77-9727-2805b22a95bd.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "economia",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Volkswagen, the big German carmaker, has announced new cuts. According to some reports, the company wants to close four factories and cut jobs. Thousands of workers thus risk losing their jobs. The company explains that it has to save money because it sells fewer cars than before. Moreover, the competition from Chinese electric cars is stronger and stronger. The plan is not final yet: first it has to be discussed and approved by the company's bosses in the month of July.\n\nThe news worries workers and the unions, which defend the workers' rights. For Germany, where cars are an important sector, this is a bad sign. Many people wonder how work will change in the coming years. Some think that electric cars will create new jobs. Others, instead, are afraid and ask the government for help. One thing is certain: the car industry in Europe is living through a period of great change.",
+        "resumen_es": "Volkswagen, la grande casa automobilistica tedesca, ha annunciato nuovi tagli. Secondo alcune notizie, l'azienda vuole chiudere quattro fabbriche e tagliare posti di lavoro. Migliaia di operai rischiano così di perdere il lavoro. La società spiega che deve risparmiare denaro perché vende meno automobili di prima. La concorrenza delle auto elettriche cinesi, inoltre, è sempre più forte. Il piano non è ancora definitivo: prima deve essere discusso e approvato dai capi dell'azienda nel mese di luglio.\n\nLa notizia preoccupa i lavoratori e i sindacati, che difendono i diritti degli operai. Per la Germania, dove le automobili sono un settore importante, si tratta di un brutto segnale. Molte persone si chiedono come cambierà il lavoro nei prossimi anni. Alcuni pensano che le auto elettriche creeranno nuovi posti di lavoro. Altri, invece, hanno paura e chiedono aiuto al governo. Una cosa è certa: l'industria dell'automobile in Europa vive un periodo di grandi cambiamenti.",
+        "vocab": [
+          {
+            "front": "casa automobilistica",
+            "pos": "noun",
+            "back": "carmaker, car manufacturer",
+            "example": "Volkswagen è una casa automobilistica tedesca.",
+            "tier": "B1"
+          },
+          {
+            "front": "taglio",
+            "pos": "noun",
+            "back": "cut (to jobs or budget)",
+            "example": "L'azienda annuncia nuovi tagli.",
+            "tier": "B1"
+          },
+          {
+            "front": "fabbrica",
+            "pos": "noun",
+            "back": "factory",
+            "example": "Lavora in una fabbrica di auto.",
+            "tier": "A2"
+          },
+          {
+            "front": "posto di lavoro",
+            "pos": "noun",
+            "back": "job, position",
+            "example": "Ha perso il posto di lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "operaio",
+            "pos": "noun",
+            "back": "factory worker",
+            "example": "Gli operai protestano davanti alla fabbrica.",
+            "tier": "A2"
+          },
+          {
+            "front": "rischiare di",
+            "pos": "verb",
+            "back": "to risk (doing something)",
+            "example": "Rischia di arrivare tardi.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (money)",
+            "example": "Voglio risparmiare per le vacanze.",
+            "tier": "A2"
+          },
+          {
+            "front": "concorrenza",
+            "pos": "noun",
+            "back": "competition",
+            "example": "La concorrenza è molto forte.",
+            "tier": "B1"
+          },
+          {
+            "front": "sindacato",
+            "pos": "noun",
+            "back": "trade union",
+            "example": "Il sindacato difende i lavoratori.",
+            "tier": "B1"
+          },
+          {
+            "front": "diritto",
+            "pos": "noun",
+            "back": "right (entitlement)",
+            "example": "Ogni lavoratore ha dei diritti.",
+            "tier": "A2"
+          },
+          {
+            "front": "settore",
+            "pos": "noun",
+            "back": "sector",
+            "example": "Il settore del turismo cresce.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere paura",
+            "pos": "phrase",
+            "back": "to be afraid",
+            "example": "Molti hanno paura del futuro.",
+            "tier": "A2"
+          },
+          {
+            "front": "cambiamento",
+            "pos": "noun",
+            "back": "change",
+            "example": "Il mondo del lavoro vive un grande cambiamento.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La società spiega che deve risparmiare denaro perché vende meno automobili di prima.",
+            "point": "'dovere' + infinito (obbligo)",
+            "explanation": "'Deve risparmiare' significa 'has to save'. I verbi modali come 'dovere', 'potere', 'volere' sono seguiti dall'infinito.",
+            "why_tricky": "Il modale è coniugato ma il verbo principale resta all'infinito, e 'meno... di prima' esprime 'less than before'."
+          },
+          {
+            "sentence": "Il piano non è ancora definitivo: prima deve essere discusso e approvato dai capi dell'azienda nel mese di luglio.",
+            "point": "Passivo con l'agente 'dai'",
+            "explanation": "'Deve essere discusso e approvato dai capi' è un passivo con l'agente introdotto da 'da' (da + i = dai): 'must be discussed and approved by the bosses'.",
+            "why_tricky": "Unisce un modale ('deve'), il passivo ('essere' + participio) e l'agente 'dai' in un'unica frase."
+          },
+          {
+            "sentence": "Alcuni pensano che le auto elettriche creeranno nuovi posti di lavoro.",
+            "point": "Futuro semplice (creeranno)",
+            "explanation": "'Creeranno' è il futuro di 'creare' (they will create). Le desinenze del futuro sono uguali per tutti i verbi: -ò, -ai, -à, -emo, -ete, -anno.",
+            "why_tricky": "'Creare' mantiene la doppia 'e' (cre-eranno), che lo studente spesso scrive male."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere paura",
+            "meaning": "to be afraid",
+            "example": "Ho paura dei cani grandi."
+          },
+          {
+            "phrase": "una cosa è certa",
+            "meaning": "one thing is certain",
+            "example": "Una cosa è certa: dobbiamo cambiare."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa vuole fare Volkswagen secondo le notizie?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'azienda deve risparmiare denaro?",
+            "type": "open"
+          },
+          {
+            "q": "Come reagiscono i lavoratori e i sindacati?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, le auto elettriche sono una buona idea per il futuro? Scrivi la tua opinione con qualche esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-01-carlo-camilla-buckingham",
+      "title": "È bufera sull'addio di Carlo e Camilla a Buckingham Palace",
+      "source": "ANSA",
+      "date": "2026-07-01",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "attualità"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-01-carlo-camilla-buckingham",
+        "revision": 1,
+        "meta": {
+          "title": "È bufera sull'addio di Carlo e Camilla a Buckingham Palace",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/26/-e-bufera-sulladdio-di-carlo-e-camilla-a-buckingham-palace-_231e47f0-bdb9-4db6-a8f9-1ba91ae2960f.html",
+          "date_published": "2026-06-26",
+          "date_processed": "2026-07-01",
+          "tags": [
+            "cultura",
+            "attualità"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Great Britain people are talking a lot about the decision of King Charles and Queen Camilla to leave Buckingham Palace. The famous London palace needs major renovation work, which costs a huge amount. For this, the king and queen want to live in another residence. Many people, however, criticise this choice. In their view, too much public money is being spent at a time when so many families struggle to make ends meet.\n\nNot everyone agrees with these criticisms. Some point out that King Charles pays a lot of taxes and is among the richest in the country. Others say that the palace is a historic symbol and that it is right to keep it in good condition. The debate divides British public opinion. The royal family, for its part, is trying to show itself as more modern and closer to ordinary people. It is not easy to find a balance between tradition and the needs of today.",
+        "resumen_es": "In Gran Bretagna si parla molto della decisione del re Carlo e della regina Camilla di lasciare Buckingham Palace. Il famoso palazzo di Londra ha bisogno di grandi lavori di ristrutturazione, che costano moltissimo. Per questo, il re e la regina vogliono vivere in un'altra residenza. Molte persone però criticano questa scelta. Secondo loro, si spendono troppi soldi pubblici in un momento in cui tante famiglie fanno fatica ad arrivare a fine mese.\n\nNon tutti sono d'accordo con queste critiche. Alcuni ricordano che il re Carlo paga molte tasse ed è tra i più ricchi del Paese. Altri dicono che il palazzo è un simbolo storico e che è giusto tenerlo in buone condizioni. Il dibattito divide l'opinione pubblica britannica. La famiglia reale, dal canto suo, cerca di mostrarsi più moderna e vicina alla gente. Non è facile trovare un equilibrio tra la tradizione e le esigenze di oggi.",
+        "vocab": [
+          {
+            "front": "re",
+            "pos": "noun",
+            "back": "king",
+            "example": "Il re ha fatto un discorso.",
+            "tier": "A2"
+          },
+          {
+            "front": "regina",
+            "pos": "noun",
+            "back": "queen",
+            "example": "La regina è molto amata.",
+            "tier": "A2"
+          },
+          {
+            "front": "palazzo",
+            "pos": "noun",
+            "back": "palace, large building",
+            "example": "Vivono in un grande palazzo.",
+            "tier": "A2"
+          },
+          {
+            "front": "ristrutturazione",
+            "pos": "noun",
+            "back": "renovation",
+            "example": "La ristrutturazione della casa è cara.",
+            "tier": "B1"
+          },
+          {
+            "front": "residenza",
+            "pos": "noun",
+            "back": "residence, home",
+            "example": "La nuova residenza è fuori città.",
+            "tier": "B1"
+          },
+          {
+            "front": "criticare",
+            "pos": "verb",
+            "back": "to criticise",
+            "example": "Molti criticano questa decisione.",
+            "tier": "B1"
+          },
+          {
+            "front": "soldi pubblici",
+            "pos": "noun",
+            "back": "public money",
+            "example": "Non bisogna sprecare i soldi pubblici.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare fatica a",
+            "pos": "phrase",
+            "back": "to struggle to",
+            "example": "Faccio fatica a svegliarmi presto.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrivare a fine mese",
+            "pos": "phrase",
+            "back": "to make ends meet",
+            "example": "Con questo stipendio è difficile arrivare a fine mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "tasse",
+            "pos": "noun",
+            "back": "taxes",
+            "example": "Tutti devono pagare le tasse.",
+            "tier": "A2"
+          },
+          {
+            "front": "essere d'accordo",
+            "pos": "phrase",
+            "back": "to agree",
+            "example": "Non sono d'accordo con te.",
+            "tier": "A2"
+          },
+          {
+            "front": "opinione pubblica",
+            "pos": "noun",
+            "back": "public opinion",
+            "example": "L'opinione pubblica è divisa.",
+            "tier": "B1"
+          },
+          {
+            "front": "esigenza",
+            "pos": "noun",
+            "back": "need, requirement",
+            "example": "Ogni famiglia ha le sue esigenze.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In Gran Bretagna si parla molto della decisione del re Carlo e della regina Camilla di lasciare Buckingham Palace.",
+            "point": "'si' impersonale (si parla)",
+            "explanation": "'Si parla' significa 'people talk / it is talked about'. Il 'si' impersonale + verbo alla terza persona nasconde chi compie l'azione.",
+            "why_tricky": "'della... della...' sono 'di + la' (of the), e l'inglese userebbe un passivo o 'people', non 'si'."
+          },
+          {
+            "sentence": "Secondo loro, si spendono troppi soldi pubblici in un momento in cui tante famiglie fanno fatica ad arrivare a fine mese.",
+            "point": "'si' passivante con accordo al plurale (si spendono)",
+            "explanation": "Quando la costruzione con 'si' ha un oggetto plurale, il verbo va al plurale: 'si spendono troppi soldi' = 'too much money is spent'.",
+            "why_tricky": "Il verbo concorda con 'soldi' (plurale), quindi è 'spendono', non 'spende'; inoltre 'ad arrivare' aggiunge una 'd' davanti a vocale."
+          },
+          {
+            "sentence": "Altri dicono che il palazzo è un simbolo storico e che è giusto tenerlo in buone condizioni.",
+            "point": "'è giusto' + infinito con pronome attaccato (tenerlo)",
+            "explanation": "'È giusto tenerlo' = 'it is right to keep it'. Con l'infinito, il pronome oggetto 'lo' si attacca alla fine: tenere + lo = tenerlo.",
+            "why_tricky": "Il pronome si unisce all'infinito, che perde la -e finale, uno schema che sorprende chi comincia."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "arrivare a fine mese",
+            "meaning": "to make it to the end of the month financially, make ends meet",
+            "example": "Molte famiglie faticano ad arrivare a fine mese."
+          },
+          {
+            "phrase": "dal canto suo",
+            "meaning": "for its/his/her part",
+            "example": "Il governo, dal canto suo, promette aiuti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il re Carlo e la regina Camilla vogliono lasciare Buckingham Palace?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune persone criticano questa decisione?",
+            "type": "open"
+          },
+          {
+            "q": "Quali argomenti usano invece quelli che difendono la scelta?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, è giusto spendere soldi pubblici per i palazzi storici? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-06-30-tifosi-norvegia-mondiali",
       "title": "Mondiali 2026, i tifosi della Norvegia remano in supporto alla squadra",
@@ -6331,499 +6838,6 @@
           }
         ],
         "opinion_prompt": "Ti piace visitare i musei? Scrivi qualche frase e spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-ronaldinho-ravenna",
-      "title": "Ravenna calcio, arriva Ronaldinho: \"Potrei giocare anche a 50 anni\"",
-      "source": "RAI News",
-      "date": "2026-06-24",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "calcio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-ronaldinho-ravenna",
-        "revision": 1,
-        "meta": {
-          "title": "Ravenna calcio, arriva Ronaldinho: \"Potrei giocare anche a 50 anni\"",
-          "source": "RAI News",
-          "url": "https://www.rainews.it/video/2026/06/calcio-ravenna-arriva-ronaldinho-potrei-giocare-fino-a-50-anni-dbcc46ad-d549-4d1c-a297-32233d7b068f.html",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "sport",
-            "calcio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Ronaldinho, the famous Brazilian champion, is coming to Italy to play for Ravenna. The footballer is 46 years old and left professional football many years ago. Now he has reached an agreement with the Italian team and will soon return to the field. The news has surprised and amused many fans, who can't wait to see him play again.\n\nRonaldinho is known all over the world for his technique and his smile. With the shirt of Brazil and of great clubs he has won many important trophies. He says that he could still play for several years, because he loves this sport. For Ravenna, his presence is a great opportunity: he can bring crowds, attention and a lot of experience to the younger players. It will surely be a special season for everyone.",
-        "resumen_es": "Ronaldinho, il famoso campione brasiliano, arriva in Italia per giocare nel Ravenna. Il calciatore ha 46 anni e ha lasciato il calcio professionistico molti anni fa. Adesso ha trovato un accordo con la squadra italiana e tornerà presto in campo. La notizia ha sorpreso e divertito tanti tifosi, che non vedono l'ora di vederlo giocare di nuovo.\n\nRonaldinho è conosciuto in tutto il mondo per la sua tecnica e il suo sorriso. Con la maglia del Brasile e di grandi squadre ha vinto molti trofei importanti. Lui dice che potrebbe giocare ancora per diversi anni, perché ama questo sport. Per il Ravenna, la sua presenza è una grande occasione: può portare pubblico, attenzione e tanta esperienza ai giocatori più giovani. Sarà sicuramente una stagione speciale per tutti.",
-        "vocab": [
-          {
-            "front": "il campione",
-            "pos": "noun",
-            "back": "champion",
-            "example": "È stato un grande campione di tennis.",
-            "tier": "A2"
-          },
-          {
-            "front": "il calciatore",
-            "pos": "noun",
-            "back": "footballer",
-            "example": "Quel calciatore è molto veloce.",
-            "tier": "A2"
-          },
-          {
-            "front": "la squadra",
-            "pos": "noun",
-            "back": "team",
-            "example": "La mia squadra ha vinto la partita.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'accordo",
-            "pos": "noun",
-            "back": "agreement, deal",
-            "example": "Hanno trovato un accordo dopo molte ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "tornare in campo",
-            "pos": "phrase",
-            "back": "to return to the field",
-            "example": "Il giocatore torna in campo dopo l'infortunio.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "A2"
-          },
-          {
-            "front": "la tecnica",
-            "pos": "noun",
-            "back": "technique, skill",
-            "example": "Ha una tecnica straordinaria.",
-            "tier": "B1"
-          },
-          {
-            "front": "la maglia",
-            "pos": "noun",
-            "back": "shirt, jersey",
-            "example": "Indossa la maglia numero dieci.",
-            "tier": "A2"
-          },
-          {
-            "front": "il trofeo",
-            "pos": "noun",
-            "back": "trophy",
-            "example": "Ha vinto molti trofei in carriera.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stagione",
-            "pos": "noun",
-            "back": "season",
-            "example": "La nuova stagione inizia a settembre.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'occasione",
-            "pos": "noun",
-            "back": "opportunity, chance",
-            "example": "È una bella occasione per imparare.",
-            "tier": "B1"
-          },
-          {
-            "front": "lasciare",
-            "pos": "verb",
-            "back": "to leave, quit",
-            "example": "Ha lasciato il lavoro l'anno scorso.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Adesso ha trovato un accordo con la squadra italiana e tornerà presto in campo.",
-            "point": "Passato prossimo and futuro together",
-            "explanation": "'Ha trovato' is the passato prossimo (a completed past action), while 'tornerà' is the simple future. The sentence links what has happened with what will happen.",
-            "why_tricky": "Learners must switch tense within one sentence and remember the auxiliary 'ha' for the past."
-          },
-          {
-            "sentence": "Lui dice che potrebbe giocare ancora per diversi anni, perché ama questo sport.",
-            "point": "Condizionale presente 'potrebbe'",
-            "explanation": "'Potrebbe' is the present conditional of 'potere' and expresses a possibility, like 'he could'.",
-            "why_tricky": "Beginners confuse the conditional 'potrebbe' with the future 'potrà'; the conditional softens the statement."
-          },
-          {
-            "sentence": "La notizia ha sorpreso e divertito tanti tifosi, che non vedono l'ora di vederlo giocare di nuovo.",
-            "point": "'Non vedere l'ora di' + infinitive",
-            "explanation": "This common expression means 'to look forward to / can't wait to' and is followed by 'di' plus an infinitive.",
-            "why_tricky": "It is an idiomatic phrase, so a word-for-word translation does not work."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non vedere l'ora",
-            "meaning": "to look forward to, can't wait",
-            "example": "Non vedo l'ora di andare in vacanza."
-          },
-          {
-            "phrase": "scendere in campo",
-            "meaning": "to take the field; to get involved",
-            "example": "La squadra scende in campo domani sera."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché Ronaldinho viene in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Quanti anni ha il calciatore?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la sua presenza è importante per il Ravenna?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace il calcio o un altro sport? Scrivi qualche frase sul tuo sport preferito."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-bermuda-ufficio",
-      "title": "Il ministro francese del Lavoro apre ai bermuda in ufficio: 'Se sono fatti bene è ok'",
-      "source": "ANSA",
-      "date": "2026-06-24",
-      "level": "A2-B1",
-      "topics": [
-        "lavoro",
-        "società"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-bermuda-ufficio",
-        "revision": 1,
-        "meta": {
-          "title": "Il ministro francese del Lavoro apre ai bermuda in ufficio: 'Se sono fatti bene è ok'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/24/il-ministro-francese-del-lavoro-apre-ai-bermuda-in-ufficio-se-sono-fatti-bene_b7ca2378-9c22-4abf-96c7-09dc913f759c.html",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "lavoro",
-            "società"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In France people are talking a lot about clothes and work. The Labour minister has said that bermuda shorts in the office can be fine. According to him, if the shorts are elegant and well made, there is no problem at all. It is above all a matter of common sense, especially when it is very hot.\n\nIn summer, in fact, many people suffer from the heat while they work. For this reason some are asking for freer and more comfortable rules for clothing in the office. Others, instead, think that at work it is better to dress in a classic and elegant way. The debate is open and everyone has their own opinion. Perhaps the most important thing is to find a good balance between comfort and respect, so that everyone can work well and feel at ease.",
-        "resumen_es": "In Francia si parla molto di vestiti e di lavoro. Il ministro del Lavoro ha detto che i bermuda in ufficio possono andare bene. Secondo lui, se i pantaloni corti sono eleganti e fatti bene, non c'è nessun problema. È soprattutto una questione di buon senso, specialmente quando fa molto caldo.\n\nIn estate, infatti, molte persone soffrono il caldo mentre lavorano. Per questo alcuni chiedono regole più libere e comode per l'abbigliamento in ufficio. Altri, invece, pensano che al lavoro sia meglio vestirsi in modo classico ed elegante. Il dibattito è aperto e ognuno ha la sua opinione. Forse la cosa più importante è trovare un giusto equilibrio tra comodità e rispetto, così tutti possono lavorare bene e sentirsi a proprio agio.",
-        "vocab": [
-          {
-            "front": "i vestiti",
-            "pos": "noun",
-            "back": "clothes",
-            "example": "Compro vestiti nuovi per l'estate.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'ufficio",
-            "pos": "noun",
-            "back": "office",
-            "example": "Lavoro in ufficio dal lunedì al venerdì.",
-            "tier": "A2"
-          },
-          {
-            "front": "i pantaloni corti",
-            "pos": "noun",
-            "back": "shorts",
-            "example": "Con il caldo porto i pantaloni corti.",
-            "tier": "A2"
-          },
-          {
-            "front": "elegante",
-            "pos": "adj",
-            "back": "elegant, smart",
-            "example": "Per la festa si è vestita in modo elegante.",
-            "tier": "A2"
-          },
-          {
-            "front": "il buon senso",
-            "pos": "noun",
-            "back": "common sense",
-            "example": "Serve un po' di buon senso in queste situazioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat, hot weather",
-            "example": "In agosto il caldo è davvero forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abbigliamento",
-            "pos": "noun",
-            "back": "clothing, attire",
-            "example": "L'abbigliamento sportivo è molto comodo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la regola",
-            "pos": "noun",
-            "back": "rule",
-            "example": "Ogni scuola ha le sue regole.",
-            "tier": "A2"
-          },
-          {
-            "front": "comodo",
-            "pos": "adj",
-            "back": "comfortable",
-            "example": "Queste scarpe sono molto comode.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "In TV c'è un dibattito sul lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Cerco un equilibrio tra lavoro e famiglia.",
-            "tier": "B1"
-          },
-          {
-            "front": "vestirsi",
-            "pos": "verb",
-            "back": "to dress, get dressed",
-            "example": "La mattina mi vesto in fretta.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il ministro del Lavoro ha detto che i bermuda in ufficio possono andare bene.",
-            "point": "Reported speech with 'ha detto che'",
-            "explanation": "'Ha detto che' introduces what someone said. The verb in the second part ('possono') stays in the indicative.",
-            "why_tricky": "'Andare bene' is an expression meaning 'to be fine', not literally 'to go well'."
-          },
-          {
-            "sentence": "Altri, invece, pensano che al lavoro sia meglio vestirsi in modo classico ed elegante.",
-            "point": "Congiuntivo after 'pensare che'",
-            "explanation": "Verbs of opinion like 'pensare che' often take the subjunctive, so we use 'sia' instead of 'è'.",
-            "why_tricky": "At A2-B1 the subjunctive is new, and learners tend to use the indicative 'è' by habit."
-          },
-          {
-            "sentence": "Per questo alcuni chiedono regole più libere e comode per l'abbigliamento in ufficio.",
-            "point": "Comparativo with 'più'",
-            "explanation": "'Più libere e comode' means 'freer and more comfortable'. 'Più' before an adjective forms the comparative. 'Per questo' shows the reason.",
-            "why_tricky": "The adjectives must agree in gender and number with 'regole' (feminine plural)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sentirsi a proprio agio",
-            "meaning": "to feel at ease, comfortable",
-            "example": "A casa dei nonni mi sento a mio agio."
-          },
-          {
-            "phrase": "andare bene",
-            "meaning": "to be okay, to be fine",
-            "example": "Per me va bene incontrarci alle sette."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha detto il ministro del Lavoro francese?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in estate alcuni vogliono regole più comode?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa pensano le persone che preferiscono vestirsi in modo classico?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come ti piace vestirti quando lavori o studi? Scrivi qualche frase e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-24-terremoto-campi-flegrei",
-      "title": "Terremoto nei Campi Flegrei, scossa di magnitudo 3.0, sciame sismico in corso",
-      "source": "RaiNews",
-      "date": "2026-06-24",
-      "level": "A2-B1",
-      "topics": [
-        "terremoto",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-24-terremoto-campi-flegrei",
-        "revision": 1,
-        "meta": {
-          "title": "Terremoto nei Campi Flegrei, scossa di magnitudo 3.0, sciame sismico in corso",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/06/terremoto-nei-campi-flegrei-scossa-di-magnitudo-30-sciame-sismico-in-corso-il-sisma-nella-notte-0125859d-f6b2-4e5f-95c1-0de70384c368.html",
-          "date_published": "2026-06-23",
-          "date_processed": "2026-06-24",
-          "tags": [
-            "terremoto",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In the Campi Flegrei, near Naples, the ground has shaken again. There was an earthquake with a magnitude of three. It is not a very strong tremor, but people felt it clearly. In this area there are many small tremors, one after another. Experts call this phenomenon a 'seismic swarm'. Many people are afraid and sleep badly, because the earthquake often comes during the night.\n\nThe Campi Flegrei are a large volcanic area. For this reason the ground moves quite often. Scientists check the situation every day with special instruments. The authorities tell citizens to stay calm and to know what to do during a tremor. It is important to know the safety rules. For example, you must move away from tall furniture and go out carefully. In this way, even in a difficult moment, people can protect themselves better.",
-        "resumen_es": "Nei Campi Flegrei, vicino a Napoli, la terra ha tremato di nuovo. C'è stata una scossa di terremoto di magnitudo tre. Non è una scossa molto forte, ma la gente l'ha sentita bene. In questa zona ci sono tante piccole scosse, una dopo l'altra. Gli esperti chiamano questo fenomeno 'sciame sismico'. Molte persone hanno paura e dormono male, perché il terremoto arriva spesso durante la notte.\n\nI Campi Flegrei sono una grande area vulcanica. Per questo motivo la terra si muove abbastanza spesso. Gli scienziati controllano la situazione ogni giorno con strumenti speciali. Le autorità dicono ai cittadini di restare calmi e di sapere cosa fare durante una scossa. È importante conoscere le regole di sicurezza. Per esempio, bisogna allontanarsi dai mobili alti e uscire con attenzione. Così, anche in un momento difficile, le persone possono proteggersi meglio.",
-        "vocab": [
-          {
-            "front": "il terremoto",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "Il terremoto ha fatto paura a tutti.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scossa",
-            "pos": "noun",
-            "back": "tremor, shock",
-            "example": "C'è stata una scossa forte stanotte.",
-            "tier": "B1"
-          },
-          {
-            "front": "tremare",
-            "pos": "verb",
-            "back": "to shake, to tremble",
-            "example": "La terra ha tremato per pochi secondi.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo sciame sismico",
-            "pos": "phrase",
-            "back": "seismic swarm",
-            "example": "Lo sciame sismico continua da giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "avere paura",
-            "pos": "phrase",
-            "back": "to be afraid",
-            "example": "I bambini hanno paura del buio.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'area vulcanica",
-            "pos": "phrase",
-            "back": "volcanic area",
-            "example": "Vivono in un'area vulcanica.",
-            "tier": "B1"
-          },
-          {
-            "front": "muoversi",
-            "pos": "verb",
-            "back": "to move",
-            "example": "La terra si muove spesso qui.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo scienziato",
-            "pos": "noun",
-            "back": "scientist",
-            "example": "Gli scienziati studiano i vulcani.",
-            "tier": "A2"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check, to monitor",
-            "example": "Controllano la situazione ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "le autorità",
-            "pos": "noun",
-            "back": "the authorities",
-            "example": "Le autorità danno consigli utili.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "safety, security",
-            "example": "Le regole di sicurezza sono importanti.",
-            "tier": "A2"
-          },
-          {
-            "front": "allontanarsi da",
-            "pos": "verb",
-            "back": "to move away from",
-            "example": "Allontanati dalla finestra durante la scossa.",
-            "tier": "B1"
-          },
-          {
-            "front": "proteggersi",
-            "pos": "verb",
-            "back": "to protect oneself",
-            "example": "Bisogna proteggersi dal sole.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Non è una scossa molto forte, ma la gente l'ha sentita bene.",
-            "point": "Accordo del participio passato con il pronome diretto",
-            "explanation": "Con il pronome diretto 'la' (l') davanti, il participio 'sentita' prende la -a femminile.",
-            "why_tricky": "Gli studenti dimenticano spesso di cambiare la vocale finale del participio."
-          },
-          {
-            "sentence": "Le autorità dicono ai cittadini di restare calmi e di sapere cosa fare durante una scossa.",
-            "point": "Costruzione 'dire a qualcuno di + infinito'",
-            "explanation": "Per riportare un ordine o un consiglio si usa 'dire a qualcuno di' seguito dall'infinito.",
-            "why_tricky": "In inglese si userebbe 'to tell someone to do'; qui serve la preposizione 'di'."
-          },
-          {
-            "sentence": "Per esempio, bisogna allontanarsi dai mobili alti e uscire con attenzione.",
-            "point": "Forma impersonale 'bisogna + infinito'",
-            "explanation": "'bisogna' esprime necessità in modo impersonale ed è sempre seguito dall'infinito.",
-            "why_tricky": "Non cambia mai (non si dice 'bisognano') e regge l'infinito, anche riflessivo come 'allontanarsi'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "di nuovo",
-            "meaning": "again",
-            "example": "Il treno è in ritardo di nuovo."
-          },
-          {
-            "phrase": "restare calmo",
-            "meaning": "to stay calm",
-            "example": "Durante l'emergenza è meglio restare calmi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo nei Campi Flegrei?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in questa zona la terra trema spesso?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano di fare le autorità durante una scossa?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nel tuo Paese ci sono terremoti o altri fenomeni naturali? Scrivi un piccolo testo e racconta come ci si prepara."
       }
     }
   ]
