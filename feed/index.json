@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-07-02T08:14:59Z",
+  "generated_at": "2026-07-02T20:13:12Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-02-taylor-swift-nozze-new-york",
+      "title": "Manhattan blindata per le nozze fra Taylor Swift e Travis Kelce",
+      "source": "ANSA",
+      "date": "2026-07-02",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "gossip"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-taylor-swift-nozze-new-york",
+        "revision": 1,
+        "meta": {
+          "title": "Manhattan blindata per le nozze fra Taylor Swift e Travis Kelce",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/07/02/manhattan-blindata-per-le-nozze-fra-taylor-swift-e-travis-kelce_aaa0c22e-03fe-4577-8361-d85a9fa9791c.html",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "cultura",
+            "gossip"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The singer Taylor Swift and the American football champion Travis Kelce are getting married in New York. The city is under tight security, that is, watched by many security officers, to protect the couple and their guests. The evening before the wedding, the two organised a dinner with a few close friends. The big party, however, is planned for the following day.\n\nTaylor Swift is one of the most famous artists in the world, and every event of hers attracts the attention of the newspapers. Travis Kelce is also very well known in the United States thanks to sport. For this reason, many fans and photographers are waiting for news in front of the city's hotels. The couple, however, want to keep the secret and live this moment calmly. Many wonder where they will go on their honeymoon after the ceremony.",
+        "resumen_es": "La cantante Taylor Swift e il campione di football americano Travis Kelce si sposano a New York. La citta e blindata, cioe controllata da molti agenti di sicurezza, per proteggere la coppia e i loro ospiti. La sera prima del matrimonio, i due hanno organizzato una cena con pochi amici intimi. La grande festa, invece, e prevista per il giorno dopo.\n\nTaylor Swift e una delle artiste piu famose del mondo e ogni suo evento attira l'attenzione dei giornali. Anche Travis Kelce e molto conosciuto negli Stati Uniti grazie allo sport. Per questo motivo, tanti fan e fotografi aspettano notizie davanti agli hotel della citta. La coppia, pero, vuole mantenere il segreto e vivere questo momento con calma. Molti si chiedono dove andranno in viaggio di nozze dopo la cerimonia.",
+        "vocab": [
+          {
+            "front": "sposarsi",
+            "pos": "verb",
+            "back": "to get married",
+            "example": "I miei amici si sposano in estate.",
+            "tier": "A2"
+          },
+          {
+            "front": "matrimonio",
+            "pos": "noun",
+            "back": "wedding, marriage",
+            "example": "Il matrimonio e stato bellissimo.",
+            "tier": "A2"
+          },
+          {
+            "front": "coppia",
+            "pos": "noun",
+            "back": "couple",
+            "example": "Sono una coppia molto simpatica.",
+            "tier": "A2"
+          },
+          {
+            "front": "ospite",
+            "pos": "noun",
+            "back": "guest",
+            "example": "Abbiamo dieci ospiti a cena.",
+            "tier": "A2"
+          },
+          {
+            "front": "sicurezza",
+            "pos": "noun",
+            "back": "security, safety",
+            "example": "La sicurezza dell'aeroporto e alta.",
+            "tier": "B1"
+          },
+          {
+            "front": "blindato",
+            "pos": "adj",
+            "back": "heavily guarded, armoured",
+            "example": "La banca ha una porta blindata.",
+            "tier": "B1"
+          },
+          {
+            "front": "cena",
+            "pos": "noun",
+            "back": "dinner",
+            "example": "Prepariamo la cena insieme.",
+            "tier": "A2"
+          },
+          {
+            "front": "famoso",
+            "pos": "adj",
+            "back": "famous",
+            "example": "E un attore molto famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "attirare l'attenzione",
+            "pos": "phrase",
+            "back": "to attract attention",
+            "example": "Il suo vestito attira l'attenzione.",
+            "tier": "B1"
+          },
+          {
+            "front": "conosciuto",
+            "pos": "adj",
+            "back": "well known",
+            "example": "E un ristorante molto conosciuto.",
+            "tier": "A2"
+          },
+          {
+            "front": "mantenere il segreto",
+            "pos": "phrase",
+            "back": "to keep the secret",
+            "example": "Non e facile mantenere il segreto.",
+            "tier": "B1"
+          },
+          {
+            "front": "viaggio di nozze",
+            "pos": "phrase",
+            "back": "honeymoon",
+            "example": "Vanno in viaggio di nozze alle Maldive.",
+            "tier": "B1"
+          },
+          {
+            "front": "cerimonia",
+            "pos": "noun",
+            "back": "ceremony",
+            "example": "La cerimonia inizia alle cinque.",
+            "tier": "B1"
+          },
+          {
+            "front": "chiedersi",
+            "pos": "verb",
+            "back": "to wonder, to ask oneself",
+            "example": "Mi chiedo se verra anche lui.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La citta e blindata, cioe controllata da molti agenti di sicurezza, per proteggere la coppia e i loro ospiti.",
+            "point": "forma passiva con 'essere' + 'per + infinito'",
+            "explanation": "'E blindata' e 'controllata' sono forme passive: la citta riceve l'azione. 'Per proteggere' indica lo scopo.",
+            "why_tricky": "Il participio deve accordarsi con il soggetto femminile ('blindata', 'controllata'), cosa che in inglese non succede."
+          },
+          {
+            "sentence": "La sera prima del matrimonio, i due hanno organizzato una cena con pochi amici intimi.",
+            "point": "passato prossimo con 'avere'",
+            "explanation": "'Hanno organizzato' e passato prossimo: ausiliare 'avere' piu participio passato. Si usa per azioni concluse nel passato recente.",
+            "why_tricky": "Con 'avere' il participio di solito non cambia, mentre con 'essere' deve accordarsi con il soggetto."
+          },
+          {
+            "sentence": "Molti si chiedono dove andranno in viaggio di nozze dopo la cerimonia.",
+            "point": "verbo riflessivo + futuro semplice",
+            "explanation": "'Si chiedono' e riflessivo ('chiedersi'). 'Andranno' e futuro semplice e indica un'azione che deve ancora succedere.",
+            "why_tricky": "Il futuro dei verbi come 'andare' e irregolare (andro, andrai, andra, andremo, andrete, andranno)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "con calma",
+            "meaning": "calmly, without rushing",
+            "example": "Facciamo tutto con calma, non c'e fretta."
+          },
+          {
+            "phrase": "pochi intimi",
+            "meaning": "only a few close friends or family",
+            "example": "Hanno festeggiato con pochi intimi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche la citta di New York e blindata?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa hanno organizzato Taylor e Travis la sera prima del matrimonio?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perche tanti giornalisti seguono questo matrimonio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe un matrimonio famoso e pieno di fotografi, oppure preferisci una festa piccola con pochi amici? Spiega perche."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-02-divieti-social-minori",
+      "title": "In cosa consistono i divieti ai social per i minori",
+      "source": "ANSA",
+      "date": "2026-07-02",
+      "level": "A2-B1",
+      "topics": [
+        "societa",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-divieti-social-minori",
+        "revision": 1,
+        "meta": {
+          "title": "In cosa consistono i divieti ai social per i minori",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/07/02/in-cosa-consistono-i-divieti-ai-social-per-i-minori_7fe9f233-5906-4544-81a0-74c0a170db88.html",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "societa",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Many countries want to ban social networks for the youngest users. The idea started mainly in Australia, which decided to protect minors from the dangers of the internet. According to some governments, young people spend too much time in front of their phones and can find dangerous content. For this reason, there is now a lot of discussion about whether it is right to set an age limit for using these apps.\n\nNot everyone, however, agrees with this choice. Some experts think that the bans do not solve the problem, because young people always find a way to connect. Others believe that it is more useful to teach how to use technology well, instead of forbidding it. Parents also have different opinions: some ask for strict rules, others prefer to supervise their children themselves. The debate continues and concerns many families all over the world.",
+        "resumen_es": "Molti Paesi vogliono vietare i social network ai piu giovani. L'idea e nata soprattutto in Australia, che ha deciso di proteggere i minori dai rischi di internet. Secondo alcuni governi, i ragazzi passano troppo tempo davanti al telefono e possono trovare contenuti pericolosi. Per questo, oggi si discute molto se sia giusto mettere un limite di eta per usare queste applicazioni.\n\nNon tutti, pero, sono d'accordo con questa scelta. Alcuni esperti pensano che i divieti non risolvano il problema, perche i giovani trovano sempre un modo per collegarsi. Altri credono che sia piu utile insegnare a usare bene la tecnologia, invece di proibirla. Anche i genitori hanno opinioni diverse: alcuni chiedono regole severe, altri preferiscono controllare i figli da soli. Il dibattito continua e riguarda molte famiglie in tutto il mondo.",
+        "vocab": [
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to ban, to forbid",
+            "example": "E vietato fumare qui.",
+            "tier": "B1"
+          },
+          {
+            "front": "divieto",
+            "pos": "noun",
+            "back": "ban, prohibition",
+            "example": "C'e il divieto di parcheggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "minore",
+            "pos": "noun",
+            "back": "minor, under-age person",
+            "example": "Il film non e adatto ai minori.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "I genitori vogliono proteggere i figli.",
+            "tier": "A2"
+          },
+          {
+            "front": "rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "Il fumo e un rischio per la salute.",
+            "tier": "B1"
+          },
+          {
+            "front": "contenuto",
+            "pos": "noun",
+            "back": "content",
+            "example": "Il sito ha molti contenuti utili.",
+            "tier": "B1"
+          },
+          {
+            "front": "limite di eta",
+            "pos": "phrase",
+            "back": "age limit",
+            "example": "C'e un limite di eta per guidare.",
+            "tier": "B1"
+          },
+          {
+            "front": "essere d'accordo",
+            "pos": "phrase",
+            "back": "to agree",
+            "example": "Non sono d'accordo con te.",
+            "tier": "A2"
+          },
+          {
+            "front": "scelta",
+            "pos": "noun",
+            "back": "choice",
+            "example": "Hai fatto la scelta giusta.",
+            "tier": "A2"
+          },
+          {
+            "front": "risolvere",
+            "pos": "verb",
+            "back": "to solve",
+            "example": "Dobbiamo risolvere questo problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "collegarsi",
+            "pos": "verb",
+            "back": "to connect (online)",
+            "example": "Non riesco a collegarmi a internet.",
+            "tier": "B1"
+          },
+          {
+            "front": "regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "Bisogna rispettare le regole.",
+            "tier": "A2"
+          },
+          {
+            "front": "severo",
+            "pos": "adj",
+            "back": "strict, severe",
+            "example": "La nostra insegnante e molto severa.",
+            "tier": "B1"
+          },
+          {
+            "front": "dibattito",
+            "pos": "noun",
+            "back": "debate",
+            "example": "Il dibattito e stato molto acceso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'idea e nata soprattutto in Australia, che ha deciso di proteggere i minori dai rischi di internet.",
+            "point": "passato prossimo con 'essere' e con 'avere'",
+            "explanation": "'E nata' usa l'ausiliare 'essere' e il participio si accorda ('nata', femminile). 'Ha deciso' usa 'avere'. 'Decidere di' regge l'infinito.",
+            "why_tricky": "Bisogna scegliere l'ausiliare giusto: molti verbi di cambiamento o movimento vogliono 'essere' con accordo del participio."
+          },
+          {
+            "sentence": "Alcuni esperti pensano che i divieti non risolvano il problema, perche i giovani trovano sempre un modo per collegarsi.",
+            "point": "congiuntivo dopo 'pensare che'",
+            "explanation": "Dopo verbi di opinione come 'pensare che' si usa il congiuntivo ('risolvano'). Esprime un'idea non certa, solo un parere.",
+            "why_tricky": "In inglese si usa l'indicativo ('think that they do not solve'), mentre l'italiano richiede il congiuntivo."
+          },
+          {
+            "sentence": "Anche i genitori hanno opinioni diverse: alcuni chiedono regole severe, altri preferiscono controllare i figli da soli.",
+            "point": "i correlativi 'alcuni... altri...'",
+            "explanation": "'Alcuni... altri...' serve a contrapporre due gruppi. I verbi restano al presente indicativo perche si descrivono fatti reali.",
+            "why_tricky": "Si confonde 'alcuni' (alcune persone) con 'qualche', che vuole sempre il singolare."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da soli",
+            "meaning": "on one's own, without help",
+            "example": "I bambini non possono restare da soli."
+          },
+          {
+            "phrase": "in tutto il mondo",
+            "meaning": "all over the world",
+            "example": "Questa canzone e famosa in tutto il mondo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche alcuni Paesi vogliono vietare i social ai minori?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le opinioni degli esperti su questi divieti?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, e meglio vietare i social o insegnare a usarli bene?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Pensi che ci debba essere un'eta minima per usare i social network? Scrivi la tua opinione con qualche esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-02-accise-carburanti-prezzo",
+      "title": "Codacons: domani scade lo sconto sulle accise. Senza proroga il pieno costera 3 euro in piu",
+      "source": "ANSA",
+      "date": "2026-07-02",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "carburante"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-02-accise-carburanti-prezzo",
+        "revision": 1,
+        "meta": {
+          "title": "Codacons: domani scade lo sconto sulle accise. Senza proroga il pieno costera 3 euro in piu",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/short_video/2026/07/02/codacons-domani-scade-lo-sconto-sulle-accise.-senza-proroga-il-pieno-costera_d4df6d88-c6fa-4cc7-93a8-3e477b40c037.html",
+          "date_published": "2026-07-02",
+          "date_processed": "2026-07-02",
+          "tags": [
+            "economia",
+            "carburante"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the price of petrol could soon rise. For some months the government had reduced the excise duties, that is, the taxes on fuel, in order to help families. Now this discount is about to end and, without an extension, filling up the tank will cost about three euros more. A consumers' association has raised the alarm and is asking the government to act quickly.\n\nThe increase worries above all those who use the car every day to go to work. Transport and the prices of many products also depend on the cost of fuel, so the rise can affect everyone. The government says it will decide in the coming days, also taking into account the international situation. Meanwhile, many drivers are thinking of filling up the tank right away, before prices go up again.",
+        "resumen_es": "In Italia il prezzo della benzina potrebbe presto aumentare. Da alcuni mesi il governo aveva ridotto le accise, cioe le tasse sul carburante, per aiutare le famiglie. Ora questo sconto sta per finire e, senza una proroga, fare il pieno costera circa tre euro in piu. Un'associazione di consumatori ha lanciato l'allarme e chiede al governo di intervenire in fretta.\n\nL'aumento preoccupa soprattutto chi usa la macchina tutti i giorni per andare al lavoro. Anche i trasporti e i prezzi di molti prodotti dipendono dal costo del carburante, quindi il rincaro puo toccare tutti. Il governo dice che decidera nei prossimi giorni, tenendo conto anche della situazione internazionale. Intanto molti automobilisti pensano di riempire il serbatoio subito, prima che i prezzi salgano di nuovo.",
+        "vocab": [
+          {
+            "front": "benzina",
+            "pos": "noun",
+            "back": "petrol",
+            "example": "Devo mettere la benzina alla macchina.",
+            "tier": "A2"
+          },
+          {
+            "front": "aumentare",
+            "pos": "verb",
+            "back": "to increase, to rise",
+            "example": "I prezzi aumentano ogni anno.",
+            "tier": "A2"
+          },
+          {
+            "front": "accisa",
+            "pos": "noun",
+            "back": "excise duty (a tax)",
+            "example": "Le accise sul carburante sono alte.",
+            "tier": "B1"
+          },
+          {
+            "front": "tassa",
+            "pos": "noun",
+            "back": "tax",
+            "example": "Ogni anno paghiamo molte tasse.",
+            "tier": "A2"
+          },
+          {
+            "front": "carburante",
+            "pos": "noun",
+            "back": "fuel",
+            "example": "Il carburante costa sempre di piu.",
+            "tier": "B1"
+          },
+          {
+            "front": "sconto",
+            "pos": "noun",
+            "back": "discount",
+            "example": "Ho comprato le scarpe con lo sconto.",
+            "tier": "A2"
+          },
+          {
+            "front": "proroga",
+            "pos": "noun",
+            "back": "extension (of a deadline)",
+            "example": "Hanno chiesto una proroga per il pagamento.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare il pieno",
+            "pos": "phrase",
+            "back": "to fill up the tank",
+            "example": "Mi fermo a fare il pieno.",
+            "tier": "B1"
+          },
+          {
+            "front": "consumatore",
+            "pos": "noun",
+            "back": "consumer",
+            "example": "I consumatori vogliono prezzi piu bassi.",
+            "tier": "B1"
+          },
+          {
+            "front": "lanciare l'allarme",
+            "pos": "phrase",
+            "back": "to raise the alarm",
+            "example": "I medici hanno lanciato l'allarme.",
+            "tier": "B1"
+          },
+          {
+            "front": "rincaro",
+            "pos": "noun",
+            "back": "price rise",
+            "example": "Il rincaro del pane preoccupa tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "preoccupare",
+            "pos": "verb",
+            "back": "to worry",
+            "example": "La notizia preoccupa molte persone.",
+            "tier": "A2"
+          },
+          {
+            "front": "serbatoio",
+            "pos": "noun",
+            "back": "fuel tank",
+            "example": "Il serbatoio e quasi vuoto.",
+            "tier": "B1"
+          },
+          {
+            "front": "intervenire",
+            "pos": "verb",
+            "back": "to intervene, to step in",
+            "example": "Il governo deve intervenire subito.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Da alcuni mesi il governo aveva ridotto le accise, cioe le tasse sul carburante, per aiutare le famiglie.",
+            "point": "trapassato prossimo + 'per + infinito'",
+            "explanation": "'Aveva ridotto' e trapassato prossimo: un'azione avvenuta prima di un altro momento del passato. 'Per aiutare' indica lo scopo.",
+            "why_tricky": "Si confonde il trapassato ('aveva ridotto') con il passato prossimo ('ha ridotto'), che indicano tempi diversi."
+          },
+          {
+            "sentence": "Un'associazione di consumatori ha lanciato l'allarme e chiede al governo di intervenire in fretta.",
+            "point": "'chiedere a qualcuno di + infinito'",
+            "explanation": "La struttura e 'chiedere a (persona) di (fare qualcosa)': chiede al governo di intervenire. Prima il passato prossimo 'ha lanciato', poi il presente 'chiede'.",
+            "why_tricky": "Bisogna usare la preposizione 'a' per la persona e 'di' prima dell'infinito, un ordine diverso dall'inglese."
+          },
+          {
+            "sentence": "Intanto molti automobilisti pensano di riempire il serbatoio subito, prima che i prezzi salgano di nuovo.",
+            "point": "'prima che' + congiuntivo",
+            "explanation": "Dopo 'prima che' si usa sempre il congiuntivo ('salgano'). Indica un'azione che potrebbe avvenire dopo, e che si vuole evitare.",
+            "why_tricky": "Se il soggetto e lo stesso si usa 'prima di + infinito'; con soggetti diversi serve 'prima che' + congiuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in fretta",
+            "meaning": "quickly, in a hurry",
+            "example": "Ha fatto tutto in fretta e ha sbagliato."
+          },
+          {
+            "phrase": "tenere conto di",
+            "meaning": "to take into account",
+            "example": "Devi tenere conto anche del tempo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche il prezzo della benzina potrebbe aumentare?",
+            "type": "open"
+          },
+          {
+            "q": "Chi ha chiesto al governo di intervenire?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, come cambierebbe la tua vita se il carburante costasse molto di piu?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Pensi che lo Stato debba aiutare le famiglie quando i prezzi salgono? Scrivi la tua opinione e spiega perche."
+      }
+    },
     {
       "pack_id": "feed-2026-07-02-saldi-estivi-luglio",
       "title": "Saldi estivi, al via gli sconti di luglio. Il calendario con le date regione per regione",
@@ -6366,506 +6894,6 @@
           }
         ],
         "opinion_prompt": "Scrivi un breve testo (circa 80 parole): qual e la tua canzone preferita e perche ti piace?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-26-consumi-birra",
-      "title": "Assobirra, in Italia consumi si mantengono sopra 21 milioni di ettolitri",
-      "source": "ANSA",
-      "date": "2026-06-24",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "societa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-26-consumi-birra",
-        "revision": 1,
-        "meta": {
-          "title": "Assobirra, in Italia consumi si mantengono sopra 21 milioni di ettolitri",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/ansacom/notizie/economia/assobirra/2026/06/23/assobirra-in-italia-consumi-si-mantengono-sopra-21-milioni-di-ettolitri_2b64a04b-1e74-4294-ace4-f771df283cc5.html",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-26",
-          "tags": [
-            "economia",
-            "societa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy, Italians keep drinking a lot of beer. According to Assobirra, the sector's association, consumption stays above 21 million hectolitres. Beer is by now a very popular drink, especially in summer. People drink it with friends, at the pizzeria or during a party, often as a moment of relaxation. These numbers show that the sector is strong and stable.\n\nBeer is not only a pleasure: it is also work for many people. The sector gives jobs to more than a hundred thousand people across Italy. It includes farmers, factories, bars and restaurants. For this reason, beer has an important value for the country's economy. Drinking responsibly, however, always remains the best choice.",
-        "resumen_es": "In Italia, gli italiani continuano a bere molta birra. Secondo Assobirra, l'associazione del settore, i consumi restano sopra i 21 milioni di ettolitri. La birra e ormai una bevanda molto popolare, soprattutto in estate. Si beve con gli amici, in pizzeria o durante una festa, spesso come momento di relax. Questi numeri mostrano che il settore e forte e stabile.\n\nLa birra non e solo un piacere: e anche un lavoro per molte persone. Il settore da lavoro a piu di centomila persone in tutta Italia. Comprende agricoltori, fabbriche, bar e ristoranti. Per questo, la birra ha un valore importante per l'economia del Paese. Bere in modo responsabile resta pero sempre la scelta migliore.",
-        "vocab": [
-          {
-            "front": "la birra",
-            "pos": "noun",
-            "back": "beer",
-            "example": "Vorrei una birra fredda, per favore.",
-            "tier": "A2"
-          },
-          {
-            "front": "bere",
-            "pos": "verb",
-            "back": "to drink",
-            "example": "Bevo un caffe ogni mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "i consumi",
-            "pos": "noun",
-            "back": "consumption",
-            "example": "I consumi di energia sono aumentati.",
-            "tier": "B1"
-          },
-          {
-            "front": "la bevanda",
-            "pos": "noun",
-            "back": "drink, beverage",
-            "example": "L'acqua e la bevanda piu sana.",
-            "tier": "A2"
-          },
-          {
-            "front": "popolare",
-            "pos": "adj",
-            "back": "popular",
-            "example": "E uno sport molto popolare qui.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'estate",
-            "pos": "noun",
-            "back": "summer",
-            "example": "In estate vado spesso al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "il settore",
-            "pos": "noun",
-            "back": "sector",
-            "example": "Lavora nel settore del turismo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il lavoro",
-            "pos": "noun",
-            "back": "work, job",
-            "example": "Cerco un nuovo lavoro.",
-            "tier": "A2"
-          },
-          {
-            "front": "dare lavoro",
-            "pos": "phrase",
-            "back": "to provide jobs",
-            "example": "La fabbrica da lavoro a molte famiglie.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'economia",
-            "pos": "noun",
-            "back": "economy",
-            "example": "Il turismo aiuta l'economia del Paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il valore",
-            "pos": "noun",
-            "back": "value",
-            "example": "Questo quadro ha un grande valore.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scelta",
-            "pos": "noun",
-            "back": "choice",
-            "example": "Hai fatto la scelta giusta.",
-            "tier": "A2"
-          },
-          {
-            "front": "stabile",
-            "pos": "adj",
-            "back": "stable",
-            "example": "Ha un lavoro stabile e sicuro.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo Assobirra, l'associazione del settore, i consumi restano sopra i 21 milioni di ettolitri.",
-            "point": "L'uso di 'secondo'",
-            "explanation": "'secondo' + nome significa 'according to' e introduce la fonte di un'informazione: 'secondo Assobirra'.",
-            "why_tricky": "'secondo' ha anche altri significati ('second', 'depending on'); qui indica la fonte."
-          },
-          {
-            "sentence": "La birra non e solo un piacere: e anche un lavoro per molte persone.",
-            "point": "La struttura 'non solo ... anche'",
-            "explanation": "'non solo ... anche' aggiunge un secondo elemento: non e soltanto una cosa, ma pure un'altra.",
-            "why_tricky": "L'ordine delle parole e l'uso di 'anche' confondono spesso chi impara."
-          },
-          {
-            "sentence": "Bere in modo responsabile resta pero sempre la scelta migliore.",
-            "point": "L'infinito come soggetto",
-            "explanation": "L'infinito 'bere' e il soggetto della frase e regge il verbo 'resta'.",
-            "why_tricky": "Lo studente tende a cercare un nome come soggetto e non riconosce l'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dare lavoro a",
-            "meaning": "offrire un'occupazione a qualcuno",
-            "example": "La nuova azienda dara lavoro a cento persone."
-          },
-          {
-            "phrase": "in modo responsabile",
-            "meaning": "con attenzione e senza esagerare",
-            "example": "Bisogna usare i social in modo responsabile."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quanta birra si consuma in Italia, secondo Assobirra?",
-            "type": "open"
-          },
-          {
-            "q": "Perche la birra e importante per l'economia italiana?",
-            "type": "open"
-          },
-          {
-            "q": "Tu bevi birra? Qual e una bevanda tipica del tuo Paese?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 80 parole: quali sono le bevande e i cibi tipici delle feste nel tuo Paese?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-26-paracadute-mantova",
-      "title": "Col paracadute giu dalla cupola della cattedrale di Mantova, denunciato",
-      "source": "ANSA",
-      "date": "2026-06-24",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "societa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-26-paracadute-mantova",
-        "revision": 1,
-        "meta": {
-          "title": "Col paracadute giu dalla cupola della cattedrale di Mantova, denunciato",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/24/col-paracadute-giu-dalla-cupola-della-cattedrale-di-mantova-denunciato_890e059c-2f1c-465d-bd4f-4aa9e283dd26.html",
-          "date_published": "2026-06-24",
-          "date_processed": "2026-06-26",
-          "tags": [
-            "cronaca",
-            "societa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Mantua, a man jumped with a parachute from the dome of the cathedral. He was about forty years old and was already known for similar feats. After the jump, he posted the video on social media. Many people watched the images and talked about it. The police, however, reported him, because the act is dangerous and forbidden.\n\nThese jumps from monuments are spectacular, but also very risky. The protagonist looks for strong emotions and wants to show his courage on social media. The authorities, on the other hand, remind us that safety comes first. Jumping from a historic building can ruin the monument and put people in danger. For this reason, the law punishes those who carry out these actions.",
-        "resumen_es": "A Mantova, un uomo e saltato con il paracadute dalla cupola della cattedrale. Aveva circa quarant'anni ed era gia conosciuto per imprese simili. Dopo il salto, ha pubblicato il video sui social. Molte persone hanno guardato le immagini e ne hanno parlato. La polizia, pero, lo ha denunciato perche il gesto e pericoloso e vietato.\n\nQuesti salti dai monumenti sono spettacolari, ma anche molto rischiosi. Il protagonista cerca emozioni forti e vuole mostrare il suo coraggio sui social. Le autorita, invece, ricordano che la sicurezza viene prima di tutto. Saltare da un edificio storico puo rovinare il monumento e mettere in pericolo le persone. Per questo motivo, la legge punisce chi compie queste azioni.",
-        "vocab": [
-          {
-            "front": "saltare",
-            "pos": "verb",
-            "back": "to jump",
-            "example": "Il bambino salta sul letto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il paracadute",
-            "pos": "noun",
-            "back": "parachute",
-            "example": "Si e lanciato con il paracadute.",
-            "tier": "B1"
-          },
-          {
-            "front": "la cupola",
-            "pos": "noun",
-            "back": "dome",
-            "example": "La cupola della chiesa e enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "la cattedrale",
-            "pos": "noun",
-            "back": "cathedral",
-            "example": "Abbiamo visitato la cattedrale del centro.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'impresa",
-            "pos": "noun",
-            "back": "feat, undertaking",
-            "example": "Scalare quella montagna e una grande impresa.",
-            "tier": "B1"
-          },
-          {
-            "front": "pubblicare",
-            "pos": "verb",
-            "back": "to publish, to post",
-            "example": "Ha pubblicato le foto sui social.",
-            "tier": "A2"
-          },
-          {
-            "front": "denunciare",
-            "pos": "verb",
-            "back": "to report (to the police)",
-            "example": "Ha denunciato il furto alla polizia.",
-            "tier": "B1"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Quella strada e molto pericolosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "vietato",
-            "pos": "adj",
-            "back": "forbidden",
-            "example": "E vietato fumare qui.",
-            "tier": "A2"
-          },
-          {
-            "front": "rischioso",
-            "pos": "adj",
-            "back": "risky",
-            "example": "E un piano troppo rischioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il coraggio",
-            "pos": "noun",
-            "back": "courage",
-            "example": "Ci vuole coraggio per ricominciare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "safety",
-            "example": "La sicurezza dei bambini viene prima di tutto.",
-            "tier": "A2"
-          },
-          {
-            "front": "la legge",
-            "pos": "noun",
-            "back": "law",
-            "example": "La legge vieta di guidare ubriachi.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Mantova, un uomo e saltato con il paracadute dalla cupola della cattedrale.",
-            "point": "Passato prossimo con 'essere'",
-            "explanation": "Molti verbi di movimento, come 'saltare' qui, formano il passato prossimo con 'essere'; il participio concorda: 'un uomo e saltato'.",
-            "why_tricky": "In inglese l'ausiliare e sempre 'have'; in italiano si deve scegliere tra 'essere' e 'avere'."
-          },
-          {
-            "sentence": "La polizia, pero, lo ha denunciato perche il gesto e pericoloso e vietato.",
-            "point": "Il pronome diretto 'lo'",
-            "explanation": "'lo' sostituisce 'l'uomo' come oggetto diretto e va prima del verbo: 'lo ha denunciato'.",
-            "why_tricky": "La posizione del pronome prima del verbo e diversa dall'inglese."
-          },
-          {
-            "sentence": "Saltare da un edificio storico puo rovinare il monumento e mettere in pericolo le persone.",
-            "point": "'potere' + infinito",
-            "explanation": "Il verbo modale 'puo' (potere) e seguito dall'infinito 'rovinare' e 'mettere' per esprimere possibilita.",
-            "why_tricky": "Dopo un modale serve sempre l'infinito senza preposizione."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "mettere in pericolo",
-            "meaning": "creare un rischio per qualcuno o qualcosa",
-            "example": "Correre in moto cosi mette in pericolo tutti."
-          },
-          {
-            "phrase": "venire prima di tutto",
-            "meaning": "essere la cosa piu importante",
-            "example": "Per me la famiglia viene prima di tutto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha fatto l'uomo a Mantova?",
-            "type": "open"
-          },
-          {
-            "q": "Perche la polizia lo ha denunciato?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo te, perche alcune persone amano gli sport estremi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 80 parole: ti piacciono gli sport estremi? Perche si o perche no?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-25-ia-studenti",
-      "title": "Da Ue e Ocse linee guida sull'intelligenza artificiale per gli studenti",
-      "source": "ANSA",
-      "date": "2026-06-22",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "scuola"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-25-ia-studenti",
-        "revision": 1,
-        "meta": {
-          "title": "Da Ue e Ocse linee guida sull'intelligenza artificiale per gli studenti",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/06/18/da-ue-e-ocse-linee-guida-sullintelligenza-artificiale-per-gli-studenti_434af04f-806e-4f23-bd0b-936dca8fd6e4.html",
-          "date_published": "2026-06-22",
-          "date_processed": "2026-06-25",
-          "tags": [
-            "tecnologia",
-            "scuola"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The European Union and the OECD have presented new guidelines on artificial intelligence for students. The goal is to help young people use these tools responsibly, both at school and at home. The guidance explains when artificial intelligence can be useful and when, instead, it is better not to use it.\n\nAccording to the experts, learning to use technology well is very important for the future. A good knowledge of artificial intelligence can help young people at work and in everyday life. The new rules also want to protect students from risks, such as fake news or the careless use of personal data. For this reason the schools will have a central role: they will have to explain calmly how these tools work.",
-        "resumen_es": "L'Unione Europea e l'Ocse hanno presentato nuove linee guida sull'intelligenza artificiale per gli studenti. L'obiettivo è aiutare i ragazzi a usare questi strumenti in modo responsabile, sia a scuola sia a casa. Le indicazioni spiegano quando l'intelligenza artificiale può essere utile e quando, invece, è meglio non usarla.\n\nSecondo gli esperti, imparare a usare bene la tecnologia è molto importante per il futuro. Una buona conoscenza dell'intelligenza artificiale può aiutare i ragazzi nel lavoro e nella vita di tutti i giorni. Le nuove regole vogliono anche proteggere gli studenti dai rischi, come le notizie false o l'uso poco attento dei dati personali. Per questo le scuole avranno un ruolo centrale: dovranno spiegare con calma come funzionano questi strumenti.",
-        "vocab": [
-          {
-            "front": "le linee guida",
-            "pos": "noun",
-            "back": "guidelines",
-            "example": "Il governo ha pubblicato nuove linee guida.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'intelligenza artificiale",
-            "pos": "noun",
-            "back": "artificial intelligence",
-            "example": "L'intelligenza artificiale cambia il lavoro.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "Il telefono è uno strumento utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo studente / la studentessa",
-            "pos": "noun",
-            "back": "student",
-            "example": "Gli studenti studiano in biblioteca.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "goal, objective",
-            "example": "Il nostro obiettivo è imparare.",
-            "tier": "A2"
-          },
-          {
-            "front": "responsabile",
-            "pos": "adj",
-            "back": "responsible",
-            "example": "È una persona responsabile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la conoscenza",
-            "pos": "noun",
-            "back": "knowledge",
-            "example": "Ha una buona conoscenza dell'inglese.",
-            "tier": "B1"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Dobbiamo proteggere i bambini.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "C'è il rischio di sbagliare.",
-            "tier": "B1"
-          },
-          {
-            "front": "le notizie false",
-            "pos": "phrase",
-            "back": "fake news",
-            "example": "Su internet ci sono molte notizie false.",
-            "tier": "B1"
-          },
-          {
-            "front": "i dati personali",
-            "pos": "phrase",
-            "back": "personal data",
-            "example": "Non dare i tuoi dati personali a tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ruolo",
-            "pos": "noun",
-            "back": "role",
-            "example": "La scuola ha un ruolo importante.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'Unione Europea e l'Ocse hanno presentato nuove linee guida sull'intelligenza artificiale per gli studenti.",
-            "point": "Passato prossimo with 'avere'",
-            "explanation": "'Hanno presentato' is the passato prossimo: present of 'avere' plus the past participle 'presentato'. It describes a completed action.",
-            "why_tricky": "The participle stays '-ato' and does not change with 'avere' here, unlike with 'essere'."
-          },
-          {
-            "sentence": "L'obiettivo è aiutare i ragazzi a usare questi strumenti in modo responsabile, sia a scuola sia a casa.",
-            "point": "Verb + 'a' + infinitive ('aiutare a')",
-            "explanation": "'Aiutare a usare' shows that some verbs need the preposition 'a' before another verb in the infinitive.",
-            "why_tricky": "Beginners forget the small word 'a' and say 'aiutare usare', which is wrong."
-          },
-          {
-            "sentence": "Per questo le scuole avranno un ruolo centrale: dovranno spiegare con calma come funzionano questi strumenti.",
-            "point": "Futuro semplice",
-            "explanation": "'Avranno' and 'dovranno' are the simple future of 'avere' and 'dovere', used here for what will happen later.",
-            "why_tricky": "These future forms are irregular, so learners must memorise the stems 'avr-' and 'dovr-'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in modo responsabile",
-            "meaning": "in a responsible way",
-            "example": "Bisogna usare internet in modo responsabile."
-          },
-          {
-            "phrase": "la vita di tutti i giorni",
-            "meaning": "everyday life",
-            "example": "La tecnologia entra nella vita di tutti i giorni."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi ha presentato le nuove linee guida sull'intelligenza artificiale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché, secondo gli esperti, è importante imparare a usare bene la tecnologia?",
-            "type": "open"
-          },
-          {
-            "q": "Quale ruolo avranno le scuole con queste nuove regole?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, l'intelligenza artificiale aiuta o no gli studenti a scuola? Scrivi la tua opinione con alcuni esempi."
       }
     }
   ]
