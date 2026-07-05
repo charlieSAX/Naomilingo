@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-03T08:15:37Z",
+ "generated_at": "2026-07-05T08:09:56Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-05-ultimo-tor-vergata",
+   "title": "La favola di Ultimo diventa realtà davanti ai 250mila di Tor Vergata",
+   "source": "ANSA",
+   "date": "2026-07-04",
+   "level": "A2-B1",
+   "topics": [
+    "musica",
+    "cultura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-ultimo-tor-vergata",
+    "revision": 1,
+    "meta": {
+     "title": "La favola di Ultimo diventa realtà davanti ai 250mila di Tor Vergata",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/il-popolo-di-ultimo-colora-la-spianata-di-tor-vergata-a-roma_16b9393a-81ec-4cc8-b826-30027c2f4564.html",
+     "date_published": "2026-07-04",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "musica",
+      "cultura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The Roman singer Ultimo gave a huge concert at Tor Vergata, in Rome. In front of him there were about 250 thousand fans, a real human tide. The artist arrived by helicopter and flew over the crowd before going on stage. During the evening he said: 'We are part of history, never stop believing in fairy tales'. At the end, fireworks closed the show.\n\nUltimo is one of the singers most loved by young Italians. His songs talk about love, dreams and everyday life. An event this big also brings a lot of money to the city: hotels, restaurants and transport all do more business. For many fans, the concert was the best moment of the summer, a memory to talk about for years.",
+    "resumen_es": "Il cantante romano Ultimo ha fatto un grande concerto a Tor Vergata, a Roma. Davanti a lui c'erano circa 250 mila fan, una vera marea umana. L'artista è arrivato in elicottero e ha sorvolato il pubblico prima di salire sul palco. Durante la serata ha detto: 'Siamo nella storia, non smettete mai di credere alle favole'. Alla fine, i fuochi d'artificio hanno chiuso lo spettacolo.\n\nUltimo è uno dei cantanti più amati dai giovani italiani. Le sue canzoni parlano di amore, di sogni e di vita quotidiana. Un evento così grande porta anche molti soldi alla città: alberghi, ristoranti e trasporti lavorano di più. Per molti fan, il concerto è stato il momento più bello dell'estate, un ricordo da raccontare per anni.",
+    "vocab": [
+     {
+      "front": "il palco",
+      "pos": "noun",
+      "back": "stage",
+      "example": "Il cantante è salito sul palco alle nove.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "audience, crowd",
+      "example": "Il pubblico ha cantato tutte le canzoni.",
+      "tier": "B1"
+     },
+     {
+      "front": "sorvolare",
+      "pos": "verb",
+      "back": "to fly over",
+      "example": "L'aereo ha sorvolato la città.",
+      "tier": "B2"
+     },
+     {
+      "front": "i fuochi d'artificio",
+      "pos": "noun",
+      "back": "fireworks",
+      "example": "I fuochi d'artificio illuminano il cielo la sera della festa.",
+      "tier": "B1"
+     },
+     {
+      "front": "lo spettacolo",
+      "pos": "noun",
+      "back": "show, performance",
+      "example": "Lo spettacolo è durato due ore.",
+      "tier": "B1"
+     },
+     {
+      "front": "la favola",
+      "pos": "noun",
+      "back": "fairy tale",
+      "example": "Da bambina amavo le favole della nonna.",
+      "tier": "B1"
+     },
+     {
+      "front": "il sogno",
+      "pos": "noun",
+      "back": "dream",
+      "example": "Il suo sogno è cantare davanti a tante persone.",
+      "tier": "B1"
+     },
+     {
+      "front": "quotidiano",
+      "pos": "adj",
+      "back": "daily, everyday",
+      "example": "La vita quotidiana in città è piena di impegni.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'albergo",
+      "pos": "noun",
+      "back": "hotel",
+      "example": "Abbiamo dormito in un albergo vicino alla stazione.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ricordo",
+      "pos": "noun",
+      "back": "memory, souvenir",
+      "example": "Quel viaggio è un ricordo bellissimo.",
+      "tier": "B1"
+     },
+     {
+      "front": "smettere di",
+      "pos": "verb",
+      "back": "to stop doing something",
+      "example": "Non smettere di studiare l'italiano!",
+      "tier": "B1"
+     },
+     {
+      "front": "la serata",
+      "pos": "noun",
+      "back": "evening (event)",
+      "example": "È stata una serata speciale per tutti.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "L'artista è arrivato in elicottero e ha sorvolato il pubblico prima di salire sul palco.",
+      "point": "Passato prossimo with essere and avere in the same sentence",
+      "explanation": "Arrivare is a movement verb, so it takes essere (è arrivato); sorvolare takes avere (ha sorvolato). Prima di + infinitive means before doing something.",
+      "why_tricky": "Choosing the right auxiliary is one of the classic difficulties of the passato prossimo; movement and change-of-state verbs want essere."
+     },
+     {
+      "sentence": "Davanti a lui c'erano circa 250 mila fan, una vera marea umana.",
+      "point": "C'erano (there were) with a plural subject",
+      "explanation": "C'è becomes c'erano in the imperfect plural: there were about 250 thousand fans.",
+      "why_tricky": "Learners often freeze on c'è and forget to make it agree in number and tense (c'era, c'erano, ci sono stati)."
+     },
+     {
+      "sentence": "Ultimo è uno dei cantanti più amati dai giovani italiani.",
+      "point": "Uno dei + plural + superlative",
+      "explanation": "Uno dei cantanti più amati means one of the most loved singers; dai giovani expresses by whom he is loved.",
+      "why_tricky": "The structure needs the plural after uno dei, and the agent takes da + article, which English marks simply with 'by'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "una marea umana",
+      "meaning": "a human tide, a huge crowd",
+      "example": "Alla festa del paese c'era una marea umana."
+     },
+     {
+      "phrase": "essere nella storia",
+      "meaning": "to be part of history",
+      "example": "Con questa vittoria, la squadra è nella storia."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quante persone c'erano al concerto di Tor Vergata?",
+      "type": "open"
+     },
+     {
+      "q": "Come è arrivato Ultimo al concerto?",
+      "type": "open"
+     },
+     {
+      "q": "Perché un evento così grande è positivo anche per la città?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piacerebbe andare a un concerto con 250 mila persone o preferisci i concerti piccoli? Scrivi la tua opinione in circa 80 parole."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-05-wwf-italia-60-anni",
+   "title": "Il WWF Italia compie 60 anni di attività a tutela del patrimonio naturale",
+   "source": "RaiNews",
+   "date": "2026-07-05",
+   "level": "A2-B1",
+   "topics": [
+    "ambiente",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-wwf-italia-60-anni",
+    "revision": 1,
+    "meta": {
+     "title": "Il WWF Italia compie 60 anni di attività a tutela del patrimonio naturale",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/video/2026/07/il-wwf-italia-compie-60-anni-di-attivita-a-tutela-del-patrimonio-naturale-9eb6e1db-3f04-4d07-b8d7-51d02abdcffc.html",
+     "date_published": "2026-07-05",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "ambiente",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "WWF Italia is celebrating 60 years of work to protect nature. The association was born in 1966 thanks to the initiative of Fulco Pratesi, a great lover of animals and the environment. In all these years the WWF has been on the front line in many ecological battles. Today the organisation has more than 100 thousand supporters across the country.\n\nThe WWF's work is very varied: it protects endangered species, such as the wolf and the bear, manages nature reserves and organises environmental education activities in schools. For the anniversary, the association reminds everyone that Italian nature is rich but fragile. Climate change, pollution and construction threaten many habitats. For this reason the WWF asks everyone for a small daily commitment to defend the environment.",
+    "resumen_es": "Il WWF Italia festeggia 60 anni di attività per proteggere la natura. L'associazione è nata nel 1966 grazie all'iniziativa di Fulco Pratesi, un grande amante degli animali e dell'ambiente. In tutti questi anni il WWF è stato in prima linea in molte battaglie ecologiche. Oggi l'organizzazione ha più di 100 mila sostenitori in tutto il Paese.\n\nIl lavoro del WWF è molto vario: protegge specie in pericolo, come il lupo e l'orso, gestisce oasi naturali e organizza attività di educazione ambientale nelle scuole. Per l'anniversario, l'associazione ricorda che la natura italiana è ricca ma fragile. I cambiamenti climatici, l'inquinamento e il cemento minacciano molti habitat. Per questo il WWF chiede a tutti un piccolo impegno quotidiano per difendere l'ambiente.",
+    "vocab": [
+     {
+      "front": "festeggiare",
+      "pos": "verb",
+      "back": "to celebrate",
+      "example": "Domani festeggiamo il compleanno di mia madre.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'associazione",
+      "pos": "noun",
+      "back": "association, organisation",
+      "example": "Lavoro come volontario in un'associazione locale.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'ambiente",
+      "pos": "noun",
+      "back": "environment",
+      "example": "Dobbiamo proteggere l'ambiente per i nostri figli.",
+      "tier": "B1"
+     },
+     {
+      "front": "il sostenitore",
+      "pos": "noun",
+      "back": "supporter",
+      "example": "L'associazione ha molti sostenitori giovani.",
+      "tier": "B2"
+     },
+     {
+      "front": "la specie in pericolo",
+      "pos": "noun",
+      "back": "endangered species",
+      "example": "Il panda è una specie in pericolo.",
+      "tier": "B1"
+     },
+     {
+      "front": "gestire",
+      "pos": "verb",
+      "back": "to manage, to run",
+      "example": "La famiglia gestisce un piccolo ristorante.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'oasi",
+      "pos": "noun",
+      "back": "nature reserve, oasis",
+      "example": "Domenica visitiamo un'oasi naturale vicino al lago.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'inquinamento",
+      "pos": "noun",
+      "back": "pollution",
+      "example": "L'inquinamento dell'aria è un problema nelle grandi città.",
+      "tier": "B1"
+     },
+     {
+      "front": "minacciare",
+      "pos": "verb",
+      "back": "to threaten",
+      "example": "Il turismo di massa minaccia le spiagge più belle.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'impegno",
+      "pos": "noun",
+      "back": "commitment, effort",
+      "example": "Studiare una lingua richiede impegno ogni giorno.",
+      "tier": "B1"
+     },
+     {
+      "front": "fragile",
+      "pos": "adj",
+      "back": "fragile",
+      "example": "Attenzione, il pacco è fragile!",
+      "tier": "B1"
+     },
+     {
+      "front": "la battaglia",
+      "pos": "noun",
+      "back": "battle, fight",
+      "example": "La battaglia contro la plastica continua.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "L'associazione è nata nel 1966 grazie all'iniziativa di Fulco Pratesi, un grande amante degli animali e dell'ambiente.",
+      "point": "Passato prossimo of nascere with essere",
+      "explanation": "Nascere takes essere, and the participle agrees with the subject: l'associazione è nata. Grazie a means thanks to.",
+      "why_tricky": "The agreement (nata, not nato) is easy to miss; grazie a combines with the article: grazie all'iniziativa."
+     },
+     {
+      "sentence": "In tutti questi anni il WWF è stato in prima linea in molte battaglie ecologiche.",
+      "point": "Essere stato: passato prossimo of essere",
+      "explanation": "È stato means has been. With a time phrase like in tutti questi anni it sums up a long period up to now.",
+      "why_tricky": "Essere uses itself as auxiliary (è stato), which surprises learners who expect avere."
+     },
+     {
+      "sentence": "Per questo il WWF chiede a tutti un piccolo impegno quotidiano per difendere l'ambiente.",
+      "point": "Chiedere qualcosa a qualcuno",
+      "explanation": "Chiedere takes the thing requested as direct object and the person with a: chiede a tutti un impegno.",
+      "why_tricky": "English 'ask someone for something' reverses the structure; in Italian the person always needs the preposition a."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "essere in prima linea",
+      "meaning": "to be on the front line, at the forefront",
+      "example": "I medici sono in prima linea contro le malattie."
+     },
+     {
+      "phrase": "in tutto il Paese",
+      "meaning": "across the whole country",
+      "example": "Il festival è famoso in tutto il Paese."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Chi ha fondato il WWF Italia e quando?",
+      "type": "open"
+     },
+     {
+      "q": "Quali attività fa il WWF secondo il testo?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa minaccia la natura italiana?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Che cosa fai tu, ogni giorno, per proteggere l'ambiente? Scrivi circa 80 parole."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-05-monopattini-assicurazione",
+   "title": "Dal 17 luglio rc auto per monopattini, ma targhe e caschi ancora non si vedono",
+   "source": "ANSA",
+   "date": "2026-07-04",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "trasporti"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-05-monopattini-assicurazione",
+    "revision": 1,
+    "meta": {
+     "title": "Dal 17 luglio rc auto per monopattini, ma targhe e caschi ancora non si vedono",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/07/04/dal-17-luglio-scatta-lobbligo-dellrc-auto-per-i-monopattini_ef1b5a95-603f-4697-b795-13bc465f588d.html",
+     "date_published": "2026-07-04",
+     "date_processed": "2026-07-05",
+     "tags": [
+      "società",
+      "trasporti"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "From 17 July a new rule comes into force in Italy for electric scooters: insurance becomes compulsory, just like for cars. Anyone who rides a scooter without insurance risks a fine. The law also requires a number plate and a compulsory helmet, but for now plates and helmets are still nowhere to be seen on the streets of Italian cities.\n\nThe sharing companies, which rent out scooters through an app, are not happy. They say the rules are too heavy and that costs are going up. Some companies in the sector risk closing down. For users the message is simple: before getting on a scooter, it is better to check the paperwork and ride carefully. Safety on the roads remains the most important thing.",
+    "resumen_es": "Dal 17 luglio in Italia scatta una nuova regola per i monopattini elettrici: l'assicurazione diventa obbligatoria, come per le auto. Chi guida un monopattino senza assicurazione rischia una multa. La legge prevede anche la targa e il casco obbligatorio, ma per ora targhe e caschi ancora non si vedono nelle strade delle città italiane.\n\nLe aziende dello sharing, che affittano i monopattini con una app, non sono contente. Dicono che le regole sono troppo pesanti e che i costi aumentano. Alcune aziende del settore rischiano di chiudere. Per gli utenti il messaggio è semplice: prima di salire su un monopattino, meglio controllare i documenti e guidare con prudenza. La sicurezza sulle strade resta la cosa più importante.",
+    "vocab": [
+     {
+      "front": "il monopattino",
+      "pos": "noun",
+      "back": "scooter (kick/electric scooter)",
+      "example": "Vado al lavoro in monopattino elettrico.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'assicurazione",
+      "pos": "noun",
+      "back": "insurance",
+      "example": "L'assicurazione della macchina costa molto.",
+      "tier": "B1"
+     },
+     {
+      "front": "obbligatorio",
+      "pos": "adj",
+      "back": "compulsory, mandatory",
+      "example": "Il casco è obbligatorio in moto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la multa",
+      "pos": "noun",
+      "back": "fine, penalty",
+      "example": "Ho preso una multa per il parcheggio.",
+      "tier": "B1"
+     },
+     {
+      "front": "la targa",
+      "pos": "noun",
+      "back": "number plate",
+      "example": "Non ricordo la targa della mia auto.",
+      "tier": "B1"
+     },
+     {
+      "front": "il casco",
+      "pos": "noun",
+      "back": "helmet",
+      "example": "Metti sempre il casco quando vai in bici.",
+      "tier": "B1"
+     },
+     {
+      "front": "scattare",
+      "pos": "verb",
+      "back": "to come into force, to be triggered",
+      "example": "Da lunedì scatta il divieto di fumare in spiaggia.",
+      "tier": "B2"
+     },
+     {
+      "front": "affittare",
+      "pos": "verb",
+      "back": "to rent (out)",
+      "example": "In vacanza affittiamo sempre le biciclette.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'utente",
+      "pos": "noun",
+      "back": "user",
+      "example": "Gli utenti della app sono milioni.",
+      "tier": "B1"
+     },
+     {
+      "front": "la prudenza",
+      "pos": "noun",
+      "back": "caution, care",
+      "example": "Con la pioggia serve più prudenza alla guida.",
+      "tier": "B1"
+     },
+     {
+      "front": "aumentare",
+      "pos": "verb",
+      "back": "to increase, to go up",
+      "example": "I prezzi aumentano ogni anno.",
+      "tier": "B1"
+     },
+     {
+      "front": "il settore",
+      "pos": "noun",
+      "back": "sector, industry",
+      "example": "Lavora nel settore del turismo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Chi guida un monopattino senza assicurazione rischia una multa.",
+      "point": "Chi as a general subject (whoever)",
+      "explanation": "Chi + verb means anyone who / whoever: whoever rides a scooter without insurance risks a fine. The verb stays singular.",
+      "why_tricky": "Learners expect a plural (quelli che) or translate 'who' literally; chi alone covers the whole general statement."
+     },
+     {
+      "sentence": "Dicono che le regole sono troppo pesanti e che i costi aumentano.",
+      "point": "Reported speech with dire che + indicative",
+      "explanation": "After dicono che, everyday Italian uses the indicative to report what the companies say.",
+      "why_tricky": "Learners who have studied the subjunctive often overapply it here; with dire (reporting facts) the indicative is normal."
+     },
+     {
+      "sentence": "Alcune aziende del settore rischiano di chiudere.",
+      "point": "Rischiare di + infinitive",
+      "explanation": "Rischiare needs di before an infinitive: rischiano di chiudere, they risk closing down.",
+      "why_tricky": "The preposition di is easy to drop because English says 'risk closing' with no preposition at all."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "essere in regola",
+      "meaning": "to have one's papers in order, to comply with the rules",
+      "example": "Il ristorante è in regola con tutti i documenti."
+     },
+     {
+      "phrase": "per ora",
+      "meaning": "for now, for the time being",
+      "example": "Per ora non cambio lavoro, vediamo l'anno prossimo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa diventa obbligatorio per i monopattini dal 17 luglio?",
+      "type": "open"
+     },
+     {
+      "q": "Perché le aziende dello sharing non sono contente?",
+      "type": "open"
+     },
+     {
+      "q": "Che consiglio dà il testo agli utenti dei monopattini?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, le regole per i monopattini elettrici sono giuste o troppo severe? Scrivi la tua opinione in circa 80 parole."
+   }
+  },
   {
    "pack_id": "feed-2026-07-03-casa-nella-prateria-reboot",
    "title": "Tornano gli Ingalls, arriva La (nuova) Casa nella Prateria",
@@ -6385,522 +6871,6 @@
      }
     ],
     "opinion_prompt": "Hai un animale domestico o ne vorresti uno? Scrivi come ti prendi cura di lui o come lo faresti."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-new-york-viaggio",
-   "title": "New York effetto wow garantito, tips su grattacieli e crociere",
-   "source": "ANSA",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "viaggi",
-    "città"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-new-york-viaggio",
-    "revision": 1,
-    "meta": {
-     "title": "New York effetto wow garantito, tips su grattacieli e crociere",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/06/26/new-york-effetto-wow-garantito-tips-su-grattacieli-e-crociere_99a00ddb-f22a-45bb-acf6-e5f68cfe2e98.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "viaggi",
-      "città"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "New York is one of the most famous cities in the world and every year it attracts millions of tourists. The Big Apple appeals to everyone because it offers so many things to do. You can admire the very tall skyscrapers from above, going up onto the observation decks, or look at the skyline from below, during a cruise on the river.\n\nThere are many different ways to discover the city. Some tourists prefer to walk in the big parks and among the colorful neighborhoods, while others love to go shopping or visit the museums. Food is a great attraction too, because in New York you find dishes from all over the world. For those who travel, seeing this city at least once in a lifetime remains a very common dream.",
-    "resumen_es": "New York è una delle città più famose del mondo e ogni anno attira milioni di turisti. La Grande Mela piace a tutti perché offre tantissime cose da fare. Si possono ammirare i grattacieli altissimi dall'alto, salendo sulle terrazze panoramiche, oppure guardare lo skyline dal basso, durante una crociera sul fiume.\n\nCi sono molti modi diversi per scoprire la città. Alcuni turisti preferiscono camminare nei grandi parchi e tra i quartieri colorati, mentre altri amano fare shopping o visitare i musei. Anche il cibo è una grande attrazione, perché a New York si trovano piatti di tutto il mondo. Per chi viaggia, vedere questa città almeno una volta nella vita resta un sogno molto comune.",
-    "vocab": [
-     {
-      "front": "famoso",
-      "pos": "adj",
-      "back": "famous",
-      "example": "New York è una città molto famosa.",
-      "tier": "A2"
-     },
-     {
-      "front": "attirare",
-      "pos": "verb",
-      "back": "to attract",
-      "example": "La città attira molti turisti.",
-      "tier": "B1"
-     },
-     {
-      "front": "il turista",
-      "pos": "noun",
-      "back": "tourist",
-      "example": "I turisti scattano molte foto.",
-      "tier": "A2"
-     },
-     {
-      "front": "il grattacielo",
-      "pos": "noun",
-      "back": "skyscraper",
-      "example": "I grattacieli sono altissimi.",
-      "tier": "B1"
-     },
-     {
-      "front": "la terrazza panoramica",
-      "pos": "phrase",
-      "back": "observation deck, panoramic terrace",
-      "example": "Saliamo sulla terrazza panoramica.",
-      "tier": "B1"
-     },
-     {
-      "front": "la crociera",
-      "pos": "noun",
-      "back": "cruise",
-      "example": "Facciamo una crociera sul fiume.",
-      "tier": "B1"
-     },
-     {
-      "front": "il quartiere",
-      "pos": "noun",
-      "back": "neighborhood, district",
-      "example": "Ogni quartiere ha il suo carattere.",
-      "tier": "B1"
-     },
-     {
-      "front": "fare shopping",
-      "pos": "phrase",
-      "back": "to go shopping",
-      "example": "Mi piace fare shopping in centro.",
-      "tier": "A2"
-     },
-     {
-      "front": "il museo",
-      "pos": "noun",
-      "back": "museum",
-      "example": "Visitiamo un museo famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "il cibo",
-      "pos": "noun",
-      "back": "food",
-      "example": "Il cibo qui è molto buono.",
-      "tier": "A2"
-     },
-     {
-      "front": "il piatto",
-      "pos": "noun",
-      "back": "dish",
-      "example": "Provo un piatto nuovo.",
-      "tier": "A2"
-     },
-     {
-      "front": "il sogno",
-      "pos": "noun",
-      "back": "dream",
-      "example": "Visitare New York è il mio sogno.",
-      "tier": "A2"
-     },
-     {
-      "front": "almeno una volta nella vita",
-      "pos": "phrase",
-      "back": "at least once in a lifetime",
-      "example": "Voglio vedere New York almeno una volta nella vita.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Si possono ammirare i grattacieli altissimi dall'alto, salendo sulle terrazze panoramiche, oppure guardare lo skyline dal basso, durante una crociera sul fiume.",
-      "point": "Impersonal 'si' + gerund",
-      "explanation": "'Si possono ammirare' means 'one can admire'; 'salendo' is a gerund showing how you do it.",
-      "why_tricky": "With 'si', the verb agrees with the plural noun ('grattacieli'), so it becomes 'possono'."
-     },
-     {
-      "sentence": "Alcuni turisti preferiscono camminare nei grandi parchi e tra i quartieri colorati, mentre altri amano fare shopping o visitare i musei.",
-      "point": "'preferire'/'amare' + infinitive",
-      "explanation": "After 'preferiscono' and 'amano' the second verb stays in the infinitive ('camminare', 'fare', 'visitare').",
-      "why_tricky": "English sometimes uses '-ing' here, but Italian always uses the infinitive."
-     },
-     {
-      "sentence": "Anche il cibo è una grande attrazione, perché a New York si trovano piatti di tutto il mondo.",
-      "point": "'si' passivante in the plural",
-      "explanation": "'Si trovano piatti' means 'dishes are found'; the verb is plural because 'piatti' is plural.",
-      "why_tricky": "Beginners often keep the verb singular and say 'si trova', which is incorrect here."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "la Grande Mela",
-      "meaning": "the Big Apple, the nickname for New York",
-      "example": "Quest'estate andiamo nella Grande Mela."
-     },
-     {
-      "phrase": "almeno una volta nella vita",
-      "meaning": "at least once in a lifetime, something worth doing at least once",
-      "example": "Bisogna vedere New York almeno una volta nella vita."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché New York attira tanti turisti?",
-      "type": "open"
-     },
-     {
-      "q": "Quali sono due modi diversi per scoprire la città?",
-      "type": "open"
-     },
-     {
-      "q": "Perché il cibo è una grande attrazione a New York?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Qual è una città che vorresti visitare almeno una volta nella vita? Spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-vesuvio-rotoli",
-   "title": "L'intelligenza artificiale per decifrare gli antichi rotoli dell'eruzione del Vesuvio",
-   "source": "Rai News",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "scienza",
-    "storia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-vesuvio-rotoli",
-    "revision": 1,
-    "meta": {
-     "title": "L'intelligenza artificiale per decifrare gli antichi rotoli dell'eruzione del Vesuvio",
-     "source": "Rai News",
-     "url": "https://www.rainews.it/video/2026/06/gli-scienziati-usano-lia-per-decifrare-gli-antichi-rotoli-delleruzione-del-vesuvio-057b8935-19b9-40e6-b74f-e56ae02b62e0.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "scienza",
-      "storia"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Almost two thousand years ago, the eruption of Vesuvius destroyed many cities near Naples. Among the remains, ancient papyrus scrolls have been found, burnt and impossible to open without breaking them. Today a group of scientists uses artificial intelligence to read these pages without touching them, thanks to special scans with X-rays.\n\nThis work is very important for historians. The scrolls contain ancient texts that no one has read for centuries and that could tell many things about life in the past. The project combines modern technology and history in a surprising way. If all goes well, in the future it will be possible to read hundreds of other papyri and discover words that have stayed hidden for a very long time.",
-    "resumen_es": "Quasi duemila anni fa, l'eruzione del Vesuvio distrusse molte città vicino a Napoli. Tra i resti sono stati trovati antichi rotoli di papiro, bruciati e impossibili da aprire senza romperli. Oggi un gruppo di scienziati usa l'intelligenza artificiale per leggere queste pagine senza toccarle, grazie a scansioni speciali con i raggi X.\n\nQuesto lavoro è molto importante per gli storici. I rotoli contengono testi antichi che nessuno legge da secoli e che potrebbero raccontare molte cose sulla vita del passato. Il progetto unisce la tecnologia moderna e la storia in modo sorprendente. Se tutto va bene, in futuro sarà possibile leggere centinaia di altri papiri e scoprire parole rimaste nascoste per tantissimo tempo.",
-    "vocab": [
-     {
-      "front": "l'eruzione",
-      "pos": "noun",
-      "back": "eruption",
-      "example": "L'eruzione del vulcano fu terribile.",
-      "tier": "B1"
-     },
-     {
-      "front": "distruggere",
-      "pos": "verb",
-      "back": "to destroy",
-      "example": "Il fuoco distrusse la città.",
-      "tier": "B1"
-     },
-     {
-      "front": "i resti",
-      "pos": "noun",
-      "back": "remains, ruins",
-      "example": "Tra i resti hanno trovato oggetti antichi.",
-      "tier": "B1"
-     },
-     {
-      "front": "il rotolo",
-      "pos": "noun",
-      "back": "scroll, roll",
-      "example": "Hanno aperto un rotolo molto antico.",
-      "tier": "B1"
-     },
-     {
-      "front": "il papiro",
-      "pos": "noun",
-      "back": "papyrus",
-      "example": "Il papiro è fragile e si rompe facilmente.",
-      "tier": "B2"
-     },
-     {
-      "front": "bruciato",
-      "pos": "adj",
-      "back": "burnt",
-      "example": "I documenti erano tutti bruciati.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo scienziato",
-      "pos": "noun",
-      "back": "scientist",
-      "example": "Gli scienziati studiano i papiri.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'intelligenza artificiale",
-      "pos": "phrase",
-      "back": "artificial intelligence",
-      "example": "L'intelligenza artificiale aiuta a leggere i testi.",
-      "tier": "B1"
-     },
-     {
-      "front": "leggere",
-      "pos": "verb",
-      "back": "to read",
-      "example": "Ora possiamo leggere parole nascoste.",
-      "tier": "A2"
-     },
-     {
-      "front": "i raggi X",
-      "pos": "phrase",
-      "back": "X-rays",
-      "example": "Usano i raggi X per vedere dentro il rotolo.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo storico",
-      "pos": "noun",
-      "back": "historian",
-      "example": "Gli storici sono molto interessati.",
-      "tier": "B1"
-     },
-     {
-      "front": "il secolo",
-      "pos": "noun",
-      "back": "century",
-      "example": "Nessuno legge quel testo da secoli.",
-      "tier": "A2"
-     },
-     {
-      "front": "nascosto",
-      "pos": "adj",
-      "back": "hidden",
-      "example": "Le parole erano rimaste nascoste.",
-      "tier": "B1"
-     },
-     {
-      "front": "scoprire",
-      "pos": "verb",
-      "back": "to discover",
-      "example": "Vogliono scoprire nuovi testi.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Tra i resti sono stati trovati antichi rotoli di papiro, bruciati e impossibili da aprire senza romperli.",
-      "point": "Passive in the passato prossimo",
-      "explanation": "'Sono stati trovati' is a passive form: the scrolls received the action of being found.",
-      "why_tricky": "The participle 'trovati' agrees in number and gender with 'rotoli' (masculine plural)."
-     },
-     {
-      "sentence": "I rotoli contengono testi antichi che nessuno legge da secoli e che potrebbero raccontare molte cose sulla vita del passato.",
-      "point": "'da' + time and the conditional",
-      "explanation": "'Legge da secoli' uses the present with 'da' for an action lasting until now; 'potrebbero' is the conditional of 'potere'.",
-      "why_tricky": "Italian uses the present tense with 'da', while English uses 'has read for'."
-     },
-     {
-      "sentence": "Se tutto va bene, in futuro sarà possibile leggere centinaia di altri papiri e scoprire parole rimaste nascoste per tantissimo tempo.",
-      "point": "Real conditional (se + present, future)",
-      "explanation": "'Se tutto va bene ... sarà possibile' links a present condition to a future result.",
-      "why_tricky": "Both clauses use different tenses, and the order of present and future must stay clear."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "se tutto va bene",
-      "meaning": "if all goes well, an expression of cautious hope",
-      "example": "Se tutto va bene, leggeremo molti altri testi."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa successe quasi duemila anni fa vicino a Napoli?",
-      "type": "open"
-     },
-     {
-      "q": "Come fanno gli scienziati a leggere i rotoli senza aprirli?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questo progetto è importante per gli storici?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, come può aiutare la tecnologia a proteggere e studiare la storia? Scrivi la tua opinione."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-26-bioparco-caldo",
-   "title": "Caldo, al Bioparco di Roma ghiaccioli e piscine per aiutare gli animali",
-   "source": "ANSA",
-   "date": "2026-06-26",
-   "level": "A2-B1",
-   "topics": [
-    "animali",
-    "caldo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-26-bioparco-caldo",
-    "revision": 1,
-    "meta": {
-     "title": "Caldo, al Bioparco di Roma ghiaccioli e piscine per aiutare gli animali",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/videogallery/italia/2026/06/26/caldo-al-bioparco-di-roma-ghiaccioli-e-piscine-per-aiutare-gli-animali_57605c10-e98d-4e29-b721-5c2f2e793418.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-06-26",
-     "tags": [
-      "animali",
-      "caldo"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "These days it is very hot in Rome and the sun is strong. To help its animals, the city's Bioparco uses simple and fun ideas. The keepers prepare fruit ice lollies for the bears, the monkeys and other animals. Inside the ice lollies they put pieces of fresh fruit, so the animals play and eat at the same time. There are also small pools in the park where the animals can get in and cool off.\n\nClean water is always available in every area of the park. Some misters spray fresh water into the air to lower the temperature. Every day the vets check the animals very carefully. If an animal seems tired or weak, it immediately receives the care it needs. In this way, even during the hottest summer, the Bioparco's animals stay healthy and calm.",
-    "resumen_es": "In questi giorni a Roma fa molto caldo e il sole è forte. Per aiutare i suoi animali, il Bioparco della città usa idee semplici e simpatiche. Gli operatori preparano ghiaccioli di frutta per gli orsi, per le scimmie e per altri animali. Dentro i ghiaccioli mettono pezzi di frutta fresca, così gli animali giocano e mangiano allo stesso tempo. Inoltre, nel parco ci sono piccole piscine dove gli animali possono entrare e rinfrescarsi.\n\nL'acqua pulita è sempre disponibile in ogni area del parco. Alcuni nebulizzatori spruzzano acqua fresca nell'aria per abbassare la temperatura. Ogni giorno i veterinari controllano gli animali con molta attenzione. Se un animale sembra stanco o debole, riceve subito le cure necessarie. Così, anche durante l'estate più calda, gli animali del Bioparco restano sani e tranquilli.",
-    "vocab": [
-     {
-      "front": "il caldo",
-      "pos": "noun",
-      "back": "the heat",
-      "example": "D'estate il caldo è forte.",
-      "tier": "A2"
-     },
-     {
-      "front": "fare caldo",
-      "pos": "phrase",
-      "back": "to be hot (weather)",
-      "example": "Oggi fa molto caldo.",
-      "tier": "A2"
-     },
-     {
-      "front": "aiutare",
-      "pos": "verb",
-      "back": "to help",
-      "example": "Voglio aiutare i miei amici.",
-      "tier": "A2"
-     },
-     {
-      "front": "il ghiacciolo",
-      "pos": "noun",
-      "back": "ice lolly, popsicle",
-      "example": "Il bambino mangia un ghiacciolo.",
-      "tier": "B1"
-     },
-     {
-      "front": "la piscina",
-      "pos": "noun",
-      "back": "swimming pool",
-      "example": "Andiamo in piscina oggi?",
-      "tier": "A2"
-     },
-     {
-      "front": "rinfrescarsi",
-      "pos": "verb",
-      "back": "to cool off",
-      "example": "Mi rinfresco con un po' d'acqua.",
-      "tier": "B1"
-     },
-     {
-      "front": "disponibile",
-      "pos": "adj",
-      "back": "available",
-      "example": "Il menu è disponibile in italiano.",
-      "tier": "B1"
-     },
-     {
-      "front": "spruzzare",
-      "pos": "verb",
-      "back": "to spray",
-      "example": "Spruzza l'acqua sui fiori.",
-      "tier": "B1"
-     },
-     {
-      "front": "abbassare",
-      "pos": "verb",
-      "back": "to lower",
-      "example": "Abbassa il volume, per favore.",
-      "tier": "B1"
-     },
-     {
-      "front": "la temperatura",
-      "pos": "noun",
-      "back": "temperature",
-      "example": "La temperatura è molto alta.",
-      "tier": "B1"
-     },
-     {
-      "front": "il veterinario",
-      "pos": "noun",
-      "back": "vet",
-      "example": "Porto il cane dal veterinario.",
-      "tier": "B1"
-     },
-     {
-      "front": "controllare",
-      "pos": "verb",
-      "back": "to check",
-      "example": "Controllo l'email ogni mattina.",
-      "tier": "A2"
-     },
-     {
-      "front": "le cure",
-      "pos": "noun",
-      "back": "care, treatment",
-      "example": "Il malato riceve buone cure.",
-      "tier": "B1"
-     },
-     {
-      "front": "sano",
-      "pos": "adj",
-      "back": "healthy",
-      "example": "Mangiare frutta è sano.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Per aiutare i suoi animali, il Bioparco della città usa idee semplici e simpatiche.",
-      "point": "per + infinito (scopo)",
-      "explanation": "Per esprimere lo scopo si usa 'per' seguito dall'infinito: 'per aiutare'.",
-      "why_tricky": "Gli studenti dicono spesso 'per che aiutare'; la forma corretta è 'per' + infinito."
-     },
-     {
-      "sentence": "Inoltre, nel parco ci sono piccole piscine dove gli animali possono entrare e rinfrescarsi.",
-      "point": "ci sono + potere + infinito",
-      "explanation": "'Ci sono' si usa con i nomi plurali ('c'è' con il singolare). Dopo 'possono' si usa l'infinito: 'entrare', 'rinfrescarsi'.",
-      "why_tricky": "Si confonde 'c'è' con 'ci sono' e si dimentica l'infinito dopo il verbo modale."
-     },
-     {
-      "sentence": "Così, anche durante l'estate più calda, gli animali del Bioparco restano sani e tranquilli.",
-      "point": "superlativo relativo e accordo dell'aggettivo",
-      "explanation": "'Più calda' è un superlativo relativo. Gli aggettivi 'sani' e 'tranquilli' concordano con il nome maschile plurale 'animali'.",
-      "why_tricky": "Spesso l'aggettivo non viene accordato al plurale maschile."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fa caldo",
-      "meaning": "it is hot (talking about the weather)",
-      "example": "D'estate fa caldo a Roma."
-     },
-     {
-      "phrase": "allo stesso tempo",
-      "meaning": "at the same time",
-      "example": "Guarda la TV e mangia allo stesso tempo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché il Bioparco di Roma aiuta gli animali in questi giorni?",
-      "type": "open"
-     },
-     {
-      "q": "Quali cose preparano gli operatori per rinfrescare gli animali?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa fanno i veterinari ogni giorno?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, come possiamo aiutare gli animali quando fa molto caldo? Scrivi la tua opinione in circa ottanta parole."
    }
   }
  ]
