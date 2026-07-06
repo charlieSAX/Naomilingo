@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-05T08:09:56Z",
+ "generated_at": "2026-07-06T20:18:04Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-06-costume-moda-citta",
+   "title": "Beachwear trend 2026, cosi il costume dal mare va in citta",
+   "source": "ANSA",
+   "date": "2026-07-06",
+   "level": "A2-B1",
+   "topics": [
+    "moda",
+    "estate"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-costume-moda-citta",
+    "revision": 1,
+    "meta": {
+     "title": "Beachwear trend 2026, cosi il costume dal mare va in citta",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/06/26/beachwear-trend-2026-cosi-il-costume-dal-mare-va-in-citta_296556bc-a6fa-4f73-832b-5e89101b4ede.html",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "moda",
+      "estate"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "This summer brings a new and curious fashion. The swimsuit no longer stays only at the beach. Many people wear it in the city too, as if it were a normal T-shirt. Designers offer different models. Some swimsuits have only one shoulder. Others are bandeau, without straps. The colours are bright and cheerful, perfect for the hot season. In this way, a simple item becomes a real fashion piece.\n\nThis trend appeals above all to younger people. Wearing the swimsuit in the city is comfortable and practical, especially when it is very hot. But not everyone agrees. Some people think the swimsuit should stay at the sea or in the pool. Fashion experts point out one important thing: the right idea is to match the swimsuit with other clothes, for example a skirt or light trousers. That way the look becomes elegant and suitable for everyday life too.",
+    "resumen_es": "Quest'estate arriva una moda nuova e curiosa. Il costume da bagno non resta piu solo in spiaggia. Molte persone lo usano anche in citta, come se fosse una normale maglietta. Gli stilisti propongono modelli diversi. Alcuni costumi hanno una sola spalla. Altri sono a fascia, senza spalline. I colori sono vivaci e allegri, perfetti per la stagione calda. In questo modo, un capo semplice diventa un vero pezzo di moda.\n\nQuesta tendenza piace soprattutto ai piu giovani. Indossare il costume in citta e comodo e pratico, specialmente quando fa molto caldo. Pero non tutti sono d'accordo. Alcune persone pensano che il costume debba restare al mare o in piscina. Gli esperti di moda ricordano una cosa importante: l'idea giusta e abbinare il costume con altri vestiti, per esempio una gonna o dei pantaloni leggeri. Cosi il look diventa elegante e adatto anche alla vita di ogni giorno.",
+    "vocab": [
+     {
+      "front": "costume da bagno",
+      "pos": "noun",
+      "back": "swimsuit",
+      "example": "Ho comprato un nuovo costume da bagno.",
+      "tier": "A2"
+     },
+     {
+      "front": "spiaggia",
+      "pos": "noun",
+      "back": "beach",
+      "example": "Domani andiamo alla spiaggia.",
+      "tier": "A2"
+     },
+     {
+      "front": "moda",
+      "pos": "noun",
+      "back": "fashion",
+      "example": "Lei segue sempre la moda.",
+      "tier": "A2"
+     },
+     {
+      "front": "stilista",
+      "pos": "noun",
+      "back": "fashion designer",
+      "example": "Lo stilista presenta la nuova collezione.",
+      "tier": "B1"
+     },
+     {
+      "front": "spalla",
+      "pos": "noun",
+      "back": "shoulder",
+      "example": "Ho un po' di male alla spalla.",
+      "tier": "A2"
+     },
+     {
+      "front": "spallina",
+      "pos": "noun",
+      "back": "strap (of clothing)",
+      "example": "Il vestito ha spalline sottili.",
+      "tier": "B1"
+     },
+     {
+      "front": "vivace",
+      "pos": "adj",
+      "back": "bright / lively",
+      "example": "Ama i colori vivaci.",
+      "tier": "B1"
+     },
+     {
+      "front": "capo",
+      "pos": "noun",
+      "back": "item of clothing / garment",
+      "example": "Questo capo e di cotone.",
+      "tier": "B1"
+     },
+     {
+      "front": "indossare",
+      "pos": "verb",
+      "back": "to wear",
+      "example": "Indossa un cappotto rosso.",
+      "tier": "B1"
+     },
+     {
+      "front": "comodo",
+      "pos": "adj",
+      "back": "comfortable",
+      "example": "Queste scarpe sono molto comode.",
+      "tier": "A2"
+     },
+     {
+      "front": "abbinare",
+      "pos": "verb",
+      "back": "to match / combine",
+      "example": "Sa abbinare bene i colori.",
+      "tier": "B1"
+     },
+     {
+      "front": "gonna",
+      "pos": "noun",
+      "back": "skirt",
+      "example": "Porta una gonna lunga.",
+      "tier": "A2"
+     },
+     {
+      "front": "essere d'accordo",
+      "pos": "phrase",
+      "back": "to agree",
+      "example": "Non sono d'accordo con te.",
+      "tier": "B1"
+     },
+     {
+      "front": "vita di ogni giorno",
+      "pos": "phrase",
+      "back": "everyday life",
+      "example": "Il telefono fa parte della vita di ogni giorno.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Il costume da bagno non resta piu solo in spiaggia.",
+      "point": "non ... piu (non piu)",
+      "explanation": "La struttura 'non ... piu' significa che qualcosa e finito o non accade piu.",
+      "why_tricky": "Le due parole si mettono intorno al verbo, e questo confonde chi parla inglese ('no longer')."
+     },
+     {
+      "sentence": "Alcune persone pensano che il costume debba restare al mare o in piscina.",
+      "point": "congiuntivo dopo 'pensare che'",
+      "explanation": "Dopo verbi di opinione come 'pensare che' si usa il congiuntivo ('debba').",
+      "why_tricky": "Nella lingua parlata a volte si sente l'indicativo, ma la forma corretta e il congiuntivo."
+     },
+     {
+      "sentence": "Indossare il costume in citta e comodo e pratico, specialmente quando fa molto caldo.",
+      "point": "infinito come soggetto; fa caldo",
+      "explanation": "L'infinito 'indossare' funziona come soggetto della frase; 'fa caldo' descrive il tempo.",
+      "why_tricky": "In inglese si usa la forma in -ing (wearing), mentre in italiano si usa l'infinito."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "andare di moda",
+      "meaning": "to be in fashion; to be trendy",
+      "example": "Quest'anno vanno di moda i colori chiari."
+     },
+     {
+      "phrase": "fare caldo",
+      "meaning": "to be hot (weather)",
+      "example": "D'estate fa molto caldo in citta."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa fanno molte persone con il costume da bagno quest'estate?",
+      "type": "open"
+     },
+     {
+      "q": "Perche ad alcune persone non piace questa moda?",
+      "type": "open"
+     },
+     {
+      "q": "Quale consiglio danno gli esperti di moda?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace questa moda di usare il costume in citta? Scrivi un breve testo e spiega la tua opinione."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-06-vienna-mangiare-aperto",
+   "title": "Estate a Vienna, i migliori indirizzi dove mangiare all'aperto",
+   "source": "ANSA",
+   "date": "2026-07-06",
+   "level": "A2-B1",
+   "topics": [
+    "viaggi",
+    "cibo"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-vienna-mangiare-aperto",
+    "revision": 1,
+    "meta": {
+     "title": "Estate a Vienna, i migliori indirizzi dove mangiare all'aperto",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_viaggi/notizie/gusto/2026/07/05/estate-a-vienna-i-migliori-indirizzi-dove-mangiare-allaperto_115a05dd-3c35-4754-8427-64c99bfd715b.html",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "viaggi",
+      "cibo"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In summer, the city of Vienna becomes perfect for eating outdoors. The weather is pleasant and there are many lovely places to stop. In the big parks, families have picnics on the grass. In the centre, some restaurants have terraces up high, with a nice view over the city. Along the river Danube there are many venues and markets. Here people eat, drink and spend time together, in the open air and in good company.\n\nIn Vienna there is also a much loved tradition: the Heuriger. These are simple taverns where you drink the local wine and eat typical dishes. They are usually found outside the centre, in quiet and green areas. For those visiting the city, these places are an excellent idea. They cost little, offer genuine food and let you get to know real Viennese life. In short, in summer Vienna invites everyone to slow down, to sit outside and to enjoy a good meal without rushing.",
+    "resumen_es": "In estate, la citta di Vienna diventa perfetta per mangiare all'aperto. Il clima e piacevole e ci sono molti posti belli dove fermarsi. Nei grandi parchi, le famiglie fanno picnic sull'erba. In centro, alcuni ristoranti hanno terrazze in alto, con una bella vista sulla citta. Lungo il fiume Danubio si trovano tanti locali e mercati. Qui le persone mangiano, bevono e passano il tempo insieme, all'aria aperta e in compagnia.\n\nA Vienna esiste anche una tradizione molto amata: gli Heuriger. Sono semplici osterie dove si beve il vino locale e si mangiano piatti tipici. Di solito si trovano fuori dal centro, in zone tranquille e verdi. Per chi visita la citta, questi luoghi sono un'ottima idea. Costano poco, offrono cibo genuino e permettono di conoscere la vera vita viennese. Insomma, d'estate Vienna invita tutti a rallentare, a sedersi fuori e a godersi un buon pasto senza fretta.",
+    "vocab": [
+     {
+      "front": "all'aperto",
+      "pos": "phrase",
+      "back": "outdoors / in the open",
+      "example": "Stasera mangiamo all'aperto.",
+      "tier": "A2"
+     },
+     {
+      "front": "clima",
+      "pos": "noun",
+      "back": "climate / weather",
+      "example": "Il clima qui e mite.",
+      "tier": "B1"
+     },
+     {
+      "front": "parco",
+      "pos": "noun",
+      "back": "park",
+      "example": "I bambini giocano al parco.",
+      "tier": "A2"
+     },
+     {
+      "front": "picnic",
+      "pos": "noun",
+      "back": "picnic",
+      "example": "Domenica facciamo un picnic.",
+      "tier": "A2"
+     },
+     {
+      "front": "terrazza",
+      "pos": "noun",
+      "back": "terrace",
+      "example": "La terrazza ha una bella vista.",
+      "tier": "B1"
+     },
+     {
+      "front": "vista",
+      "pos": "noun",
+      "back": "view",
+      "example": "Che bella vista sul mare!",
+      "tier": "A2"
+     },
+     {
+      "front": "fiume",
+      "pos": "noun",
+      "back": "river",
+      "example": "Il fiume attraversa la citta.",
+      "tier": "A2"
+     },
+     {
+      "front": "locale",
+      "pos": "noun",
+      "back": "venue / place (bar, club)",
+      "example": "Conosco un locale molto simpatico.",
+      "tier": "B1"
+     },
+     {
+      "front": "osteria",
+      "pos": "noun",
+      "back": "tavern / inn",
+      "example": "Abbiamo cenato in un'osteria.",
+      "tier": "B1"
+     },
+     {
+      "front": "piatto tipico",
+      "pos": "phrase",
+      "back": "typical dish",
+      "example": "Ho assaggiato un piatto tipico locale.",
+      "tier": "B1"
+     },
+     {
+      "front": "genuino",
+      "pos": "adj",
+      "back": "genuine / wholesome",
+      "example": "Preferisco il cibo genuino.",
+      "tier": "B1"
+     },
+     {
+      "front": "senza fretta",
+      "pos": "phrase",
+      "back": "without rushing",
+      "example": "Mangia con calma, senza fretta.",
+      "tier": "B1"
+     },
+     {
+      "front": "rallentare",
+      "pos": "verb",
+      "back": "to slow down",
+      "example": "In vacanza voglio rallentare un po'.",
+      "tier": "B1"
+     },
+     {
+      "front": "in compagnia",
+      "pos": "phrase",
+      "back": "in company / with others",
+      "example": "E bello cenare in compagnia.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Nei grandi parchi, le famiglie fanno picnic sull'erba.",
+      "point": "preposizioni articolate (nei, sull')",
+      "explanation": "'Nei' unisce 'in' + 'i'; 'sull'' unisce 'su' + 'l''. Sono preposizioni articolate molto comuni.",
+      "why_tricky": "Bisogna scegliere l'articolo giusto secondo il genere e il numero del nome."
+     },
+     {
+      "sentence": "Sono semplici osterie dove si beve il vino locale e si mangiano piatti tipici.",
+      "point": "si impersonale / passivante",
+      "explanation": "Il 'si' con il verbo indica un soggetto generico; il verbo concorda con l'oggetto ('si mangiano piatti').",
+      "why_tricky": "Il verbo cambia numero: 'si beve il vino' ma 'si mangiano piatti', secondo l'oggetto."
+     },
+     {
+      "sentence": "Di solito si trovano fuori dal centro, in zone tranquille e verdi.",
+      "point": "si passivante al plurale + 'di solito'",
+      "explanation": "'Si trovano' e una forma passivante al plurale; 'di solito' indica un'abitudine.",
+      "why_tricky": "L'accordo del verbo al plurale con il 'si' passivante non e intuitivo."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "all'aria aperta",
+      "meaning": "in the open air; outdoors",
+      "example": "Ai bambini piace giocare all'aria aperta."
+     },
+     {
+      "phrase": "passare il tempo",
+      "meaning": "to spend time; to pass the time",
+      "example": "Passiamo il tempo chiacchierando al parco."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Dove fanno picnic le famiglie a Vienna in estate?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa sono gli Heuriger?",
+      "type": "open"
+     },
+     {
+      "q": "Perche questi luoghi sono una buona idea per i turisti?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Come ti piace mangiare in estate: al ristorante, a casa o all'aperto? Scrivi un breve testo e spiega perche."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-06-truffe-digitali-estate",
+   "title": "Dalle case fantasma ai video con l'IA, le truffe digitali minacciano l'estate",
+   "source": "ANSA",
+   "date": "2026-07-06",
+   "level": "A2-B1",
+   "topics": [
+    "tecnologia",
+    "sicurezza"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-06-truffe-digitali-estate",
+    "revision": 1,
+    "meta": {
+     "title": "Dalle case fantasma ai video con l'IA, le truffe digitali minacciano l'estate",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/05/truffe-digitali-estive-i-piu-colpiti-sono-i-ragazzi-dai-18-ai-24-anni_95c7d8fa-5d44-4d84-8c8d-80f9f9ac1cba.html",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-06",
+     "tags": [
+      "tecnologia",
+      "sicurezza"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In summer, scams on the internet increase. Criminals use ever new tricks to steal money from people. One example is holiday houses that do not really exist. The tourist pays in advance, but the house is not there. Another danger is fake videos created with artificial intelligence. They look real, but they are not. There are also fake apps, very similar to the real ones, that steal personal data.\n\nAccording to experts, the biggest problem is haste. When we look for a deal at the last moment, we check less and fall more easily into the trap. That is why it is important to be careful. Before paying, it is a good idea to check the website well and read other customers' reviews. It is better to download apps only from official stores. With a few simple precautions, we can enjoy the holidays calmly and protect our money and our data.",
+    "resumen_es": "In estate crescono le truffe su internet. I criminali usano trucchi sempre nuovi per rubare soldi alle persone. Un esempio sono le case per le vacanze che non esistono davvero. Il turista paga in anticipo, ma la casa non c'e. Un altro pericolo sono i video falsi creati con l'intelligenza artificiale. Sembrano veri, ma non lo sono. Ci sono anche finte app, molto simili a quelle vere, che rubano i dati personali.\n\nSecondo gli esperti, il problema piu grande e la fretta. Quando cerchiamo un'offerta all'ultimo momento, controlliamo di meno e cadiamo piu facilmente nella trappola. Per questo e importante stare attenti. Prima di pagare, conviene verificare bene il sito e leggere le opinioni di altri clienti. E meglio scaricare le app solo dai negozi ufficiali. Con qualche semplice precauzione, possiamo goderci le vacanze in tranquillita e proteggere i nostri soldi e i nostri dati.",
+    "vocab": [
+     {
+      "front": "truffa",
+      "pos": "noun",
+      "back": "scam / fraud",
+      "example": "E stata vittima di una truffa online.",
+      "tier": "B1"
+     },
+     {
+      "front": "criminale",
+      "pos": "noun",
+      "back": "criminal",
+      "example": "La polizia cerca i criminali.",
+      "tier": "B1"
+     },
+     {
+      "front": "trucco",
+      "pos": "noun",
+      "back": "trick",
+      "example": "Ho capito il suo trucco.",
+      "tier": "B1"
+     },
+     {
+      "front": "rubare",
+      "pos": "verb",
+      "back": "to steal",
+      "example": "Gli hanno rubato il telefono.",
+      "tier": "A2"
+     },
+     {
+      "front": "in anticipo",
+      "pos": "phrase",
+      "back": "in advance",
+      "example": "Ho pagato l'albergo in anticipo.",
+      "tier": "B1"
+     },
+     {
+      "front": "falso",
+      "pos": "adj",
+      "back": "fake / false",
+      "example": "Questo documento e falso.",
+      "tier": "A2"
+     },
+     {
+      "front": "intelligenza artificiale",
+      "pos": "noun",
+      "back": "artificial intelligence",
+      "example": "L'intelligenza artificiale cambia il lavoro.",
+      "tier": "B1"
+     },
+     {
+      "front": "dati personali",
+      "pos": "noun",
+      "back": "personal data",
+      "example": "Non condividere i tuoi dati personali.",
+      "tier": "B1"
+     },
+     {
+      "front": "fretta",
+      "pos": "noun",
+      "back": "haste / hurry",
+      "example": "La mattina ho sempre fretta.",
+      "tier": "A2"
+     },
+     {
+      "front": "trappola",
+      "pos": "noun",
+      "back": "trap",
+      "example": "E caduto nella trappola.",
+      "tier": "B1"
+     },
+     {
+      "front": "stare attento",
+      "pos": "phrase",
+      "back": "to be careful",
+      "example": "Stai attento quando attraversi la strada.",
+      "tier": "A2"
+     },
+     {
+      "front": "verificare",
+      "pos": "verb",
+      "back": "to check / verify",
+      "example": "Devi verificare l'indirizzo prima di partire.",
+      "tier": "B1"
+     },
+     {
+      "front": "scaricare",
+      "pos": "verb",
+      "back": "to download",
+      "example": "Ho scaricato una nuova app.",
+      "tier": "B1"
+     },
+     {
+      "front": "precauzione",
+      "pos": "noun",
+      "back": "precaution",
+      "example": "Prendi qualche precauzione prima di viaggiare.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "I criminali usano trucchi sempre nuovi per rubare soldi alle persone.",
+      "point": "per + infinito (scopo)",
+      "explanation": "'Per' seguito dall'infinito esprime lo scopo di un'azione ('per rubare' = allo scopo di rubare).",
+      "why_tricky": "In inglese si usa 'to' + verbo, ma in italiano serve sempre 'per' + infinito."
+     },
+     {
+      "sentence": "Quando cerchiamo un'offerta all'ultimo momento, controlliamo di meno e cadiamo piu facilmente nella trappola.",
+      "point": "presente per verita generali",
+      "explanation": "Il presente indicativo si usa per descrivere situazioni abituali o generali dopo 'quando'.",
+      "why_tricky": "Si usa il presente e non un tempo passato, anche se si parla di una regola generale."
+     },
+     {
+      "sentence": "E meglio scaricare le app solo dai negozi ufficiali.",
+      "point": "e meglio + infinito (consiglio)",
+      "explanation": "'E meglio' + infinito serve a dare un consiglio; 'dai' unisce 'da' + 'i'.",
+      "why_tricky": "Bisogna usare l'infinito dopo 'e meglio', non un verbo coniugato."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "cadere nella trappola",
+      "meaning": "to fall into the trap",
+      "example": "Non cadere nella trappola dei truffatori."
+     },
+     {
+      "phrase": "all'ultimo momento",
+      "meaning": "at the last minute",
+      "example": "Ha comprato il biglietto all'ultimo momento."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quali sono alcuni esempi di truffe estive descritti nel testo?",
+      "type": "open"
+     },
+     {
+      "q": "Perche la fretta aumenta il rischio di truffe?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa possiamo fare per proteggerci?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Hai mai ricevuto un messaggio o un'offerta sospetta su internet? Scrivi un breve testo e racconta come ti sei comportato."
+   }
+  },
   {
    "pack_id": "feed-2026-07-05-ultimo-tor-vergata",
    "title": "La favola di Ultimo diventa realtà davanti ai 250mila di Tor Vergata",
@@ -6388,489 +6916,6 @@
      }
     ],
     "opinion_prompt": "Scrivi circa 80 parole: qual è il film o il programma più divertente che hai visto? Spiega perché ti è piaciuto."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-sara-curtis-nuoto-record",
-   "title": "Sara Curtis vola nei 100 stile libero al Settecolli, prima italiana sotto i 53”",
-   "source": "RAI News",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "nuoto"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-sara-curtis-nuoto-record",
-    "revision": 1,
-    "meta": {
-     "title": "Sara Curtis vola nei 100 stile libero al Settecolli, prima italiana sotto i 53”",
-     "source": "RAI News",
-     "url": "https://www.rainews.it/articoli/2026/06/sara-curtis-vola-nei-100-stile-libero-al-settecolli-prima-italiana-sotto-i-53-d0cba68d-94ae-49db-934e-601d740d08b6.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "sport",
-      "nuoto"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Sara Curtis is a young Italian swimmer. At the Settecolli, a famous swimming meet in Rome, she achieved a great result. In the hundred metres freestyle she became the first Italian woman to go under fifty-three seconds. It is a very fast time and for her it is an important milestone. The crowd applauded her with enthusiasm. Sara confirms that she is one of the stars of Italian swimming.\n\nThis success comes after a week that was already very positive for the athlete. Results like this help Italian sport to grow and to dream big. Young swimmers can look to Sara as an example to follow. With training and commitment, they too can improve their own times. Now the fans hope to see her as a leading figure in the next international competitions.",
-    "resumen_es": "Sara Curtis è una giovane nuotatrice italiana. Al Settecolli, una famosa gara di nuoto a Roma, ha ottenuto un grande risultato. Nei cento metri stile libero è diventata la prima italiana a scendere sotto i cinquantatré secondi. È un tempo molto veloce e per lei è un traguardo importante. Il pubblico l'ha applaudita con entusiasmo. Sara conferma di essere una delle stelle del nuoto azzurro.\n\nQuesto successo arriva dopo una settimana già molto positiva per l'atleta. Risultati come questo aiutano lo sport italiano a crescere e a sognare in grande. Le giovani nuotatrici possono guardare a Sara come a un esempio da seguire. Con allenamento e impegno, anche loro possono migliorare i propri tempi. Ora i tifosi sperano di vederla protagonista nelle prossime gare internazionali.",
-    "vocab": [
-     {
-      "front": "la nuotatrice",
-      "pos": "noun",
-      "back": "swimmer (female)",
-      "example": "La nuotatrice si allena ogni giorno.",
-      "tier": "A2"
-     },
-     {
-      "front": "la gara",
-      "pos": "noun",
-      "back": "race, competition",
-      "example": "La gara comincia alle dieci.",
-      "tier": "A2"
-     },
-     {
-      "front": "il nuoto",
-      "pos": "noun",
-      "back": "swimming",
-      "example": "Il nuoto è il suo sport preferito.",
-      "tier": "A2"
-     },
-     {
-      "front": "ottenere",
-      "pos": "verb",
-      "back": "to obtain, to achieve",
-      "example": "Ha ottenuto un buon voto.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo stile libero",
-      "pos": "noun",
-      "back": "freestyle (swimming)",
-      "example": "È brava nello stile libero.",
-      "tier": "B1"
-     },
-     {
-      "front": "il traguardo",
-      "pos": "noun",
-      "back": "finish line, goal",
-      "example": "Raggiungere il traguardo è una grande gioia.",
-      "tier": "B1"
-     },
-     {
-      "front": "applaudire",
-      "pos": "verb",
-      "back": "to applaud",
-      "example": "Tutti applaudono i vincitori.",
-      "tier": "B1"
-     },
-     {
-      "front": "il successo",
-      "pos": "noun",
-      "back": "success",
-      "example": "Il concerto è stato un successo.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'allenamento",
-      "pos": "noun",
-      "back": "training",
-      "example": "L'allenamento è molto duro.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'impegno",
-      "pos": "noun",
-      "back": "commitment, effort",
-      "example": "Studia con grande impegno.",
-      "tier": "B1"
-     },
-     {
-      "front": "migliorare",
-      "pos": "verb",
-      "back": "to improve",
-      "example": "Voglio migliorare il mio italiano.",
-      "tier": "A2"
-     },
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi cantano allo stadio.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Nei cento metri stile libero è diventata la prima italiana a scendere sotto i cinquantatré secondi.",
-      "point": "Passato prossimo with 'essere'",
-      "explanation": "'Diventare' forms the passato prossimo with 'essere', so the past participle agrees with the subject: 'è diventata' (feminine).",
-      "why_tricky": "Many verbs use 'avere', but verbs of change like 'diventare' take 'essere' and need agreement."
-     },
-     {
-      "sentence": "Il pubblico l'ha applaudita con entusiasmo.",
-      "point": "Agreement with a direct object pronoun",
-      "explanation": "With 'avere', the past participle agrees with a preceding direct object pronoun, so 'l'' (= la) gives 'applaudita'.",
-      "why_tricky": "Normally the participle does not change with 'avere', but a direct object pronoun before the verb forces agreement."
-     },
-     {
-      "sentence": "Con allenamento e impegno, anche loro possono migliorare i propri tempi.",
-      "point": "'Potere' + infinitive and 'i propri'",
-      "explanation": "'Possono migliorare' shows the modal verb 'potere' plus an infinitive; 'i propri' means 'their own'.",
-      "why_tricky": "Beginners may add a preposition before the infinitive, but after modal verbs none is needed."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "sognare in grande",
-      "meaning": "to dream big",
-      "example": "Per riuscire nello sport bisogna sognare in grande."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che risultato ha ottenuto Sara Curtis al Settecolli?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questo successo è importante per lo sport italiano?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, che cosa serve per diventare un campione?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi circa 80 parole: pratichi uno sport? Racconta come ti alleni o perché ti piacerebbe iniziare."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-etna-colata-lavica",
-   "title": "La colata lavica a quota 3000 metri sull'Etna vista da vicino",
-   "source": "RAI News",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "natura",
-    "vulcano"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-etna-colata-lavica",
-    "revision": 1,
-    "meta": {
-     "title": "La colata lavica a quota 3000 metri sull'Etna vista da vicino",
-     "source": "RAI News",
-     "url": "https://www.rainews.it/video/2026/06/video-colata-lavica-a-quota-3000-metri-sulletna-vulcano-aa3c3645-0cd7-4201-8a92-ec5dca0b2be6.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "natura",
-      "vulcano"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Etna is the largest volcano in Europe and it is in Sicily. These days a flow of lava is coming down from the volcano at three thousand metres of altitude. Some images show the lava very close up. The fire and the heat create an impressive sight. Experts are watching the eruption with great attention. For now the situation is not dangerous for the nearby towns.\n\nEtna is a very active volcano and eruptions are quite frequent. For this reason scientists monitor it every day. The lava can be beautiful to watch, but you must always keep a safe distance. Many tourists come to Sicily exactly to admire the volcano. Etna reminds everyone of the force of nature and its great power.",
-    "resumen_es": "L'Etna è il vulcano più grande d'Europa e si trova in Sicilia. In questi giorni una colata di lava scende dal vulcano a tremila metri di altezza. Alcune immagini mostrano la lava molto da vicino. Il fuoco e il calore creano uno spettacolo impressionante. Gli esperti osservano l'eruzione con grande attenzione. Per ora la situazione non è pericolosa per i paesi vicini.\n\nL'Etna è un vulcano molto attivo e le eruzioni sono abbastanza frequenti. Per questo gli scienziati lo controllano ogni giorno. La lava può essere bella da vedere, ma bisogna sempre mantenere la distanza di sicurezza. Molti turisti arrivano in Sicilia proprio per ammirare il vulcano. L'Etna ricorda a tutti la forza della natura e il suo grande potere.",
-    "vocab": [
-     {
-      "front": "il vulcano",
-      "pos": "noun",
-      "back": "volcano",
-      "example": "Il vulcano è molto alto.",
-      "tier": "A2"
-     },
-     {
-      "front": "la colata di lava",
-      "pos": "noun",
-      "back": "lava flow",
-      "example": "La colata di lava scende lentamente.",
-      "tier": "B1"
-     },
-     {
-      "front": "scendere",
-      "pos": "verb",
-      "back": "to come/go down",
-      "example": "La lava scende dalla montagna.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'altezza",
-      "pos": "noun",
-      "back": "height, altitude",
-      "example": "L'aereo vola ad alta quota.",
-      "tier": "A2"
-     },
-     {
-      "front": "il calore",
-      "pos": "noun",
-      "back": "heat",
-      "example": "Si sente il calore del fuoco.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo spettacolo",
-      "pos": "noun",
-      "back": "sight, show",
-      "example": "Il tramonto è uno spettacolo.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'eruzione",
-      "pos": "noun",
-      "back": "eruption",
-      "example": "L'eruzione è iniziata stanotte.",
-      "tier": "B1"
-     },
-     {
-      "front": "pericoloso",
-      "pos": "adj",
-      "back": "dangerous",
-      "example": "Quella strada è pericolosa.",
-      "tier": "A2"
-     },
-     {
-      "front": "lo scienziato",
-      "pos": "noun",
-      "back": "scientist",
-      "example": "Lo scienziato studia il clima.",
-      "tier": "B1"
-     },
-     {
-      "front": "controllare",
-      "pos": "verb",
-      "back": "to monitor, to check",
-      "example": "I medici controllano i pazienti.",
-      "tier": "A2"
-     },
-     {
-      "front": "la distanza di sicurezza",
-      "pos": "noun",
-      "back": "safe distance",
-      "example": "Mantieni la distanza di sicurezza.",
-      "tier": "B1"
-     },
-     {
-      "front": "ammirare",
-      "pos": "verb",
-      "back": "to admire",
-      "example": "I turisti ammirano il panorama.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "L'Etna è il vulcano più grande d'Europa e si trova in Sicilia.",
-      "point": "Relative superlative + reflexive 'si trova'",
-      "explanation": "'Il più grande' is the relative superlative ('the biggest'), and 'si trova' is the common reflexive way to say where something is located.",
-      "why_tricky": "Learners may use 'è' for location, but Italian often prefers 'si trova'."
-     },
-     {
-      "sentence": "La lava può essere bella da vedere, ma bisogna sempre mantenere la distanza di sicurezza.",
-      "point": "'Bisogna' + infinitive (impersonal)",
-      "explanation": "'Bisogna' means 'it is necessary / one must' and is always followed by an infinitive; 'da vedere' means 'to see / to be seen'.",
-      "why_tricky": "'Bisogna' never changes form and takes no personal subject, unlike English 'you must'."
-     },
-     {
-      "sentence": "Molti turisti arrivano in Sicilia proprio per ammirare il vulcano.",
-      "point": "'Per' + infinitive to show purpose",
-      "explanation": "'Per ammirare' expresses why they come ('in order to admire'); with regions Italian uses 'in' ('in Sicilia').",
-      "why_tricky": "English uses 'to + verb' for purpose, while Italian needs 'per' before the infinitive."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "da vicino",
-      "meaning": "close up, from up close",
-      "example": "Ho visto il leone da vicino allo zoo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Dove si trova l'Etna e perché è famoso?",
-      "type": "open"
-     },
-     {
-      "q": "Perché gli scienziati controllano il vulcano ogni giorno?",
-      "type": "open"
-     },
-     {
-      "q": "Ti piacerebbe vedere un vulcano da vicino? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi circa 80 parole: descrivi un luogo della natura che ti ha colpito. Com'era e che cosa hai provato?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-cani-estate",
-   "title": "Fondazione Cave Canem: i consigli utili per il benessere dei cani in estate",
-   "source": "ANSA",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "animali",
-    "estate"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-cani-estate",
-    "revision": 1,
-    "meta": {
-     "title": "Fondazione Cave Canem: i consigli utili per il benessere dei cani in estate",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/videogallery/italia/2026/06/26/fondazione-cave-canem-i-consigli-utili-per-il-benessere-dei-cani-in-estate_d106c923-a825-4a99-97e8-5fa517c97acf.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "animali",
-      "estate"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In summer it is very hot and dogs suffer from the high temperatures too. A foundation that takes care of animals has given some simple tips to protect dogs during the hottest months. An expert explains that the asphalt can become scorching and burn the animals' paws, so it is better not to take them for a walk in the middle of the day.\n\nThere are other easy rules to follow. It is important to always leave fresh water available and never to leave the dog in the car under the sun. A short walk early in the morning or in the evening is much safer. With a little care, our four-legged friends can spend the summer healthy and without problems.",
-    "resumen_es": "In estate fa molto caldo e anche i cani soffrono per le alte temperature. Una fondazione che si occupa di animali ha dato alcuni consigli semplici per proteggere i cani durante i mesi più caldi. Un esperto spiega che l'asfalto può diventare rovente e bruciare le zampe degli animali, quindi è meglio non portarli a spasso nelle ore centrali della giornata.\n\nCi sono altre regole facili da seguire. È importante lasciare sempre acqua fresca a disposizione e non lasciare mai il cane in macchina sotto il sole. Una breve passeggiata al mattino presto o alla sera è molto più sicura. Con un po' di attenzione, i nostri amici a quattro zampe possono passare l'estate in salute e senza problemi.",
-    "vocab": [
-     {
-      "front": "il caldo",
-      "pos": "noun",
-      "back": "heat, hot weather",
-      "example": "In estate il caldo è molto forte.",
-      "tier": "B1"
-     },
-     {
-      "front": "soffrire",
-      "pos": "verb",
-      "back": "to suffer",
-      "example": "I cani soffrono quando fa caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "il consiglio",
-      "pos": "noun",
-      "back": "advice, tip",
-      "example": "Ti do un consiglio utile.",
-      "tier": "B1"
-     },
-     {
-      "front": "proteggere",
-      "pos": "verb",
-      "back": "to protect",
-      "example": "Dobbiamo proteggere gli animali dal sole.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'asfalto",
-      "pos": "noun",
-      "back": "asphalt, road surface",
-      "example": "L'asfalto è molto caldo a mezzogiorno.",
-      "tier": "B1"
-     },
-     {
-      "front": "rovente",
-      "pos": "adj",
-      "back": "scorching, very hot",
-      "example": "La strada diventa rovente in estate.",
-      "tier": "B2"
-     },
-     {
-      "front": "la zampa",
-      "pos": "noun",
-      "back": "paw",
-      "example": "Il cane si è fatto male a una zampa.",
-      "tier": "B1"
-     },
-     {
-      "front": "portare a spasso",
-      "pos": "phrase",
-      "back": "to take for a walk",
-      "example": "Porto il cane a spasso ogni sera.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'acqua fresca",
-      "pos": "phrase",
-      "back": "cool, fresh water",
-      "example": "Lascio sempre acqua fresca al cane.",
-      "tier": "A2"
-     },
-     {
-      "front": "la passeggiata",
-      "pos": "noun",
-      "back": "walk, stroll",
-      "example": "Facciamo una passeggiata al parco.",
-      "tier": "A2"
-     },
-     {
-      "front": "al mattino presto",
-      "pos": "phrase",
-      "back": "early in the morning",
-      "example": "Esco con il cane al mattino presto.",
-      "tier": "A2"
-     },
-     {
-      "front": "sicuro",
-      "pos": "adj",
-      "back": "safe",
-      "example": "È più sicuro uscire la sera.",
-      "tier": "A2"
-     },
-     {
-      "front": "amici a quattro zampe",
-      "pos": "phrase",
-      "back": "four-legged friends (pets)",
-      "example": "I nostri amici a quattro zampe amano l'acqua.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "In estate fa molto caldo e anche i cani soffrono per le alte temperature.",
-      "point": "Weather with 'fare'",
-      "explanation": "Italian describes the weather with the verb 'fare': 'fa caldo' means 'it is hot'.",
-      "why_tricky": "English uses 'to be' ('it is hot'), so beginners often say 'è caldo' by mistake."
-     },
-     {
-      "sentence": "È importante lasciare sempre acqua fresca a disposizione e non lasciare mai il cane in macchina sotto il sole.",
-      "point": "'è importante' + infinitive and 'non...mai'",
-      "explanation": "After 'è importante' we use the infinitive; 'non ... mai' wraps around the verb to mean 'never'.",
-      "why_tricky": "The two parts of the negation ('non' and 'mai') sit in different places in the sentence."
-     },
-     {
-      "sentence": "Una breve passeggiata al mattino presto o alla sera è molto più sicura.",
-      "point": "Comparative with 'più'",
-      "explanation": "'Molto più sicura' means 'much safer'; 'più' forms the comparative of the adjective.",
-      "why_tricky": "The adjective 'sicura' must agree in gender with 'passeggiata' (feminine)."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "amici a quattro zampe",
-      "meaning": "four-legged friends, a friendly way to say pets or dogs",
-      "example": "In estate i nostri amici a quattro zampe hanno bisogno di ombra."
-     },
-     {
-      "phrase": "portare a spasso",
-      "meaning": "to take (a dog or someone) for a walk",
-      "example": "Ogni giorno porto il cane a spasso."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché i cani soffrono in estate?",
-      "type": "open"
-     },
-     {
-      "q": "Quali consigli dà l'esperto per proteggere i cani?",
-      "type": "open"
-     },
-     {
-      "q": "Quando è meglio portare il cane a fare una passeggiata?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Hai un animale domestico o ne vorresti uno? Scrivi come ti prendi cura di lui o come lo faresti."
    }
   }
  ]
