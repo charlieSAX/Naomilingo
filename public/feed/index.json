@@ -1,7 +1,460 @@
 {
- "generated_at": "2026-07-06T20:18:04Z",
+ "generated_at": "2026-07-07T08:14:03Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-07-rosaia-robot-spaziale",
+   "title": "Presentato Rosaia, robot spaziale tuttofare per satelliti e detriti",
+   "source": "ANSA",
+   "date": "2026-07-06",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "spazio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-rosaia-robot-spaziale",
+    "revision": 1,
+    "meta": {
+     "title": "Presentato Rosaia, robot spaziale tuttofare per satelliti e detriti",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/06/presentato-rosaia-robot-spaziale-tuttofare-per-satelliti-e-detriti_ec01d57a-ffba-4ff8-b5d6-6db3b21ece01.html",
+     "date_published": "2026-07-06",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "scienza",
+      "spazio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Italy a new robot called Rosaia has been presented. This robot works in space and can do many different things. Its job is to help the satellites and to collect the debris, that is, the pieces of metal that turn around the Earth. The project is financed by the Italian Space Agency and built by the Italian Institute of Technology.\n\nToday in space there is a lot of dangerous waste. This debris can hit the satellites and create serious problems. For this reason a robot like Rosaia is very useful: it can repair the broken machines and clean the space around our planet. The scientists hope to use it soon to make the missions safer. It is a small step, but a very important one for the future of Italian technology.",
+    "resumen_es": "In Italia è stato presentato un nuovo robot che si chiama Rosaia. Questo robot lavora nello spazio e può fare molte cose diverse. Il suo compito è aiutare i satelliti e raccogliere i detriti, cioè i pezzi di metallo che girano intorno alla Terra. Il progetto è finanziato dall'Agenzia Spaziale Italiana e realizzato dall'Istituto Italiano di Tecnologia.\n\nOggi nello spazio ci sono tanti rifiuti pericolosi. Questi detriti possono colpire i satelliti e creare gravi problemi. Per questo un robot come Rosaia è molto utile: può riparare le macchine rotte e pulire lo spazio intorno al nostro pianeta. Gli scienziati sperano di usarlo presto per rendere le missioni più sicure. È un piccolo passo, ma molto importante per il futuro della tecnologia italiana.",
+    "vocab": [
+     {
+      "front": "lo spazio",
+      "pos": "noun",
+      "back": "space",
+      "example": "Molti sognano di viaggiare nello spazio.",
+      "tier": "A2"
+     },
+     {
+      "front": "il satellite",
+      "pos": "noun",
+      "back": "satellite",
+      "example": "Il satellite manda immagini della Terra.",
+      "tier": "B1"
+     },
+     {
+      "front": "i detriti",
+      "pos": "noun",
+      "back": "debris, fragments",
+      "example": "Nello spazio ci sono molti detriti.",
+      "tier": "B1"
+     },
+     {
+      "front": "il compito",
+      "pos": "noun",
+      "back": "task, job",
+      "example": "Il suo compito è pulire la casa.",
+      "tier": "A2"
+     },
+     {
+      "front": "raccogliere",
+      "pos": "verb",
+      "back": "to collect, to pick up",
+      "example": "Devo raccogliere le foglie in giardino.",
+      "tier": "A2"
+     },
+     {
+      "front": "girare intorno a",
+      "pos": "phrase",
+      "back": "to turn/orbit around",
+      "example": "La Luna gira intorno alla Terra.",
+      "tier": "B1"
+     },
+     {
+      "front": "finanziare",
+      "pos": "verb",
+      "back": "to finance, to fund",
+      "example": "Lo Stato vuole finanziare la ricerca.",
+      "tier": "B1"
+     },
+     {
+      "front": "i rifiuti",
+      "pos": "noun",
+      "back": "waste, rubbish",
+      "example": "Dobbiamo buttare i rifiuti nel posto giusto.",
+      "tier": "A2"
+     },
+     {
+      "front": "colpire",
+      "pos": "verb",
+      "back": "to hit, to strike",
+      "example": "La palla ha colpito la finestra.",
+      "tier": "B1"
+     },
+     {
+      "front": "riparare",
+      "pos": "verb",
+      "back": "to repair, to fix",
+      "example": "Il meccanico deve riparare la macchina.",
+      "tier": "A2"
+     },
+     {
+      "front": "rotto",
+      "pos": "adj",
+      "back": "broken",
+      "example": "Il mio telefono è rotto.",
+      "tier": "A2"
+     },
+     {
+      "front": "il passo",
+      "pos": "noun",
+      "back": "step",
+      "example": "È solo il primo passo di un lungo lavoro.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "In Italia è stato presentato un nuovo robot che si chiama Rosaia.",
+      "point": "Passivo con 'essere stato' + participio",
+      "explanation": "'È stato presentato' è un passato passivo: si usa 'essere' al passato più il participio 'presentato' quando non diciamo chi fa l'azione.",
+      "why_tricky": "Lo studente confonde 'è stato presentato' (passivo) con 'ha presentato' (attivo) e sbaglia l'accordo del participio."
+     },
+     {
+      "sentence": "Gli scienziati sperano di usarlo presto per rendere le missioni più sicure.",
+      "point": "'Sperare di' + infinito e il pronome unito 'usarlo'",
+      "explanation": "Dopo 'sperare' si usa 'di' più l'infinito. Il pronome 'lo' si attacca alla fine dell'infinito: 'usarlo'.",
+      "why_tricky": "In inglese il pronome va prima del verbo; in italiano si unisce all'infinito, cosa che confonde i principianti."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "un piccolo passo",
+      "meaning": "un progresso piccolo ma importante verso un obiettivo",
+      "example": "Imparare dieci parole al giorno è un piccolo passo verso l'italiano."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa può fare il robot Rosaia nello spazio?",
+      "type": "open"
+     },
+     {
+      "q": "Perché i detriti nello spazio sono pericolosi?",
+      "type": "open"
+     },
+     {
+      "q": "Chi ha finanziato e realizzato il progetto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, è importante pulire lo spazio dai rifiuti? Scrivi la tua opinione con qualche esempio."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-07-ioleggoperche-libri",
+   "title": "#ioleggoperché, dal 7 al 15 novembre torna l'appuntamento per donare libri",
+   "source": "ANSA",
+   "date": "2026-07-07",
+   "level": "A2-B1",
+   "topics": [
+    "cultura",
+    "scuola"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-ioleggoperche-libri",
+    "revision": 1,
+    "meta": {
+     "title": "#ioleggoperché, dal 7 al 15 novembre torna l'appuntamento per donare libri",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/07/05/ioleggoperche-dal-7-al-15-novembre-torna-lappuntamento-per-donare-libri_8f15db61-cfc8-4afd-87c3-adc6e39b39c2.html",
+     "date_published": "2026-07-07",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "cultura",
+      "scuola"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "This year too #ioleggoperche returns, a big initiative dedicated to books and to reading. From 7 to 15 November people will be able to buy a book and give it to the school libraries. In this way many students will have new books to read in class and at home. It is a simple and lovely way to help young people and to make the love of reading grow.\n\nThis initiative has existed for ten years and has had great success. In all this time around four and a half million books have been donated to Italian schools. Many teachers say that reading helps children to learn better and to use their imagination. To take part it is enough to go to a bookshop during those days. Even a single book can make a big difference for a school.",
+    "resumen_es": "Torna anche quest'anno #ioleggoperché, una grande iniziativa dedicata ai libri e alla lettura. Dal 7 al 15 novembre le persone potranno comprare un libro e regalarlo alle biblioteche delle scuole. In questo modo tanti studenti avranno nuovi libri da leggere in classe e a casa. È un modo semplice e bello per aiutare i ragazzi e per far crescere l'amore per la lettura.\n\nQuesta iniziativa esiste da dieci anni e ha avuto un grande successo. In tutto questo tempo sono stati donati circa quattro milioni e mezzo di libri alle scuole italiane. Molti insegnanti dicono che leggere aiuta i bambini a imparare meglio e a usare la fantasia. Per partecipare basta andare in libreria durante quei giorni. Anche un solo libro può fare una grande differenza per una scuola.",
+    "vocab": [
+     {
+      "front": "la lettura",
+      "pos": "noun",
+      "back": "reading",
+      "example": "La lettura è il mio passatempo preferito.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'iniziativa",
+      "pos": "noun",
+      "back": "initiative",
+      "example": "È una bella iniziativa per la città.",
+      "tier": "B1"
+     },
+     {
+      "front": "donare",
+      "pos": "verb",
+      "back": "to donate, to give",
+      "example": "Vorrei donare questi vestiti ai poveri.",
+      "tier": "A2"
+     },
+     {
+      "front": "la biblioteca",
+      "pos": "noun",
+      "back": "library",
+      "example": "Studio spesso in biblioteca.",
+      "tier": "A2"
+     },
+     {
+      "front": "regalare",
+      "pos": "verb",
+      "back": "to give as a gift",
+      "example": "Voglio regalare un libro a mia sorella.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo studente",
+      "pos": "noun",
+      "back": "student",
+      "example": "Gli studenti sono in classe.",
+      "tier": "A2"
+     },
+     {
+      "front": "far crescere",
+      "pos": "phrase",
+      "back": "to make grow, to develop",
+      "example": "Lo sport aiuta a far crescere i bambini sani.",
+      "tier": "B1"
+     },
+     {
+      "front": "il successo",
+      "pos": "noun",
+      "back": "success",
+      "example": "Il concerto ha avuto un grande successo.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'insegnante",
+      "pos": "noun",
+      "back": "teacher",
+      "example": "L'insegnante spiega la lezione.",
+      "tier": "A2"
+     },
+     {
+      "front": "la fantasia",
+      "pos": "noun",
+      "back": "imagination",
+      "example": "I bambini hanno molta fantasia.",
+      "tier": "A2"
+     },
+     {
+      "front": "partecipare",
+      "pos": "verb",
+      "back": "to take part, to participate",
+      "example": "Voglio partecipare alla gara.",
+      "tier": "B1"
+     },
+     {
+      "front": "la differenza",
+      "pos": "noun",
+      "back": "difference",
+      "example": "Il tuo aiuto fa la differenza.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Dal 7 al 15 novembre le persone potranno comprare un libro e regalarlo alle biblioteche delle scuole.",
+      "point": "Futuro semplice 'potranno' e pronome unito 'regalarlo'",
+      "explanation": "'Potranno' è il futuro di 'potere'. Il pronome 'lo' (il libro) si attacca all'infinito: 'regalarlo'.",
+      "why_tricky": "Unire il pronome all'infinito e togliere la 'e' finale ('regalare' diventa 'regalarlo') confonde i principianti."
+     },
+     {
+      "sentence": "In tutto questo tempo sono stati donati circa quattro milioni e mezzo di libri alle scuole italiane.",
+      "point": "Passivo al passato con accordo del participio",
+      "explanation": "'Sono stati donati' è passivo plurale maschile: il participio 'donati' concorda con 'libri'.",
+      "why_tricky": "Bisogna accordare il participio con il soggetto plurale, quindi 'donati' e non 'donato'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fare la differenza",
+      "meaning": "avere un effetto importante, contare davvero",
+      "example": "Un piccolo gesto può fare la differenza per qualcuno."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa possono fare le persone durante l'iniziativa?",
+      "type": "open"
+     },
+     {
+      "q": "Da quanti anni esiste #ioleggoperché e quanti libri sono stati donati?",
+      "type": "open"
+     },
+     {
+      "q": "Perché, secondo gli insegnanti, è importante leggere?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace leggere? Scrivi qualche riga sul tuo libro preferito e spiega perché lo consigli."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-07-etna-cenere-voli",
+   "title": "L'Etna continua l'emissione di cenere, blocco dei voli a Catania fino alle ore 14",
+   "source": "ANSA",
+   "date": "2026-07-07",
+   "level": "A2-B1",
+   "topics": [
+    "cronaca",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-07-etna-cenere-voli",
+    "revision": 1,
+    "meta": {
+     "title": "L'Etna continua l'emissione di cenere, blocco dei voli a Catania fino alle ore 14",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/07/letna-continua-lemissione-di-cenere-blocco-dei-voli-a-catania-fino-alle_d2ea1a08-b167-456f-affd-479c9df2ee8d.html",
+     "date_published": "2026-07-07",
+     "date_processed": "2026-07-07",
+     "tags": [
+      "cronaca",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Sicily the volcano Etna continues to be very active. In these days the volcano sends into the air a large quantity of ash. For safety reasons, the airport of Catania has had to block the flights until two in the afternoon. The ash, in fact, is dangerous for the planes and can create problems for the engines during the flight.\n\nLuckily not all the airports are closed. The Comiso airport, which is located not far away, stays open and works normally. Many passengers, however, have to wait or change their travel plans. Etna is the biggest volcano in Europe and for the people of the area these eruptions are by now a normal thing. The experts check the mountain every day to guarantee everyone's safety.",
+    "resumen_es": "In Sicilia il vulcano Etna continua a essere molto attivo. In questi giorni il vulcano manda nell'aria una grande quantità di cenere. Per motivi di sicurezza, l'aeroporto di Catania ha dovuto bloccare i voli fino alle ore due del pomeriggio. La cenere, infatti, è pericolosa per gli aerei e può creare problemi ai motori durante il volo.\n\nPer fortuna non tutti gli aeroporti sono chiusi. Lo scalo di Comiso, che si trova poco lontano, resta aperto e funziona normalmente. Molti passeggeri, però, devono aspettare o cambiare i loro programmi di viaggio. L'Etna è il vulcano più grande d'Europa e per gli abitanti della zona queste eruzioni sono ormai una cosa normale. Gli esperti controllano ogni giorno la montagna per garantire la sicurezza di tutti.",
+    "vocab": [
+     {
+      "front": "il vulcano",
+      "pos": "noun",
+      "back": "volcano",
+      "example": "L'Etna è un vulcano molto famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "attivo",
+      "pos": "adj",
+      "back": "active",
+      "example": "Questo vulcano è ancora attivo.",
+      "tier": "A2"
+     },
+     {
+      "front": "la cenere",
+      "pos": "noun",
+      "back": "ash",
+      "example": "La cenere copre le strade della città.",
+      "tier": "B1"
+     },
+     {
+      "front": "la sicurezza",
+      "pos": "noun",
+      "back": "safety, security",
+      "example": "La sicurezza dei bambini viene prima di tutto.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'aeroporto",
+      "pos": "noun",
+      "back": "airport",
+      "example": "Arrivo all'aeroporto alle otto.",
+      "tier": "A2"
+     },
+     {
+      "front": "bloccare",
+      "pos": "verb",
+      "back": "to block, to stop",
+      "example": "La neve ha bloccato il traffico.",
+      "tier": "B1"
+     },
+     {
+      "front": "il volo",
+      "pos": "noun",
+      "back": "flight",
+      "example": "Il mio volo parte domani mattina.",
+      "tier": "A2"
+     },
+     {
+      "front": "pericoloso",
+      "pos": "adj",
+      "back": "dangerous",
+      "example": "È pericoloso guidare troppo veloce.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo scalo",
+      "pos": "noun",
+      "back": "airport, stopover",
+      "example": "Lo scalo di Milano è molto grande.",
+      "tier": "B1"
+     },
+     {
+      "front": "il passeggero",
+      "pos": "noun",
+      "back": "passenger",
+      "example": "I passeggeri aspettano il treno.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'abitante",
+      "pos": "noun",
+      "back": "inhabitant, resident",
+      "example": "Gli abitanti del paese sono molto gentili.",
+      "tier": "B1"
+     },
+     {
+      "front": "garantire",
+      "pos": "verb",
+      "back": "to guarantee, to ensure",
+      "example": "Vogliamo garantire un buon servizio.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Per motivi di sicurezza, l'aeroporto di Catania ha dovuto bloccare i voli fino alle ore due del pomeriggio.",
+      "point": "Passato prossimo del verbo modale 'dovere' + infinito",
+      "explanation": "'Ha dovuto bloccare' è il passato prossimo di 'dovere' seguito dall'infinito 'bloccare'. Con 'dovere' si usa spesso 'avere'.",
+      "why_tricky": "Scegliere tra 'avere' ed 'essere' con i verbi modali e capire la posizione dell'infinito confonde i principianti."
+     },
+     {
+      "sentence": "L'Etna è il vulcano più grande d'Europa e per gli abitanti della zona queste eruzioni sono ormai una cosa normale.",
+      "point": "Il superlativo relativo 'il più grande'",
+      "explanation": "'Il più grande d'Europa' è un superlativo relativo: 'il più' più l'aggettivo, poi 'di' per il gruppo di confronto.",
+      "why_tricky": "Ricordare l'articolo davanti a 'più' e usare 'd'Europa' invece di 'in Europa' non è immediato."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "per fortuna",
+      "meaning": "si dice quando succede qualcosa di positivo o si evita un problema",
+      "example": "Per fortuna non pioveva durante la gita."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché l'aeroporto di Catania ha bloccato i voli?",
+      "type": "open"
+     },
+     {
+      "q": "Quale aeroporto resta aperto e come funziona?",
+      "type": "open"
+     },
+     {
+      "q": "Come vivono gli abitanti della zona queste eruzioni?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Hai mai visto un vulcano o vissuto vicino a uno? Racconta la tua esperienza o immagina come sarebbe."
+   }
+  },
   {
    "pack_id": "feed-2026-07-06-costume-moda-citta",
    "title": "Beachwear trend 2026, cosi il costume dal mare va in citta",
@@ -6407,515 +6860,6 @@
      }
     ],
     "opinion_prompt": "Scrivi un breve testo (circa 80 parole) e spiega come ti prendi cura della tua salute quando fa molto caldo."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-28-spesa-intrattenimento-live",
-   "title": "Vola la spesa per l'intrattenimento, boom dei live",
-   "source": "ANSA",
-   "date": "2026-06-26",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "musica"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-28-spesa-intrattenimento-live",
-    "revision": 1,
-    "meta": {
-     "title": "Vola la spesa per l'intrattenimento, boom dei live",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cultura/2026/06/26/vola-la-spesa-per-lintrattenimento-boom-dei-live_f9b27324-e3c4-411e-98ef-844f972c34ca.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-06-28",
-     "tags": [
-      "cultura",
-      "musica"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Italy, spending on entertainment is growing more and more. In 2025 people spent more money on concerts, cinema, theatre and other shows. According to the data, spending rose by 7 per cent compared with the year before. Concerts, in particular, are doing very well: takings passed one billion euros.\n\nThis means that many people enjoy going out and seeing live music. After the difficult years of the pandemic, people again want to be together and to have fun. The big concerts of the stars fill the stadiums and squares all over Italy. Experts think that this growth may continue in the coming years too, because live entertainment has come back into fashion.",
-    "resumen_es": "In Italia la spesa per il divertimento cresce sempre di più. Nel 2025 le persone hanno speso più soldi per concerti, cinema, teatro e altri spettacoli. Secondo i dati, la spesa è aumentata del 7 per cento rispetto all'anno prima. I concerti, in particolare, vanno molto bene: gli incassi hanno superato un miliardo di euro.\n\nQuesto significa che a molte persone piace uscire e vedere la musica dal vivo. Dopo gli anni difficili della pandemia, la gente ha di nuovo voglia di stare insieme e di divertirsi. I grandi concerti delle star riempiono gli stadi e le piazze di tutta Italia. Gli esperti pensano che questa crescita possa continuare anche nei prossimi anni, perché lo spettacolo dal vivo è tornato di moda.",
-    "vocab": [
-     {
-      "front": "spesa",
-      "pos": "noun",
-      "back": "spending, expense",
-      "example": "La spesa per il cibo è alta.",
-      "tier": "A2"
-     },
-     {
-      "front": "divertimento",
-      "pos": "noun",
-      "back": "fun, entertainment",
-      "example": "Cerchiamo un po' di divertimento.",
-      "tier": "A2"
-     },
-     {
-      "front": "crescere",
-      "pos": "verb",
-      "back": "to grow",
-      "example": "Il numero di turisti cresce ogni anno.",
-      "tier": "B1"
-     },
-     {
-      "front": "spendere",
-      "pos": "verb",
-      "back": "to spend",
-      "example": "Ho speso troppo questo mese.",
-      "tier": "A2"
-     },
-     {
-      "front": "spettacolo",
-      "pos": "noun",
-      "back": "show",
-      "example": "Lo spettacolo inizia alle nove.",
-      "tier": "A2"
-     },
-     {
-      "front": "aumentare",
-      "pos": "verb",
-      "back": "to increase",
-      "example": "I prezzi sono aumentati molto.",
-      "tier": "B1"
-     },
-     {
-      "front": "rispetto a",
-      "pos": "phrase",
-      "back": "compared with",
-      "example": "Sto meglio rispetto a ieri.",
-      "tier": "B1"
-     },
-     {
-      "front": "incassi",
-      "pos": "noun",
-      "back": "takings, box-office revenue",
-      "example": "Gli incassi del film sono altissimi.",
-      "tier": "B1"
-     },
-     {
-      "front": "superare",
-      "pos": "verb",
-      "back": "to exceed, to pass",
-      "example": "Il film ha superato ogni record.",
-      "tier": "B1"
-     },
-     {
-      "front": "dal vivo",
-      "pos": "phrase",
-      "back": "live (in person)",
-      "example": "Preferisco la musica dal vivo.",
-      "tier": "B1"
-     },
-     {
-      "front": "avere voglia di",
-      "pos": "phrase",
-      "back": "to feel like",
-      "example": "Ho voglia di un gelato.",
-      "tier": "A2"
-     },
-     {
-      "front": "riempire",
-      "pos": "verb",
-      "back": "to fill",
-      "example": "I tifosi riempiono lo stadio.",
-      "tier": "B1"
-     },
-     {
-      "front": "crescita",
-      "pos": "noun",
-      "back": "growth",
-      "example": "C'è una forte crescita del settore.",
-      "tier": "B1"
-     },
-     {
-      "front": "tornare di moda",
-      "pos": "phrase",
-      "back": "to come back into fashion",
-      "example": "Questi vestiti tornano di moda.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Secondo i dati, la spesa è aumentata del 7 per cento rispetto all'anno prima.",
-      "point": "Passato prossimo con l'ausiliare 'essere'",
-      "explanation": "'è aumentata' usa l'ausiliare 'essere'; per questo il participio 'aumentata' concorda con il soggetto femminile 'la spesa'.",
-      "why_tricky": "Molti verbi che indicano cambiamento (aumentare, crescere, salire) usano 'essere', e il participio deve accordarsi in genere e numero con il soggetto."
-     },
-     {
-      "sentence": "Questo significa che a molte persone piace uscire e vedere la musica dal vivo.",
-      "point": "Il verbo 'piacere' + a + persona",
-      "explanation": "Con 'piacere' la persona che prova il piacere è introdotta da 'a' (a molte persone), e 'piace' è seguito dagli infiniti 'uscire' e 'vedere'.",
-      "why_tricky": "La struttura è l'opposto dell'inglese 'people like': in italiano il soggetto è la cosa che piace, non la persona."
-     },
-     {
-      "sentence": "Gli esperti pensano che questa crescita possa continuare anche nei prossimi anni, perché lo spettacolo dal vivo è tornato di moda.",
-      "point": "Il congiuntivo dopo 'pensare che'",
-      "explanation": "Dopo verbi di opinione come 'pensare che' si usa il congiuntivo: 'possa' è il congiuntivo presente di 'potere'.",
-      "why_tricky": "Nel parlato veloce si sente a volte l'indicativo, ma la forma corretta dopo 'pensare che' resta il congiuntivo 'possa', non 'può'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dal vivo",
-      "meaning": "live, in person",
-      "example": "Ho visto il cantante dal vivo."
-     },
-     {
-      "phrase": "tornare di moda",
-      "meaning": "to come back into fashion",
-      "example": "I dischi in vinile sono tornati di moda."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Di quanto è aumentata la spesa per il divertimento nel 2025?",
-      "type": "open"
-     },
-     {
-      "q": "Perché, secondo il testo, la gente ha di nuovo voglia di andare ai concerti?",
-      "type": "open"
-     },
-     {
-      "q": "Tu preferisci ascoltare la musica dal vivo o a casa? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo (circa 80 parole) sull'ultimo concerto o spettacolo che hai visto, o che vorresti vedere."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-28-messi-record-mondiali",
-   "title": "Mondiali 2026, Messi da record: entra all'80imo e segna: Argentina, 3-1 alla Giordania",
-   "source": "RAI News",
-   "date": "2026-06-28",
-   "level": "A2-B1",
-   "topics": [
-    "calcio",
-    "Mondiali"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-28-messi-record-mondiali",
-    "revision": 1,
-    "meta": {
-     "title": "Mondiali 2026, Messi da record: entra all'80imo e segna: Argentina, 3-1 alla Giordania",
-     "source": "RAI News",
-     "url": "https://www.rainews.it/articoli/2026/06/mondiali-2026-messi-da-record-entra-all80imo-e-segna-argentina-3-1-alla-giordania-calcio-088ec046-3730-425f-9a8d-4652137107c6.html",
-     "date_published": "2026-06-28",
-     "date_processed": "2026-06-28",
-     "tags": [
-      "calcio",
-      "Mondiali"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "At the 2026 World Cup, Leo Messi set a new record. He came onto the pitch in the 80th minute and immediately scored a goal. With this goal, he is the first player to score in seven matches in a row at the World Cup. Argentina won against Jordan 3 to 1 and ends the first phase of the tournament well.\n\nFor Argentina it is the third win out of three matches in the group. The team plays with confidence and Messi remains its most important leader. Even though he is no longer young, the champion keeps making the difference on the pitch. The fans hope that Argentina can go far in this World Cup. The next match will be harder, but the team arrives with great enthusiasm.",
-    "resumen_es": "Ai Mondiali 2026 Leo Messi ha scritto un nuovo record. È entrato in campo all'80esimo minuto e ha subito segnato un gol. Con questa rete, è il primo giocatore a segnare in sette partite di fila ai Mondiali. L'Argentina ha vinto contro la Giordania per 3 a 1 e chiude bene la prima fase del torneo.\n\nPer l'Argentina è la terza vittoria su tre partite nel girone. La squadra gioca con fiducia e Messi resta il suo leader più importante. Anche se non è più giovane, il campione continua a fare la differenza in campo. I tifosi sperano che l'Argentina possa andare lontano in questo Mondiale. La prossima sfida sarà più difficile, ma la squadra arriva con grande entusiasmo.",
-    "vocab": [
-     {
-      "front": "record",
-      "pos": "noun",
-      "back": "record",
-      "example": "Ha battuto un nuovo record.",
-      "tier": "A2"
-     },
-     {
-      "front": "entrare in campo",
-      "pos": "phrase",
-      "back": "to come onto the pitch",
-      "example": "Il giocatore entra in campo nel secondo tempo.",
-      "tier": "B1"
-     },
-     {
-      "front": "segnare",
-      "pos": "verb",
-      "back": "to score",
-      "example": "Ha segnato due gol oggi.",
-      "tier": "A2"
-     },
-     {
-      "front": "gol / rete",
-      "pos": "noun",
-      "back": "goal",
-      "example": "Che bel gol!",
-      "tier": "A2"
-     },
-     {
-      "front": "giocatore",
-      "pos": "noun",
-      "back": "player",
-      "example": "È il miglior giocatore della squadra.",
-      "tier": "A2"
-     },
-     {
-      "front": "di fila",
-      "pos": "phrase",
-      "back": "in a row, in succession",
-      "example": "Ha vinto tre partite di fila.",
-      "tier": "B1"
-     },
-     {
-      "front": "vincere",
-      "pos": "verb",
-      "back": "to win",
-      "example": "Speriamo di vincere la partita.",
-      "tier": "A2"
-     },
-     {
-      "front": "girone",
-      "pos": "noun",
-      "back": "group (in a tournament)",
-      "example": "L'Italia è nel girone con il Brasile.",
-      "tier": "B1"
-     },
-     {
-      "front": "squadra",
-      "pos": "noun",
-      "back": "team",
-      "example": "La mia squadra gioca domani.",
-      "tier": "A2"
-     },
-     {
-      "front": "fiducia",
-      "pos": "noun",
-      "back": "confidence, trust",
-      "example": "Gioca con grande fiducia.",
-      "tier": "B1"
-     },
-     {
-      "front": "campione",
-      "pos": "noun",
-      "back": "champion",
-      "example": "Messi è un vero campione.",
-      "tier": "A2"
-     },
-     {
-      "front": "fare la differenza",
-      "pos": "phrase",
-      "back": "to make the difference",
-      "example": "Un buon portiere fa la differenza.",
-      "tier": "B1"
-     },
-     {
-      "front": "tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi cantano allo stadio.",
-      "tier": "A2"
-     },
-     {
-      "front": "sfida",
-      "pos": "noun",
-      "back": "challenge, match",
-      "example": "La prossima sfida sarà difficile.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "È entrato in campo all'80esimo minuto e ha subito segnato un gol.",
-      "point": "Passato prossimo: ausiliari 'essere' e 'avere'",
-      "explanation": "'è entrato' usa 'essere' (verbo di movimento, participio concordato), mentre 'ha segnato' usa 'avere'. I due ausiliari convivono nella stessa frase.",
-      "why_tricky": "Bisogna scegliere l'ausiliare giusto verbo per verbo: con 'essere' il participio si accorda con il soggetto, con 'avere' di solito no."
-     },
-     {
-      "sentence": "Anche se non è più giovane, il campione continua a fare la differenza in campo.",
-      "point": "'continuare a' + infinito e 'non... più'",
-      "explanation": "'continuare a' regge la preposizione 'a' prima dell'infinito 'fare'. 'non... più' significa che qualcosa non accade ormai da un certo momento.",
-      "why_tricky": "La doppia negazione 'non è più' è normale in italiano e significa 'non più / no longer', non un errore come potrebbe sembrare in inglese."
-     },
-     {
-      "sentence": "I tifosi sperano che l'Argentina possa andare lontano in questo Mondiale.",
-      "point": "Il congiuntivo dopo 'sperare che'",
-      "explanation": "Dopo 'sperare che' si usa il congiuntivo: 'possa' è il congiuntivo presente di 'potere', che esprime un desiderio o una possibilità.",
-      "why_tricky": "In inglese si usa l'indicativo ('hope that ... can'), ma in italiano i verbi di speranza e desiderio richiedono il congiuntivo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "di fila",
-      "meaning": "in a row, one after another",
-      "example": "Ho lavorato cinque giorni di fila."
-     },
-     {
-      "phrase": "fare la differenza",
-      "meaning": "to make the difference",
-      "example": "Il tuo aiuto ha fatto la differenza."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa ha fatto Messi quando è entrato in campo?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questa vittoria è importante per l'Argentina nel girone?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, l'Argentina può vincere il Mondiale? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo (circa 80 parole) sul tuo sport preferito o su una partita che ricordi con piacere."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-27-mel-brooks-cento-anni",
-   "title": "Il re della parodia Mel Brooks compie 100 anni, 'ridere ti mantiene vivo'",
-   "source": "ANSA",
-   "date": "2026-06-27",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "cinema"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-27-mel-brooks-cento-anni",
-    "revision": 1,
-    "meta": {
-     "title": "Il re della parodia Mel Brooks compie 100 anni, 'ridere ti mantiene vivo'",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cultura/2026/06/27/il-re-della-parodia-mel-brooks-compie-100-anni-ridere-ti-mantiene-vivo_f5bb45c0-47ad-4113-8f75-7bff9a6762a5.html",
-     "date_published": "2026-06-27",
-     "date_processed": "2026-06-27",
-     "tags": [
-      "cultura",
-      "cinema"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Mel Brooks turns one hundred years old. He is a famous artist born in New York. For many people he is the king of parody and comedy. In his films he makes the audience laugh with funny and absurd stories. Brooks has won important prizes in cinema, theatre, music and television. For this reason he is considered a true legend. He often says a simple sentence: laughing keeps you alive.\n\nIn his long career, Mel Brooks has worked as a director, actor and writer. His parodies make fun of the classic film genres, such as horror and the western. Still today many people watch his films and laugh like the first time. His birthday is a chance to remember how important humour is. His story teaches us that laughing is good for the body and the mind.",
-    "resumen_es": "Mel Brooks compie cento anni. È un famoso artista nato a New York. Per molti è il re della parodia e della comicità. Nei suoi film fa ridere il pubblico con storie divertenti e assurde. Brooks ha vinto premi importanti nel cinema, nel teatro, nella musica e in televisione. Per questo è considerato una vera leggenda. Lui dice spesso una frase semplice: ridere ti mantiene vivo.\n\nNella sua lunga carriera, Mel Brooks ha lavorato come regista, attore e autore. Le sue parodie prendono in giro i generi classici del cinema, come l'horror e il western. Ancora oggi molte persone guardano i suoi film e ridono come la prima volta. Il suo compleanno è un'occasione per ricordare quanto è importante l'umorismo. La sua storia insegna che ridere fa bene al corpo e alla mente.",
-    "vocab": [
-     {
-      "front": "compiere gli anni",
-      "pos": "phrase",
-      "back": "to turn a certain age",
-      "example": "Domani mio fratello compie dieci anni.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'artista",
-      "pos": "noun",
-      "back": "artist",
-      "example": "Quell'artista è molto famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "la parodia",
-      "pos": "noun",
-      "back": "parody",
-      "example": "Il film è una parodia divertente.",
-      "tier": "B1"
-     },
-     {
-      "front": "la comicità",
-      "pos": "noun",
-      "back": "comedy, humour",
-      "example": "La sua comicità piace a tutti.",
-      "tier": "B1"
-     },
-     {
-      "front": "far ridere",
-      "pos": "phrase",
-      "back": "to make (someone) laugh",
-      "example": "Questo comico fa ridere tutti.",
-      "tier": "A2"
-     },
-     {
-      "front": "il premio",
-      "pos": "noun",
-      "back": "prize, award",
-      "example": "Ha vinto un premio importante.",
-      "tier": "A2"
-     },
-     {
-      "front": "la leggenda",
-      "pos": "noun",
-      "back": "legend",
-      "example": "È una leggenda della musica.",
-      "tier": "B1"
-     },
-     {
-      "front": "il regista",
-      "pos": "noun",
-      "back": "film director",
-      "example": "Il regista ha girato molti film.",
-      "tier": "B1"
-     },
-     {
-      "front": "prendere in giro",
-      "pos": "phrase",
-      "back": "to make fun of, to tease",
-      "example": "Il film prende in giro i supereroi.",
-      "tier": "B1"
-     },
-     {
-      "front": "il compleanno",
-      "pos": "noun",
-      "back": "birthday",
-      "example": "Oggi è il mio compleanno.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'umorismo",
-      "pos": "noun",
-      "back": "humour",
-      "example": "Ha un grande senso dell'umorismo.",
-      "tier": "B1"
-     },
-     {
-      "front": "divertente",
-      "pos": "adj",
-      "back": "funny, entertaining",
-      "example": "È stata una serata molto divertente.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Mel Brooks compie cento anni.",
-      "point": "The verb 'compiere' for age",
-      "explanation": "To say how old someone is becoming, Italian uses 'compiere' + the number + 'anni', not the verb 'avere'.",
-      "why_tricky": "Learners often translate 'to turn 100' literally; the natural verb is 'compiere'."
-     },
-     {
-      "sentence": "Nei suoi film fa ridere il pubblico con storie divertenti e assurde.",
-      "point": "'Fare' + infinitive (causative)",
-      "explanation": "'Fa ridere' means 'makes (someone) laugh'; 'fare' plus an infinitive shows that the subject causes the action.",
-      "why_tricky": "'Nei' is also a combined preposition ('in' + 'i'), which beginners often forget to join."
-     },
-     {
-      "sentence": "La sua storia insegna che ridere fa bene al corpo e alla mente.",
-      "point": "Infinitive as a noun + 'fare bene a'",
-      "explanation": "'Ridere' here works like a noun ('laughing'), and 'fa bene a' means 'is good for', with the combined prepositions 'al' and 'alla'.",
-      "why_tricky": "English uses the '-ing' form, while Italian keeps the plain infinitive 'ridere'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "ridere ti mantiene vivo",
-      "meaning": "laughter keeps you alive (humour is good for you)",
-      "example": "Mio nonno dice sempre che ridere ti mantiene vivo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi è Mel Brooks e perché è famoso?",
-      "type": "open"
-     },
-     {
-      "q": "In quali settori ha vinto dei premi?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, perché ridere fa bene alla salute?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi circa 80 parole: qual è il film o il programma più divertente che hai visto? Spiega perché ti è piaciuto."
    }
   }
  ]
