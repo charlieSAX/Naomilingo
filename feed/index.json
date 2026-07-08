@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-07-08T08:16:43Z",
+  "generated_at": "2026-07-08T22:20:59Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-08-lettera-leo-papa",
+      "title": "La letterina del piccolo Leo al Papa: 'Io sbarcato qui da solo 10 anni fa'",
+      "source": "ANSA",
+      "date": "2026-07-04",
+      "level": "A2-B1",
+      "topics": [
+        "bambini",
+        "papa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-lettera-leo-papa",
+        "revision": 1,
+        "meta": {
+          "title": "La letterina del piccolo Leo al Papa: 'Io sbarcato qui da solo 10 anni fa'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/la-letterina-del-piccolo-leo-al-papa-io-sbarcato-qui-da-solo-10-anni-fa_f35f6836-c063-445b-bd31-66270b897900.html",
+          "date_published": "2026-07-04",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "bambini",
+            "papa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A boy named Leo wrote a letter to the Pope. In the letter he tells his story with simple words. He says he arrived in Italy alone, ten years ago. Leo remembers a special moment: a paper ball made him very happy. Now he hopes that the same ball can make other children happy too. His letter is short, but full of emotion.\n\nLeo's story has moved many people. It speaks of a journey, of loneliness, but also of hope. A small object, like a paper ball, can become a great gift for a child. The letter reminds us that simple gestures are important. The Pope often invites everyone to help the youngest and the weakest. Stories like this help us understand the feelings of children who arrive from far away and look for a new home.",
+        "resumen_es": "Un bambino di nome Leo ha scritto una lettera al Papa. Nella lettera racconta la sua storia con parole semplici. Dice che è arrivato in Italia da solo, dieci anni fa. Leo ricorda un momento speciale: un pallone di carta lo ha reso molto felice. Ora spera che lo stesso pallone possa rendere felici anche altri bambini. La sua lettera è breve, ma piena di emozione.\n\nLa storia di Leo ha commosso molte persone. Parla di viaggio, di solitudine, ma anche di speranza. Un piccolo oggetto, come un pallone di carta, può diventare un grande regalo per un bambino. La lettera ci ricorda che i gesti semplici sono importanti. Il Papa invita spesso tutti ad aiutare i più piccoli e i più deboli. Storie come questa aiutano a capire i sentimenti dei bambini che arrivano da lontano e cercano una nuova casa.",
+        "vocab": [
+          {
+            "front": "la lettera",
+            "pos": "noun",
+            "back": "letter",
+            "example": "Ho scritto una lettera a mia nonna.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell, to narrate",
+            "example": "Mi racconti la tua giornata?",
+            "tier": "B1"
+          },
+          {
+            "front": "arrivare",
+            "pos": "verb",
+            "back": "to arrive",
+            "example": "Il treno arriva alle otto.",
+            "tier": "B1"
+          },
+          {
+            "front": "da solo",
+            "pos": "phrase",
+            "back": "alone, by oneself",
+            "example": "Vive da solo in città.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pallone",
+            "pos": "noun",
+            "back": "ball",
+            "example": "I bambini giocano con il pallone.",
+            "tier": "B1"
+          },
+          {
+            "front": "felice",
+            "pos": "adj",
+            "back": "happy",
+            "example": "Sono felice di vederti.",
+            "tier": "B1"
+          },
+          {
+            "front": "rendere felice",
+            "pos": "phrase",
+            "back": "to make (someone) happy",
+            "example": "Un piccolo regalo può rendere felice una persona.",
+            "tier": "B1"
+          },
+          {
+            "front": "sperare",
+            "pos": "verb",
+            "back": "to hope",
+            "example": "Spero di rivederti presto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la speranza",
+            "pos": "noun",
+            "back": "hope",
+            "example": "Non perdere mai la speranza.",
+            "tier": "B1"
+          },
+          {
+            "front": "commuovere",
+            "pos": "verb",
+            "back": "to move (emotionally)",
+            "example": "Il film mi ha commosso molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il gesto",
+            "pos": "noun",
+            "back": "gesture",
+            "example": "Un gesto gentile vale molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "da lontano",
+            "pos": "phrase",
+            "back": "from far away",
+            "example": "Viene da lontano per studiare qui.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Dice che è arrivato in Italia da solo, dieci anni fa.",
+            "point": "Passato prossimo con l'ausiliare essere",
+            "explanation": "è arrivato: i verbi di movimento come arrivare formano il passato prossimo con essere, e il participio concorda con il soggetto (arrivato, maschile).",
+            "why_tricky": "Gli studenti usano avere, come per la maggior parte dei verbi, e dicono ha arrivato."
+          },
+          {
+            "sentence": "Ora spera che lo stesso pallone possa rendere felici anche altri bambini.",
+            "point": "Congiuntivo dopo sperare che",
+            "explanation": "spera che... possa: i verbi che esprimono speranza o desiderio richiedono il congiuntivo; possa è il congiuntivo presente di potere.",
+            "why_tricky": "A livello A2-B1 gli studenti usano l'indicativo può."
+          },
+          {
+            "sentence": "Un piccolo oggetto, come un pallone di carta, può diventare un grande regalo per un bambino.",
+            "point": "potere + infinito",
+            "explanation": "Il verbo modale potere è seguito direttamente dall'infinito diventare ed esprime possibilità.",
+            "why_tricky": "Gli studenti inseriscono di (può di diventare)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da solo",
+            "meaning": "alone, on one's own",
+            "example": "Ha fatto tutto da solo, senza aiuto."
+          },
+          {
+            "phrase": "da lontano",
+            "meaning": "from far away, from a distance",
+            "example": "Ho visto la casa da lontano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi ha scritto la lettera e a chi?",
+            "type": "open"
+          },
+          {
+            "q": "Quale oggetto ha reso felice Leo?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa spera Leo per gli altri bambini?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è un piccolo regalo che ti ha reso felice da bambino? Scrivi qualche frase."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-08-viaggi-maturita-grecia",
+      "title": "Viaggi post maturità, dall'interrail all'interferry in Grecia saltando da un'isola all'altra",
+      "source": "ANSA",
+      "date": "2026-07-04",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "estate"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-viaggi-maturita-grecia",
+        "revision": 1,
+        "meta": {
+          "title": "Viaggi post maturità, dall'interrail all'interferry in Grecia saltando da un'isola all'altra",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/06/25/viaggi-post-maturita-dallinterrail-allinterferry-in-grecia-saltando-da-unisola-allaltra_5ffa5429-a887-4a19-b7c7-454aa3ab38ae.html",
+          "date_published": "2026-07-04",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "viaggi",
+            "estate"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "After the final school exam, many Italian teenagers set off on a trip. It is a tradition: to celebrate the end of school with friends. This summer Greece is young people's favourite destination. Many choose to visit several islands in just a few days. They take the ferry and go from one island to another. In this way they see different beaches, eat local food and meet new people.\n\nTravelling among the Greek islands is not expensive and appeals to young people under 25. Every island has something special: the blue sea, the small white villages, the music and the parties in the evening. For many teenagers it is the first trip without their parents. So they learn to organise everything on their own: the tickets, the hotels and the meals. It is a fun experience, but also a way to grow up and become more independent.",
+        "resumen_es": "Dopo l'esame di maturità, molti ragazzi italiani partono per un viaggio. È una tradizione: festeggiare la fine della scuola con gli amici. Quest'estate la Grecia è la meta preferita dei giovani. Molti scelgono di visitare più isole in pochi giorni. Prendono il traghetto e passano da un'isola all'altra. In questo modo vedono spiagge diverse, mangiano cibo locale e conoscono nuove persone.\n\nViaggiare tra le isole greche non è caro e piace ai giovani sotto i 25 anni. Ogni isola ha qualcosa di speciale: il mare azzurro, i piccoli villaggi bianchi, la musica e le feste la sera. Per molti ragazzi è il primo viaggio senza i genitori. Così imparano a organizzare tutto da soli: i biglietti, gli alberghi e i pasti. È un'esperienza divertente, ma anche un modo per crescere e diventare più indipendenti.",
+        "vocab": [
+          {
+            "front": "il viaggio",
+            "pos": "noun",
+            "back": "trip, journey",
+            "example": "Ti auguro un buon viaggio!",
+            "tier": "A2"
+          },
+          {
+            "front": "partire",
+            "pos": "verb",
+            "back": "to leave, to depart",
+            "example": "Partiamo domani mattina presto.",
+            "tier": "A2"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Festeggiamo il tuo compleanno insieme.",
+            "tier": "B1"
+          },
+          {
+            "front": "la meta",
+            "pos": "noun",
+            "back": "destination",
+            "example": "La meta del viaggio è Roma.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'isola",
+            "pos": "noun",
+            "back": "island",
+            "example": "La Sicilia è una grande isola.",
+            "tier": "A2"
+          },
+          {
+            "front": "il traghetto",
+            "pos": "noun",
+            "back": "ferry",
+            "example": "Prendiamo il traghetto per la Sardegna.",
+            "tier": "B1"
+          },
+          {
+            "front": "la spiaggia",
+            "pos": "noun",
+            "back": "beach",
+            "example": "In estate andiamo spesso in spiaggia.",
+            "tier": "A2"
+          },
+          {
+            "front": "conoscere",
+            "pos": "verb",
+            "back": "to meet, to get to know",
+            "example": "In vacanza ho conosciuto molti amici.",
+            "tier": "A2"
+          },
+          {
+            "front": "caro",
+            "pos": "adj",
+            "back": "expensive; dear",
+            "example": "Questo ristorante è troppo caro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il villaggio",
+            "pos": "noun",
+            "back": "village",
+            "example": "Vivono in un piccolo villaggio di montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "organizzare",
+            "pos": "verb",
+            "back": "to organize",
+            "example": "Devo organizzare bene le vacanze.",
+            "tier": "B1"
+          },
+          {
+            "front": "indipendente",
+            "pos": "adj",
+            "back": "independent",
+            "example": "Vuole essere più indipendente dai genitori.",
+            "tier": "B1"
+          },
+          {
+            "front": "crescere",
+            "pos": "verb",
+            "back": "to grow (up)",
+            "example": "I bambini crescono in fretta.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Dopo l'esame di maturità, molti ragazzi italiani partono per un viaggio.",
+            "point": "Presente indicativo per azioni abituali",
+            "explanation": "partono al presente indicativo esprime un'azione regolare e abituale; qui dopo è seguito da un sostantivo (l'esame).",
+            "why_tricky": "Gli studenti usano troppo il futuro e confondono dopo + sostantivo con dopo aver + infinito."
+          },
+          {
+            "sentence": "Prendono il traghetto e passano da un'isola all'altra.",
+            "point": "da... a... con l'apostrofo e le preposizioni articolate",
+            "explanation": "da un'isola all'altra esprime movimento da un luogo al successivo; nota all' (a + l') e un'isola con l'apostrofo perché è femminile.",
+            "why_tricky": "Gli studenti dimenticano l'apostrofo in un'isola (femminile) o la contrazione all'altra."
+          },
+          {
+            "sentence": "Per molti ragazzi è il primo viaggio senza i genitori.",
+            "point": "Articolo determinativo con i nomi di famiglia al plurale",
+            "explanation": "L'italiano usa l'articolo davanti ai nomi di famiglia plurali (i genitori); qui l'articolo resta perché ci si riferisce ai loro genitori specifici.",
+            "why_tricky": "Gli studenti tolgono l'articolo dopo senza."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da un'isola all'altra",
+            "meaning": "from one island to another; from one place to the next",
+            "example": "In vacanza siamo andati da un'isola all'altra."
+          },
+          {
+            "phrase": "da soli",
+            "meaning": "on their own, without help",
+            "example": "I ragazzi hanno organizzato il viaggio da soli."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa fanno molti ragazzi italiani dopo la maturità?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è la meta preferita quest'estate e come si spostano tra le isole?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questo viaggio è importante per crescere?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Dove ti piacerebbe andare in viaggio con gli amici? Scrivi qualche frase e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-08-bebe-vio-atletica",
+      "title": "Bebe Vio esordisce nei campionati di atletica paralimpica",
+      "source": "ANSA",
+      "date": "2026-07-04",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "paralimpici"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-08-bebe-vio-atletica",
+        "revision": 1,
+        "meta": {
+          "title": "Bebe Vio esordisce nei campionati di atletica paralimpica",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/2026/07/04/bebe-vio-esordisce-nei-campionati-di-atletica-paralimpica_8ecd6b28-ed38-4000-b5c9-77e1a3925c94.html",
+          "date_published": "2026-07-04",
+          "date_processed": "2026-07-08",
+          "tags": [
+            "sport",
+            "paralimpici"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Bebe Vio is a very famous paralympic champion in Italy. This time she is taking part for the first time in the athletics championships. For her it is a new experience and a great emotion. Bebe said something important: this time she can compete without thinking about the result. She does not have to win at all costs. She just wants to have fun and try something new. For her it is a wonderful feeling.\n\nHer words are a nice message for everyone. Sometimes we think too much about results and forget the pleasure of doing sport. Bebe Vio, instead, reminds us that sport is above all joy and freedom. Her story is an example for many young people. With courage and a smile, she shows that you can always try a new path. Paralympic sport, moreover, helps to change the way we look at people and their abilities.",
+        "resumen_es": "Bebe Vio è una campionessa paralimpica molto famosa in Italia. Questa volta partecipa per la prima volta ai campionati di atletica. Per lei è una nuova esperienza e una grande emozione. Bebe ha detto una cosa importante: questa volta può gareggiare senza pensare al risultato. Non deve vincere per forza. Vuole solo divertirsi e provare qualcosa di nuovo. Per lei è una sensazione bellissima.\n\nLe sue parole sono un bel messaggio per tutti. A volte pensiamo troppo ai risultati e dimentichiamo il piacere di fare sport. Bebe Vio, invece, ci ricorda che lo sport è prima di tutto gioia e libertà. La sua storia è un esempio per molti giovani. Con coraggio e sorriso, dimostra che si può sempre provare una nuova strada. Lo sport paralimpico, inoltre, aiuta a cambiare il modo in cui guardiamo le persone e le loro capacità.",
+        "vocab": [
+          {
+            "front": "la campionessa",
+            "pos": "noun",
+            "back": "champion (female)",
+            "example": "È la campionessa del mondo di scherma.",
+            "tier": "B1"
+          },
+          {
+            "front": "famoso",
+            "pos": "adj",
+            "back": "famous",
+            "example": "È un attore molto famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "partecipare",
+            "pos": "verb",
+            "back": "to take part, to participate",
+            "example": "Voglio partecipare alla gara.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prima volta",
+            "pos": "phrase",
+            "back": "the first time",
+            "example": "È la prima volta che vengo qui.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'esperienza",
+            "pos": "noun",
+            "back": "experience",
+            "example": "È stata una bella esperienza.",
+            "tier": "B1"
+          },
+          {
+            "front": "gareggiare",
+            "pos": "verb",
+            "back": "to compete",
+            "example": "Gareggia con i migliori atleti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il risultato",
+            "pos": "noun",
+            "back": "result",
+            "example": "Aspettiamo il risultato della partita.",
+            "tier": "A2"
+          },
+          {
+            "front": "vincere",
+            "pos": "verb",
+            "back": "to win",
+            "example": "Spero di vincere la gara.",
+            "tier": "A2"
+          },
+          {
+            "front": "divertirsi",
+            "pos": "verb",
+            "back": "to have fun, to enjoy oneself",
+            "example": "Mi diverto molto con voi.",
+            "tier": "A2"
+          },
+          {
+            "front": "la gioia",
+            "pos": "noun",
+            "back": "joy",
+            "example": "Prova una grande gioia quando corre.",
+            "tier": "B1"
+          },
+          {
+            "front": "il coraggio",
+            "pos": "noun",
+            "back": "courage",
+            "example": "Ci vuole coraggio per cambiare vita.",
+            "tier": "B1"
+          },
+          {
+            "front": "dimostrare",
+            "pos": "verb",
+            "back": "to show, to prove",
+            "example": "Vuole dimostrare il suo valore.",
+            "tier": "B1"
+          },
+          {
+            "front": "per forza",
+            "pos": "phrase",
+            "back": "necessarily, at all costs",
+            "example": "Non devi venire per forza.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Questa volta partecipa per la prima volta ai campionati di atletica.",
+            "point": "Preposizione articolata ai (a + i)",
+            "explanation": "ai campionati nasce da a + i campionati; la preposizione a si unisce all'articolo plurale i e forma ai.",
+            "why_tricky": "Gli studenti le tengono separate e scrivono a i campionati."
+          },
+          {
+            "sentence": "Bebe ha detto una cosa importante: questa volta può gareggiare senza pensare al risultato.",
+            "point": "senza + infinito",
+            "explanation": "Dopo senza, l'italiano usa l'infinito (senza pensare), non un verbo coniugato.",
+            "why_tricky": "Gli studenti traducono dall'inglese without thinking usando il gerundio."
+          },
+          {
+            "sentence": "Con coraggio e sorriso, dimostra che si può sempre provare una nuova strada.",
+            "point": "Il si impersonale",
+            "explanation": "si può significa uno può, è possibile; il si impersonale seguito dal verbo esprime una possibilità generale.",
+            "why_tricky": "Gli studenti usano puoi oppure è possibile di."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "per forza",
+            "meaning": "necessarily, no matter what; of course",
+            "example": "Devo studiare per forza per l'esame di domani."
+          },
+          {
+            "phrase": "prima di tutto",
+            "meaning": "first of all, above all",
+            "example": "Prima di tutto dobbiamo restare tranquilli."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "In quale sport gareggia per la prima volta Bebe Vio?",
+            "type": "open"
+          },
+          {
+            "q": "Perché per lei è una sensazione bellissima?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è il messaggio che ci dà con le sue parole?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Per te lo sport è più divertimento o competizione? Scrivi qualche frase e spiega."
+      }
+    },
     {
       "pack_id": "feed-2026-07-08-terme-caracalla-serali",
       "title": "Notturno Imperiale, ritornano le aperture serali delle Terme di Caracalla illuminate",
@@ -6304,527 +6804,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, perché è importante proteggere la natura che non vediamo, come il sottosuolo? Scrivi qualche frase con la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-29-smartphone-vacanza",
-      "title": "Digitale in vacanza, per gli esperti bisogna preparare lo smartphone prima di partire",
-      "source": "ANSA",
-      "date": "2026-06-29",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "viaggi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-29-smartphone-vacanza",
-        "revision": 1,
-        "meta": {
-          "title": "Digitale in vacanza, per gli esperti bisogna preparare lo smartphone prima di partire",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/06/28/digitale-in-vacanza-per-gli-esperti-bisogna-preparare-lo-smartphone-prima-di-partire_16c64bbb-ce68-4d6b-8f95-f48335a13a4e.html",
-          "date_published": "2026-06-29",
-          "date_processed": "2026-06-29",
-          "tags": [
-            "tecnologia",
-            "viaggi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Summer has arrived and many people are leaving for the holidays. Technology experts give a simple piece of advice: before leaving, it is better to prepare your smartphone well. The phone, in fact, is useful for many things while travelling. We use it for maps, for photos, to pay and to stay in touch with the family. If it is ready, we avoid many problems during the trip.\n\nThe specialists suggest some useful apps. An app to organize the trip, a translator to understand other languages and a virtual SIM to use the internet abroad without spending too much. It is also important to be careful with online scams, which are more common on holiday. With a few minutes of preparation, the smartphone becomes a real help. This way we can enjoy the trip without bad surprises and with more peace of mind.",
-        "resumen_es": "L'estate è arrivata e molte persone partono per le vacanze. Gli esperti di tecnologia danno un consiglio semplice: prima di partire, è meglio preparare bene lo smartphone. Il telefono, infatti, serve per tante cose in viaggio. Lo usiamo per le mappe, per le foto, per pagare e per restare in contatto con la famiglia. Se è pronto, evitiamo molti problemi durante il viaggio.\n\nGli specialisti suggeriscono alcune applicazioni utili. Una app per organizzare il viaggio, un traduttore per capire le altre lingue e una sim virtuale per usare internet all'estero senza spendere troppo. È importante anche fare attenzione alle truffe online, che sono più frequenti in vacanza. Con qualche minuto di preparazione, lo smartphone diventa un vero aiuto. Così possiamo goderci il viaggio senza brutte sorprese e con più tranquillità.",
-        "vocab": [
-          {
-            "front": "partire",
-            "pos": "verb",
-            "back": "to leave, depart",
-            "example": "Partiamo domani mattina presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vacanza",
-            "pos": "noun",
-            "back": "holiday, vacation",
-            "example": "Vado in vacanza al mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "il consiglio",
-            "pos": "noun",
-            "back": "advice, piece of advice",
-            "example": "Ti do un buon consiglio.",
-            "tier": "B1"
-          },
-          {
-            "front": "preparare",
-            "pos": "verb",
-            "back": "to prepare, get ready",
-            "example": "Preparo la valigia stasera.",
-            "tier": "B1"
-          },
-          {
-            "front": "il viaggio",
-            "pos": "noun",
-            "back": "trip, journey",
-            "example": "Ti auguro un buon viaggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "restare in contatto",
-            "pos": "phrase",
-            "back": "to stay in touch",
-            "example": "Restiamo in contatto via email.",
-            "tier": "B1"
-          },
-          {
-            "front": "evitare",
-            "pos": "verb",
-            "back": "to avoid",
-            "example": "Voglio evitare i problemi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il traduttore",
-            "pos": "noun",
-            "back": "translator",
-            "example": "Uso un traduttore online.",
-            "tier": "B1"
-          },
-          {
-            "front": "all'estero",
-            "pos": "adv",
-            "back": "abroad",
-            "example": "Quest'anno lavoro all'estero.",
-            "tier": "B1"
-          },
-          {
-            "front": "la truffa",
-            "pos": "noun",
-            "back": "scam, fraud",
-            "example": "Attenzione alle truffe online.",
-            "tier": "B2"
-          },
-          {
-            "front": "fare attenzione",
-            "pos": "phrase",
-            "back": "to pay attention, be careful",
-            "example": "Fai attenzione quando guidi.",
-            "tier": "B1"
-          },
-          {
-            "front": "godersi",
-            "pos": "verb",
-            "back": "to enjoy (something)",
-            "example": "Mi godo le vacanze al sole.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sorpresa",
-            "pos": "noun",
-            "back": "surprise",
-            "example": "Che bella sorpresa vederti!",
-            "tier": "B1"
-          },
-          {
-            "front": "la tranquillità",
-            "pos": "noun",
-            "back": "calm, peace of mind",
-            "example": "Cerco un po' di tranquillità.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Lo usiamo per le mappe, per le foto, per pagare e per restare in contatto con la famiglia.",
-            "point": "il pronome diretto lo",
-            "explanation": "Lo sostituisce un oggetto maschile singolare, qui lo smartphone, e va prima del verbo: lo usiamo.",
-            "why_tricky": "In italiano il pronome precede il verbo, al contrario dell'ordine delle parole in inglese."
-          },
-          {
-            "sentence": "Con qualche minuto di preparazione, lo smartphone diventa un vero aiuto.",
-            "point": "qualche più sostantivo singolare",
-            "explanation": "Qualche vuole sempre il sostantivo al singolare, anche se il significato è plurale: qualche minuto.",
-            "why_tricky": "Gli studenti dicono qualche minuti, ma la forma corretta è qualche minuto."
-          },
-          {
-            "sentence": "Così possiamo goderci il viaggio senza brutte sorprese e con più tranquillità.",
-            "point": "verbo riflessivo con pronome attaccato",
-            "explanation": "Con potere più infinito, il pronome ci si attacca all'infinito: goderci il viaggio.",
-            "why_tricky": "Si può dire anche ci possiamo godere; nella forma attaccata l'infinito perde la -e finale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare attenzione",
-            "meaning": "to be careful, watch out",
-            "example": "Fai attenzione quando attraversi la strada."
-          },
-          {
-            "phrase": "una brutta sorpresa",
-            "meaning": "an unpleasant surprise",
-            "example": "Il conto al ristorante è stato una brutta sorpresa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale consiglio danno gli esperti prima di partire?",
-            "type": "open"
-          },
-          {
-            "q": "Quali applicazioni sono utili in viaggio, secondo gli specialisti?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è importante fare attenzione alle truffe online in vacanza?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Tu come prepari il telefono prima di un viaggio? Scrivi quali app usi e perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-29-orsara-arte-strada",
-      "title": "Galleria a cielo aperto nei vicoli di Orsara, sui muri i volti dei cittadini",
-      "source": "ANSA",
-      "date": "2026-06-27",
-      "level": "A2-B1",
-      "topics": [
-        "arte",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-29-orsara-arte-strada",
-        "revision": 1,
-        "meta": {
-          "title": "Galleria a cielo aperto nei vicoli di Orsara, sui muri i volti dei cittadini",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/regione/puglia/2026/06/27/galleria-a-cielo-aperto-nei-vicoli-di-orsara-sui-muri-i-volti-dei_dc8ecf8b-2f41-470d-94e6-7080f4fcef42.html",
-          "date_published": "2026-06-27",
-          "date_processed": "2026-06-29",
-          "tags": [
-            "arte",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Orsara di Puglia, a small village in the province of Foggia, a very special art gallery has been born. It is not inside a museum, but outdoors, along the streets of the historic centre. Since this morning, thirty large photographs cover the walls of the houses. The images show the faces of the village's residents: men, women and elderly people who have always lived there.\n\nThe idea is simple but very beautiful. Art leaves the museum and enters everyday life. Anyone walking through the alleys can look into the eyes of the local people and learn their story. The project wants to promote the village and attract new visitors. For the residents it is also a way to feel like protagonists. In this way a small town becomes a big open-air museum, open to everyone and free.",
-        "resumen_es": "A Orsara di Puglia, un piccolo borgo in provincia di Foggia, è nata una galleria d'arte molto speciale. Non si trova dentro un museo, ma all'aperto, lungo le strade del centro storico. Da questa mattina, trenta grandi fotografie coprono i muri delle case. Le immagini mostrano i volti degli abitanti del paese: uomini, donne e anziani che vivono lì da sempre.\n\nL'idea è semplice ma molto bella. L'arte esce dal museo ed entra nella vita di tutti i giorni. Chi passeggia per i vicoli può guardare negli occhi le persone del posto e conoscere la loro storia. Il progetto vuole valorizzare il borgo e attirare nuovi visitatori. Per gli abitanti è anche un modo per sentirsi protagonisti. Così un piccolo paese diventa un grande museo a cielo aperto, aperto a tutti e gratuito.",
-        "vocab": [
-          {
-            "front": "il borgo",
-            "pos": "noun",
-            "back": "small town, village",
-            "example": "Vivono in un antico borgo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la galleria d'arte",
-            "pos": "phrase",
-            "back": "art gallery",
-            "example": "Visitiamo una galleria d'arte moderna.",
-            "tier": "B1"
-          },
-          {
-            "front": "all'aperto",
-            "pos": "adv",
-            "back": "outdoors, in the open air",
-            "example": "D'estate mangiamo all'aperto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il centro storico",
-            "pos": "phrase",
-            "back": "historic centre, old town",
-            "example": "Il centro storico è molto bello.",
-            "tier": "B1"
-          },
-          {
-            "front": "il muro",
-            "pos": "noun",
-            "back": "wall",
-            "example": "I muri della casa sono bianchi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il volto",
-            "pos": "noun",
-            "back": "face",
-            "example": "Aveva un volto sorridente.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'abitante",
-            "pos": "noun",
-            "back": "inhabitant, resident",
-            "example": "Gli abitanti del paese sono gentili.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'anziano",
-            "pos": "noun",
-            "back": "elderly person",
-            "example": "Aiuto spesso gli anziani.",
-            "tier": "B1"
-          },
-          {
-            "front": "passeggiare",
-            "pos": "verb",
-            "back": "to stroll, walk",
-            "example": "Mi piace passeggiare in centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vicolo",
-            "pos": "noun",
-            "back": "alley, narrow street",
-            "example": "Ci siamo persi nei vicoli.",
-            "tier": "B2"
-          },
-          {
-            "front": "valorizzare",
-            "pos": "verb",
-            "back": "to promote, make the most of",
-            "example": "Vogliono valorizzare il territorio.",
-            "tier": "B2"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "La mostra attira molti turisti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori arrivano d'estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "gratuito",
-            "pos": "adj",
-            "back": "free (of charge)",
-            "example": "L'ingresso al parco è gratuito.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Orsara di Puglia, un piccolo borgo in provincia di Foggia, è nata una galleria d'arte molto speciale.",
-            "point": "passato prossimo con essere",
-            "explanation": "Verbi come nascere usano essere; il participio si accorda con il soggetto, qui nata al femminile (una galleria).",
-            "why_tricky": "Bisogna scegliere tra essere e avere e ricordare l'accordo del participio con il soggetto."
-          },
-          {
-            "sentence": "Chi passeggia per i vicoli può guardare negli occhi le persone del posto e conoscere la loro storia.",
-            "point": "il pronome relativo chi",
-            "explanation": "Chi significa la persona che e vuole il verbo al singolare: chi passeggia.",
-            "why_tricky": "Gli studenti confondono chi con che; chi contiene già il senso di colui che."
-          },
-          {
-            "sentence": "Le immagini mostrano i volti degli abitanti del paese: uomini, donne e anziani che vivono lì da sempre.",
-            "point": "la preposizione articolata degli",
-            "explanation": "Di si unisce all'articolo: di più gli fa degli, davanti a nomi maschili plurali che iniziano per vocale.",
-            "why_tricky": "Ci sono molte forme da ricordare: del, dello, dei, degli, delle."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a cielo aperto",
-            "meaning": "open-air, in the open",
-            "example": "C'è un mercato a cielo aperto ogni domenica."
-          },
-          {
-            "phrase": "guardare negli occhi",
-            "meaning": "to look someone in the eye",
-            "example": "Mi ha guardato negli occhi e ha sorriso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è nato a Orsara di Puglia?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa mostrano le trenta fotografie?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono gli obiettivi del progetto per il borgo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe vedere l'arte per le strade della tua città? Scrivi qualche frase e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-06-28-fratelli-gol-mondiali",
-      "title": "Mondiali: Luckassen e Brobbey, i fratelli in gol con nazionali diverse",
-      "source": "RaiNews",
-      "date": "2026-06-28",
-      "level": "A2-B1",
-      "topics": [
-        "calcio",
-        "famiglia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-06-28-fratelli-gol-mondiali",
-        "revision": 1,
-        "meta": {
-          "title": "Mondiali: Luckassen e Brobbey, i fratelli in gol con nazionali diverse",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/06/calcio-coppa-del-mondo-mondiali-2026-luckassen-e-brobbey-fratelli-in-gol-con-nazionali-diverse-d2a9717d-2cc9-458a-bf52-66fabf900b79.html",
-          "date_published": "2026-06-28",
-          "date_processed": "2026-06-28",
-          "tags": [
-            "calcio",
-            "famiglia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "At the 2026 football World Cup something very unusual happened. Two brothers scored a goal on the same day, but with two different national teams. Their names are Luckassen and Brobbey. The two have the same mother, but two different fathers. For this reason they play for different countries. The first brother scored wearing the shirt of Ghana. The second one even scored three goals wearing the shirt of the Netherlands. For their family it was a really special day, full of emotions.\n\nStories like this are not common in the world of football. Today many players have families that come from different countries. For this reason brothers sometimes choose to play for different national teams. For many fans it is a nice sign of our times, because sport can unite cultures and faraway countries.",
-        "resumen_es": "Ai Mondiali di calcio del 2026 e successa una cosa molto particolare. Due fratelli hanno segnato un gol nello stesso giorno, ma con due squadre nazionali diverse. Si chiamano Luckassen e Brobbey. I due hanno la stessa madre, ma due padri diversi. Per questo motivo giocano per Paesi diversi. Il primo fratello ha segnato con la maglia del Ghana. Il secondo ha fatto addirittura tre gol con la maglia dei Paesi Bassi. Per la loro famiglia e stata una giornata davvero speciale e piena di emozioni.\n\nStorie come questa non sono comuni nel mondo del calcio. Oggi molti giocatori hanno famiglie che vengono da Paesi diversi. Per questo a volte i fratelli scelgono di giocare per nazionali diverse. Per molti tifosi e un bel segno dei nostri tempi, perche lo sport puo unire culture e Paesi lontani.",
-        "vocab": [
-          {
-            "front": "fratello",
-            "pos": "noun",
-            "back": "brother",
-            "example": "Ho un fratello piu grande.",
-            "tier": "A2"
-          },
-          {
-            "front": "segnare un gol",
-            "pos": "phrase",
-            "back": "to score a goal",
-            "example": "Il giocatore ha segnato un gol.",
-            "tier": "A2"
-          },
-          {
-            "front": "squadra",
-            "pos": "noun",
-            "back": "team",
-            "example": "La nostra squadra ha vinto.",
-            "tier": "A2"
-          },
-          {
-            "front": "nazionale",
-            "pos": "noun",
-            "back": "national team",
-            "example": "Gioca nella nazionale del Ghana.",
-            "tier": "B1"
-          },
-          {
-            "front": "maglia",
-            "pos": "noun",
-            "back": "shirt, jersey",
-            "example": "Indossa la maglia numero dieci.",
-            "tier": "A2"
-          },
-          {
-            "front": "stesso",
-            "pos": "adj",
-            "back": "same",
-            "example": "Hanno la stessa madre.",
-            "tier": "A2"
-          },
-          {
-            "front": "diverso",
-            "pos": "adj",
-            "back": "different",
-            "example": "Giocano per Paesi diversi.",
-            "tier": "A2"
-          },
-          {
-            "front": "tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "Sono un grande tifoso del calcio.",
-            "tier": "B1"
-          },
-          {
-            "front": "giornata",
-            "pos": "noun",
-            "back": "day",
-            "example": "E stata una bella giornata.",
-            "tier": "A2"
-          },
-          {
-            "front": "scegliere",
-            "pos": "verb",
-            "back": "to choose",
-            "example": "Deve scegliere una nazionale.",
-            "tier": "B1"
-          },
-          {
-            "front": "unire",
-            "pos": "verb",
-            "back": "to unite, bring together",
-            "example": "Lo sport puo unire le persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "addirittura",
-            "pos": "adv",
-            "back": "even, actually",
-            "example": "Ha fatto addirittura tre gol.",
-            "tier": "B1"
-          },
-          {
-            "front": "lontano",
-            "pos": "adj",
-            "back": "far, distant",
-            "example": "Vengono da Paesi lontani.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Due fratelli hanno segnato un gol nello stesso giorno, ma con due squadre nazionali diverse.",
-            "point": "passato prossimo con avere",
-            "explanation": "The passato prossimo is formed with the present of avere plus the past participle (hanno segnato) to talk about a completed action.",
-            "why_tricky": "With avere the participle does not change for the subject, so it stays segnato even though the subject is plural."
-          },
-          {
-            "sentence": "Per questo a volte i fratelli scelgono di giocare per nazionali diverse.",
-            "point": "scegliere di + infinito",
-            "explanation": "Some verbs, like scegliere, need the preposition di before another verb in the infinitive (di giocare).",
-            "why_tricky": "You must learn which verbs take di, which take a and which take nothing; scegliere always takes di."
-          },
-          {
-            "sentence": "Il secondo ha fatto addirittura tre gol con la maglia dei Paesi Bassi.",
-            "point": "preposizioni articolate",
-            "explanation": "Prepositions combine with the article: di + i becomes dei, and di + il becomes del.",
-            "why_tricky": "Beginners often keep them separate (di i), but Italian joins them into one word (dei, del, della)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare il tifo per",
-            "meaning": "to root for, to support a team",
-            "example": "Faccio il tifo per l'Italia."
-          },
-          {
-            "phrase": "un segno dei tempi",
-            "meaning": "a sign of the times, something typical of today",
-            "example": "Queste storie sono un segno dei tempi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perche i due fratelli giocano per nazionali diverse?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa hanno fatto Luckassen e Brobbey nello stesso giorno?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, perche questa storia e un bel segno dei nostri tempi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, lo sport puo davvero unire persone di Paesi diversi? Scrivi la tua opinione con un esempio."
       }
     }
   ]
