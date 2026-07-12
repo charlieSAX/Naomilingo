@@ -1,7 +1,904 @@
 {
- "generated_at": "2026-07-10T08:12:40Z",
+ "generated_at": "2026-07-12T08:07:57.205288+00:00",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-12-sabbia-sardegna-restituita",
+   "title": "Ruba 40chili di sabbia in Sardegna, figlia li restituisce dopo 50 anni",
+   "source": "RaiNews",
+   "date": "2026-07-12",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-sabbia-sardegna-restituita",
+    "revision": 1,
+    "meta": {
+     "title": "Ruba 40chili di sabbia in Sardegna, figlia li restituisce dopo 50 anni",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/articoli/2026/07/ruba-40chili-di-sabbia-in-sardegna-figlia-li-restituisce-dopo-50-anni-7ceddffb-82e6-41d0-be51-ee80adb08adf.html",
+     "date_published": "2026-07-12",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "società",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "A woman from Milan returned to Sardinia to give back 40 kilos of sand. Her mother had taken the sand from a beach near Oristano during a holiday in 1979. For many years the sand stayed in the family garden in Milan. Before dying, the mother expressed one last wish: to take the sand back to where it belonged.\n\nThe daughter kept her promise and returned the sand to the Sardinian town after almost fifty years. In Sardinia it is forbidden to take sand, shells and stones from the beaches, because they are a fragile natural heritage. Every year the police find tourists at airports with bottles full of sand. This story has a happy ending and reminds everyone how important it is to protect nature.",
+    "resumen_es": "Una donna di Milano è tornata in Sardegna per restituire 40 chili di sabbia. Sua madre aveva preso la sabbia da una spiaggia vicino a Oristano durante una vacanza nel 1979. Per molti anni la sabbia è rimasta nel giardino di casa, a Milano. Prima di morire, la madre ha espresso un ultimo desiderio: riportare la sabbia al suo posto.\n\nLa figlia ha mantenuto la promessa e ha riportato la sabbia al comune sardo dopo quasi cinquanta anni. In Sardegna è vietato portare via sabbia, conchiglie e sassi dalle spiagge, perché sono un patrimonio naturale fragile. Ogni anno la polizia trova turisti con bottiglie piene di sabbia negli aeroporti. Questa storia ha un finale positivo e ricorda a tutti che è importante proteggere la natura.",
+    "vocab": [
+     {
+      "front": "restituire",
+      "pos": "verb",
+      "back": "to give back, return",
+      "example": "Devo restituire il libro alla biblioteca.",
+      "tier": "B1"
+     },
+     {
+      "front": "sabbia",
+      "pos": "noun",
+      "back": "sand",
+      "example": "La sabbia di questa spiaggia è bianca.",
+      "tier": "B1"
+     },
+     {
+      "front": "spiaggia",
+      "pos": "noun",
+      "back": "beach",
+      "example": "Andiamo in spiaggia domani mattina.",
+      "tier": "B1"
+     },
+     {
+      "front": "desiderio",
+      "pos": "noun",
+      "back": "wish, desire",
+      "example": "Il suo desiderio era tornare in Italia.",
+      "tier": "B1"
+     },
+     {
+      "front": "mantenere una promessa",
+      "pos": "phrase",
+      "back": "to keep a promise",
+      "example": "Ha mantenuto la promessa fatta a sua madre.",
+      "tier": "B1"
+     },
+     {
+      "front": "vietato",
+      "pos": "adj",
+      "back": "forbidden",
+      "example": "È vietato fumare in questo locale.",
+      "tier": "B1"
+     },
+     {
+      "front": "portare via",
+      "pos": "verb",
+      "back": "to take away",
+      "example": "Non si può portare via niente dalla spiaggia.",
+      "tier": "B1"
+     },
+     {
+      "front": "conchiglia",
+      "pos": "noun",
+      "back": "seashell",
+      "example": "I bambini cercano conchiglie sulla riva.",
+      "tier": "B1"
+     },
+     {
+      "front": "patrimonio",
+      "pos": "noun",
+      "back": "heritage",
+      "example": "Il centro storico è patrimonio dell'umanità.",
+      "tier": "B2"
+     },
+     {
+      "front": "fragile",
+      "pos": "adj",
+      "back": "fragile",
+      "example": "Attenzione, il pacco è fragile.",
+      "tier": "B1"
+     },
+     {
+      "front": "finale",
+      "pos": "noun",
+      "back": "ending",
+      "example": "Il film ha un finale positivo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Sua madre aveva preso la sabbia da una spiaggia vicino a Oristano durante una vacanza nel 1979.",
+      "point": "trapassato prossimo (aveva preso)",
+      "explanation": "The trapassato prossimo describes an action that happened before another past action: the mother took the sand before the daughter returned it.",
+      "why_tricky": "Learners at A2-B1 often use the passato prossimo everywhere; the auxiliary in the imperfetto (aveva) plus participle marks the earlier past."
+     },
+     {
+      "sentence": "In Sardegna è vietato portare via sabbia, conchiglie e sassi dalle spiagge, perché sono un patrimonio naturale fragile.",
+      "point": "è vietato + infinitive",
+      "explanation": "Impersonal expressions like è vietato are followed directly by the infinitive, with no preposition.",
+      "why_tricky": "English says it is forbidden to take, so learners often insert di or a before the infinitive by mistake."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "al suo posto",
+      "meaning": "back in its place",
+      "example": "Ho rimesso ogni cosa al suo posto."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché la donna di Milano è andata in Sardegna?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa aveva chiesto la madre prima di morire?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa è vietato fare sulle spiagge della Sardegna?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Hai mai preso un ricordo dalla natura durante un viaggio? Scrivi qualche frase: secondo te è giusto o sbagliato?"
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-12-jacopo-piazza-navona",
+   "title": "La storia di Jacopo, dal Covid sul terrazzo di Piazza Navona al concerto di addio: \"Affitto scaduto\"",
+   "source": "RaiNews",
+   "date": "2026-07-12",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "musica"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-jacopo-piazza-navona",
+    "revision": 1,
+    "meta": {
+     "title": "La storia di Jacopo, dal Covid sul terrazzo di Piazza Navona al concerto di addio: \"Affitto scaduto\"",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/articoli/2026/07/la-storia-di-jacopo-dal-covid-sul-balcone-in-piazza-navona-al-concerto-di-addio-affitto-scaduto-d0c6e0cb-f198-44dd-99ce-f85df3821783.html",
+     "date_published": "2026-07-12",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "società",
+      "musica"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Jacopo is a musician from Rome. During the Covid lockdown, in 2020, he used to play from the terrace of his home, in front of an empty Piazza Navona. The notes of Ennio Morricone moved the whole of Italy. Now Jacopo has to leave that house, because the lease has expired. This weekend he played from his terrace for the last time.\n\nHis story also tells of a bigger problem in Italian cities. In the centre of Rome many homes become bed and breakfasts for tourists, and rents cost more and more. For this reason many residents have to move away from the historic centre. Jacopo's farewell concert has become a symbol of this change, mixing music, memory and daily life.",
+    "resumen_es": "Jacopo è un musicista di Roma. Durante il lockdown del Covid, nel 2020, suonava dal terrazzo di casa sua, davanti a una Piazza Navona vuota. Le note di Ennio Morricone hanno commosso tutta l'Italia. Ora Jacopo deve lasciare quella casa, perché l'affitto è scaduto. Questo fine settimana ha suonato per l'ultima volta dal suo terrazzo.\n\nLa sua storia racconta anche un problema più grande delle città italiane. Nel centro di Roma molte case diventano bed and breakfast per i turisti, e gli affitti costano sempre di più. Per questo molti abitanti devono andare via dal centro storico. Il concerto di addio di Jacopo è diventato un simbolo di questo cambiamento, tra musica, memoria e vita quotidiana.",
+    "vocab": [
+     {
+      "front": "suonare",
+      "pos": "verb",
+      "back": "to play (an instrument)",
+      "example": "Jacopo suona il violino da dieci anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "terrazzo",
+      "pos": "noun",
+      "back": "terrace, balcony",
+      "example": "Dal terrazzo si vede tutta la piazza.",
+      "tier": "B1"
+     },
+     {
+      "front": "vuoto",
+      "pos": "adj",
+      "back": "empty",
+      "example": "La piazza era completamente vuota.",
+      "tier": "B1"
+     },
+     {
+      "front": "commuovere",
+      "pos": "verb",
+      "back": "to move (emotionally)",
+      "example": "La sua musica ha commosso tutti.",
+      "tier": "B2"
+     },
+     {
+      "front": "affitto",
+      "pos": "noun",
+      "back": "rent, lease",
+      "example": "L'affitto in centro costa troppo.",
+      "tier": "B1"
+     },
+     {
+      "front": "scaduto",
+      "pos": "adj",
+      "back": "expired",
+      "example": "Il contratto è scaduto a giugno.",
+      "tier": "B1"
+     },
+     {
+      "front": "per l'ultima volta",
+      "pos": "phrase",
+      "back": "for the last time",
+      "example": "Ha salutato gli amici per l'ultima volta.",
+      "tier": "B1"
+     },
+     {
+      "front": "abitante",
+      "pos": "noun",
+      "back": "resident, inhabitant",
+      "example": "Gli abitanti del quartiere protestano.",
+      "tier": "B1"
+     },
+     {
+      "front": "andare via",
+      "pos": "verb",
+      "back": "to leave, go away",
+      "example": "Molte famiglie devono andare via dal centro.",
+      "tier": "B1"
+     },
+     {
+      "front": "addio",
+      "pos": "noun",
+      "back": "farewell",
+      "example": "Il concerto di addio è stato emozionante.",
+      "tier": "B1"
+     },
+     {
+      "front": "vita quotidiana",
+      "pos": "phrase",
+      "back": "daily life",
+      "example": "La musica fa parte della sua vita quotidiana.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Durante il lockdown del Covid, nel 2020, suonava dal terrazzo di casa sua, davanti a una Piazza Navona vuota.",
+      "point": "imperfetto for habitual past actions (suonava)",
+      "explanation": "The imperfetto describes repeated or habitual actions in the past: he used to play from the terrace.",
+      "why_tricky": "English has only one simple past, so learners must decide between passato prossimo (single event) and imperfetto (habit or background)."
+     },
+     {
+      "sentence": "Ora Jacopo deve lasciare quella casa, perché l'affitto è scaduto.",
+      "point": "dovere + infinitive",
+      "explanation": "Dovere followed by the infinitive expresses obligation: he has to leave the house.",
+      "why_tricky": "Modal verbs in Italian conjugate fully and the following verb stays in the infinitive, unlike English must plus base verb which never changes."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "sempre di più",
+      "meaning": "more and more",
+      "example": "Gli affitti costano sempre di più."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa faceva Jacopo durante il lockdown del 2020?",
+      "type": "open"
+     },
+     {
+      "q": "Perché ora deve lasciare la sua casa?",
+      "type": "open"
+     },
+     {
+      "q": "Quale problema delle città italiane racconta questa storia?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Nella tua città gli affitti sono un problema? Scrivi qualche frase sulla situazione delle case dove vivi tu."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-12-francia-caldo-louvre",
+   "title": "Francia, chiusi per la 'canicule' Louvre e Tour Eiffel",
+   "source": "RaiNews",
+   "date": "2026-07-12",
+   "level": "A2-B1",
+   "topics": [
+    "clima",
+    "europa"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-12-francia-caldo-louvre",
+    "revision": 1,
+    "meta": {
+     "title": "Francia, chiusi per la 'canicule' Louvre e Tour Eiffel",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/video/2026/07/francia-chiusi-per-canicule-louvre-tour-eiffel-video-3bc76110-d95f-4ff0-b69c-8e773d33f941.html",
+     "date_published": "2026-07-12",
+     "date_processed": "2026-07-12",
+     "tags": [
+      "clima",
+      "europa"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "It is very hot in France. In Paris the Louvre and the Eiffel Tower are closed because of the canicule, the heatwave. The red alert covers 37 departments, more than a third of the country. City squares and streets are scorching, and the authorities are asking people to drink water and stay in the shade during the hottest hours.\n\nHeatwaves are becoming more and more frequent in Europe because of climate change. In Italy too, temperatures are very high these days. Closing famous monuments like the Louvre is a rare measure, which protects visitors and workers. In the coming days forecasters are hoping for some rain and lower temperatures.",
+    "resumen_es": "In Francia fa molto caldo. A Parigi il Louvre e la Tour Eiffel sono chiusi per la 'canicule', l'ondata di calore. L'allerta rossa riguarda 37 dipartimenti, più di un terzo del paese. Le piazze e le strade delle città sono incandescenti, e le autorità chiedono alle persone di bere acqua e restare all'ombra nelle ore più calde.\n\nLe ondate di calore sono sempre più frequenti in Europa a causa del cambiamento climatico. Anche in Italia le temperature sono molto alte in questi giorni. La chiusura di monumenti famosi come il Louvre è una misura rara, che protegge i visitatori e i lavoratori. Nei prossimi giorni i meteorologi sperano in un po' di pioggia e in temperature più basse.",
+    "vocab": [
+     {
+      "front": "ondata di calore",
+      "pos": "phrase",
+      "back": "heatwave",
+      "example": "L'ondata di calore durerà tutta la settimana.",
+      "tier": "B1"
+     },
+     {
+      "front": "allerta rossa",
+      "pos": "phrase",
+      "back": "red alert",
+      "example": "C'è allerta rossa in molte regioni.",
+      "tier": "B1"
+     },
+     {
+      "front": "riguardare",
+      "pos": "verb",
+      "back": "to concern, affect",
+      "example": "Il problema riguarda tutto il paese.",
+      "tier": "B1"
+     },
+     {
+      "front": "un terzo",
+      "pos": "noun",
+      "back": "one third",
+      "example": "Un terzo degli abitanti vive in città.",
+      "tier": "B1"
+     },
+     {
+      "front": "incandescente",
+      "pos": "adj",
+      "back": "scorching, red-hot",
+      "example": "L'asfalto era incandescente sotto il sole.",
+      "tier": "B2"
+     },
+     {
+      "front": "ombra",
+      "pos": "noun",
+      "back": "shade, shadow",
+      "example": "Restiamo all'ombra, fa troppo caldo.",
+      "tier": "B1"
+     },
+     {
+      "front": "a causa di",
+      "pos": "phrase",
+      "back": "because of",
+      "example": "Il volo è in ritardo a causa del maltempo.",
+      "tier": "B1"
+     },
+     {
+      "front": "cambiamento climatico",
+      "pos": "phrase",
+      "back": "climate change",
+      "example": "Il cambiamento climatico è un problema globale.",
+      "tier": "B1"
+     },
+     {
+      "front": "chiusura",
+      "pos": "noun",
+      "back": "closure",
+      "example": "La chiusura del museo è temporanea.",
+      "tier": "B1"
+     },
+     {
+      "front": "misura",
+      "pos": "noun",
+      "back": "measure",
+      "example": "È una misura necessaria per la sicurezza.",
+      "tier": "B1"
+     },
+     {
+      "front": "sperare in",
+      "pos": "verb",
+      "back": "to hope for",
+      "example": "Tutti sperano in un po' di pioggia.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "le autorità chiedono alle persone di bere acqua e restare all'ombra nelle ore più calde",
+      "point": "chiedere a qualcuno di + infinitive",
+      "explanation": "Chiedere takes a before the person and di before the infinitive when asking someone to do something.",
+      "why_tricky": "English uses ask someone to do with no preposition before the person, so the a and di pattern is easy to forget."
+     },
+     {
+      "sentence": "Le ondate di calore sono sempre più frequenti in Europa a causa del cambiamento climatico.",
+      "point": "sempre più + adjective",
+      "explanation": "Sempre più before an adjective means more and more, expressing a growing tendency.",
+      "why_tricky": "Learners often translate word by word from English and say più e più, which is not natural Italian."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fa un caldo da morire",
+      "meaning": "it is terribly hot",
+      "example": "Oggi fa un caldo da morire, restiamo a casa."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quali monumenti di Parigi sono chiusi e perché?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa chiedono le autorità alle persone?",
+      "type": "open"
+     },
+     {
+      "q": "Perché le ondate di calore sono sempre più frequenti secondo l'articolo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Come cambia la tua vita quando fa molto caldo? Scrivi qualche frase su cosa fai durante un'ondata di calore."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-11-autovelox-decreto",
+   "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
+   "source": "ANSA",
+   "date": "2026-07-11",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "trasporti"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-autovelox-decreto",
+    "revision": 1,
+    "meta": {
+     "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/07/11/in-gazzetta-il-decreto-autovelox-stop-a-850-apparecchi-non-omologati_380f46eb-6eae-4cb9-a9e2-e4829686a5b8.html",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "società",
+      "trasporti"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Italy there is important news for drivers. A new government decree stops 850 non-approved speed cameras, that is, devices that check speed but do not have official certification. These devices are now switched off and cannot issue fines. Around 3,150 regular speed cameras remain active across the country, especially on the most dangerous roads.\n\nThe decision aims to bring order after years of confusion and of appeals by motorists against fines. Now the rules are clear and the same throughout Italy. The switched-off devices will be able to work again only after obtaining certification. For drivers the message does not change: you must always respect the speed limits, because checks continue on the country's main roads.",
+    "resumen_es": "In Italia arriva una novità importante per chi guida. Un nuovo decreto del governo ferma 850 autovelox non omologati, cioè apparecchi che controllano la velocità ma non hanno una certificazione ufficiale. Questi dispositivi ora sono spenti e non possono fare multe. Restano attivi circa 3.150 autovelox regolari in tutto il paese, soprattutto sulle strade più pericolose.\n\nLa decisione vuole mettere ordine dopo anni di confusione e di ricorsi degli automobilisti contro le multe. Ora le regole sono chiare e uguali in tutta Italia. Gli apparecchi spenti potranno tornare in funzione solo dopo aver ottenuto la certificazione. Per i guidatori il messaggio non cambia: bisogna sempre rispettare i limiti di velocità, perché i controlli continuano sulle strade principali del paese.",
+    "vocab": [
+     {
+      "front": "guidare",
+      "pos": "verb",
+      "back": "to drive",
+      "example": "Mi piace guidare in campagna.",
+      "tier": "A2"
+     },
+     {
+      "front": "il decreto",
+      "pos": "noun",
+      "back": "decree",
+      "example": "Il governo ha firmato un nuovo decreto.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'autovelox",
+      "pos": "noun",
+      "back": "speed camera",
+      "example": "C'è un autovelox su questa strada.",
+      "tier": "A2"
+     },
+     {
+      "front": "omologato",
+      "pos": "adj",
+      "back": "approved, certified",
+      "example": "Il casco deve essere omologato.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'apparecchio",
+      "pos": "noun",
+      "back": "device",
+      "example": "Questo apparecchio misura la velocità.",
+      "tier": "B1"
+     },
+     {
+      "front": "spento",
+      "pos": "adj",
+      "back": "switched off",
+      "example": "Il telefono è spento.",
+      "tier": "A2"
+     },
+     {
+      "front": "la multa",
+      "pos": "noun",
+      "back": "fine",
+      "example": "Ho preso una multa per eccesso di velocità.",
+      "tier": "A2"
+     },
+     {
+      "front": "il ricorso",
+      "pos": "noun",
+      "back": "appeal (legal)",
+      "example": "L'automobilista ha fatto ricorso contro la multa.",
+      "tier": "B1"
+     },
+     {
+      "front": "mettere ordine",
+      "pos": "phrase",
+      "back": "to bring order, tidy up",
+      "example": "Dobbiamo mettere ordine nelle regole.",
+      "tier": "B1"
+     },
+     {
+      "front": "tornare in funzione",
+      "pos": "phrase",
+      "back": "to start working again",
+      "example": "La macchina è tornata in funzione dopo la riparazione.",
+      "tier": "B1"
+     },
+     {
+      "front": "il limite di velocità",
+      "pos": "noun",
+      "back": "speed limit",
+      "example": "Il limite di velocità qui è 50 chilometri orari.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Questi dispositivi ora sono spenti e non possono fare multe.",
+      "point": "potere + infinitive",
+      "explanation": "The modal verb 'potere' is followed directly by the infinitive: 'non possono fare' means 'they cannot issue'.",
+      "why_tricky": "In Italian no preposition goes between 'potere' and the verb, unlike some English structures."
+     },
+     {
+      "sentence": "Gli apparecchi spenti potranno tornare in funzione solo dopo aver ottenuto la certificazione.",
+      "point": "dopo aver + past participle",
+      "explanation": "'Dopo aver ottenuto' means 'after having obtained'. After 'dopo', Italian uses the past infinitive, not a conjugated verb.",
+      "why_tricky": "Learners often try 'dopo che ottengono'; the compact 'dopo aver + participle' is more natural when the subject is the same."
+     },
+     {
+      "sentence": "Per i guidatori il messaggio non cambia: bisogna sempre rispettare i limiti di velocità, perché i controlli continuano sulle strade principali del paese.",
+      "point": "bisogna + infinitive",
+      "explanation": "'Bisogna' is impersonal and means 'it is necessary to / one must'. It never changes form and takes the infinitive.",
+      "why_tricky": "There is no subject: you cannot say 'io bisogno'. To say 'I need' use 'ho bisogno di'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "mettere ordine",
+      "meaning": "to sort things out, bring order",
+      "example": "Il nuovo direttore vuole mettere ordine in ufficio."
+     },
+     {
+      "phrase": "in funzione",
+      "meaning": "in operation, working",
+      "example": "L'ascensore non è in funzione oggi."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa succede agli 850 autovelox non omologati?",
+      "type": "open"
+     },
+     {
+      "q": "Perché il governo ha preso questa decisione?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa devono continuare a fare i guidatori?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te gli autovelox servono davvero per la sicurezza o sono solo un modo per fare multe? Scrivi la tua opinione in circa 80 parole."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-11-maldini-direttore-tecnico",
+   "title": "Malagò: 'Maldini direttore tecnico e Leonardo advisor'",
+   "source": "ANSA",
+   "date": "2026-07-11",
+   "level": "A2-B1",
+   "topics": [
+    "sport",
+    "calcio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-maldini-direttore-tecnico",
+    "revision": 1,
+    "meta": {
+     "title": "Malagò: 'Maldini direttore tecnico e Leonardo advisor'",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/11/malago-maldini-direttore-tecnico-e-leonardo-advisor_3aab7293-4a72-44f1-b44a-dcea67fb1854.html",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "sport",
+      "calcio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Italian football has big news. Paolo Maldini, former captain of AC Milan and a legend of the game, becomes technical director of the national team. This was announced by Giovanni Malago, president of the Football Federation. Leonardo, a former Brazilian player with a long past in Italian football, also joins the project as an advisor to the federation.\n\nThe goal is clear: to prepare the team well for the coming years. The commitment lasts four years and should take Italy to the 2030 World Cup, passing through a European championship as well. Malago said he has deep respect for the two former champions. For Italian fans it is a sign of hope after difficult years, and many newspapers are calling it an important choice for the future of Italian football.",
+    "resumen_es": "Il calcio italiano ha una grande notizia. Paolo Maldini, ex capitano del Milan e leggenda del calcio, diventa direttore tecnico della Nazionale. Lo ha annunciato Giovanni Malagò, presidente della Federcalcio. Anche Leonardo, ex giocatore brasiliano con un lungo passato nel calcio italiano, entra nel progetto come advisor, cioè consigliere della federazione.\n\nL'obiettivo è chiaro: preparare bene la squadra per i prossimi anni. L'impegno dura quattro anni e deve portare l'Italia al Mondiale del 2030, passando anche per un campionato europeo. Malagò ha detto che ha una stima profonda per i due ex campioni. Per i tifosi italiani è un segnale di speranza dopo anni difficili, e molti giornali parlano di una scelta importante per il futuro del calcio azzurro.",
+    "vocab": [
+     {
+      "front": "la notizia",
+      "pos": "noun",
+      "back": "news (item)",
+      "example": "Ho letto la notizia sul giornale.",
+      "tier": "A2"
+     },
+     {
+      "front": "il capitano",
+      "pos": "noun",
+      "back": "captain",
+      "example": "Maldini era il capitano del Milan.",
+      "tier": "A2"
+     },
+     {
+      "front": "la Nazionale",
+      "pos": "noun",
+      "back": "the national team",
+      "example": "La Nazionale gioca stasera.",
+      "tier": "A2"
+     },
+     {
+      "front": "annunciare",
+      "pos": "verb",
+      "back": "to announce",
+      "example": "Il presidente ha annunciato la decisione.",
+      "tier": "B1"
+     },
+     {
+      "front": "il consigliere",
+      "pos": "noun",
+      "back": "advisor",
+      "example": "Lavora come consigliere del ministro.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'obiettivo",
+      "pos": "noun",
+      "back": "goal, objective",
+      "example": "Il nostro obiettivo è vincere.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'impegno",
+      "pos": "noun",
+      "back": "commitment",
+      "example": "È un impegno di quattro anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "la stima",
+      "pos": "noun",
+      "back": "respect, esteem",
+      "example": "Ho molta stima per il mio professore.",
+      "tier": "B1"
+     },
+     {
+      "front": "il tifoso",
+      "pos": "noun",
+      "back": "fan, supporter",
+      "example": "I tifosi cantano allo stadio.",
+      "tier": "A2"
+     },
+     {
+      "front": "la speranza",
+      "pos": "noun",
+      "back": "hope",
+      "example": "C'è una nuova speranza per la squadra.",
+      "tier": "A2"
+     },
+     {
+      "front": "la scelta",
+      "pos": "noun",
+      "back": "choice",
+      "example": "È stata una scelta difficile ma giusta.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Lo ha annunciato Giovanni Malagò, presidente della Federcalcio.",
+      "point": "direct object pronoun 'lo'",
+      "explanation": "'Lo' refers back to the whole previous fact: 'this was announced by...'. Italian puts the pronoun before the verb.",
+      "why_tricky": "Word order is inverted compared to English: the subject comes after the verb in this very common news pattern."
+     },
+     {
+      "sentence": "L'impegno dura quattro anni e deve portare l'Italia al Mondiale del 2030, passando anche per un campionato europeo.",
+      "point": "gerund 'passando'",
+      "explanation": "The gerund 'passando' means 'passing through' and describes how the main action happens, without a conjugated verb.",
+      "why_tricky": "Italian uses the gerund alone where English often needs 'while' or 'by' plus -ing."
+     },
+     {
+      "sentence": "Malagò ha detto che ha una stima profonda per i due ex campioni.",
+      "point": "reported speech with 'che'",
+      "explanation": "'Ha detto che' introduces reported speech; the present 'ha' is kept because the fact is still true.",
+      "why_tricky": "Learners often shift the tense automatically as in English, but Italian keeps the present for statements that remain valid."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "un segnale di speranza",
+      "meaning": "a sign of hope",
+      "example": "La vittoria è stata un segnale di speranza per i tifosi."
+     },
+     {
+      "phrase": "il calcio azzurro",
+      "meaning": "Italian national football ('azzurro' refers to the blue shirt)",
+      "example": "Il calcio azzurro cerca nuovi talenti."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quali sono i nuovi ruoli di Maldini e Leonardo?",
+      "type": "open"
+     },
+     {
+      "q": "Quanto dura l'impegno e qual è l'obiettivo finale?",
+      "type": "open"
+     },
+     {
+      "q": "Come hanno reagito i tifosi e i giornali?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Chi è il tuo sportivo preferito e perché? Scrivi circa 80 parole."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-11-peppino-di-capri-beatles",
+   "title": "Quando Peppino di Capri nel 1965 aprì i concerti dei Beatles in Italia",
+   "source": "ANSA",
+   "date": "2026-07-11",
+   "level": "A2-B1",
+   "topics": [
+    "cultura",
+    "musica"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-11-peppino-di-capri-beatles",
+    "revision": 1,
+    "meta": {
+     "title": "Quando Peppino di Capri nel 1965 aprì i concerti dei Beatles in Italia",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/11/quando-peppino-di-capri-apri-i-concerti-dei-beatles-in-italia_3ba4ae62-cd60-4fee-a8aa-9313634e720b.html",
+     "date_published": "2026-07-11",
+     "date_processed": "2026-07-11",
+     "tags": [
+      "cultura",
+      "musica"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Italy remembers Peppino di Capri, the famous singer who died today on his island. In 1965 the young artist opened the Beatles' concerts during their only Italian tour. Peppino played before the Fab Four at the Vigorelli in Milan and the Adriano Theatre in Rome, in front of the Italian audience of those years.\n\nThat tour has remained part of the history of Italian music, and Peppino's career continued for decades. With his elegant style and famous songs like Champagne, he became a symbol of Italian popular song. Just one year ago he had given his last public performance at the Certosa di San Giacomo, on his beloved Capri. Today artists and fans from all over Italy bid him farewell with affection and gratitude.",
+    "resumen_es": "L'Italia ricorda Peppino di Capri, famoso cantante scomparso oggi nella sua isola. Nel 1965 il giovane artista aprì i concerti dei Beatles durante la loro unica tournée italiana. Peppino suonò prima dei Fab Four al Vigorelli di Milano e al Teatro Adriano di Roma, davanti al pubblico italiano di quegli anni.\n\nQuella tournée è rimasta nella storia della musica italiana, e la carriera di Peppino è continuata per decenni. Con il suo stile elegante e canzoni famose come Champagne, è diventato un simbolo della canzone nazionale. Proprio un anno fa aveva fatto la sua ultima esibizione pubblica alla Certosa di San Giacomo, nella sua amata Capri. Oggi artisti e fan di tutta Italia lo salutano con affetto e gratitudine.",
+    "vocab": [
+     {
+      "front": "ricordare",
+      "pos": "verb",
+      "back": "to remember, commemorate",
+      "example": "Oggi ricordiamo un grande artista.",
+      "tier": "A2"
+     },
+     {
+      "front": "il cantante",
+      "pos": "noun",
+      "back": "singer",
+      "example": "È un cantante molto famoso in Italia.",
+      "tier": "A2"
+     },
+     {
+      "front": "scomparso",
+      "pos": "adj",
+      "back": "deceased, passed away (euphemism)",
+      "example": "Il famoso attore è scomparso ieri.",
+      "tier": "B1"
+     },
+     {
+      "front": "aprire un concerto",
+      "pos": "phrase",
+      "back": "to open a concert (as support act)",
+      "example": "La giovane band ha aperto il concerto della star.",
+      "tier": "B1"
+     },
+     {
+      "front": "la tournée",
+      "pos": "noun",
+      "back": "tour (music)",
+      "example": "Il gruppo farà una tournée in Europa.",
+      "tier": "B1"
+     },
+     {
+      "front": "suonare",
+      "pos": "verb",
+      "back": "to play (music)",
+      "example": "Suona il pianoforte da vent'anni.",
+      "tier": "A2"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "audience",
+      "example": "Il pubblico ha applaudito a lungo.",
+      "tier": "A2"
+     },
+     {
+      "front": "la carriera",
+      "pos": "noun",
+      "back": "career",
+      "example": "La sua carriera è durata sessant'anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'esibizione",
+      "pos": "noun",
+      "back": "performance",
+      "example": "La sua ultima esibizione è stata a Capri.",
+      "tier": "B1"
+     },
+     {
+      "front": "amato",
+      "pos": "adj",
+      "back": "beloved",
+      "example": "È tornato nella sua amata città.",
+      "tier": "A2"
+     },
+     {
+      "front": "la gratitudine",
+      "pos": "noun",
+      "back": "gratitude",
+      "example": "I fan lo salutano con gratitudine.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Nel 1965 il giovane artista aprì i concerti dei Beatles durante la loro unica tournée italiana.",
+      "point": "passato remoto 'aprì'",
+      "explanation": "'Aprì' is the passato remoto of 'aprire', used for completed events in the distant past, common in written narration.",
+      "why_tricky": "In speech many Italians would say 'ha aperto'; the passato remoto appears mostly in journalism and storytelling, so learners must recognise it."
+     },
+     {
+      "sentence": "Quella tournée è rimasta nella storia della musica italiana, e la carriera di Peppino è continuata per decenni.",
+      "point": "passato prossimo with 'essere'",
+      "explanation": "'Rimanere' takes 'essere' in compound tenses, and the participle agrees: 'è rimasta' matches 'tournée' (feminine).",
+      "why_tricky": "Choosing 'essere' or 'avere' and remembering the agreement are classic difficulties."
+     },
+     {
+      "sentence": "Proprio un anno fa aveva fatto la sua ultima esibizione pubblica alla Certosa di San Giacomo, nella sua amata Capri.",
+      "point": "trapassato prossimo",
+      "explanation": "'Aveva fatto' (had done) places one past event before another past event, like the English past perfect.",
+      "why_tricky": "The time marker 'un anno fa' invites the simple past in English, but here the reference point is his death, so Italian uses the trapassato."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "rimanere nella storia",
+      "meaning": "to go down in history",
+      "example": "Quella partita è rimasta nella storia dello sport."
+     },
+     {
+      "phrase": "salutare con affetto",
+      "meaning": "to bid farewell with affection",
+      "example": "Gli amici lo hanno salutato con affetto."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa fece Peppino di Capri nel 1965?",
+      "type": "open"
+     },
+     {
+      "q": "Dove suonò prima dei Beatles?",
+      "type": "open"
+     },
+     {
+      "q": "Dove e quando è stata la sua ultima esibizione pubblica?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Quale canzone o musicista rappresenta meglio il tuo paese? Scrivi circa 80 parole."
+   }
+  },
   {
    "pack_id": "feed-2026-07-10-etna-lava-cratere",
    "title": "Etna, la lava sembra scomparire nel cratere: le spettacolari immagini dal drone",
@@ -5717,1041 +6614,6 @@
      }
     ],
     "opinion_prompt": "Ti piace leggere? Scrivi un breve paragrafo sul tuo libro preferito e spiega perché ti piace."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-02-aeroplano-carta-record",
-   "title": "Un aeroplano di carta da record, con 20 metri di apertura alare",
-   "source": "ANSA",
-   "date": "2026-07-02",
-   "level": "A2-B1",
-   "topics": [
-    "scienza",
-    "scuola"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-02-aeroplano-carta-record",
-    "revision": 1,
-    "meta": {
-     "title": "Un aeroplano di carta da record, con 20 metri di apertura alare",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/07/01/aeroplano-di-carta-da-record-con-20-metri-apertura-alare_7b6dd2b4-9151-4f46-a4ce-cdb7a8948146.html",
-     "date_published": "2026-07-01",
-     "date_processed": "2026-07-02",
-     "tags": [
-      "scienza",
-      "scuola"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Some students from the University of Pisa have built a very special paper plane. This plane has wings twenty metres wide. It is a real record for a paper object. The students worked together for many weeks. During the test, the giant plane flew for fifty-nine metres. Everyone was happy and surprised by the result.\n\nThis project is not only a fun game. The students learn many things about physics and about flight. Building such a big plane is not easy. Paper is light, but also weak, and it needs a lot of care. Group work helps the young people solve problems together. In the end, a simple sheet of paper becomes a small great scientific adventure.",
-    "resumen_es": "Alcuni studenti dell'Università di Pisa hanno costruito un aeroplano di carta molto speciale. Questo aeroplano ha le ali larghe venti metri. È un vero record per un oggetto di carta. Gli studenti hanno lavorato insieme per molte settimane. Durante la prova, l'aeroplano gigante ha volato per cinquantanove metri. Tutti erano felici e sorpresi per il risultato.\n\nQuesto progetto non è solo un gioco divertente. Gli studenti imparano molte cose sulla fisica e sul volo. Costruire un aeroplano così grande non è facile. La carta è leggera, ma anche debole, e serve molta attenzione. Il lavoro di gruppo aiuta i ragazzi a risolvere i problemi insieme. Alla fine, un semplice foglio di carta diventa una piccola grande avventura scientifica.",
-    "vocab": [
-     {
-      "front": "aeroplano",
-      "pos": "noun",
-      "back": "plane / aeroplane",
-      "example": "L'aeroplano vola alto nel cielo.",
-      "tier": "B1"
-     },
-     {
-      "front": "carta",
-      "pos": "noun",
-      "back": "paper",
-      "example": "Scrivo su un foglio di carta.",
-      "tier": "B1"
-     },
-     {
-      "front": "ala",
-      "pos": "noun",
-      "back": "wing",
-      "example": "L'aeroplano ha due ali grandi.",
-      "tier": "B1"
-     },
-     {
-      "front": "record",
-      "pos": "noun",
-      "back": "record",
-      "example": "Hanno stabilito un nuovo record.",
-      "tier": "B1"
-     },
-     {
-      "front": "prova",
-      "pos": "noun",
-      "back": "test / trial",
-      "example": "Durante la prova tutto è andato bene.",
-      "tier": "B1"
-     },
-     {
-      "front": "volare",
-      "pos": "verb",
-      "back": "to fly",
-      "example": "L'uccello vola sopra la casa.",
-      "tier": "B1"
-     },
-     {
-      "front": "costruire",
-      "pos": "verb",
-      "back": "to build",
-      "example": "Vogliamo costruire una casa nuova.",
-      "tier": "B1"
-     },
-     {
-      "front": "studente",
-      "pos": "noun",
-      "back": "student",
-      "example": "Lo studente studia per l'esame.",
-      "tier": "B1"
-     },
-     {
-      "front": "progetto",
-      "pos": "noun",
-      "back": "project",
-      "example": "Il progetto è molto interessante.",
-      "tier": "B1"
-     },
-     {
-      "front": "leggero",
-      "pos": "adj",
-      "back": "light (weight)",
-      "example": "La borsa è molto leggera.",
-      "tier": "B1"
-     },
-     {
-      "front": "debole",
-      "pos": "adj",
-      "back": "weak",
-      "example": "La carta è debole e si rompe.",
-      "tier": "B1"
-     },
-     {
-      "front": "risolvere",
-      "pos": "verb",
-      "back": "to solve",
-      "example": "Dobbiamo risolvere questo problema.",
-      "tier": "B2"
-     },
-     {
-      "front": "foglio",
-      "pos": "noun",
-      "back": "sheet (of paper)",
-      "example": "Prendi un foglio e una penna.",
-      "tier": "B1"
-     },
-     {
-      "front": "insieme",
-      "pos": "adv",
-      "back": "together",
-      "example": "Lavoriamo insieme ogni giorno.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Alcuni studenti dell'Università di Pisa hanno costruito un aeroplano di carta molto speciale.",
-      "point": "passato prossimo con 'avere'",
-      "explanation": "'Hanno costruito' è passato prossimo: ausiliare 'avere' + participio passato 'costruito'.",
-      "why_tricky": "Bisogna scegliere tra 'avere' ed 'essere' e formare i participi irregolari."
-     },
-     {
-      "sentence": "Tutti erano felici e sorpresi per il risultato.",
-      "point": "imperfetto 'erano' + accordo dell'aggettivo",
-      "explanation": "'Erano' descrive uno stato nel passato; gli aggettivi 'felici' e 'sorpresi' concordano al plurale.",
-      "why_tricky": "L'accordo dell'aggettivo e l'uso dell'imperfetto per la descrizione."
-     },
-     {
-      "sentence": "Il lavoro di gruppo aiuta i ragazzi a risolvere i problemi insieme.",
-      "point": "aiutare a + infinito",
-      "explanation": "Il verbo 'aiutare' è seguito dalla preposizione 'a' più l'infinito.",
-      "why_tricky": "Ricordare la preposizione 'a' prima dell'infinito."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "lavoro di gruppo",
-      "meaning": "attività fatta insieme ad altre persone",
-      "example": "Il lavoro di gruppo è importante a scuola."
-     },
-     {
-      "phrase": "alla fine",
-      "meaning": "dopo tutto, come risultato finale",
-      "example": "Alla fine il progetto è stato un successo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa hanno costruito gli studenti dell'Università di Pisa?",
-      "type": "open"
-     },
-     {
-      "q": "Quanti metri ha volato l'aeroplano di carta durante la prova?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa imparano gli studenti con questo progetto?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ti piacerebbe partecipare a un progetto come questo? Scrivi un breve paragrafo e spiega perché sì o perché no."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-02-caldo-tregua-piogge",
-   "title": "Il caldo concede una tregua, arrivano piogge e grandinate",
-   "source": "ANSA",
-   "date": "2026-07-02",
-   "level": "A2-B1",
-   "topics": [
-    "meteo",
-    "ambiente"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-02-caldo-tregua-piogge",
-    "revision": 1,
-    "meta": {
-     "title": "Il caldo concede una tregua, arrivano piogge e grandinate",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/01/tregua-dal-caldo-oggi-21-bollini-rossi-domani-scendono-a-due_cea3218e-2a10-49d9-8c6c-13eaac021fa0.html",
-     "date_published": "2026-07-01",
-     "date_processed": "2026-07-02",
-     "tags": [
-      "meteo",
-      "ambiente"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "After many days of strong heat, a break finally arrives in Italy. Temperatures drop a little and in many cities rain and storms arrive. In some areas hail also falls. For many people this change is a relief, because the heat was really hard to bear. At night too it was very hot and sleeping was not easy.\n\nHowever, the weather stays unstable and can cause some problems. In some regions of the north the authorities issue an alert for heavy rain. The firefighters work hard to help people in difficulty. Experts say that the heat may come back soon. For this reason they advise drinking a lot of water and being careful when the weather changes quickly. Nature reminds us how important it is to respect the environment.",
-    "resumen_es": "Dopo molti giorni di caldo forte, in Italia arriva finalmente una tregua. Le temperature scendono un poco e in molte città arrivano la pioggia e i temporali. In alcune zone cade anche la grandine. Per molte persone questo cambiamento è un sollievo, perché il caldo era davvero difficile da sopportare. Anche di notte faceva molto caldo e dormire non era facile.\n\nIl tempo però resta instabile e può creare qualche problema. In alcune regioni del nord le autorità danno l'allerta per la pioggia forte. I vigili del fuoco lavorano molto per aiutare le persone in difficoltà. Gli esperti dicono che il caldo può tornare presto. Per questo consigliano di bere molta acqua e di stare attenti quando il tempo cambia velocemente. La natura ci ricorda quanto è importante rispettare l'ambiente.",
-    "vocab": [
-     {
-      "front": "caldo",
-      "pos": "noun",
-      "back": "heat / hot",
-      "example": "In estate fa molto caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "tregua",
-      "pos": "noun",
-      "back": "break / respite",
-      "example": "Finalmente c'è una tregua dal caldo.",
-      "tier": "B2"
-     },
-     {
-      "front": "temperatura",
-      "pos": "noun",
-      "back": "temperature",
-      "example": "Oggi la temperatura scende.",
-      "tier": "B1"
-     },
-     {
-      "front": "pioggia",
-      "pos": "noun",
-      "back": "rain",
-      "example": "La pioggia arriva questa sera.",
-      "tier": "B1"
-     },
-     {
-      "front": "temporale",
-      "pos": "noun",
-      "back": "storm",
-      "example": "Un forte temporale è arrivato di notte.",
-      "tier": "B1"
-     },
-     {
-      "front": "grandine",
-      "pos": "noun",
-      "back": "hail",
-      "example": "La grandine ha rovinato le piante.",
-      "tier": "B2"
-     },
-     {
-      "front": "sollievo",
-      "pos": "noun",
-      "back": "relief",
-      "example": "La pioggia è stata un vero sollievo.",
-      "tier": "B2"
-     },
-     {
-      "front": "sopportare",
-      "pos": "verb",
-      "back": "to bear / stand",
-      "example": "Non riesco a sopportare il caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "instabile",
-      "pos": "adj",
-      "back": "unstable",
-      "example": "Il tempo è instabile questa settimana.",
-      "tier": "B2"
-     },
-     {
-      "front": "allerta",
-      "pos": "noun",
-      "back": "alert / warning",
-      "example": "C'è l'allerta per la pioggia forte.",
-      "tier": "B1"
-     },
-     {
-      "front": "vigili del fuoco",
-      "pos": "phrase",
-      "back": "firefighters",
-      "example": "I vigili del fuoco aiutano le persone.",
-      "tier": "B1"
-     },
-     {
-      "front": "consigliare",
-      "pos": "verb",
-      "back": "to advise / recommend",
-      "example": "Ti consiglio di bere molta acqua.",
-      "tier": "B1"
-     },
-     {
-      "front": "ambiente",
-      "pos": "noun",
-      "back": "environment",
-      "example": "Dobbiamo rispettare l'ambiente.",
-      "tier": "B1"
-     },
-     {
-      "front": "scendere",
-      "pos": "verb",
-      "back": "to go down / drop",
-      "example": "La temperatura scende di sera.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Per molte persone questo cambiamento è un sollievo, perché il caldo era davvero difficile da sopportare.",
-      "point": "aggettivo + da + infinito",
-      "explanation": "'Difficile da sopportare' usa la struttura aggettivo + 'da' + infinito per dire 'hard to bear'.",
-      "why_tricky": "Molti studenti usano 'di' al posto di 'da' in questa struttura."
-     },
-     {
-      "sentence": "Per questo consigliano di bere molta acqua e di stare attenti quando il tempo cambia velocemente.",
-      "point": "consigliare di + infinito",
-      "explanation": "Il verbo 'consigliare' è seguito da 'di' più l'infinito.",
-      "why_tricky": "Scegliere la preposizione giusta dopo il verbo (di o a)."
-     },
-     {
-      "sentence": "Anche di notte faceva molto caldo e dormire non era facile.",
-      "point": "'faceva caldo' (imperfetto per il tempo)",
-      "explanation": "Per il tempo atmosferico nel passato si usa l'imperfetto: 'faceva caldo'; con il meteo si usa il verbo 'fare'.",
-      "why_tricky": "Usare 'fare' per il meteo e scegliere l'imperfetto per la descrizione."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare caldo",
-      "meaning": "esserci una temperatura alta",
-      "example": "In estate fa molto caldo in città."
-     },
-     {
-      "phrase": "stare attenti",
-      "meaning": "fare attenzione, essere prudenti",
-      "example": "Stai attento quando piove molto!"
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che tempo arriva in Italia dopo i giorni di caldo forte?",
-      "type": "open"
-     },
-     {
-      "q": "Perché per molte persone questo cambiamento è un sollievo?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa consigliano di fare gli esperti?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Come vivi le giornate di caldo forte? Scrivi un breve paragrafo e spiega che cosa fai per stare meglio."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-trenitalia-attacco-hacker",
-   "title": "Attacco hacker a Trenitalia, accesso ai dati personali di alcuni clienti",
-   "source": "ANSA",
-   "date": "2026-07-01",
-   "level": "A2-B1",
-   "topics": [
-    "tecnologia",
-    "cronaca"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-trenitalia-attacco-hacker",
-    "revision": 1,
-    "meta": {
-     "title": "Attacco hacker a Trenitalia, accesso ai dati personali di alcuni clienti",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/attacco-hacker-su-alcuni-dati-personali-clienti-di-trenitalia_26fb15dd-f829-4e4a-9da7-a0734b74fd13.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "tecnologia",
-      "cronaca"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Trenitalia, the main train company in Italy, has suffered a cyberattack. Some hackers managed to get into the systems and saw the personal data of some customers, such as their first name, surname and email address. The company, however, explains that payment data, that is the credit card numbers, was not touched. Trenitalia warned the people involved and apologised. Experts are still checking what happened.\n\nThis case reminds us how important our data on the internet is. Hacker attacks against companies are more and more frequent. To protect themselves, experts recommend a few simple rules: use long and different passwords for each site, do not open strange emails and change your password from time to time. Companies too must invest more in security. Unfortunately, no one is ever safe, but with a little attention we can reduce the risks.",
-    "resumen_es": "Trenitalia, la principale azienda dei treni in Italia, ha subìto un attacco informatico. Alcuni hacker sono riusciti a entrare nei sistemi e hanno visto i dati personali di alcuni clienti, come il nome, il cognome e l'indirizzo email. L'azienda però spiega che i dati dei pagamenti, cioè i numeri delle carte di credito, non sono stati toccati. Trenitalia ha avvisato le persone coinvolte e ha chiesto scusa. Gli esperti stanno ancora controllando che cosa è successo.\n\nQuesto caso ci ricorda quanto sono importanti i nostri dati su internet. Gli attacchi hacker contro le aziende sono sempre più frequenti. Per proteggersi, gli esperti consigliano alcune regole semplici: usare password lunghe e diverse per ogni sito, non aprire email strane e cambiare la password ogni tanto. Anche le aziende devono investire di più nella sicurezza. Purtroppo nessuno è mai al sicuro, ma con un po' di attenzione possiamo ridurre i rischi.",
-    "vocab": [
-     {
-      "front": "attacco informatico",
-      "pos": "noun",
-      "back": "cyberattack",
-      "example": "L'azienda ha subìto un attacco informatico.",
-      "tier": "B1"
-     },
-     {
-      "front": "hacker",
-      "pos": "noun",
-      "back": "hacker",
-      "example": "Gli hacker sono entrati nel sistema.",
-      "tier": "A2"
-     },
-     {
-      "front": "dati personali",
-      "pos": "noun",
-      "back": "personal data",
-      "example": "Devi proteggere i tuoi dati personali.",
-      "tier": "A2"
-     },
-     {
-      "front": "azienda",
-      "pos": "noun",
-      "back": "company, firm",
-      "example": "Lavoro in una grande azienda.",
-      "tier": "A2"
-     },
-     {
-      "front": "cliente",
-      "pos": "noun",
-      "back": "customer, client",
-      "example": "Il cliente ha ricevuto un'email.",
-      "tier": "A2"
-     },
-     {
-      "front": "riuscire a",
-      "pos": "verb",
-      "back": "to manage to, succeed in",
-      "example": "Sono riuscito a finire il lavoro.",
-      "tier": "B1"
-     },
-     {
-      "front": "coinvolto",
-      "pos": "adj",
-      "back": "involved, affected",
-      "example": "Le persone coinvolte sono poche.",
-      "tier": "B1"
-     },
-     {
-      "front": "chiedere scusa",
-      "pos": "phrase",
-      "back": "to apologise",
-      "example": "Ha chiesto scusa per il ritardo.",
-      "tier": "A2"
-     },
-     {
-      "front": "sicurezza",
-      "pos": "noun",
-      "back": "security, safety",
-      "example": "La sicurezza online è importante.",
-      "tier": "A2"
-     },
-     {
-      "front": "password",
-      "pos": "noun",
-      "back": "password",
-      "example": "Usa una password lunga.",
-      "tier": "A2"
-     },
-     {
-      "front": "proteggersi",
-      "pos": "verb",
-      "back": "to protect oneself",
-      "example": "Per proteggersi, usa l'antivirus.",
-      "tier": "B1"
-     },
-     {
-      "front": "ogni tanto",
-      "pos": "phrase",
-      "back": "every now and then",
-      "example": "Cambio la password ogni tanto.",
-      "tier": "A2"
-     },
-     {
-      "front": "al sicuro",
-      "pos": "phrase",
-      "back": "safe, out of danger",
-      "example": "Qui i dati sono al sicuro.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Alcuni hacker sono riusciti a entrare nei sistemi e hanno visto i dati personali di alcuni clienti, come il nome, il cognome e l'indirizzo email.",
-      "point": "Passato prossimo con essere e con avere",
-      "explanation": "'Sono riusciti' usa 'essere' e il participio concorda (-i, maschile plurale), mentre 'hanno visto' usa 'avere' e non concorda con il soggetto.",
-      "why_tricky": "Scegliere essere o avere, e ricordare che con essere il participio concorda con il soggetto, è una difficoltà classica."
-     },
-     {
-      "sentence": "L'azienda però spiega che i dati dei pagamenti, cioè i numeri delle carte di credito, non sono stati toccati.",
-      "point": "Passivo al passato prossimo (non sono stati toccati)",
-      "explanation": "Il passivo usa essere + participio: 'sono stati toccati' = 'were touched'. Qui è alla forma negativa: 'non sono stati toccati'.",
-      "why_tricky": "Mette insieme due participi ('stati toccati') e entrambi concordano con il soggetto 'i dati' (maschile plurale)."
-     },
-     {
-      "sentence": "Per proteggersi, gli esperti consigliano alcune regole semplici: usare password lunghe e diverse per ogni sito, non aprire email strane e cambiare la password ogni tanto.",
-      "point": "Infinito per dare consigli generali",
-      "explanation": "Per dare regole generali, l'italiano usa spesso l'infinito: 'usare... non aprire... cambiare...'. 'Per proteggersi' significa 'in order to protect yourself'.",
-      "why_tricky": "L'infinito negativo è 'non + infinito' ('non aprire'), diverso dalle forme dell'imperativo negativo che lo studente si aspetta."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "ogni tanto",
-      "meaning": "every now and then, occasionally",
-      "example": "Ogni tanto vado al cinema."
-     },
-     {
-      "phrase": "al sicuro",
-      "meaning": "safe, in a safe place",
-      "example": "Metti i documenti al sicuro."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa è successo a Trenitalia?",
-      "type": "open"
-     },
-     {
-      "q": "Quali dati dei clienti non sono stati toccati?",
-      "type": "open"
-     },
-     {
-      "q": "Quali consigli danno gli esperti per proteggere i nostri dati?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Come proteggi i tuoi dati personali su internet? Scrivi alcune frasi con i tuoi consigli."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-volkswagen-fabbriche-tagli",
-   "title": "Nuovi tagli in arrivo per Volkswagen, chiudono 4 fabbriche",
-   "source": "ANSA",
-   "date": "2026-07-01",
-   "level": "A2-B1",
-   "topics": [
-    "economia",
-    "lavoro"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-volkswagen-fabbriche-tagli",
-    "revision": 1,
-    "meta": {
-     "title": "Nuovi tagli in arrivo per Volkswagen, chiudono 4 fabbriche",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_motori/notizie/industria_analisi/2026/06/26/media-vw-intende-tagliare-altri-50.000-posti-di-lavoro_9e9b4faf-8d1e-4a77-9727-2805b22a95bd.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "economia",
-      "lavoro"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Volkswagen, the big German carmaker, has announced new cuts. According to some reports, the company wants to close four factories and cut jobs. Thousands of workers thus risk losing their jobs. The company explains that it has to save money because it sells fewer cars than before. Moreover, the competition from Chinese electric cars is stronger and stronger. The plan is not final yet: first it has to be discussed and approved by the company's bosses in the month of July.\n\nThe news worries workers and the unions, which defend the workers' rights. For Germany, where cars are an important sector, this is a bad sign. Many people wonder how work will change in the coming years. Some think that electric cars will create new jobs. Others, instead, are afraid and ask the government for help. One thing is certain: the car industry in Europe is living through a period of great change.",
-    "resumen_es": "Volkswagen, la grande casa automobilistica tedesca, ha annunciato nuovi tagli. Secondo alcune notizie, l'azienda vuole chiudere quattro fabbriche e tagliare posti di lavoro. Migliaia di operai rischiano così di perdere il lavoro. La società spiega che deve risparmiare denaro perché vende meno automobili di prima. La concorrenza delle auto elettriche cinesi, inoltre, è sempre più forte. Il piano non è ancora definitivo: prima deve essere discusso e approvato dai capi dell'azienda nel mese di luglio.\n\nLa notizia preoccupa i lavoratori e i sindacati, che difendono i diritti degli operai. Per la Germania, dove le automobili sono un settore importante, si tratta di un brutto segnale. Molte persone si chiedono come cambierà il lavoro nei prossimi anni. Alcuni pensano che le auto elettriche creeranno nuovi posti di lavoro. Altri, invece, hanno paura e chiedono aiuto al governo. Una cosa è certa: l'industria dell'automobile in Europa vive un periodo di grandi cambiamenti.",
-    "vocab": [
-     {
-      "front": "casa automobilistica",
-      "pos": "noun",
-      "back": "carmaker, car manufacturer",
-      "example": "Volkswagen è una casa automobilistica tedesca.",
-      "tier": "B1"
-     },
-     {
-      "front": "taglio",
-      "pos": "noun",
-      "back": "cut (to jobs or budget)",
-      "example": "L'azienda annuncia nuovi tagli.",
-      "tier": "B1"
-     },
-     {
-      "front": "fabbrica",
-      "pos": "noun",
-      "back": "factory",
-      "example": "Lavora in una fabbrica di auto.",
-      "tier": "A2"
-     },
-     {
-      "front": "posto di lavoro",
-      "pos": "noun",
-      "back": "job, position",
-      "example": "Ha perso il posto di lavoro.",
-      "tier": "A2"
-     },
-     {
-      "front": "operaio",
-      "pos": "noun",
-      "back": "factory worker",
-      "example": "Gli operai protestano davanti alla fabbrica.",
-      "tier": "A2"
-     },
-     {
-      "front": "rischiare di",
-      "pos": "verb",
-      "back": "to risk (doing something)",
-      "example": "Rischia di arrivare tardi.",
-      "tier": "B1"
-     },
-     {
-      "front": "risparmiare",
-      "pos": "verb",
-      "back": "to save (money)",
-      "example": "Voglio risparmiare per le vacanze.",
-      "tier": "A2"
-     },
-     {
-      "front": "concorrenza",
-      "pos": "noun",
-      "back": "competition",
-      "example": "La concorrenza è molto forte.",
-      "tier": "B1"
-     },
-     {
-      "front": "sindacato",
-      "pos": "noun",
-      "back": "trade union",
-      "example": "Il sindacato difende i lavoratori.",
-      "tier": "B1"
-     },
-     {
-      "front": "diritto",
-      "pos": "noun",
-      "back": "right (entitlement)",
-      "example": "Ogni lavoratore ha dei diritti.",
-      "tier": "A2"
-     },
-     {
-      "front": "settore",
-      "pos": "noun",
-      "back": "sector",
-      "example": "Il settore del turismo cresce.",
-      "tier": "B1"
-     },
-     {
-      "front": "avere paura",
-      "pos": "phrase",
-      "back": "to be afraid",
-      "example": "Molti hanno paura del futuro.",
-      "tier": "A2"
-     },
-     {
-      "front": "cambiamento",
-      "pos": "noun",
-      "back": "change",
-      "example": "Il mondo del lavoro vive un grande cambiamento.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La società spiega che deve risparmiare denaro perché vende meno automobili di prima.",
-      "point": "'dovere' + infinito (obbligo)",
-      "explanation": "'Deve risparmiare' significa 'has to save'. I verbi modali come 'dovere', 'potere', 'volere' sono seguiti dall'infinito.",
-      "why_tricky": "Il modale è coniugato ma il verbo principale resta all'infinito, e 'meno... di prima' esprime 'less than before'."
-     },
-     {
-      "sentence": "Il piano non è ancora definitivo: prima deve essere discusso e approvato dai capi dell'azienda nel mese di luglio.",
-      "point": "Passivo con l'agente 'dai'",
-      "explanation": "'Deve essere discusso e approvato dai capi' è un passivo con l'agente introdotto da 'da' (da + i = dai): 'must be discussed and approved by the bosses'.",
-      "why_tricky": "Unisce un modale ('deve'), il passivo ('essere' + participio) e l'agente 'dai' in un'unica frase."
-     },
-     {
-      "sentence": "Alcuni pensano che le auto elettriche creeranno nuovi posti di lavoro.",
-      "point": "Futuro semplice (creeranno)",
-      "explanation": "'Creeranno' è il futuro di 'creare' (they will create). Le desinenze del futuro sono uguali per tutti i verbi: -ò, -ai, -à, -emo, -ete, -anno.",
-      "why_tricky": "'Creare' mantiene la doppia 'e' (cre-eranno), che lo studente spesso scrive male."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "avere paura",
-      "meaning": "to be afraid",
-      "example": "Ho paura dei cani grandi."
-     },
-     {
-      "phrase": "una cosa è certa",
-      "meaning": "one thing is certain",
-      "example": "Una cosa è certa: dobbiamo cambiare."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa vuole fare Volkswagen secondo le notizie?",
-      "type": "open"
-     },
-     {
-      "q": "Perché l'azienda deve risparmiare denaro?",
-      "type": "open"
-     },
-     {
-      "q": "Come reagiscono i lavoratori e i sindacati?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, le auto elettriche sono una buona idea per il futuro? Scrivi la tua opinione con qualche esempio."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-01-carlo-camilla-buckingham",
-   "title": "È bufera sull'addio di Carlo e Camilla a Buckingham Palace",
-   "source": "ANSA",
-   "date": "2026-07-01",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "attualità"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-01-carlo-camilla-buckingham",
-    "revision": 1,
-    "meta": {
-     "title": "È bufera sull'addio di Carlo e Camilla a Buckingham Palace",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/mondo/2026/06/26/-e-bufera-sulladdio-di-carlo-e-camilla-a-buckingham-palace-_231e47f0-bdb9-4db6-a8f9-1ba91ae2960f.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-07-01",
-     "tags": [
-      "cultura",
-      "attualità"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Great Britain people are talking a lot about the decision of King Charles and Queen Camilla to leave Buckingham Palace. The famous London palace needs major renovation work, which costs a huge amount. For this, the king and queen want to live in another residence. Many people, however, criticise this choice. In their view, too much public money is being spent at a time when so many families struggle to make ends meet.\n\nNot everyone agrees with these criticisms. Some point out that King Charles pays a lot of taxes and is among the richest in the country. Others say that the palace is a historic symbol and that it is right to keep it in good condition. The debate divides British public opinion. The royal family, for its part, is trying to show itself as more modern and closer to ordinary people. It is not easy to find a balance between tradition and the needs of today.",
-    "resumen_es": "In Gran Bretagna si parla molto della decisione del re Carlo e della regina Camilla di lasciare Buckingham Palace. Il famoso palazzo di Londra ha bisogno di grandi lavori di ristrutturazione, che costano moltissimo. Per questo, il re e la regina vogliono vivere in un'altra residenza. Molte persone però criticano questa scelta. Secondo loro, si spendono troppi soldi pubblici in un momento in cui tante famiglie fanno fatica ad arrivare a fine mese.\n\nNon tutti sono d'accordo con queste critiche. Alcuni ricordano che il re Carlo paga molte tasse ed è tra i più ricchi del Paese. Altri dicono che il palazzo è un simbolo storico e che è giusto tenerlo in buone condizioni. Il dibattito divide l'opinione pubblica britannica. La famiglia reale, dal canto suo, cerca di mostrarsi più moderna e vicina alla gente. Non è facile trovare un equilibrio tra la tradizione e le esigenze di oggi.",
-    "vocab": [
-     {
-      "front": "re",
-      "pos": "noun",
-      "back": "king",
-      "example": "Il re ha fatto un discorso.",
-      "tier": "A2"
-     },
-     {
-      "front": "regina",
-      "pos": "noun",
-      "back": "queen",
-      "example": "La regina è molto amata.",
-      "tier": "A2"
-     },
-     {
-      "front": "palazzo",
-      "pos": "noun",
-      "back": "palace, large building",
-      "example": "Vivono in un grande palazzo.",
-      "tier": "A2"
-     },
-     {
-      "front": "ristrutturazione",
-      "pos": "noun",
-      "back": "renovation",
-      "example": "La ristrutturazione della casa è cara.",
-      "tier": "B1"
-     },
-     {
-      "front": "residenza",
-      "pos": "noun",
-      "back": "residence, home",
-      "example": "La nuova residenza è fuori città.",
-      "tier": "B1"
-     },
-     {
-      "front": "criticare",
-      "pos": "verb",
-      "back": "to criticise",
-      "example": "Molti criticano questa decisione.",
-      "tier": "B1"
-     },
-     {
-      "front": "soldi pubblici",
-      "pos": "noun",
-      "back": "public money",
-      "example": "Non bisogna sprecare i soldi pubblici.",
-      "tier": "B1"
-     },
-     {
-      "front": "fare fatica a",
-      "pos": "phrase",
-      "back": "to struggle to",
-      "example": "Faccio fatica a svegliarmi presto.",
-      "tier": "B1"
-     },
-     {
-      "front": "arrivare a fine mese",
-      "pos": "phrase",
-      "back": "to make ends meet",
-      "example": "Con questo stipendio è difficile arrivare a fine mese.",
-      "tier": "B1"
-     },
-     {
-      "front": "tasse",
-      "pos": "noun",
-      "back": "taxes",
-      "example": "Tutti devono pagare le tasse.",
-      "tier": "A2"
-     },
-     {
-      "front": "essere d'accordo",
-      "pos": "phrase",
-      "back": "to agree",
-      "example": "Non sono d'accordo con te.",
-      "tier": "A2"
-     },
-     {
-      "front": "opinione pubblica",
-      "pos": "noun",
-      "back": "public opinion",
-      "example": "L'opinione pubblica è divisa.",
-      "tier": "B1"
-     },
-     {
-      "front": "esigenza",
-      "pos": "noun",
-      "back": "need, requirement",
-      "example": "Ogni famiglia ha le sue esigenze.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "In Gran Bretagna si parla molto della decisione del re Carlo e della regina Camilla di lasciare Buckingham Palace.",
-      "point": "'si' impersonale (si parla)",
-      "explanation": "'Si parla' significa 'people talk / it is talked about'. Il 'si' impersonale + verbo alla terza persona nasconde chi compie l'azione.",
-      "why_tricky": "'della... della...' sono 'di + la' (of the), e l'inglese userebbe un passivo o 'people', non 'si'."
-     },
-     {
-      "sentence": "Secondo loro, si spendono troppi soldi pubblici in un momento in cui tante famiglie fanno fatica ad arrivare a fine mese.",
-      "point": "'si' passivante con accordo al plurale (si spendono)",
-      "explanation": "Quando la costruzione con 'si' ha un oggetto plurale, il verbo va al plurale: 'si spendono troppi soldi' = 'too much money is spent'.",
-      "why_tricky": "Il verbo concorda con 'soldi' (plurale), quindi è 'spendono', non 'spende'; inoltre 'ad arrivare' aggiunge una 'd' davanti a vocale."
-     },
-     {
-      "sentence": "Altri dicono che il palazzo è un simbolo storico e che è giusto tenerlo in buone condizioni.",
-      "point": "'è giusto' + infinito con pronome attaccato (tenerlo)",
-      "explanation": "'È giusto tenerlo' = 'it is right to keep it'. Con l'infinito, il pronome oggetto 'lo' si attacca alla fine: tenere + lo = tenerlo.",
-      "why_tricky": "Il pronome si unisce all'infinito, che perde la -e finale, uno schema che sorprende chi comincia."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "arrivare a fine mese",
-      "meaning": "to make it to the end of the month financially, make ends meet",
-      "example": "Molte famiglie faticano ad arrivare a fine mese."
-     },
-     {
-      "phrase": "dal canto suo",
-      "meaning": "for its/his/her part",
-      "example": "Il governo, dal canto suo, promette aiuti."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché il re Carlo e la regina Camilla vogliono lasciare Buckingham Palace?",
-      "type": "open"
-     },
-     {
-      "q": "Perché alcune persone criticano questa decisione?",
-      "type": "open"
-     },
-     {
-      "q": "Quali argomenti usano invece quelli che difendono la scelta?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, è giusto spendere soldi pubblici per i palazzi storici? Scrivi la tua opinione."
-   }
-  },
-  {
-   "pack_id": "feed-2026-06-30-tifosi-norvegia-mondiali",
-   "title": "Mondiali 2026, i tifosi della Norvegia remano in supporto alla squadra",
-   "source": "ANSA",
-   "date": "2026-06-26",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "calcio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-06-30-tifosi-norvegia-mondiali",
-    "revision": 1,
-    "meta": {
-     "title": "Mondiali 2026, i tifosi della Norvegia remano in supporto alla squadra",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/videogallery/2026/06/26/mondiali-2026-i-tifosi-della-norvegia-remano-in-supporto-alla-squadra_b73ae79d-b995-451a-b651-2a8487d5d33f.html",
-     "date_published": "2026-06-26",
-     "date_processed": "2026-06-30",
-     "tags": [
-      "sport",
-      "calcio"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "At the 2026 football World Cup, the fans of Norway make a special gesture. It is called the Viking row. People move their arms back and forth, like rowers on a boat. It is a cheerful way to support the national team. The gesture is simple and everyone can do it together.\n\nNow this gesture has become very popular in Norway. People do it in many different places. They do it on the oil platforms in the middle of the sea. They also do it in hospitals and in homes. For the fans it is a way to feel united, even when they are far from the stadium. Football, in this way, becomes a big party for the whole country. Many videos of the gesture go around on social media and make people smile.",
-    "resumen_es": "Ai Mondiali di calcio del 2026, i tifosi della Norvegia fanno un gesto speciale. Si chiama remata vichinga. Le persone muovono le braccia avanti e indietro, come i vogatori su una barca. È un modo allegro per sostenere la squadra nazionale. Il gesto è semplice e tutti possono farlo insieme.\n\nAdesso questo gesto è diventato molto popolare in Norvegia. Le persone lo fanno in tanti luoghi diversi. Lo fanno sulle piattaforme petrolifere in mezzo al mare. Lo fanno anche negli ospedali e nelle case. Per i tifosi è un modo per sentirsi uniti, anche quando sono lontani dallo stadio. Il calcio, così, diventa una grande festa per tutto il paese. Molti video del gesto girano sui social e fanno sorridere.",
-    "vocab": [
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi cantano allo stadio.",
-      "tier": "A2"
-     },
-     {
-      "front": "il gesto",
-      "pos": "noun",
-      "back": "gesture",
-      "example": "Fa sempre lo stesso gesto con la mano.",
-      "tier": "A2"
-     },
-     {
-      "front": "la squadra",
-      "pos": "noun",
-      "back": "team",
-      "example": "La mia squadra ha vinto la partita.",
-      "tier": "A2"
-     },
-     {
-      "front": "sostenere",
-      "pos": "verb",
-      "back": "to support",
-      "example": "Tutti vogliono sostenere la squadra nazionale.",
-      "tier": "B1"
-     },
-     {
-      "front": "muovere",
-      "pos": "verb",
-      "back": "to move",
-      "example": "Muove le braccia molto velocemente.",
-      "tier": "A2"
-     },
-     {
-      "front": "il braccio (le braccia)",
-      "pos": "noun",
-      "back": "arm (arms)",
-      "example": "Alza le braccia in alto.",
-      "tier": "A2"
-     },
-     {
-      "front": "allegro",
-      "pos": "adj",
-      "back": "cheerful, happy",
-      "example": "È una canzone allegra.",
-      "tier": "A2"
-     },
-     {
-      "front": "popolare",
-      "pos": "adj",
-      "back": "popular",
-      "example": "Questo gioco è molto popolare.",
-      "tier": "A2"
-     },
-     {
-      "front": "il luogo",
-      "pos": "noun",
-      "back": "place",
-      "example": "Visitiamo molti luoghi diversi.",
-      "tier": "A2"
-     },
-     {
-      "front": "la piattaforma petrolifera",
-      "pos": "phrase",
-      "back": "oil platform",
-      "example": "Lavora su una piattaforma petrolifera.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'ospedale",
-      "pos": "noun",
-      "back": "hospital",
-      "example": "Mia madre lavora in ospedale.",
-      "tier": "A2"
-     },
-     {
-      "front": "sentirsi",
-      "pos": "verb",
-      "back": "to feel",
-      "example": "Mi sento molto bene oggi.",
-      "tier": "A2"
-     },
-     {
-      "front": "unito",
-      "pos": "adj",
-      "back": "united, close",
-      "example": "La mia famiglia è molto unita.",
-      "tier": "A2"
-     },
-     {
-      "front": "lo stadio",
-      "pos": "noun",
-      "back": "stadium",
-      "example": "Andiamo allo stadio domenica.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Le persone muovono le braccia avanti e indietro, come i vogatori su una barca.",
-      "point": "Presente del verbo muovere",
-      "explanation": "Muovere è un verbo della seconda coniugazione. Alla terza persona plurale diventa muovono. La parola come introduce un paragone.",
-      "why_tricky": "Il plurale di il braccio è irregolare: le braccia, femminile."
-     },
-     {
-      "sentence": "Adesso questo gesto è diventato molto popolare in Norvegia.",
-      "point": "Passato prossimo con essere (è diventato)",
-      "explanation": "Il verbo diventare usa l'ausiliare essere. Il participio diventato cambia secondo il soggetto: gesto è maschile singolare.",
-      "why_tricky": "Con essere il participio concorda con il soggetto; con avere normalmente no."
-     },
-     {
-      "sentence": "Per i tifosi è un modo per sentirsi uniti, anche quando sono lontani dallo stadio.",
-      "point": "Verbo riflessivo all'infinito (sentirsi)",
-      "explanation": "Sentirsi è la forma riflessiva di sentire. L'aggettivo uniti concorda con i tifosi, maschile plurale.",
-      "why_tricky": "Il pronome si si attacca alla fine dell'infinito: sentire più si uguale sentirsi."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare il tifo per",
-      "meaning": "to cheer for, to support a team",
-      "example": "Faccio il tifo per la squadra della mia città."
-     },
-     {
-      "phrase": "essere al settimo cielo",
-      "meaning": "to be over the moon, very happy",
-      "example": "Quando la Norvegia ha segnato, i tifosi erano al settimo cielo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che gesto fanno i tifosi della Norvegia ai Mondiali?",
-      "type": "open"
-     },
-     {
-      "q": "In quali luoghi le persone fanno questo gesto?",
-      "type": "open"
-     },
-     {
-      "q": "Perché per i tifosi è importante questo gesto?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ti piace il calcio? Scrivi qualche frase sul tuo sport preferito e su come tifi per la tua squadra."
    }
   }
  ]
