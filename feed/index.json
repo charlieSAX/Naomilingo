@@ -1,7 +1,475 @@
 {
- "generated_at": "2026-07-20T08:12:35.716547+00:00",
+ "generated_at": "2026-07-20T20:11:13.815189+00:00",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-20-mosca-espelle-addetto",
+   "title": "Mosca espelle l'addetto militare italiano, Tajani: 'Plateale ritorsione'",
+   "source": "ANSA",
+   "date": "2026-07-20",
+   "level": "A2-B1",
+   "topics": [
+    "politica",
+    "Russia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-mosca-espelle-addetto",
+    "revision": 1,
+    "meta": {
+     "title": "Mosca espelle l'addetto militare italiano, Tajani: 'Plateale ritorsione'",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/20/tajani-mosca-ha-espulso-laddetto-militare-italiano-e-un-collaboratore-senza-motivo_cf6768e4-c8e4-4c77-b449-dbc29a576a05.html",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "politica",
+      "Russia"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Russia has expelled the Italian military attaché in Moscow and one of his collaborators. Foreign Minister Antonio Tajani spoke of a blatant retaliation without any reason. The Russian decision comes after Italy expelled two Russian military attachés, accused of espionage in an investigation by the Rome prosecutor's office.\n\nThis episode shows the growing tension between Rome and Moscow. Expulsions of diplomats are a classic tool in crises between states: when one country sends a diplomat away, the other often responds with the same measure. In the coming days the Italian government will decide how to respond, while relations between the two countries remain very difficult because of the war in Ukraine, which has changed the relationship between Russia and European countries.",
+    "resumen_es": "La Russia ha espulso l'addetto militare italiano a Mosca e un suo collaboratore. Il ministro degli Esteri Antonio Tajani ha parlato di una ritorsione plateale e senza motivo. La decisione russa arriva dopo che l'Italia ha espulso due addetti militari russi, accusati di spionaggio in un'inchiesta della Procura di Roma.\n\nQuesto episodio mostra la tensione crescente tra Roma e Mosca. Le espulsioni di diplomatici sono uno strumento classico nelle crisi tra Stati: quando un Paese manda via un diplomatico, l'altro spesso risponde con la stessa misura. Nei prossimi giorni il governo italiano deciderà come rispondere, mentre le relazioni tra i due Paesi restano molto difficili a causa della guerra in Ucraina, che ha cambiato i rapporti tra la Russia e i Paesi europei.",
+    "vocab": [
+     {
+      "front": "espellere",
+      "pos": "verb",
+      "back": "to expel",
+      "example": "Il governo ha deciso di espellere due diplomatici.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'addetto militare",
+      "pos": "noun",
+      "back": "military attaché",
+      "example": "L'addetto militare lavora nell'ambasciata.",
+      "tier": "B2"
+     },
+     {
+      "front": "la ritorsione",
+      "pos": "noun",
+      "back": "retaliation",
+      "example": "La decisione è stata una ritorsione politica.",
+      "tier": "B2"
+     },
+     {
+      "front": "senza motivo",
+      "pos": "phrase",
+      "back": "without reason",
+      "example": "Si è arrabbiato senza motivo.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'inchiesta",
+      "pos": "noun",
+      "back": "investigation, inquiry",
+      "example": "La procura ha aperto un'inchiesta.",
+      "tier": "B1"
+     },
+     {
+      "front": "lo spionaggio",
+      "pos": "noun",
+      "back": "espionage, spying",
+      "example": "È stato accusato di spionaggio.",
+      "tier": "B2"
+     },
+     {
+      "front": "la tensione",
+      "pos": "noun",
+      "back": "tension",
+      "example": "C'è molta tensione tra i due Paesi.",
+      "tier": "B1"
+     },
+     {
+      "front": "crescente",
+      "pos": "adj",
+      "back": "growing, increasing",
+      "example": "Il problema causa una preoccupazione crescente.",
+      "tier": "B2"
+     },
+     {
+      "front": "mandare via",
+      "pos": "verb",
+      "back": "to send away",
+      "example": "Hanno mandato via il giornalista.",
+      "tier": "B1"
+     },
+     {
+      "front": "la misura",
+      "pos": "noun",
+      "back": "measure, step",
+      "example": "Il governo ha preso misure importanti.",
+      "tier": "B1"
+     },
+     {
+      "front": "le relazioni",
+      "pos": "noun",
+      "back": "relations",
+      "example": "Le relazioni tra i due Stati sono difficili.",
+      "tier": "B1"
+     },
+     {
+      "front": "a causa di",
+      "pos": "phrase",
+      "back": "because of",
+      "example": "Il volo è in ritardo a causa del tempo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La decisione russa arriva dopo che l'Italia ha espulso due addetti militari russi, accusati di spionaggio in un'inchiesta della Procura di Roma.",
+      "point": "Dopo che + passato prossimo; participle used as adjective",
+      "explanation": "'Dopo che' introduces a time clause with the passato prossimo 'ha espulso'. The participle 'accusati' works like an adjective and agrees with 'addetti militari russi' (masculine plural).",
+      "why_tricky": "Learners often use the infinitive after 'dopo' ('dopo espellere') instead of 'dopo che' + conjugated verb, and forget the plural agreement on 'accusati'."
+     },
+     {
+      "sentence": "quando un Paese manda via un diplomatico, l'altro spesso risponde con la stessa misura",
+      "point": "Quando + present tense for general truths",
+      "explanation": "Both verbs are in the present ('manda', 'risponde') because the sentence describes something that happens in general, not one specific event.",
+      "why_tricky": "English can use 'when' plus present too, so the structure is friendly, but learners sometimes slip into the future after 'quando' when the meaning is habitual."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "mandare via",
+      "meaning": "to send away, to kick out",
+      "example": "Il ristorante ha mandato via i clienti maleducati."
+     },
+     {
+      "phrase": "senza motivo",
+      "meaning": "for no reason",
+      "example": "Non puoi trattarmi male senza motivo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Chi ha espulso la Russia e come ha reagito il ministro Tajani?",
+      "type": "open"
+     },
+     {
+      "q": "Perché la Russia ha preso questa decisione, secondo il testo?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa succede spesso quando un Paese manda via un diplomatico?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, espellere i diplomatici è una risposta utile nelle crisi tra Paesi? Scrivi qualche riga con la tua opinione."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-20-peluche-ia-privacy",
+   "title": "Sempre più giocattoli con l'IA, ma con peluche smart a rischio la privacy",
+   "source": "ANSA",
+   "date": "2026-07-20",
+   "level": "A2-B1",
+   "topics": [
+    "tecnologia",
+    "famiglia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-peluche-ia-privacy",
+    "revision": 1,
+    "meta": {
+     "title": "Sempre più giocattoli con l'IA, ma con peluche smart a rischio la privacy",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/20/arriva-in-cina-imoochi-il-peluche-con-lia-che-fa-compagnia-ai-bambini_9cb8024a-930f-4478-aa2b-d742d20d55da.html",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "tecnologia",
+      "famiglia"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "More and more toys with artificial intelligence are arriving. In China, iMoochi has appeared, a smart plush toy that talks and keeps children company. These 'pet robots' listen to everything that happens in the house and simulate empathy: they seem to understand the emotions of small children. The market for these products has passed 25 billion dollars.\n\nExperts, however, are raising an alarm about privacy. A plush toy that records a child's words collects very sensitive data, and it is not always clear where this information ends up. Families should therefore read the terms of use carefully and decide with care. The issue matters because children cannot defend themselves on their own and spend many hours with their toys.",
+    "resumen_es": "Arrivano sempre più giocattoli con l'intelligenza artificiale. In Cina è arrivato iMoochi, un peluche smart che parla e fa compagnia ai bambini. Questi 'pet robot' ascoltano tutto quello che succede in casa e simulano l'empatia: sembrano capire le emozioni dei più piccoli. Il mercato di questi prodotti ha superato i 25 miliardi di dollari.\n\nGli esperti però lanciano un allarme sulla privacy. Un peluche che registra le parole di un bambino raccoglie dati molto delicati, e non è sempre chiaro dove finiscono queste informazioni. Le famiglie devono quindi leggere bene le condizioni d'uso e decidere con attenzione. Il tema è importante perché i bambini non possono difendersi da soli e passano molte ore con i loro giochi.",
+    "vocab": [
+     {
+      "front": "il giocattolo",
+      "pos": "noun",
+      "back": "toy",
+      "example": "Il bambino gioca con i suoi giocattoli.",
+      "tier": "B1"
+     },
+     {
+      "front": "il peluche",
+      "pos": "noun",
+      "back": "plush toy, stuffed animal",
+      "example": "Mia figlia dorme con il suo peluche preferito.",
+      "tier": "B1"
+     },
+     {
+      "front": "fare compagnia",
+      "pos": "phrase",
+      "back": "to keep company",
+      "example": "Il cane fa compagnia alla nonna.",
+      "tier": "B1"
+     },
+     {
+      "front": "ascoltare",
+      "pos": "verb",
+      "back": "to listen to",
+      "example": "Il dispositivo ascolta le nostre parole.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'empatia",
+      "pos": "noun",
+      "back": "empathy",
+      "example": "Mostra molta empatia con gli amici.",
+      "tier": "B2"
+     },
+     {
+      "front": "superare",
+      "pos": "verb",
+      "back": "to exceed, to pass",
+      "example": "Le vendite hanno superato ogni previsione.",
+      "tier": "B1"
+     },
+     {
+      "front": "lanciare un allarme",
+      "pos": "phrase",
+      "back": "to raise an alarm",
+      "example": "I medici lanciano un allarme sul caldo.",
+      "tier": "B2"
+     },
+     {
+      "front": "registrare",
+      "pos": "verb",
+      "back": "to record",
+      "example": "L'app registra la voce degli utenti.",
+      "tier": "B1"
+     },
+     {
+      "front": "raccogliere dati",
+      "pos": "phrase",
+      "back": "to collect data",
+      "example": "Molti siti raccolgono dati personali.",
+      "tier": "B1"
+     },
+     {
+      "front": "delicato",
+      "pos": "adj",
+      "back": "sensitive, delicate",
+      "example": "È una questione molto delicata.",
+      "tier": "B1"
+     },
+     {
+      "front": "le condizioni d'uso",
+      "pos": "phrase",
+      "back": "terms of use",
+      "example": "Nessuno legge le condizioni d'uso delle app.",
+      "tier": "B2"
+     },
+     {
+      "front": "difendersi",
+      "pos": "verb",
+      "back": "to defend oneself",
+      "example": "I bambini non sanno difendersi da questi rischi.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Un peluche che registra le parole di un bambino raccoglie dati molto delicati, e non è sempre chiaro dove finiscono queste informazioni.",
+      "point": "Relative clause with 'che' and indirect question with 'dove'",
+      "explanation": "'Che registra le parole' describes the plush toy. In the second part, 'dove finiscono queste informazioni' is an indirect question: the verb comes before the subject.",
+      "why_tricky": "In indirect questions Italian often puts the verb first ('dove finiscono queste informazioni'), while English keeps subject-verb order ('where this information ends up')."
+     },
+     {
+      "sentence": "Il tema è importante perché i bambini non possono difendersi da soli e passano molte ore con i loro giochi.",
+      "point": "Reflexive infinitive after modal verb; 'da soli'",
+      "explanation": "After 'possono' the reflexive verb stays in the infinitive with the pronoun attached: 'difendersi'. 'Da soli' means 'on their own' and agrees with the subject.",
+      "why_tricky": "Learners often separate the pronoun ('non possono si difendere') or forget that 'da soli' changes form ('da sola', 'da sole') depending on the subject."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fare compagnia",
+      "meaning": "to keep someone company",
+      "example": "Vieni a farmi compagnia mentre cucino?"
+     },
+     {
+      "phrase": "da soli",
+      "meaning": "on their own, by themselves",
+      "example": "I ragazzi hanno organizzato tutto da soli."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa fa iMoochi e dove è arrivato?",
+      "type": "open"
+     },
+     {
+      "q": "Perché gli esperti sono preoccupati per la privacy?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa devono fare le famiglie, secondo il testo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Compreresti un peluche con l'intelligenza artificiale per un bambino? Scrivi qualche riga con la tua opinione e le tue ragioni."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-20-addio-keegan",
+   "title": "Addio a Kevin Keegan, idolo inglese due volte Pallone d'oro",
+   "source": "ANSA",
+   "date": "2026-07-20",
+   "level": "A2-B1",
+   "topics": [
+    "sport",
+    "calcio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-20-addio-keegan",
+    "revision": 1,
+    "meta": {
+     "title": "Addio a Kevin Keegan, idolo inglese due volte Pallone d'oro",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/morto-lex-attaccante-inglese-keegan-vinse-due-palloni-doro_06b9c2e3-0183-4890-8428-3134cc1336c0.html",
+     "date_published": "2026-07-20",
+     "date_processed": "2026-07-20",
+     "tags": [
+      "sport",
+      "calcio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Football says goodbye to Kevin Keegan, who has died at 75. The English striker won the Ballon d'Or twice and was an idol at Liverpool and for the English national team. Small in stature but a giant on the pitch, he was called 'Mighty Mouse'. Keegan had publicly announced that he had a tumor.\n\nKeegan remains a beloved figure in the world of English football. After his playing career he also worked as a manager, and he is remembered in a special way in Newcastle. For many fans he represented a simpler and more romantic kind of football. In the coming days, clubs and players from all over the world will pay tribute to his career and his story, and the newspapers will dedicate many pages to his life on and off the pitch.",
+    "resumen_es": "Il calcio dice addio a Kevin Keegan, morto a 75 anni. L'attaccante inglese ha vinto due volte il Pallone d'Oro ed è stato un idolo del Liverpool e della nazionale inglese. Piccolo di statura ma gigante in campo, era chiamato 'Mighty Mouse'. Keegan aveva annunciato pubblicamente di avere un tumore.\n\nKeegan resta una figura amata nel mondo del calcio inglese. Dopo la carriera da giocatore ha lavorato anche come allenatore, ed è ricordato in modo speciale a Newcastle. Per molti tifosi rappresentava un calcio più semplice e romantico. Nei prossimi giorni club e giocatori di tutto il mondo renderanno omaggio alla sua carriera e alla sua storia, e i giornali dedicheranno molte pagine alla sua vita dentro e fuori dal campo.",
+    "vocab": [
+     {
+      "front": "dire addio",
+      "pos": "phrase",
+      "back": "to say goodbye, to bid farewell",
+      "example": "Il pubblico ha detto addio al grande attore.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'attaccante",
+      "pos": "noun",
+      "back": "striker, forward",
+      "example": "L'attaccante ha segnato due gol.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'idolo",
+      "pos": "noun",
+      "back": "idol",
+      "example": "Era l'idolo dei tifosi.",
+      "tier": "B1"
+     },
+     {
+      "front": "piccolo di statura",
+      "pos": "phrase",
+      "back": "small in stature, short",
+      "example": "È piccolo di statura ma molto forte.",
+      "tier": "B2"
+     },
+     {
+      "front": "il campo",
+      "pos": "noun",
+      "back": "pitch, field",
+      "example": "I giocatori entrano in campo.",
+      "tier": "B1"
+     },
+     {
+      "front": "annunciare",
+      "pos": "verb",
+      "back": "to announce",
+      "example": "Ha annunciato il suo ritiro dal calcio.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'allenatore",
+      "pos": "noun",
+      "back": "coach, manager",
+      "example": "L'allenatore ha cambiato la squadra.",
+      "tier": "B1"
+     },
+     {
+      "front": "il tifoso",
+      "pos": "noun",
+      "back": "fan, supporter",
+      "example": "I tifosi cantano per la loro squadra.",
+      "tier": "B1"
+     },
+     {
+      "front": "rendere omaggio",
+      "pos": "phrase",
+      "back": "to pay tribute",
+      "example": "La città ha reso omaggio ai suoi eroi.",
+      "tier": "B2"
+     },
+     {
+      "front": "la carriera",
+      "pos": "noun",
+      "back": "career",
+      "example": "Ha avuto una carriera lunga e piena di successi.",
+      "tier": "B1"
+     },
+     {
+      "front": "dedicare",
+      "pos": "verb",
+      "back": "to dedicate",
+      "example": "Ha dedicato la vittoria alla famiglia.",
+      "tier": "B1"
+     },
+     {
+      "front": "fuori dal campo",
+      "pos": "phrase",
+      "back": "off the pitch",
+      "example": "Anche fuori dal campo era una persona gentile.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Keegan aveva annunciato pubblicamente di avere un tumore.",
+      "point": "Trapassato prossimo + di + infinitive",
+      "explanation": "'Aveva annunciato' (trapassato prossimo) shows an action that happened before the events of the article. After verbs like 'annunciare', Italian uses 'di' + infinitive when the subject is the same.",
+      "why_tricky": "English uses 'that he had a tumor' with a full clause, while Italian prefers the compact 'di avere'. Learners often insert 'che' where 'di' + infinitive is more natural."
+     },
+     {
+      "sentence": "Per molti tifosi rappresentava un calcio più semplice e romantico.",
+      "point": "Imperfetto for description and meaning in the past",
+      "explanation": "'Rappresentava' is in the imperfetto because it describes what Keegan meant to fans over a long period, not a single completed event.",
+      "why_tricky": "Choosing between imperfetto and passato prossimo is one of the hardest points in Italian: here the meaning is descriptive and ongoing, so the imperfetto is required."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dire addio",
+      "meaning": "to say goodbye for ever",
+      "example": "Con questa partita dice addio al calcio giocato."
+     },
+     {
+      "phrase": "rendere omaggio",
+      "meaning": "to pay tribute to someone",
+      "example": "Il concerto rende omaggio a un grande musicista."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Chi era Kevin Keegan e quali premi importanti ha vinto?",
+      "type": "open"
+     },
+     {
+      "q": "Perché era chiamato 'Mighty Mouse'?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa succederà nei prossimi giorni, secondo il testo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "C'è uno sportivo che per te rappresenta qualcosa di speciale? Scrivi qualche riga per spiegare chi è e perché è importante per te."
+   }
+  },
   {
    "pack_id": "feed-2026-07-20-settimana-scioperi",
    "title": "Settimana di scioperi: stop di treni, aerei e navi. Si parte oggi in alcune città",
@@ -5969,487 +6437,6 @@
      }
     ],
     "opinion_prompt": "Secondo te, come dovrebbero prepararsi le città per affrontare ondate di caldo sempre più frequenti?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-sam-neill-addio",
-   "title": "Addio a Sam Neill, il dottor Grant di Jurassic Park",
-   "source": "ANSA",
-   "date": "2026-07-13",
-   "level": "A2-B1",
-   "topics": [
-    "cinema",
-    "attori"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-sam-neill-addio",
-    "revision": 1,
-    "meta": {
-     "title": "Addio a Sam Neill, il dottor Grant di Jurassic Park",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/13/addio-a-sam-neill-protagonista-di-jurassic-park_184fb0ec-2fbd-4c54-9fa4-2674898f4527.html",
-     "date_published": "2026-07-13",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "cinema",
-      "attori"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Actor Sam Neill has died. He was famous worldwide for playing Dr. Alan Grant in the film Jurassic Park. The New Zealand actor also worked on many other productions, from films to television shows, and had more recently appeared in the series Peaky Blinders. His career had begun decades earlier, spanning film, television, and theatre in several countries.\n\nOver his long career, Sam Neill acted in very different films, such as In the Mouth of Madness and The Piano. Audiences remember him especially for his energy on screen and his ability to move easily between dramatic and action cinema. In recent days, colleagues and fans have shared memories and messages of affection on social media, also recalling his kind character and his sense of humor off set.",
-    "resumen_es": "È morto l'attore Sam Neill, famoso in tutto il mondo per il ruolo del dottor Alan Grant nel film Jurassic Park. L'attore neozelandese aveva lavorato anche in molte altre produzioni, dai film ai programmi televisivi, e negli ultimi anni era apparso nella serie Peaky Blinders. La sua carriera era iniziata decenni prima, tra cinema, televisione e teatro, in diversi paesi del mondo.\n\nNella sua lunga carriera Sam Neill ha recitato in film molto diversi tra loro, come Un grido nella notte e Lezioni di piano. Il pubblico lo ricorda soprattutto per la sua energia sullo schermo e per la capacità di passare facilmente dal cinema drammatico a quello d'azione. Colleghi e fan hanno condiviso in questi giorni ricordi e messaggi di affetto sui social media, ricordando anche il suo carattere gentile e la sua ironia fuori dal set.",
-    "vocab": [
-     {
-      "front": "attore",
-      "pos": "noun",
-      "back": "actor",
-      "example": "Sam Neill era un attore famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "ruolo",
-      "pos": "noun",
-      "back": "role",
-      "example": "Ha interpretato il ruolo del dottor Grant.",
-      "tier": "B1"
-     },
-     {
-      "front": "carriera",
-      "pos": "noun",
-      "back": "career",
-      "example": "Ha avuto una lunga carriera nel cinema.",
-      "tier": "A2"
-     },
-     {
-      "front": "produzione",
-      "pos": "noun",
-      "back": "production",
-      "example": "Ha lavorato in molte produzioni diverse.",
-      "tier": "B1"
-     },
-     {
-      "front": "serie televisiva",
-      "pos": "phrase",
-      "back": "TV series",
-      "example": "È apparso in una famosa serie televisiva.",
-      "tier": "A2"
-     },
-     {
-      "front": "recitare",
-      "pos": "verb",
-      "back": "to act",
-      "example": "Ha recitato in film molto diversi tra loro.",
-      "tier": "B1"
-     },
-     {
-      "front": "pubblico",
-      "pos": "noun",
-      "back": "audience",
-      "example": "Il pubblico lo ricorda con affetto.",
-      "tier": "A2"
-     },
-     {
-      "front": "schermo",
-      "pos": "noun",
-      "back": "screen",
-      "example": "Aveva molta energia sullo schermo.",
-      "tier": "B1"
-     },
-     {
-      "front": "drammatico",
-      "pos": "adj",
-      "back": "dramatic",
-      "example": "Passava dal cinema drammatico a quello d'azione.",
-      "tier": "B1"
-     },
-     {
-      "front": "collega",
-      "pos": "noun",
-      "back": "colleague",
-      "example": "I colleghi hanno condiviso i loro ricordi.",
-      "tier": "A2"
-     },
-     {
-      "front": "affetto",
-      "pos": "noun",
-      "back": "affection",
-      "example": "Hanno mandato messaggi di affetto.",
-      "tier": "B1"
-     },
-     {
-      "front": "ricordo",
-      "pos": "noun",
-      "back": "memory",
-      "example": "I fan hanno condiviso tanti ricordi.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "È morto l'attore Sam Neill, famoso in tutto il mondo per il ruolo del dottor Alan Grant nel film Jurassic Park.",
-      "point": "Passato prossimo con 'essere' + accordo dell'aggettivo",
-      "explanation": "'è morto' usa l'ausiliare essere perché il verbo 'morire' non è transitivo; l'aggettivo 'famoso' concorda con il soggetto maschile singolare.",
-      "why_tricky": "Molti studenti usano sempre 'avere' come ausiliare, dimenticando che alcuni verbi richiedono 'essere'."
-     },
-     {
-      "sentence": "L'attore neozelandese aveva lavorato anche in molte altre produzioni, dai film ai programmi televisivi, e negli ultimi anni era apparso nella serie Peaky Blinders.",
-      "point": "Trapassato prossimo",
-      "explanation": "'aveva lavorato' e 'era apparso' sono al trapassato prossimo perché descrivono azioni avvenute prima di un altro momento del passato preso come riferimento (la sua morte).",
-      "why_tricky": "Il trapassato prossimo è spesso trascurato dagli studenti di livello A2-B1 perché non ha un equivalente diretto e semplice in molte lingue."
-     },
-     {
-      "sentence": "Il pubblico lo ricorda soprattutto per la sua energia sullo schermo e per la capacità di passare facilmente dal cinema drammatico a quello d'azione.",
-      "point": "Pronome dimostrativo 'quello'",
-      "explanation": "'quello d'azione' sostituisce 'il cinema d'azione' per evitare la ripetizione del sostantivo 'cinema'.",
-      "why_tricky": "L'uso del pronome dimostrativo al posto di ripetere il nome è comune in italiano ma poco intuitivo per chi traduce parola per parola."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "in tutto il mondo",
-      "meaning": "all over the world",
-      "example": "Questo attore è famoso in tutto il mondo."
-     },
-     {
-      "phrase": "passare facilmente da... a...",
-      "meaning": "to move easily from one thing to another",
-      "example": "Riesce a passare facilmente da un argomento all'altro."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Per quale ruolo era famoso Sam Neill?",
-      "type": "open"
-     },
-     {
-      "q": "In quali altri progetti ha lavorato l'attore, oltre a Jurassic Park?",
-      "type": "open"
-     },
-     {
-      "q": "Come lo hanno ricordato i fan e i colleghi dopo la sua morte?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Qual è il tuo film preferito con Sam Neill o con un altro attore che ammiri? Perché ti piace?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-social-eta-minima",
-   "title": "Von der Leyen: \"Serve un'età minima per l'accesso ai social\"",
-   "source": "ANSA",
-   "date": "2026-07-13",
-   "level": "A2-B1",
-   "topics": [
-    "tecnologia",
-    "società"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-social-eta-minima",
-    "revision": 1,
-    "meta": {
-     "title": "Von der Leyen: \"Serve un'età minima per l'accesso ai social\"",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/07/13/-von-der-leyen-serve-uneta-minima-per-laccesso-ai-social-_76f1e4ad-7697-4ede-b328-489c2ea7263f.html",
-     "date_published": "2026-07-13",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "tecnologia",
-      "società"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "European Commission President Ursula von der Leyen has said that a minimum age is needed for using social media. According to her, platforms need clearer rules and stricter age-related controls, to prevent very young teenagers from accessing content that isn't suitable for them.\n\nThe topic of social media and minors has been widely discussed in Europe in recent months. Several countries have already proposed laws to limit social media use among younger teenagers, in order to protect their mental health and development. Tech companies, however, fear that overly strict rules could be difficult to enforce in practice and want to actively take part in the discussion with European governments.",
-    "resumen_es": "La presidente della Commissione Europea, Ursula von der Leyen, ha detto che è necessaria un'età minima per usare i social media. Secondo lei, le piattaforme devono avere regole più chiare e controlli più severi legati all'età degli utenti, per evitare che i ragazzi troppo giovani accedano a contenuti non adatti a loro.\n\nIl tema dei social media e dei minori è molto discusso in Europa negli ultimi mesi. Diversi paesi hanno già proposto leggi per limitare l'uso dei social ai ragazzi più giovani, per proteggere la loro salute mentale e il loro sviluppo. Le aziende tecnologiche, però, temono che regole troppo rigide possano essere difficili da applicare in pratica e vogliono partecipare attivamente alla discussione con i governi europei.",
-    "vocab": [
-     {
-      "front": "età minima",
-      "pos": "phrase",
-      "back": "minimum age",
-      "example": "Serve un'età minima per l'accesso ai social.",
-      "tier": "B1"
-     },
-     {
-      "front": "accesso",
-      "pos": "noun",
-      "back": "access",
-      "example": "L'accesso ai social deve avere delle regole.",
-      "tier": "B1"
-     },
-     {
-      "front": "piattaforma",
-      "pos": "noun",
-      "back": "platform",
-      "example": "Le piattaforme devono avere regole più chiare.",
-      "tier": "B1"
-     },
-     {
-      "front": "controllo",
-      "pos": "noun",
-      "back": "control, check",
-      "example": "Servono controlli più severi.",
-      "tier": "A2"
-     },
-     {
-      "front": "proporre",
-      "pos": "verb",
-      "back": "to propose",
-      "example": "Diversi paesi hanno proposto nuove leggi.",
-      "tier": "B1"
-     },
-     {
-      "front": "limitare",
-      "pos": "verb",
-      "back": "to limit",
-      "example": "Vogliono limitare l'uso dei social ai ragazzi giovani.",
-      "tier": "B1"
-     },
-     {
-      "front": "salute mentale",
-      "pos": "phrase",
-      "back": "mental health",
-      "example": "La legge vuole proteggere la salute mentale dei ragazzi.",
-      "tier": "B1"
-     },
-     {
-      "front": "azienda",
-      "pos": "noun",
-      "back": "company",
-      "example": "Le aziende tecnologiche temono le nuove regole.",
-      "tier": "A2"
-     },
-     {
-      "front": "rigido",
-      "pos": "adj",
-      "back": "strict, rigid",
-      "example": "Temono regole troppo rigide.",
-      "tier": "B1"
-     },
-     {
-      "front": "discussione",
-      "pos": "noun",
-      "back": "discussion",
-      "example": "Il tema è molto discusso in Europa.",
-      "tier": "A2"
-     },
-     {
-      "front": "proteggere",
-      "pos": "verb",
-      "back": "to protect",
-      "example": "Le leggi vogliono proteggere i minori.",
-      "tier": "A2"
-     },
-     {
-      "front": "minore",
-      "pos": "noun",
-      "back": "minor (person under 18)",
-      "example": "La legge riguarda soprattutto i minori.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La presidente della Commissione Europea, Ursula von der Leyen, ha detto che è necessaria un'età minima per usare i social media.",
-      "point": "Passato prossimo + accordo aggettivale",
-      "explanation": "'ha detto' è un passato prossimo; 'necessaria' concorda al femminile singolare con il sostantivo 'età'.",
-      "why_tricky": "Gli aggettivi devono sempre concordare in genere e numero con il nome a cui si riferiscono, non con il soggetto della frase principale."
-     },
-     {
-      "sentence": "Diversi paesi hanno già proposto leggi per limitare l'uso dei social ai ragazzi più giovani, per proteggere la loro salute mentale e il loro sviluppo.",
-      "point": "'per' + infinito per esprimere scopo",
-      "explanation": "'per limitare' e 'per proteggere' usano la preposizione 'per' seguita dall'infinito per spiegare il motivo o l'obiettivo di un'azione.",
-      "why_tricky": "In alcune lingue si usa una congiunzione con un verbo coniugato invece di 'per + infinito'."
-     },
-     {
-      "sentence": "Le aziende tecnologiche, però, temono che regole troppo rigide possano essere difficili da applicare in pratica e vogliono partecipare attivamente alla discussione con i governi europei.",
-      "point": "Congiuntivo presente dopo 'temere che'",
-      "explanation": "'possano' è congiuntivo presente perché segue il verbo 'temere che', che esprime un'opinione o un timore soggettivo, non un fatto certo.",
-      "why_tricky": "Il congiuntivo dopo verbi di sentimento come 'temere' è spesso ignorato dagli studenti abituati all'indicativo."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "partecipare alla discussione",
-      "meaning": "to take part in the discussion",
-      "example": "Vogliono partecipare alla discussione sulle nuove regole."
-     },
-     {
-      "phrase": "essere difficile da applicare",
-      "meaning": "to be hard to enforce/apply",
-      "example": "Questa regola è difficile da applicare in pratica."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Cosa ha proposto Ursula von der Leyen riguardo ai social media?",
-      "type": "open"
-     },
-     {
-      "q": "Perché alcuni paesi vogliono limitare l'uso dei social ai ragazzi giovani?",
-      "type": "open"
-     },
-     {
-      "q": "Qual è la posizione delle aziende tecnologiche su questo tema?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Pensi che dovrebbe esserci un'età minima per usare i social media? Qual è la tua opinione?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-12-sinner-wimbledon-bis",
-   "title": "Sinner concede il bis, Wimbledon è ancora suo",
-   "source": "ANSA",
-   "date": "2026-07-12",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "tennis"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-12-sinner-wimbledon-bis",
-    "revision": 1,
-    "meta": {
-     "title": "Sinner concede il bis, Wimbledon è ancora suo",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/12/sinner-concede-il-bis-wimbledon-e-ancora-suo_48ac8192-9948-416f-935e-1241360cb752.html",
-     "date_published": "2026-07-12",
-     "date_processed": "2026-07-12",
-     "tags": [
-      "sport",
-      "tennis"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Jannik Sinner has won the Wimbledon tournament again. In the final he beat the German Alexander Zverev in four sets, with a score of 6-7, 7-6, 6-3, 6-4. Sinner lost the first set, but then played better and won the match by coming from behind. It is his second consecutive title at Wimbledon, the most famous tennis tournament in the world.\n\nDuring the final there was also a nice moment of fair play: Zverev fell on the grass and Sinner helped him get back up. In the crowd there were many famous people, including the German chancellor and the mayor of London. In Italy many fans followed the match on television and celebrated the victory.",
-    "resumen_es": "Jannik Sinner ha vinto di nuovo il torneo di Wimbledon. In finale ha battuto il tedesco Alexander Zverev in quattro set, con il punteggio di 6-7, 7-6, 6-3, 6-4. Sinner ha perso il primo set, ma poi ha giocato meglio e ha vinto la partita in rimonta. È il suo secondo titolo consecutivo a Wimbledon, il torneo di tennis più famoso del mondo.\n\nDurante la finale c'è stato anche un bel momento di fair play: Zverev è caduto sull'erba e Sinner lo ha aiutato a rialzarsi. Tra il pubblico c'erano molte persone famose, come il cancelliere tedesco e il sindaco di Londra. In Italia tanti tifosi hanno seguito la partita in televisione e hanno festeggiato la vittoria.",
-    "vocab": [
-     {
-      "front": "vincere",
-      "pos": "verb",
-      "back": "to win",
-      "example": "Ha vinto il torneo per la seconda volta.",
-      "tier": "B1"
-     },
-     {
-      "front": "battere",
-      "pos": "verb",
-      "back": "to beat",
-      "example": "L'Italia ha battuto la Francia due a uno.",
-      "tier": "B1"
-     },
-     {
-      "front": "la finale",
-      "pos": "noun",
-      "back": "final (match)",
-      "example": "La finale è stata molto emozionante.",
-      "tier": "B1"
-     },
-     {
-      "front": "il punteggio",
-      "pos": "noun",
-      "back": "score",
-      "example": "Il punteggio finale era 6-3.",
-      "tier": "B1"
-     },
-     {
-      "front": "in rimonta",
-      "pos": "phrase",
-      "back": "coming from behind",
-      "example": "La squadra ha vinto in rimonta.",
-      "tier": "B2"
-     },
-     {
-      "front": "il titolo",
-      "pos": "noun",
-      "back": "title (championship)",
-      "example": "È il suo secondo titolo a Wimbledon.",
-      "tier": "B1"
-     },
-     {
-      "front": "consecutivo",
-      "pos": "adj",
-      "back": "consecutive, in a row",
-      "example": "Ha vinto due tornei consecutivi.",
-      "tier": "B2"
-     },
-     {
-      "front": "cadere",
-      "pos": "verb",
-      "back": "to fall",
-      "example": "Il giocatore è caduto sull'erba.",
-      "tier": "B1"
-     },
-     {
-      "front": "rialzarsi",
-      "pos": "verb",
-      "back": "to get back up",
-      "example": "Dopo la caduta si è rialzato subito.",
-      "tier": "B2"
-     },
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi italiani hanno festeggiato tutta la notte.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'erba",
-      "pos": "noun",
-      "back": "grass",
-      "example": "A Wimbledon si gioca sull'erba.",
-      "tier": "B1"
-     },
-     {
-      "front": "festeggiare",
-      "pos": "verb",
-      "back": "to celebrate",
-      "example": "Abbiamo festeggiato la vittoria insieme.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Zverev è caduto sull'erba e Sinner lo ha aiutato a rialzarsi.",
-      "point": "Pronome diretto lo + aiutare a + infinito",
-      "explanation": "Lo replaces Zverev ('helped him'). Aiutare always takes 'a' before an infinitive: aiutare qualcuno a fare qualcosa.",
-      "why_tricky": "English says 'helped him get up' with no preposition, so learners often drop the 'a'."
-     },
-     {
-      "sentence": "Sinner ha perso il primo set, ma poi ha giocato meglio e ha vinto la partita in rimonta.",
-      "point": "Passato prossimo con avere e l'avverbio meglio",
-      "explanation": "All three verbs use the passato prossimo with avere. Meglio is the irregular adverb form of bene ('he played better'), not più bene.",
-      "why_tricky": "Learners often say più bene or confuse meglio (adverb) with migliore (adjective)."
-     },
-     {
-      "sentence": "Durante la finale c'è stato anche un bel momento di fair play: Zverev è caduto sull'erba e Sinner lo ha aiutato a rialzarsi.",
-      "point": "C'è stato (passato prossimo di esserci)",
-      "explanation": "C'è stato means 'there was / there has been'. Esserci in the past uses essere as auxiliary and agrees with the noun: c'è stato un momento, c'è stata una festa.",
-      "why_tricky": "The agreement changes with gender and number, and English 'there was' does not show this."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dare una mano",
-      "meaning": "to lend a hand, to help",
-      "example": "Sinner ha dato una mano al suo avversario dopo la caduta."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi ha vinto la finale di Wimbledon e contro chi ha giocato?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa è successo quando Zverev è caduto?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questa vittoria è speciale per Sinner?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, perché il fair play è importante nello sport? Scrivi la tua opinione in circa 80 parole."
    }
   }
  ]
