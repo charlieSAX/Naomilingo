@@ -1,7 +1,465 @@
 {
-  "generated_at": "2026-07-19T08:11:46.872772+00:00",
+  "generated_at": "2026-07-20T06:08:42.433407+00:00",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-20-spagna-campione-mondo",
+      "title": "Trionfo della Spagna, batte l'Argentina e conquista il Mondiale americano",
+      "source": "ANSA",
+      "date": "2026-07-20",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "mondiale"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-spagna-campione-mondo",
+        "revision": 1,
+        "meta": {
+          "title": "Trionfo della Spagna, batte l'Argentina e conquista il Mondiale americano",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/trionfo-della-spagna-batte-largentina-e-conquista-il-mondiale-americano-_b85bb8ac-f699-4636-a889-2c6ae0002c5b.html",
+          "date_published": "2026-07-20",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "sport",
+            "mondiale"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Spain are world champions. In the final of the 2026 World Cup, played in New York, the Spanish team beat Argentina 1-0. The match was very long and difficult. The decisive goal came only in extra time, in the 106th minute, thanks to Ferran Torres. For Spain it is the second world title in their history, after the one won in South Africa in 2010.\n\nAfter the match, thousands of fans celebrated until dawn in the streets of Madrid. For Lionel Messi, instead, it was a sad evening: the Argentine champion played his last World Cup and left the pitch in tears. Also at the stadium were the American president Trump and FIFA president Infantino, who presented the trophy to the winners.",
+        "resumen_es": "La Spagna è campione del mondo. Nella finale del Mondiale 2026, giocata a New York, la squadra spagnola ha battuto l'Argentina per 1-0. La partita è stata molto lunga e difficile. Il gol decisivo è arrivato solo ai tempi supplementari, al minuto 106, grazie a Ferran Torres. Per la Spagna è il secondo titolo mondiale della sua storia, dopo quello vinto in Sudafrica nel 2010.\n\nDopo la partita, migliaia di tifosi hanno festeggiato fino all'alba nelle strade di Madrid. Per Lionel Messi, invece, è stata una serata triste: il campione argentino ha giocato il suo ultimo Mondiale ed è uscito dal campo in lacrime. Allo stadio c'erano anche il presidente americano Trump e il presidente della FIFA Infantino, che hanno consegnato la coppa ai vincitori.",
+        "vocab": [
+          {
+            "front": "battere",
+            "pos": "verb",
+            "back": "to beat, to defeat",
+            "example": "La Spagna ha battuto l'Argentina in finale.",
+            "tier": "B1"
+          },
+          {
+            "front": "la squadra",
+            "pos": "noun",
+            "back": "team",
+            "example": "La squadra spagnola ha giocato molto bene.",
+            "tier": "B1"
+          },
+          {
+            "front": "il gol decisivo",
+            "pos": "noun",
+            "back": "the decisive goal",
+            "example": "Torres ha segnato il gol decisivo.",
+            "tier": "B1"
+          },
+          {
+            "front": "i tempi supplementari",
+            "pos": "noun",
+            "back": "extra time",
+            "example": "La partita è finita ai tempi supplementari.",
+            "tier": "B1"
+          },
+          {
+            "front": "il titolo",
+            "pos": "noun",
+            "back": "title, championship",
+            "example": "È il secondo titolo mondiale per la Spagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi hanno festeggiato tutta la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Migliaia di persone hanno festeggiato in piazza.",
+            "tier": "B1"
+          },
+          {
+            "front": "la serata",
+            "pos": "noun",
+            "back": "evening",
+            "example": "È stata una serata speciale per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "uscire",
+            "pos": "verb",
+            "back": "to go out, to leave",
+            "example": "Messi è uscito dal campo molto triste.",
+            "tier": "B1"
+          },
+          {
+            "front": "consegnare",
+            "pos": "verb",
+            "back": "to hand over, to present",
+            "example": "Il presidente ha consegnato la coppa ai giocatori.",
+            "tier": "B1"
+          },
+          {
+            "front": "la coppa",
+            "pos": "noun",
+            "back": "cup, trophy",
+            "example": "Il capitano ha alzato la coppa al cielo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vincitore",
+            "pos": "noun",
+            "back": "winner",
+            "example": "I vincitori hanno ricevuto una medaglia.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nella finale del Mondiale 2026, giocata a New York, la squadra spagnola ha battuto l'Argentina per 1-0.",
+            "point": "Past participle agreement in reduced clauses",
+            "explanation": "Giocata agrees with la finale (feminine singular): it is a shortened way of saying che è stata giocata.",
+            "why_tricky": "Learners often leave the participle in the masculine (giocato); when it describes a noun directly, it must agree in gender and number."
+          },
+          {
+            "sentence": "Allo stadio c'erano anche il presidente americano Trump e il presidente della FIFA Infantino, che hanno consegnato la coppa ai vincitori.",
+            "point": "C'era vs c'erano",
+            "explanation": "With a plural subject (due presidenti), Italian uses c'erano; with a singular one it would be c'era.",
+            "why_tricky": "English there was/there were works the same way, but learners often freeze on c'era for everything in speech."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fino all'alba",
+            "meaning": "until dawn",
+            "example": "Abbiamo ballato fino all'alba."
+          },
+          {
+            "phrase": "in lacrime",
+            "meaning": "in tears",
+            "example": "Il giocatore ha lasciato il campo in lacrime."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come e quando è arrivato il gol della vittoria?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa serata è stata triste per Lionel Messi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa hanno fatto i tifosi spagnoli dopo la partita?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, lo sport può unire le persone di paesi diversi? Scrivi la tua opinione con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-20-blitz-baby-gang",
+      "title": "Maxi blitz contro le baby gang: 539 arresti in tutta Italia, sequestrate armi e droga",
+      "source": "RaiNews",
+      "date": "2026-07-20",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "società"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-blitz-baby-gang",
+        "revision": 1,
+        "meta": {
+          "title": "Maxi blitz contro le baby gang: 539 arresti in tutta Italia, sequestrate armi e droga",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/07/maxi-blitz-contro-la-criminalita-giovanile-539-arresti-in-tutta-italia-sequestrate-armi-e-droga-d22c53ac-b7ad-4e55-87f0-edd20128d4f9.html",
+          "date_published": "2026-07-20",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "cronaca",
+            "società"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Italian police have carried out a major operation against the baby gangs, criminal groups formed by young people. The raid took place in 44 provinces, across the whole of Italy. Officers arrested 539 people, including 47 minors. During the checks, the police seized more than 700 kilos of drugs, dozens of weapons and about 300 thousand euros in cash.\n\nInvestigators also found a thousand social media profiles that glorified violence, weapons and drugs. For many young people, this online content is a dangerous model to imitate. The operation shows that the baby gang phenomenon is widespread across the whole country, not only in the big cities. The authorities checked almost 190 thousand people in nightlife and drug-dealing areas.",
+        "resumen_es": "La polizia italiana ha fatto una grande operazione contro le baby gang, i gruppi criminali formati da giovani. Il blitz è avvenuto in 44 province, in tutta Italia. Gli agenti hanno arrestato 539 persone, tra cui 47 minorenni. Durante i controlli, la polizia ha sequestrato oltre 700 chili di droga, decine di armi e circa 300 mila euro in contanti.\n\nGli investigatori hanno trovato anche mille profili social che celebravano la violenza, le armi e la droga. Per molti giovani, questi contenuti online sono un modello pericoloso da imitare. L'operazione mostra che il fenomeno delle baby gang è diffuso in tutto il Paese, non solo nelle grandi città. Le autorità hanno controllato quasi 190 mila persone nelle zone della movida e dello spaccio.",
+        "vocab": [
+          {
+            "front": "l'operazione",
+            "pos": "noun",
+            "back": "operation (police)",
+            "example": "L'operazione della polizia è durata tutta la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "avvenire",
+            "pos": "verb",
+            "back": "to take place, to happen",
+            "example": "Il blitz è avvenuto in 44 province.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'agente",
+            "pos": "noun",
+            "back": "police officer",
+            "example": "Gli agenti hanno arrestato molte persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrestare",
+            "pos": "verb",
+            "back": "to arrest",
+            "example": "La polizia ha arrestato 539 persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "il minorenne",
+            "pos": "noun",
+            "back": "minor, under-18",
+            "example": "Tra gli arrestati ci sono anche 47 minorenni.",
+            "tier": "B1"
+          },
+          {
+            "front": "sequestrare",
+            "pos": "verb",
+            "back": "to seize, to confiscate",
+            "example": "Gli agenti hanno sequestrato droga e armi.",
+            "tier": "B1"
+          },
+          {
+            "front": "in contanti",
+            "pos": "phrase",
+            "back": "in cash",
+            "example": "Hanno trovato 300 mila euro in contanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'investigatore",
+            "pos": "noun",
+            "back": "investigator, detective",
+            "example": "Gli investigatori hanno controllato i profili social.",
+            "tier": "B1"
+          },
+          {
+            "front": "il contenuto",
+            "pos": "noun",
+            "back": "content (media)",
+            "example": "Questi contenuti online sono pericolosi per i ragazzi.",
+            "tier": "B1"
+          },
+          {
+            "front": "diffuso",
+            "pos": "adj",
+            "back": "widespread",
+            "example": "Il fenomeno è diffuso in tutto il Paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "la movida",
+            "pos": "noun",
+            "back": "nightlife scene",
+            "example": "Le zone della movida sono piene di gente il sabato sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spaccio",
+            "pos": "noun",
+            "back": "drug dealing",
+            "example": "La polizia controlla le zone dello spaccio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli investigatori hanno trovato anche mille profili social che celebravano la violenza, le armi e la droga.",
+            "point": "Passato prossimo vs imperfetto",
+            "explanation": "Hanno trovato is the completed event; celebravano describes an ongoing state of those profiles in the past, so it takes the imperfetto.",
+            "why_tricky": "Both verbs are past, but they answer different questions: what happened (passato prossimo) vs what was the situation like (imperfetto)."
+          },
+          {
+            "sentence": "Le autorità hanno controllato quasi 190 mila persone nelle zone della movida e dello spaccio.",
+            "point": "Preposizioni articolate",
+            "explanation": "Nelle (in + le), della (di + la) and dello (di + lo) combine preposition and article, matching the noun's gender and form.",
+            "why_tricky": "Choosing dello before s + consonant (spaccio) instead of del is a classic beginner mistake."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tra cui",
+            "meaning": "including, among which",
+            "example": "Hanno arrestato molte persone, tra cui alcuni minorenni."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è avvenuto il blitz e quante persone sono state arrestate?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa ha sequestrato la polizia durante i controlli?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i profili social trovati dagli investigatori sono pericolosi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perché alcuni giovani entrano nelle baby gang? Che cosa può fare la società per aiutarli? Scrivi la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-20-odissea-nolan-record",
+      "title": "Incassi record al debutto per l'Odissea di Nolan",
+      "source": "ANSA",
+      "date": "2026-07-19",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-20-odissea-nolan-record",
+        "revision": 1,
+        "meta": {
+          "title": "Incassi record al debutto per l'Odissea di Nolan",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/07/19/incassi-record-al-debutto-per-lodissea-di-nolan_70dbde2f-91da-4b7d-a51e-da0b56d49fe0.html",
+          "date_published": "2026-07-19",
+          "date_processed": "2026-07-20",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Christopher Nolan's new film, The Odyssey, has had a record-breaking debut at the cinema. On its opening, the film took in 260 million dollars worldwide, a figure that already covers the production budget. In Italy, filmgoers spent 7.4 million euros to see it. The film tells the famous Greek poem by Homer, with a cast of big Hollywood stars.\n\nThe Odyssey is one of the oldest stories in literature: the journey of Ulysses, who after the Trojan War tries to return home, to the island of Ithaca. Nolan is famous for films like Oppenheimer and Inception. This success shows something important: audiences still want big films to watch at the cinema, not only on streaming platforms.",
+        "resumen_es": "Il nuovo film di Christopher Nolan, L'Odissea, ha avuto un debutto da record al cinema. Al debutto, il film ha incassato 260 milioni di dollari nel mondo, una cifra che copre già il budget della produzione. In Italia, gli spettatori hanno speso 7,4 milioni di euro per vederlo. Il film racconta il famoso poema greco di Omero, con un cast di grandi stelle di Hollywood.\n\nL'Odissea è una delle storie più antiche della letteratura: il viaggio di Ulisse, che dopo la guerra di Troia cerca di tornare a casa, sull'isola di Itaca. Nolan è famoso per film come Oppenheimer e Inception. Questo successo mostra una cosa importante: il pubblico ha ancora voglia di grandi film da vedere al cinema, non solo sulle piattaforme streaming.",
+        "vocab": [
+          {
+            "front": "incassare",
+            "pos": "verb",
+            "back": "to take in, to earn (box office)",
+            "example": "Il film ha incassato milioni di dollari.",
+            "tier": "B1"
+          },
+          {
+            "front": "il debutto",
+            "pos": "noun",
+            "back": "debut, opening",
+            "example": "Il debutto del film è stato un grande successo.",
+            "tier": "B1"
+          },
+          {
+            "front": "da record",
+            "pos": "phrase",
+            "back": "record-breaking",
+            "example": "È stata un'estate da record per il cinema.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cifra",
+            "pos": "noun",
+            "back": "figure, amount",
+            "example": "È una cifra molto alta per un solo weekend.",
+            "tier": "B1"
+          },
+          {
+            "front": "coprire",
+            "pos": "verb",
+            "back": "to cover (costs)",
+            "example": "Gli incassi coprono già il budget del film.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettatore",
+            "pos": "noun",
+            "back": "viewer, filmgoer",
+            "example": "Gli spettatori italiani hanno amato il film.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell (a story)",
+            "example": "Il film racconta una storia molto antica.",
+            "tier": "B1"
+          },
+          {
+            "front": "il poema",
+            "pos": "noun",
+            "back": "(epic) poem",
+            "example": "L'Odissea è un poema greco di Omero.",
+            "tier": "B1"
+          },
+          {
+            "front": "il viaggio",
+            "pos": "noun",
+            "back": "journey, trip",
+            "example": "Il viaggio di Ulisse dura molti anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico ha applaudito alla fine del film.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere voglia di",
+            "pos": "phrase",
+            "back": "to feel like, to want",
+            "example": "Ho voglia di andare al cinema stasera.",
+            "tier": "B1"
+          },
+          {
+            "front": "la piattaforma",
+            "pos": "noun",
+            "back": "platform (streaming)",
+            "example": "Guardo molte serie sulle piattaforme streaming.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In Italia, gli spettatori hanno speso 7,4 milioni di euro per vederlo.",
+            "point": "Irregular participle spendere and attached pronoun",
+            "explanation": "Spendere has the irregular participle speso, and the object pronoun lo attaches to the infinitive: vederlo (to see it).",
+            "why_tricky": "Learners often say spenduto, and in English the pronoun comes before the verb (to see it), not attached to its end."
+          },
+          {
+            "sentence": "il pubblico ha ancora voglia di grandi film da vedere al cinema, non solo sulle piattaforme streaming",
+            "point": "Avere voglia di and da + infinitive",
+            "explanation": "Avere voglia di expresses desire, and film da vedere means films to watch, where da + infinitive gives the noun a purpose.",
+            "why_tricky": "The two prepositions look interchangeable but are not: di follows voglia, while da introduces what the thing is for."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da record",
+            "meaning": "record-breaking",
+            "example": "Il film ha avuto incassi da record."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanto ha incassato il film al debutto nel mondo e in Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Quale storia racconta il film di Nolan?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dimostra, secondo il testo, il successo di questo film?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci vedere i film al cinema o a casa in streaming? Spiega la tua scelta con due o tre motivi."
+      }
+    },
     {
       "pack_id": "feed-2026-07-19-inghilterra-terzo-posto",
       "title": "Mbappé nella storia dei Mondiali, ma il terzo posto va all'Inghilterra",
@@ -5964,449 +6422,6 @@
           }
         ],
         "opinion_prompt": "Hai mai preso un ricordo dalla natura durante un viaggio? Scrivi qualche frase: secondo te è giusto o sbagliato?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-12-jacopo-piazza-navona",
-      "title": "La storia di Jacopo, dal Covid sul terrazzo di Piazza Navona al concerto di addio: \"Affitto scaduto\"",
-      "source": "RaiNews",
-      "date": "2026-07-12",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "musica"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-12-jacopo-piazza-navona",
-        "revision": 1,
-        "meta": {
-          "title": "La storia di Jacopo, dal Covid sul terrazzo di Piazza Navona al concerto di addio: \"Affitto scaduto\"",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/la-storia-di-jacopo-dal-covid-sul-balcone-in-piazza-navona-al-concerto-di-addio-affitto-scaduto-d0c6e0cb-f198-44dd-99ce-f85df3821783.html",
-          "date_published": "2026-07-12",
-          "date_processed": "2026-07-12",
-          "tags": [
-            "società",
-            "musica"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Jacopo is a musician from Rome. During the Covid lockdown, in 2020, he used to play from the terrace of his home, in front of an empty Piazza Navona. The notes of Ennio Morricone moved the whole of Italy. Now Jacopo has to leave that house, because the lease has expired. This weekend he played from his terrace for the last time.\n\nHis story also tells of a bigger problem in Italian cities. In the centre of Rome many homes become bed and breakfasts for tourists, and rents cost more and more. For this reason many residents have to move away from the historic centre. Jacopo's farewell concert has become a symbol of this change, mixing music, memory and daily life.",
-        "resumen_es": "Jacopo è un musicista di Roma. Durante il lockdown del Covid, nel 2020, suonava dal terrazzo di casa sua, davanti a una Piazza Navona vuota. Le note di Ennio Morricone hanno commosso tutta l'Italia. Ora Jacopo deve lasciare quella casa, perché l'affitto è scaduto. Questo fine settimana ha suonato per l'ultima volta dal suo terrazzo.\n\nLa sua storia racconta anche un problema più grande delle città italiane. Nel centro di Roma molte case diventano bed and breakfast per i turisti, e gli affitti costano sempre di più. Per questo molti abitanti devono andare via dal centro storico. Il concerto di addio di Jacopo è diventato un simbolo di questo cambiamento, tra musica, memoria e vita quotidiana.",
-        "vocab": [
-          {
-            "front": "suonare",
-            "pos": "verb",
-            "back": "to play (an instrument)",
-            "example": "Jacopo suona il violino da dieci anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "terrazzo",
-            "pos": "noun",
-            "back": "terrace, balcony",
-            "example": "Dal terrazzo si vede tutta la piazza.",
-            "tier": "B1"
-          },
-          {
-            "front": "vuoto",
-            "pos": "adj",
-            "back": "empty",
-            "example": "La piazza era completamente vuota.",
-            "tier": "B1"
-          },
-          {
-            "front": "commuovere",
-            "pos": "verb",
-            "back": "to move (emotionally)",
-            "example": "La sua musica ha commosso tutti.",
-            "tier": "B2"
-          },
-          {
-            "front": "affitto",
-            "pos": "noun",
-            "back": "rent, lease",
-            "example": "L'affitto in centro costa troppo.",
-            "tier": "B1"
-          },
-          {
-            "front": "scaduto",
-            "pos": "adj",
-            "back": "expired",
-            "example": "Il contratto è scaduto a giugno.",
-            "tier": "B1"
-          },
-          {
-            "front": "per l'ultima volta",
-            "pos": "phrase",
-            "back": "for the last time",
-            "example": "Ha salutato gli amici per l'ultima volta.",
-            "tier": "B1"
-          },
-          {
-            "front": "abitante",
-            "pos": "noun",
-            "back": "resident, inhabitant",
-            "example": "Gli abitanti del quartiere protestano.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare via",
-            "pos": "verb",
-            "back": "to leave, go away",
-            "example": "Molte famiglie devono andare via dal centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "addio",
-            "pos": "noun",
-            "back": "farewell",
-            "example": "Il concerto di addio è stato emozionante.",
-            "tier": "B1"
-          },
-          {
-            "front": "vita quotidiana",
-            "pos": "phrase",
-            "back": "daily life",
-            "example": "La musica fa parte della sua vita quotidiana.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Durante il lockdown del Covid, nel 2020, suonava dal terrazzo di casa sua, davanti a una Piazza Navona vuota.",
-            "point": "imperfetto for habitual past actions (suonava)",
-            "explanation": "The imperfetto describes repeated or habitual actions in the past: he used to play from the terrace.",
-            "why_tricky": "English has only one simple past, so learners must decide between passato prossimo (single event) and imperfetto (habit or background)."
-          },
-          {
-            "sentence": "Ora Jacopo deve lasciare quella casa, perché l'affitto è scaduto.",
-            "point": "dovere + infinitive",
-            "explanation": "Dovere followed by the infinitive expresses obligation: he has to leave the house.",
-            "why_tricky": "Modal verbs in Italian conjugate fully and the following verb stays in the infinitive, unlike English must plus base verb which never changes."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sempre di più",
-            "meaning": "more and more",
-            "example": "Gli affitti costano sempre di più."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa faceva Jacopo durante il lockdown del 2020?",
-            "type": "open"
-          },
-          {
-            "q": "Perché ora deve lasciare la sua casa?",
-            "type": "open"
-          },
-          {
-            "q": "Quale problema delle città italiane racconta questa storia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nella tua città gli affitti sono un problema? Scrivi qualche frase sulla situazione delle case dove vivi tu."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-12-francia-caldo-louvre",
-      "title": "Francia, chiusi per la 'canicule' Louvre e Tour Eiffel",
-      "source": "RaiNews",
-      "date": "2026-07-12",
-      "level": "A2-B1",
-      "topics": [
-        "clima",
-        "europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-12-francia-caldo-louvre",
-        "revision": 1,
-        "meta": {
-          "title": "Francia, chiusi per la 'canicule' Louvre e Tour Eiffel",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/video/2026/07/francia-chiusi-per-canicule-louvre-tour-eiffel-video-3bc76110-d95f-4ff0-b69c-8e773d33f941.html",
-          "date_published": "2026-07-12",
-          "date_processed": "2026-07-12",
-          "tags": [
-            "clima",
-            "europa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "It is very hot in France. In Paris the Louvre and the Eiffel Tower are closed because of the canicule, the heatwave. The red alert covers 37 departments, more than a third of the country. City squares and streets are scorching, and the authorities are asking people to drink water and stay in the shade during the hottest hours.\n\nHeatwaves are becoming more and more frequent in Europe because of climate change. In Italy too, temperatures are very high these days. Closing famous monuments like the Louvre is a rare measure, which protects visitors and workers. In the coming days forecasters are hoping for some rain and lower temperatures.",
-        "resumen_es": "In Francia fa molto caldo. A Parigi il Louvre e la Tour Eiffel sono chiusi per la 'canicule', l'ondata di calore. L'allerta rossa riguarda 37 dipartimenti, più di un terzo del paese. Le piazze e le strade delle città sono incandescenti, e le autorità chiedono alle persone di bere acqua e restare all'ombra nelle ore più calde.\n\nLe ondate di calore sono sempre più frequenti in Europa a causa del cambiamento climatico. Anche in Italia le temperature sono molto alte in questi giorni. La chiusura di monumenti famosi come il Louvre è una misura rara, che protegge i visitatori e i lavoratori. Nei prossimi giorni i meteorologi sperano in un po' di pioggia e in temperature più basse.",
-        "vocab": [
-          {
-            "front": "ondata di calore",
-            "pos": "phrase",
-            "back": "heatwave",
-            "example": "L'ondata di calore durerà tutta la settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "allerta rossa",
-            "pos": "phrase",
-            "back": "red alert",
-            "example": "C'è allerta rossa in molte regioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "riguardare",
-            "pos": "verb",
-            "back": "to concern, affect",
-            "example": "Il problema riguarda tutto il paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "un terzo",
-            "pos": "noun",
-            "back": "one third",
-            "example": "Un terzo degli abitanti vive in città.",
-            "tier": "B1"
-          },
-          {
-            "front": "incandescente",
-            "pos": "adj",
-            "back": "scorching, red-hot",
-            "example": "L'asfalto era incandescente sotto il sole.",
-            "tier": "B2"
-          },
-          {
-            "front": "ombra",
-            "pos": "noun",
-            "back": "shade, shadow",
-            "example": "Restiamo all'ombra, fa troppo caldo.",
-            "tier": "B1"
-          },
-          {
-            "front": "a causa di",
-            "pos": "phrase",
-            "back": "because of",
-            "example": "Il volo è in ritardo a causa del maltempo.",
-            "tier": "B1"
-          },
-          {
-            "front": "cambiamento climatico",
-            "pos": "phrase",
-            "back": "climate change",
-            "example": "Il cambiamento climatico è un problema globale.",
-            "tier": "B1"
-          },
-          {
-            "front": "chiusura",
-            "pos": "noun",
-            "back": "closure",
-            "example": "La chiusura del museo è temporanea.",
-            "tier": "B1"
-          },
-          {
-            "front": "misura",
-            "pos": "noun",
-            "back": "measure",
-            "example": "È una misura necessaria per la sicurezza.",
-            "tier": "B1"
-          },
-          {
-            "front": "sperare in",
-            "pos": "verb",
-            "back": "to hope for",
-            "example": "Tutti sperano in un po' di pioggia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "le autorità chiedono alle persone di bere acqua e restare all'ombra nelle ore più calde",
-            "point": "chiedere a qualcuno di + infinitive",
-            "explanation": "Chiedere takes a before the person and di before the infinitive when asking someone to do something.",
-            "why_tricky": "English uses ask someone to do with no preposition before the person, so the a and di pattern is easy to forget."
-          },
-          {
-            "sentence": "Le ondate di calore sono sempre più frequenti in Europa a causa del cambiamento climatico.",
-            "point": "sempre più + adjective",
-            "explanation": "Sempre più before an adjective means more and more, expressing a growing tendency.",
-            "why_tricky": "Learners often translate word by word from English and say più e più, which is not natural Italian."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fa un caldo da morire",
-            "meaning": "it is terribly hot",
-            "example": "Oggi fa un caldo da morire, restiamo a casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quali monumenti di Parigi sono chiusi e perché?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa chiedono le autorità alle persone?",
-            "type": "open"
-          },
-          {
-            "q": "Perché le ondate di calore sono sempre più frequenti secondo l'articolo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come cambia la tua vita quando fa molto caldo? Scrivi qualche frase su cosa fai durante un'ondata di calore."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-11-autovelox-decreto",
-      "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
-      "source": "ANSA",
-      "date": "2026-07-11",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "trasporti"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-11-autovelox-decreto",
-        "revision": 1,
-        "meta": {
-          "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/07/11/in-gazzetta-il-decreto-autovelox-stop-a-850-apparecchi-non-omologati_380f46eb-6eae-4cb9-a9e2-e4829686a5b8.html",
-          "date_published": "2026-07-11",
-          "date_processed": "2026-07-11",
-          "tags": [
-            "società",
-            "trasporti"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy there is important news for drivers. A new government decree stops 850 non-approved speed cameras, that is, devices that check speed but do not have official certification. These devices are now switched off and cannot issue fines. Around 3,150 regular speed cameras remain active across the country, especially on the most dangerous roads.\n\nThe decision aims to bring order after years of confusion and of appeals by motorists against fines. Now the rules are clear and the same throughout Italy. The switched-off devices will be able to work again only after obtaining certification. For drivers the message does not change: you must always respect the speed limits, because checks continue on the country's main roads.",
-        "resumen_es": "In Italia arriva una novità importante per chi guida. Un nuovo decreto del governo ferma 850 autovelox non omologati, cioè apparecchi che controllano la velocità ma non hanno una certificazione ufficiale. Questi dispositivi ora sono spenti e non possono fare multe. Restano attivi circa 3.150 autovelox regolari in tutto il paese, soprattutto sulle strade più pericolose.\n\nLa decisione vuole mettere ordine dopo anni di confusione e di ricorsi degli automobilisti contro le multe. Ora le regole sono chiare e uguali in tutta Italia. Gli apparecchi spenti potranno tornare in funzione solo dopo aver ottenuto la certificazione. Per i guidatori il messaggio non cambia: bisogna sempre rispettare i limiti di velocità, perché i controlli continuano sulle strade principali del paese.",
-        "vocab": [
-          {
-            "front": "guidare",
-            "pos": "verb",
-            "back": "to drive",
-            "example": "Mi piace guidare in campagna.",
-            "tier": "A2"
-          },
-          {
-            "front": "il decreto",
-            "pos": "noun",
-            "back": "decree",
-            "example": "Il governo ha firmato un nuovo decreto.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'autovelox",
-            "pos": "noun",
-            "back": "speed camera",
-            "example": "C'è un autovelox su questa strada.",
-            "tier": "A2"
-          },
-          {
-            "front": "omologato",
-            "pos": "adj",
-            "back": "approved, certified",
-            "example": "Il casco deve essere omologato.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'apparecchio",
-            "pos": "noun",
-            "back": "device",
-            "example": "Questo apparecchio misura la velocità.",
-            "tier": "B1"
-          },
-          {
-            "front": "spento",
-            "pos": "adj",
-            "back": "switched off",
-            "example": "Il telefono è spento.",
-            "tier": "A2"
-          },
-          {
-            "front": "la multa",
-            "pos": "noun",
-            "back": "fine",
-            "example": "Ho preso una multa per eccesso di velocità.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ricorso",
-            "pos": "noun",
-            "back": "appeal (legal)",
-            "example": "L'automobilista ha fatto ricorso contro la multa.",
-            "tier": "B1"
-          },
-          {
-            "front": "mettere ordine",
-            "pos": "phrase",
-            "back": "to bring order, tidy up",
-            "example": "Dobbiamo mettere ordine nelle regole.",
-            "tier": "B1"
-          },
-          {
-            "front": "tornare in funzione",
-            "pos": "phrase",
-            "back": "to start working again",
-            "example": "La macchina è tornata in funzione dopo la riparazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "il limite di velocità",
-            "pos": "noun",
-            "back": "speed limit",
-            "example": "Il limite di velocità qui è 50 chilometri orari.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Questi dispositivi ora sono spenti e non possono fare multe.",
-            "point": "potere + infinitive",
-            "explanation": "The modal verb 'potere' is followed directly by the infinitive: 'non possono fare' means 'they cannot issue'.",
-            "why_tricky": "In Italian no preposition goes between 'potere' and the verb, unlike some English structures."
-          },
-          {
-            "sentence": "Gli apparecchi spenti potranno tornare in funzione solo dopo aver ottenuto la certificazione.",
-            "point": "dopo aver + past participle",
-            "explanation": "'Dopo aver ottenuto' means 'after having obtained'. After 'dopo', Italian uses the past infinitive, not a conjugated verb.",
-            "why_tricky": "Learners often try 'dopo che ottengono'; the compact 'dopo aver + participle' is more natural when the subject is the same."
-          },
-          {
-            "sentence": "Per i guidatori il messaggio non cambia: bisogna sempre rispettare i limiti di velocità, perché i controlli continuano sulle strade principali del paese.",
-            "point": "bisogna + infinitive",
-            "explanation": "'Bisogna' is impersonal and means 'it is necessary to / one must'. It never changes form and takes the infinitive.",
-            "why_tricky": "There is no subject: you cannot say 'io bisogno'. To say 'I need' use 'ho bisogno di'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "mettere ordine",
-            "meaning": "to sort things out, bring order",
-            "example": "Il nuovo direttore vuole mettere ordine in ufficio."
-          },
-          {
-            "phrase": "in funzione",
-            "meaning": "in operation, working",
-            "example": "L'ascensore non è in funzione oggi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa succede agli 850 autovelox non omologati?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il governo ha preso questa decisione?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa devono continuare a fare i guidatori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te gli autovelox servono davvero per la sicurezza o sono solo un modo per fare multe? Scrivi la tua opinione in circa 80 parole."
       }
     }
   ]
