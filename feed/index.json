@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-21T20:16:44.216258+00:00",
+ "generated_at": "2026-07-22T08:12:26.076503+00:00",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-22-citta-studenti",
+   "title": "Milano, Roma e Torino tra le migliori città al mondo per gli studenti universitari",
+   "source": "ANSA",
+   "date": "2026-07-22",
+   "level": "A2-B1",
+   "topics": [
+    "scuola",
+    "città"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-citta-studenti",
+    "revision": 1,
+    "meta": {
+     "title": "Milano, Roma e Torino tra le migliori città al mondo per gli studenti universitari",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mur/2026/07/21/milano-roma-e-torino-tra-migliori-citta-al-mondo-per-studenti-universitari_2edc3798-0e1e-4b13-b4e4-9a170b00bf7c.html",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "scuola",
+      "città"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Milan, Rome and Turin are among the best cities in the world for university students. This is said by a new international ranking called QS. Milan is the first Italian city on the list. This is good news for the country's universities.\n\nThe ranking looks at many important things for young people. For example, it looks at the quality of the universities and at students' life in the city. The cost of living and work after studying are also important. Many young people from all over the world choose Italy to study. Italian cities offer culture, history and good food. Studying in another city is also a way to grow and to learn languages. For this reason Italian cities are more and more popular among foreign students.",
+    "resumen_es": "Milano, Roma e Torino sono tra le migliori città al mondo per gli studenti universitari. Lo dice una nuova classifica internazionale chiamata QS. Milano è la prima città italiana della lista. Questa è una bella notizia per le università del Paese.\n\nLa classifica guarda molte cose importanti per i giovani. Per esempio, guarda la qualità delle università e la vita degli studenti in città. Anche il costo della vita e il lavoro dopo lo studio sono importanti. Molti giovani da tutto il mondo scelgono l'Italia per studiare. Le città italiane offrono cultura, storia e buon cibo. Studiare in un'altra città è anche un modo per crescere e imparare le lingue. Per questo le città italiane sono sempre più popolari tra gli studenti stranieri.",
+    "vocab": [
+     {
+      "front": "la città",
+      "pos": "noun",
+      "back": "the city",
+      "example": "Milano è una grande città.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo studente",
+      "pos": "noun",
+      "back": "the student",
+      "example": "Lo studente studia in biblioteca.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'università",
+      "pos": "noun",
+      "back": "the university",
+      "example": "Vado all'università ogni giorno.",
+      "tier": "A2"
+     },
+     {
+      "front": "la classifica",
+      "pos": "noun",
+      "back": "the ranking, chart",
+      "example": "La squadra è prima in classifica.",
+      "tier": "B1"
+     },
+     {
+      "front": "migliore",
+      "pos": "adj",
+      "back": "better, best",
+      "example": "Questo è il migliore ristorante della città.",
+      "tier": "A2"
+     },
+     {
+      "front": "la qualità",
+      "pos": "noun",
+      "back": "the quality",
+      "example": "La qualità del cibo è alta.",
+      "tier": "B1"
+     },
+     {
+      "front": "il costo della vita",
+      "pos": "phrase",
+      "back": "the cost of living",
+      "example": "Il costo della vita a Roma è alto.",
+      "tier": "B1"
+     },
+     {
+      "front": "scegliere",
+      "pos": "verb",
+      "back": "to choose",
+      "example": "Scelgo sempre il caffè, non il tè.",
+      "tier": "A2"
+     },
+     {
+      "front": "il giovane",
+      "pos": "noun",
+      "back": "young person",
+      "example": "Molti giovani cercano lavoro.",
+      "tier": "A2"
+     },
+     {
+      "front": "straniero",
+      "pos": "adj",
+      "back": "foreign",
+      "example": "Ho molti amici stranieri.",
+      "tier": "B1"
+     },
+     {
+      "front": "crescere",
+      "pos": "verb",
+      "back": "to grow, grow up",
+      "example": "I bambini crescono in fretta.",
+      "tier": "B1"
+     },
+     {
+      "front": "popolare",
+      "pos": "adj",
+      "back": "popular",
+      "example": "Questa canzone è molto popolare.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Milano, Roma e Torino sono tra le migliori città al mondo per gli studenti universitari.",
+      "point": "Il superlativo 'le migliori'",
+      "explanation": "'Migliore' è la forma irregolare di 'più buono'. Al plurale diventa 'migliori'.",
+      "why_tricky": "Non si dice 'le più buone città'; l'italiano preferisce 'le migliori'."
+     },
+     {
+      "sentence": "Molti giovani da tutto il mondo scelgono l'Italia per studiare.",
+      "point": "Verbo irregolare 'scegliere' (scelgono)",
+      "explanation": "'Scegliere' è irregolare: loro scelgono.",
+      "why_tricky": "La forma 'scelgono' non segue il modello regolare in -ono semplice."
+     },
+     {
+      "sentence": "Studiare in un'altra città è anche un modo per crescere e imparare le lingue.",
+      "point": "Infinito come soggetto ('Studiare... è')",
+      "explanation": "L'infinito 'studiare' funziona come soggetto della frase, come un nome.",
+      "why_tricky": "Il verbo principale resta al singolare: 'è', non 'sono'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "essere in classifica",
+      "meaning": "to be in the ranking / chart",
+      "example": "Il libro è primo in classifica questa settimana."
+     },
+     {
+      "phrase": "da tutto il mondo",
+      "meaning": "from all over the world",
+      "example": "Turisti da tutto il mondo visitano Roma."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quali città italiane sono nella classifica?",
+      "type": "open"
+     },
+     {
+      "q": "Quali cose importanti guarda la classifica QS?",
+      "type": "open"
+     },
+     {
+      "q": "Perché molti studenti stranieri scelgono l'Italia?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piacerebbe studiare in un'altra città o in un altro Paese? Scrivi perché sì o perché no."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-22-carta-identita-viaggi",
+   "title": "Viaggi all'estero: dal 3 agosto non sarà più valida la carta di identità cartacea",
+   "source": "RaiNews",
+   "date": "2026-07-22",
+   "level": "A2-B1",
+   "topics": [
+    "viaggi",
+    "documenti"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-carta-identita-viaggi",
+    "revision": 1,
+    "meta": {
+     "title": "Viaggi all'estero: dal 3 agosto non sarà più valida la carta di identità cartacea",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/articoli/2026/07/viaggi-allestero-dal-3-agosto-non-sara-piu-valida-la-carta-di-identita-cartacea-88bae37c-e85a-411c-917c-b1c62e177caf.html",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "viaggi",
+      "documenti"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "From 3 August the old paper identity card will no longer be valid for travelling abroad. This is important news for anyone who wants to go on holiday outside Italy. In Italy, on the other hand, the old card stays valid until its expiry date. But for trips outside the country the new document is needed.\n\nThe new document is the electronic identity card. It is a plastic card, like a credit card. To get it, you have to go to the town hall and book an appointment. Many people still have to change the old document. For this reason it is better not to wait until the last moment. Anyone who has a trip planned must check their identity card straight away. That way they can leave without problems and without nasty surprises.",
+    "resumen_es": "Dal 3 agosto la vecchia carta di identità di carta non sarà più valida per viaggiare all'estero. Questa è una notizia importante per chi vuole andare in vacanza fuori dall'Italia. In Italia, invece, la vecchia carta resta valida fino alla scadenza. Ma per i viaggi fuori dal Paese serve il nuovo documento.\n\nIl nuovo documento è la carta di identità elettronica. È una carta di plastica, come una carta di credito. Per averla, bisogna andare al comune e prenotare un appuntamento. Molte persone devono ancora cambiare il vecchio documento. Per questo è meglio non aspettare l'ultimo momento. Chi ha un viaggio in programma deve controllare subito la sua carta di identità. Così può partire senza problemi e senza brutte sorprese.",
+    "vocab": [
+     {
+      "front": "la carta di identità",
+      "pos": "noun",
+      "back": "the identity card",
+      "example": "Ho perso la carta di identità.",
+      "tier": "A2"
+     },
+     {
+      "front": "valido",
+      "pos": "adj",
+      "back": "valid",
+      "example": "Il biglietto è valido per un giorno.",
+      "tier": "A2"
+     },
+     {
+      "front": "viaggiare",
+      "pos": "verb",
+      "back": "to travel",
+      "example": "Mi piace viaggiare in treno.",
+      "tier": "A2"
+     },
+     {
+      "front": "all'estero",
+      "pos": "phrase",
+      "back": "abroad",
+      "example": "Lavora all'estero da due anni.",
+      "tier": "A2"
+     },
+     {
+      "front": "la scadenza",
+      "pos": "noun",
+      "back": "expiry, deadline",
+      "example": "Controlla la scadenza del latte.",
+      "tier": "B1"
+     },
+     {
+      "front": "il documento",
+      "pos": "noun",
+      "back": "the document",
+      "example": "Porta un documento con la foto.",
+      "tier": "A2"
+     },
+     {
+      "front": "il comune",
+      "pos": "noun",
+      "back": "the town hall, municipality",
+      "example": "L'ufficio è dentro il comune.",
+      "tier": "B1"
+     },
+     {
+      "front": "prenotare",
+      "pos": "verb",
+      "back": "to book, reserve",
+      "example": "Devo prenotare un tavolo.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'appuntamento",
+      "pos": "noun",
+      "back": "appointment",
+      "example": "Ho un appuntamento alle tre.",
+      "tier": "A2"
+     },
+     {
+      "front": "controllare",
+      "pos": "verb",
+      "back": "to check",
+      "example": "Controlla sempre l'orario del treno.",
+      "tier": "A2"
+     },
+     {
+      "front": "subito",
+      "pos": "adv",
+      "back": "right away, immediately",
+      "example": "Rispondi subito al messaggio.",
+      "tier": "A2"
+     },
+     {
+      "front": "la sorpresa",
+      "pos": "noun",
+      "back": "surprise",
+      "example": "Che bella sorpresa vederti!",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Dal 3 agosto la vecchia carta di identità di carta non sarà più valida per viaggiare all'estero.",
+      "point": "Futuro semplice ('sarà')",
+      "explanation": "'Sarà' è il futuro di 'essere'. Si usa per un momento futuro (dal 3 agosto).",
+      "why_tricky": "'Non... più' significa 'not anymore' e circonda il verbo."
+     },
+     {
+      "sentence": "Per averla, bisogna andare al comune e prenotare un appuntamento.",
+      "point": "'Bisogna' più infinito",
+      "explanation": "'Bisogna' significa 'it is necessary'. È impersonale e va con l'infinito.",
+      "why_tricky": "Non cambia mai forma: si dice sempre 'bisogna', non 'bisognano'."
+     },
+     {
+      "sentence": "Chi ha un viaggio in programma deve controllare subito la sua carta di identità.",
+      "point": "'Chi' come pronome ('la persona che')",
+      "explanation": "'Chi' vuol dire 'la persona che' e regge il verbo al singolare.",
+      "why_tricky": "Anche se parla di molte persone, il verbo resta singolare: 'chi ha... deve'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "all'ultimo momento",
+      "meaning": "at the last minute",
+      "example": "Ha comprato il biglietto all'ultimo momento."
+     },
+     {
+      "phrase": "avere in programma",
+      "meaning": "to have planned",
+      "example": "Abbiamo in programma un viaggio in Spagna."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa cambia dal 3 agosto per chi viaggia all'estero?",
+      "type": "open"
+     },
+     {
+      "q": "Come si fa per avere la nuova carta di identità?",
+      "type": "open"
+     },
+     {
+      "q": "Perché è meglio non aspettare l'ultimo momento?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace viaggiare all'estero? Scrivi di un viaggio che vuoi fare e perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-22-cielo-dolomiti",
+   "title": "Aurore e comete, il cielo dà spettacolo sulle Dolomiti",
+   "source": "ANSA",
+   "date": "2026-07-22",
+   "level": "A2-B1",
+   "topics": [
+    "natura",
+    "cielo"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-22-cielo-dolomiti",
+    "revision": 1,
+    "meta": {
+     "title": "Aurore e comete, il cielo dà spettacolo sulle Dolomiti",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/scienza_arte/2026/07/21/aurore-e-comete-il-cielo-da-spettacolo-sulle-dolomiti-_e4c26e23-ecc8-4877-b0e0-ac04180dcf32.html",
+     "date_published": "2026-07-22",
+     "date_processed": "2026-07-22",
+     "tags": [
+      "natura",
+      "cielo"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "On the Dolomites the night sky is a beautiful spectacle. You can see the auroras, the comets and the Milky Way. The Dolomites are famous mountains in northern Italy. At night, far from the cities, the stars can be seen very well.\n\nIn Veneto there is also an exhibition of photographs about the sky. The photos show the colours and the light of the stars. Many people love to look at the night sky. It is a simple way to relax and to feel close to nature. To see the stars well, it is important to go to a place without artificial lights. The mountains are the perfect place for this. Watching the stars is a simple but unforgettable experience for adults and children alike.",
+    "resumen_es": "Sulle Dolomiti il cielo di notte è uno spettacolo bellissimo. Si possono vedere le aurore, le comete e la Via Lattea. Le Dolomiti sono famose montagne del nord Italia. Di notte, lontano dalle città, le stelle si vedono molto bene.\n\nIn Veneto c'è anche una mostra di fotografie sul cielo. Le foto mostrano i colori e la luce delle stelle. Molte persone amano guardare il cielo di notte. È un modo semplice per rilassarsi e sentirsi vicini alla natura. Per vedere bene le stelle, è importante andare in un posto senza luci artificiali. Le montagne sono il luogo perfetto per questo. Guardare le stelle è un'esperienza semplice ma indimenticabile per grandi e piccoli.",
+    "vocab": [
+     {
+      "front": "il cielo",
+      "pos": "noun",
+      "back": "the sky",
+      "example": "Il cielo oggi è azzurro.",
+      "tier": "A2"
+     },
+     {
+      "front": "la stella",
+      "pos": "noun",
+      "back": "the star",
+      "example": "Di notte vedo tante stelle.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo spettacolo",
+      "pos": "noun",
+      "back": "the show, spectacle",
+      "example": "Il tramonto è uno spettacolo.",
+      "tier": "A2"
+     },
+     {
+      "front": "la montagna",
+      "pos": "noun",
+      "back": "the mountain",
+      "example": "In estate vado in montagna.",
+      "tier": "A2"
+     },
+     {
+      "front": "la cometa",
+      "pos": "noun",
+      "back": "the comet",
+      "example": "Ho visto una cometa nel cielo.",
+      "tier": "B1"
+     },
+     {
+      "front": "famoso",
+      "pos": "adj",
+      "back": "famous",
+      "example": "Roma è una città famosa.",
+      "tier": "A2"
+     },
+     {
+      "front": "lontano da",
+      "pos": "phrase",
+      "back": "far from",
+      "example": "Vivo lontano dal centro.",
+      "tier": "A2"
+     },
+     {
+      "front": "la mostra",
+      "pos": "noun",
+      "back": "the exhibition",
+      "example": "C'è una mostra di arte in centro.",
+      "tier": "B1"
+     },
+     {
+      "front": "rilassarsi",
+      "pos": "verb",
+      "back": "to relax",
+      "example": "Mi rilasso con un buon libro.",
+      "tier": "B1"
+     },
+     {
+      "front": "la natura",
+      "pos": "noun",
+      "back": "nature",
+      "example": "Amo passeggiare nella natura.",
+      "tier": "A2"
+     },
+     {
+      "front": "il luogo",
+      "pos": "noun",
+      "back": "the place",
+      "example": "Questo è il luogo perfetto per un picnic.",
+      "tier": "B1"
+     },
+     {
+      "front": "indimenticabile",
+      "pos": "adj",
+      "back": "unforgettable",
+      "example": "È stata una serata indimenticabile.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Si possono vedere le aurore, le comete e la Via Lattea.",
+      "point": "Si passivante ('si possono vedere')",
+      "explanation": "'Si possono vedere' significa 'one can see'. Il verbo va al plurale con l'oggetto plurale.",
+      "why_tricky": "'Possono' è plurale perché concorda con 'le aurore, le comete': non 'si può vedere'."
+     },
+     {
+      "sentence": "Di notte, lontano dalle città, le stelle si vedono molto bene.",
+      "point": "'Si' passivante ('si vedono')",
+      "explanation": "'Le stelle si vedono' vuol dire che le stelle si possono vedere.",
+      "why_tricky": "Il verbo concorda con 'le stelle' (plurale), quindi 'si vedono', non 'si vede'."
+     },
+     {
+      "sentence": "Per vedere bene le stelle, è importante andare in un posto senza luci artificiali.",
+      "point": "'Per' più infinito (scopo)",
+      "explanation": "'Per vedere' esprime lo scopo: perché facciamo qualcosa.",
+      "why_tricky": "Dopo 'per' con senso di scopo si usa sempre l'infinito, mai il presente."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dare spettacolo",
+      "meaning": "to put on a show, be a sight to behold",
+      "example": "I fuochi d'artificio danno spettacolo ogni estate."
+     },
+     {
+      "phrase": "sentirsi vicino alla natura",
+      "meaning": "to feel close to nature",
+      "example": "In montagna mi sento vicino alla natura."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa si può vedere nel cielo delle Dolomiti di notte?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa mostra la mostra di fotografie in Veneto?",
+      "type": "open"
+     },
+     {
+      "q": "Perché è meglio guardare le stelle lontano dalle città?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi di un luogo naturale che ami e perché."
+   }
+  },
   {
    "pack_id": "feed-2026-07-21-odissea-nolan",
    "title": "Arriva l'Odissea 'trionfo visivo' di Christopher Nolan",
@@ -5961,478 +6447,6 @@
      }
     ],
     "opinion_prompt": "Qual è il tuo attore o la tua attrice preferita? Perché ti piace il suo lavoro?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-15-colosseo-notturno",
-   "title": "'Una Notte al Colosseo', tornano gli appuntamenti dedicati alle visite guidate serali",
-   "source": "ANSA",
-   "date": "2026-07-15",
-   "level": "A2-B1",
-   "topics": [
-    "turismo",
-    "cultura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-15-colosseo-notturno",
-    "revision": 1,
-    "meta": {
-     "title": "'Una Notte al Colosseo', tornano gli appuntamenti dedicati alle visite guidate serali",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/07/14/una-notte-al-colosseo-tornano-gli-appuntamenti-dedicati-alle-visite-guidate_a900a08b-cddb-4d9e-a5a6-afce0c180c35.html",
-     "date_published": "2026-07-15",
-     "date_processed": "2026-07-15",
-     "tags": [
-      "turismo",
-      "cultura"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Evening guided tours are returning to the Colosseum, thanks to the 'A Night at the Colosseum' initiative. During the summer, visitors can discover this ancient Roman monument at night, with an atmosphere very different from the daytime one. The soft lights and the silence make the experience special and evocative. The archaeological park's management has organized these evening events for several years, and every summer they draw a great deal of public interest.\n\nAccording to the park's director, the main goal is to combine protecting the monument with historical research and cultural promotion of the site. Evening visits also help reduce the crowding typical of the hottest hours of the day. Many tourists prefer this time because it is cooler and there are fewer people in line. The Colosseum thus remains one of the most visited monuments in Italy and the world.",
-    "resumen_es": "Tornano le visite guidate serali al Colosseo, grazie all'iniziativa 'Una Notte al Colosseo'. Durante l'estate, i visitatori possono scoprire questo antico monumento romano di notte, con un'atmosfera molto diversa da quella del giorno. Le luci soffuse e il silenzio rendono l'esperienza speciale e suggestiva. La direzione del parco archeologico organizza questi appuntamenti serali da diversi anni, e ogni estate registrano molto interesse da parte del pubblico.\n\nSecondo il direttore del parco, l'obiettivo principale è unire la tutela del monumento con la ricerca storica e la valorizzazione culturale del sito. Le visite serali permettono anche di ridurre l'affollamento tipico delle ore più calde della giornata. Molti turisti preferiscono questo orario perché fa meno caldo e c'è meno gente in fila. Il Colosseo resta così uno dei monumenti più visitati d'Italia e del mondo.",
-    "vocab": [
-     {
-      "front": "visita guidata",
-      "pos": "phrase",
-      "back": "guided tour",
-      "example": "Facciamo una visita guidata al museo.",
-      "tier": "A2"
-     },
-     {
-      "front": "serale",
-      "pos": "adj",
-      "back": "evening (adj.)",
-      "example": "C'è un corso serale di italiano.",
-      "tier": "B1"
-     },
-     {
-      "front": "monumento",
-      "pos": "noun",
-      "back": "monument",
-      "example": "Il Colosseo è un monumento famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "atmosfera",
-      "pos": "noun",
-      "back": "atmosphere",
-      "example": "C'è un'atmosfera speciale di sera.",
-      "tier": "B1"
-     },
-     {
-      "front": "silenzio",
-      "pos": "noun",
-      "back": "silence",
-      "example": "Nel parco c'è molto silenzio.",
-      "tier": "A2"
-     },
-     {
-      "front": "direzione",
-      "pos": "noun",
-      "back": "management, direction",
-      "example": "La direzione ha organizzato l'evento.",
-      "tier": "B1"
-     },
-     {
-      "front": "tutela",
-      "pos": "noun",
-      "back": "protection, safeguarding",
-      "example": "La tutela dei monumenti è importante.",
-      "tier": "B1"
-     },
-     {
-      "front": "ricerca",
-      "pos": "noun",
-      "back": "research",
-      "example": "Fanno ricerca sulla storia romana.",
-      "tier": "A2"
-     },
-     {
-      "front": "valorizzazione",
-      "pos": "noun",
-      "back": "promotion, enhancement",
-      "example": "La valorizzazione culturale attira turisti.",
-      "tier": "B1"
-     },
-     {
-      "front": "affollamento",
-      "pos": "noun",
-      "back": "crowding",
-      "example": "C'è molto affollamento nelle ore calde.",
-      "tier": "B1"
-     },
-     {
-      "front": "orario",
-      "pos": "noun",
-      "back": "schedule, time",
-      "example": "Preferisco l'orario serale.",
-      "tier": "A2"
-     },
-     {
-      "front": "turista",
-      "pos": "noun",
-      "back": "tourist",
-      "example": "Molti turisti visitano Roma d'estate.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Durante l'estate, i visitatori possono scoprire questo antico monumento romano di notte, con un'atmosfera molto diversa da quella del giorno.",
-      "point": "diversa da (comparazione di differenza)",
-      "explanation": "'Diversa da' significa 'different from', e 'quella' sostituisce 'l'atmosfera' per evitare la ripetizione, concordando in genere e numero.",
-      "why_tricky": "Gli studenti dicono spesso 'diversa che' per analogia con l'inglese 'different than', ma l'italiano richiede 'diversa da'."
-     },
-     {
-      "sentence": "Secondo il direttore del parco, l'obiettivo principale è unire la tutela del monumento con la ricerca storica e la valorizzazione culturale del sito.",
-      "point": "secondo + persona (opinione riportata)",
-      "explanation": "'Secondo il direttore' significa 'according to the director', e introduce l'opinione di un'altra persona senza un verbo di dire.",
-      "why_tricky": "Gli studenti a volte traducono letteralmente 'according to' con altre preposizioni, ma l'italiano usa la preposizione fissa 'secondo'."
-     },
-     {
-      "sentence": "Le visite serali permettono anche di ridurre l'affollamento tipico delle ore più calde della giornata.",
-      "point": "permettere di + infinito",
-      "explanation": "'Permettere di' + infinito significa 'to allow to', e richiede sempre la preposizione 'di' prima del verbo all'infinito.",
-      "why_tricky": "Gli studenti spesso omettono 'di' o usano un'altra preposizione, ma 'permettere' richiede specificamente 'di' + infinito."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare meno caldo",
-      "meaning": "to be less hot (weather expression)",
-      "example": "La sera fa meno caldo, così usciamo a fare una passeggiata."
-     },
-     {
-      "phrase": "uno dei più visitati",
-      "meaning": "one of the most visited",
-      "example": "Questo museo è uno dei più visitati della città."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Cosa si può fare durante 'Una Notte al Colosseo'?",
-      "type": "open"
-     },
-     {
-      "q": "Perché la visita serale è diversa da quella diurna?",
-      "type": "open"
-     },
-     {
-      "q": "Quali sono i vantaggi di visitare il Colosseo di sera, secondo il testo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Preferisci visitare i monumenti di giorno o di sera? Perché?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-15-meta-licenziamenti-ai",
-   "title": "Meta, 26 dipendenti fanno causa: \"L'AI ha scelto per i licenziamenti lavoratori in congedo\"",
-   "source": "RaiNews",
-   "date": "2026-07-15",
-   "level": "A2-B1",
-   "topics": [
-    "tecnologia",
-    "lavoro"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-15-meta-licenziamenti-ai",
-    "revision": 1,
-    "meta": {
-     "title": "Meta, 26 dipendenti fanno causa: \"L'AI ha scelto per i licenziamenti lavoratori in congedo\"",
-     "source": "RaiNews",
-     "url": "https://www.rainews.it/articoli/2026/07/meta-26-dipendenti-fanno-causa-lai-ha-scelto-per-i-licenziamenti-lavoratori-in-congedo-6c8f35ca-e6f7-4356-a6f8-85adec425bc9.html",
-     "date_published": "2026-07-15",
-     "date_processed": "2026-07-15",
-     "tags": [
-      "tecnologia",
-      "lavoro"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Twenty-six Meta employees have decided to sue the company. According to them, an artificial intelligence algorithm chose who to lay off during the latest major staff cuts. The workers claim the system allegedly penalized mainly people on medical or parental leave, meaning those who had been absent for health reasons or for the birth of a child. For this reason, they consider the layoffs unfair and discriminatory.\n\nMeta firmly denies the accusations. The company states that final decisions have always been made by people, not by artificial intelligence, even though algorithms helped analyze the data. The case raises an important question for the future of work: how much control should algorithms have over decisions affecting people's lives? The lawsuit could become an important example for other major tech companies.",
-    "resumen_es": "Ventisei dipendenti di Meta hanno deciso di fare causa all'azienda. Secondo loro, un algoritmo di intelligenza artificiale ha scelto chi licenziare durante gli ultimi grandi tagli di personale. I lavoratori sostengono che il sistema avrebbe penalizzato soprattutto le persone in congedo medico o parentale, cioè chi si era assentato per motivi di salute o per la nascita di un figlio. Per questo motivo, considerano il licenziamento ingiusto e discriminatorio.\n\nMeta respinge fermamente le accuse. L'azienda afferma che le decisioni finali sono sempre state prese da persone, non dall'intelligenza artificiale, anche se gli algoritmi hanno aiutato ad analizzare i dati. Il caso solleva una domanda importante per il futuro del lavoro: quanto controllo dovrebbero avere gli algoritmi sulle decisioni che riguardano la vita delle persone? La causa potrebbe diventare un esempio importante per altre grandi aziende tecnologiche.",
-    "vocab": [
-     {
-      "front": "dipendente",
-      "pos": "noun",
-      "back": "employee",
-      "example": "L'azienda ha molti dipendenti.",
-      "tier": "A2"
-     },
-     {
-      "front": "fare causa",
-      "pos": "phrase",
-      "back": "to sue",
-      "example": "Il cliente ha fatto causa alla banca.",
-      "tier": "B1"
-     },
-     {
-      "front": "algoritmo",
-      "pos": "noun",
-      "back": "algorithm",
-      "example": "L'algoritmo sceglie i risultati.",
-      "tier": "B1"
-     },
-     {
-      "front": "intelligenza artificiale",
-      "pos": "phrase",
-      "back": "artificial intelligence",
-      "example": "L'intelligenza artificiale aiuta molte aziende.",
-      "tier": "B1"
-     },
-     {
-      "front": "licenziare",
-      "pos": "verb",
-      "back": "to lay off, fire",
-      "example": "L'azienda ha licenziato dieci persone.",
-      "tier": "B1"
-     },
-     {
-      "front": "taglio di personale",
-      "pos": "phrase",
-      "back": "staff cuts",
-      "example": "C'è stato un taglio di personale.",
-      "tier": "B1"
-     },
-     {
-      "front": "congedo",
-      "pos": "noun",
-      "back": "leave (from work)",
-      "example": "È in congedo parentale.",
-      "tier": "B1"
-     },
-     {
-      "front": "ingiusto/a",
-      "pos": "adj",
-      "back": "unfair",
-      "example": "La decisione è stata ingiusta.",
-      "tier": "A2"
-     },
-     {
-      "front": "discriminatorio/a",
-      "pos": "adj",
-      "back": "discriminatory",
-      "example": "Il trattamento era discriminatorio.",
-      "tier": "B1"
-     },
-     {
-      "front": "respingere",
-      "pos": "verb",
-      "back": "to reject, deny",
-      "example": "L'azienda respinge le accuse.",
-      "tier": "B1"
-     },
-     {
-      "front": "accusa",
-      "pos": "noun",
-      "back": "accusation",
-      "example": "Nega ogni accusa.",
-      "tier": "A2"
-     },
-     {
-      "front": "risorse umane",
-      "pos": "phrase",
-      "back": "human resources",
-      "example": "Lavora nelle risorse umane.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Ventisei dipendenti di Meta hanno deciso di fare causa all'azienda.",
-      "point": "fare causa a (espressione fissa, passato prossimo)",
-      "explanation": "'Fare causa a' significa 'to sue', ed è coniugato al passato prossimo 'hanno fatto causa', concordando con il soggetto plurale.",
-      "why_tricky": "Gli studenti a volte traducono letteralmente 'fare una causa', ma è un'espressione legale fissa che richiede 'a' prima della persona o dell'ente citato in giudizio."
-     },
-     {
-      "sentence": "I lavoratori sostengono che il sistema avrebbe penalizzato soprattutto le persone in congedo medico o parentale, cioè chi si era assentato per motivi di salute o per la nascita di un figlio.",
-      "point": "condizionale passato per un fatto non confermato",
-      "explanation": "'Avrebbe penalizzato' è il condizionale passato, usato nel giornalismo italiano per riportare un fatto non verificato o presunto, simile a 'allegedly penalized'.",
-      "why_tricky": "Gli studenti spesso usano il passato prossimo 'ha penalizzato', perdendo la sfumatura che il condizionale segnala un'accusa non confermata."
-     },
-     {
-      "sentence": "La causa potrebbe diventare un esempio importante per altre grandi aziende tecnologiche.",
-      "point": "potrebbe + infinito (possibilità)",
-      "explanation": "'Potrebbe diventare' è il condizionale di 'potere' + infinito, ed esprime una possibilità futura, equivalente a 'could become'.",
-      "why_tricky": "A questo livello si confondono spesso 'può' (presente, certezza) e 'potrebbe' (condizionale, possibilità ipotetica)."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare causa",
-      "meaning": "to sue, to take legal action",
-      "example": "Il cliente ha deciso di fare causa alla banca."
-     },
-     {
-      "phrase": "prendere una decisione",
-      "meaning": "to make a decision",
-      "example": "Il direttore ha preso una decisione difficile."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché i dipendenti di Meta hanno fatto causa all'azienda?",
-      "type": "open"
-     },
-     {
-      "q": "Come risponde Meta alle accuse?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, è giusto che un algoritmo decida chi licenziare?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Pensi che l'intelligenza artificiale dovrebbe prendere decisioni importanti sul lavoro delle persone? Perché sì o perché no?"
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-14-ondata-di-calore",
-   "title": "Ondata di calore, l'Italia nella traiettoria dell'anticiclone",
-   "source": "ANSA",
-   "date": "2026-07-13",
-   "level": "A2-B1",
-   "topics": [
-    "meteo",
-    "ambiente"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-14-ondata-di-calore",
-    "revision": 1,
-    "meta": {
-     "title": "Ondata di calore, l'Italia nella traiettoria dell'anticiclone",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/13/ondata-di-calore-litalia-nella-traiettoria-dellanticiclone-_bcd3a877-63e0-47c8-9009-c5d362147c1d.html",
-     "date_published": "2026-07-13",
-     "date_processed": "2026-07-14",
-     "tags": [
-      "meteo",
-      "ambiente"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In recent days a strong high-pressure system is bringing intense heat across Italy. According to an expert, the areas hit hardest are Sardinia and the Tyrrhenian coast, where temperatures are rising sharply and the heat is lasting for a long time. People need to be careful, drink plenty of water, and avoid going out during the hottest hours of the day.\n\nThe intense heat is not just a problem for people: animals, plants, and agriculture also suffer when temperatures climb this high. Experts say heatwaves like this one are becoming more and more frequent because of climate change, and they are calling for more attention to protecting elderly people and children, who are the most vulnerable.",
-    "resumen_es": "In questi giorni un forte anticiclone porta molto caldo in tutta Italia. Secondo un esperto, le zone più colpite sono la Sardegna e la costa tirrenica, dove le temperature salgono molto e il caldo dura a lungo. Le persone devono stare attente, bere molta acqua e uscire meno nelle ore più calde del giorno.\n\nIl caldo intenso non è un problema solo per le persone: anche gli animali, le piante e l'agricoltura soffrono quando le temperature sono così alte. Gli esperti dicono che ondate di calore come questa diventano sempre più frequenti a causa dei cambiamenti climatici, e chiedono più attenzione per proteggere le persone anziane e i bambini, che sono i più vulnerabili.",
-    "vocab": [
-     {
-      "front": "l'ondata di calore",
-      "pos": "noun",
-      "back": "heat wave",
-      "example": "C'è un'ondata di calore in Italia.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'anticiclone",
-      "pos": "noun",
-      "back": "anticyclone, high-pressure system",
-      "example": "L'anticiclone porta caldo e sole.",
-      "tier": "B1"
-     },
-     {
-      "front": "la temperatura",
-      "pos": "noun",
-      "back": "temperature",
-      "example": "Le temperature salgono molto.",
-      "tier": "A2"
-     },
-     {
-      "front": "colpito/a",
-      "pos": "adj",
-      "back": "hit, affected",
-      "example": "La Sardegna è la zona più colpita.",
-      "tier": "B1"
-     },
-     {
-      "front": "la costa",
-      "pos": "noun",
-      "back": "coast",
-      "example": "Il caldo colpisce anche la costa tirrenica.",
-      "tier": "A2"
-     },
-     {
-      "front": "stare attento/a",
-      "pos": "verb phrase",
-      "back": "to be careful",
-      "example": "Bisogna stare attenti con il caldo.",
-      "tier": "A2"
-     },
-     {
-      "front": "il cambiamento climatico",
-      "pos": "noun",
-      "back": "climate change",
-      "example": "Il cambiamento climatico causa più ondate di calore.",
-      "tier": "B1"
-     },
-     {
-      "front": "vulnerabile",
-      "pos": "adj",
-      "back": "vulnerable",
-      "example": "I bambini sono più vulnerabili al caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "soffrire",
-      "pos": "verb",
-      "back": "to suffer",
-      "example": "Anche le piante soffrono per il caldo.",
-      "tier": "A2"
-     },
-     {
-      "front": "proteggere",
-      "pos": "verb",
-      "back": "to protect",
-      "example": "Dobbiamo proteggere le persone anziane.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Secondo un esperto, le zone più colpite sono la Sardegna e la costa tirrenica, dove le temperature salgono molto e il caldo dura a lungo.",
-      "point": "superlativo relativo",
-      "explanation": "'Le più colpite' esprime 'the most affected', formato con 'più' + aggettivo.",
-      "why_tricky": "Gli studenti a volte dicono 'molto colpite' invece di usare la struttura corretta del superlativo relativo."
-     },
-     {
-      "sentence": "Le persone devono stare attente, bere molta acqua e uscire meno nelle ore più calde del giorno.",
-      "point": "dovere + infinito",
-      "explanation": "'Devono' + infinito esprime obbligo o necessità.",
-      "why_tricky": "Gli studenti a volte coniugano male 'dovere' o usano male l'infinito dopo di esso."
-     },
-     {
-      "sentence": "Gli esperti dicono che ondate di calore come questa diventano sempre più frequenti a causa dei cambiamenti climatici, e chiedono più attenzione per proteggere le persone anziane e i bambini, che sono i più vulnerabili.",
-      "point": "sempre più + aggettivo",
-      "explanation": "Questa struttura esprime una tendenza crescente ('more and more').",
-      "why_tricky": "L'ordine delle parole è diverso dall'inglese 'more and more frequent', e gli studenti a volte traducono letteralmente come 'più e più'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare attenzione",
-      "meaning": "to pay attention, be careful",
-      "example": "Bisogna fare attenzione quando fa molto caldo."
-     },
-     {
-      "phrase": "a causa di",
-      "meaning": "because of",
-      "example": "Le ondate di calore aumentano a causa dei cambiamenti climatici."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Quali zone dell'Italia sono più colpite dall'ondata di calore?",
-      "type": "open"
-     },
-     {
-      "q": "Cosa devono fare le persone per proteggersi dal caldo?",
-      "type": "open"
-     },
-     {
-      "q": "Perché, secondo gli esperti, le ondate di calore stanno diventando più frequenti?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, cosa possono fare le persone ogni giorno per aiutare a combattere i cambiamenti climatici?"
    }
   }
  ]
