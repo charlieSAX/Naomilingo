@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-07-22T20:11:22Z",
+  "generated_at": "2026-07-23T08:14:52Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-23-cristo-abissi",
+      "title": "Cristo degli Abissi, la pulizia annuale della statua sommersa",
+      "source": "Rai News",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "mare"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-cristo-abissi",
+        "revision": 1,
+        "meta": {
+          "title": "Cristo degli Abissi, la pulizia annuale della statua sommersa",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/07/cristo-degli-abissi-la-pulizia-annuale-della-statua-sommersa-f72e027d-bf32-4b65-9853-200e55dbfad7.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "cultura",
+            "mare"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Every year some divers clean a very special statue. It is called Christ of the Abyss and it is under the sea, near San Fruttuoso, in Liguria. The statue is made of bronze and shows Christ with his arms open towards the sky. Many tourists and divers go to see it every summer. For this reason it is important to keep it clean and in good condition.\n\nThis year divers from different state forces worked together. To clean the bronze they used a special technique. This technique does not touch the surface directly, so the statue does not get ruined. The work lasts a few hours, but it requires a lot of attention. In the end, the statue shines again under the water. It is a small gesture to protect a symbol loved by many people.",
+        "resumen_es": "Ogni anno alcuni sommozzatori puliscono una statua molto speciale. Si chiama Cristo degli Abissi e si trova sotto il mare, vicino a San Fruttuoso, in Liguria. La statua è di bronzo e mostra Cristo con le braccia aperte verso l'alto. Molti turisti e subacquei vanno a vederla ogni estate. Per questo è importante tenerla pulita e in buone condizioni.\n\nQuest'anno hanno lavorato insieme sommozzatori di diverse forze dello Stato. Per pulire il bronzo hanno usato una tecnica speciale. Questa tecnica non tocca la superficie in modo diretto, così la statua non si rovina. Il lavoro dura poche ore, ma richiede molta attenzione. Alla fine, la statua torna a brillare sotto l'acqua. È un piccolo gesto per proteggere un simbolo amato da molte persone.",
+        "vocab": [
+          {
+            "front": "il sommozzatore",
+            "pos": "noun",
+            "back": "diver",
+            "example": "Il sommozzatore scende sotto il mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "pulire",
+            "pos": "verb",
+            "back": "to clean",
+            "example": "Devo pulire la mia camera.",
+            "tier": "A2"
+          },
+          {
+            "front": "la statua",
+            "pos": "noun",
+            "back": "statue",
+            "example": "Nella piazza c'è una statua antica.",
+            "tier": "A2"
+          },
+          {
+            "front": "sommerso",
+            "pos": "adj",
+            "back": "submerged, underwater",
+            "example": "Il paese sommerso si vede ancora.",
+            "tier": "B1"
+          },
+          {
+            "front": "il bronzo",
+            "pos": "noun",
+            "back": "bronze",
+            "example": "La statua è fatta di bronzo.",
+            "tier": "B1"
+          },
+          {
+            "front": "le braccia",
+            "pos": "noun",
+            "back": "arms",
+            "example": "Apre le braccia per abbracciarmi.",
+            "tier": "A2"
+          },
+          {
+            "front": "il subacqueo",
+            "pos": "noun",
+            "back": "scuba diver",
+            "example": "Il subacqueo porta una maschera.",
+            "tier": "B1"
+          },
+          {
+            "front": "la superficie",
+            "pos": "noun",
+            "back": "surface",
+            "example": "La barca resta sulla superficie del mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "rovinarsi",
+            "pos": "verb",
+            "back": "to get ruined",
+            "example": "Con la pioggia il legno si rovina.",
+            "tier": "B1"
+          },
+          {
+            "front": "brillare",
+            "pos": "verb",
+            "back": "to shine",
+            "example": "Le stelle brillano nel cielo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il gesto",
+            "pos": "noun",
+            "back": "gesture",
+            "example": "È stato un gesto molto gentile.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Dobbiamo proteggere la natura.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si chiama Cristo degli Abissi e si trova sotto il mare, vicino a San Fruttuoso, in Liguria.",
+            "point": "Verbi pronominali (si chiama, si trova)",
+            "explanation": "'Si chiama' e 'si trova' usano il pronome 'si'. 'Si chiama' significa avere un nome; 'si trova' indica dove è qualcosa.",
+            "why_tricky": "Il pronome 'si' non si traduce direttamente in inglese e va sempre prima del verbo."
+          },
+          {
+            "sentence": "Per pulire il bronzo hanno usato una tecnica speciale.",
+            "point": "'per' + infinito e passato prossimo",
+            "explanation": "'Per pulire' esprime lo scopo. 'Hanno usato' è il passato prossimo con l'ausiliare 'avere'.",
+            "why_tricky": "Dopo 'per' serve sempre l'infinito, non un verbo coniugato, e il participio 'usato' non cambia con 'avere' qui."
+          },
+          {
+            "sentence": "Questa tecnica non tocca la superficie in modo diretto, così la statua non si rovina.",
+            "point": "La negazione con 'non'",
+            "explanation": "In italiano 'non' va sempre prima del verbo per fare la frase negativa: 'non tocca', 'non si rovina'.",
+            "why_tricky": "A differenza dell'inglese, non serve un verbo ausiliare come 'do not'; basta mettere 'non' davanti al verbo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a braccia aperte",
+            "meaning": "with open arms, warmly",
+            "example": "Ci hanno accolto a braccia aperte."
+          },
+          {
+            "phrase": "poco a poco",
+            "meaning": "little by little",
+            "example": "Poco a poco sto imparando l'italiano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove si trova la statua del Cristo degli Abissi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i sommozzatori usano una tecnica speciale per pulirla?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perché è importante proteggere questa statua?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe visitare una statua sott'acqua? Scrivi qualche frase e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-robot-calciatori",
+      "title": "Cina, in campo i robot calciatori: a Pechino il primo torneo per studenti",
+      "source": "Rai News",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "sport"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-robot-calciatori",
+        "revision": 1,
+        "meta": {
+          "title": "Cina, in campo i robot calciatori: a Pechino il primo torneo per studenti",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/07/cina-in-campo-i-robot-calciatori-a-pechino-il-primo-torneo-per-studenti-65df6662-41ac-4abc-99f6-aba6b212e9a7.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "tecnologia",
+            "sport"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Beijing, China, something curious happened. Some robots played a football match. They were not guided by a person with a remote control. The robots moved by themselves, thanks to an artificial intelligence program. It was the first tournament of this kind for high school students.\n\nThe robots have the shape of a human body and they walk on two legs. The school students built and programmed them with their own hands. During the match, the robots ran after the ball and tried to score. Sometimes they fell to the ground, but then they got up by themselves. For many experts, these games help young people to learn technology. The future of sport, perhaps, will also be this.",
+        "resumen_es": "A Pechino, in Cina, è successa una cosa curiosa. Alcuni robot hanno giocato una partita di calcio. Non erano guidati da una persona con un telecomando. I robot si muovevano da soli, grazie a un programma di intelligenza artificiale. È stato il primo torneo di questo tipo per studenti delle scuole superiori.\n\nI robot hanno la forma di un corpo umano e camminano su due gambe. I ragazzi delle scuole li hanno costruiti e programmati con le loro mani. Durante la partita, i robot correvano dietro al pallone e cercavano di segnare. A volte cadevano per terra, ma poi si rialzavano da soli. Per molti esperti, questi giochi aiutano i giovani a imparare la tecnologia. Il futuro dello sport, forse, sarà anche questo.",
+        "vocab": [
+          {
+            "front": "il robot",
+            "pos": "noun",
+            "back": "robot",
+            "example": "Il robot pulisce il pavimento da solo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il campo",
+            "pos": "noun",
+            "back": "field, pitch",
+            "example": "I giocatori entrano in campo.",
+            "tier": "A2"
+          },
+          {
+            "front": "la partita",
+            "pos": "noun",
+            "back": "match, game",
+            "example": "Guardiamo la partita insieme?",
+            "tier": "A2"
+          },
+          {
+            "front": "il telecomando",
+            "pos": "noun",
+            "back": "remote control",
+            "example": "Dov'è il telecomando della TV?",
+            "tier": "B1"
+          },
+          {
+            "front": "muoversi",
+            "pos": "verb",
+            "back": "to move",
+            "example": "Il bambino non riesce a muoversi.",
+            "tier": "B1"
+          },
+          {
+            "front": "da soli",
+            "pos": "phrase",
+            "back": "by themselves, alone",
+            "example": "I bambini hanno fatto i compiti da soli.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'intelligenza artificiale",
+            "pos": "noun",
+            "back": "artificial intelligence",
+            "example": "L'intelligenza artificiale cambia il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il torneo",
+            "pos": "noun",
+            "back": "tournament",
+            "example": "Il torneo di tennis inizia domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "le scuole superiori",
+            "pos": "noun",
+            "back": "high school",
+            "example": "Mia sorella va alle scuole superiori.",
+            "tier": "A2"
+          },
+          {
+            "front": "la gamba",
+            "pos": "noun",
+            "back": "leg",
+            "example": "Mi fa male la gamba destra.",
+            "tier": "A2"
+          },
+          {
+            "front": "segnare",
+            "pos": "verb",
+            "back": "to score",
+            "example": "Ha segnato un bel gol.",
+            "tier": "B1"
+          },
+          {
+            "front": "cadere",
+            "pos": "verb",
+            "back": "to fall",
+            "example": "Attento a non cadere!",
+            "tier": "A2"
+          },
+          {
+            "front": "rialzarsi",
+            "pos": "verb",
+            "back": "to get up again",
+            "example": "Dopo la caduta, si è rialzato subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pallone",
+            "pos": "noun",
+            "back": "ball",
+            "example": "I bambini giocano con il pallone.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I robot si muovevano da soli, grazie a un programma di intelligenza artificiale.",
+            "point": "Imperfetto dei verbi riflessivi",
+            "explanation": "'Si muovevano' è l'imperfetto del verbo riflessivo 'muoversi'. L'imperfetto descrive un'azione che continua nel passato.",
+            "why_tricky": "Il pronome 'si' resta prima del verbo e la desinenza '-vano' indica la terza persona plurale."
+          },
+          {
+            "sentence": "I ragazzi delle scuole li hanno costruiti e programmati con le loro mani.",
+            "point": "Passato prossimo con il pronome 'li'",
+            "explanation": "Con il pronome diretto 'li' (i robot), il participio passato cambia e finisce in '-i': 'costruiti', 'programmati'.",
+            "why_tricky": "L'accordo del participio con il pronome diretto è facile da dimenticare; senza 'li' si direbbe 'hanno costruito'."
+          },
+          {
+            "sentence": "A volte cadevano per terra, ma poi si rialzavano da soli.",
+            "point": "Imperfetto per azioni ripetute",
+            "explanation": "'Cadevano' e 'si rialzavano' sono all'imperfetto perché descrivono azioni che si ripetevano più volte durante la partita.",
+            "why_tricky": "Si tende a usare il passato prossimo ('sono caduti'), ma per un'azione abituale o ripetuta serve l'imperfetto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "con le proprie mani",
+            "meaning": "with one's own hands",
+            "example": "Ha costruito la casa con le proprie mani."
+          },
+          {
+            "phrase": "fare i primi passi",
+            "meaning": "to take the first steps",
+            "example": "L'azienda sta facendo i primi passi in questo settore."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi ha costruito e programmato i robot calciatori?",
+            "type": "open"
+          },
+          {
+            "q": "Come si muovevano i robot durante la partita?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo gli esperti, perché questi giochi sono utili per i giovani?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Pensi che i robot possano rendere lo sport più interessante? Scrivi qualche frase con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-malpensa-emergenza",
+      "title": "Paura in volo: comandante si sente male, atterraggio d'emergenza a Malpensa",
+      "source": "Rai News",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "viaggi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-malpensa-emergenza",
+        "revision": 1,
+        "meta": {
+          "title": "Paura in volo: comandante si sente male, atterraggio d'emergenza a Malpensa",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/07/paura-in-volo-comandante-si-sente-male-atterraggio-demergenza-a-malpensa-c5220202-afdf-4f1b-95b8-ee55b1353373.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "cronaca",
+            "viaggi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A plane made an emergency landing at Malpensa airport, near Milan. During the flight, the captain suddenly felt ill. Luckily, the second pilot took control of the plane. In this way he was able to land safely. There were many passengers on board, but no one got hurt.\n\nThe plane, a Boeing 737, had departed from Palma de Mallorca, in Spain. Its destination was Warsaw, in Poland. After the captain's problem, the pilots decided to change course. They chose Malpensa because it was the nearest safe airport. On arrival, doctors immediately helped the captain. This episode reminds us how important it is to have two pilots on every plane.",
+        "resumen_es": "Un aereo ha fatto un atterraggio d'emergenza all'aeroporto di Malpensa, vicino a Milano. Durante il volo, il comandante si è sentito male all'improvviso. Per fortuna, il secondo pilota ha preso il controllo dell'aereo. Così ha potuto atterrare in modo sicuro. A bordo c'erano molti passeggeri, ma nessuno si è fatto male.\n\nL'aereo, un Boeing 737, era partito da Palma di Maiorca, in Spagna. La sua destinazione era Varsavia, in Polonia. Dopo il problema del comandante, i piloti hanno deciso di cambiare rotta. Hanno scelto Malpensa perché era l'aeroporto sicuro più vicino. All'arrivo, i medici hanno aiutato subito il comandante. Questo episodio ci ricorda quanto è importante avere due piloti su ogni aereo.",
+        "vocab": [
+          {
+            "front": "l'aereo",
+            "pos": "noun",
+            "back": "plane",
+            "example": "L'aereo parte tra un'ora.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'atterraggio",
+            "pos": "noun",
+            "back": "landing",
+            "example": "L'atterraggio è stato molto tranquillo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il volo",
+            "pos": "noun",
+            "back": "flight",
+            "example": "Il volo per Roma è in ritardo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il comandante",
+            "pos": "noun",
+            "back": "captain",
+            "example": "Il comandante saluta i passeggeri.",
+            "tier": "B1"
+          },
+          {
+            "front": "sentirsi male",
+            "pos": "phrase",
+            "back": "to feel ill",
+            "example": "Mi sento male, devo sedermi.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'improvviso",
+            "pos": "adv",
+            "back": "suddenly",
+            "example": "All'improvviso ha iniziato a piovere.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pilota",
+            "pos": "noun",
+            "back": "pilot",
+            "example": "Il pilota ha molta esperienza.",
+            "tier": "A2"
+          },
+          {
+            "front": "atterrare",
+            "pos": "verb",
+            "back": "to land",
+            "example": "L'aereo atterra alle nove.",
+            "tier": "B1"
+          },
+          {
+            "front": "a bordo",
+            "pos": "phrase",
+            "back": "on board",
+            "example": "A bordo c'è anche un medico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il passeggero",
+            "pos": "noun",
+            "back": "passenger",
+            "example": "Ogni passeggero ha un posto.",
+            "tier": "A2"
+          },
+          {
+            "front": "farsi male",
+            "pos": "phrase",
+            "back": "to get hurt",
+            "example": "È caduto ma non si è fatto male.",
+            "tier": "B1"
+          },
+          {
+            "front": "la destinazione",
+            "pos": "noun",
+            "back": "destination",
+            "example": "Qual è la tua destinazione?",
+            "tier": "B1"
+          },
+          {
+            "front": "cambiare rotta",
+            "pos": "phrase",
+            "back": "to change course",
+            "example": "La nave ha dovuto cambiare rotta.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante il volo, il comandante si è sentito male all'improvviso.",
+            "point": "Passato prossimo dei verbi riflessivi",
+            "explanation": "'Si è sentito' usa l'ausiliare 'essere'. Con 'essere', il participio 'sentito' concorda con il soggetto maschile singolare.",
+            "why_tricky": "I verbi riflessivi vogliono sempre 'essere', non 'avere', e il participio deve accordarsi con il soggetto."
+          },
+          {
+            "sentence": "L'aereo, un Boeing 737, era partito da Palma di Maiorca, in Spagna.",
+            "point": "Trapassato prossimo",
+            "explanation": "'Era partito' è il trapassato prossimo: descrive un'azione avvenuta prima di un'altra azione passata.",
+            "why_tricky": "Si forma con l'imperfetto di 'essere' o 'avere' più il participio; qui 'partire' vuole 'essere' e l'accordo ('partito')."
+          },
+          {
+            "sentence": "Hanno scelto Malpensa perché era l'aeroporto sicuro più vicino.",
+            "point": "Superlativo relativo",
+            "explanation": "'Il più vicino' è il superlativo relativo: indica il primo tra un gruppo. Si forma con 'il/la più' più l'aggettivo.",
+            "why_tricky": "L'articolo resta davanti al nome e 'più' va prima dell'aggettivo; è diverso dal comparativo semplice."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "per fortuna",
+            "meaning": "luckily, fortunately",
+            "example": "Per fortuna non è successo niente di grave."
+          },
+          {
+            "phrase": "sano e salvo",
+            "meaning": "safe and sound",
+            "example": "Sono arrivati tutti sani e salvi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché l'aereo ha fatto un atterraggio d'emergenza?",
+            "type": "open"
+          },
+          {
+            "q": "Chi ha preso il controllo dell'aereo e cosa è successo ai passeggeri?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i piloti hanno scelto proprio l'aeroporto di Malpensa?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, viaggiare in aereo è sicuro? Scrivi qualche frase e spiega la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-07-22-louvre-riapertura",
       "title": "Louvre, la Galerie d'Apollon riapre al pubblico dopo il furto dell'ottobre 2025",
@@ -6015,480 +6522,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, una lettera di scuse ha valore dopo una tragedia cosi grande? Scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-haaland-neonati-peru",
-      "title": "Mondiali: in Perù oltre 550 neonati chiamati Herling Haaland",
-      "source": "ANSA",
-      "date": "2026-07-15",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "calcio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-haaland-neonati-peru",
-        "revision": 1,
-        "meta": {
-          "title": "Mondiali: in Perù oltre 550 neonati chiamati Herling Haaland",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/15/mondiali-in-peru-oltre-550-neonati-chiamati-herling-haaland_00c8c868-e74b-4a81-abec-4581c9185d29.html",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "cultura",
-            "calcio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Peru more than 550 newborn babies have been given the name of the Norwegian footballer Haaland. The country's registers show a real boom: many parents write the name as \"Herling\", a local version of Erling. It is a tribute to the famous striker, one of the strongest players in the world.\n\nThe phenomenon is not new in Peru. For years many families have chosen the names of their favourite champions for their children. According to the data, the most chosen name is still Neymar, the Brazilian star. During the 2026 World Cup the passion for football is even greater, and so the names of the great players also enter the homes and families of the South American country.",
-        "resumen_es": "In Perù più di 550 bambini appena nati hanno ricevuto il nome del calciatore norvegese Haaland. I registri del paese mostrano un vero boom: molti genitori scrivono il nome come \"Herling\", una versione locale di Erling. È un omaggio al famoso attaccante, uno dei giocatori più forti del mondo.\n\nIl fenomeno non è nuovo in Perù. Da anni molte famiglie scelgono per i figli i nomi dei loro campioni preferiti. Secondo i dati, il nome più scelto resta ancora Neymar, la stella brasiliana. Durante il Mondiale 2026 la passione per il calcio è ancora più grande, e così i nomi dei grandi giocatori entrano anche nelle case e nelle famiglie del paese sudamericano.",
-        "vocab": [
-          {
-            "front": "appena nato",
-            "pos": "phrase",
-            "back": "newborn",
-            "example": "Il bambino appena nato dorme molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il calciatore",
-            "pos": "noun",
-            "back": "footballer",
-            "example": "Il calciatore ha segnato due gol.",
-            "tier": "A2"
-          },
-          {
-            "front": "il registro",
-            "pos": "noun",
-            "back": "register, record",
-            "example": "Il nome è scritto nel registro ufficiale.",
-            "tier": "B1"
-          },
-          {
-            "front": "i genitori",
-            "pos": "noun",
-            "back": "parents",
-            "example": "I genitori scelgono il nome del figlio.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'omaggio",
-            "pos": "noun",
-            "back": "tribute, homage",
-            "example": "Il nome è un omaggio al grande campione.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'attaccante",
-            "pos": "noun",
-            "back": "striker, forward",
-            "example": "L'attaccante gioca vicino alla porta.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fenomeno",
-            "pos": "noun",
-            "back": "phenomenon",
-            "example": "Questo fenomeno esiste da molti anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "scegliere",
-            "pos": "verb",
-            "back": "to choose",
-            "example": "Hanno scelto un nome molto originale.",
-            "tier": "A2"
-          },
-          {
-            "front": "il campione",
-            "pos": "noun",
-            "back": "champion",
-            "example": "Il suo campione preferito è Messi.",
-            "tier": "A2"
-          },
-          {
-            "front": "la stella",
-            "pos": "noun",
-            "back": "star (famous person)",
-            "example": "Neymar è una stella del calcio mondiale.",
-            "tier": "A2"
-          },
-          {
-            "front": "la passione",
-            "pos": "noun",
-            "back": "passion",
-            "example": "La passione per il calcio unisce il paese.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Perù più di 550 bambini appena nati hanno ricevuto il nome del calciatore norvegese Haaland.",
-            "point": "'Più di' with numbers",
-            "explanation": "Before a number, 'more than' is 'più di': più di 550 bambini. With comparisons between two things you use 'più... che' or 'più... di' depending on the structure.",
-            "why_tricky": "Learners often say 'più che 550', but before numbers Italian requires 'di', not 'che'."
-          },
-          {
-            "sentence": "Secondo i dati, il nome più scelto resta ancora Neymar, la stella brasiliana.",
-            "point": "Relative superlative with participle",
-            "explanation": "'Il nome più scelto' means 'the most chosen name': article + noun + più + adjective or participle. 'Scelto' is the irregular past participle of 'scegliere' used here as an adjective.",
-            "why_tricky": "The superlative looks simple, but learners must remember the irregular participle 'scelto' and keep the article before the noun."
-          },
-          {
-            "sentence": "È un omaggio al famoso attaccante, uno dei giocatori più forti del mondo.",
-            "point": "'Uno dei' + plural noun + superlative",
-            "explanation": "'Uno dei giocatori più forti del mondo' means 'one of the strongest players in the world'. Italian uses 'di' (del mondo) where English uses 'in'.",
-            "why_tricky": "The English pattern 'in the world' pushes learners to say 'nel mondo', but the superlative structure normally wants 'del mondo'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un vero boom",
-            "meaning": "a real boom, a sudden big increase",
-            "example": "Quest'estate c'è stato un vero boom di turisti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quanti bambini in Perù hanno ricevuto il nome di Haaland e come lo scrivono molti genitori?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il nome più scelto dalle famiglie peruviane secondo i dati?",
-            "type": "open"
-          },
-          {
-            "q": "Perché durante il Mondiale 2026 questo fenomeno diventa più grande?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Dare a un figlio il nome di un calciatore famoso: buona idea o no? Scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-microplastiche-infarto",
-      "title": "Cuore, scoperto il legame tra microplastiche e infarto",
-      "source": "ANSA",
-      "date": "2026-07-15",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-microplastiche-infarto",
-        "revision": 1,
-        "meta": {
-          "title": "Cuore, scoperto il legame tra microplastiche e infarto",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/07/15/cuore-scoperto-legame-tra-microplastiche-e-infarto_afa12ca2-5419-47bc-882d-238f4a4f9457.html",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "salute",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Scientists have discovered a link between microplastics and heart attacks. Microplastics are very small pieces of plastic that enter the body with food, water and air. According to the new study, these particles can reach the heart and the blood vessels and increase the risk of cardiac problems.\n\nThe researchers remind us that smoking and pollution also play an important role in heart disease. For this reason they recommend a healthy lifestyle: eating well, doing sport and using less plastic every day. The discovery is very important because plastic is now everywhere in our lives, and doctors want to understand better how to protect everyone's health.",
-        "resumen_es": "Gli scienziati hanno scoperto un legame tra le microplastiche e l'infarto. Le microplastiche sono pezzi molto piccoli di plastica che entrano nel corpo con il cibo, l'acqua e l'aria. Secondo il nuovo studio, queste particelle possono arrivare al cuore e ai vasi sanguigni e aumentare il rischio di problemi cardiaci.\n\nI ricercatori ricordano che anche il fumo e l'inquinamento hanno un ruolo importante nelle malattie del cuore. Per questo consigliano uno stile di vita sano: mangiare bene, fare sport e usare meno plastica ogni giorno. La scoperta è molto importante perché la plastica ormai è ovunque nella nostra vita e i medici vogliono capire meglio come proteggere la salute di tutte le persone.",
-        "vocab": [
-          {
-            "front": "il legame",
-            "pos": "noun",
-            "back": "link, connection",
-            "example": "C'è un legame tra dieta e salute.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'infarto",
-            "pos": "noun",
-            "back": "heart attack",
-            "example": "L'infarto è una malattia molto seria.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vaso sanguigno",
-            "pos": "phrase",
-            "back": "blood vessel",
-            "example": "Il sangue viaggia nei vasi sanguigni.",
-            "tier": "B2"
-          },
-          {
-            "front": "aumentare",
-            "pos": "verb",
-            "back": "to increase",
-            "example": "Il fumo aumenta il rischio di malattie.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "Fare sport riduce il rischio di infarto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "I ricercatori studiano il problema da anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fumo",
-            "pos": "noun",
-            "back": "smoking, smoke",
-            "example": "Il fumo fa male al cuore.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'inquinamento",
-            "pos": "noun",
-            "back": "pollution",
-            "example": "L'inquinamento è alto nelle grandi città.",
-            "tier": "B1"
-          },
-          {
-            "front": "la malattia",
-            "pos": "noun",
-            "back": "illness, disease",
-            "example": "È una malattia del cuore molto comune.",
-            "tier": "A2"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to advise, to recommend",
-            "example": "I medici consigliano di mangiare frutta.",
-            "tier": "A2"
-          },
-          {
-            "front": "sano",
-            "pos": "adj",
-            "back": "healthy",
-            "example": "Uno stile di vita sano aiuta il cuore.",
-            "tier": "A2"
-          },
-          {
-            "front": "ovunque",
-            "pos": "adv",
-            "back": "everywhere",
-            "example": "La plastica ormai è ovunque.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli scienziati hanno scoperto un legame tra le microplastiche e l'infarto.",
-            "point": "Irregular past participle 'scoperto'",
-            "explanation": "'Scoprire' has the irregular participle 'scoperto'. In the passato prossimo with 'avere' it does not change: hanno scoperto.",
-            "why_tricky": "Many common Italian verbs have irregular participles (scoperto, scritto, letto) that simply have to be memorised."
-          },
-          {
-            "sentence": "Secondo il nuovo studio, queste particelle possono arrivare al cuore e ai vasi sanguigni e aumentare il rischio di problemi cardiaci.",
-            "point": "'Potere' + infinitive",
-            "explanation": "The modal verb 'potere' is followed directly by the infinitive: possono arrivare, meaning 'they can reach'. Two infinitives share the same modal here (arrivare... e aumentare).",
-            "why_tricky": "Learners sometimes add a preposition (possono di arrivare), but modal verbs in Italian take the bare infinitive."
-          },
-          {
-            "sentence": "Per questo consigliano uno stile di vita sano: mangiare bene, fare sport e usare meno plastica ogni giorno.",
-            "point": "'Per questo' as a connective",
-            "explanation": "'Per questo' means 'for this reason' and links a cause to its consequence. The infinitives (mangiare, fare, usare) work like nouns in a list of advice.",
-            "why_tricky": "Simple connectives like 'per questo', 'quindi' and 'perciò' make sentences flow naturally, and choosing one is not obvious for beginners."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere un ruolo importante",
-            "meaning": "to play an important role",
-            "example": "La dieta ha un ruolo importante nella salute del cuore."
-          },
-          {
-            "phrase": "stile di vita",
-            "meaning": "lifestyle",
-            "example": "Uno stile di vita attivo fa bene a tutti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa sono le microplastiche e come entrano nel nostro corpo?",
-            "type": "open"
-          },
-          {
-            "q": "Oltre alle microplastiche, quali altri fattori fanno male al cuore secondo i ricercatori?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano i ricercatori per proteggere la salute?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Usiamo troppa plastica nella vita di ogni giorno? Che cosa possiamo fare per usarne meno? Scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-messi-argentina-finale",
-      "title": "Mondiali: Messi ribalta l'Inghilterra e porta l'Argentina in finale",
-      "source": "ANSA",
-      "date": "2026-07-15",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "mondiali"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-messi-argentina-finale",
-        "revision": 1,
-        "meta": {
-          "title": "Mondiali: Messi ribalta l'Inghilterra e porta l'Argentina in finale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/15/mondiali-largentina-vola-in-finale-rimonta-vincente-sullinghilterra-1-2_2859195d-87c2-44d4-a669-ecef11240f5b.html",
-          "date_published": "2026-07-15",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "sport",
-            "mondiali"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Argentina beat England 2-1 and earned a place in the final of the 2026 World Cup. England went ahead first, but Lionel Messi's team did not give up. The Argentine captain provided two assists and his teammates scored two goals. With this comeback victory, Argentina, the reigning world champions, can now win their fourth title.\n\nThe final will be played on Sunday in New York against Spain, who eliminated France with a clear 2-0. For many fans this match is special: it could be Messi's last World Cup. In Argentina people celebrated all night in the streets of Buenos Aires. Now the whole country dreams of seeing its champion lift the cup once again.",
-        "resumen_es": "L'Argentina ha battuto l'Inghilterra 2 a 1 e ha conquistato un posto nella finale dei Mondiali 2026. L'Inghilterra è passata in vantaggio per prima, ma la squadra di Lionel Messi non si è arresa. Il capitano argentino ha servito due assist e i suoi compagni hanno segnato due gol. Con questa vittoria in rimonta, l'Argentina, campione del mondo in carica, può ora vincere il suo quarto titolo.\n\nLa finale si giocherà domenica a New York contro la Spagna, che ha eliminato la Francia con un netto 2 a 0. Per molti tifosi questa partita è speciale: potrebbe essere l'ultimo Mondiale di Messi. In Argentina la gente ha festeggiato tutta la notte nelle strade di Buenos Aires. Ora tutto il Paese sogna di vedere il suo campione alzare di nuovo la coppa.",
-        "vocab": [
-          {
-            "front": "battere",
-            "pos": "verb",
-            "back": "to beat, to defeat",
-            "example": "La nostra squadra ha battuto il Milan ieri sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "conquistare",
-            "pos": "verb",
-            "back": "to win, to earn",
-            "example": "Hanno conquistato un posto in finale.",
-            "tier": "B1"
-          },
-          {
-            "front": "passare in vantaggio",
-            "pos": "phrase",
-            "back": "to take the lead",
-            "example": "La squadra è passata in vantaggio dopo dieci minuti.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrendersi",
-            "pos": "verb",
-            "back": "to give up, to surrender",
-            "example": "Questa squadra non si arrende mai.",
-            "tier": "B1"
-          },
-          {
-            "front": "segnare",
-            "pos": "verb",
-            "back": "to score",
-            "example": "Il numero nove ha segnato due gol.",
-            "tier": "B1"
-          },
-          {
-            "front": "la rimonta",
-            "pos": "noun",
-            "back": "comeback",
-            "example": "Che rimonta! Perdevano 1 a 0 e hanno vinto.",
-            "tier": "B2"
-          },
-          {
-            "front": "in carica",
-            "pos": "phrase",
-            "back": "reigning, current (champion)",
-            "example": "Sono i campioni in carica del torneo.",
-            "tier": "B2"
-          },
-          {
-            "front": "il titolo",
-            "pos": "noun",
-            "back": "title, championship",
-            "example": "Il club ha vinto il titolo tre volte.",
-            "tier": "B1"
-          },
-          {
-            "front": "eliminare",
-            "pos": "verb",
-            "back": "to knock out, to eliminate",
-            "example": "La Spagna ha eliminato la Francia in semifinale.",
-            "tier": "B1"
-          },
-          {
-            "front": "netto",
-            "pos": "adj",
-            "back": "clear, decisive",
-            "example": "Hanno vinto con un risultato netto.",
-            "tier": "B2"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano per tutta la partita.",
-            "tier": "B1"
-          },
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "Abbiamo festeggiato la vittoria in piazza.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'Inghilterra è passata in vantaggio per prima, ma la squadra di Lionel Messi non si è arresa.",
-            "point": "passato prossimo with essere + reflexive verb",
-            "explanation": "Passare (movement/change) takes essere: è passata, agreeing with l'Inghilterra (feminine). Arrendersi is reflexive, so it also takes essere: non si è arresa.",
-            "why_tricky": "Choosing avere or essere and making the participle agree are classic difficulties at this level."
-          },
-          {
-            "sentence": "La finale si giocherà domenica a New York contro la Spagna, che ha eliminato la Francia con un netto 2 a 0.",
-            "point": "si passivante + future tense",
-            "explanation": "Si giocherà means the final will be played: the si form avoids saying who organises the match. It is very common in news.",
-            "why_tricky": "Learners often confuse si passivante with reflexive si; here the final does not play itself, the construction is passive in meaning."
-          },
-          {
-            "sentence": "Per molti tifosi questa partita è speciale: potrebbe essere l'ultimo Mondiale di Messi.",
-            "point": "conditional for possibility",
-            "explanation": "Potrebbe essere means it could be: the conditional of potere expresses a possibility, not a certainty.",
-            "why_tricky": "English uses could for both ability and possibility; Italian picks the conditional here, not the imperfect poteva."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "campione in carica",
-            "meaning": "reigning champion",
-            "example": "L'Italia era la campionessa in carica agli Europei."
-          },
-          {
-            "phrase": "alzare la coppa",
-            "meaning": "to lift the cup, to win the trophy",
-            "example": "Il capitano ha alzato la coppa davanti ai tifosi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come ha vinto l'Argentina la semifinale contro l'Inghilterra?",
-            "type": "open"
-          },
-          {
-            "q": "Contro chi e dove si giocherà la finale di domenica?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa partita è speciale per molti tifosi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, Messi è il giocatore più importante della storia del calcio? Scrivi la tua opinione in poche frasi."
       }
     }
   ]
