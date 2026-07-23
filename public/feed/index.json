@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-07-23T08:14:52Z",
+  "generated_at": "2026-07-23T21:18:31Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-23-sharon-stone-nobel",
+      "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
+      "source": "ANSA",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-sharon-stone-nobel",
+        "revision": 1,
+        "meta": {
+          "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/italia/2026/07/16/sharon-stone-a-roma-allassemblea-dei-nobel-la-dignita-umana-non-e-un-algoritmo_b56b2349-b147-4480-bfca-f731ce4da7ff.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "cultura",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The American actress Sharon Stone was in Rome for an assembly of Nobel Prize winners. During the meeting she spoke about a very important topic: technology and people's rights. With a strong phrase she said that human dignity is not an algorithm. With these words she wants to remind us that every person is worth more than a number or a computer program.\n\nIn her speech Sharon Stone invited everyone to defend respect and kindness. She explained that technology can help society, but it must never decide in place of human beings. Many guests applauded her words. The Nobel assembly exists precisely to discuss peace, science and the future. The actress's message is simple but deep: we must stay human even in a world full of machines.",
+        "resumen_es": "L'attrice americana Sharon Stone è stata a Roma per un'assemblea di premi Nobel. Durante l'incontro ha parlato di un tema molto importante: la tecnologia e i diritti delle persone. Con una frase forte ha detto che la dignità umana non è un algoritmo. Con queste parole vuole ricordare che ogni persona vale più di un numero o di un programma di computer.\n\nNel suo discorso Sharon Stone ha invitato tutti a difendere il rispetto e la gentilezza. Ha spiegato che la tecnologia può aiutare la società, ma non deve mai decidere al posto degli esseri umani. Molti ospiti hanno applaudito le sue parole. L'assemblea dei Nobel serve proprio per discutere di pace, di scienza e di futuro. Il messaggio dell'attrice è semplice ma profondo: dobbiamo restare umani anche in un mondo pieno di macchine.",
+        "vocab": [
+          {
+            "front": "attrice",
+            "pos": "noun",
+            "back": "actress",
+            "example": "L'attrice è molto famosa.",
+            "tier": "A2"
+          },
+          {
+            "front": "assemblea",
+            "pos": "noun",
+            "back": "assembly, meeting",
+            "example": "L'assemblea inizia alle nove.",
+            "tier": "B1"
+          },
+          {
+            "front": "diritti",
+            "pos": "noun",
+            "back": "rights",
+            "example": "Tutti hanno gli stessi diritti.",
+            "tier": "A2"
+          },
+          {
+            "front": "dignità",
+            "pos": "noun",
+            "back": "dignity",
+            "example": "La dignità di ogni persona è importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "algoritmo",
+            "pos": "noun",
+            "back": "algorithm",
+            "example": "Il computer usa un algoritmo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ricordare",
+            "pos": "verb",
+            "back": "to remember, to remind",
+            "example": "Voglio ricordare una cosa importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "discorso",
+            "pos": "noun",
+            "back": "speech",
+            "example": "Il suo discorso è stato breve.",
+            "tier": "A2"
+          },
+          {
+            "front": "gentilezza",
+            "pos": "noun",
+            "back": "kindness",
+            "example": "La gentilezza non costa niente.",
+            "tier": "B1"
+          },
+          {
+            "front": "società",
+            "pos": "noun",
+            "back": "society",
+            "example": "La società cambia in fretta.",
+            "tier": "A2"
+          },
+          {
+            "front": "al posto di",
+            "pos": "phrase",
+            "back": "instead of, in place of",
+            "example": "Vado io al posto di Marco.",
+            "tier": "B1"
+          },
+          {
+            "front": "ospite",
+            "pos": "noun",
+            "back": "guest",
+            "example": "L'ospite è arrivato tardi.",
+            "tier": "A2"
+          },
+          {
+            "front": "applaudire",
+            "pos": "verb",
+            "back": "to applaud, to clap",
+            "example": "Tutti hanno applaudito con gioia.",
+            "tier": "B1"
+          },
+          {
+            "front": "restare",
+            "pos": "verb",
+            "back": "to stay, to remain",
+            "example": "Voglio restare a casa stasera.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Con una frase forte ha detto che la dignità umana non è un algoritmo.",
+            "point": "Passato prossimo 'ha detto' + frase con 'che'",
+            "explanation": "Il passato prossimo usa l'ausiliare 'avere' per un'azione conclusa; 'che' introduce il discorso indiretto.",
+            "why_tricky": "Scegliere l'ausiliare 'avere' e non 'essere'."
+          },
+          {
+            "sentence": "Ha spiegato che la tecnologia può aiutare la società, ma non deve mai decidere al posto degli esseri umani.",
+            "point": "Verbi modali 'potere' e 'dovere' + infinito; negazione 'non... mai'",
+            "explanation": "'può aiutare' e 'deve decidere' uniscono modale e infinito; 'non deve mai' racchiude il verbo.",
+            "why_tricky": "La posizione di 'mai' dopo il verbo modale."
+          },
+          {
+            "sentence": "L'assemblea dei Nobel serve proprio per discutere di pace, di scienza e di futuro.",
+            "point": "'servire per' + infinito; 'discutere di'",
+            "explanation": "'serve per' indica lo scopo; 'discutere' regge la preposizione 'di'.",
+            "why_tricky": "Ricordare la preposizione 'di' dopo 'discutere'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "al posto di",
+            "meaning": "instead of, in place of",
+            "example": "Bevo il tè al posto del caffè."
+          },
+          {
+            "phrase": "restare umani",
+            "meaning": "to stay human, to keep one's humanity",
+            "example": "Anche nei momenti difficili dobbiamo restare umani."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è andata Sharon Stone e perché?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa significa la frase 'la dignità umana non è un algoritmo'?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo l'attrice, quale deve essere il ruolo della tecnologia nella società?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, la tecnologia aiuta o mette in pericolo i diritti delle persone? Scrivi qualche frase con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-microplastiche-cuore",
+      "title": "Cuore, scoperto il legame tra microplastiche e infarto",
+      "source": "ANSA",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "scienza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-microplastiche-cuore",
+        "revision": 1,
+        "meta": {
+          "title": "Cuore, scoperto il legame tra microplastiche e infarto",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/07/15/cuore-scoperto-legame-tra-microplastiche-e-infarto_afa12ca2-5419-47bc-882d-238f4a4f9457.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "salute",
+            "scienza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A new scientific study has found a link between microplastics and heart disease. Microplastics are tiny pieces of plastic that enter our body through food, water and air. The researchers say that these particles can increase the risk of a heart attack. It is an important discovery because it shows a new danger to our health.\n\nThe scientists explain that smoking and pollution also play an important role in this problem. To protect the heart, therefore, it is useful to reduce the use of plastic and to live in a healthier way. We can drink less bottled water, eat fresh foods and walk in clean air. The researchers will continue to study this topic to understand better how to defend our body.",
+        "resumen_es": "Un nuovo studio scientifico ha trovato un legame tra le microplastiche e le malattie del cuore. Le microplastiche sono piccolissimi pezzi di plastica che entrano nel nostro corpo con il cibo, l'acqua e l'aria. I ricercatori dicono che queste particelle possono aumentare il rischio di infarto. È una scoperta importante perché mostra un nuovo pericolo per la nostra salute.\n\nGli scienziati spiegano che anche il fumo e l'inquinamento hanno un ruolo importante in questo problema. Per proteggere il cuore, quindi, è utile ridurre l'uso della plastica e vivere in modo più sano. Possiamo bere meno acqua in bottiglia, mangiare cibi freschi e camminare all'aria pulita. I ricercatori continueranno a studiare questo tema per capire meglio come difendere il nostro corpo.",
+        "vocab": [
+          {
+            "front": "studio",
+            "pos": "noun",
+            "back": "study",
+            "example": "Un nuovo studio lo conferma.",
+            "tier": "A2"
+          },
+          {
+            "front": "legame",
+            "pos": "noun",
+            "back": "link, connection",
+            "example": "C'è un legame tra i due fatti.",
+            "tier": "B1"
+          },
+          {
+            "front": "microplastiche",
+            "pos": "noun",
+            "back": "microplastics",
+            "example": "Le microplastiche sono ovunque.",
+            "tier": "B1"
+          },
+          {
+            "front": "malattia",
+            "pos": "noun",
+            "back": "illness, disease",
+            "example": "È una malattia molto comune.",
+            "tier": "A2"
+          },
+          {
+            "front": "cuore",
+            "pos": "noun",
+            "back": "heart",
+            "example": "Il cuore batte forte.",
+            "tier": "A2"
+          },
+          {
+            "front": "ricercatore",
+            "pos": "noun",
+            "back": "researcher",
+            "example": "Il ricercatore studia il virus.",
+            "tier": "B1"
+          },
+          {
+            "front": "rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "C'è un rischio molto alto.",
+            "tier": "B1"
+          },
+          {
+            "front": "infarto",
+            "pos": "noun",
+            "back": "heart attack",
+            "example": "Suo nonno ha avuto un infarto.",
+            "tier": "B1"
+          },
+          {
+            "front": "scoperta",
+            "pos": "noun",
+            "back": "discovery",
+            "example": "È una grande scoperta scientifica.",
+            "tier": "B1"
+          },
+          {
+            "front": "inquinamento",
+            "pos": "noun",
+            "back": "pollution",
+            "example": "L'inquinamento è un grave problema.",
+            "tier": "B1"
+          },
+          {
+            "front": "ridurre",
+            "pos": "verb",
+            "back": "to reduce",
+            "example": "Dobbiamo ridurre la plastica.",
+            "tier": "B1"
+          },
+          {
+            "front": "sano",
+            "pos": "adj",
+            "back": "healthy",
+            "example": "Cerco di mangiare cibo sano.",
+            "tier": "A2"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Vuole proteggere la sua famiglia.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Le microplastiche sono piccolissimi pezzi di plastica che entrano nel nostro corpo con il cibo, l'acqua e l'aria.",
+            "point": "Superlativo assoluto 'piccolissimi' e relativo 'che'",
+            "explanation": "Il suffisso '-issimo' forma il superlativo assoluto (molto piccoli); 'che' è pronome relativo soggetto.",
+            "why_tricky": "L'accordo di 'piccolissimi' al maschile plurale."
+          },
+          {
+            "sentence": "I ricercatori dicono che queste particelle possono aumentare il rischio di infarto.",
+            "point": "Modale 'possono' + infinito; 'dire che' + indicativo",
+            "explanation": "'potere' si coniuga e l'infinito segue; un fatto riferito resta all'indicativo.",
+            "why_tricky": "Mantenere l'indicativo dopo 'dicono che'."
+          },
+          {
+            "sentence": "Per proteggere il cuore, quindi, è utile ridurre l'uso della plastica e vivere in modo più sano.",
+            "point": "'per + infinito' (scopo); 'è utile + infinito'",
+            "explanation": "'per' indica lo scopo; l'espressione impersonale 'è utile' regge l'infinito.",
+            "why_tricky": "Usare l'infinito e non un verbo coniugato."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in modo più sano",
+            "meaning": "in a healthier way",
+            "example": "Cerco di vivere in modo più sano."
+          },
+          {
+            "phrase": "avere un ruolo",
+            "meaning": "to play a role",
+            "example": "Lo sport ha un ruolo importante nella salute."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno scoperto gli scienziati in questo studio?",
+            "type": "open"
+          },
+          {
+            "q": "Come entrano le microplastiche nel nostro corpo?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa possiamo fare per proteggere il cuore?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa fai tu ogni giorno per vivere in modo più sano? Scrivi tre o quattro frasi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-23-caravaggio-forever",
+      "title": "'Caravaggio Forever' in oltre 40 tele di Marco Tamburro",
+      "source": "ANSA",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "arte",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-23-caravaggio-forever",
+        "revision": 1,
+        "meta": {
+          "title": "'Caravaggio Forever' in oltre 40 tele di Marco Tamburro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/07/15/caravaggio-forever-in-oltre-40-tele-di-marco-tamburro_6efc15fd-3077-4e89-a7eb-cdee0fd15022.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-23",
+          "tags": [
+            "arte",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Rome a new exhibition dedicated to the great painter Caravaggio is opening. The exhibition is called 'Caravaggio Forever' and presents more than forty canvases painted by the artist Marco Tamburro. These works are modern copies of Caravaggio's famous paintings. The public can admire his dramatic scenes, the strong light and the deep shadows that made the master famous.\n\nThe exhibition is located at Palazzo Bonaparte, in the center of the city. Caravaggio lived many centuries ago, but his art is still loved today by millions of people. With this exhibition, visitors can get closer to his world and understand why he is so important in the history of art. It is a perfect occasion for lovers of painting and for those who want to discover an Italian genius.",
+        "resumen_es": "A Roma apre una nuova mostra dedicata al grande pittore Caravaggio. La mostra si chiama 'Caravaggio Forever' e presenta più di quaranta tele dipinte dall'artista Marco Tamburro. Queste opere sono copie moderne dei quadri famosi di Caravaggio. Il pubblico può ammirare le sue scene drammatiche, la luce forte e le ombre profonde che hanno reso celebre il maestro.\n\nLa mostra si trova a Palazzo Bonaparte, nel centro della città. Caravaggio è vissuto molti secoli fa, ma la sua arte piace ancora oggi a milioni di persone. Con questa esposizione, i visitatori possono avvicinarsi al suo mondo e capire perché è così importante nella storia dell'arte. È un'occasione perfetta per gli amanti della pittura e per chi vuole scoprire un genio italiano.",
+        "vocab": [
+          {
+            "front": "mostra",
+            "pos": "noun",
+            "back": "exhibition",
+            "example": "Andiamo alla mostra domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "pittore",
+            "pos": "noun",
+            "back": "painter",
+            "example": "Caravaggio è un famoso pittore.",
+            "tier": "A2"
+          },
+          {
+            "front": "tela",
+            "pos": "noun",
+            "back": "canvas",
+            "example": "Il pittore lavora su una tela.",
+            "tier": "B1"
+          },
+          {
+            "front": "dipingere",
+            "pos": "verb",
+            "back": "to paint",
+            "example": "Ama dipingere paesaggi.",
+            "tier": "A2"
+          },
+          {
+            "front": "opera",
+            "pos": "noun",
+            "back": "artwork, work",
+            "example": "Questa opera è bellissima.",
+            "tier": "A2"
+          },
+          {
+            "front": "quadro",
+            "pos": "noun",
+            "back": "painting, picture",
+            "example": "Il quadro è appeso al muro.",
+            "tier": "A2"
+          },
+          {
+            "front": "ammirare",
+            "pos": "verb",
+            "back": "to admire",
+            "example": "I turisti ammirano la statua.",
+            "tier": "B1"
+          },
+          {
+            "front": "ombra",
+            "pos": "noun",
+            "back": "shadow, shade",
+            "example": "C'è un'ombra sul muro.",
+            "tier": "A2"
+          },
+          {
+            "front": "rendere celebre",
+            "pos": "phrase",
+            "back": "to make famous",
+            "example": "Quel film lo ha reso celebre.",
+            "tier": "B1"
+          },
+          {
+            "front": "secolo",
+            "pos": "noun",
+            "back": "century",
+            "example": "È successo molti secoli fa.",
+            "tier": "A2"
+          },
+          {
+            "front": "esposizione",
+            "pos": "noun",
+            "back": "exhibition, display",
+            "example": "L'esposizione dura un mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "avvicinarsi a",
+            "pos": "verb",
+            "back": "to get closer to",
+            "example": "Mi avvicino alla finestra.",
+            "tier": "B1"
+          },
+          {
+            "front": "amante (di)",
+            "pos": "noun",
+            "back": "lover, fan (of)",
+            "example": "È un amante della musica classica.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il pubblico può ammirare le sue scene drammatiche, la luce forte e le ombre profonde che hanno reso celebre il maestro.",
+            "point": "Passato prossimo 'hanno reso' (participio irregolare)",
+            "explanation": "Il participio di 'rendere' è 'reso'; l'ausiliare è 'avere' e 'che' si riferisce ai tre elementi.",
+            "why_tricky": "Il participio passato irregolare 'reso'."
+          },
+          {
+            "sentence": "Caravaggio è vissuto molti secoli fa, ma la sua arte piace ancora oggi a milioni di persone.",
+            "point": "'è vissuto' (ausiliare essere) e il verbo 'piacere'",
+            "explanation": "'vivere' spesso prende 'essere'; 'piace a' significa 'is pleasing to'.",
+            "why_tricky": "Il verbo 'piacere' funziona al contrario rispetto all'inglese 'to like'."
+          },
+          {
+            "sentence": "La mostra si trova a Palazzo Bonaparte, nel centro della città.",
+            "point": "'si trova' (riflessivo per indicare il luogo)",
+            "explanation": "'trovarsi' si usa per dire dove si trova qualcosa.",
+            "why_tricky": "Si usa il riflessivo dove l'inglese dice solo 'is'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "molti secoli fa",
+            "meaning": "many centuries ago",
+            "example": "Questa storia è nata molti secoli fa."
+          },
+          {
+            "phrase": "un'occasione perfetta",
+            "meaning": "a perfect opportunity",
+            "example": "È un'occasione perfetta per imparare."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come si chiama la mostra e chi ha dipinto le tele?",
+            "type": "open"
+          },
+          {
+            "q": "Dove si trova l'esposizione?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il testo, l'arte di Caravaggio piace ancora oggi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace l'arte? Descrivi un quadro o un artista che ami e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-07-23-cristo-abissi",
       "title": "Cristo degli Abissi, la pulizia annuale della statua sommersa",
@@ -6022,506 +6529,6 @@
           }
         ],
         "opinion_prompt": "Nella tua città l'aria è pulita? Scrivi 80 parole e spiega che cosa fai quando l'aria non è buona."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-emoji-genz",
-      "title": "Emoji, la Gen Z riscrive il linguaggio digitale delle emozioni",
-      "source": "RaiNews",
-      "date": "2026-07-17",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "lingua"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-emoji-genz",
-        "revision": 1,
-        "meta": {
-          "title": "Emoji, la Gen Z riscrive il linguaggio digitale delle emozioni",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/emoji-la-gen-z-riscrive-il-linguaggio-digitale-delle-emozioni-e7cf5230-c9b7-4b4b-909b-0ed51b126efd.html",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "società",
-            "lingua"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Today young people use emojis to talk about their emotions on social media and in chats. An Italian study observed almost seven hundred young people between eighteen and twenty-five years old. The research shows that the little faces have become a real language. Every symbol can have a special meaning, known above all by the youngest.\n\nFor example, the skull does not talk about death, but means that something is very funny. Coloured hearts also have different meanings depending on the colour. In this way young people communicate quickly and feel part of a group. Adults, however, do not always understand these messages. For this reason small misunderstandings sometimes arise between parents and children when they write online.",
-        "resumen_es": "Oggi i giovani usano le emoji per parlare delle loro emozioni sui social e nelle chat. Uno studio italiano ha osservato quasi settecento ragazzi tra i diciotto e i venticinque anni. La ricerca mostra che le piccole faccine sono diventate un vero linguaggio. Ogni simbolo può avere un significato speciale, conosciuto soprattutto dai più giovani.\n\nPer esempio, il teschio non parla di morte, ma vuole dire che una cosa è molto divertente. Anche i cuori colorati hanno significati diversi secondo il colore. In questo modo i ragazzi comunicano in fretta e si sentono parte di un gruppo. Gli adulti, però, non sempre capiscono questi messaggi. Per questo a volte nascono piccoli malintesi tra genitori e figli quando scrivono online.",
-        "vocab": [
-          {
-            "front": "il linguaggio",
-            "pos": "noun",
-            "back": "language, way of speaking",
-            "example": "I giovani usano un linguaggio nuovo online.",
-            "tier": "B1"
-          },
-          {
-            "front": "la faccina",
-            "pos": "noun",
-            "back": "smiley, little face",
-            "example": "Mi ha mandato solo una faccina.",
-            "tier": "A2"
-          },
-          {
-            "front": "la ricerca",
-            "pos": "noun",
-            "back": "research, study",
-            "example": "La ricerca è durata due anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il significato",
-            "pos": "noun",
-            "back": "meaning",
-            "example": "Non capisco il significato di questo simbolo.",
-            "tier": "B1"
-          },
-          {
-            "front": "volere dire",
-            "pos": "phrase",
-            "back": "to mean",
-            "example": "Che cosa vuole dire questa parola?",
-            "tier": "A2"
-          },
-          {
-            "front": "il teschio",
-            "pos": "noun",
-            "back": "skull",
-            "example": "Il teschio adesso significa 'che ridere'.",
-            "tier": "B1"
-          },
-          {
-            "front": "divertente",
-            "pos": "adj",
-            "back": "funny, amusing",
-            "example": "Il suo messaggio era molto divertente.",
-            "tier": "A2"
-          },
-          {
-            "front": "colorato",
-            "pos": "adj",
-            "back": "coloured",
-            "example": "Usa sempre cuori colorati.",
-            "tier": "A2"
-          },
-          {
-            "front": "secondo",
-            "pos": "prep",
-            "back": "according to, depending on",
-            "example": "Il prezzo cambia secondo la stagione.",
-            "tier": "B1"
-          },
-          {
-            "front": "in fretta",
-            "pos": "phrase",
-            "back": "quickly, in a hurry",
-            "example": "Rispondo sempre in fretta.",
-            "tier": "B1"
-          },
-          {
-            "front": "sentirsi parte di",
-            "pos": "phrase",
-            "back": "to feel part of",
-            "example": "Mi sento parte di questo gruppo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il malinteso",
-            "pos": "noun",
-            "back": "misunderstanding",
-            "example": "È stato solo un piccolo malinteso.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascere",
-            "pos": "verb",
-            "back": "to be born, to arise",
-            "example": "Così nascono molti problemi.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Uno studio italiano ha osservato quasi settecento ragazzi tra i diciotto e i venticinque anni.",
-            "point": "Il passato prossimo con 'avere'.",
-            "explanation": "'Ha osservato' è formato da 'avere' al presente più il participio passato. Con 'avere' il participio non cambia: resta sempre 'osservato'.",
-            "why_tricky": "Con 'essere' invece il participio cambia (osservato, osservata, osservati), quindi bisogna scegliere bene l'ausiliare."
-          },
-          {
-            "sentence": "Per esempio, il teschio non parla di morte, ma vuole dire che una cosa è molto divertente.",
-            "point": "L'espressione 'volere dire' e la negazione 'non... ma'.",
-            "explanation": "'Vuole dire' significa 'significa'. La struttura 'non A, ma B' corregge un'idea e ne propone un'altra.",
-            "why_tricky": "In inglese si dice 'it means', un verbo solo, mentre in italiano servono due parole: 'vuole dire'."
-          },
-          {
-            "sentence": "Anche i cuori colorati hanno significati diversi secondo il colore.",
-            "point": "L'accordo dell'aggettivo con il nome al plurale maschile.",
-            "explanation": "'Cuori' è maschile plurale, quindi l'aggettivo diventa 'colorati'. Lo stesso vale per 'significati diversi'.",
-            "why_tricky": "In inglese l'aggettivo non cambia mai, mentre in italiano deve seguire genere e numero del nome."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in fretta",
-            "meaning": "quickly, in a rush",
-            "example": "Ho scritto il messaggio in fretta e ho fatto un errore."
-          },
-          {
-            "phrase": "voler dire",
-            "meaning": "to mean",
-            "example": "Che cosa vuoi dire con questa emoji?"
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha studiato la ricerca italiana?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa significa oggi il teschio per i giovani?",
-            "type": "open"
-          },
-          {
-            "q": "Perché a volte gli adulti non capiscono questi messaggi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Quali emoji usi di più e perché? Scrivi 80 parole e spiega se secondo te le emoji aiutano o no a capirsi meglio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-spacex-starship",
-      "title": "SpaceX, stop automatico a un passo dal decollo: rinviato il tredicesimo volo di Starship",
-      "source": "RaiNews",
-      "date": "2026-07-17",
-      "level": "A2-B1",
-      "topics": [
-        "spazio",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-spacex-starship",
-        "revision": 1,
-        "meta": {
-          "title": "SpaceX, stop automatico a un passo dal decollo: rinviato il tredicesimo volo di Starship",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/spacex-stop-automatico-a-un-passo-dal-decollo-rinviato-il-tredicesimo-volo-di-starship-965ac633-4c49-4af8-8b6b-5098a2ed7100.html",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "spazio",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The American company SpaceX has postponed the launch of its big spaceship Starship. It was the thirteenth test flight of this enormous rocket. The countdown stopped a few seconds before lift-off. The safety system blocked everything automatically. The reason is a problem with some engines, which did not start as expected.\n\nThere were no injuries and the spaceship stayed safe on the launch pad. The technicians are now checking the engines to understand what happened. Elon Musk, the head of the company, said that they want to try again in a few days. These tests are very important, because SpaceX wants to use Starship for trips to the Moon and perhaps one day to Mars.",
-        "resumen_es": "L'azienda americana SpaceX ha rinviato il lancio della sua grande astronave Starship. Era il tredicesimo volo di prova di questo razzo enorme. Il conto alla rovescia si è fermato pochi secondi prima del decollo. Il sistema di sicurezza ha bloccato tutto in modo automatico. Il motivo è un problema ad alcuni motori, che non sono partiti come previsto.\n\nNon ci sono stati feriti e l'astronave è rimasta al sicuro sulla rampa. I tecnici ora controllano i motori per capire che cosa è successo. Elon Musk, il capo dell'azienda, ha detto che vogliono riprovare tra pochi giorni. Questi test sono molto importanti, perché SpaceX vuole usare Starship per viaggi verso la Luna e forse un giorno verso Marte.",
-        "vocab": [
-          {
-            "front": "l'azienda",
-            "pos": "noun",
-            "back": "company, firm",
-            "example": "L'azienda ha molti dipendenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "rinviare",
-            "pos": "verb",
-            "back": "to postpone",
-            "example": "Hanno rinviato la partita per la pioggia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il lancio",
-            "pos": "noun",
-            "back": "launch",
-            "example": "Il lancio è previsto per domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'astronave",
-            "pos": "noun",
-            "back": "spaceship",
-            "example": "L'astronave è molto grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "il conto alla rovescia",
-            "pos": "phrase",
-            "back": "countdown",
-            "example": "Il conto alla rovescia è iniziato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il decollo",
-            "pos": "noun",
-            "back": "take-off, lift-off",
-            "example": "Il decollo è stato perfetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "safety, security",
-            "example": "La sicurezza viene prima di tutto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il motore",
-            "pos": "noun",
-            "back": "engine",
-            "example": "Il motore non funziona bene.",
-            "tier": "A2"
-          },
-          {
-            "front": "come previsto",
-            "pos": "phrase",
-            "back": "as expected, as planned",
-            "example": "Tutto è andato come previsto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ferito",
-            "pos": "noun",
-            "back": "injured person",
-            "example": "Per fortuna non ci sono feriti.",
-            "tier": "B1"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check",
-            "example": "I tecnici controllano i motori.",
-            "tier": "A2"
-          },
-          {
-            "front": "riprovare",
-            "pos": "verb",
-            "back": "to try again",
-            "example": "Vogliono riprovare la settimana prossima.",
-            "tier": "B1"
-          },
-          {
-            "front": "il viaggio",
-            "pos": "noun",
-            "back": "trip, journey",
-            "example": "Il viaggio verso la Luna dura giorni.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il conto alla rovescia si è fermato pochi secondi prima del decollo.",
-            "point": "Il passato prossimo dei verbi riflessivi, che usa sempre 'essere'.",
-            "explanation": "'Fermarsi' è riflessivo, quindi al passato prossimo prende 'essere': 'si è fermato'. Il participio concorda con il soggetto maschile singolare.",
-            "why_tricky": "Il verbo 'fermare' senza 'si' prende invece 'avere': 'ha fermato il treno'."
-          },
-          {
-            "sentence": "Il motivo è un problema ad alcuni motori, che non sono partiti come previsto.",
-            "point": "Il passato prossimo con 'essere' e l'accordo del participio.",
-            "explanation": "'Partire' è un verbo di movimento e prende 'essere'. Il soggetto è 'i motori', maschile plurale, quindi si dice 'sono partiti'.",
-            "why_tricky": "Bisogna ricordare sia l'ausiliare giusto sia la '-i' finale del participio, due errori molto comuni insieme."
-          },
-          {
-            "sentence": "Elon Musk, il capo dell'azienda, ha detto che vogliono riprovare tra pochi giorni.",
-            "point": "Il discorso indiretto con 'dire che' e 'volere' + infinito.",
-            "explanation": "Dopo 'ha detto che' si riporta quello che una persona ha detto. 'Vogliono riprovare' unisce 'volere' coniugato e il secondo verbo all'infinito.",
-            "why_tricky": "'Tra pochi giorni' indica il futuro, ma il verbo resta al presente: in italiano è normale e naturale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a un passo da",
-            "meaning": "one step away from, very close to",
-            "example": "Erano a un passo dalla vittoria."
-          },
-          {
-            "phrase": "come previsto",
-            "meaning": "as expected",
-            "example": "La riunione è finita presto, come previsto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché SpaceX ha rinviato il lancio di Starship?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa fanno adesso i tecnici dell'azienda?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questi test sono importanti per SpaceX?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe fare un viaggio nello spazio? Scrivi 80 parole e spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-16-ponte-morandi-sentenza",
-      "title": "Ponte Morandi, dopo 8 anni a Genova il giorno della sentenza di primo grado",
-      "source": "Rai News",
-      "date": "2026-07-16",
-      "level": "A2-B1",
-      "topics": [
-        "giustizia",
-        "Italia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-16-ponte-morandi-sentenza",
-        "revision": 1,
-        "meta": {
-          "title": "Ponte Morandi, dopo 8 anni a Genova il giorno della sentenza di primo grado",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/07/ponte-morandi-dopo-8-anni-a-genova-il-giorno-della-sentenza-di-primo-grado-0765f107-011d-4de3-9018-65369d842adc.html",
-          "date_published": "2026-07-16",
-          "date_processed": "2026-07-16",
-          "tags": [
-            "giustizia",
-            "Italia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Genoa the day of the verdict for the collapse of the Morandi bridge has arrived. The bridge fell on 14 August 2018 and 43 people lost their lives. After almost eight years and 284 hearings, the court now decides whether the 57 defendants are guilty. Among them is also Giovanni Castellucci, former head of the company Autostrade per l'Italia.\n\nThe trial is very important for the victims' families, who have been waiting for justice for years. Before the verdict, the company Autostrade wrote a letter of apology, but many relatives rejected it. The case has changed Italy: after the disaster, the state began to inspect the country's bridges and motorways much more carefully.",
-        "resumen_es": "A Genova arriva il giorno della sentenza per il crollo del ponte Morandi. Il ponte è caduto il 14 agosto 2018 e 43 persone hanno perso la vita. Dopo quasi otto anni e 284 udienze, il tribunale decide ora se i 57 imputati sono colpevoli. Tra loro c'è anche Giovanni Castellucci, ex capo della società Autostrade per l'Italia.\n\nIl processo è molto importante per le famiglie delle vittime, che aspettano giustizia da anni. Prima della sentenza, la società Autostrade ha scritto una lettera di scuse, ma molti parenti l'hanno rifiutata. Il caso ha cambiato l'Italia: dopo il disastro, lo Stato ha iniziato a controllare meglio i ponti e le autostrade di tutto il paese.",
-        "vocab": [
-          {
-            "front": "la sentenza",
-            "pos": "noun",
-            "back": "verdict, ruling",
-            "example": "La sentenza arriva dopo un lungo processo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il crollo",
-            "pos": "noun",
-            "back": "collapse",
-            "example": "Il crollo del ponte ha causato molte vittime.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'udienza",
-            "pos": "noun",
-            "back": "court hearing",
-            "example": "La prossima udienza è tra due settimane.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'imputato",
-            "pos": "noun",
-            "back": "defendant",
-            "example": "L'imputato ha risposto alle domande del giudice.",
-            "tier": "B2"
-          },
-          {
-            "front": "colpevole",
-            "pos": "adj",
-            "back": "guilty",
-            "example": "Il tribunale lo ha dichiarato colpevole.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vittima",
-            "pos": "noun",
-            "back": "victim",
-            "example": "Le famiglie delle vittime chiedono giustizia.",
-            "tier": "B1"
-          },
-          {
-            "front": "le scuse",
-            "pos": "noun",
-            "back": "apology",
-            "example": "Ha chiesto scusa con una lettera di scuse.",
-            "tier": "B1"
-          },
-          {
-            "front": "rifiutare",
-            "pos": "verb",
-            "back": "to refuse, to reject",
-            "example": "Molti parenti hanno rifiutato le scuse.",
-            "tier": "B1"
-          },
-          {
-            "front": "il processo",
-            "pos": "noun",
-            "back": "trial",
-            "example": "Il processo è durato quasi otto anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "perdere la vita",
-            "pos": "phrase",
-            "back": "to lose one's life",
-            "example": "Nel disastro 43 persone hanno perso la vita.",
-            "tier": "B1"
-          },
-          {
-            "front": "il parente",
-            "pos": "noun",
-            "back": "relative",
-            "example": "I parenti delle vittime erano in tribunale.",
-            "tier": "A2"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check, to inspect",
-            "example": "Lo Stato controlla i ponti ogni anno.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il ponte è caduto il 14 agosto 2018 e 43 persone hanno perso la vita.",
-            "point": "Passato prossimo with 'essere' and 'avere'",
-            "explanation": "'Cadere' takes 'essere' (è caduto) because it is a verb of movement or change, while 'perdere' takes 'avere' (hanno perso). The participle after 'essere' agrees with the subject.",
-            "why_tricky": "Choosing between 'essere' and 'avere' in the passato prossimo is one of the classic difficulties for learners of Italian."
-          },
-          {
-            "sentence": "Prima della sentenza, la società Autostrade ha scritto una lettera di scuse, ma molti parenti l'hanno rifiutata.",
-            "point": "Direct object pronoun with participle agreement",
-            "explanation": "'L'hanno rifiutata' means 'they rejected it'. The pronoun 'la' (the letter) comes before the verb, and the participle 'rifiutata' agrees with it in gender and number.",
-            "why_tricky": "Learners often forget to change 'rifiutato' to 'rifiutata' when a feminine direct object pronoun comes before the verb."
-          },
-          {
-            "sentence": "Dopo quasi otto anni e 284 udienze, il tribunale decide ora se i 57 imputati sono colpevoli.",
-            "point": "'Se' meaning 'whether'",
-            "explanation": "Here 'se' does not introduce a condition but an indirect question: the court decides whether the defendants are guilty.",
-            "why_tricky": "The same word 'se' is used both for 'if' in conditions and 'whether' in indirect questions, so the context decides the meaning."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "perdere la vita",
-            "meaning": "to die, to lose one's life",
-            "example": "Nell'incidente due persone hanno perso la vita."
-          },
-          {
-            "phrase": "chiedere scusa",
-            "meaning": "to say sorry, to apologise",
-            "example": "L'azienda ha chiesto scusa alle famiglie."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo al ponte Morandi il 14 agosto 2018?",
-            "type": "open"
-          },
-          {
-            "q": "Come hanno reagito molti parenti delle vittime alla lettera di Autostrade?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha iniziato a fare lo Stato dopo il disastro?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, una lettera di scuse ha valore dopo una tragedia cosi grande? Scrivi la tua opinione in circa 80 parole."
       }
     }
   ]
