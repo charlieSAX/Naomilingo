@@ -1,7 +1,507 @@
 {
-  "generated_at": "2026-07-23T21:18:31Z",
+  "generated_at": "2026-07-24T20:14:09Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-24-vacanze-estive-italiani",
+      "title": "Vacanze estive per 36 milioni di italiani, primo weekend da bollino rosso",
+      "source": "ANSA",
+      "date": "2026-07-24",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "estate"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-vacanze-estive-italiani",
+        "revision": 1,
+        "meta": {
+          "title": "Vacanze estive per 36 milioni di italiani, primo weekend da bollino rosso",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/07/24/vacanze-estive-per-36-milioni-di-italiani-al-top-agosto-con-mete-italiane_6433c030-c5de-40f5-90ae-2bd379ad455b.html",
+          "date_published": "2026-07-24",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "viaggi",
+            "estate"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "This weekend many Italians are leaving for their summer holidays. According to forecasts, about thirty-six million people are leaving the cities to go to the sea, to the mountains or abroad. The roads are very busy, and for this reason the first big-traffic weekend is marked with a red dot. The authorities advise people to set off calmly and to be careful of the heat.\n\nMost people choose to stay in Italy, especially in August. The favourite destinations are the beaches of the south and the small islands, but also the lakes and the cities of art. Tourism brings a lot of money to the country and helps hotels, restaurants and shops. For many workers, though, the holidays are above all a time to rest, be with family and forget the stress of the year.",
+        "resumen_es": "Questo fine settimana molti italiani partono per le vacanze estive. Secondo le previsioni, circa trentasei milioni di persone lasciano le città per andare al mare, in montagna o all'estero. Le strade sono molto trafficate e per questo il primo weekend di grande traffico è segnato con il bollino rosso. Le autorità consigliano di partire con calma e di fare attenzione al caldo.\n\nLa maggior parte delle persone sceglie di restare in Italia, soprattutto ad agosto. Le mete preferite sono le spiagge del sud e le piccole isole, ma anche i laghi e le città d'arte. Il turismo porta molti soldi al Paese e aiuta alberghi, ristoranti e negozi. Per molti lavoratori, però, le vacanze sono soprattutto un momento per riposare, stare con la famiglia e dimenticare lo stress dell'anno.",
+        "vocab": [
+          {
+            "front": "le vacanze",
+            "pos": "noun",
+            "back": "holidays, vacation",
+            "example": "Ad agosto vado in vacanza al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "partire",
+            "pos": "verb",
+            "back": "to leave, depart",
+            "example": "Domani partiamo per le vacanze.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traffico",
+            "pos": "noun",
+            "back": "traffic",
+            "example": "Sull'autostrada c'è molto traffico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il mare",
+            "pos": "noun",
+            "back": "sea",
+            "example": "Ci piace andare al mare d'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "la montagna",
+            "pos": "noun",
+            "back": "mountain(s)",
+            "example": "In agosto andiamo in montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "la meta",
+            "pos": "noun",
+            "back": "destination",
+            "example": "Le mete preferite sono le spiagge del sud.",
+            "tier": "B1"
+          },
+          {
+            "front": "la spiaggia",
+            "pos": "noun",
+            "back": "beach",
+            "example": "La spiaggia è piena di turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'albergo",
+            "pos": "noun",
+            "back": "hotel",
+            "example": "Abbiamo prenotato un albergo vicino al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il caldo",
+            "pos": "noun",
+            "back": "heat",
+            "example": "Fa molto caldo in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "riposare",
+            "pos": "verb",
+            "back": "to rest",
+            "example": "In vacanza voglio solo riposare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il turismo",
+            "pos": "noun",
+            "back": "tourism",
+            "example": "Il turismo è importante per l'economia.",
+            "tier": "B1"
+          },
+          {
+            "front": "all'estero",
+            "pos": "adv",
+            "back": "abroad",
+            "example": "Quest'anno andiamo all'estero.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo le previsioni, circa trentasei milioni di persone lasciano le città per andare al mare, in montagna o all'estero.",
+            "point": "'per + infinito' e preposizioni di luogo",
+            "explanation": "'Per andare' indica lo scopo, e ogni luogo usa una preposizione diversa: al mare, in montagna, all'estero.",
+            "why_tricky": "Le preposizioni di luogo non seguono una regola fissa e vanno imparate a memoria con ogni parola."
+          },
+          {
+            "sentence": "La maggior parte delle persone sceglie di restare in Italia, soprattutto ad agosto.",
+            "point": "'la maggior parte' con verbo singolare",
+            "explanation": "Anche se parliamo di molte persone, il verbo 'sceglie' resta al singolare perché il soggetto è 'la maggior parte'.",
+            "why_tricky": "In inglese si userebbe il plurale 'most people choose', ma in italiano il verbo va al singolare."
+          },
+          {
+            "sentence": "Il turismo porta molti soldi al Paese e aiuta alberghi, ristoranti e negozi.",
+            "point": "Presente semplice e nomi plurali",
+            "explanation": "I verbi 'porta' e 'aiuta' sono al presente e descrivono un fatto abituale; i nomi plurali cambiano la finale.",
+            "why_tricky": "Bisogna ricordare l'accordo: 'albergo' diventa 'alberghi' con l'h per mantenere il suono duro."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "il bollino rosso",
+            "meaning": "code red (used for very heavy traffic days)",
+            "example": "Questo weekend c'è il bollino rosso sulle strade."
+          },
+          {
+            "phrase": "partire con calma",
+            "meaning": "to set off unhurriedly, without rushing",
+            "example": "Meglio partire con calma per evitare lo stress."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quante persone partono per le vacanze secondo le previsioni?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le mete preferite dagli italiani?",
+            "type": "open"
+          },
+          {
+            "q": "Dove ti piace andare in vacanza? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo sulla tua vacanza ideale: dove vai, con chi e che cosa fai."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-24-bambini-schermi-legge",
+      "title": "Niente dispositivi digitali sotto i 3 anni, al Senato la prima proposta di legge",
+      "source": "ANSA",
+      "date": "2026-07-23",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "famiglia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-bambini-schermi-legge",
+        "revision": 1,
+        "meta": {
+          "title": "Niente dispositivi digitali sotto i 3 anni, al Senato la prima proposta di legge",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/notizie_dai_pediatri/2026/07/23/niente-dispositivi-digitali-sotto-i-3-anni-al-senato-la-prima-proposta-di-legge_f1c6d7a7-7f41-4aea-aea5-a17ea618f624.html",
+          "date_published": "2026-07-23",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "salute",
+            "famiglia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the first bill about children and screens has reached the Senate. The idea is simple: children under three should not use phones, tablets or other digital devices. The proposal was created together with paediatricians, who have been sounding the alarm for some time. According to the doctors, too many hours in front of a screen can harm the development of the youngest children.\n\nThe aim of the law is not only to ban, but also to help families. Many parents, in fact, use the phone to calm their children, but they do not really know the risks. For this reason the text calls for more information and support for parents. Paediatricians remind us that in the first years of life children learn better by playing, talking and being with people, not by looking at a screen.",
+        "resumen_es": "In Italia è arrivata al Senato la prima proposta di legge sui bambini e gli schermi. L'idea è semplice: i bambini sotto i tre anni non dovrebbero usare telefoni, tablet o altri dispositivi digitali. La proposta nasce insieme ai pediatri, che da tempo lanciano un allarme. Secondo i medici, troppe ore davanti allo schermo possono fare male allo sviluppo dei più piccoli.\n\nL'obiettivo della legge non è solo vietare, ma anche aiutare le famiglie. Molti genitori, infatti, usano il telefono per calmare i figli, ma non conoscono bene i rischi. Per questo il testo prevede più informazione e sostegno per i genitori. I pediatri ricordano che nei primi anni di vita i bambini imparano meglio giocando, parlando e stando con le persone, non guardando uno schermo.",
+        "vocab": [
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "I bambini passano troppo tempo davanti allo schermo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dispositivo",
+            "pos": "noun",
+            "back": "device",
+            "example": "Il telefono è un dispositivo digitale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il bambino",
+            "pos": "noun",
+            "back": "child",
+            "example": "Il bambino ha due anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "la legge",
+            "pos": "noun",
+            "back": "law",
+            "example": "Il Parlamento discute una nuova legge.",
+            "tier": "B1"
+          },
+          {
+            "front": "la proposta",
+            "pos": "noun",
+            "back": "proposal",
+            "example": "La proposta arriva al Senato.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pediatra",
+            "pos": "noun",
+            "back": "paediatrician",
+            "example": "Il pediatra visita i bambini.",
+            "tier": "A2"
+          },
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to forbid, ban",
+            "example": "La legge vuole vietare i telefoni ai più piccoli.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo sviluppo",
+            "pos": "noun",
+            "back": "development",
+            "example": "Lo schermo può danneggiare lo sviluppo del bambino.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "I genitori non conoscono i rischi.",
+            "tier": "B1"
+          },
+          {
+            "front": "calmare",
+            "pos": "verb",
+            "back": "to calm",
+            "example": "Usa il telefono per calmare il figlio.",
+            "tier": "A2"
+          },
+          {
+            "front": "il genitore",
+            "pos": "noun",
+            "back": "parent",
+            "example": "I genitori hanno bisogno di aiuto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sostegno",
+            "pos": "noun",
+            "back": "support",
+            "example": "La legge offre sostegno alle famiglie.",
+            "tier": "B1"
+          },
+          {
+            "front": "giocare",
+            "pos": "verb",
+            "back": "to play",
+            "example": "I bambini imparano giocando.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'idea è semplice: i bambini sotto i tre anni non dovrebbero usare telefoni, tablet o altri dispositivi digitali.",
+            "point": "Condizionale 'dovrebbero' per dare un consiglio",
+            "explanation": "'Dovrebbero' non è un obbligo assoluto, ma un consiglio: sarebbe meglio non farlo.",
+            "why_tricky": "Il condizionale rende la frase più gentile del presente 'devono', che suonerebbe come un ordine."
+          },
+          {
+            "sentence": "L'obiettivo della legge non è solo vietare, ma anche aiutare le famiglie.",
+            "point": "'non solo... ma anche' e infinito come nome",
+            "explanation": "La struttura unisce due idee, e gli infiniti 'vietare' e 'aiutare' funzionano come sostantivi.",
+            "why_tricky": "In italiano l'infinito può fare da nome senza articolo, cosa che in inglese richiede la forma in -ing."
+          },
+          {
+            "sentence": "I pediatri ricordano che nei primi anni di vita i bambini imparano meglio giocando, parlando e stando con le persone, non guardando uno schermo.",
+            "point": "Gerundio per esprimere il modo",
+            "explanation": "'Giocando', 'parlando' e 'stando' spiegano come i bambini imparano.",
+            "why_tricky": "Il gerundio italiano qui indica il modo e non usa alcuna preposizione, a differenza dell'inglese 'by playing'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "lanciare l'allarme",
+            "meaning": "to sound the alarm, raise a warning",
+            "example": "I medici lanciano l'allarme sull'uso dei telefoni."
+          },
+          {
+            "phrase": "fare male a",
+            "meaning": "to be bad for, to harm",
+            "example": "Troppo schermo fa male ai bambini."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa propone la nuova legge per i bambini sotto i tre anni?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i pediatri sono preoccupati?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, i bambini piccoli dovrebbero usare i telefoni? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo sul tuo rapporto con il telefono: quante ore lo usi e se vorresti usarlo di meno."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-24-bolle-walk-of-fame",
+      "title": "Roberto Bolle: 'La stella sulla Walk of Fame il traguardo di una vita'",
+      "source": "ANSA",
+      "date": "2026-07-24",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "danza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-24-bolle-walk-of-fame",
+        "revision": 1,
+        "meta": {
+          "title": "Roberto Bolle: 'La stella sulla Walk of Fame il traguardo di una vita'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/07/24/roberto-bolle-stella-su-walk-of-fame-e-un-sogno-che-diventa-realta_526d18e3-9155-4fd6-8733-637f7a9577cd.html",
+          "date_published": "2026-07-24",
+          "date_processed": "2026-07-24",
+          "tags": [
+            "cultura",
+            "danza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The famous Italian dancer Roberto Bolle will receive a star on the Hollywood Walk of Fame. It is a great honour, because few people from the world of dance obtain this recognition. Bolle said that for him it is the achievement of a lifetime and that he did not expect it. The ceremony will take place in 2027, together with another thirty-two personalities from the world of entertainment.\n\nRoberto Bolle is known all over the world and has danced in the most important theatres for many years. As well as dancing, he also works to bring the general public closer to classical dance, with shows on television and in the squares. This star rewards not only him, but a little the whole of Italian dance. For many young dancers, his story is an example: with talent, study and passion, dreams can come true.",
+        "resumen_es": "Il famoso ballerino italiano Roberto Bolle riceverà una stella sulla Walk of Fame di Hollywood. È un grande onore, perché poche persone del mondo della danza ottengono questo riconoscimento. Bolle ha detto che per lui è il traguardo di una vita e che non se lo aspettava. La cerimonia si terrà nel 2027, insieme ad altre trentadue personalità dello spettacolo.\n\nRoberto Bolle è conosciuto in tutto il mondo e balla nei teatri più importanti da molti anni. Oltre a danzare, lavora anche per avvicinare il grande pubblico alla danza classica, con spettacoli in televisione e nelle piazze. Questa stella non premia solo lui, ma un po' tutta la danza italiana. Per molti giovani ballerini, la sua storia è un esempio: con talento, studio e passione i sogni possono diventare realtà.",
+        "vocab": [
+          {
+            "front": "il ballerino",
+            "pos": "noun",
+            "back": "dancer (male)",
+            "example": "Roberto Bolle è un ballerino famoso.",
+            "tier": "A2"
+          },
+          {
+            "front": "la danza",
+            "pos": "noun",
+            "back": "dance",
+            "example": "Ama la danza classica.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stella",
+            "pos": "noun",
+            "back": "star",
+            "example": "Riceve una stella sulla Walk of Fame.",
+            "tier": "A2"
+          },
+          {
+            "front": "il traguardo",
+            "pos": "noun",
+            "back": "goal, milestone",
+            "example": "È il traguardo di una vita.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'onore",
+            "pos": "noun",
+            "back": "honour",
+            "example": "È un grande onore per lui.",
+            "tier": "B1"
+          },
+          {
+            "front": "il riconoscimento",
+            "pos": "noun",
+            "back": "recognition, award",
+            "example": "Pochi ottengono questo riconoscimento.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cerimonia",
+            "pos": "noun",
+            "back": "ceremony",
+            "example": "La cerimonia si terrà nel 2027.",
+            "tier": "B1"
+          },
+          {
+            "front": "il teatro",
+            "pos": "noun",
+            "back": "theatre",
+            "example": "Balla nei teatri più importanti.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Vuole avvicinare il pubblico alla danza.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettacolo",
+            "pos": "noun",
+            "back": "show, performance",
+            "example": "Fa spettacoli in televisione.",
+            "tier": "A2"
+          },
+          {
+            "front": "il talento",
+            "pos": "noun",
+            "back": "talent",
+            "example": "Ha molto talento.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sogno",
+            "pos": "noun",
+            "back": "dream",
+            "example": "I sogni possono diventare realtà.",
+            "tier": "A2"
+          },
+          {
+            "front": "avvicinare",
+            "pos": "verb",
+            "back": "to bring closer",
+            "example": "Lavora per avvicinare i giovani alla danza.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Bolle ha detto che per lui è il traguardo di una vita e che non se lo aspettava.",
+            "point": "Passato prossimo e imperfetto insieme",
+            "explanation": "'Ha detto' racconta un'azione finita, mentre 'aspettava' descrive uno stato nel passato.",
+            "why_tricky": "Scegliere tra passato prossimo e imperfetto è difficile: uno indica l'azione, l'altro la situazione."
+          },
+          {
+            "sentence": "Oltre a danzare, lavora anche per avvicinare il grande pubblico alla danza classica, con spettacoli in televisione e nelle piazze.",
+            "point": "'oltre a + infinito' e 'per + infinito'",
+            "explanation": "'Oltre a danzare' aggiunge un'altra attività e 'per avvicinare' indica lo scopo del suo lavoro.",
+            "why_tricky": "Dopo 'oltre a' serve sempre l'infinito, mentre in inglese si usa la forma in -ing."
+          },
+          {
+            "sentence": "Per molti giovani ballerini, la sua storia è un esempio: con talento, studio e passione i sogni possono diventare realtà.",
+            "point": "'potere + infinito' per la possibilità",
+            "explanation": "'Possono diventare' esprime che qualcosa è possibile a certe condizioni.",
+            "why_tricky": "Il verbo 'potere' regge sempre l'infinito senza preposizione: 'possono diventare', non 'possono di diventare'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "il traguardo di una vita",
+            "meaning": "the achievement of a lifetime",
+            "example": "Vincere questo premio è il traguardo di una vita."
+          },
+          {
+            "phrase": "diventare realtà",
+            "meaning": "to come true",
+            "example": "Con impegno, i sogni possono diventare realtà."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa riceverà Roberto Bolle a Hollywood?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa fa Bolle, oltre a ballare nei teatri?",
+            "type": "open"
+          },
+          {
+            "q": "Chi è una persona che ammiri nel mondo dell'arte o dello sport? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo su un tuo sogno e spiega che cosa puoi fare per realizzarlo."
+      }
+    },
     {
       "pack_id": "feed-2026-07-23-sharon-stone-nobel",
       "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
@@ -6022,513 +6522,6 @@
           }
         ],
         "opinion_prompt": "Ti piacciono gli animali? Scrivi qualche frase su un animale che vorresti proteggere e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-ink-boyle-venezia",
-      "title": "Ink di Danny Boyle il film di apertura della Mostra del Cinema di Venezia",
-      "source": "ANSA",
-      "date": "2026-07-17",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "cinema"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-ink-boyle-venezia",
-        "revision": 1,
-        "meta": {
-          "title": "Ink di Danny Boyle il film di apertura della Mostra del Cinema di Venezia",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/16/ink-di-danny-boyle-film-di-apertura-della-mostra-del-cinema-di-venezia_868990b3-b300-4c7d-a8fc-e3783fe7629d.html",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "cultura",
-            "cinema"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Danny Boyle's new film is called Ink. It will be the film that opens the Venice Film Festival. The world premiere is scheduled for 2 September at the Palazzo del Cinema on the Lido. Danny Boyle is a very famous British director. He has directed many successful films that are known all over the world.\n\nThe Venice Festival is one of the oldest and most important film festivals in the world. Every year many actors and directors come to the Lido to present their films. The public and journalists wait with curiosity for the first screenings. Opening the festival with a new film is always a great honour. For Danny Boyle this is a special chance to show his work to an international audience.",
-        "resumen_es": "Il nuovo film di Danny Boyle si intitola Ink. Sarà il film che apre la Mostra del Cinema di Venezia. La prima mondiale è prevista per il 2 settembre al Palazzo del Cinema del Lido. Danny Boyle è un regista britannico molto famoso. Ha diretto molti film di grande successo, conosciuti in tutto il mondo.\n\nLa Mostra di Venezia è uno dei festival di cinema più antichi e importanti del mondo. Ogni anno molti attori e registi arrivano al Lido per presentare i loro film. Il pubblico e i giornalisti aspettano con curiosità le prime proiezioni. Aprire il festival con un film nuovo è sempre un grande onore. Per Danny Boyle questa è un'occasione speciale per mostrare il suo lavoro a un pubblico internazionale.",
-        "vocab": [
-          {
-            "front": "il regista",
-            "pos": "noun",
-            "back": "film director",
-            "example": "Il regista presenta il suo film.",
-            "tier": "B1"
-          },
-          {
-            "front": "la Mostra del Cinema",
-            "pos": "phrase",
-            "back": "the Film Festival (Venice)",
-            "example": "La Mostra del Cinema è a Venezia.",
-            "tier": "B1"
-          },
-          {
-            "front": "aprire",
-            "pos": "verb",
-            "back": "to open",
-            "example": "Questo film apre il festival.",
-            "tier": "A2"
-          },
-          {
-            "front": "intitolarsi",
-            "pos": "verb",
-            "back": "to be called/titled",
-            "example": "Il film si intitola Ink.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prima (mondiale)",
-            "pos": "noun",
-            "back": "(world) premiere",
-            "example": "La prima mondiale è a settembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "previsto",
-            "pos": "adj",
-            "back": "scheduled, expected",
-            "example": "L'evento è previsto per domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il successo",
-            "pos": "noun",
-            "back": "success",
-            "example": "Il film ha avuto un grande successo.",
-            "tier": "A2"
-          },
-          {
-            "front": "conosciuto",
-            "pos": "adj",
-            "back": "well-known",
-            "example": "È un attore molto conosciuto.",
-            "tier": "A2"
-          },
-          {
-            "front": "presentare",
-            "pos": "verb",
-            "back": "to present",
-            "example": "I registi presentano i loro film.",
-            "tier": "A2"
-          },
-          {
-            "front": "la proiezione",
-            "pos": "noun",
-            "back": "screening",
-            "example": "La prima proiezione è stasera.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the audience, the public",
-            "example": "Il pubblico applaude.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'onore",
-            "pos": "noun",
-            "back": "honour",
-            "example": "È un grande onore per lui.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'occasione",
-            "pos": "noun",
-            "back": "opportunity, occasion",
-            "example": "È un'occasione speciale.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Sarà il film che apre la Mostra del Cinema di Venezia.",
-            "point": "Futuro semplice 'sarà' e il relativo 'che'.",
-            "explanation": "'Sarà' è il futuro di 'essere'. 'Che' collega due frasi e sostituisce 'il film'.",
-            "why_tricky": "Il futuro di 'essere' è irregolare ('sarò, sarai, sarà...'). 'Che' non cambia mai forma, sia per soggetto sia per oggetto."
-          },
-          {
-            "sentence": "Ogni anno molti attori e registi arrivano al Lido per presentare i loro film.",
-            "point": "'Per' + infinito e il possessivo 'i loro'.",
-            "explanation": "'Per presentare' indica lo scopo. 'I loro film' usa il possessivo di terza persona plurale con l'articolo.",
-            "why_tricky": "In italiano il possessivo di solito vuole l'articolo ('i loro film'). 'Loro' non cambia mai al maschile o femminile."
-          },
-          {
-            "sentence": "Aprire il festival con un film nuovo è sempre un grande onore.",
-            "point": "L'infinito come soggetto della frase.",
-            "explanation": "'Aprire il festival' funziona come soggetto del verbo 'è', come un nome.",
-            "why_tricky": "L'infinito usato come soggetto regge il verbo al singolare ('è'), anche se l'idea sembra ampia."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere successo",
-            "meaning": "to be a success, to do well",
-            "example": "Il suo ultimo film ha avuto molto successo."
-          },
-          {
-            "phrase": "in prima mondiale",
-            "meaning": "as a world premiere, for the first time worldwide",
-            "example": "Il film esce in prima mondiale a Venezia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come si intitola il nuovo film di Danny Boyle?",
-            "type": "open"
-          },
-          {
-            "q": "Quando e dove sarà la prima mondiale del film?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la Mostra di Venezia è importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace andare al cinema? Scrivi qualche frase sul tuo film preferito e spiega perché ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-bad-bunny-milano",
-      "title": "Bad Bunny infiamma Milano: quasi 80 mila spettatori per la prima data italiana",
-      "source": "ANSA",
-      "date": "2026-07-17",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-bad-bunny-milano",
-        "revision": 1,
-        "meta": {
-          "title": "Bad Bunny infiamma Milano: quasi 80 mila spettatori per la prima data italiana",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/2026/07/17/bad-bunny-infiamma-milano-la-maura-parla-spagnolo_8be3704c-0a14-44ce-bb9b-9a003f97d0f6.html",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The singer Bad Bunny performed in Italy for the first time. His concert took place in Milan, at the La Maura racecourse. Almost eighty thousand people attended the show. The audience sang and danced for many hours. Many fans spoke Spanish, the language of the songs of the Puerto Rican artist.\n\nBad Bunny is today one of the most famous musicians in the world. His songs mix Latin rhythms, reggaeton and modern pop. The Milan concert was part of a long international tour. Many young people waited months to buy the ticket. For one evening, the Italian city turned into a big party in the Spanish language. Events like this show how popular Latin music is in Europe too.",
-        "resumen_es": "Il cantante Bad Bunny ha suonato per la prima volta in Italia. Il suo concerto si è svolto a Milano, all'Ippodromo La Maura. Quasi ottantamila persone hanno assistito allo spettacolo. Il pubblico ha cantato e ballato per molte ore. Molti fan parlavano spagnolo, la lingua delle canzoni dell'artista portoricano.\n\nBad Bunny è oggi uno dei musicisti più famosi del mondo. Le sue canzoni mescolano ritmi latini, reggaeton e pop moderno. Il concerto di Milano faceva parte di un lungo tour internazionale. Molti giovani hanno aspettato mesi per comprare il biglietto. Per una sera, la città italiana si è trasformata in una grande festa in lingua spagnola. Eventi come questo mostrano quanto la musica latina sia popolare anche in Europa.",
-        "vocab": [
-          {
-            "front": "il cantante",
-            "pos": "noun",
-            "back": "singer",
-            "example": "Il cantante è molto famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "suonare",
-            "pos": "verb",
-            "back": "to play (music), to perform",
-            "example": "Il gruppo suona a Milano.",
-            "tier": "A2"
-          },
-          {
-            "front": "il concerto",
-            "pos": "noun",
-            "back": "concert",
-            "example": "Andiamo a un concerto stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "svolgersi",
-            "pos": "verb",
-            "back": "to take place",
-            "example": "Il concerto si è svolto a Milano.",
-            "tier": "B1"
-          },
-          {
-            "front": "assistere a",
-            "pos": "verb",
-            "back": "to attend, to watch",
-            "example": "Ho assistito allo spettacolo.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spettacolo",
-            "pos": "noun",
-            "back": "show",
-            "example": "È stato un grande spettacolo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience",
-            "example": "Il pubblico ha cantato con lui.",
-            "tier": "A2"
-          },
-          {
-            "front": "mescolare",
-            "pos": "verb",
-            "back": "to mix",
-            "example": "Le sue canzoni mescolano stili diversi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ritmo",
-            "pos": "noun",
-            "back": "rhythm",
-            "example": "Mi piace il ritmo di questa canzone.",
-            "tier": "A2"
-          },
-          {
-            "front": "il biglietto",
-            "pos": "noun",
-            "back": "ticket",
-            "example": "Ho comprato il biglietto online.",
-            "tier": "A2"
-          },
-          {
-            "front": "trasformarsi in",
-            "pos": "verb",
-            "back": "to turn into",
-            "example": "La città si è trasformata in una festa.",
-            "tier": "B1"
-          },
-          {
-            "front": "popolare",
-            "pos": "adj",
-            "back": "popular",
-            "example": "La musica latina è molto popolare.",
-            "tier": "A2"
-          },
-          {
-            "front": "per la prima volta",
-            "pos": "phrase",
-            "back": "for the first time",
-            "example": "Canta in Italia per la prima volta.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il cantante Bad Bunny ha suonato per la prima volta in Italia.",
-            "point": "Passato prossimo con 'avere'.",
-            "explanation": "'Ha suonato' racconta un'azione finita nel passato: presente di 'avere' + participio 'suonato'.",
-            "why_tricky": "Il participio di verbi in -are finisce in -ato ('suonato'). Con 'avere' il participio non cambia con il soggetto."
-          },
-          {
-            "sentence": "Le sue canzoni mescolano ritmi latini, reggaeton e pop moderno.",
-            "point": "Presente indicativo e il possessivo 'le sue'.",
-            "explanation": "'Mescolano' è presente (loro). 'Le sue canzoni' concorda con 'canzoni', femminile plurale.",
-            "why_tricky": "Il possessivo concorda con la cosa posseduta, non con chi possiede: 'le sue' perché 'canzoni' è femminile plurale."
-          },
-          {
-            "sentence": "Molti giovani hanno aspettato mesi per comprare il biglietto.",
-            "point": "Passato prossimo + 'per' + infinito.",
-            "explanation": "'Hanno aspettato' è passato prossimo; 'per comprare' indica lo scopo dell'attesa.",
-            "why_tricky": "Dopo 'per' serve sempre l'infinito ('comprare'), mai un verbo coniugato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "far parte di",
-            "meaning": "to be part of",
-            "example": "Questa canzone fa parte del nuovo album."
-          },
-          {
-            "phrase": "per la prima volta",
-            "meaning": "for the first time",
-            "example": "Ho visto il mare per la prima volta a dieci anni."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove si è svolto il concerto di Bad Bunny?",
-            "type": "open"
-          },
-          {
-            "q": "Quante persone hanno assistito allo spettacolo?",
-            "type": "open"
-          },
-          {
-            "q": "Che tipo di musica fa Bad Bunny?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è il tuo genere musicale preferito? Scrivi qualche frase e spiega perché ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-17-polveri-sahara",
-      "title": "Sono aumentate sull'Europa le polveri in arrivo dal Sahara",
-      "source": "ANSA",
-      "date": "2026-07-17",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "meteo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-17-polveri-sahara",
-        "revision": 1,
-        "meta": {
-          "title": "Sono aumentate sull'Europa le polveri in arrivo dal Sahara",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/17/sono-aumentate-sulleuropa-le-polveri-in-arrivo-dal-sahara_d7cf89ca-90dc-45d2-a689-5e454a305bcd.html",
-          "date_published": "2026-07-17",
-          "date_processed": "2026-07-17",
-          "tags": [
-            "ambiente",
-            "meteo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In recent days a lot of sand from the Sahara desert has been arriving over Europe. The wind carries this fine dust from Africa all the way to our continent. In Italy the concentrations are higher than in the other European countries. Sometimes the sky turns white or yellow and the air is not very clean.\n\nThis dust can create problems for people who have trouble breathing, for example for those who suffer from asthma. For this reason doctors advise being careful on the worst days. Usually the phenomenon lasts a few days and then the rain cleans the air. Scientists often observe this movement of sand, because it helps to better understand the climate and the winds of our planet.",
-        "resumen_es": "In questi giorni molta sabbia del deserto del Sahara arriva sopra l'Europa. Il vento porta queste piccole polveri dall'Africa fino al nostro continente. In Italia le concentrazioni sono più alte che negli altri Paesi europei. Il cielo a volte diventa bianco o giallo e l'aria non è molto pulita.\n\nQueste polveri possono creare problemi alle persone che respirano male, per esempio a chi soffre di asma. Per questo i medici consigliano di stare attenti nelle giornate peggiori. Di solito il fenomeno dura pochi giorni e poi la pioggia pulisce l'aria. Gli scienziati osservano spesso questo movimento della sabbia, perché aiuta a capire meglio il clima e i venti del nostro pianeta.",
-        "vocab": [
-          {
-            "front": "la sabbia",
-            "pos": "noun",
-            "back": "sand",
-            "example": "La sabbia del deserto arriva fino in Italia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la polvere",
-            "pos": "noun",
-            "back": "dust",
-            "example": "C'è molta polvere nell'aria oggi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il deserto",
-            "pos": "noun",
-            "back": "desert",
-            "example": "Il Sahara è il deserto più grande dell'Africa.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vento",
-            "pos": "noun",
-            "back": "wind",
-            "example": "Il vento soffia forte sul mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cielo",
-            "pos": "noun",
-            "back": "sky",
-            "example": "Il cielo oggi è giallo.",
-            "tier": "B1"
-          },
-          {
-            "front": "pulito",
-            "pos": "adj",
-            "back": "clean",
-            "example": "In montagna l'aria è più pulita.",
-            "tier": "B1"
-          },
-          {
-            "front": "respirare",
-            "pos": "verb",
-            "back": "to breathe",
-            "example": "Con questo caldo è difficile respirare.",
-            "tier": "B1"
-          },
-          {
-            "front": "soffrire di",
-            "pos": "verb",
-            "back": "to suffer from",
-            "example": "Mio fratello soffre di asma.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to advise, to recommend",
-            "example": "Il medico consiglia di bere molta acqua.",
-            "tier": "B1"
-          },
-          {
-            "front": "stare attenti",
-            "pos": "phrase",
-            "back": "to be careful",
-            "example": "Dovete stare attenti al sole.",
-            "tier": "A2"
-          },
-          {
-            "front": "di solito",
-            "pos": "adv",
-            "back": "usually",
-            "example": "Di solito piove poco in luglio.",
-            "tier": "A2"
-          },
-          {
-            "front": "durare",
-            "pos": "verb",
-            "back": "to last",
-            "example": "Il temporale è durato un'ora.",
-            "tier": "B1"
-          },
-          {
-            "front": "il clima",
-            "pos": "noun",
-            "back": "climate",
-            "example": "Il clima sta cambiando velocemente.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il vento porta queste piccole polveri dall'Africa fino al nostro continente.",
-            "point": "Le preposizioni articolate: 'da + la = dalla', 'a + il = al'.",
-            "explanation": "In italiano molte preposizioni si uniscono all'articolo. Qui 'dall'Africa' viene da 'da + l'Africa' e 'al nostro continente' viene da 'a + il continente'.",
-            "why_tricky": "In inglese la preposizione resta separata ('from Africa'), mentre in italiano si fonde con l'articolo e cambia forma."
-          },
-          {
-            "sentence": "Queste polveri possono creare problemi alle persone che respirano male, per esempio a chi soffre di asma.",
-            "point": "'Potere' + infinito e il pronome 'chi'.",
-            "explanation": "Dopo 'possono' il secondo verbo resta all'infinito: 'creare'. 'Chi' significa 'le persone che' ed è sempre singolare.",
-            "why_tricky": "Molti studenti scrivono 'chi soffrono', ma dopo 'chi' il verbo va sempre alla terza persona singolare."
-          },
-          {
-            "sentence": "Di solito il fenomeno dura pochi giorni e poi la pioggia pulisce l'aria.",
-            "point": "Il presente indicativo per azioni abituali, con i verbi in '-ire' tipo 'pulire'.",
-            "explanation": "'Dura' e 'pulisce' descrivono qualcosa che succede normalmente. 'Pulire' aggiunge '-isc-' alla radice: pulisco, pulisci, pulisce.",
-            "why_tricky": "Non tutti i verbi in '-ire' prendono '-isc-': 'dormire' fa 'dorme', ma 'pulire' fa 'pulisce'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "stare attenti",
-            "meaning": "to be careful, to watch out",
-            "example": "State attenti quando attraversate la strada."
-          },
-          {
-            "phrase": "a volte",
-            "meaning": "sometimes",
-            "example": "A volte il cielo diventa giallo per la sabbia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Da dove arriva la sabbia e come arriva in Europa?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi possono avere le persone in questi giorni?",
-            "type": "open"
-          },
-          {
-            "q": "Perché gli scienziati studiano questo fenomeno?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nella tua città l'aria è pulita? Scrivi 80 parole e spiega che cosa fai quando l'aria non è buona."
       }
     }
   ]
