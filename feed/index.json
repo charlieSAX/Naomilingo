@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-07-26T08:12:39Z",
+  "generated_at": "2026-07-27T08:10:20Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-27-monopattini-assicurazione",
+      "title": "Scatta l'Rc auto per i monopattini, allarme rincaro sulle polizze",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "societa",
+        "trasporti"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-monopattini-assicurazione",
+        "revision": 1,
+        "meta": {
+          "title": "Scatta l'Rc auto per i monopattini, allarme rincaro sulle polizze",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/07/15/scatta-lrc-auto-per-i-monopattini-allarme-rincaro-sulle-polizze_99f2b71b-e85b-49cc-82db-a68dacf1cf24.html",
+          "date_published": "2026-07-16",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "societa",
+            "trasporti"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy an important new rule is coming for those who use the electric scooter. Now you need insurance, just like for cars and motorbikes. The new rule wants to protect people in case of an accident. Every day many citizens use the scooter to go to work or school. For this reason the news interests many people who live in the city and move around often.\n\nSome people, however, are worried about the cost. They fear that the price of the insurance is too high. Consumer associations are asking for clear rules and fair prices for everyone. The rental companies also have to change their services and inform their customers. In the coming months we will see whether the new law works well. Meanwhile, anyone who rides a scooter must get informed carefully and follow the rules.",
+        "resumen_es": "In Italia arriva una novità importante per chi usa il monopattino elettrico. Adesso serve un'assicurazione, come per le auto e le moto. La nuova regola vuole proteggere le persone in caso di incidente. Ogni giorno molti cittadini usano il monopattino per andare al lavoro o a scuola. Per questo la notizia interessa tante persone che vivono in città e si spostano spesso.\n\nAlcune persone però sono preoccupate per il costo. Temono che il prezzo dell'assicurazione sia troppo alto. Le associazioni dei consumatori chiedono regole chiare e prezzi giusti per tutti. Anche le aziende del noleggio devono cambiare i loro servizi e informare i clienti. Nei prossimi mesi vedremo se la nuova legge funziona bene. Intanto chi guida un monopattino deve informarsi con attenzione e mettersi in regola.",
+        "vocab": [
+          {
+            "front": "il monopattino",
+            "pos": "noun",
+            "back": "scooter",
+            "example": "Vado a scuola con il monopattino.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'assicurazione",
+            "pos": "noun",
+            "back": "insurance",
+            "example": "Ho pagato l'assicurazione della macchina.",
+            "tier": "A2"
+          },
+          {
+            "front": "la novità",
+            "pos": "noun",
+            "back": "news, something new",
+            "example": "C'è una bella novità per te.",
+            "tier": "A2"
+          },
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "Dobbiamo rispettare le regole.",
+            "tier": "A2"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Il casco serve a proteggere la testa.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'incidente",
+            "pos": "noun",
+            "back": "accident",
+            "example": "C'è stato un incidente in centro.",
+            "tier": "A2"
+          },
+          {
+            "front": "spostarsi",
+            "pos": "verb",
+            "back": "to move around, to get around",
+            "example": "In città mi sposto in bici.",
+            "tier": "B1"
+          },
+          {
+            "front": "preoccupato",
+            "pos": "adj",
+            "back": "worried",
+            "example": "Sono preoccupato per l'esame.",
+            "tier": "A2"
+          },
+          {
+            "front": "il prezzo",
+            "pos": "noun",
+            "back": "price",
+            "example": "Il prezzo è troppo alto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il noleggio",
+            "pos": "noun",
+            "back": "rental",
+            "example": "Ho usato un servizio di noleggio bici.",
+            "tier": "B1"
+          },
+          {
+            "front": "mettersi in regola",
+            "pos": "phrase",
+            "back": "to comply, to get in order",
+            "example": "Devo mettermi in regola con i documenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "intanto",
+            "pos": "adv",
+            "back": "meanwhile",
+            "example": "Tu prepara la tavola, intanto io cucino.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Temono che il prezzo dell'assicurazione sia troppo alto.",
+            "point": "Congiuntivo dopo 'temere che'",
+            "explanation": "Dopo verbi di paura o opinione come 'temere che' si usa il congiuntivo: 'sia', non 'è'.",
+            "why_tricky": "In inglese si usa l'indicativo ('is'), ma in italiano serve il congiuntivo."
+          },
+          {
+            "sentence": "Adesso serve un'assicurazione, come per le auto e le moto.",
+            "point": "Il verbo 'servire' impersonale",
+            "explanation": "'Serve' significa 'ci vuole' o 'è necessario'. Il soggetto è la cosa necessaria, cioè 'un'assicurazione'.",
+            "why_tricky": "'Servire' cambia con il numero: 'serve una cosa', ma 'servono due cose'."
+          },
+          {
+            "sentence": "Nei prossimi mesi vedremo se la nuova legge funziona bene.",
+            "point": "Futuro semplice",
+            "explanation": "'Vedremo' è il futuro del verbo 'vedere' e indica un'azione che succederà.",
+            "why_tricky": "Dopo 'se' con valore di dubbio si usa il presente ('funziona'), non un altro futuro."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mettersi in regola",
+            "meaning": "fare tutto quello che chiede la legge",
+            "example": "Prima di partire, mettiti in regola con i pagamenti."
+          },
+          {
+            "phrase": "in caso di",
+            "meaning": "se succede una certa cosa",
+            "example": "In caso di pioggia, la festa sarà dentro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa serve adesso per usare il monopattino in Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune persone sono preoccupate?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono le associazioni dei consumatori?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, è giusto avere un'assicurazione per il monopattino? Spiega perché con parole semplici."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-sharon-stone-roma-nobel",
+      "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-sharon-stone-roma-nobel",
+        "revision": 1,
+        "meta": {
+          "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/italia/2026/07/16/sharon-stone-a-roma-allassemblea-dei-nobel-la-dignita-umana-non-e-un-algoritmo_b56b2349-b147-4480-bfca-f731ce4da7ff.html",
+          "date_published": "2026-07-16",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "cultura",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The American actress Sharon Stone arrived in Rome for a very important meeting. She took part in an assembly with some Nobel prize winners. During her speech she talked about a current topic: technology and the rights of people. Then she said a strong sentence: 'Human dignity is not an algorithm'. With these words she wanted to remember the value of every human being in front of the new machines.\n\nToday artificial intelligence is present in many parts of our life. For this reason many experts discuss its risks and its limits. Sharon Stone invited everyone not to forget feelings and respect. According to her, machines cannot replace the humanity of people. Her message pleased the audience present in Rome. In this way the actress united the world of cinema and the big questions of today.",
+        "resumen_es": "L'attrice americana Sharon Stone è arrivata a Roma per un incontro molto importante. Ha partecipato a un'assemblea con alcuni premi Nobel. Durante il suo discorso ha parlato di un tema attuale: la tecnologia e i diritti delle persone. Poi ha detto una frase forte: 'La dignità umana non è un algoritmo'. Con queste parole ha voluto ricordare il valore di ogni essere umano davanti alle nuove macchine.\n\nOggi l'intelligenza artificiale è presente in molte parti della nostra vita. Per questo tanti esperti discutono dei suoi rischi e dei suoi limiti. Sharon Stone ha invitato tutti a non dimenticare i sentimenti e il rispetto. Secondo lei, le macchine non possono sostituire l'umanità delle persone. Il suo messaggio è piaciuto al pubblico presente a Roma. Così l'attrice ha unito il mondo del cinema e le grandi domande di oggi.",
+        "vocab": [
+          {
+            "front": "l'attrice",
+            "pos": "noun",
+            "back": "actress",
+            "example": "L'attrice ha vinto un premio.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'incontro",
+            "pos": "noun",
+            "back": "meeting",
+            "example": "Abbiamo un incontro alle tre.",
+            "tier": "A2"
+          },
+          {
+            "front": "il discorso",
+            "pos": "noun",
+            "back": "speech",
+            "example": "Il presidente ha fatto un lungo discorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "attuale",
+            "pos": "adj",
+            "back": "current, topical",
+            "example": "È un problema molto attuale.",
+            "tier": "B1"
+          },
+          {
+            "front": "i diritti",
+            "pos": "noun",
+            "back": "rights",
+            "example": "Tutti hanno gli stessi diritti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la dignità",
+            "pos": "noun",
+            "back": "dignity",
+            "example": "Ogni persona merita rispetto e dignità.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'essere umano",
+            "pos": "noun",
+            "back": "human being",
+            "example": "Ogni essere umano è unico.",
+            "tier": "B1"
+          },
+          {
+            "front": "i sentimenti",
+            "pos": "noun",
+            "back": "feelings",
+            "example": "È difficile spiegare i sentimenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rispetto",
+            "pos": "noun",
+            "back": "respect",
+            "example": "Il rispetto è importante tra amici.",
+            "tier": "A2"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Il computer non può sostituire un amico.",
+            "tier": "B1"
+          },
+          {
+            "front": "piacere a",
+            "pos": "verb",
+            "back": "to please, to be liked by",
+            "example": "Il film è piaciuto a tutti.",
+            "tier": "A2"
+          },
+          {
+            "front": "unire",
+            "pos": "verb",
+            "back": "to unite, to bring together",
+            "example": "La musica unisce le persone.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il suo messaggio è piaciuto al pubblico presente a Roma.",
+            "point": "Passato prossimo del verbo 'piacere'",
+            "explanation": "'Piacere' usa l'ausiliare 'essere', quindi il participio concorda: 'è piaciuto' con 'messaggio'. 'Al pubblico' usa la preposizione articolata 'a + il'.",
+            "why_tricky": "Con 'piacere' la persona che prova il piacere è un complemento indiretto ('al pubblico'), non il soggetto."
+          },
+          {
+            "sentence": "Secondo lei, le macchine non possono sostituire l'umanità delle persone.",
+            "point": "'Potere' + infinito",
+            "explanation": "Dopo 'potere' il secondo verbo resta all'infinito: 'possono sostituire'.",
+            "why_tricky": "'Secondo lei' significa 'nella sua opinione' e non regge il congiuntivo."
+          },
+          {
+            "sentence": "Oggi l'intelligenza artificiale è presente in molte parti della nostra vita.",
+            "point": "Preposizione articolata 'della'",
+            "explanation": "'Della' nasce da 'di + la' e collega 'parti' con 'nostra vita'.",
+            "why_tricky": "L'articolo si unisce alla preposizione: si dice 'della vita', non 'di la vita'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "secondo lei",
+            "meaning": "nella sua opinione",
+            "example": "Secondo lei, il film è bellissimo."
+          },
+          {
+            "phrase": "davanti a",
+            "meaning": "di fronte a qualcosa o qualcuno",
+            "example": "Ci vediamo davanti al cinema."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Sharon Stone è andata a Roma?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa ha detto sulla tecnologia e le persone?",
+            "type": "open"
+          },
+          {
+            "q": "Perché tanti esperti discutono dell'intelligenza artificiale?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Sei d'accordo con la frase 'La dignità umana non è un algoritmo'? Scrivi la tua opinione con frasi semplici."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-bambini-matematica-scuola",
+      "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-bambini-matematica-scuola",
+        "revision": 1,
+        "meta": {
+          "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/quasi-40-bambini-elementari-non-ha-conoscenze-di-base-in-matematica_e54fb0da-45ac-4e7a-9870-526bba6d3192.html",
+          "date_published": "2026-07-16",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "scuola",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy a new study talks about primary school. According to the Invalsi data, almost 40% of children in primary school do not have the basic knowledge in mathematics. This means that many pupils have difficulty with numbers and with simple calculations. The experts are worried about these results. Mathematics in fact is very important for everyday life and for the future of the children.\n\nThe situation got worse after the Covid period. In those years the schools stayed closed for a long time. So many students lost important lessons and studied less. Now teachers and families are looking for solutions to help the children. Some are asking for more hours of lessons and fun activities with numbers. The goal is simple: to bring back to the children the desire to learn mathematics.",
+        "resumen_es": "In Italia una nuova ricerca parla della scuola primaria. Secondo i dati Invalsi, quasi il 40% dei bambini delle elementari non ha le conoscenze di base in matematica. Questo significa che molti alunni hanno difficoltà con i numeri e con i calcoli semplici. Gli esperti sono preoccupati per questi risultati. La matematica infatti è molto importante per la vita di tutti i giorni e per il futuro dei ragazzi.\n\nLa situazione è peggiorata dopo il periodo del Covid. In quegli anni le scuole sono rimaste chiuse per molto tempo. Così molti studenti hanno perso lezioni importanti e hanno studiato meno. Ora insegnanti e famiglie cercano soluzioni per aiutare i bambini. Alcuni chiedono più ore di lezione e attività divertenti con i numeri. L'obiettivo è semplice: far tornare ai bambini la voglia di imparare la matematica.",
+        "vocab": [
+          {
+            "front": "la ricerca",
+            "pos": "noun",
+            "back": "study, research",
+            "example": "Ho letto una ricerca interessante.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scuola primaria",
+            "pos": "phrase",
+            "back": "primary school",
+            "example": "Mia figlia va alla scuola primaria.",
+            "tier": "A2"
+          },
+          {
+            "front": "le elementari",
+            "pos": "noun",
+            "back": "primary school (elementary)",
+            "example": "Ho frequentato le elementari qui.",
+            "tier": "A2"
+          },
+          {
+            "front": "le conoscenze",
+            "pos": "noun",
+            "back": "knowledge",
+            "example": "Ha buone conoscenze di inglese.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'alunno",
+            "pos": "noun",
+            "back": "pupil",
+            "example": "Ogni alunno ha un quaderno.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere difficoltà con",
+            "pos": "phrase",
+            "back": "to have difficulty with",
+            "example": "Ho difficoltà con la grammatica.",
+            "tier": "B1"
+          },
+          {
+            "front": "il calcolo",
+            "pos": "noun",
+            "back": "calculation",
+            "example": "Fa i calcoli molto veloce.",
+            "tier": "B1"
+          },
+          {
+            "front": "peggiorare",
+            "pos": "verb",
+            "back": "to get worse",
+            "example": "Il tempo è peggiorato di sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "rimanere chiuso",
+            "pos": "phrase",
+            "back": "to stay closed",
+            "example": "Il negozio è rimasto chiuso tutto il giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'insegnante",
+            "pos": "noun",
+            "back": "teacher",
+            "example": "L'insegnante spiega la lezione.",
+            "tier": "A2"
+          },
+          {
+            "front": "la voglia",
+            "pos": "noun",
+            "back": "desire, wish",
+            "example": "Ho voglia di un gelato.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "goal, aim",
+            "example": "Il nostro obiettivo è chiaro.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La situazione è peggiorata dopo il periodo del Covid.",
+            "point": "Passato prossimo con 'essere' e accordo",
+            "explanation": "'Peggiorare' usa l'ausiliare 'essere', quindi il participio concorda con il soggetto femminile: 'è peggiorata'.",
+            "why_tricky": "Con 'essere' il participio cambia in genere e numero; con 'avere' di solito no."
+          },
+          {
+            "sentence": "In quegli anni le scuole sono rimaste chiuse per molto tempo.",
+            "point": "Dimostrativo 'quegli' e accordo del participio",
+            "explanation": "'Quegli' è la forma di 'quei' davanti a parole che iniziano per vocale come 'anni'. 'Sono rimaste' concorda con 'le scuole'.",
+            "why_tricky": "'Quello' cambia forma come l'articolo: quel, quello, quell', quei, quegli."
+          },
+          {
+            "sentence": "Questo significa che molti alunni hanno difficoltà con i numeri e con i calcoli semplici.",
+            "point": "Espressione 'avere difficoltà con'",
+            "explanation": "Si usa 'avere difficoltà con' più un nome per dire che qualcosa è difficile per qualcuno.",
+            "why_tricky": "Si dice 'difficoltà con', non 'difficoltà in', quando segue un nome concreto."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "di tutti i giorni",
+            "meaning": "che succede ogni giorno, normale",
+            "example": "Sono i problemi di tutti i giorni."
+          },
+          {
+            "phrase": "far tornare la voglia",
+            "meaning": "fare venire di nuovo il desiderio di qualcosa",
+            "example": "Quel libro mi ha fatto tornare la voglia di leggere."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa dice la ricerca Invalsi sui bambini delle elementari?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la situazione è peggiorata negli ultimi anni?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono alcune persone per aiutare i bambini?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, come si può aiutare i bambini ad amare la matematica? Scrivi due o tre idee semplici."
+      }
+    },
     {
       "pack_id": "feed-2026-07-26-caldo-bollino-rosso",
       "title": "Sabato salgono a 19 le città col bollino rosso per il caldo",
@@ -2052,175 +2538,6 @@
       }
     },
     {
-      "pack_id": "feed-2026-07-23-sharon-stone-nobel",
-      "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
-      "source": "ANSA",
-      "date": "2026-07-23",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-23-sharon-stone-nobel",
-        "revision": 1,
-        "meta": {
-          "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/videogallery/italia/2026/07/16/sharon-stone-a-roma-allassemblea-dei-nobel-la-dignita-umana-non-e-un-algoritmo_b56b2349-b147-4480-bfca-f731ce4da7ff.html",
-          "date_published": "2026-07-23",
-          "date_processed": "2026-07-23",
-          "tags": [
-            "cultura",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The American actress Sharon Stone was in Rome for an assembly of Nobel Prize winners. During the meeting she spoke about a very important topic: technology and people's rights. With a strong phrase she said that human dignity is not an algorithm. With these words she wants to remind us that every person is worth more than a number or a computer program.\n\nIn her speech Sharon Stone invited everyone to defend respect and kindness. She explained that technology can help society, but it must never decide in place of human beings. Many guests applauded her words. The Nobel assembly exists precisely to discuss peace, science and the future. The actress's message is simple but deep: we must stay human even in a world full of machines.",
-        "resumen_es": "L'attrice americana Sharon Stone è stata a Roma per un'assemblea di premi Nobel. Durante l'incontro ha parlato di un tema molto importante: la tecnologia e i diritti delle persone. Con una frase forte ha detto che la dignità umana non è un algoritmo. Con queste parole vuole ricordare che ogni persona vale più di un numero o di un programma di computer.\n\nNel suo discorso Sharon Stone ha invitato tutti a difendere il rispetto e la gentilezza. Ha spiegato che la tecnologia può aiutare la società, ma non deve mai decidere al posto degli esseri umani. Molti ospiti hanno applaudito le sue parole. L'assemblea dei Nobel serve proprio per discutere di pace, di scienza e di futuro. Il messaggio dell'attrice è semplice ma profondo: dobbiamo restare umani anche in un mondo pieno di macchine.",
-        "vocab": [
-          {
-            "front": "attrice",
-            "pos": "noun",
-            "back": "actress",
-            "example": "L'attrice è molto famosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "assemblea",
-            "pos": "noun",
-            "back": "assembly, meeting",
-            "example": "L'assemblea inizia alle nove.",
-            "tier": "B1"
-          },
-          {
-            "front": "diritti",
-            "pos": "noun",
-            "back": "rights",
-            "example": "Tutti hanno gli stessi diritti.",
-            "tier": "A2"
-          },
-          {
-            "front": "dignità",
-            "pos": "noun",
-            "back": "dignity",
-            "example": "La dignità di ogni persona è importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "algoritmo",
-            "pos": "noun",
-            "back": "algorithm",
-            "example": "Il computer usa un algoritmo.",
-            "tier": "B1"
-          },
-          {
-            "front": "ricordare",
-            "pos": "verb",
-            "back": "to remember, to remind",
-            "example": "Voglio ricordare una cosa importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "discorso",
-            "pos": "noun",
-            "back": "speech",
-            "example": "Il suo discorso è stato breve.",
-            "tier": "A2"
-          },
-          {
-            "front": "gentilezza",
-            "pos": "noun",
-            "back": "kindness",
-            "example": "La gentilezza non costa niente.",
-            "tier": "B1"
-          },
-          {
-            "front": "società",
-            "pos": "noun",
-            "back": "society",
-            "example": "La società cambia in fretta.",
-            "tier": "A2"
-          },
-          {
-            "front": "al posto di",
-            "pos": "phrase",
-            "back": "instead of, in place of",
-            "example": "Vado io al posto di Marco.",
-            "tier": "B1"
-          },
-          {
-            "front": "ospite",
-            "pos": "noun",
-            "back": "guest",
-            "example": "L'ospite è arrivato tardi.",
-            "tier": "A2"
-          },
-          {
-            "front": "applaudire",
-            "pos": "verb",
-            "back": "to applaud, to clap",
-            "example": "Tutti hanno applaudito con gioia.",
-            "tier": "B1"
-          },
-          {
-            "front": "restare",
-            "pos": "verb",
-            "back": "to stay, to remain",
-            "example": "Voglio restare a casa stasera.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Con una frase forte ha detto che la dignità umana non è un algoritmo.",
-            "point": "Passato prossimo 'ha detto' + frase con 'che'",
-            "explanation": "Il passato prossimo usa l'ausiliare 'avere' per un'azione conclusa; 'che' introduce il discorso indiretto.",
-            "why_tricky": "Scegliere l'ausiliare 'avere' e non 'essere'."
-          },
-          {
-            "sentence": "Ha spiegato che la tecnologia può aiutare la società, ma non deve mai decidere al posto degli esseri umani.",
-            "point": "Verbi modali 'potere' e 'dovere' + infinito; negazione 'non... mai'",
-            "explanation": "'può aiutare' e 'deve decidere' uniscono modale e infinito; 'non deve mai' racchiude il verbo.",
-            "why_tricky": "La posizione di 'mai' dopo il verbo modale."
-          },
-          {
-            "sentence": "L'assemblea dei Nobel serve proprio per discutere di pace, di scienza e di futuro.",
-            "point": "'servire per' + infinito; 'discutere di'",
-            "explanation": "'serve per' indica lo scopo; 'discutere' regge la preposizione 'di'.",
-            "why_tricky": "Ricordare la preposizione 'di' dopo 'discutere'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "al posto di",
-            "meaning": "instead of, in place of",
-            "example": "Bevo il tè al posto del caffè."
-          },
-          {
-            "phrase": "restare umani",
-            "meaning": "to stay human, to keep one's humanity",
-            "example": "Anche nei momenti difficili dobbiamo restare umani."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è andata Sharon Stone e perché?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa significa la frase 'la dignità umana non è un algoritmo'?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo l'attrice, quale deve essere il ruolo della tecnologia nella società?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, la tecnologia aiuta o mette in pericolo i diritti delle persone? Scrivi qualche frase con la tua opinione."
-      }
-    },
-    {
       "pack_id": "feed-2026-07-23-microplastiche-cuore",
       "title": "Cuore, scoperto il legame tra microplastiche e infarto",
       "source": "ANSA",
@@ -4253,182 +4570,6 @@
           }
         ],
         "opinion_prompt": "Ti piacciono i film basati su storie antiche o miti? Scrivi un breve paragrafo e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-21-scuola-matematica",
-      "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
-      "source": "ANSA",
-      "date": "2026-07-21",
-      "level": "A2-B1",
-      "topics": [
-        "scuola",
-        "società"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-21-scuola-matematica",
-        "revision": 1,
-        "meta": {
-          "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/quasi-40-bambini-elementari-non-ha-conoscenze-di-base-in-matematica_e54fb0da-45ac-4e7a-9870-526bba6d3192.html",
-          "date_published": "2026-07-16",
-          "date_processed": "2026-07-21",
-          "tags": [
-            "scuola",
-            "società"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A new study on Italian schools shows an important problem. According to the data, almost four out of ten children in primary schools do not have basic knowledge in mathematics. This means that many pupils have trouble with numbers and simple calculations. The results have gotten worse compared to the years before the pandemic. In other subjects too, such as reading, many students show some difficulty.\n\nExperts think that the pandemic played an important role in this decline. During the lockdown, in fact, schools stayed closed for a long time and online lessons did not always work well. Now many teachers are asking for more help and more resources for students who are struggling. Learning mathematics well as a child is very useful, because it is needed in everyday life and opens many doors for the future.",
-        "resumen_es": "Una nuova ricerca sulla scuola italiana mostra un problema importante. Secondo i dati, quasi quattro bambini su dieci delle scuole elementari non hanno le conoscenze di base in matematica. Questo vuol dire che molti alunni hanno difficoltà con i numeri e con i calcoli semplici. I risultati sono peggiorati rispetto agli anni prima della pandemia. Anche in altre materie, come la lettura, molti studenti mostrano qualche difficoltà.\n\nGli esperti pensano che la pandemia abbia avuto un ruolo importante in questo calo. Durante il lockdown, infatti, le scuole sono rimaste chiuse per molto tempo e le lezioni online non sempre hanno funzionato bene. Adesso molti insegnanti chiedono più aiuto e più risorse per gli studenti in difficoltà. Imparare bene la matematica da piccoli è molto utile, perché serve nella vita di tutti i giorni e apre molte porte per il futuro.",
-        "vocab": [
-          {
-            "front": "la ricerca",
-            "pos": "noun",
-            "back": "research, study",
-            "example": "Una nuova ricerca mostra un problema.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scuola elementare",
-            "pos": "phrase",
-            "back": "primary school",
-            "example": "Mio figlio va alla scuola elementare.",
-            "tier": "A2"
-          },
-          {
-            "front": "le conoscenze",
-            "pos": "noun",
-            "back": "knowledge",
-            "example": "Molti bambini non hanno le conoscenze di base.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'alunno",
-            "pos": "noun",
-            "back": "pupil",
-            "example": "Gli alunni studiano matematica.",
-            "tier": "A2"
-          },
-          {
-            "front": "la difficoltà",
-            "pos": "noun",
-            "back": "difficulty",
-            "example": "Ho difficoltà con i numeri.",
-            "tier": "A2"
-          },
-          {
-            "front": "il calcolo",
-            "pos": "noun",
-            "back": "calculation",
-            "example": "I calcoli semplici sono importanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "peggiorare",
-            "pos": "verb",
-            "back": "to get worse",
-            "example": "I risultati sono peggiorati quest'anno.",
-            "tier": "B1"
-          },
-          {
-            "front": "la materia",
-            "pos": "noun",
-            "back": "school subject",
-            "example": "La mia materia preferita è la storia.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'insegnante",
-            "pos": "noun",
-            "back": "teacher",
-            "example": "L'insegnante spiega la lezione.",
-            "tier": "A2"
-          },
-          {
-            "front": "chiedere",
-            "pos": "verb",
-            "back": "to ask (for)",
-            "example": "Gli insegnanti chiedono più risorse.",
-            "tier": "A2"
-          },
-          {
-            "front": "la risorsa",
-            "pos": "noun",
-            "back": "resource",
-            "example": "La scuola ha bisogno di più risorse.",
-            "tier": "B1"
-          },
-          {
-            "front": "imparare",
-            "pos": "verb",
-            "back": "to learn",
-            "example": "È importante imparare bene la matematica.",
-            "tier": "A2"
-          },
-          {
-            "front": "utile",
-            "pos": "adj",
-            "back": "useful",
-            "example": "La matematica è molto utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "il calo",
-            "pos": "noun",
-            "back": "drop, decline",
-            "example": "C'è stato un calo nei risultati.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli esperti pensano che la pandemia abbia avuto un ruolo importante in questo calo.",
-            "point": "congiuntivo passato dopo 'pensare che'",
-            "explanation": "Verbs of opinion like 'pensare che' are followed by the subjunctive; here 'abbia avuto' is the past subjunctive (congiuntivo passato).",
-            "why_tricky": "Beginners use the indicative 'ha avuto' instead of the subjunctive that 'pensare che' requires."
-          },
-          {
-            "sentence": "I risultati sono peggiorati rispetto agli anni prima della pandemia.",
-            "point": "passato prossimo con 'essere' e accordo del participio",
-            "explanation": "Verbs that describe a change of state, like 'peggiorare', form the passato prossimo with 'essere', and the participle agrees with the subject ('peggiorati', masculine plural).",
-            "why_tricky": "Learners default to 'avere' and forget to make the participle agree with the subject."
-          },
-          {
-            "sentence": "Imparare bene la matematica da piccoli è molto utile, perché serve nella vita di tutti i giorni e apre molte porte per il futuro.",
-            "point": "l'infinito come soggetto",
-            "explanation": "An infinitive like 'imparare' can be the subject of the verb ('è molto utile'), similar to the English '-ing' form.",
-            "why_tricky": "English uses a gerund ('learning'), while Italian keeps the plain infinitive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "vuol dire",
-            "meaning": "it means (from volere dire)",
-            "example": "Questo vuol dire che dobbiamo studiare di più."
-          },
-          {
-            "phrase": "la vita di tutti i giorni",
-            "meaning": "everyday life",
-            "example": "La matematica serve nella vita di tutti i giorni."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale problema mostra la nuova ricerca sulla scuola italiana?",
-            "type": "open"
-          },
-          {
-            "q": "Perché, secondo gli esperti, i risultati sono peggiorati?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è utile imparare bene la matematica da piccoli?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, come si può aiutare i bambini a imparare meglio la matematica? Scrivi un breve paragrafo con le tue idee."
       }
     },
     {
@@ -6465,157 +6606,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, la partita per il terzo posto è importante o inutile? Scrivi la tua opinione in poche frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-19-borsellino-34-anni",
-      "title": "Borsellino: 34 anni fa la strage. Palermo ricorda le vittime",
-      "source": "RaiNews",
-      "date": "2026-07-19",
-      "level": "A2-B1",
-      "topics": [
-        "storia",
-        "mafia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-19-borsellino-34-anni",
-        "revision": 1,
-        "meta": {
-          "title": "Borsellino: 34 anni fa la strage. Palermo ricorda le vittime",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/borsellino-34-anni-fa-la-strage-palermo-ricorda-le-vittime-447f9535-c37b-47fe-8509-effd4ed24c54.html",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-19",
-          "tags": [
-            "storia",
-            "mafia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "On 19 July, Italy remembers the Via D'Amelio massacre. Thirty-four years ago, in 1992, a car bomb exploded in Palermo. Judge Paolo Borsellino and five officers of his police escort died in the attack. Borsellino was a magistrate famous for his fight against the mafia. Today Palermo remembers the victims with ceremonies and moments of silence.\n\nThe institutions also remembered the judge. President Mattarella said that the mafia's violent plan has been defeated. Prime Minister Meloni said that Borsellino showed the path of legality. For many Italians, this memory is still important. The Via D'Amelio massacre continues to ask the country difficult questions about truth and justice.",
-        "resumen_es": "Il 19 luglio l'Italia ricorda la strage di via D'Amelio. Trentaquattro anni fa, nel 1992, un'autobomba è esplosa a Palermo. Nell'attentato sono morti il giudice Paolo Borsellino e cinque agenti della sua scorta. Borsellino era un magistrato famoso per la sua lotta contro la mafia. Oggi Palermo ricorda le vittime con cerimonie e momenti di silenzio.\n\nAnche le istituzioni hanno ricordato il giudice. Il presidente Mattarella ha detto che il progetto violento della mafia è stato sconfitto. La premier Meloni ha detto che Borsellino ha indicato la strada della legalità. Per molti italiani, questa memoria è ancora importante. La strage di via D'Amelio continua a fare domande difficili al Paese sulla verità e sulla giustizia.",
-        "vocab": [
-          {
-            "front": "ricordare",
-            "pos": "verb",
-            "back": "to remember, to commemorate",
-            "example": "Oggi l'Italia ricorda le vittime.",
-            "tier": "B1"
-          },
-          {
-            "front": "la strage",
-            "pos": "noun",
-            "back": "massacre",
-            "example": "La strage ha colpito tutto il Paese.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'autobomba",
-            "pos": "noun",
-            "back": "car bomb",
-            "example": "Un'autobomba è esplosa in città.",
-            "tier": "B2"
-          },
-          {
-            "front": "esplodere",
-            "pos": "verb",
-            "back": "to explode",
-            "example": "La bomba è esplosa la mattina.",
-            "tier": "B1"
-          },
-          {
-            "front": "il giudice",
-            "pos": "noun",
-            "back": "judge",
-            "example": "Il giudice lavorava a Palermo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scorta",
-            "pos": "noun",
-            "back": "escort, bodyguards",
-            "example": "Gli agenti della scorta proteggono il giudice.",
-            "tier": "B2"
-          },
-          {
-            "front": "la lotta",
-            "pos": "noun",
-            "back": "fight, struggle",
-            "example": "La lotta contro la mafia continua.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vittima",
-            "pos": "noun",
-            "back": "victim",
-            "example": "Le vittime della strage erano sei.",
-            "tier": "B1"
-          },
-          {
-            "front": "sconfiggere",
-            "pos": "verb",
-            "back": "to defeat (participle: sconfitto)",
-            "example": "La mafia non è ancora sconfitta del tutto.",
-            "tier": "B2"
-          },
-          {
-            "front": "la legalità",
-            "pos": "noun",
-            "back": "legality, rule of law",
-            "example": "Borsellino ha insegnato la legalità ai giovani.",
-            "tier": "B2"
-          },
-          {
-            "front": "la memoria",
-            "pos": "noun",
-            "back": "memory, remembrance",
-            "example": "La memoria è importante per il futuro.",
-            "tier": "B1"
-          },
-          {
-            "front": "la giustizia",
-            "pos": "noun",
-            "back": "justice",
-            "example": "Le famiglie chiedono giustizia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nell'attentato sono morti il giudice Paolo Borsellino e cinque agenti della sua scorta.",
-            "point": "Passato prossimo with essere; subject after the verb",
-            "explanation": "Morire takes essere, and the participle agrees with the subject (sono morti, masculine plural). In news style the subject often comes after the verb.",
-            "why_tricky": "English word order (Borsellino and five officers died) puts the subject first; Italian news often reverses this, which can confuse learners looking for who did what."
-          },
-          {
-            "sentence": "Il presidente Mattarella ha detto che il progetto violento della mafia è stato sconfitto.",
-            "point": "Passive: è stato sconfitto",
-            "explanation": "Essere + stato + participle forms the passive in the past: has been defeated. The participle sconfitto agrees with il progetto (masculine singular).",
-            "why_tricky": "Two forms of essere appear together (è stato), which looks strange at first; it is simply the passato prossimo of the passive."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "indicare la strada",
-            "meaning": "to show the way, to set an example",
-            "example": "Con il suo coraggio, Borsellino ha indicato la strada a tutti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Cosa è successo il 19 luglio 1992 a Palermo?",
-            "type": "open"
-          },
-          {
-            "q": "Chi era Paolo Borsellino?",
-            "type": "open"
-          },
-          {
-            "q": "Come ricorda Palermo le vittime oggi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Perché è importante ricordare gli eventi difficili della storia? Scrivi la tua opinione in poche frasi."
       }
     }
   ]
