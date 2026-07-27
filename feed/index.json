@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-07-27T08:10:20Z",
+  "generated_at": "2026-07-27T20:14:34Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-27-odissea-cinema-incassi",
+      "title": "L'Odissea al cinema nell'Olimpo degli incassi in Italia",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-odissea-cinema-incassi",
+        "revision": 1,
+        "meta": {
+          "title": "L'Odissea al cinema nell'Olimpo degli incassi in Italia",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/27/odissea-nellolimpo-degli-incassi-secondo-weekend-con-un-totale-per-di-267_51d26d1a-ee72-4814-a5cb-97629d1ca992.html",
+          "date_published": "2026-07-27",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The new film 'The Odyssey' keeps having great success in Italy. In its second weekend in cinemas, it earned more money than the week before. Many people go to the cinema to see it. The film tells an ancient and famous story, and it pleases a very varied audience. The tickets sold are very many and the film stays first among the takings.\n\nThis result is important for Italian cinema. In summer, usually, fewer people go to the cinema, because it is hot and many are on holiday. A film that fills the halls in this period is therefore good news for everyone. The owners of the cinemas hope that the success continues also in the coming weeks. Meanwhile, the audience talks about the film on social media and advises friends to go and see it. Word of mouth helps a lot to bring new people into the hall.",
+        "resumen_es": "Il nuovo film 'L'Odissea' continua ad avere un grande successo in Italia. Nel suo secondo fine settimana nelle sale, ha incassato più soldi della settimana prima. Molte persone vanno al cinema per vederlo. Il film racconta una storia antica e famosa, e piace a un pubblico molto vario. I biglietti venduti sono tantissimi e il film resta primo tra gli incassi.\n\nQuesto risultato è importante per il cinema italiano. In estate, di solito, meno persone vanno al cinema, perché fa caldo e molti sono in vacanza. Un film che riempie le sale in questo periodo è quindi una buona notizia per tutti. I proprietari dei cinema sperano che il successo continui anche nelle prossime settimane. Intanto, il pubblico parla del film sui social e consiglia agli amici di andare a vederlo. Il passaparola aiuta molto a portare nuove persone in sala.",
+        "vocab": [
+          {
+            "front": "il successo",
+            "pos": "noun",
+            "back": "success",
+            "example": "Il film ha molto successo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fine settimana",
+            "pos": "phrase",
+            "back": "the weekend",
+            "example": "Vado al cinema il fine settimana.",
+            "tier": "B1"
+          },
+          {
+            "front": "incassare",
+            "pos": "verb",
+            "back": "to take in, earn (money)",
+            "example": "Il film ha incassato molti soldi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sala",
+            "pos": "noun",
+            "back": "cinema hall, room",
+            "example": "La sala è piena di gente.",
+            "tier": "B1"
+          },
+          {
+            "front": "il biglietto",
+            "pos": "noun",
+            "back": "ticket",
+            "example": "Ho comprato due biglietti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico è molto contento.",
+            "tier": "B1"
+          },
+          {
+            "front": "vario",
+            "pos": "adj",
+            "back": "varied, diverse",
+            "example": "Il pubblico è molto vario.",
+            "tier": "B1"
+          },
+          {
+            "front": "il risultato",
+            "pos": "noun",
+            "back": "result",
+            "example": "È un ottimo risultato.",
+            "tier": "B1"
+          },
+          {
+            "front": "in vacanza",
+            "pos": "phrase",
+            "back": "on holiday",
+            "example": "In estate molti sono in vacanza.",
+            "tier": "B1"
+          },
+          {
+            "front": "riempire",
+            "pos": "verb",
+            "back": "to fill",
+            "example": "Il film riempie le sale.",
+            "tier": "B1"
+          },
+          {
+            "front": "sperare",
+            "pos": "verb",
+            "back": "to hope",
+            "example": "Speriamo che continui così.",
+            "tier": "B1"
+          },
+          {
+            "front": "consigliare",
+            "pos": "verb",
+            "back": "to recommend, advise",
+            "example": "Ti consiglio questo film.",
+            "tier": "B1"
+          },
+          {
+            "front": "il passaparola",
+            "pos": "noun",
+            "back": "word of mouth",
+            "example": "Il passaparola porta molti spettatori.",
+            "tier": "B2"
+          },
+          {
+            "front": "prossimo",
+            "pos": "adj",
+            "back": "next, coming",
+            "example": "La prossima settimana esce un altro film.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il nuovo film 'L'Odissea' continua ad avere un grande successo in Italia.",
+            "point": "Continuare a più infinito",
+            "explanation": "Per dire che un'azione va avanti nel tempo si usa 'continuare a' più l'infinito: 'continua ad avere'. Davanti a una vocale 'a' diventa 'ad'.",
+            "why_tricky": "Bisogna ricordare la preposizione 'a' e la 'd' eufonica prima di una vocale."
+          },
+          {
+            "sentence": "In estate, di solito, meno persone vanno al cinema, perché fa caldo e molti sono in vacanza.",
+            "point": "'Fa caldo': il tempo con il verbo 'fare'",
+            "explanation": "Per parlare del clima si usa 'fare': 'fa caldo', 'fa freddo'. Non si usa 'essere' come in altre lingue.",
+            "why_tricky": "In inglese si dice 'it is hot' con 'essere', ma in italiano serve 'fare'."
+          },
+          {
+            "sentence": "I proprietari dei cinema sperano che il successo continui anche nelle prossime settimane.",
+            "point": "Congiuntivo dopo 'sperare che'",
+            "explanation": "Dopo verbi di speranza e desiderio come 'sperare che' il verbo va al congiuntivo: 'continui'.",
+            "why_tricky": "La forma del congiuntivo 'continui' somiglia al presente, quindi è facile confondersi."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare successo",
+            "meaning": "to be a hit, to be very successful",
+            "example": "Il film sta facendo successo in tutta Italia."
+          },
+          {
+            "phrase": "il passaparola",
+            "meaning": "word of mouth",
+            "example": "Grazie al passaparola, molte persone vanno a vedere il film."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il film 'L'Odissea' è importante per il cinema italiano?",
+            "type": "open"
+          },
+          {
+            "q": "Perché in estate di solito meno persone vanno al cinema?",
+            "type": "open"
+          },
+          {
+            "q": "Come aiuta il passaparola, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci vedere i film al cinema o a casa? Spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-bambini-schermi-digitali",
+      "title": "Esperti, bambini a rischio con l'esposizione precoce al digitale",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-bambini-schermi-digitali",
+        "revision": 1,
+        "meta": {
+          "title": "Esperti, bambini a rischio con l'esposizione precoce al digitale",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/07/27/esperti-bambini-a-rischio-con-lesposizione-precoce-al-digitale-_cbb0de20-330a-498f-9520-8f443f3b1521.html",
+          "date_published": "2026-07-27",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "società",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Some experts give an important warning about children and screens. According to them, very young children should not use television, social media or video games. Before the age of two, it is better to avoid screens completely. Between three and five years, instead, one hour a day is already enough. Using them too early can create problems for growth.\n\nThe experts explain that children learn better by playing and talking with other people. Time in front of the screen, if it is too much, takes away space from play and sleep. For this reason, parents have a very important role. They can choose suitable programmes, set clear rules and spend more time with their children. It is not about forbidding everything, but about finding a good balance. In this way, technology becomes a useful tool and not a danger for the youngest ones.",
+        "resumen_es": "Alcuni esperti lanciano un avvertimento importante sui bambini e gli schermi. Secondo loro, i bambini molto piccoli non dovrebbero usare la televisione, i social o i videogiochi. Prima dei due anni, è meglio evitare del tutto gli schermi. Tra i tre e i cinque anni, invece, un'ora al giorno è già abbastanza. L'uso troppo precoce può creare problemi alla crescita.\n\nGli esperti spiegano che i bambini imparano meglio giocando e parlando con altre persone. Il tempo davanti allo schermo, se è troppo, toglie spazio al gioco e al sonno. Per questo, i genitori hanno un ruolo molto importante. Possono scegliere programmi adatti, mettere delle regole chiare e passare più tempo con i figli. Non si tratta di vietare tutto, ma di trovare un buon equilibrio. In questo modo, la tecnologia diventa uno strumento utile e non un pericolo per i più piccoli.",
+        "vocab": [
+          {
+            "front": "l'esperto",
+            "pos": "noun",
+            "back": "expert",
+            "example": "Gli esperti danno consigli utili.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'avvertimento",
+            "pos": "noun",
+            "back": "warning",
+            "example": "È un avvertimento importante.",
+            "tier": "B2"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Il bambino guarda troppo lo schermo.",
+            "tier": "B1"
+          },
+          {
+            "front": "evitare",
+            "pos": "verb",
+            "back": "to avoid",
+            "example": "È meglio evitare gli schermi.",
+            "tier": "B1"
+          },
+          {
+            "front": "precoce",
+            "pos": "adj",
+            "back": "early, premature",
+            "example": "L'uso precoce può fare male.",
+            "tier": "B2"
+          },
+          {
+            "front": "la crescita",
+            "pos": "noun",
+            "back": "growth",
+            "example": "Il gioco aiuta la crescita.",
+            "tier": "B1"
+          },
+          {
+            "front": "imparare",
+            "pos": "verb",
+            "back": "to learn",
+            "example": "I bambini imparano giocando.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sonno",
+            "pos": "noun",
+            "back": "sleep",
+            "example": "Lo schermo toglie tempo al sonno.",
+            "tier": "B1"
+          },
+          {
+            "front": "i genitori",
+            "pos": "noun",
+            "back": "parents",
+            "example": "I genitori hanno un ruolo importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "È utile mettere regole chiare.",
+            "tier": "B1"
+          },
+          {
+            "front": "adatto",
+            "pos": "adj",
+            "back": "suitable, appropriate",
+            "example": "Scegli programmi adatti ai bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to forbid",
+            "example": "Non serve vietare tutto.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "Serve un buon equilibrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "La tecnologia è uno strumento utile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo loro, i bambini molto piccoli non dovrebbero usare la televisione, i social o i videogiochi.",
+            "point": "Condizionale per dare un consiglio",
+            "explanation": "'Dovrebbero' è il condizionale di 'dovere' e serve per dare un consiglio in modo gentile: 'should'.",
+            "why_tricky": "Il condizionale 'dovrebbero' è più morbido del presente 'devono', che suona come un obbligo."
+          },
+          {
+            "sentence": "Gli esperti spiegano che i bambini imparano meglio giocando e parlando con altre persone.",
+            "point": "Il gerundio per dire 'come'",
+            "explanation": "'Giocando' e 'parlando' sono gerundi e indicano il modo: i bambini imparano attraverso il gioco e la parola.",
+            "why_tricky": "Il gerundio italiano finisce in -ando o -endo e non va confuso con l'infinito."
+          },
+          {
+            "sentence": "Non si tratta di vietare tutto, ma di trovare un buon equilibrio.",
+            "point": "'Si tratta di' più infinito",
+            "explanation": "'Si tratta di' significa 'the point is to' e va seguito dall'infinito. La struttura 'non ... ma' oppone due idee.",
+            "why_tricky": "'Si tratta di' è impersonale e non cambia con la persona."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "del tutto",
+            "meaning": "completely, entirely",
+            "example": "È meglio evitare del tutto gli schermi ai più piccoli."
+          },
+          {
+            "phrase": "trovare un equilibrio",
+            "meaning": "to find a balance",
+            "example": "È importante trovare un equilibrio tra scuola e gioco."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa consigliano gli esperti per i bambini sotto i due anni?",
+            "type": "open"
+          },
+          {
+            "q": "Perché troppo tempo davanti allo schermo può essere un problema?",
+            "type": "open"
+          },
+          {
+            "q": "Quale ruolo hanno i genitori, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, a che età un bambino può iniziare a usare uno smartphone? Spiega la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-27-iceberg-groenlandia",
+      "title": "Un iceberg si ribalta in Groenlandia",
+      "source": "ANSA",
+      "date": "2026-07-27",
+      "level": "A2-B1",
+      "topics": [
+        "natura",
+        "clima"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-27-iceberg-groenlandia",
+        "revision": 1,
+        "meta": {
+          "title": "Un iceberg si ribalta in Groenlandia",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/short_video/2026/07/27/un-iceberg-si-ribalta-in-groenlandia_2b99ef91-0fbe-467a-b9d6-8b6df83442f5.html",
+          "date_published": "2026-07-27",
+          "date_processed": "2026-07-27",
+          "tags": [
+            "natura",
+            "clima"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Greenland, a big iceberg turned over in the water. When a block of ice this big turns on itself, it creates very high waves. The waves reached the coast with great force. Luckily, scenes like this often happen far from the cities. Many people saw the video and were surprised by the power of nature.\n\nIcebergs form when pieces of ice break off from the glaciers. Then they float in the sea for a long time. With the heat, the ice melts little by little and the iceberg loses its balance. Then it can turn over suddenly. Scientists study these phenomena to understand the climate better. In Greenland the ice is very important, and the changes in the area concern the whole planet. Watching the icebergs helps us understand how the Earth is changing.",
+        "resumen_es": "In Groenlandia, un grande iceberg si è ribaltato nell'acqua. Quando un blocco di ghiaccio così grande gira su sé stesso, crea onde molto alte. Le onde sono arrivate fino alla costa con grande forza. Per fortuna, scene come questa avvengono spesso lontano dalle città. Molte persone hanno visto il video e sono rimaste sorprese dalla potenza della natura.\n\nGli iceberg si formano quando pezzi di ghiaccio si staccano dai ghiacciai. Poi galleggiano nel mare per molto tempo. Con il caldo, il ghiaccio si scioglie a poco a poco e l'iceberg perde l'equilibrio. Allora può ribaltarsi all'improvviso. Gli scienziati studiano questi fenomeni per capire meglio il clima. In Groenlandia il ghiaccio è molto importante, e i cambiamenti nella zona interessano tutto il pianeta. Osservare gli iceberg ci aiuta a capire come sta cambiando la Terra.",
+        "vocab": [
+          {
+            "front": "l'iceberg",
+            "pos": "noun",
+            "back": "iceberg",
+            "example": "L'iceberg è enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "ribaltarsi",
+            "pos": "verb",
+            "back": "to turn over, flip",
+            "example": "L'iceberg si è ribaltato.",
+            "tier": "B2"
+          },
+          {
+            "front": "il ghiaccio",
+            "pos": "noun",
+            "back": "ice",
+            "example": "Il ghiaccio è molto freddo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'onda",
+            "pos": "noun",
+            "back": "wave",
+            "example": "Le onde sono molto alte.",
+            "tier": "B1"
+          },
+          {
+            "front": "la costa",
+            "pos": "noun",
+            "back": "coast",
+            "example": "Le onde arrivano alla costa.",
+            "tier": "B1"
+          },
+          {
+            "front": "la potenza",
+            "pos": "noun",
+            "back": "power, force",
+            "example": "La potenza della natura sorprende tutti.",
+            "tier": "B2"
+          },
+          {
+            "front": "staccarsi",
+            "pos": "verb",
+            "back": "to detach, break off",
+            "example": "Il ghiaccio si stacca dal ghiacciaio.",
+            "tier": "B2"
+          },
+          {
+            "front": "il ghiacciaio",
+            "pos": "noun",
+            "back": "glacier",
+            "example": "Il ghiacciaio è molto grande.",
+            "tier": "B2"
+          },
+          {
+            "front": "galleggiare",
+            "pos": "verb",
+            "back": "to float",
+            "example": "L'iceberg galleggia nel mare.",
+            "tier": "B2"
+          },
+          {
+            "front": "sciogliersi",
+            "pos": "verb",
+            "back": "to melt",
+            "example": "Con il caldo il ghiaccio si scioglie.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "L'iceberg perde l'equilibrio.",
+            "tier": "B1"
+          },
+          {
+            "front": "all'improvviso",
+            "pos": "phrase",
+            "back": "suddenly",
+            "example": "L'iceberg si è ribaltato all'improvviso.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fenomeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "Gli scienziati studiano questi fenomeni.",
+            "tier": "B2"
+          },
+          {
+            "front": "il clima",
+            "pos": "noun",
+            "back": "climate",
+            "example": "Il clima sta cambiando.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In Groenlandia, un grande iceberg si è ribaltato nell'acqua.",
+            "point": "Passato prossimo dei verbi riflessivi",
+            "explanation": "I verbi riflessivi formano il passato prossimo con 'essere': 'si è ribaltato'. Il participio concorda con il soggetto.",
+            "why_tricky": "Molti usano 'avere' per errore, ma i verbi riflessivi vogliono sempre 'essere'."
+          },
+          {
+            "sentence": "Gli iceberg si formano quando pezzi di ghiaccio si staccano dai ghiacciai.",
+            "point": "Verbi pronominali al presente",
+            "explanation": "'Si formano' e 'si staccano' descrivono azioni che avvengono da sole, senza un agente preciso.",
+            "why_tricky": "La particella 'si' cambia il significato del verbo e non va tradotta come 'himself' o 'herself'."
+          },
+          {
+            "sentence": "Con il caldo, il ghiaccio si scioglie a poco a poco e l'iceberg perde l'equilibrio.",
+            "point": "'Sciogliersi' e l'espressione 'a poco a poco'",
+            "explanation": "'Si scioglie' viene da 'sciogliersi' (to melt). 'A poco a poco' significa 'gradualmente'.",
+            "why_tricky": "Il verbo 'sciogliere' ha una radice irregolare e la forma con 'si' indica un cambiamento naturale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a poco a poco",
+            "meaning": "little by little, gradually",
+            "example": "Il ghiaccio si scioglie a poco a poco."
+          },
+          {
+            "phrase": "all'improvviso",
+            "meaning": "all of a sudden",
+            "example": "Il grande iceberg si è ribaltato all'improvviso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa succede quando un grande iceberg si ribalta?",
+            "type": "open"
+          },
+          {
+            "q": "Come si formano gli iceberg, secondo il testo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché gli scienziati studiano questi fenomeni?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa possiamo fare, ogni giorno, per proteggere il clima? Scrivi le tue idee."
+      }
+    },
     {
       "pack_id": "feed-2026-07-27-monopattini-assicurazione",
       "title": "Scatta l'Rc auto per i monopattini, allarme rincaro sulle polizze",
@@ -6148,464 +6676,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, lo sport può unire le persone di paesi diversi? Scrivi la tua opinione con un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-20-blitz-baby-gang",
-      "title": "Maxi blitz contro le baby gang: 539 arresti in tutta Italia, sequestrate armi e droga",
-      "source": "RaiNews",
-      "date": "2026-07-20",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "società"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-20-blitz-baby-gang",
-        "revision": 1,
-        "meta": {
-          "title": "Maxi blitz contro le baby gang: 539 arresti in tutta Italia, sequestrate armi e droga",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/maxi-blitz-contro-la-criminalita-giovanile-539-arresti-in-tutta-italia-sequestrate-armi-e-droga-d22c53ac-b7ad-4e55-87f0-edd20128d4f9.html",
-          "date_published": "2026-07-20",
-          "date_processed": "2026-07-20",
-          "tags": [
-            "cronaca",
-            "società"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Italian police have carried out a major operation against the baby gangs, criminal groups formed by young people. The raid took place in 44 provinces, across the whole of Italy. Officers arrested 539 people, including 47 minors. During the checks, the police seized more than 700 kilos of drugs, dozens of weapons and about 300 thousand euros in cash.\n\nInvestigators also found a thousand social media profiles that glorified violence, weapons and drugs. For many young people, this online content is a dangerous model to imitate. The operation shows that the baby gang phenomenon is widespread across the whole country, not only in the big cities. The authorities checked almost 190 thousand people in nightlife and drug-dealing areas.",
-        "resumen_es": "La polizia italiana ha fatto una grande operazione contro le baby gang, i gruppi criminali formati da giovani. Il blitz è avvenuto in 44 province, in tutta Italia. Gli agenti hanno arrestato 539 persone, tra cui 47 minorenni. Durante i controlli, la polizia ha sequestrato oltre 700 chili di droga, decine di armi e circa 300 mila euro in contanti.\n\nGli investigatori hanno trovato anche mille profili social che celebravano la violenza, le armi e la droga. Per molti giovani, questi contenuti online sono un modello pericoloso da imitare. L'operazione mostra che il fenomeno delle baby gang è diffuso in tutto il Paese, non solo nelle grandi città. Le autorità hanno controllato quasi 190 mila persone nelle zone della movida e dello spaccio.",
-        "vocab": [
-          {
-            "front": "l'operazione",
-            "pos": "noun",
-            "back": "operation (police)",
-            "example": "L'operazione della polizia è durata tutta la notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "avvenire",
-            "pos": "verb",
-            "back": "to take place, to happen",
-            "example": "Il blitz è avvenuto in 44 province.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'agente",
-            "pos": "noun",
-            "back": "police officer",
-            "example": "Gli agenti hanno arrestato molte persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrestare",
-            "pos": "verb",
-            "back": "to arrest",
-            "example": "La polizia ha arrestato 539 persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "il minorenne",
-            "pos": "noun",
-            "back": "minor, under-18",
-            "example": "Tra gli arrestati ci sono anche 47 minorenni.",
-            "tier": "B1"
-          },
-          {
-            "front": "sequestrare",
-            "pos": "verb",
-            "back": "to seize, to confiscate",
-            "example": "Gli agenti hanno sequestrato droga e armi.",
-            "tier": "B1"
-          },
-          {
-            "front": "in contanti",
-            "pos": "phrase",
-            "back": "in cash",
-            "example": "Hanno trovato 300 mila euro in contanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'investigatore",
-            "pos": "noun",
-            "back": "investigator, detective",
-            "example": "Gli investigatori hanno controllato i profili social.",
-            "tier": "B1"
-          },
-          {
-            "front": "il contenuto",
-            "pos": "noun",
-            "back": "content (media)",
-            "example": "Questi contenuti online sono pericolosi per i ragazzi.",
-            "tier": "B1"
-          },
-          {
-            "front": "diffuso",
-            "pos": "adj",
-            "back": "widespread",
-            "example": "Il fenomeno è diffuso in tutto il Paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "la movida",
-            "pos": "noun",
-            "back": "nightlife scene",
-            "example": "Le zone della movida sono piene di gente il sabato sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spaccio",
-            "pos": "noun",
-            "back": "drug dealing",
-            "example": "La polizia controlla le zone dello spaccio.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli investigatori hanno trovato anche mille profili social che celebravano la violenza, le armi e la droga.",
-            "point": "Passato prossimo vs imperfetto",
-            "explanation": "Hanno trovato is the completed event; celebravano describes an ongoing state of those profiles in the past, so it takes the imperfetto.",
-            "why_tricky": "Both verbs are past, but they answer different questions: what happened (passato prossimo) vs what was the situation like (imperfetto)."
-          },
-          {
-            "sentence": "Le autorità hanno controllato quasi 190 mila persone nelle zone della movida e dello spaccio.",
-            "point": "Preposizioni articolate",
-            "explanation": "Nelle (in + le), della (di + la) and dello (di + lo) combine preposition and article, matching the noun's gender and form.",
-            "why_tricky": "Choosing dello before s + consonant (spaccio) instead of del is a classic beginner mistake."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tra cui",
-            "meaning": "including, among which",
-            "example": "Hanno arrestato molte persone, tra cui alcuni minorenni."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è avvenuto il blitz e quante persone sono state arrestate?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha sequestrato la polizia durante i controlli?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i profili social trovati dagli investigatori sono pericolosi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, perché alcuni giovani entrano nelle baby gang? Che cosa può fare la società per aiutarli? Scrivi la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-20-odissea-nolan-record",
-      "title": "Incassi record al debutto per l'Odissea di Nolan",
-      "source": "ANSA",
-      "date": "2026-07-19",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-20-odissea-nolan-record",
-        "revision": 1,
-        "meta": {
-          "title": "Incassi record al debutto per l'Odissea di Nolan",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/2026/07/19/incassi-record-al-debutto-per-lodissea-di-nolan_70dbde2f-91da-4b7d-a51e-da0b56d49fe0.html",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-20",
-          "tags": [
-            "cinema",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Christopher Nolan's new film, The Odyssey, has had a record-breaking debut at the cinema. On its opening, the film took in 260 million dollars worldwide, a figure that already covers the production budget. In Italy, filmgoers spent 7.4 million euros to see it. The film tells the famous Greek poem by Homer, with a cast of big Hollywood stars.\n\nThe Odyssey is one of the oldest stories in literature: the journey of Ulysses, who after the Trojan War tries to return home, to the island of Ithaca. Nolan is famous for films like Oppenheimer and Inception. This success shows something important: audiences still want big films to watch at the cinema, not only on streaming platforms.",
-        "resumen_es": "Il nuovo film di Christopher Nolan, L'Odissea, ha avuto un debutto da record al cinema. Al debutto, il film ha incassato 260 milioni di dollari nel mondo, una cifra che copre già il budget della produzione. In Italia, gli spettatori hanno speso 7,4 milioni di euro per vederlo. Il film racconta il famoso poema greco di Omero, con un cast di grandi stelle di Hollywood.\n\nL'Odissea è una delle storie più antiche della letteratura: il viaggio di Ulisse, che dopo la guerra di Troia cerca di tornare a casa, sull'isola di Itaca. Nolan è famoso per film come Oppenheimer e Inception. Questo successo mostra una cosa importante: il pubblico ha ancora voglia di grandi film da vedere al cinema, non solo sulle piattaforme streaming.",
-        "vocab": [
-          {
-            "front": "incassare",
-            "pos": "verb",
-            "back": "to take in, to earn (box office)",
-            "example": "Il film ha incassato milioni di dollari.",
-            "tier": "B1"
-          },
-          {
-            "front": "il debutto",
-            "pos": "noun",
-            "back": "debut, opening",
-            "example": "Il debutto del film è stato un grande successo.",
-            "tier": "B1"
-          },
-          {
-            "front": "da record",
-            "pos": "phrase",
-            "back": "record-breaking",
-            "example": "È stata un'estate da record per il cinema.",
-            "tier": "B1"
-          },
-          {
-            "front": "la cifra",
-            "pos": "noun",
-            "back": "figure, amount",
-            "example": "È una cifra molto alta per un solo weekend.",
-            "tier": "B1"
-          },
-          {
-            "front": "coprire",
-            "pos": "verb",
-            "back": "to cover (costs)",
-            "example": "Gli incassi coprono già il budget del film.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spettatore",
-            "pos": "noun",
-            "back": "viewer, filmgoer",
-            "example": "Gli spettatori italiani hanno amato il film.",
-            "tier": "B1"
-          },
-          {
-            "front": "raccontare",
-            "pos": "verb",
-            "back": "to tell (a story)",
-            "example": "Il film racconta una storia molto antica.",
-            "tier": "B1"
-          },
-          {
-            "front": "il poema",
-            "pos": "noun",
-            "back": "(epic) poem",
-            "example": "L'Odissea è un poema greco di Omero.",
-            "tier": "B1"
-          },
-          {
-            "front": "il viaggio",
-            "pos": "noun",
-            "back": "journey, trip",
-            "example": "Il viaggio di Ulisse dura molti anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico ha applaudito alla fine del film.",
-            "tier": "B1"
-          },
-          {
-            "front": "avere voglia di",
-            "pos": "phrase",
-            "back": "to feel like, to want",
-            "example": "Ho voglia di andare al cinema stasera.",
-            "tier": "B1"
-          },
-          {
-            "front": "la piattaforma",
-            "pos": "noun",
-            "back": "platform (streaming)",
-            "example": "Guardo molte serie sulle piattaforme streaming.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Italia, gli spettatori hanno speso 7,4 milioni di euro per vederlo.",
-            "point": "Irregular participle spendere and attached pronoun",
-            "explanation": "Spendere has the irregular participle speso, and the object pronoun lo attaches to the infinitive: vederlo (to see it).",
-            "why_tricky": "Learners often say spenduto, and in English the pronoun comes before the verb (to see it), not attached to its end."
-          },
-          {
-            "sentence": "il pubblico ha ancora voglia di grandi film da vedere al cinema, non solo sulle piattaforme streaming",
-            "point": "Avere voglia di and da + infinitive",
-            "explanation": "Avere voglia di expresses desire, and film da vedere means films to watch, where da + infinitive gives the noun a purpose.",
-            "why_tricky": "The two prepositions look interchangeable but are not: di follows voglia, while da introduces what the thing is for."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da record",
-            "meaning": "record-breaking",
-            "example": "Il film ha avuto incassi da record."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quanto ha incassato il film al debutto nel mondo e in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Quale storia racconta il film di Nolan?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dimostra, secondo il testo, il successo di questo film?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci vedere i film al cinema o a casa in streaming? Spiega la tua scelta con due o tre motivi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-19-inghilterra-terzo-posto",
-      "title": "Mbappé nella storia dei Mondiali, ma il terzo posto va all'Inghilterra",
-      "source": "RaiNews",
-      "date": "2026-07-19",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "mondiale"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-19-inghilterra-terzo-posto",
-        "revision": 1,
-        "meta": {
-          "title": "Mbappé nella storia dei Mondiali, ma il terzo posto va all'Inghilterra",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/mbappe-kylian-nella-storia-dei-mondiali-ma-il-terzo-posto-va-all-inghilterra-francia-quarta-nella-finalina-a-miami-88b660d5-48cd-411b-814a-ce97a81d5960.html",
-          "date_published": "2026-07-19",
-          "date_processed": "2026-07-19",
-          "tags": [
-            "sport",
-            "mondiale"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "England won the third-place match of the 2026 World Cup. In Miami, the English beat France 6-4, in a game full of goals and emotions. France lost the first half 4-0, but in the second half they almost completed an incredible comeback. In the end, though, third place went to England.\n\nThere is also a historic piece of news: Kylian Mbappe has entered World Cup history. With this match, the French champion reached 22 goals in the competition. No other player has scored so much at the World Cup. On Sunday the final between Argentina and Spain will be played. For many fans, this is the most anticipated match in years.",
-        "resumen_es": "L'Inghilterra ha vinto la partita per il terzo posto del Mondiale 2026. A Miami, gli inglesi hanno battuto la Francia 6 a 4, in una partita piena di gol ed emozioni. La Francia ha perso il primo tempo 4 a 0, ma nella ripresa ha quasi completato una rimonta incredibile. Alla fine, però, il terzo posto è andato all'Inghilterra.\n\nC'è anche una notizia storica: Kylian Mbappé è entrato nella storia dei Mondiali. Con questa partita, il campione francese ha raggiunto 22 gol nella competizione. Nessun altro giocatore ha segnato così tanto nei Mondiali. Domenica si gioca la finale tra Argentina e Spagna. Per molti tifosi, questa è la partita più attesa degli ultimi anni.",
-        "vocab": [
-          {
-            "front": "vincere",
-            "pos": "verb",
-            "back": "to win",
-            "example": "L'Inghilterra ha vinto la partita.",
-            "tier": "B1"
-          },
-          {
-            "front": "battere",
-            "pos": "verb",
-            "back": "to beat, to defeat",
-            "example": "Gli inglesi hanno battuto la Francia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il terzo posto",
-            "pos": "phrase",
-            "back": "third place",
-            "example": "La squadra ha conquistato il terzo posto.",
-            "tier": "B1"
-          },
-          {
-            "front": "pieno di",
-            "pos": "phrase",
-            "back": "full of",
-            "example": "Una partita piena di emozioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ripresa",
-            "pos": "noun",
-            "back": "second half (of a match)",
-            "example": "Nella ripresa la squadra ha giocato meglio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la rimonta",
-            "pos": "noun",
-            "back": "comeback",
-            "example": "La rimonta è quasi riuscita.",
-            "tier": "B2"
-          },
-          {
-            "front": "segnare",
-            "pos": "verb",
-            "back": "to score",
-            "example": "Mbappé ha segnato due gol.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la finale",
-            "pos": "noun",
-            "back": "final (match)",
-            "example": "Domenica si gioca la finale.",
-            "tier": "B1"
-          },
-          {
-            "front": "atteso",
-            "pos": "adj",
-            "back": "awaited, anticipated",
-            "example": "È la partita più attesa dell'anno.",
-            "tier": "B2"
-          },
-          {
-            "front": "entrare nella storia",
-            "pos": "phrase",
-            "back": "to make history",
-            "example": "Il giocatore è entrato nella storia del calcio.",
-            "tier": "B2"
-          },
-          {
-            "front": "raggiungere",
-            "pos": "verb",
-            "back": "to reach",
-            "example": "Ha raggiunto 22 gol nei Mondiali.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La Francia ha perso il primo tempo 4 a 0, ma nella ripresa ha quasi completato una rimonta incredibile.",
-            "point": "Passato prossimo with avere; position of quasi",
-            "explanation": "Ha perso and ha completato use avere + past participle. The adverb quasi (almost) goes between the auxiliary and the participle: ha quasi completato.",
-            "why_tricky": "In English, almost comes before the whole verb (almost completed); in Italian it usually sits inside the compound verb, after the auxiliary."
-          },
-          {
-            "sentence": "Domenica si gioca la finale tra Argentina e Spagna.",
-            "point": "Si impersonale / si passivante",
-            "explanation": "Si gioca literally means the final plays itself, but it works like a passive: the final is played. This si construction is extremely common for events and schedules.",
-            "why_tricky": "Learners often look for a subject doing the action; with si + verb, the thing (la finale) is the grammatical subject and the doer is left unsaid."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a un passo da",
-            "meaning": "one step away from, very close to",
-            "example": "La Francia era a un passo da una rimonta storica."
-          },
-          {
-            "phrase": "dare il massimo",
-            "meaning": "to give one's best",
-            "example": "Tutti i giocatori hanno dato il massimo in campo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi ha vinto la partita per il terzo posto e con quale risultato?",
-            "type": "open"
-          },
-          {
-            "q": "Perché Kylian Mbappé è entrato nella storia dei Mondiali?",
-            "type": "open"
-          },
-          {
-            "q": "Quale partita si gioca domenica?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, la partita per il terzo posto è importante o inutile? Scrivi la tua opinione in poche frasi."
       }
     }
   ]
