@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-28T08:13:01Z",
+ "generated_at": "2026-07-28T20:15:25Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-28-etna-intrusioni-magmatiche",
+   "title": "Etna, svelato come si propagano le intrusioni magmatiche",
+   "source": "ANSA",
+   "date": "2026-07-28",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-etna-intrusioni-magmatiche",
+    "revision": 1,
+    "meta": {
+     "title": "Etna, svelato come si propagano le intrusioni magmatiche",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/28/etna-svelato-come-si-propagano-le-intrusioni-magmatiche_0cca04fb-cacc-4b6b-9537-7f1fabaeaaa2.html",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "scienza",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Etna is the biggest and most active volcano in Europe. It is in Sicily, in the south of Italy. A new Italian study explains how the magma moves inside the volcano. The researchers analysed an old eruption from 2008 to understand this phenomenon better. Thanks to their instruments, they followed the path of the magma under the ground.\n\nThis discovery is very important for science. If scientists understand how the magma moves, they can predict eruptions better. In this way it is possible to protect the people who live near the volcano. Every year Etna attracts many tourists and researchers from all over the world. The volcano is beautiful but also dangerous, and for this reason the experts always watch it with great attention.",
+    "resumen_es": "L'Etna è il vulcano più grande e attivo d'Europa. Si trova in Sicilia, nel sud dell'Italia. Un nuovo studio italiano spiega come si muove il magma dentro il vulcano. I ricercatori hanno analizzato una vecchia eruzione del 2008 per capire meglio questo fenomeno. Grazie ai loro strumenti, hanno seguito il percorso del magma sotto la terra.\n\nQuesta scoperta è molto importante per la scienza. Se gli scienziati capiscono come si muove il magma, possono prevedere meglio le eruzioni. Così è possibile proteggere le persone che vivono vicino al vulcano. Ogni anno l'Etna attira molti turisti e studiosi da tutto il mondo. Il vulcano è bello ma anche pericoloso, per questo gli esperti lo osservano sempre con grande attenzione.",
+    "vocab": [
+     {
+      "front": "il vulcano",
+      "pos": "noun",
+      "back": "the volcano",
+      "example": "L'Etna è un vulcano famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "attivo",
+      "pos": "adj",
+      "back": "active",
+      "example": "È un vulcano ancora attivo.",
+      "tier": "A2"
+     },
+     {
+      "front": "il magma",
+      "pos": "noun",
+      "back": "the magma",
+      "example": "Il magma è roccia liquida e calda.",
+      "tier": "B1"
+     },
+     {
+      "front": "muoversi",
+      "pos": "verb",
+      "back": "to move",
+      "example": "Il magma si muove lentamente.",
+      "tier": "B1"
+     },
+     {
+      "front": "lo studio",
+      "pos": "noun",
+      "back": "the study",
+      "example": "Ho letto un nuovo studio scientifico.",
+      "tier": "A2"
+     },
+     {
+      "front": "il ricercatore",
+      "pos": "noun",
+      "back": "the researcher",
+      "example": "Il ricercatore lavora in laboratorio.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'eruzione",
+      "pos": "noun",
+      "back": "the eruption",
+      "example": "L'eruzione ha spaventato tutti.",
+      "tier": "B1"
+     },
+     {
+      "front": "la scoperta",
+      "pos": "noun",
+      "back": "the discovery",
+      "example": "È stata una scoperta importante.",
+      "tier": "B1"
+     },
+     {
+      "front": "prevedere",
+      "pos": "verb",
+      "back": "to predict, to foresee",
+      "example": "Non è facile prevedere il futuro.",
+      "tier": "B1"
+     },
+     {
+      "front": "proteggere",
+      "pos": "verb",
+      "back": "to protect",
+      "example": "Dobbiamo proteggere l'ambiente.",
+      "tier": "A2"
+     },
+     {
+      "front": "pericoloso",
+      "pos": "adj",
+      "back": "dangerous",
+      "example": "Questa strada è pericolosa.",
+      "tier": "A2"
+     },
+     {
+      "front": "attirare",
+      "pos": "verb",
+      "back": "to attract",
+      "example": "La città attira molti turisti.",
+      "tier": "B1"
+     },
+     {
+      "front": "lo strumento",
+      "pos": "noun",
+      "back": "the instrument, tool",
+      "example": "Usa strumenti moderni.",
+      "tier": "B1"
+     },
+     {
+      "front": "con attenzione",
+      "pos": "phrase",
+      "back": "carefully, with attention",
+      "example": "Ascolta con attenzione.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "L'Etna è il vulcano più grande e attivo d'Europa.",
+      "point": "Superlativo relativo",
+      "explanation": "'Il più grande' è il superlativo relativo: indica il massimo grado in un gruppo (in Europa).",
+      "why_tricky": "In italiano l'articolo 'il' resta prima di 'più'; in inglese si usa '-est' o 'the most'."
+     },
+     {
+      "sentence": "Se gli scienziati capiscono come si muove il magma, possono prevedere meglio le eruzioni.",
+      "point": "Periodo ipotetico della realtà",
+      "explanation": "'Se' con il presente ('capiscono') e il presente ('possono') esprime una condizione reale e possibile.",
+      "why_tricky": "Il 'si' di 'si muove' è impersonale e non va confuso con il pronome riflessivo."
+     },
+     {
+      "sentence": "Il vulcano è bello ma anche pericoloso, per questo gli esperti lo osservano sempre con grande attenzione.",
+      "point": "Pronome diretto 'lo'",
+      "explanation": "'Lo' sostituisce 'il vulcano' come oggetto diretto, così non si ripete il nome.",
+      "why_tricky": "Il pronome va prima del verbo coniugato: 'lo osservano', non 'osservano lo'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "da tutto il mondo",
+      "meaning": "from all over the world",
+      "example": "Vengono turisti da tutto il mondo."
+     },
+     {
+      "phrase": "con grande attenzione",
+      "meaning": "very carefully, with great care",
+      "example": "Guarda ogni dettaglio con grande attenzione."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Dove si trova l'Etna e perché è famoso?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa hanno studiato i ricercatori italiani?",
+      "type": "open"
+     },
+     {
+      "q": "Perché è importante capire come si muove il magma?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piacerebbe visitare un vulcano come l'Etna? Perché sì o perché no? Scrivi la tua opinione."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-28-patti-smith-circo-massimo",
+   "title": "Patti Smith al Circo Massimo, l'emozione e l'impegno",
+   "source": "ANSA",
+   "date": "2026-07-28",
+   "level": "A2-B1",
+   "topics": [
+    "musica",
+    "cultura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-patti-smith-circo-massimo",
+    "revision": 1,
+    "meta": {
+     "title": "Patti Smith al Circo Massimo, l'emozione e l'impegno",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/28/patti-smith-al-circo-massimo-lemozione-e-limpegno_66a12dca-102e-4b41-94e2-dcf8c145e957.html",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "musica",
+      "cultura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The American singer Patti Smith played in Rome, at the Circus Maximus. It was a great concert, full of emotion. Patti Smith is a famous rock artist and she will soon turn eighty. During the evening she sang her most famous and historic songs. The audience was happy and sang along with her.\n\nPatti Smith is not only a musician. She is also a committed woman, who often talks about peace and rights. For this reason her concert was also an important message. Many people of different ages came to listen to her. At the end, the audience applauded her for a long time with great enthusiasm. Concerts like this show that good music has no age and brings the generations together.",
+    "resumen_es": "La cantante americana Patti Smith ha suonato a Roma, al Circo Massimo. È stato un grande concerto, pieno di emozione. Patti Smith è una famosa artista rock e presto compie ottant'anni. Durante la serata ha cantato le sue canzoni più famose e storiche. Il pubblico era felice e ha cantato insieme a lei.\n\nPatti Smith non è solo una musicista. È anche una donna impegnata, che parla spesso di pace e di diritti. Per questo il suo concerto è stato anche un messaggio importante. Molte persone di età diverse sono venute ad ascoltarla. Alla fine, il pubblico l'ha applaudita a lungo con grande entusiasmo. Concerti come questo dimostrano che la buona musica non ha età e unisce le generazioni.",
+    "vocab": [
+     {
+      "front": "la cantante",
+      "pos": "noun",
+      "back": "the singer (female)",
+      "example": "La cantante ha una voce bellissima.",
+      "tier": "A2"
+     },
+     {
+      "front": "suonare",
+      "pos": "verb",
+      "back": "to play (music), to sound",
+      "example": "Suona la chitarra molto bene.",
+      "tier": "A2"
+     },
+     {
+      "front": "il concerto",
+      "pos": "noun",
+      "back": "the concert",
+      "example": "Andiamo al concerto stasera?",
+      "tier": "A2"
+     },
+     {
+      "front": "l'emozione",
+      "pos": "noun",
+      "back": "emotion, excitement",
+      "example": "Ho provato una grande emozione.",
+      "tier": "B1"
+     },
+     {
+      "front": "compiere gli anni",
+      "pos": "verb",
+      "back": "to turn (an age), to have a birthday",
+      "example": "Domani compio trent'anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "the audience, public",
+      "example": "Il pubblico ha applaudito.",
+      "tier": "B1"
+     },
+     {
+      "front": "impegnato",
+      "pos": "adj",
+      "back": "committed, engaged",
+      "example": "È un artista molto impegnato.",
+      "tier": "B1"
+     },
+     {
+      "front": "i diritti",
+      "pos": "noun",
+      "back": "the rights",
+      "example": "Difende i diritti dei lavoratori.",
+      "tier": "B1"
+     },
+     {
+      "front": "la pace",
+      "pos": "noun",
+      "back": "peace",
+      "example": "Tutti vogliono la pace.",
+      "tier": "A2"
+     },
+     {
+      "front": "applaudire",
+      "pos": "verb",
+      "back": "to applaud, to clap",
+      "example": "Il pubblico ha applaudito forte.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'entusiasmo",
+      "pos": "noun",
+      "back": "enthusiasm",
+      "example": "Ha parlato con entusiasmo.",
+      "tier": "B1"
+     },
+     {
+      "front": "unire",
+      "pos": "verb",
+      "back": "to unite, to bring together",
+      "example": "La musica unisce le persone.",
+      "tier": "B1"
+     },
+     {
+      "front": "la generazione",
+      "pos": "noun",
+      "back": "the generation",
+      "example": "Ogni generazione ha la sua musica.",
+      "tier": "B1"
+     },
+     {
+      "front": "cantare insieme",
+      "pos": "phrase",
+      "back": "to sing together",
+      "example": "Abbiamo cantato insieme fino a tardi.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La cantante americana Patti Smith ha suonato a Roma, al Circo Massimo.",
+      "point": "Passato prossimo con 'avere'",
+      "explanation": "'Ha suonato' è passato prossimo: ausiliare 'avere' con il participio passato 'suonato', per un'azione conclusa.",
+      "why_tricky": "Con i nomi di città si usa la preposizione 'a' ('a Roma'), non 'in'."
+     },
+     {
+      "sentence": "Molte persone di età diverse sono venute ad ascoltarla.",
+      "point": "Passato prossimo con 'essere' e accordo",
+      "explanation": "'Sono venute' usa l'ausiliare 'essere', quindi il participio concorda con il soggetto (femminile plurale: 'venute').",
+      "why_tricky": "Il pronome 'la' si attacca all'infinito: 'ascoltarla' significa 'ascoltare lei'."
+     },
+     {
+      "sentence": "Concerti come questo dimostrano che la buona musica non ha età e unisce le generazioni.",
+      "point": "Frase con 'che' e presente",
+      "explanation": "'Dimostrano che' introduce una frase oggettiva al presente ('non ha età e unisce').",
+      "why_tricky": "Dopo 'dimostrare che', quando si afferma un fatto, si usa l'indicativo, non il congiuntivo."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "non avere età",
+      "meaning": "to be timeless, to have no age",
+      "example": "La vera arte non ha età."
+     },
+     {
+      "phrase": "a lungo",
+      "meaning": "for a long time",
+      "example": "Abbiamo parlato a lungo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Dove e in che occasione ha cantato Patti Smith?",
+      "type": "open"
+     },
+     {
+      "q": "Perché diciamo che Patti Smith è una donna impegnata?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa dimostra un concerto come questo, secondo il testo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Qual è il concerto o la canzone che ti emoziona di più? Racconta perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-28-compiti-vacanze-studenti",
+   "title": "Skuola.net: 'Studenti caricati di compiti per le vacanze, anche a scuole chiuse, tramite registro elettronico'",
+   "source": "ANSA",
+   "date": "2026-07-28",
+   "level": "A2-B1",
+   "topics": [
+    "scuola",
+    "societa"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-28-compiti-vacanze-studenti",
+    "revision": 1,
+    "meta": {
+     "title": "Skuola.net: 'Studenti caricati di compiti per le vacanze, anche a scuole chiuse, tramite registro elettronico'",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/07/24/skuola.net-studenti-caricati-di-compiti-per-le-vacanze_53e29ffa-cdd7-426f-bdc5-faf6896e32c9.html",
+     "date_published": "2026-07-28",
+     "date_processed": "2026-07-28",
+     "tags": [
+      "scuola",
+      "societa"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Italy many students get a lot of homework for the summer holidays. A website that deals with school, Skuola.net, carried out a survey among young people. According to the results, some teachers give homework even after school has finished. Many students feel tired and stressed for this reason.\n\nThe topic of summer homework has always divided parents and teachers. Some think that homework helps young people not to forget what they have learned. Others, instead, believe that children need rest and free time. Perhaps the best solution is a balance: little homework, but useful, so that young people can study and enjoy the holidays at the same time.",
+    "resumen_es": "In Italia molti studenti ricevono tanti compiti per le vacanze estive. Un sito che si occupa di scuola, Skuola.net, ha fatto un sondaggio tra i ragazzi. Secondo i risultati, alcuni insegnanti danno i compiti anche dopo la fine della scuola. Molti studenti si sentono stanchi e stressati per questo motivo.\n\nIl tema dei compiti per l'estate divide da sempre genitori e professori. Alcuni pensano che i compiti aiutino i ragazzi a non dimenticare quello che hanno imparato. Altri, invece, credono che i bambini abbiano bisogno di riposo e di tempo libero. Forse la soluzione migliore è un equilibrio: pochi compiti, ma utili, così i ragazzi possono studiare e allo stesso tempo godersi le vacanze.",
+    "vocab": [
+     {
+      "front": "lo studente",
+      "pos": "noun",
+      "back": "the student",
+      "example": "Lo studente studia in biblioteca.",
+      "tier": "A2"
+     },
+     {
+      "front": "i compiti",
+      "pos": "noun",
+      "back": "the homework",
+      "example": "Ho finito i compiti di matematica.",
+      "tier": "A2"
+     },
+     {
+      "front": "le vacanze",
+      "pos": "noun",
+      "back": "the holidays",
+      "example": "In estate andiamo in vacanza al mare.",
+      "tier": "A2"
+     },
+     {
+      "front": "il sondaggio",
+      "pos": "noun",
+      "back": "the survey, poll",
+      "example": "Hanno fatto un sondaggio online.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'insegnante",
+      "pos": "noun",
+      "back": "the teacher",
+      "example": "L'insegnante spiega la lezione.",
+      "tier": "A2"
+     },
+     {
+      "front": "stanco",
+      "pos": "adj",
+      "back": "tired",
+      "example": "Sono molto stanco oggi.",
+      "tier": "A2"
+     },
+     {
+      "front": "stressato",
+      "pos": "adj",
+      "back": "stressed",
+      "example": "Durante gli esami sono stressata.",
+      "tier": "B1"
+     },
+     {
+      "front": "dividere",
+      "pos": "verb",
+      "back": "to divide, to split",
+      "example": "Il tema divide le opinioni.",
+      "tier": "B1"
+     },
+     {
+      "front": "imparare",
+      "pos": "verb",
+      "back": "to learn",
+      "example": "I bambini imparano in fretta.",
+      "tier": "A2"
+     },
+     {
+      "front": "il riposo",
+      "pos": "noun",
+      "back": "rest",
+      "example": "Dopo il lavoro ho bisogno di riposo.",
+      "tier": "B1"
+     },
+     {
+      "front": "il tempo libero",
+      "pos": "phrase",
+      "back": "free time",
+      "example": "Nel tempo libero leggo libri.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'equilibrio",
+      "pos": "noun",
+      "back": "balance",
+      "example": "È importante trovare un equilibrio.",
+      "tier": "B1"
+     },
+     {
+      "front": "utile",
+      "pos": "adj",
+      "back": "useful",
+      "example": "Questo consiglio è molto utile.",
+      "tier": "A2"
+     },
+     {
+      "front": "allo stesso tempo",
+      "pos": "phrase",
+      "back": "at the same time",
+      "example": "Studia e lavora allo stesso tempo.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "In Italia molti studenti ricevono tanti compiti per le vacanze estive.",
+      "point": "Presente indicativo (verbi in -ere)",
+      "explanation": "'Ricevono' è la terza persona plurale di 'ricevere'; 'tanti' concorda con 'compiti' (maschile plurale).",
+      "why_tricky": "'Tanti' cambia la desinenza secondo il nome: tanti compiti, tante vacanze."
+     },
+     {
+      "sentence": "Alcuni pensano che i compiti aiutino i ragazzi a non dimenticare quello che hanno imparato.",
+      "point": "Congiuntivo dopo 'pensare che'",
+      "explanation": "Dopo 'pensare che' si usa il congiuntivo presente: 'aiutino'.",
+      "why_tricky": "In inglese si usa il presente semplice ('helps'); l'italiano richiede il congiuntivo dopo i verbi di opinione."
+     },
+     {
+      "sentence": "Forse la soluzione migliore è un equilibrio: pochi compiti, ma utili, così i ragazzi possono studiare e allo stesso tempo godersi le vacanze.",
+      "point": "Comparativo 'migliore' e verbo riflessivo",
+      "explanation": "'Migliore' è la forma comparativa di 'buono'; 'godersi' è un verbo riflessivo che significa 'apprezzare pienamente'.",
+      "why_tricky": "'Migliore' sostituisce 'più buono' ed è irregolare, come 'better' in inglese."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "da sempre",
+      "meaning": "always, since forever",
+      "example": "Questo problema esiste da sempre."
+     },
+     {
+      "phrase": "avere bisogno di",
+      "meaning": "to need",
+      "example": "Ho bisogno di aiuto."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa ha scoperto il sondaggio di Skuola.net?",
+      "type": "open"
+     },
+     {
+      "q": "Perché alcuni studenti si sentono stanchi e stressati?",
+      "type": "open"
+     },
+     {
+      "q": "Quali sono le due opinioni diverse sui compiti delle vacanze?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, gli studenti dovrebbero avere compiti durante le vacanze? Scrivi la tua opinione con almeno tre frasi."
+   }
+  },
   {
    "pack_id": "feed-2026-07-28-energy-drink-bambini",
    "title": "Energy drink, l'allarme dei pediatri: si consumano gia a 9 anni",
@@ -6208,480 +6736,6 @@
      }
     ],
     "opinion_prompt": "Secondo te, espellere i diplomatici è una risposta utile nelle crisi tra Paesi? Scrivi qualche riga con la tua opinione."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-peluche-ia-privacy",
-   "title": "Sempre più giocattoli con l'IA, ma con peluche smart a rischio la privacy",
-   "source": "ANSA",
-   "date": "2026-07-20",
-   "level": "A2-B1",
-   "topics": [
-    "tecnologia",
-    "famiglia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-peluche-ia-privacy",
-    "revision": 1,
-    "meta": {
-     "title": "Sempre più giocattoli con l'IA, ma con peluche smart a rischio la privacy",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/07/20/arriva-in-cina-imoochi-il-peluche-con-lia-che-fa-compagnia-ai-bambini_9cb8024a-930f-4478-aa2b-d742d20d55da.html",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "tecnologia",
-      "famiglia"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "More and more toys with artificial intelligence are arriving. In China, iMoochi has appeared, a smart plush toy that talks and keeps children company. These 'pet robots' listen to everything that happens in the house and simulate empathy: they seem to understand the emotions of small children. The market for these products has passed 25 billion dollars.\n\nExperts, however, are raising an alarm about privacy. A plush toy that records a child's words collects very sensitive data, and it is not always clear where this information ends up. Families should therefore read the terms of use carefully and decide with care. The issue matters because children cannot defend themselves on their own and spend many hours with their toys.",
-    "resumen_es": "Arrivano sempre più giocattoli con l'intelligenza artificiale. In Cina è arrivato iMoochi, un peluche smart che parla e fa compagnia ai bambini. Questi 'pet robot' ascoltano tutto quello che succede in casa e simulano l'empatia: sembrano capire le emozioni dei più piccoli. Il mercato di questi prodotti ha superato i 25 miliardi di dollari.\n\nGli esperti però lanciano un allarme sulla privacy. Un peluche che registra le parole di un bambino raccoglie dati molto delicati, e non è sempre chiaro dove finiscono queste informazioni. Le famiglie devono quindi leggere bene le condizioni d'uso e decidere con attenzione. Il tema è importante perché i bambini non possono difendersi da soli e passano molte ore con i loro giochi.",
-    "vocab": [
-     {
-      "front": "il giocattolo",
-      "pos": "noun",
-      "back": "toy",
-      "example": "Il bambino gioca con i suoi giocattoli.",
-      "tier": "B1"
-     },
-     {
-      "front": "il peluche",
-      "pos": "noun",
-      "back": "plush toy, stuffed animal",
-      "example": "Mia figlia dorme con il suo peluche preferito.",
-      "tier": "B1"
-     },
-     {
-      "front": "fare compagnia",
-      "pos": "phrase",
-      "back": "to keep company",
-      "example": "Il cane fa compagnia alla nonna.",
-      "tier": "B1"
-     },
-     {
-      "front": "ascoltare",
-      "pos": "verb",
-      "back": "to listen to",
-      "example": "Il dispositivo ascolta le nostre parole.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'empatia",
-      "pos": "noun",
-      "back": "empathy",
-      "example": "Mostra molta empatia con gli amici.",
-      "tier": "B2"
-     },
-     {
-      "front": "superare",
-      "pos": "verb",
-      "back": "to exceed, to pass",
-      "example": "Le vendite hanno superato ogni previsione.",
-      "tier": "B1"
-     },
-     {
-      "front": "lanciare un allarme",
-      "pos": "phrase",
-      "back": "to raise an alarm",
-      "example": "I medici lanciano un allarme sul caldo.",
-      "tier": "B2"
-     },
-     {
-      "front": "registrare",
-      "pos": "verb",
-      "back": "to record",
-      "example": "L'app registra la voce degli utenti.",
-      "tier": "B1"
-     },
-     {
-      "front": "raccogliere dati",
-      "pos": "phrase",
-      "back": "to collect data",
-      "example": "Molti siti raccolgono dati personali.",
-      "tier": "B1"
-     },
-     {
-      "front": "delicato",
-      "pos": "adj",
-      "back": "sensitive, delicate",
-      "example": "È una questione molto delicata.",
-      "tier": "B1"
-     },
-     {
-      "front": "le condizioni d'uso",
-      "pos": "phrase",
-      "back": "terms of use",
-      "example": "Nessuno legge le condizioni d'uso delle app.",
-      "tier": "B2"
-     },
-     {
-      "front": "difendersi",
-      "pos": "verb",
-      "back": "to defend oneself",
-      "example": "I bambini non sanno difendersi da questi rischi.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Un peluche che registra le parole di un bambino raccoglie dati molto delicati, e non è sempre chiaro dove finiscono queste informazioni.",
-      "point": "Relative clause with 'che' and indirect question with 'dove'",
-      "explanation": "'Che registra le parole' describes the plush toy. In the second part, 'dove finiscono queste informazioni' is an indirect question: the verb comes before the subject.",
-      "why_tricky": "In indirect questions Italian often puts the verb first ('dove finiscono queste informazioni'), while English keeps subject-verb order ('where this information ends up')."
-     },
-     {
-      "sentence": "Il tema è importante perché i bambini non possono difendersi da soli e passano molte ore con i loro giochi.",
-      "point": "Reflexive infinitive after modal verb; 'da soli'",
-      "explanation": "After 'possono' the reflexive verb stays in the infinitive with the pronoun attached: 'difendersi'. 'Da soli' means 'on their own' and agrees with the subject.",
-      "why_tricky": "Learners often separate the pronoun ('non possono si difendere') or forget that 'da soli' changes form ('da sola', 'da sole') depending on the subject."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "fare compagnia",
-      "meaning": "to keep someone company",
-      "example": "Vieni a farmi compagnia mentre cucino?"
-     },
-     {
-      "phrase": "da soli",
-      "meaning": "on their own, by themselves",
-      "example": "I ragazzi hanno organizzato tutto da soli."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa fa iMoochi e dove è arrivato?",
-      "type": "open"
-     },
-     {
-      "q": "Perché gli esperti sono preoccupati per la privacy?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa devono fare le famiglie, secondo il testo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Compreresti un peluche con l'intelligenza artificiale per un bambino? Scrivi qualche riga con la tua opinione e le tue ragioni."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-addio-keegan",
-   "title": "Addio a Kevin Keegan, idolo inglese due volte Pallone d'oro",
-   "source": "ANSA",
-   "date": "2026-07-20",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "calcio"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-addio-keegan",
-    "revision": 1,
-    "meta": {
-     "title": "Addio a Kevin Keegan, idolo inglese due volte Pallone d'oro",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/morto-lex-attaccante-inglese-keegan-vinse-due-palloni-doro_06b9c2e3-0183-4890-8428-3134cc1336c0.html",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "sport",
-      "calcio"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Football says goodbye to Kevin Keegan, who has died at 75. The English striker won the Ballon d'Or twice and was an idol at Liverpool and for the English national team. Small in stature but a giant on the pitch, he was called 'Mighty Mouse'. Keegan had publicly announced that he had a tumor.\n\nKeegan remains a beloved figure in the world of English football. After his playing career he also worked as a manager, and he is remembered in a special way in Newcastle. For many fans he represented a simpler and more romantic kind of football. In the coming days, clubs and players from all over the world will pay tribute to his career and his story, and the newspapers will dedicate many pages to his life on and off the pitch.",
-    "resumen_es": "Il calcio dice addio a Kevin Keegan, morto a 75 anni. L'attaccante inglese ha vinto due volte il Pallone d'Oro ed è stato un idolo del Liverpool e della nazionale inglese. Piccolo di statura ma gigante in campo, era chiamato 'Mighty Mouse'. Keegan aveva annunciato pubblicamente di avere un tumore.\n\nKeegan resta una figura amata nel mondo del calcio inglese. Dopo la carriera da giocatore ha lavorato anche come allenatore, ed è ricordato in modo speciale a Newcastle. Per molti tifosi rappresentava un calcio più semplice e romantico. Nei prossimi giorni club e giocatori di tutto il mondo renderanno omaggio alla sua carriera e alla sua storia, e i giornali dedicheranno molte pagine alla sua vita dentro e fuori dal campo.",
-    "vocab": [
-     {
-      "front": "dire addio",
-      "pos": "phrase",
-      "back": "to say goodbye, to bid farewell",
-      "example": "Il pubblico ha detto addio al grande attore.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'attaccante",
-      "pos": "noun",
-      "back": "striker, forward",
-      "example": "L'attaccante ha segnato due gol.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'idolo",
-      "pos": "noun",
-      "back": "idol",
-      "example": "Era l'idolo dei tifosi.",
-      "tier": "B1"
-     },
-     {
-      "front": "piccolo di statura",
-      "pos": "phrase",
-      "back": "small in stature, short",
-      "example": "È piccolo di statura ma molto forte.",
-      "tier": "B2"
-     },
-     {
-      "front": "il campo",
-      "pos": "noun",
-      "back": "pitch, field",
-      "example": "I giocatori entrano in campo.",
-      "tier": "B1"
-     },
-     {
-      "front": "annunciare",
-      "pos": "verb",
-      "back": "to announce",
-      "example": "Ha annunciato il suo ritiro dal calcio.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'allenatore",
-      "pos": "noun",
-      "back": "coach, manager",
-      "example": "L'allenatore ha cambiato la squadra.",
-      "tier": "B1"
-     },
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi cantano per la loro squadra.",
-      "tier": "B1"
-     },
-     {
-      "front": "rendere omaggio",
-      "pos": "phrase",
-      "back": "to pay tribute",
-      "example": "La città ha reso omaggio ai suoi eroi.",
-      "tier": "B2"
-     },
-     {
-      "front": "la carriera",
-      "pos": "noun",
-      "back": "career",
-      "example": "Ha avuto una carriera lunga e piena di successi.",
-      "tier": "B1"
-     },
-     {
-      "front": "dedicare",
-      "pos": "verb",
-      "back": "to dedicate",
-      "example": "Ha dedicato la vittoria alla famiglia.",
-      "tier": "B1"
-     },
-     {
-      "front": "fuori dal campo",
-      "pos": "phrase",
-      "back": "off the pitch",
-      "example": "Anche fuori dal campo era una persona gentile.",
-      "tier": "B2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Keegan aveva annunciato pubblicamente di avere un tumore.",
-      "point": "Trapassato prossimo + di + infinitive",
-      "explanation": "'Aveva annunciato' (trapassato prossimo) shows an action that happened before the events of the article. After verbs like 'annunciare', Italian uses 'di' + infinitive when the subject is the same.",
-      "why_tricky": "English uses 'that he had a tumor' with a full clause, while Italian prefers the compact 'di avere'. Learners often insert 'che' where 'di' + infinitive is more natural."
-     },
-     {
-      "sentence": "Per molti tifosi rappresentava un calcio più semplice e romantico.",
-      "point": "Imperfetto for description and meaning in the past",
-      "explanation": "'Rappresentava' is in the imperfetto because it describes what Keegan meant to fans over a long period, not a single completed event.",
-      "why_tricky": "Choosing between imperfetto and passato prossimo is one of the hardest points in Italian: here the meaning is descriptive and ongoing, so the imperfetto is required."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dire addio",
-      "meaning": "to say goodbye for ever",
-      "example": "Con questa partita dice addio al calcio giocato."
-     },
-     {
-      "phrase": "rendere omaggio",
-      "meaning": "to pay tribute to someone",
-      "example": "Il concerto rende omaggio a un grande musicista."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi era Kevin Keegan e quali premi importanti ha vinto?",
-      "type": "open"
-     },
-     {
-      "q": "Perché era chiamato 'Mighty Mouse'?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa succederà nei prossimi giorni, secondo il testo?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "C'è uno sportivo che per te rappresenta qualcosa di speciale? Scrivi qualche riga per spiegare chi è e perché è importante per te."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-settimana-scioperi",
-   "title": "Settimana di scioperi: stop di treni, aerei e navi. Si parte oggi in alcune città",
-   "source": "RaiNews",
-   "date": "2026-07-20",
-   "level": "A2-B1",
-   "topics": [
-    "trasporti",
-    "scioperi"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-settimana-scioperi",
-    "revision": 1,
-    "meta": {
-     "title": "Settimana di scioperi: stop di treni, aerei e navi. Si parte oggi in alcune città",
-     "source": "RaiNews",
-     "url": "https://www.rainews.it/articoli/2026/07/settimana-di-scioperi-si-parte-oggi-in-alcune-citta-mobilitazione-nazionale-giovedi-e-venerdi--8de52509-f13e-4a6a-a34b-579811947c6d.html",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "trasporti",
-      "scioperi"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Italy a difficult week is beginning for people who travel. Strikes of trains, planes and ships are planned. The protests start today in some cities. The national mobilisation is scheduled for Thursday and Friday. The unions have organised several days of protest. Many transport workers will stop for a few hours or for the whole day.\n\nFor passengers, disruption is expected across Italy. Anyone who has to take a train or a plane should check the situation first. Transport companies publish lists of guaranteed services. There are usually protected time slots, early in the morning and in the evening. Experts advise leaving early and following official information.",
-    "resumen_es": "In Italia comincia una settimana difficile per chi viaggia. Sono in programma scioperi di treni, aerei e navi. Le proteste iniziano oggi in alcune città. La mobilitazione nazionale è prevista per giovedì e venerdì. I sindacati hanno organizzato diverse giornate di protesta. Molti lavoratori dei trasporti si fermeranno per alcune ore o per tutta la giornata.\n\nPer i passeggeri sono attesi disagi in tutta Italia. Chi deve prendere un treno o un aereo deve controllare prima la situazione. Le aziende di trasporto pubblicano le liste dei servizi garantiti. Di solito ci sono fasce orarie protette, la mattina presto e la sera. Gli esperti consigliano di partire con anticipo e di seguire le informazioni ufficiali.",
-    "vocab": [
-     {
-      "front": "lo sciopero",
-      "pos": "noun",
-      "back": "strike",
-      "example": "Domani c'è uno sciopero dei treni.",
-      "tier": "B1"
-     },
-     {
-      "front": "il sindacato",
-      "pos": "noun",
-      "back": "trade union",
-      "example": "Il sindacato ha organizzato la protesta.",
-      "tier": "B2"
-     },
-     {
-      "front": "la mobilitazione",
-      "pos": "noun",
-      "back": "mobilisation, mass protest",
-      "example": "La mobilitazione nazionale è prevista per venerdì.",
-      "tier": "B2"
-     },
-     {
-      "front": "fermarsi",
-      "pos": "verb",
-      "back": "to stop",
-      "example": "I lavoratori si fermano per quattro ore.",
-      "tier": "B1"
-     },
-     {
-      "front": "il disagio",
-      "pos": "noun",
-      "back": "inconvenience, disruption",
-      "example": "Lo sciopero ha creato molti disagi ai viaggiatori.",
-      "tier": "B2"
-     },
-     {
-      "front": "il passeggero",
-      "pos": "noun",
-      "back": "passenger",
-      "example": "I passeggeri aspettano informazioni in stazione.",
-      "tier": "B1"
-     },
-     {
-      "front": "controllare",
-      "pos": "verb",
-      "back": "to check",
-      "example": "Controlla l'orario del treno prima di uscire.",
-      "tier": "B1"
-     },
-     {
-      "front": "garantito",
-      "pos": "adj",
-      "back": "guaranteed",
-      "example": "Alcuni treni regionali sono garantiti.",
-      "tier": "B1"
-     },
-     {
-      "front": "la fascia oraria",
-      "pos": "phrase",
-      "back": "time slot",
-      "example": "Nella fascia oraria del mattino i treni circolano.",
-      "tier": "B2"
-     },
-     {
-      "front": "con anticipo",
-      "pos": "phrase",
-      "back": "in advance, early",
-      "example": "È meglio arrivare in aeroporto con anticipo.",
-      "tier": "B1"
-     },
-     {
-      "front": "consigliare",
-      "pos": "verb",
-      "back": "to advise, to recommend",
-      "example": "Ti consiglio di prendere la metro oggi.",
-      "tier": "B1"
-     },
-     {
-      "front": "ufficiale",
-      "pos": "adj",
-      "back": "official",
-      "example": "Aspettiamo una comunicazione ufficiale dell'azienda.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Sono in programma scioperi di treni, aerei e navi.",
-      "point": "'Essere in programma' with inverted subject",
-      "explanation": "'Essere in programma' means 'to be scheduled'. The subject ('scioperi') comes after the verb, a very common pattern in Italian news style.",
-      "why_tricky": "English keeps the subject first ('strikes are planned'). In Italian the verb agrees with the subject even when it follows: 'sono', not 'è'."
-     },
-     {
-      "sentence": "Chi deve prendere un treno o un aereo deve controllare prima la situazione.",
-      "point": "'Chi' meaning 'anyone who'",
-      "explanation": "'Chi' introduces a general subject ('whoever, anyone who') and always takes a singular verb: 'chi deve... deve...'.",
-      "why_tricky": "Learners often try 'le persone che' or plural verbs. 'Chi' is shorter and always third person singular."
-     },
-     {
-      "sentence": "Molti lavoratori dei trasporti si fermeranno per alcune ore o per tutta la giornata.",
-      "point": "Reflexive verb in the simple future",
-      "explanation": "'Fermarsi' (to stop) is reflexive; in the future the pronoun stays before the verb: 'si fermeranno'.",
-      "why_tricky": "The same verb without 'si' ('fermare') means to stop something else. The pronoun changes the meaning, not just the grammar."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "andare in tilt",
-      "meaning": "to go haywire, to be thrown into chaos",
-      "example": "Durante lo sciopero le stazioni vanno in tilt."
-     },
-     {
-      "phrase": "mettersi in viaggio",
-      "meaning": "to set off, to start a journey",
-      "example": "Meglio informarsi prima di mettersi in viaggio."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Quali mezzi di trasporto sono coinvolti negli scioperi?",
-      "type": "open"
-     },
-     {
-      "q": "Quando è prevista la mobilitazione nazionale?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa devono fare i passeggeri prima di partire?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, lo sciopero è un modo giusto per protestare? Scrivi la tua opinione in circa 80 parole."
    }
   }
  ]
