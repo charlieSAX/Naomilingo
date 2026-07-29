@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-28T20:15:25Z",
+ "generated_at": "2026-07-29T08:16:52Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-29-chatbot-relazioni-umane",
+   "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "tags": [
+    "tecnologia",
+    "società"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-chatbot-relazioni-umane",
+    "revision": 1,
+    "meta": {
+     "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/27/troppe-confidenze-ai-chatbot-a-rischio-le-relazioni-umane-_2e61018b-eed0-418e-bec8-055826a18a8e.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "tecnologia",
+      "società"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "A study from Stanford University issues a warning. Many people tell too many secrets to chatbots. These programs always answer in a kind way and almost always agree with us. For this reason, some people prefer to talk to a chatbot instead of a friend. The experts think that this could be a risk for the relationships between people.\n\nThe problem is simple. A chatbot almost always says what we want to hear. A real friend, on the other hand, sometimes tells us difficult but useful things. This is how we learn empathy and a sense of responsibility. The experts do not say that technology is bad. They only say that we must use it with balance. It is important to talk with real people too, and not only with a program.",
+    "resumen_es": "Uno studio dell'università di Stanford lancia un avviso. Molte persone raccontano troppi segreti ai chatbot. Questi programmi rispondono sempre in modo gentile e danno quasi sempre ragione. Per questo motivo, alcune persone preferiscono parlare con un chatbot invece che con un amico. Gli esperti pensano che questo possa essere un rischio per le relazioni tra le persone.\n\nIl problema è semplice. Un chatbot dice quasi sempre quello che vogliamo sentire. Un vero amico, invece, a volte ci dice cose difficili ma utili. Così impariamo l'empatia e il senso di responsabilità. Gli esperti non dicono che la tecnologia è cattiva. Dicono solo che dobbiamo usarla con equilibrio. È importante parlare anche con le persone reali e non solo con un programma.",
+    "vocab": [
+     {
+      "front": "studio",
+      "pos": "noun",
+      "back": "study",
+      "example": "Uno studio importante.",
+      "tier": "A2"
+     },
+     {
+      "front": "avviso",
+      "pos": "noun",
+      "back": "warning",
+      "example": "Ha lanciato un avviso.",
+      "tier": "B1"
+     },
+     {
+      "front": "segreto",
+      "pos": "noun",
+      "back": "secret",
+      "example": "Racconta i suoi segreti.",
+      "tier": "A2"
+     },
+     {
+      "front": "gentile",
+      "pos": "adj",
+      "back": "kind, polite",
+      "example": "Il chatbot è sempre gentile.",
+      "tier": "A2"
+     },
+     {
+      "front": "dare ragione",
+      "pos": "phrase",
+      "back": "to agree with, to say someone is right",
+      "example": "Mi dà sempre ragione.",
+      "tier": "B1"
+     },
+     {
+      "front": "invece",
+      "pos": "adv",
+      "back": "instead, on the other hand",
+      "example": "Preferisco il tè, invece del caffè.",
+      "tier": "A2"
+     },
+     {
+      "front": "rischio",
+      "pos": "noun",
+      "back": "risk",
+      "example": "C'è un rischio.",
+      "tier": "B1"
+     },
+     {
+      "front": "relazione",
+      "pos": "noun",
+      "back": "relationship",
+      "example": "Le relazioni tra amici.",
+      "tier": "B1"
+     },
+     {
+      "front": "empatia",
+      "pos": "noun",
+      "back": "empathy",
+      "example": "L'empatia è importante.",
+      "tier": "B1"
+     },
+     {
+      "front": "responsabilità",
+      "pos": "noun",
+      "back": "responsibility",
+      "example": "Il senso di responsabilità.",
+      "tier": "B1"
+     },
+     {
+      "front": "tecnologia",
+      "pos": "noun",
+      "back": "technology",
+      "example": "La tecnologia è utile.",
+      "tier": "A2"
+     },
+     {
+      "front": "equilibrio",
+      "pos": "noun",
+      "back": "balance",
+      "example": "Usare la tecnologia con equilibrio.",
+      "tier": "B1"
+     },
+     {
+      "front": "reale",
+      "pos": "adj",
+      "back": "real",
+      "example": "Le persone reali.",
+      "tier": "A2"
+     },
+     {
+      "front": "utile",
+      "pos": "adj",
+      "back": "useful",
+      "example": "Un consiglio utile.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Molte persone raccontano troppi segreti ai chatbot.",
+      "point": "il presente indicativo e la preposizione articolata ai",
+      "explanation": "'Raccontano' è il presente di 'raccontare'. 'Ai' unisce 'a' e 'i' (a + i = ai).",
+      "why_tricky": "Le preposizioni articolate (ai, dei, sui) sono corte e facili da dimenticare."
+     },
+     {
+      "sentence": "Per questo motivo, alcune persone preferiscono parlare con un chatbot invece che con un amico.",
+      "point": "preferire + infinito e l'espressione invece che",
+      "explanation": "Dopo 'preferire' si usa l'infinito: preferiscono parlare. 'Invece che' significa 'instead of'.",
+      "why_tricky": "'Preferire' regge l'infinito senza preposizione, diverso da altri verbi."
+     },
+     {
+      "sentence": "Gli esperti pensano che questo possa essere un rischio per le relazioni tra le persone.",
+      "point": "pensare che + congiuntivo (possa)",
+      "explanation": "Dopo 'pensare che' si usa il congiuntivo: 'possa' invece di 'può'. Esprime un'opinione, non un fatto sicuro.",
+      "why_tricky": "Il congiuntivo dopo i verbi di opinione non esiste in inglese ed è difficile per chi impara."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dare ragione a qualcuno",
+      "meaning": "to agree with someone",
+      "example": "Alla fine mi ha dato ragione."
+     },
+     {
+      "phrase": "con equilibrio",
+      "meaning": "in a balanced way",
+      "example": "Bisogna mangiare con equilibrio."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Cosa dice lo studio di Stanford?",
+      "type": "open"
+     },
+     {
+      "q": "Qual è la differenza tra un chatbot e un vero amico?",
+      "type": "open"
+     },
+     {
+      "q": "Cosa consigliano gli esperti?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Tu parli mai con un chatbot? Scrivi la tua opinione in cinque frasi semplici."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-attori-contro-fusione",
+   "title": "Benedict Cumberbatch e Alan Cumming contro la fusione tra Paramount e Warner",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "tags": [
+    "cultura",
+    "cinema"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-attori-contro-fusione",
+    "revision": 1,
+    "meta": {
+     "title": "Benedict Cumberbatch e Alan Cumming contro la fusione tra Paramount e Warner",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/27/cumberbatch-e-cumming-contro-la-fusione-tra-paramount-e-warner_a0ff6142-9a03-4d90-80d2-bb42d9787bda.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "cultura",
+      "cinema"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Two famous British actors, Benedict Cumberbatch and Alan Cumming, are against the merger of two big cinema companies, Paramount and Warner. The actors have written to the British government. They ask it to stop the union between the two companies. In their view, this merger could do great harm to citizens and to the world of cinema.\n\nThe actors explain their fear. If few companies control all of cinema, there are fewer choices for the public. Smaller artists too risk having less space. For this reason they ask for more attention and clear rules. The debate is open and many people in cinema are following the matter with interest. Now the final decision is up to the authorities of the United Kingdom.",
+    "resumen_es": "Due famosi attori britannici, Benedict Cumberbatch e Alan Cumming, sono contro la fusione tra due grandi aziende del cinema, Paramount e Warner. Gli attori hanno scritto al governo britannico. Chiedono di fermare l'unione tra le due società. Secondo loro, questa fusione potrebbe fare un grande danno ai cittadini e al mondo del cinema.\n\nGli attori spiegano la loro paura. Se poche aziende controllano tutto il cinema, ci sono meno scelte per il pubblico. Anche gli artisti più piccoli rischiano di avere meno spazio. Per questo chiedono più attenzione e regole chiare. Il dibattito è aperto e molte persone del cinema seguono la questione con interesse. Ora la decisione finale spetta alle autorità del Regno Unito.",
+    "vocab": [
+     {
+      "front": "attore",
+      "pos": "noun",
+      "back": "actor",
+      "example": "È un attore famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "famoso",
+      "pos": "adj",
+      "back": "famous",
+      "example": "Un attore molto famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "fusione",
+      "pos": "noun",
+      "back": "merger",
+      "example": "La fusione tra due aziende.",
+      "tier": "B1"
+     },
+     {
+      "front": "azienda",
+      "pos": "noun",
+      "back": "company",
+      "example": "Una grande azienda.",
+      "tier": "A2"
+     },
+     {
+      "front": "governo",
+      "pos": "noun",
+      "back": "government",
+      "example": "Il governo britannico.",
+      "tier": "A2"
+     },
+     {
+      "front": "fermare",
+      "pos": "verb",
+      "back": "to stop",
+      "example": "Chiedono di fermare l'unione.",
+      "tier": "A2"
+     },
+     {
+      "front": "società",
+      "pos": "noun",
+      "back": "company, society",
+      "example": "Le due società.",
+      "tier": "B1"
+     },
+     {
+      "front": "danno",
+      "pos": "noun",
+      "back": "harm, damage",
+      "example": "Un grande danno.",
+      "tier": "B1"
+     },
+     {
+      "front": "cittadino",
+      "pos": "noun",
+      "back": "citizen",
+      "example": "I cittadini sono preoccupati.",
+      "tier": "B1"
+     },
+     {
+      "front": "scelta",
+      "pos": "noun",
+      "back": "choice",
+      "example": "Ci sono meno scelte.",
+      "tier": "A2"
+     },
+     {
+      "front": "rischiare",
+      "pos": "verb",
+      "back": "to risk",
+      "example": "Rischiano di perdere tutto.",
+      "tier": "B1"
+     },
+     {
+      "front": "dibattito",
+      "pos": "noun",
+      "back": "debate",
+      "example": "Il dibattito è aperto.",
+      "tier": "B1"
+     },
+     {
+      "front": "questione",
+      "pos": "noun",
+      "back": "issue, matter",
+      "example": "Seguono la questione.",
+      "tier": "B1"
+     },
+     {
+      "front": "spettare a",
+      "pos": "phrase",
+      "back": "to be up to (someone)",
+      "example": "La decisione spetta a loro.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Gli attori hanno scritto al governo britannico.",
+      "point": "passato prossimo con avere (participio irregolare scritto) e la preposizione al",
+      "explanation": "'Hanno scritto' è il passato prossimo di 'scrivere', con participio irregolare. 'Al' unisce 'a' e 'il'.",
+      "why_tricky": "Molti participi sono irregolari (scritto, fatto, detto) e vanno imparati a memoria."
+     },
+     {
+      "sentence": "Secondo loro, questa fusione potrebbe fare un grande danno ai cittadini e al mondo del cinema.",
+      "point": "il condizionale potrebbe e l'espressione secondo loro",
+      "explanation": "'Potrebbe' è il condizionale di 'potere' e indica una possibilità. 'Secondo loro' significa 'in their opinion'.",
+      "why_tricky": "Il condizionale si usa per ipotesi e opinioni, non solo per la cortesia."
+     },
+     {
+      "sentence": "Se poche aziende controllano tutto il cinema, ci sono meno scelte per il pubblico.",
+      "point": "il periodo ipotetico reale (se + presente, presente)",
+      "explanation": "Quando la condizione è possibile e reale, si usa il presente in entrambe le parti: se controllano, ci sono.",
+      "why_tricky": "Con condizioni reali si usa il presente; gli studenti a volte mettono il congiuntivo per sbaglio."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "essere contro",
+      "meaning": "to be against",
+      "example": "Molti sono contro la nuova legge."
+     },
+     {
+      "phrase": "spettare a qualcuno",
+      "meaning": "to be someone's decision or responsibility",
+      "example": "La scelta spetta a te."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché i due attori sono contro la fusione?",
+      "type": "open"
+     },
+     {
+      "q": "Cosa hanno chiesto al governo britannico?",
+      "type": "open"
+     },
+     {
+      "q": "Chi deve prendere la decisione finale?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, è meglio avere tante piccole aziende o poche grandi aziende nel cinema? Scrivi cinque frasi semplici."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-estate-ondate-calore",
+   "title": "L'estate 2026 già sopra la media per numero e durata delle ondate di calore",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "tags": [
+    "clima",
+    "meteo"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-estate-ondate-calore",
+    "revision": 1,
+    "meta": {
+     "title": "L'estate 2026 già sopra la media per numero e durata delle ondate di calore",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/27/lestate-2026-gia-sopra-la-media-per-numero-e-durata-delle-ondate_a8ad5b50-897e-451c-bbab-6e90878e6ba1.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "clima",
+      "meteo"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The summer of 2026 is very hot in Italy. There have already been many heatwaves. It is hot more often and for more days than in past years. The experts say that soon a new heatwave will arrive. This time the heat will mainly hit the centre and the north of the country.\n\nStrong heat can be a problem for health. Elderly people and children must be careful. The experts give some simple tips: drink a lot of water, stay in the shade and do not go out in the hottest hours. Many scientists link these heatwaves to climate change. For this reason they say that in the future summers could become even hotter. It is important to prepare well every year.",
+    "resumen_es": "L'estate 2026 è molto calda in Italia. Ci sono già state molte ondate di calore. Fa caldo più spesso e per più giorni rispetto agli anni passati. Gli esperti dicono che presto arriverà una nuova ondata di calore. Questa volta il caldo colpirà soprattutto il Centro e il Nord del Paese.\n\nIl caldo forte può essere un problema per la salute. Le persone anziane e i bambini devono stare attenti. Gli esperti danno alcuni consigli semplici: bere molta acqua, restare all'ombra e non uscire nelle ore più calde. Molti scienziati collegano queste ondate di calore al cambiamento climatico. Per questo dicono che in futuro le estati potrebbero diventare ancora più calde. È importante prepararsi bene ogni anno.",
+    "vocab": [
+     {
+      "front": "estate",
+      "pos": "noun",
+      "back": "summer",
+      "example": "In estate fa caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "caldo",
+      "pos": "noun",
+      "back": "heat; hot",
+      "example": "Oggi fa molto caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "ondata di calore",
+      "pos": "phrase",
+      "back": "heatwave",
+      "example": "Arriva una nuova ondata di calore.",
+      "tier": "B1"
+     },
+     {
+      "front": "media",
+      "pos": "noun",
+      "back": "average",
+      "example": "Le temperature sono sopra la media.",
+      "tier": "B1"
+     },
+     {
+      "front": "durata",
+      "pos": "noun",
+      "back": "duration, length",
+      "example": "La durata del film è due ore.",
+      "tier": "B1"
+     },
+     {
+      "front": "colpire",
+      "pos": "verb",
+      "back": "to hit, to affect",
+      "example": "Il caldo colpisce il Nord.",
+      "tier": "B1"
+     },
+     {
+      "front": "anziano",
+      "pos": "adj",
+      "back": "elderly",
+      "example": "Le persone anziane soffrono il caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "consiglio",
+      "pos": "noun",
+      "back": "advice, tip",
+      "example": "Ti do un consiglio.",
+      "tier": "A2"
+     },
+     {
+      "front": "ombra",
+      "pos": "noun",
+      "back": "shade, shadow",
+      "example": "Il gatto dorme all'ombra.",
+      "tier": "A2"
+     },
+     {
+      "front": "all'ombra",
+      "pos": "phrase",
+      "back": "in the shade",
+      "example": "Con questo sole meglio stare all'ombra.",
+      "tier": "A2"
+     },
+     {
+      "front": "scienziato",
+      "pos": "noun",
+      "back": "scientist",
+      "example": "Gli scienziati studiano il clima.",
+      "tier": "B1"
+     },
+     {
+      "front": "cambiamento climatico",
+      "pos": "phrase",
+      "back": "climate change",
+      "example": "Il cambiamento climatico è un problema.",
+      "tier": "B1"
+     },
+     {
+      "front": "stare attenti",
+      "pos": "phrase",
+      "back": "to be careful",
+      "example": "Dovete stare attenti.",
+      "tier": "A2"
+     },
+     {
+      "front": "prepararsi",
+      "pos": "verb",
+      "back": "to get ready",
+      "example": "Dobbiamo prepararci bene.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Ci sono già state molte ondate di calore.",
+      "point": "il passato prossimo di esserci con l'accordo del participio",
+      "explanation": "'Ci sono state' è il passato prossimo di 'esserci'. Con l'ausiliare 'essere' il participio concorda: 'state' (femminile plurale) con 'ondate'.",
+      "why_tricky": "Con 'essere' il participio cambia (stato, stata, state); con 'avere' di solito no."
+     },
+     {
+      "sentence": "Gli esperti dicono che presto arriverà una nuova ondata di calore.",
+      "point": "il futuro semplice arriverà",
+      "explanation": "'Arriverà' è il futuro di 'arrivare' e indica un'azione che deve ancora succedere.",
+      "why_tricky": "Il futuro italiano ha terminazioni particolari (-erà, -irà) che gli studenti confondono con il condizionale."
+     },
+     {
+      "sentence": "Le persone anziane e i bambini devono stare attenti.",
+      "point": "dovere + infinito e l'espressione stare attenti",
+      "explanation": "'Devono stare' esprime un obbligo. 'Stare attenti' significa 'to be careful' e l'aggettivo concorda: attenti.",
+      "why_tricky": "Si dice 'stare attenti', non 'essere attenti'; e l'aggettivo deve accordarsi al plurale."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fare caldo",
+      "meaning": "to be hot (weather)",
+      "example": "In agosto fa molto caldo."
+     },
+     {
+      "phrase": "stare all'ombra",
+      "meaning": "to stay in the shade",
+      "example": "Con questo sole meglio stare all'ombra."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Com'è l'estate 2026 in Italia?",
+      "type": "open"
+     },
+     {
+      "q": "Chi deve stare più attento al caldo?",
+      "type": "open"
+     },
+     {
+      "q": "Perché in futuro le estati potrebbero essere più calde?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Come ti proteggi dal caldo in estate? Scrivi la tua opinione in cinque frasi semplici."
+   }
+  },
   {
    "pack_id": "feed-2026-07-28-etna-intrusioni-magmatiche",
    "title": "Etna, svelato come si propagano le intrusioni magmatiche",
@@ -6268,474 +6796,6 @@
      }
     ],
     "opinion_prompt": "Ti piacerebbe andare a un grande concerto all'aperto in estate? Racconta perché in circa 80 parole."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-21-viaggi-con-il-cane",
-   "title": "La Lonely Planet pet friendly, 20 esperienze top in Italia da fare con il cane",
-   "source": "ANSA",
-   "date": "2026-07-19",
-   "level": "A2-B1",
-   "topics": [
-    "viaggi",
-    "animali"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-21-viaggi-con-il-cane",
-    "revision": 1,
-    "meta": {
-     "title": "La Lonely Planet pet friendly, 20 esperienze top in Italia da fare con il cane",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/07/19/la-lonely-planet-pet-friendly-20-esperienze-top-in-italia-da-fare-con-il-cane_4c228613-da77-485c-9b58-8532801b40eb.html",
-     "date_published": "2026-07-19",
-     "date_processed": "2026-07-21",
-     "tags": [
-      "viaggi",
-      "animali"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "The Lonely Planet guide has published a mini guide dedicated to travelling with your dog. The book presents twenty experiences to enjoy in Italy together with your pet. There are mountain walks, equipped beaches, art cities and even restaurants that welcome four-legged friends. The idea comes from a new habit: more and more Italians want to travel with their dog.\n\nPet friendly tourism is growing all over Europe and Italy wants to become an important destination for this market. Hotels, trains and museums today offer more services for animals than in the past. According to experts, travelling with your dog is good for both people and animals, but it takes organization: you need to check the rules of every place before leaving.",
-    "resumen_es": "La guida Lonely Planet ha pubblicato una miniguida dedicata ai viaggi con il cane. Il libro presenta venti esperienze da fare in Italia insieme al proprio animale. Ci sono passeggiate in montagna, spiagge attrezzate, città d'arte e persino ristoranti che accolgono gli amici a quattro zampe. L'idea nasce da una nuova abitudine: sempre più italiani vogliono viaggiare con il loro cane.\n\nIl turismo pet friendly cresce in tutta Europa e l'Italia vuole diventare una destinazione importante per questo mercato. Hotel, treni e musei offrono oggi più servizi per gli animali rispetto al passato. Secondo gli esperti, viaggiare con il cane fa bene sia alle persone sia agli animali, ma serve organizzazione: bisogna controllare le regole di ogni luogo prima di partire.",
-    "vocab": [
-     {
-      "front": "la guida",
-      "pos": "noun",
-      "back": "guide, guidebook",
-      "example": "Ho comprato una guida di Roma.",
-      "tier": "B1"
-     },
-     {
-      "front": "la passeggiata",
-      "pos": "noun",
-      "back": "walk, stroll",
-      "example": "Facciamo una passeggiata in montagna.",
-      "tier": "B1"
-     },
-     {
-      "front": "attrezzato",
-      "pos": "adj",
-      "back": "equipped",
-      "example": "La spiaggia è attrezzata per i cani.",
-      "tier": "B1"
-     },
-     {
-      "front": "accogliere",
-      "pos": "verb",
-      "back": "to welcome",
-      "example": "Questo hotel accoglie gli animali.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'abitudine",
-      "pos": "noun",
-      "back": "habit",
-      "example": "Viaggiare con il cane è una nuova abitudine.",
-      "tier": "B1"
-     },
-     {
-      "front": "a quattro zampe",
-      "pos": "phrase",
-      "back": "four-legged",
-      "example": "Il mio amico a quattro zampe viene sempre con me.",
-      "tier": "B1"
-     },
-     {
-      "front": "la destinazione",
-      "pos": "noun",
-      "back": "destination",
-      "example": "L'Italia è una destinazione molto amata.",
-      "tier": "B1"
-     },
-     {
-      "front": "offrire",
-      "pos": "verb",
-      "back": "to offer",
-      "example": "Il treno offre servizi per gli animali.",
-      "tier": "B1"
-     },
-     {
-      "front": "rispetto al passato",
-      "pos": "phrase",
-      "back": "compared to the past",
-      "example": "Oggi ci sono più servizi rispetto al passato.",
-      "tier": "B1"
-     },
-     {
-      "front": "fare bene a",
-      "pos": "phrase",
-      "back": "to be good for",
-      "example": "Camminare fa bene alla salute.",
-      "tier": "B1"
-     },
-     {
-      "front": "la regola",
-      "pos": "noun",
-      "back": "rule",
-      "example": "Ogni spiaggia ha le sue regole.",
-      "tier": "B1"
-     },
-     {
-      "front": "persino",
-      "pos": "adv",
-      "back": "even",
-      "example": "Ci sono persino ristoranti per cani.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Secondo gli esperti, viaggiare con il cane fa bene sia alle persone sia agli animali, ma serve organizzazione: bisogna controllare le regole di ogni luogo prima di partire.",
-      "point": "sia... sia e bisogna + infinito",
-      "explanation": "Sia... sia means both... and. Bisogna + infinitive is an impersonal way to say it is necessary to.",
-      "why_tricky": "Bisogna never changes form and has no subject; learners often try to say io bisogno, which is wrong."
-     },
-     {
-      "sentence": "L'idea nasce da una nuova abitudine: sempre più italiani vogliono viaggiare con il loro cane.",
-      "point": "sempre più + noun",
-      "explanation": "Sempre più before a noun means more and more: sempre più italiani, more and more Italians.",
-      "why_tricky": "Word order differs from English; learners often say più e più italiani, which sounds unnatural."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "amici a quattro zampe",
-      "meaning": "four-legged friends (pets)",
-      "example": "Il parco è aperto anche agli amici a quattro zampe."
-     },
-     {
-      "phrase": "in giro",
-      "meaning": "around, out and about",
-      "example": "Mi piace andare in giro con il mio cane."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa presenta la nuova miniguida della Lonely Planet?",
-      "type": "open"
-     },
-     {
-      "q": "Quali esperienze si possono fare in Italia con il cane?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo gli esperti, perché serve organizzazione per viaggiare con un animale?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, gli animali devono poter entrare in hotel e ristoranti? Scrivi la tua opinione in circa 80 parole."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-21-guardiola-nazionale",
-   "title": "Guardiola sulla panchina dell'Italia? Il blitz di Maldini e Leonardo accende i tifosi",
-   "source": "RaiNews",
-   "date": "2026-07-21",
-   "level": "A2-B1",
-   "topics": [
-    "calcio",
-    "sport"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-21-guardiola-nazionale",
-    "revision": 1,
-    "meta": {
-     "title": "Guardiola sulla panchina dell'Italia? Il blitz di Maldini e Leonardo accende i tifosi",
-     "source": "RaiNews",
-     "url": "https://www.rainews.it/articoli/2026/07/calcio-nazionale-azzurri-missione-guardiola-maldini-e-leonardo-malago-panchina-ea9f3085-6860-42f7-90a7-e92f936dcd26.html",
-     "date_published": "2026-07-21",
-     "date_processed": "2026-07-21",
-     "tags": [
-      "calcio",
-      "sport"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Italy there is talk of a dream for the national football team: Pep Guardiola as the new coach. Paolo Maldini and Leonardo, two famous figures of Italian football, met the Catalan manager. The news fired up the fans' enthusiasm. But Guardiola, for now, is holding back: he said he does not miss the bench.\n\nThe Italian national team is looking for a new path after difficult years. CONI president Malago explained that there are also other possible names for the role. The decision has not yet been made. For the fans, Guardiola's name represents a hope: a great coach could bring Italy back to the top of world football.",
-    "resumen_es": "In Italia si parla di un sogno per la nazionale di calcio: Pep Guardiola come nuovo allenatore. Paolo Maldini e Leonardo, due figure famose del calcio italiano, hanno incontrato il tecnico catalano. La notizia ha acceso l'entusiasmo dei tifosi. Ma Guardiola, per ora, frena: ha detto che la panchina non gli manca.\n\nLa nazionale italiana cerca una nuova strada dopo alcuni anni difficili e senza grandi risultati. Il presidente del CONI, Malagò, ha spiegato che ci sono anche altri nomi possibili per il ruolo. La decisione non è ancora presa e i giornali italiani parlano di questo tema ogni giorno. Per i tifosi, il nome di Guardiola rappresenta una speranza: un grande allenatore potrebbe riportare l'Italia ai vertici del calcio mondiale.",
-    "vocab": [
-     {
-      "front": "l'allenatore",
-      "pos": "noun",
-      "back": "coach, manager",
-      "example": "L'allenatore ha cambiato la squadra.",
-      "tier": "B1"
-     },
-     {
-      "front": "la panchina",
-      "pos": "noun",
-      "back": "bench (also the coaching job)",
-      "example": "Dopo due anni ha lasciato la panchina del Milan.",
-      "tier": "B1"
-     },
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "fan, supporter",
-      "example": "I tifosi hanno festeggiato tutta la notte.",
-      "tier": "B1"
-     },
-     {
-      "front": "frenare",
-      "pos": "verb",
-      "back": "to brake, to hold back",
-      "example": "Il tecnico frena sulle voci di mercato.",
-      "tier": "B1"
-     },
-     {
-      "front": "mancare",
-      "pos": "verb",
-      "back": "to be missing, to miss",
-      "example": "Mi manca la mia città.",
-      "tier": "B1"
-     },
-     {
-      "front": "la speranza",
-      "pos": "noun",
-      "back": "hope",
-      "example": "C'è ancora una speranza di vincere.",
-      "tier": "B1"
-     },
-     {
-      "front": "il ruolo",
-      "pos": "noun",
-      "back": "role",
-      "example": "È il ruolo più importante della squadra.",
-      "tier": "B1"
-     },
-     {
-      "front": "la decisione",
-      "pos": "noun",
-      "back": "decision",
-      "example": "La decisione arriva domani.",
-      "tier": "B1"
-     },
-     {
-      "front": "accendere l'entusiasmo",
-      "pos": "phrase",
-      "back": "to fire up enthusiasm",
-      "example": "La notizia ha acceso l'entusiasmo della città.",
-      "tier": "B1"
-     },
-     {
-      "front": "la strada",
-      "pos": "noun",
-      "back": "road, path (also figurative)",
-      "example": "La squadra cerca una nuova strada.",
-      "tier": "B1"
-     },
-     {
-      "front": "riportare",
-      "pos": "verb",
-      "back": "to bring back",
-      "example": "Vuole riportare la squadra in alto.",
-      "tier": "B1"
-     },
-     {
-      "front": "il vertice",
-      "pos": "noun",
-      "back": "top, summit",
-      "example": "Il club è tornato al vertice del campionato.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Ma Guardiola, per ora, frena: ha detto che la panchina non gli manca.",
-      "point": "mancare con pronome indiretto",
-      "explanation": "Mancare works like piacere: the thing missed is the subject and the person is an indirect pronoun. La panchina non gli manca means he does not miss the bench.",
-      "why_tricky": "The structure is inverted compared to English: I miss it becomes mi manca, literally it is missing to me."
-     },
-     {
-      "sentence": "Per i tifosi, il nome di Guardiola rappresenta una speranza: un grande allenatore potrebbe riportare l'Italia ai vertici del calcio mondiale.",
-      "point": "condizionale di potere: potrebbe",
-      "explanation": "Potrebbe is the conditional of potere and expresses possibility: could bring Italy back.",
-      "why_tricky": "Learners confuse potrebbe (could, possibility) with poteva (was able to, past)."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "ai vertici",
-      "meaning": "at the top (of a ranking, a field)",
-      "example": "Quella squadra è tornata ai vertici del calcio europeo."
-     },
-     {
-      "phrase": "accendere l'entusiasmo",
-      "meaning": "to spark enthusiasm",
-      "example": "Il nuovo acquisto ha acceso l'entusiasmo dei tifosi."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi ha incontrato Pep Guardiola secondo la notizia?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa ha risposto Guardiola per ora?",
-      "type": "open"
-     },
-     {
-      "q": "Perché i tifosi italiani sperano in un grande allenatore?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Chi sceglieresti come allenatore della tua nazionale e perché? Scrivi circa 80 parole."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-20-mosca-espelle-addetto",
-   "title": "Mosca espelle l'addetto militare italiano, Tajani: 'Plateale ritorsione'",
-   "source": "ANSA",
-   "date": "2026-07-20",
-   "level": "A2-B1",
-   "topics": [
-    "politica",
-    "Russia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-20-mosca-espelle-addetto",
-    "revision": 1,
-    "meta": {
-     "title": "Mosca espelle l'addetto militare italiano, Tajani: 'Plateale ritorsione'",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/20/tajani-mosca-ha-espulso-laddetto-militare-italiano-e-un-collaboratore-senza-motivo_cf6768e4-c8e4-4c77-b449-dbc29a576a05.html",
-     "date_published": "2026-07-20",
-     "date_processed": "2026-07-20",
-     "tags": [
-      "politica",
-      "Russia"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Russia has expelled the Italian military attaché in Moscow and one of his collaborators. Foreign Minister Antonio Tajani spoke of a blatant retaliation without any reason. The Russian decision comes after Italy expelled two Russian military attachés, accused of espionage in an investigation by the Rome prosecutor's office.\n\nThis episode shows the growing tension between Rome and Moscow. Expulsions of diplomats are a classic tool in crises between states: when one country sends a diplomat away, the other often responds with the same measure. In the coming days the Italian government will decide how to respond, while relations between the two countries remain very difficult because of the war in Ukraine, which has changed the relationship between Russia and European countries.",
-    "resumen_es": "La Russia ha espulso l'addetto militare italiano a Mosca e un suo collaboratore. Il ministro degli Esteri Antonio Tajani ha parlato di una ritorsione plateale e senza motivo. La decisione russa arriva dopo che l'Italia ha espulso due addetti militari russi, accusati di spionaggio in un'inchiesta della Procura di Roma.\n\nQuesto episodio mostra la tensione crescente tra Roma e Mosca. Le espulsioni di diplomatici sono uno strumento classico nelle crisi tra Stati: quando un Paese manda via un diplomatico, l'altro spesso risponde con la stessa misura. Nei prossimi giorni il governo italiano deciderà come rispondere, mentre le relazioni tra i due Paesi restano molto difficili a causa della guerra in Ucraina, che ha cambiato i rapporti tra la Russia e i Paesi europei.",
-    "vocab": [
-     {
-      "front": "espellere",
-      "pos": "verb",
-      "back": "to expel",
-      "example": "Il governo ha deciso di espellere due diplomatici.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'addetto militare",
-      "pos": "noun",
-      "back": "military attaché",
-      "example": "L'addetto militare lavora nell'ambasciata.",
-      "tier": "B2"
-     },
-     {
-      "front": "la ritorsione",
-      "pos": "noun",
-      "back": "retaliation",
-      "example": "La decisione è stata una ritorsione politica.",
-      "tier": "B2"
-     },
-     {
-      "front": "senza motivo",
-      "pos": "phrase",
-      "back": "without reason",
-      "example": "Si è arrabbiato senza motivo.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'inchiesta",
-      "pos": "noun",
-      "back": "investigation, inquiry",
-      "example": "La procura ha aperto un'inchiesta.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo spionaggio",
-      "pos": "noun",
-      "back": "espionage, spying",
-      "example": "È stato accusato di spionaggio.",
-      "tier": "B2"
-     },
-     {
-      "front": "la tensione",
-      "pos": "noun",
-      "back": "tension",
-      "example": "C'è molta tensione tra i due Paesi.",
-      "tier": "B1"
-     },
-     {
-      "front": "crescente",
-      "pos": "adj",
-      "back": "growing, increasing",
-      "example": "Il problema causa una preoccupazione crescente.",
-      "tier": "B2"
-     },
-     {
-      "front": "mandare via",
-      "pos": "verb",
-      "back": "to send away",
-      "example": "Hanno mandato via il giornalista.",
-      "tier": "B1"
-     },
-     {
-      "front": "la misura",
-      "pos": "noun",
-      "back": "measure, step",
-      "example": "Il governo ha preso misure importanti.",
-      "tier": "B1"
-     },
-     {
-      "front": "le relazioni",
-      "pos": "noun",
-      "back": "relations",
-      "example": "Le relazioni tra i due Stati sono difficili.",
-      "tier": "B1"
-     },
-     {
-      "front": "a causa di",
-      "pos": "phrase",
-      "back": "because of",
-      "example": "Il volo è in ritardo a causa del tempo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La decisione russa arriva dopo che l'Italia ha espulso due addetti militari russi, accusati di spionaggio in un'inchiesta della Procura di Roma.",
-      "point": "Dopo che + passato prossimo; participle used as adjective",
-      "explanation": "'Dopo che' introduces a time clause with the passato prossimo 'ha espulso'. The participle 'accusati' works like an adjective and agrees with 'addetti militari russi' (masculine plural).",
-      "why_tricky": "Learners often use the infinitive after 'dopo' ('dopo espellere') instead of 'dopo che' + conjugated verb, and forget the plural agreement on 'accusati'."
-     },
-     {
-      "sentence": "quando un Paese manda via un diplomatico, l'altro spesso risponde con la stessa misura",
-      "point": "Quando + present tense for general truths",
-      "explanation": "Both verbs are in the present ('manda', 'risponde') because the sentence describes something that happens in general, not one specific event.",
-      "why_tricky": "English can use 'when' plus present too, so the structure is friendly, but learners sometimes slip into the future after 'quando' when the meaning is habitual."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "mandare via",
-      "meaning": "to send away, to kick out",
-      "example": "Il ristorante ha mandato via i clienti maleducati."
-     },
-     {
-      "phrase": "senza motivo",
-      "meaning": "for no reason",
-      "example": "Non puoi trattarmi male senza motivo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi ha espulso la Russia e come ha reagito il ministro Tajani?",
-      "type": "open"
-     },
-     {
-      "q": "Perché la Russia ha preso questa decisione, secondo il testo?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa succede spesso quando un Paese manda via un diplomatico?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, espellere i diplomatici è una risposta utile nelle crisi tra Paesi? Scrivi qualche riga con la tua opinione."
    }
   }
  ]
