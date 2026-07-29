@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-07-29T08:16:52Z",
+ "generated_at": "2026-07-29T20:17:30Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-29-stop-treni-firenze",
+   "title": "Stop dei treni a Firenze, Italia nuovamente divisa in due",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "topics": [
+    "viaggi",
+    "trasporti"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-stop-treni-firenze",
+    "revision": 1,
+    "meta": {
+     "title": "Stop dei treni a Firenze, Italia nuovamente divisa in due",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/stop-treni-firenze-varo-nuovo-ponte-al-pino-alla-presenza-di-salvini_47279b0d-6a13-4528-aa14-471ed294ea17.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "viaggi",
+      "trasporti"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Florence the trains are stopping for a few days. The works are needed to put a new bridge on the line. For this reason Italy stays split in two: it is difficult to travel from north to south by train. Many people on holiday have to change their plans. The railway has warned passengers a few days in advance.\n\nThe stop began at night and ends on the thirtieth of July, as planned in the schedule. During these days there are special trains and buses to help those who have to leave. The railway advises checking the timetable before going to the station. These works are important because they make the line more modern and safer. After the repairs, the trains between north and south will travel again as always.",
+    "resumen_es": "A Firenze i treni si fermano per alcuni giorni. I lavori servono a mettere un nuovo ponte sulla linea. Per questo motivo l'Italia resta divisa in due: è difficile viaggiare da nord a sud in treno. Molte persone in vacanza devono cambiare i loro programmi. Le ferrovie hanno avvisato i passeggeri con qualche giorno di anticipo.\n\nLo stop è iniziato di notte e finisce il trenta luglio, come previsto dal programma. Durante questi giorni ci sono treni speciali e autobus per aiutare chi deve partire. Le ferrovie consigliano di controllare l'orario prima di andare in stazione. Questi lavori sono importanti perché rendono la linea più moderna e più sicura. Dopo le riparazioni, i treni tra nord e sud torneranno a viaggiare come sempre.",
+    "vocab": [
+     {
+      "front": "il treno",
+      "pos": "noun",
+      "back": "train",
+      "example": "Prendo il treno ogni mattina.",
+      "tier": "A2"
+     },
+     {
+      "front": "fermarsi",
+      "pos": "verb",
+      "back": "to stop",
+      "example": "Il treno si ferma a Bologna.",
+      "tier": "A2"
+     },
+     {
+      "front": "i lavori",
+      "pos": "noun",
+      "back": "works, roadworks",
+      "example": "Ci sono lavori sulla strada.",
+      "tier": "A2"
+     },
+     {
+      "front": "il ponte",
+      "pos": "noun",
+      "back": "bridge",
+      "example": "Il ponte è molto vecchio.",
+      "tier": "A2"
+     },
+     {
+      "front": "la linea",
+      "pos": "noun",
+      "back": "line (railway)",
+      "example": "La linea per Roma è chiusa.",
+      "tier": "A2"
+     },
+     {
+      "front": "viaggiare",
+      "pos": "verb",
+      "back": "to travel",
+      "example": "Mi piace viaggiare in Italia.",
+      "tier": "A2"
+     },
+     {
+      "front": "il passeggero",
+      "pos": "noun",
+      "back": "passenger",
+      "example": "I passeggeri aspettano il treno.",
+      "tier": "B1"
+     },
+     {
+      "front": "avvisare",
+      "pos": "verb",
+      "back": "to warn, to notify",
+      "example": "Ti avviso quando arrivo.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'orario",
+      "pos": "noun",
+      "back": "timetable, schedule",
+      "example": "Controllo l'orario dei treni.",
+      "tier": "A2"
+     },
+     {
+      "front": "la stazione",
+      "pos": "noun",
+      "back": "station",
+      "example": "Ci vediamo alla stazione.",
+      "tier": "A2"
+     },
+     {
+      "front": "previsto",
+      "pos": "adj",
+      "back": "planned, expected",
+      "example": "Tutto va come previsto.",
+      "tier": "B1"
+     },
+     {
+      "front": "consigliare",
+      "pos": "verb",
+      "back": "to advise, to recommend",
+      "example": "Ti consiglio questo ristorante.",
+      "tier": "B1"
+     },
+     {
+      "front": "sicuro",
+      "pos": "adj",
+      "back": "safe, secure",
+      "example": "Questo treno è molto sicuro.",
+      "tier": "A2"
+     },
+     {
+      "front": "le ferrovie",
+      "pos": "noun",
+      "back": "the railways",
+      "example": "Le ferrovie italiane sono grandi.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "I lavori servono a mettere un nuovo ponte sulla linea.",
+      "point": "'servire a + infinito'",
+      "explanation": "'Servire a' indica lo scopo di qualcosa: i lavori servono 'a mettere' un ponte, cioè sono utili per farlo.",
+      "why_tricky": "Lo studente può confondere 'servire a' (scopo) con 'servire di' o dimenticare la preposizione 'a'."
+     },
+     {
+      "sentence": "Le ferrovie consigliano di controllare l'orario prima di andare in stazione.",
+      "point": "'consigliare di + infinito' e 'prima di + infinito'",
+      "explanation": "Dopo 'consigliare' si usa 'di + infinito'; anche 'prima di' regge l'infinito.",
+      "why_tricky": "È facile dire 'consigliare a controllare' o mettere un verbo coniugato dopo 'prima di'."
+     },
+     {
+      "sentence": "Questi lavori sono importanti perché rendono la linea più moderna e più sicura.",
+      "point": "Il comparativo con 'più'",
+      "explanation": "'Più moderna' e 'più sicura' formano il comparativo di maggioranza degli aggettivi.",
+      "why_tricky": "Bisogna accordare l'aggettivo (moderna, sicura) con il nome femminile 'linea'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dividere in due",
+      "meaning": "separare qualcosa in due parti",
+      "example": "Il fiume divide la città in due."
+     },
+     {
+      "phrase": "in anticipo",
+      "meaning": "prima del tempo previsto",
+      "example": "Sono arrivato in anticipo alla stazione."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché i treni si fermano a Firenze?",
+      "type": "open"
+     },
+     {
+      "q": "Fino a quando dura lo stop dei treni?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa consigliano di fare le ferrovie ai passeggeri?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Racconta un viaggio in treno che hai fatto. Dove sei andato e com'è stato?"
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-nazionale-nuovo-ct",
+   "title": "Pirlo non sarà il Ct, Maldini e Leonardo lasciano la nazionale",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "topics": [
+    "sport",
+    "calcio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-nazionale-nuovo-ct",
+    "revision": 1,
+    "meta": {
+     "title": "Pirlo non sarà il Ct, Maldini e Leonardo lasciano la nazionale",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "sport",
+      "calcio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The Italian national football team is looking for a new coach. Andrea Pirlo will not be the head coach, that is the person who leads the team. Other important managers too, like Paolo Maldini, are leaving their role in the national team. In these days people are talking a lot about this news on television and in the sports newspapers.\n\nThe president of the federation has promised that soon there will be some news. Many fans are waiting to know who will be the new leader of the blue team. The choice of the coach is very important for the future of the national team. Everyone hopes that Italy will soon go back to winning and playing well. For now, however, the name of the new head coach remains a mystery.",
+    "resumen_es": "La nazionale italiana di calcio cerca un nuovo allenatore. Andrea Pirlo non sarà il commissario tecnico, cioè la persona che guida la squadra. Anche altri dirigenti importanti, come Paolo Maldini, lasciano il loro ruolo nella nazionale. In questi giorni si parla molto di questa notizia in televisione e sui giornali sportivi.\n\nIl presidente della federazione ha promesso che presto ci saranno delle novità. Molti tifosi aspettano di sapere chi sarà la nuova guida della squadra azzurra. La scelta dell'allenatore è molto importante per il futuro della nazionale. Tutti sperano che l'Italia torni presto a vincere e a giocare bene. Per ora, però, il nome del nuovo commissario tecnico resta un mistero.",
+    "vocab": [
+     {
+      "front": "la nazionale",
+      "pos": "noun",
+      "back": "national team",
+      "example": "La nazionale gioca domani sera.",
+      "tier": "A2"
+     },
+     {
+      "front": "il calcio",
+      "pos": "noun",
+      "back": "football, soccer",
+      "example": "Il calcio è lo sport più amato in Italia.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'allenatore",
+      "pos": "noun",
+      "back": "coach, trainer",
+      "example": "L'allenatore parla con i giocatori.",
+      "tier": "A2"
+     },
+     {
+      "front": "il commissario tecnico",
+      "pos": "noun",
+      "back": "head coach (of a national team)",
+      "example": "Il commissario tecnico sceglie la squadra.",
+      "tier": "B1"
+     },
+     {
+      "front": "la squadra",
+      "pos": "noun",
+      "back": "team",
+      "example": "La mia squadra ha vinto.",
+      "tier": "A2"
+     },
+     {
+      "front": "il dirigente",
+      "pos": "noun",
+      "back": "manager, executive",
+      "example": "I dirigenti decidono il futuro del club.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ruolo",
+      "pos": "noun",
+      "back": "role",
+      "example": "Ha un ruolo importante nella squadra.",
+      "tier": "B1"
+     },
+     {
+      "front": "la notizia",
+      "pos": "noun",
+      "back": "news, piece of news",
+      "example": "Ho letto una bella notizia.",
+      "tier": "A2"
+     },
+     {
+      "front": "il tifoso",
+      "pos": "noun",
+      "back": "fan, supporter",
+      "example": "I tifosi cantano allo stadio.",
+      "tier": "B1"
+     },
+     {
+      "front": "la federazione",
+      "pos": "noun",
+      "back": "federation",
+      "example": "La federazione organizza il campionato.",
+      "tier": "B1"
+     },
+     {
+      "front": "promettere",
+      "pos": "verb",
+      "back": "to promise",
+      "example": "Ti prometto che verrò.",
+      "tier": "A2"
+     },
+     {
+      "front": "la novità",
+      "pos": "noun",
+      "back": "news, new development",
+      "example": "Ci sono novità sul progetto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la guida",
+      "pos": "noun",
+      "back": "leadership, guide",
+      "example": "Serve una guida forte per la squadra.",
+      "tier": "B1"
+     },
+     {
+      "front": "azzurro",
+      "pos": "adj",
+      "back": "blue (the Italian team colour)",
+      "example": "La maglia azzurra è famosa nel mondo.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Andrea Pirlo non sarà il commissario tecnico, cioè la persona che guida la squadra.",
+      "point": "Il futuro semplice 'sarà'",
+      "explanation": "'Sarà' è il futuro di 'essere' e parla di qualcosa che ancora non è deciso; 'che guida' è una frase relativa.",
+      "why_tricky": "Il futuro di 'essere' è irregolare (sarò, sarai, sarà) e non segue il modello normale."
+     },
+     {
+      "sentence": "Il presidente della federazione ha promesso che presto ci saranno delle novità.",
+      "point": "Passato prossimo 'ha promesso' + futuro 'ci saranno'",
+      "explanation": "'Ha promesso' è passato prossimo con 'avere'; 'ci saranno' è il futuro di 'esserci'.",
+      "why_tricky": "Lo studente confonde 'ci saranno' con il semplice 'saranno'."
+     },
+     {
+      "sentence": "Tutti sperano che l'Italia torni presto a vincere e a giocare bene.",
+      "point": "Congiuntivo dopo 'sperare che'",
+      "explanation": "Dopo 'sperare che' si usa il congiuntivo: 'torni', non 'torna'.",
+      "why_tricky": "Il congiuntivo presente di verbi come 'tornare' cambia la vocale finale e si dimentica facilmente."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "la squadra azzurra",
+      "meaning": "la nazionale italiana, che gioca con la maglia blu",
+      "example": "La squadra azzurra ha molti tifosi in tutto il mondo."
+     },
+     {
+      "phrase": "restare un mistero",
+      "meaning": "rimanere sconosciuto, senza risposta",
+      "example": "Il nome del vincitore resta un mistero."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Chi cerca un nuovo allenatore?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa ha promesso il presidente della federazione?",
+      "type": "open"
+     },
+     {
+      "q": "Perché la scelta dell'allenatore è importante?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace il calcio o preferisci un altro sport? Scrivi qualche frase sul tuo sport preferito."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-29-francia-incendi-macron",
+   "title": "Macron nei luoghi devastati dagli incendi in Francia",
+   "source": "ANSA",
+   "date": "2026-07-27",
+   "level": "A2-B1",
+   "topics": [
+    "ambiente",
+    "cronaca"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-29-francia-incendi-macron",
+    "revision": 1,
+    "meta": {
+     "title": "Macron nei luoghi devastati dagli incendi in Francia",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/27/incendi-in-francia-e-spagna-a-gironda-incendio-non-domato-e-la-ue-pensa-ad-una-flotta_57b629da-ec0b-4e38-bcf3-edd2862fc93b.html",
+     "date_published": "2026-07-27",
+     "date_processed": "2026-07-29",
+     "tags": [
+      "ambiente",
+      "cronaca"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In France big fires have burned many woods and fields. President Emmanuel Macron went to visit the areas hit by the fire. In one region the situation is under control, but in another the firefighters keep working day and night. The strong heat and the wind make the work very difficult.\n\nIn Spain too there have been similar fires in the last weeks. For this reason the European Union is thinking of creating a shared fleet of planes to put out the flames. Experts say that ever hotter summers increase the risk of fires. The authorities ask citizens to be careful and not to light fires near the woods. The hope is to protect people and nature better.",
+    "resumen_es": "In Francia grandi incendi hanno bruciato molti boschi e campi. Il presidente Emmanuel Macron è andato a visitare le zone colpite dal fuoco. In una regione la situazione è sotto controllo, ma in un'altra i pompieri continuano a lavorare giorno e notte. Il caldo forte e il vento rendono il lavoro molto difficile.\n\nAnche in Spagna ci sono stati incendi simili nelle ultime settimane. Per questo l'Unione Europea pensa di creare una flotta comune di aerei per spegnere le fiamme. Gli esperti dicono che le estati sempre più calde aumentano il rischio di incendi. Le autorità chiedono ai cittadini di stare attenti e di non accendere fuochi vicino ai boschi. La speranza è di proteggere meglio le persone e la natura.",
+    "vocab": [
+     {
+      "front": "l'incendio",
+      "pos": "noun",
+      "back": "fire, blaze",
+      "example": "L'incendio ha distrutto la casa.",
+      "tier": "B1"
+     },
+     {
+      "front": "bruciare",
+      "pos": "verb",
+      "back": "to burn",
+      "example": "Il fuoco brucia gli alberi.",
+      "tier": "A2"
+     },
+     {
+      "front": "il bosco",
+      "pos": "noun",
+      "back": "wood, forest",
+      "example": "Facciamo una passeggiata nel bosco.",
+      "tier": "A2"
+     },
+     {
+      "front": "la zona",
+      "pos": "noun",
+      "back": "area, zone",
+      "example": "Questa zona è molto tranquilla.",
+      "tier": "A2"
+     },
+     {
+      "front": "colpito",
+      "pos": "adj",
+      "back": "hit, affected",
+      "example": "Le zone colpite hanno bisogno di aiuto.",
+      "tier": "B1"
+     },
+     {
+      "front": "il fuoco",
+      "pos": "noun",
+      "back": "fire",
+      "example": "Il fuoco è molto pericoloso.",
+      "tier": "A2"
+     },
+     {
+      "front": "il pompiere",
+      "pos": "noun",
+      "back": "firefighter",
+      "example": "I pompieri spengono l'incendio.",
+      "tier": "A2"
+     },
+     {
+      "front": "il caldo",
+      "pos": "noun",
+      "back": "heat",
+      "example": "In estate fa molto caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "il vento",
+      "pos": "noun",
+      "back": "wind",
+      "example": "Oggi c'è molto vento.",
+      "tier": "A2"
+     },
+     {
+      "front": "la flotta",
+      "pos": "noun",
+      "back": "fleet",
+      "example": "La flotta di aerei è pronta.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'aereo",
+      "pos": "noun",
+      "back": "airplane",
+      "example": "L'aereo parte alle otto.",
+      "tier": "A2"
+     },
+     {
+      "front": "spegnere",
+      "pos": "verb",
+      "back": "to put out, to switch off",
+      "example": "Devo spegnere la luce.",
+      "tier": "A2"
+     },
+     {
+      "front": "le fiamme",
+      "pos": "noun",
+      "back": "flames",
+      "example": "Le fiamme sono molto alte.",
+      "tier": "B1"
+     },
+     {
+      "front": "accendere",
+      "pos": "verb",
+      "back": "to light, to switch on",
+      "example": "Non accendere il fuoco qui.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Il presidente Emmanuel Macron è andato a visitare le zone colpite dal fuoco.",
+      "point": "Passato prossimo con 'essere': 'è andato'",
+      "explanation": "Il verbo 'andare' forma il passato prossimo con 'essere' e il participio si accorda: 'è andato'. 'Andare a + infinito' indica lo scopo.",
+      "why_tricky": "Molti usano 'avere' invece di 'essere' con i verbi di movimento come 'andare'."
+     },
+     {
+      "sentence": "Per questo l'Unione Europea pensa di creare una flotta comune di aerei per spegnere le fiamme.",
+      "point": "'pensare di + infinito' e 'per + infinito'",
+      "explanation": "'Pensare di' introduce un'intenzione; 'per + infinito' esprime lo scopo (per spegnere).",
+      "why_tricky": "Si confonde 'pensare di' (intenzione) con 'pensare a' (rivolgere il pensiero a qualcosa)."
+     },
+     {
+      "sentence": "Le autorità chiedono ai cittadini di stare attenti e di non accendere fuochi vicino ai boschi.",
+      "point": "'chiedere a qualcuno di + infinito' e infinito negativo",
+      "explanation": "Si chiede 'a' una persona 'di' fare qualcosa; nell'infinito negativo il 'non' va prima del verbo: 'di non accendere'.",
+      "why_tricky": "È facile sbagliare l'ordine e dire 'di accendere non' invece di 'di non accendere'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "giorno e notte",
+      "meaning": "senza mai fermarsi, tutto il tempo",
+      "example": "I medici hanno lavorato giorno e notte."
+     },
+     {
+      "phrase": "stare attenti",
+      "meaning": "fare attenzione, essere prudenti",
+      "example": "State attenti quando attraversate la strada."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa ha visitato il presidente Macron?",
+      "type": "open"
+     },
+     {
+      "q": "Perché il lavoro dei pompieri è difficile?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa vuole creare l'Unione Europea?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Che cosa possiamo fare per proteggere i boschi dagli incendi? Scrivi le tue idee."
+   }
+  },
   {
    "pack_id": "feed-2026-07-29-chatbot-relazioni-umane",
    "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
@@ -6302,500 +6830,6 @@
      }
     ],
     "opinion_prompt": "Ti piace viaggiare all'estero? Scrivi di un viaggio che vuoi fare e perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-22-cielo-dolomiti",
-   "title": "Aurore e comete, il cielo dà spettacolo sulle Dolomiti",
-   "source": "ANSA",
-   "date": "2026-07-22",
-   "level": "A2-B1",
-   "topics": [
-    "natura",
-    "cielo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-22-cielo-dolomiti",
-    "revision": 1,
-    "meta": {
-     "title": "Aurore e comete, il cielo dà spettacolo sulle Dolomiti",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_scienza/notizie/scienza_arte/2026/07/21/aurore-e-comete-il-cielo-da-spettacolo-sulle-dolomiti-_e4c26e23-ecc8-4877-b0e0-ac04180dcf32.html",
-     "date_published": "2026-07-22",
-     "date_processed": "2026-07-22",
-     "tags": [
-      "natura",
-      "cielo"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "On the Dolomites the night sky is a beautiful spectacle. You can see the auroras, the comets and the Milky Way. The Dolomites are famous mountains in northern Italy. At night, far from the cities, the stars can be seen very well.\n\nIn Veneto there is also an exhibition of photographs about the sky. The photos show the colours and the light of the stars. Many people love to look at the night sky. It is a simple way to relax and to feel close to nature. To see the stars well, it is important to go to a place without artificial lights. The mountains are the perfect place for this. Watching the stars is a simple but unforgettable experience for adults and children alike.",
-    "resumen_es": "Sulle Dolomiti il cielo di notte è uno spettacolo bellissimo. Si possono vedere le aurore, le comete e la Via Lattea. Le Dolomiti sono famose montagne del nord Italia. Di notte, lontano dalle città, le stelle si vedono molto bene.\n\nIn Veneto c'è anche una mostra di fotografie sul cielo. Le foto mostrano i colori e la luce delle stelle. Molte persone amano guardare il cielo di notte. È un modo semplice per rilassarsi e sentirsi vicini alla natura. Per vedere bene le stelle, è importante andare in un posto senza luci artificiali. Le montagne sono il luogo perfetto per questo. Guardare le stelle è un'esperienza semplice ma indimenticabile per grandi e piccoli.",
-    "vocab": [
-     {
-      "front": "il cielo",
-      "pos": "noun",
-      "back": "the sky",
-      "example": "Il cielo oggi è azzurro.",
-      "tier": "A2"
-     },
-     {
-      "front": "la stella",
-      "pos": "noun",
-      "back": "the star",
-      "example": "Di notte vedo tante stelle.",
-      "tier": "A2"
-     },
-     {
-      "front": "lo spettacolo",
-      "pos": "noun",
-      "back": "the show, spectacle",
-      "example": "Il tramonto è uno spettacolo.",
-      "tier": "A2"
-     },
-     {
-      "front": "la montagna",
-      "pos": "noun",
-      "back": "the mountain",
-      "example": "In estate vado in montagna.",
-      "tier": "A2"
-     },
-     {
-      "front": "la cometa",
-      "pos": "noun",
-      "back": "the comet",
-      "example": "Ho visto una cometa nel cielo.",
-      "tier": "B1"
-     },
-     {
-      "front": "famoso",
-      "pos": "adj",
-      "back": "famous",
-      "example": "Roma è una città famosa.",
-      "tier": "A2"
-     },
-     {
-      "front": "lontano da",
-      "pos": "phrase",
-      "back": "far from",
-      "example": "Vivo lontano dal centro.",
-      "tier": "A2"
-     },
-     {
-      "front": "la mostra",
-      "pos": "noun",
-      "back": "the exhibition",
-      "example": "C'è una mostra di arte in centro.",
-      "tier": "B1"
-     },
-     {
-      "front": "rilassarsi",
-      "pos": "verb",
-      "back": "to relax",
-      "example": "Mi rilasso con un buon libro.",
-      "tier": "B1"
-     },
-     {
-      "front": "la natura",
-      "pos": "noun",
-      "back": "nature",
-      "example": "Amo passeggiare nella natura.",
-      "tier": "A2"
-     },
-     {
-      "front": "il luogo",
-      "pos": "noun",
-      "back": "the place",
-      "example": "Questo è il luogo perfetto per un picnic.",
-      "tier": "B1"
-     },
-     {
-      "front": "indimenticabile",
-      "pos": "adj",
-      "back": "unforgettable",
-      "example": "È stata una serata indimenticabile.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Si possono vedere le aurore, le comete e la Via Lattea.",
-      "point": "Si passivante ('si possono vedere')",
-      "explanation": "'Si possono vedere' significa 'one can see'. Il verbo va al plurale con l'oggetto plurale.",
-      "why_tricky": "'Possono' è plurale perché concorda con 'le aurore, le comete': non 'si può vedere'."
-     },
-     {
-      "sentence": "Di notte, lontano dalle città, le stelle si vedono molto bene.",
-      "point": "'Si' passivante ('si vedono')",
-      "explanation": "'Le stelle si vedono' vuol dire che le stelle si possono vedere.",
-      "why_tricky": "Il verbo concorda con 'le stelle' (plurale), quindi 'si vedono', non 'si vede'."
-     },
-     {
-      "sentence": "Per vedere bene le stelle, è importante andare in un posto senza luci artificiali.",
-      "point": "'Per' più infinito (scopo)",
-      "explanation": "'Per vedere' esprime lo scopo: perché facciamo qualcosa.",
-      "why_tricky": "Dopo 'per' con senso di scopo si usa sempre l'infinito, mai il presente."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "dare spettacolo",
-      "meaning": "to put on a show, be a sight to behold",
-      "example": "I fuochi d'artificio danno spettacolo ogni estate."
-     },
-     {
-      "phrase": "sentirsi vicino alla natura",
-      "meaning": "to feel close to nature",
-      "example": "In montagna mi sento vicino alla natura."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa si può vedere nel cielo delle Dolomiti di notte?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa mostra la mostra di fotografie in Veneto?",
-      "type": "open"
-     },
-     {
-      "q": "Perché è meglio guardare le stelle lontano dalle città?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi di un luogo naturale che ami e perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-21-odissea-nolan",
-   "title": "Arriva l'Odissea 'trionfo visivo' di Christopher Nolan",
-   "source": "ANSA",
-   "date": "2026-07-21",
-   "level": "A2-B1",
-   "topics": [
-    "cinema",
-    "cultura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-21-odissea-nolan",
-    "revision": 1,
-    "meta": {
-     "title": "Arriva l'Odissea 'trionfo visivo' di Christopher Nolan",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/15/arriva-lodissea-trionfo-visivo-di-cristopher-nolan_2e6e6180-9226-4030-b6b8-812df43420fb.html",
-     "date_published": "2026-07-15",
-     "date_processed": "2026-07-21",
-     "tags": [
-      "cinema",
-      "cultura"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "A new, much-awaited film is arriving in cinemas. The director Christopher Nolan brings the Odyssey, the famous Greek poem by Homer, to the screen. The story tells the long journey of Ulysses, a hero who tries to return home after the war. Along his path, Ulysses meets many dangers and mysterious creatures. According to the first reports, the film is a great spectacle for the eyes, full of powerful images and wonderful landscapes.\n\nThis film is important because it brings together a very ancient myth and today's cinema. Nolan is a director known all over the world for his original ideas. Many people are waiting for the film's release with great curiosity. The story of Ulysses deals with themes that are still relevant, such as courage, family and the desire to go home. For this reason, Homer's story continues to appeal to modern audiences too.",
-    "resumen_es": "Arriva al cinema un nuovo film molto atteso. Il regista Christopher Nolan porta sullo schermo l'Odissea, il famoso poema greco di Omero. La storia racconta il lungo viaggio di Ulisse, un eroe che cerca di tornare a casa dopo la guerra. Durante il suo cammino, Ulisse incontra molti pericoli e creature misteriose. Secondo le prime notizie, il film è un grande spettacolo per gli occhi, pieno di immagini forti e paesaggi meravigliosi.\n\nQuesto film è importante perché unisce un mito molto antico e il cinema di oggi. Nolan è un regista conosciuto in tutto il mondo per le sue idee originali. Molte persone aspettano l'uscita del film con grande curiosità. Il racconto di Ulisse parla di temi ancora attuali, come il coraggio, la famiglia e il desiderio di tornare a casa. Per questo motivo, la storia di Omero continua a piacere anche al pubblico moderno.",
-    "vocab": [
-     {
-      "front": "il regista",
-      "pos": "noun",
-      "back": "film director",
-      "example": "Il regista presenta il suo nuovo film.",
-      "tier": "A2"
-     },
-     {
-      "front": "lo schermo",
-      "pos": "noun",
-      "back": "screen",
-      "example": "Il film arriva sullo schermo domani.",
-      "tier": "A2"
-     },
-     {
-      "front": "il viaggio",
-      "pos": "noun",
-      "back": "journey, trip",
-      "example": "Il viaggio di Ulisse è molto lungo.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'eroe",
-      "pos": "noun",
-      "back": "hero",
-      "example": "Ulisse è un eroe famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "tornare",
-      "pos": "verb",
-      "back": "to return, to go back",
-      "example": "Ulisse vuole tornare a casa.",
-      "tier": "A2"
-     },
-     {
-      "front": "il cammino",
-      "pos": "noun",
-      "back": "path, journey",
-      "example": "Durante il cammino trova molti pericoli.",
-      "tier": "B1"
-     },
-     {
-      "front": "il pericolo",
-      "pos": "noun",
-      "back": "danger",
-      "example": "L'eroe affronta molti pericoli.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo spettacolo",
-      "pos": "noun",
-      "back": "show, spectacle",
-      "example": "Il film è un grande spettacolo.",
-      "tier": "A2"
-     },
-     {
-      "front": "atteso",
-      "pos": "adj",
-      "back": "awaited, expected",
-      "example": "È un film molto atteso.",
-      "tier": "B1"
-     },
-     {
-      "front": "unire",
-      "pos": "verb",
-      "back": "to join, to bring together",
-      "example": "Il film unisce mito e cinema moderno.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'uscita",
-      "pos": "noun",
-      "back": "release, exit",
-      "example": "Aspettiamo l'uscita del film.",
-      "tier": "B1"
-     },
-     {
-      "front": "il coraggio",
-      "pos": "noun",
-      "back": "courage",
-      "example": "La storia parla di coraggio.",
-      "tier": "A2"
-     },
-     {
-      "front": "attuale",
-      "pos": "adj",
-      "back": "current, relevant today",
-      "example": "Sono temi ancora attuali.",
-      "tier": "B1"
-     },
-     {
-      "front": "il pubblico",
-      "pos": "noun",
-      "back": "audience, public",
-      "example": "Il pubblico ama questa storia.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La storia racconta il lungo viaggio di Ulisse, un eroe che cerca di tornare a casa dopo la guerra.",
-      "point": "'cercare di + infinito'",
-      "explanation": "The verb 'cercare' followed by 'di' plus an infinitive means 'to try to do something'.",
-      "why_tricky": "Learners often drop the preposition 'di' before the infinitive."
-     },
-     {
-      "sentence": "Molte persone aspettano l'uscita del film con grande curiosità.",
-      "point": "'aspettare' verbo transitivo",
-      "explanation": "Unlike English 'to wait FOR', Italian 'aspettare' takes a direct object with no preposition.",
-      "why_tricky": "English speakers add 'per' by mistake and say 'aspettare per'."
-     },
-     {
-      "sentence": "Per questo motivo, la storia di Omero continua a piacere anche al pubblico moderno.",
-      "point": "'continuare a + infinito' e il verbo 'piacere'",
-      "explanation": "'Continuare a' + infinitive means 'to keep doing'; with 'piacere' the thing liked is the subject and the person is introduced by 'a' ('al pubblico').",
-      "why_tricky": "'Piacere' works backwards compared to English 'to like', so the subject and object seem inverted."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "per questo motivo",
-      "meaning": "for this reason, that is why",
-      "example": "Piove; per questo motivo restiamo a casa."
-     },
-     {
-      "phrase": "in tutto il mondo",
-      "meaning": "all over the world",
-      "example": "Questo regista è famoso in tutto il mondo."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Chi è il regista del nuovo film e quale storia racconta?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa cerca di fare Ulisse durante il suo viaggio?",
-      "type": "open"
-     },
-     {
-      "q": "Perché, secondo il testo, la storia di Omero piace ancora oggi?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ti piacciono i film basati su storie antiche o miti? Scrivi un breve paragrafo e spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-21-katy-perry-lucca",
-   "title": "Katy Perry al Lucca Summer Festival: in 18mila per l'unica data italiana del tour 2026",
-   "source": "RaiNews",
-   "date": "2026-07-21",
-   "level": "A2-B1",
-   "topics": [
-    "musica",
-    "cultura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-21-katy-perry-lucca",
-    "revision": 1,
-    "meta": {
-     "title": "Katy Perry al Lucca Summer Festival: in 18mila per l'unica data italiana del tour 2026",
-     "source": "RaiNews",
-     "url": "https://www.rainews.it/articoli/2026/07/katy-perry-al-lucca-summer-festival-in-18mila-per-l-unica-data-italiana-del-tour-2026--1f7ca3f9-4b1d-451a-9a71-bdcc6badeb3a.html",
-     "date_published": "2026-07-21",
-     "date_processed": "2026-07-21",
-     "tags": [
-      "musica",
-      "cultura"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Katy Perry sang at the Lucca Summer Festival in front of 18 thousand people. It was the only Italian date of her 2026 tour. Fans arrived from all over Italy and waited for hours under the sun, in very strong heat. The American singer performed her most famous songs and some new tracks.\n\nThe Lucca Summer Festival is one of the most important music events of the Italian summer. Every year it brings great international artists under the walls of the Tuscan city. Katy Perry's concert confirms the success of the festival, which attracts tourists and helps the local economy. The organizers are already thinking about next year's programme, with other famous names in world music.",
-    "resumen_es": "Katy Perry ha cantato al Lucca Summer Festival davanti a 18 mila persone. Era l'unica data italiana del suo tour del 2026. I fan sono arrivati da tutta Italia e hanno aspettato per ore sotto il sole, con un caldo molto forte. La cantante americana ha presentato le sue canzoni più famose e alcuni brani nuovi.\n\nIl Lucca Summer Festival è uno degli eventi musicali più importanti dell'estate italiana. Ogni anno porta grandi artisti internazionali sotto le mura della città toscana. Il concerto di Katy Perry conferma il successo del festival, che attira turisti e aiuta l'economia locale. Gli organizzatori pensano già al programma del prossimo anno, con altri nomi famosi della musica mondiale.",
-    "vocab": [
-     {
-      "front": "la data",
-      "pos": "noun",
-      "back": "date (also concert date)",
-      "example": "Il cantante ha una sola data in Italia.",
-      "tier": "B1"
-     },
-     {
-      "front": "il brano",
-      "pos": "noun",
-      "back": "track, song, piece",
-      "example": "Il suo nuovo brano è molto bello.",
-      "tier": "B1"
-     },
-     {
-      "front": "aspettare",
-      "pos": "verb",
-      "back": "to wait",
-      "example": "Abbiamo aspettato due ore per entrare.",
-      "tier": "B1"
-     },
-     {
-      "front": "il caldo",
-      "pos": "noun",
-      "back": "heat",
-      "example": "Oggi fa un caldo terribile.",
-      "tier": "B1"
-     },
-     {
-      "front": "le mura",
-      "pos": "noun",
-      "back": "city walls",
-      "example": "Lucca è famosa per le sue mura antiche.",
-      "tier": "B1"
-     },
-     {
-      "front": "attirare",
-      "pos": "verb",
-      "back": "to attract",
-      "example": "Il festival attira molti turisti stranieri.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'economia locale",
-      "pos": "noun",
-      "back": "local economy",
-      "example": "Il turismo aiuta l'economia locale.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'organizzatore",
-      "pos": "noun",
-      "back": "organizer",
-      "example": "Gli organizzatori sono molto contenti.",
-      "tier": "B1"
-     },
-     {
-      "front": "il successo",
-      "pos": "noun",
-      "back": "success",
-      "example": "Il concerto è stato un grande successo.",
-      "tier": "B1"
-     },
-     {
-      "front": "presentare",
-      "pos": "verb",
-      "back": "to present, to perform",
-      "example": "L'artista ha presentato le nuove canzoni.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'evento",
-      "pos": "noun",
-      "back": "event",
-      "example": "È l'evento più importante dell'estate.",
-      "tier": "B1"
-     },
-     {
-      "front": "mondiale",
-      "pos": "adj",
-      "back": "world, worldwide",
-      "example": "È una star della musica mondiale.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "I fan sono arrivati da tutta Italia e hanno aspettato per ore sotto il sole, con un caldo molto forte.",
-      "point": "passato prossimo: essere vs avere",
-      "explanation": "Arrivare takes essere (sono arrivati, agreeing with i fan), while aspettare takes avere (hanno aspettato, no agreement).",
-      "why_tricky": "Choosing the right auxiliary is one of the hardest points for learners; movement verbs like arrivare take essere."
-     },
-     {
-      "sentence": "Gli organizzatori pensano già al programma del prossimo anno, con altri nomi famosi della musica mondiale.",
-      "point": "pensare a + noun",
-      "explanation": "Pensare requires the preposition a before what you think about: pensare al programma (a + il = al).",
-      "why_tricky": "English says think about, so learners often wrongly use di or no preposition at all."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "sotto il sole",
-      "meaning": "under the sun, in the heat",
-      "example": "Abbiamo camminato per ore sotto il sole."
-     },
-     {
-      "phrase": "fare il tutto esaurito",
-      "meaning": "to sell out (an event)",
-      "example": "Il concerto ha fatto il tutto esaurito in un giorno."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Quante persone hanno visto il concerto di Katy Perry a Lucca?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questo concerto era speciale per i fan italiani?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa porta ogni anno il Lucca Summer Festival alla città?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ti piacerebbe andare a un grande concerto all'aperto in estate? Racconta perché in circa 80 parole."
    }
   }
  ]
