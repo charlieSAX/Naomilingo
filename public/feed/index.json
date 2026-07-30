@@ -1,7 +1,529 @@
 {
-  "generated_at": "2026-07-30T08:13:18Z",
+  "generated_at": "2026-07-30T20:15:19Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-07-30-auto-sfratto",
+      "title": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
+      "source": "ANSA",
+      "date": "2026-07-30",
+      "level": "A2-B1",
+      "topics": [
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-auto-sfratto",
+        "revision": 1,
+        "meta": {
+          "title": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/vive-in-auto-dopo-lo-sfratto-cerca-casa-per-riavere-i-figli_e1b455b4-0f58-46aa-bfe9-3e03e40b69e3.html",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Cristina is an Italian woman who lives inside her car. She lost her home after an eviction and now she does not know where to go. Her story is sad, but also full of hope. Cristina does not give up and keeps looking for a place to live. Every day she asks the social services of her town for help. Her biggest dream is simple: to find a house and go back to living with her children.\n\nRight now the children cannot stay with her, because she does not have a safe home. For this reason Cristina wants to change her situation as soon as possible. Many people in Italy live a similar problem, because rents are high and wages often are not enough. Cristina's story reminds us that having a home is an important right. With a little help, this mother hopes to return soon to a normal life.",
+        "resumen_es": "Cristina e una donna italiana che vive dentro la sua auto. Ha perso la casa dopo uno sfratto e adesso non sa dove andare. La sua storia e triste, ma anche piena di speranza. Cristina non si arrende e continua a cercare un posto dove abitare. Ogni giorno chiede aiuto ai servizi sociali del suo comune. Il suo sogno piu grande e semplice: trovare una casa e tornare a vivere con i suoi figli.\n\nIn questo momento i bambini non possono stare con lei, perche non ha una casa sicura. Per questo Cristina vuole cambiare la sua situazione il piu presto possibile. Molte persone in Italia vivono un problema simile, perche gli affitti sono alti e gli stipendi spesso non bastano. La storia di Cristina ci ricorda che avere una casa e un diritto importante. Con un po' di aiuto, questa mamma spera di tornare presto a una vita normale.",
+        "vocab": [
+          {
+            "front": "l'auto",
+            "pos": "noun",
+            "back": "car",
+            "example": "La mia auto e vecchia.",
+            "tier": "B1"
+          },
+          {
+            "front": "perdere",
+            "pos": "verb",
+            "back": "to lose",
+            "example": "Ho paura di perdere il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "sfratto",
+            "pos": "noun",
+            "back": "eviction",
+            "example": "Hanno ricevuto lo sfratto.",
+            "tier": "B1"
+          },
+          {
+            "front": "casa",
+            "pos": "noun",
+            "back": "house, home",
+            "example": "Cerco una casa in centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "speranza",
+            "pos": "noun",
+            "back": "hope",
+            "example": "Non perdere mai la speranza.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrendersi",
+            "pos": "verb",
+            "back": "to give up",
+            "example": "Non mi arrendo mai.",
+            "tier": "B1"
+          },
+          {
+            "front": "abitare",
+            "pos": "verb",
+            "back": "to live (somewhere)",
+            "example": "Abito a Roma da due anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "aiuto",
+            "pos": "noun",
+            "back": "help",
+            "example": "Ho bisogno di aiuto.",
+            "tier": "B1"
+          },
+          {
+            "front": "sogno",
+            "pos": "noun",
+            "back": "dream",
+            "example": "Il mio sogno e viaggiare.",
+            "tier": "B1"
+          },
+          {
+            "front": "affitto",
+            "pos": "noun",
+            "back": "rent",
+            "example": "L'affitto e troppo caro.",
+            "tier": "B1"
+          },
+          {
+            "front": "stipendio",
+            "pos": "noun",
+            "back": "salary, wage",
+            "example": "Lo stipendio non basta mai.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "I soldi non bastano.",
+            "tier": "B1"
+          },
+          {
+            "front": "diritto",
+            "pos": "noun",
+            "back": "right",
+            "example": "La salute e un diritto.",
+            "tier": "B1"
+          },
+          {
+            "front": "tornare",
+            "pos": "verb",
+            "back": "to return",
+            "example": "Voglio tornare a casa.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Ha perso la casa dopo uno sfratto e adesso non sa dove andare.",
+            "point": "Passato prossimo con avere",
+            "explanation": "'Ha perso' e un passato prossimo: 'avere' + participio passato di 'perdere'. Si usa per azioni concluse.",
+            "why_tricky": "Il participio di 'perdere' e irregolare ('perso', non 'perduto' nell'uso comune) e va imparato a memoria."
+          },
+          {
+            "sentence": "Cristina non si arrende e continua a cercare un posto dove abitare.",
+            "point": "Verbo riflessivo + continuare a",
+            "explanation": "'Si arrende' e riflessivo (arrendersi). 'Continua a cercare' usa la struttura 'continuare a + infinito'.",
+            "why_tricky": "La preposizione 'a' dopo 'continuare' e obbligatoria e spesso viene dimenticata."
+          },
+          {
+            "sentence": "Molte persone in Italia vivono un problema simile, perche gli affitti sono alti e gli stipendi spesso non bastano.",
+            "point": "Articolo determinativo plurale (gli)",
+            "explanation": "'Gli' si usa davanti a nomi maschili plurali che iniziano per vocale o per s+consonante: gli affitti, gli stipendi.",
+            "why_tricky": "Molti studenti usano 'i' al posto di 'gli' davanti a 's impura' o vocale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "il piu presto possibile",
+            "meaning": "as soon as possible",
+            "example": "Chiamami il piu presto possibile."
+          },
+          {
+            "phrase": "un po' di",
+            "meaning": "a little (bit of)",
+            "example": "Vorrei un po' di pane."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perche Cristina vive nella sua auto?",
+            "type": "open"
+          },
+          {
+            "q": "Qual e il sogno piu grande di Cristina?",
+            "type": "open"
+          },
+          {
+            "q": "Perche molte persone in Italia hanno un problema simile?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, come puo la societa aiutare le persone che non hanno una casa? Scrivi qualche frase con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-30-ondata-calore-meteo",
+      "title": "Ancora instabilita, poi arriva la nuova ondata di calore",
+      "source": "ANSA",
+      "date": "2026-07-30",
+      "level": "A2-B1",
+      "topics": [
+        "meteo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-ondata-calore-meteo",
+        "revision": 1,
+        "meta": {
+          "title": "Ancora instabilita, poi arriva la nuova ondata di calore",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/ancora-instabilita-poi-la-nuova-ondata-di-calore_35a517bf-d1eb-4cbb-bc7a-f9af8bac3817.html",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "meteo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the weather is changing a lot these days. First a bit of instability arrives, with rain and storms in some regions. Then the sun becomes the star again and temperatures rise once more. Weather experts say that a new heat wave will arrive soon. From the middle of the week, temperatures can reach thirty-six or thirty-eight degrees in the centre and the north of the country. It is really very hot and many people are looking for a way to stay cool.\n\nWith this heat it is important to be careful about health. Doctors advise drinking a lot of water and not going out during the hottest hours of the day. Elderly people and children are the most fragile people and need more protection. Animals also suffer when the temperature is high. Luckily, this heat wave does not last forever: after a few days the weather changes and the air becomes lighter.",
+        "resumen_es": "In Italia il tempo cambia molto in questi giorni. Prima arriva un po' di instabilita, con pioggia e temporali in alcune regioni. Poi il sole torna protagonista e le temperature salgono di nuovo. Gli esperti del meteo dicono che una nuova ondata di calore arrivera presto. Da meta settimana le temperature possono raggiungere trentasei o trentotto gradi al Centro e al Nord del Paese. Fa davvero molto caldo e molte persone cercano un modo per stare al fresco.\n\nCon questo caldo e importante fare attenzione alla salute. I medici consigliano di bere molta acqua e di non uscire nelle ore piu calde del giorno. Gli anziani e i bambini sono le persone piu fragili e hanno bisogno di piu protezione. Anche gli animali soffrono quando la temperatura e alta. Per fortuna, questa ondata di calore non dura per sempre: dopo qualche giorno il tempo cambia e l'aria diventa piu leggera.",
+        "vocab": [
+          {
+            "front": "il tempo",
+            "pos": "noun",
+            "back": "weather",
+            "example": "Che tempo fa oggi?",
+            "tier": "B1"
+          },
+          {
+            "front": "instabilita",
+            "pos": "noun",
+            "back": "instability (weather)",
+            "example": "C'e instabilita al Nord.",
+            "tier": "B1"
+          },
+          {
+            "front": "pioggia",
+            "pos": "noun",
+            "back": "rain",
+            "example": "Domani arriva la pioggia.",
+            "tier": "B1"
+          },
+          {
+            "front": "temporale",
+            "pos": "noun",
+            "back": "thunderstorm",
+            "example": "Un forte temporale ha colpito la citta.",
+            "tier": "B1"
+          },
+          {
+            "front": "temperatura",
+            "pos": "noun",
+            "back": "temperature",
+            "example": "La temperatura e molto alta.",
+            "tier": "B1"
+          },
+          {
+            "front": "ondata di calore",
+            "pos": "phrase",
+            "back": "heat wave",
+            "example": "L'ondata di calore dura tre giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "grado",
+            "pos": "noun",
+            "back": "degree",
+            "example": "Ci sono trentacinque gradi.",
+            "tier": "B1"
+          },
+          {
+            "front": "caldo",
+            "pos": "noun",
+            "back": "heat, hot",
+            "example": "Oggi fa molto caldo.",
+            "tier": "B1"
+          },
+          {
+            "front": "stare al fresco",
+            "pos": "phrase",
+            "back": "to stay cool",
+            "example": "In estate cerco di stare al fresco.",
+            "tier": "B1"
+          },
+          {
+            "front": "salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "La salute viene prima di tutto.",
+            "tier": "B1"
+          },
+          {
+            "front": "consigliare",
+            "pos": "verb",
+            "back": "to advise, recommend",
+            "example": "Ti consiglio di riposare.",
+            "tier": "B1"
+          },
+          {
+            "front": "anziano",
+            "pos": "noun",
+            "back": "elderly person",
+            "example": "Gli anziani devono bere di piu.",
+            "tier": "B1"
+          },
+          {
+            "front": "fragile",
+            "pos": "adj",
+            "back": "fragile, vulnerable",
+            "example": "I bambini sono piu fragili.",
+            "tier": "B1"
+          },
+          {
+            "front": "soffrire",
+            "pos": "verb",
+            "back": "to suffer",
+            "example": "Gli animali soffrono il caldo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli esperti del meteo dicono che una nuova ondata di calore arrivera presto.",
+            "point": "Futuro semplice (arrivera)",
+            "explanation": "'Arrivera' e il futuro semplice di 'arrivare', usato per parlare di eventi che devono ancora accadere.",
+            "why_tricky": "Le desinenze del futuro (-ero, -erai, -era) cambiano la vocale del tema e vanno memorizzate."
+          },
+          {
+            "sentence": "I medici consigliano di bere molta acqua e di non uscire nelle ore piu calde del giorno.",
+            "point": "consigliare di + infinito",
+            "explanation": "Dopo 'consigliare' si usa 'di' + infinito. La negazione 'non' si mette davanti all'infinito: 'di non uscire'.",
+            "why_tricky": "Ricordare la 'di' e la posizione di 'non' prima dell'infinito e una difficolta tipica."
+          },
+          {
+            "sentence": "Gli anziani e i bambini sono le persone piu fragili e hanno bisogno di piu protezione.",
+            "point": "Superlativo relativo con piu",
+            "explanation": "'Le persone piu fragili' e un superlativo relativo: articolo + nome + 'piu' + aggettivo. 'Avere bisogno di' regge un nome.",
+            "why_tricky": "Serve l'articolo davanti al gruppo ('le persone piu fragili') per esprimere il superlativo relativo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare attenzione",
+            "meaning": "to be careful, pay attention",
+            "example": "Fai attenzione quando esci."
+          },
+          {
+            "phrase": "per fortuna",
+            "meaning": "luckily, fortunately",
+            "example": "Per fortuna non e successo niente."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa dicono gli esperti del meteo per i prossimi giorni?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa consigliano i medici quando fa molto caldo?",
+            "type": "open"
+          },
+          {
+            "q": "Perche gli anziani e i bambini hanno bisogno di piu protezione?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace l'estate o preferisci le stagioni piu fresche? Spiega perche con qualche frase."
+      }
+    },
+    {
+      "pack_id": "feed-2026-07-30-incendio-gargano",
+      "title": "Incendio spento sul Gargano, danni all'economia stimati in 10 milioni",
+      "source": "ANSA",
+      "date": "2026-07-30",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-07-30-incendio-gargano",
+        "revision": 1,
+        "meta": {
+          "title": "Incendio spento sul Gargano, danni all'economia stimati in 10 milioni",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/nove-persone-sono-state-tratte-in-salvo-dallincendio-sul-gargano_83c38818-e7d6-433b-8106-dffc331c649f.html",
+          "date_published": "2026-07-30",
+          "date_processed": "2026-07-30",
+          "tags": [
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "On the Gargano, a very beautiful area of Puglia, a large fire has finally been put out. The fire burned about one hundred and fifty hectares of land and destroyed trees and plants. For many hours the firefighters and the special planes, called canadair, worked without stopping. Nine people were rescued and taken to a safe place. Now only a few small areas with smoke remain, but the situation is under control and there is no more danger for people.\n\nThe fire caused a lot of damage to the local economy. Experts talk about a loss of around ten million euros, above all for tourism. Many tourists had left out of fear, but now they are returning to their homes and to the hotels in the area. Summer is an important period for the Gargano, because many visitors arrive. The authorities ask people to be careful, because with the heat a new fire can start very easily.",
+        "resumen_es": "Sul Gargano, una zona molto bella della Puglia, un grande incendio e finalmente spento. Il fuoco ha bruciato circa centocinquanta ettari di terra e ha distrutto alberi e piante. Per molte ore i vigili del fuoco e gli aerei speciali, chiamati canadair, hanno lavorato senza fermarsi. Nove persone sono state salvate e portate in un luogo sicuro. Adesso restano solo alcune piccole zone con del fumo, ma la situazione e sotto controllo e non c'e piu pericolo per la gente.\n\nL'incendio ha causato molti danni all'economia locale. Gli esperti parlano di una perdita di circa dieci milioni di euro, soprattutto per il turismo. Molti turisti erano partiti per paura, ma adesso stanno tornando nelle loro case e negli alberghi della zona. L'estate e un periodo importante per il Gargano, perche arrivano molti visitatori. Le autorita chiedono di fare attenzione, perche con il caldo un nuovo incendio puo nascere facilmente.",
+        "vocab": [
+          {
+            "front": "incendio",
+            "pos": "noun",
+            "back": "fire, blaze",
+            "example": "L'incendio e durato tre giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "spento",
+            "pos": "adj",
+            "back": "put out, off",
+            "example": "Il fuoco e finalmente spento.",
+            "tier": "B1"
+          },
+          {
+            "front": "fuoco",
+            "pos": "noun",
+            "back": "fire",
+            "example": "Il fuoco e molto pericoloso.",
+            "tier": "B1"
+          },
+          {
+            "front": "bruciare",
+            "pos": "verb",
+            "back": "to burn",
+            "example": "Il sole puo bruciare la pelle.",
+            "tier": "B1"
+          },
+          {
+            "front": "ettaro",
+            "pos": "noun",
+            "back": "hectare",
+            "example": "Il parco misura mille ettari.",
+            "tier": "B1"
+          },
+          {
+            "front": "vigili del fuoco",
+            "pos": "phrase",
+            "back": "firefighters",
+            "example": "I vigili del fuoco sono arrivati subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "salvare",
+            "pos": "verb",
+            "back": "to save, rescue",
+            "example": "Hanno salvato tutti gli abitanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "luogo sicuro",
+            "pos": "phrase",
+            "back": "safe place",
+            "example": "I bambini sono in un luogo sicuro.",
+            "tier": "B1"
+          },
+          {
+            "front": "pericolo",
+            "pos": "noun",
+            "back": "danger",
+            "example": "Non c'e piu pericolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "danno",
+            "pos": "noun",
+            "back": "damage",
+            "example": "Il temporale ha causato molti danni.",
+            "tier": "B1"
+          },
+          {
+            "front": "perdita",
+            "pos": "noun",
+            "back": "loss",
+            "example": "E stata una grande perdita per l'azienda.",
+            "tier": "B1"
+          },
+          {
+            "front": "turismo",
+            "pos": "noun",
+            "back": "tourism",
+            "example": "Il turismo e importante per la citta.",
+            "tier": "B1"
+          },
+          {
+            "front": "albergo",
+            "pos": "noun",
+            "back": "hotel",
+            "example": "Abbiamo prenotato un albergo al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "autorita",
+            "pos": "noun",
+            "back": "authorities",
+            "example": "Le autorita hanno chiuso la strada.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nove persone sono state salvate e portate in un luogo sicuro.",
+            "point": "Passivo al passato (sono state salvate)",
+            "explanation": "Il passivo con 'essere' al passato prossimo: 'sono state salvate'. Il participio concorda: femminile plurale (salvate, portate).",
+            "why_tricky": "Ci sono due participi in fila ('state' e 'salvate') e tutti devono concordare con 'persone'."
+          },
+          {
+            "sentence": "Molti turisti erano partiti per paura, ma adesso stanno tornando nelle loro case e negli alberghi della zona.",
+            "point": "Trapassato prossimo e stare + gerundio",
+            "explanation": "'Erano partiti' (trapassato) indica un'azione anteriore; 'stanno tornando' (stare + gerundio) descrive un'azione in corso ora.",
+            "why_tricky": "'Partire' vuole l'ausiliare 'essere', quindi il participio concorda: 'partiti' (maschile plurale)."
+          },
+          {
+            "sentence": "Le autorita chiedono di fare attenzione, perche con il caldo un nuovo incendio puo nascere facilmente.",
+            "point": "chiedere di + infinito",
+            "explanation": "Dopo 'chiedere' si usa 'di' + infinito quando si domanda a qualcuno di fare qualcosa.",
+            "why_tricky": "La preposizione 'di' e obbligatoria e spesso viene omessa dagli studenti."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sotto controllo",
+            "meaning": "under control",
+            "example": "La situazione e sotto controllo."
+          },
+          {
+            "phrase": "senza fermarsi",
+            "meaning": "without stopping, non-stop",
+            "example": "Hanno lavorato senza fermarsi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno fatto i vigili del fuoco e i canadair?",
+            "type": "open"
+          },
+          {
+            "q": "Quanti danni ha causato l'incendio all'economia locale?",
+            "type": "open"
+          },
+          {
+            "q": "Perche l'estate e un periodo importante per il Gargano?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa possiamo fare per proteggere la natura dagli incendi? Scrivi qualche idea con le tue parole."
+      }
+    },
     {
       "pack_id": "feed-2026-07-30-fedez-concerto",
       "title": "Fedez: 'Devo fermarmi, niente concerto al Forum di Assago'",
@@ -6295,527 +6817,6 @@
           }
         ],
         "opinion_prompt": "Pensi che i robot possano rendere lo sport più interessante? Scrivi qualche frase con la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-23-malpensa-emergenza",
-      "title": "Paura in volo: comandante si sente male, atterraggio d'emergenza a Malpensa",
-      "source": "Rai News",
-      "date": "2026-07-23",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "viaggi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-23-malpensa-emergenza",
-        "revision": 1,
-        "meta": {
-          "title": "Paura in volo: comandante si sente male, atterraggio d'emergenza a Malpensa",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/07/paura-in-volo-comandante-si-sente-male-atterraggio-demergenza-a-malpensa-c5220202-afdf-4f1b-95b8-ee55b1353373.html",
-          "date_published": "2026-07-23",
-          "date_processed": "2026-07-23",
-          "tags": [
-            "cronaca",
-            "viaggi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A plane made an emergency landing at Malpensa airport, near Milan. During the flight, the captain suddenly felt ill. Luckily, the second pilot took control of the plane. In this way he was able to land safely. There were many passengers on board, but no one got hurt.\n\nThe plane, a Boeing 737, had departed from Palma de Mallorca, in Spain. Its destination was Warsaw, in Poland. After the captain's problem, the pilots decided to change course. They chose Malpensa because it was the nearest safe airport. On arrival, doctors immediately helped the captain. This episode reminds us how important it is to have two pilots on every plane.",
-        "resumen_es": "Un aereo ha fatto un atterraggio d'emergenza all'aeroporto di Malpensa, vicino a Milano. Durante il volo, il comandante si è sentito male all'improvviso. Per fortuna, il secondo pilota ha preso il controllo dell'aereo. Così ha potuto atterrare in modo sicuro. A bordo c'erano molti passeggeri, ma nessuno si è fatto male.\n\nL'aereo, un Boeing 737, era partito da Palma di Maiorca, in Spagna. La sua destinazione era Varsavia, in Polonia. Dopo il problema del comandante, i piloti hanno deciso di cambiare rotta. Hanno scelto Malpensa perché era l'aeroporto sicuro più vicino. All'arrivo, i medici hanno aiutato subito il comandante. Questo episodio ci ricorda quanto è importante avere due piloti su ogni aereo.",
-        "vocab": [
-          {
-            "front": "l'aereo",
-            "pos": "noun",
-            "back": "plane",
-            "example": "L'aereo parte tra un'ora.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'atterraggio",
-            "pos": "noun",
-            "back": "landing",
-            "example": "L'atterraggio è stato molto tranquillo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il volo",
-            "pos": "noun",
-            "back": "flight",
-            "example": "Il volo per Roma è in ritardo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il comandante",
-            "pos": "noun",
-            "back": "captain",
-            "example": "Il comandante saluta i passeggeri.",
-            "tier": "B1"
-          },
-          {
-            "front": "sentirsi male",
-            "pos": "phrase",
-            "back": "to feel ill",
-            "example": "Mi sento male, devo sedermi.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'improvviso",
-            "pos": "adv",
-            "back": "suddenly",
-            "example": "All'improvviso ha iniziato a piovere.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pilota",
-            "pos": "noun",
-            "back": "pilot",
-            "example": "Il pilota ha molta esperienza.",
-            "tier": "A2"
-          },
-          {
-            "front": "atterrare",
-            "pos": "verb",
-            "back": "to land",
-            "example": "L'aereo atterra alle nove.",
-            "tier": "B1"
-          },
-          {
-            "front": "a bordo",
-            "pos": "phrase",
-            "back": "on board",
-            "example": "A bordo c'è anche un medico.",
-            "tier": "B1"
-          },
-          {
-            "front": "il passeggero",
-            "pos": "noun",
-            "back": "passenger",
-            "example": "Ogni passeggero ha un posto.",
-            "tier": "A2"
-          },
-          {
-            "front": "farsi male",
-            "pos": "phrase",
-            "back": "to get hurt",
-            "example": "È caduto ma non si è fatto male.",
-            "tier": "B1"
-          },
-          {
-            "front": "la destinazione",
-            "pos": "noun",
-            "back": "destination",
-            "example": "Qual è la tua destinazione?",
-            "tier": "B1"
-          },
-          {
-            "front": "cambiare rotta",
-            "pos": "phrase",
-            "back": "to change course",
-            "example": "La nave ha dovuto cambiare rotta.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Durante il volo, il comandante si è sentito male all'improvviso.",
-            "point": "Passato prossimo dei verbi riflessivi",
-            "explanation": "'Si è sentito' usa l'ausiliare 'essere'. Con 'essere', il participio 'sentito' concorda con il soggetto maschile singolare.",
-            "why_tricky": "I verbi riflessivi vogliono sempre 'essere', non 'avere', e il participio deve accordarsi con il soggetto."
-          },
-          {
-            "sentence": "L'aereo, un Boeing 737, era partito da Palma di Maiorca, in Spagna.",
-            "point": "Trapassato prossimo",
-            "explanation": "'Era partito' è il trapassato prossimo: descrive un'azione avvenuta prima di un'altra azione passata.",
-            "why_tricky": "Si forma con l'imperfetto di 'essere' o 'avere' più il participio; qui 'partire' vuole 'essere' e l'accordo ('partito')."
-          },
-          {
-            "sentence": "Hanno scelto Malpensa perché era l'aeroporto sicuro più vicino.",
-            "point": "Superlativo relativo",
-            "explanation": "'Il più vicino' è il superlativo relativo: indica il primo tra un gruppo. Si forma con 'il/la più' più l'aggettivo.",
-            "why_tricky": "L'articolo resta davanti al nome e 'più' va prima dell'aggettivo; è diverso dal comparativo semplice."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per fortuna",
-            "meaning": "luckily, fortunately",
-            "example": "Per fortuna non è successo niente di grave."
-          },
-          {
-            "phrase": "sano e salvo",
-            "meaning": "safe and sound",
-            "example": "Sono arrivati tutti sani e salvi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché l'aereo ha fatto un atterraggio d'emergenza?",
-            "type": "open"
-          },
-          {
-            "q": "Chi ha preso il controllo dell'aereo e cosa è successo ai passeggeri?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i piloti hanno scelto proprio l'aeroporto di Malpensa?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, viaggiare in aereo è sicuro? Scrivi qualche frase e spiega la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-louvre-riapertura",
-      "title": "Louvre, la Galerie d'Apollon riapre al pubblico dopo il furto dell'ottobre 2025",
-      "source": "ANSA",
-      "date": "2026-07-22",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "arte"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-louvre-riapertura",
-        "revision": 1,
-        "meta": {
-          "title": "Louvre, la Galerie d'Apollon riapre al pubblico dopo il furto dell'ottobre 2025",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/07/22/louvre-la-galerie-dapollon-riapre-al-pubblico-dopo-il-furto-dellottobre-2025_5a8cdf87-671e-4e68-ab0e-2abe27a29ea4.html",
-          "date_published": "2026-07-22",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "cultura",
-            "arte"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "At the Louvre museum in Paris, the Galerie d'Apollon is opening its doors to visitors again. The room had stayed closed after a theft that happened in October 2025. Now people can once more go in and admire this space, which is famous all over the world. It is one of the most beautiful and richest rooms in the museum.\n\nThere are, however, some differences compared to before. For security reasons, the room can be visited without the display cases and without the jewels. Visitors can look at the ceilings, the decorations and the paintings, but not the precious objects. In this way the museum wants to protect its heritage and avoid new problems. Many tourists are happy anyway to be able to return to this historic room. The reopening is good news for the city of Paris and for art.",
-        "resumen_es": "Al museo del Louvre, a Parigi, la Galerie d'Apollon torna ad aprire le sue porte ai visitatori. La sala era rimasta chiusa dopo un furto avvenuto nell'ottobre del 2025. Ora le persone possono di nuovo entrare e ammirare questo spazio famoso in tutto il mondo. Si tratta di una delle sale più belle e ricche del museo.\n\nCi sono però alcune differenze rispetto a prima. Per motivi di sicurezza, la sala è visitabile senza le vetrine e senza i gioielli. I visitatori possono guardare i soffitti, le decorazioni e i dipinti, ma non gli oggetti preziosi. Il museo vuole così proteggere il suo patrimonio ed evitare nuovi problemi. Molti turisti sono comunque felici di poter tornare in questa sala storica. La riapertura è una buona notizia per la città di Parigi e per l'arte.",
-        "vocab": [
-          {
-            "front": "museo",
-            "pos": "noun",
-            "back": "museum",
-            "example": "Domenica andiamo al museo.",
-            "tier": "A2"
-          },
-          {
-            "front": "furto",
-            "pos": "noun",
-            "back": "theft",
-            "example": "La polizia indaga sul furto.",
-            "tier": "B1"
-          },
-          {
-            "front": "riaprire",
-            "pos": "verb",
-            "back": "to reopen",
-            "example": "Il negozio riapre a settembre.",
-            "tier": "A2"
-          },
-          {
-            "front": "sala",
-            "pos": "noun",
-            "back": "room, hall",
-            "example": "La sala è molto grande e luminosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori entrano dalla porta principale.",
-            "tier": "B1"
-          },
-          {
-            "front": "vetrina",
-            "pos": "noun",
-            "back": "display case, shop window",
-            "example": "I gioielli erano dentro una vetrina.",
-            "tier": "B1"
-          },
-          {
-            "front": "gioiello",
-            "pos": "noun",
-            "back": "jewel",
-            "example": "Quel gioiello è molto antico.",
-            "tier": "B1"
-          },
-          {
-            "front": "sicurezza",
-            "pos": "noun",
-            "back": "safety, security",
-            "example": "La sicurezza dei visitatori è importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "soffitto",
-            "pos": "noun",
-            "back": "ceiling",
-            "example": "Il soffitto è decorato con dipinti.",
-            "tier": "B1"
-          },
-          {
-            "front": "dipinto",
-            "pos": "noun",
-            "back": "painting",
-            "example": "Sul muro c'è un dipinto famoso.",
-            "tier": "B1"
-          },
-          {
-            "front": "prezioso",
-            "pos": "adj",
-            "back": "precious",
-            "example": "È un oggetto molto prezioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "patrimonio",
-            "pos": "noun",
-            "back": "heritage",
-            "example": "Il museo protegge il suo patrimonio.",
-            "tier": "B1"
-          },
-          {
-            "front": "comunque",
-            "pos": "adv",
-            "back": "anyway, however",
-            "example": "È tardi, ma vengo comunque.",
-            "tier": "A2"
-          },
-          {
-            "front": "riapertura",
-            "pos": "noun",
-            "back": "reopening",
-            "example": "La riapertura è prevista per lunedì.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La sala era rimasta chiusa dopo un furto avvenuto nell'ottobre del 2025.",
-            "point": "Trapassato prossimo",
-            "explanation": "'Era rimasta' e' il trapassato prossimo (essere all'imperfetto + participio). Indica un'azione avvenuta prima di un altro momento del passato.",
-            "why_tricky": "'Rimanere' usa l'ausiliare 'essere', quindi il participio 'rimasta' concorda con il soggetto femminile 'la sala'."
-          },
-          {
-            "sentence": "Per motivi di sicurezza, la sala è visitabile senza le vetrine e senza i gioielli.",
-            "point": "Aggettivi in -abile e preposizione 'senza'",
-            "explanation": "'Visitabile' significa 'che si puo' visitare'. 'Senza' introduce cio' che manca ed e' seguito dal nome con l'articolo.",
-            "why_tricky": "In molte lingue 'senza' regge una forma diversa; in italiano qui va con l'articolo: 'senza le vetrine'."
-          },
-          {
-            "sentence": "Molti turisti sono comunque felici di poter tornare in questa sala storica.",
-            "point": "Aggettivo + 'di' + infinito",
-            "explanation": "Dopo un aggettivo come 'felice' si usa 'di' + infinito ('felici di poter tornare'). 'Poter' e' il modale 'potere' prima di un altro infinito.",
-            "why_tricky": "'Poter' perde la '-e' finale davanti all'infinito 'tornare' (troncamento)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "aprire le porte",
-            "meaning": "accogliere il pubblico, permettere di entrare",
-            "example": "Il nuovo teatro apre le porte al pubblico stasera."
-          },
-          {
-            "phrase": "per motivi di sicurezza",
-            "meaning": "per ragioni legate alla protezione delle persone o delle cose",
-            "example": "La strada e' chiusa per motivi di sicurezza."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perche' la Galerie d'Apollon era rimasta chiusa?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa non possono vedere oggi i visitatori nella sala?",
-            "type": "open"
-          },
-          {
-            "q": "Perche' il museo ha deciso di togliere i gioielli e le vetrine?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace visitare i musei? Scrivi qualche frase su un museo che hai visto o che vorresti vedere."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-22-vacanza-cane-montagna",
-      "title": "Meglio in montagna che al mare, i consigli per una vacanza a misura di cane",
-      "source": "ANSA",
-      "date": "2026-07-21",
-      "level": "A2-B1",
-      "topics": [
-        "stili di vita",
-        "animali"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-22-vacanza-cane-montagna",
-        "revision": 1,
-        "meta": {
-          "title": "Meglio in montagna che al mare, i consigli per una vacanza a misura di cane",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/07/21/meglio-in-montagna-che-al-mare-i-consigli-per-una-vacanza-a-misura-di-cane_9814492c-0f74-4865-9476-4a8665f4a7ae.html",
-          "date_published": "2026-07-21",
-          "date_processed": "2026-07-22",
-          "tags": [
-            "stili di vita",
-            "animali"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Summer is the holiday season, but where should we go when we have a dog? According to some experts, the mountains are often a better choice than the sea. In the mountains the weather is cooler and there are many paths to walk on. The strong heat of the beach, on the other hand, can be dangerous for animals. That is why it is important to think about the dog's wellbeing too.\n\nThe experts give some useful tips. Before leaving, it is better not to improvise, especially for car trips. You must bring water, food and the things the animal needs. It is helpful to take frequent breaks and never leave the dog in the car under the sun. The choice of hotel or house also matters, because not everyone accepts animals. With a little care, the holiday can be nice and quiet for the whole family.",
-        "resumen_es": "L'estate e' il periodo delle vacanze, ma dove andare quando abbiamo un cane? Secondo alcuni esperti, la montagna e' spesso una scelta migliore del mare. In montagna il clima e' piu' fresco e ci sono molti sentieri dove passeggiare. Il caldo forte della spiaggia, invece, puo' essere pericoloso per gli animali. Per questo e' importante pensare anche al benessere del cane.\n\nGli esperti danno alcuni consigli utili. Prima di partire, e' meglio non improvvisare, soprattutto per i viaggi in auto. Bisogna portare acqua, cibo e le cose necessarie per l'animale. E' utile fare pause frequenti e non lasciare mai il cane in macchina sotto il sole. Anche la scelta dell'albergo o della casa e' importante, perche' non tutti accettano gli animali. Con un po' di attenzione, la vacanza puo' essere bella e tranquilla per tutta la famiglia.",
-        "vocab": [
-          {
-            "front": "vacanza",
-            "pos": "noun",
-            "back": "holiday, vacation",
-            "example": "Ad agosto vado in vacanza.",
-            "tier": "A2"
-          },
-          {
-            "front": "montagna",
-            "pos": "noun",
-            "back": "mountain",
-            "example": "In estate preferisco la montagna.",
-            "tier": "A2"
-          },
-          {
-            "front": "mare",
-            "pos": "noun",
-            "back": "sea",
-            "example": "Il mare oggi e' calmo.",
-            "tier": "A2"
-          },
-          {
-            "front": "cane",
-            "pos": "noun",
-            "back": "dog",
-            "example": "Il mio cane ama correre.",
-            "tier": "A2"
-          },
-          {
-            "front": "sentiero",
-            "pos": "noun",
-            "back": "path, trail",
-            "example": "Camminiamo su un bel sentiero.",
-            "tier": "B1"
-          },
-          {
-            "front": "fresco",
-            "pos": "adj",
-            "back": "cool, fresh",
-            "example": "La sera l'aria e' piu' fresca.",
-            "tier": "A2"
-          },
-          {
-            "front": "caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "Oggi c'e' troppo caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Il sole forte e' pericoloso.",
-            "tier": "B1"
-          },
-          {
-            "front": "benessere",
-            "pos": "noun",
-            "back": "wellbeing",
-            "example": "Pensa al benessere del suo cane.",
-            "tier": "B1"
-          },
-          {
-            "front": "consiglio",
-            "pos": "noun",
-            "back": "advice, tip",
-            "example": "Ti do un consiglio utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "improvvisare",
-            "pos": "verb",
-            "back": "to improvise",
-            "example": "Meglio non improvvisare il viaggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "pausa",
-            "pos": "noun",
-            "back": "break, pause",
-            "example": "Facciamo una pausa di dieci minuti.",
-            "tier": "A2"
-          },
-          {
-            "front": "albergo",
-            "pos": "noun",
-            "back": "hotel",
-            "example": "Abbiamo prenotato un albergo piccolo.",
-            "tier": "A2"
-          },
-          {
-            "front": "a misura di",
-            "pos": "phrase",
-            "back": "tailored to, suited to",
-            "example": "Una vacanza a misura di bambino.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo alcuni esperti, la montagna e' spesso una scelta migliore del mare.",
-            "point": "Comparativo di maggioranza con 'migliore'",
-            "explanation": "'Migliore' e' il comparativo di 'buono'. Per confrontare due nomi si usa 'di' ('migliore del mare' = del + il mare).",
-            "why_tricky": "Si dice 'migliore' e non 'piu' buono' in questo caso; e 'di + il' diventa 'del'."
-          },
-          {
-            "sentence": "Prima di partire, e' meglio non improvvisare, soprattutto per i viaggi in auto.",
-            "point": "'Prima di' + infinito ed espressione 'e' meglio'",
-            "explanation": "'Prima di' e' sempre seguito dall'infinito ('partire'). 'E' meglio' + infinito da' un consiglio.",
-            "why_tricky": "La negazione va davanti all'infinito: 'e' meglio non improvvisare'."
-          },
-          {
-            "sentence": "E' utile fare pause frequenti e non lasciare mai il cane in macchina sotto il sole.",
-            "point": "'E' utile' + infinito e negazione 'non... mai'",
-            "explanation": "Dopo 'e' utile' si usa l'infinito. 'Non... mai' e' una doppia negazione normale in italiano per dire 'never'.",
-            "why_tricky": "In italiano servono due parole ('non' e 'mai'); togliere 'non' sarebbe un errore."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a misura di cane",
-            "meaning": "pensato apposta per le esigenze del cane",
-            "example": "Hanno organizzato una vacanza a misura di cane."
-          },
-          {
-            "phrase": "fare una pausa",
-            "meaning": "fermarsi per riposare un momento",
-            "example": "Dopo due ore di viaggio facciamo una pausa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perche' la montagna puo' essere meglio del mare per un cane?",
-            "type": "open"
-          },
-          {
-            "q": "Quali cose bisogna portare quando si viaggia con un animale?",
-            "type": "open"
-          },
-          {
-            "q": "Perche' la scelta dell'albergo e' importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci la montagna o il mare per le vacanze? Spiega perche' con qualche frase semplice."
       }
     }
   ]
