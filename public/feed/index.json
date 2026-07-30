@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:15:19Z",
+  "generated_at": "2026-07-30T20:22:02Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
     {
@@ -13,7 +13,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-auto-sfratto",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
           "source": "ANSA",
@@ -26,13 +26,13 @@
           "level": "A2-B1"
         },
         "summary_en": "Cristina is an Italian woman who lives inside her car. She lost her home after an eviction and now she does not know where to go. Her story is sad, but also full of hope. Cristina does not give up and keeps looking for a place to live. Every day she asks the social services of her town for help. Her biggest dream is simple: to find a house and go back to living with her children.\n\nRight now the children cannot stay with her, because she does not have a safe home. For this reason Cristina wants to change her situation as soon as possible. Many people in Italy live a similar problem, because rents are high and wages often are not enough. Cristina's story reminds us that having a home is an important right. With a little help, this mother hopes to return soon to a normal life.",
-        "resumen_es": "Cristina e una donna italiana che vive dentro la sua auto. Ha perso la casa dopo uno sfratto e adesso non sa dove andare. La sua storia e triste, ma anche piena di speranza. Cristina non si arrende e continua a cercare un posto dove abitare. Ogni giorno chiede aiuto ai servizi sociali del suo comune. Il suo sogno piu grande e semplice: trovare una casa e tornare a vivere con i suoi figli.\n\nIn questo momento i bambini non possono stare con lei, perche non ha una casa sicura. Per questo Cristina vuole cambiare la sua situazione il piu presto possibile. Molte persone in Italia vivono un problema simile, perche gli affitti sono alti e gli stipendi spesso non bastano. La storia di Cristina ci ricorda che avere una casa e un diritto importante. Con un po' di aiuto, questa mamma spera di tornare presto a una vita normale.",
+        "resumen_es": "Cristina è una donna italiana che vive dentro la sua auto. Ha perso la casa dopo uno sfratto e adesso non sa dove andare. La sua storia è triste, ma anche piena di speranza. Cristina non si arrende e continua a cercare un posto dove abitare. Ogni giorno chiede aiuto ai servizi sociali del suo comune. Il suo sogno più grande è semplice: trovare una casa e tornare a vivere con i suoi figli.\n\nIn questo momento i bambini non possono stare con lei, perché non ha una casa sicura. Per questo Cristina vuole cambiare la sua situazione il più presto possibile. Molte persone in Italia vivono un problema simile, perché gli affitti sono alti e gli stipendi spesso non bastano. La storia di Cristina ci ricorda che avere una casa è un diritto importante. Con un po' di aiuto, questa mamma spera di tornare presto a una vita normale.",
         "vocab": [
           {
             "front": "l'auto",
             "pos": "noun",
             "back": "car",
-            "example": "La mia auto e vecchia.",
+            "example": "La mia auto è vecchia.",
             "tier": "B1"
           },
           {
@@ -88,14 +88,14 @@
             "front": "sogno",
             "pos": "noun",
             "back": "dream",
-            "example": "Il mio sogno e viaggiare.",
+            "example": "Il mio sogno è viaggiare.",
             "tier": "B1"
           },
           {
             "front": "affitto",
             "pos": "noun",
             "back": "rent",
-            "example": "L'affitto e troppo caro.",
+            "example": "L'affitto è troppo caro.",
             "tier": "B1"
           },
           {
@@ -116,7 +116,7 @@
             "front": "diritto",
             "pos": "noun",
             "back": "right",
-            "example": "La salute e un diritto.",
+            "example": "La salute è un diritto.",
             "tier": "B1"
           },
           {
@@ -131,17 +131,17 @@
           {
             "sentence": "Ha perso la casa dopo uno sfratto e adesso non sa dove andare.",
             "point": "Passato prossimo con avere",
-            "explanation": "'Ha perso' e un passato prossimo: 'avere' + participio passato di 'perdere'. Si usa per azioni concluse.",
-            "why_tricky": "Il participio di 'perdere' e irregolare ('perso', non 'perduto' nell'uso comune) e va imparato a memoria."
+            "explanation": "'Ha perso' è un passato prossimo: 'avere' + participio passato di 'perdere'. Si usa per azioni concluse.",
+            "why_tricky": "Il participio di 'perdere' è irregolare ('perso', non 'perduto' nell'uso comune) e va imparato a memoria."
           },
           {
             "sentence": "Cristina non si arrende e continua a cercare un posto dove abitare.",
             "point": "Verbo riflessivo + continuare a",
-            "explanation": "'Si arrende' e riflessivo (arrendersi). 'Continua a cercare' usa la struttura 'continuare a + infinito'.",
-            "why_tricky": "La preposizione 'a' dopo 'continuare' e obbligatoria e spesso viene dimenticata."
+            "explanation": "'Si arrende' è riflessivo (arrendersi). 'Continua a cercare' usa la struttura 'continuare a + infinito'.",
+            "why_tricky": "La preposizione 'a' dopo 'continuare' è obbligatoria e spesso viene dimenticata."
           },
           {
-            "sentence": "Molte persone in Italia vivono un problema simile, perche gli affitti sono alti e gli stipendi spesso non bastano.",
+            "sentence": "Molte persone in Italia vivono un problema simile, perché gli affitti sono alti e gli stipendi spesso non bastano.",
             "point": "Articolo determinativo plurale (gli)",
             "explanation": "'Gli' si usa davanti a nomi maschili plurali che iniziano per vocale o per s+consonante: gli affitti, gli stipendi.",
             "why_tricky": "Molti studenti usano 'i' al posto di 'gli' davanti a 's impura' o vocale."
@@ -149,9 +149,9 @@
         ],
         "idioms": [
           {
-            "phrase": "il piu presto possibile",
+            "phrase": "il più presto possibile",
             "meaning": "as soon as possible",
-            "example": "Chiamami il piu presto possibile."
+            "example": "Chiamami il più presto possibile."
           },
           {
             "phrase": "un po' di",
@@ -161,24 +161,24 @@
         ],
         "comprehension": [
           {
-            "q": "Perche Cristina vive nella sua auto?",
+            "q": "Perché Cristina vive nella sua auto?",
             "type": "open"
           },
           {
-            "q": "Qual e il sogno piu grande di Cristina?",
+            "q": "Qual è il sogno più grande di Cristina?",
             "type": "open"
           },
           {
-            "q": "Perche molte persone in Italia hanno un problema simile?",
+            "q": "Perché molte persone in Italia hanno un problema simile?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Secondo te, come puo la societa aiutare le persone che non hanno una casa? Scrivi qualche frase con la tua opinione."
+        "opinion_prompt": "Secondo te, come può la società aiutare le persone che non hanno una casa? Scrivi qualche frase con la tua opinione."
       }
     },
     {
       "pack_id": "feed-2026-07-30-ondata-calore-meteo",
-      "title": "Ancora instabilita, poi arriva la nuova ondata di calore",
+      "title": "Ancora instabilità, poi arriva la nuova ondata di calore",
       "source": "ANSA",
       "date": "2026-07-30",
       "level": "A2-B1",
@@ -187,9 +187,9 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-ondata-calore-meteo",
-        "revision": 1,
+        "revision": 2,
         "meta": {
-          "title": "Ancora instabilita, poi arriva la nuova ondata di calore",
+          "title": "Ancora instabilità, poi arriva la nuova ondata di calore",
           "source": "ANSA",
           "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/ancora-instabilita-poi-la-nuova-ondata-di-calore_35a517bf-d1eb-4cbb-bc7a-f9af8bac3817.html",
           "date_published": "2026-07-30",
@@ -200,7 +200,7 @@
           "level": "A2-B1"
         },
         "summary_en": "In Italy the weather is changing a lot these days. First a bit of instability arrives, with rain and storms in some regions. Then the sun becomes the star again and temperatures rise once more. Weather experts say that a new heat wave will arrive soon. From the middle of the week, temperatures can reach thirty-six or thirty-eight degrees in the centre and the north of the country. It is really very hot and many people are looking for a way to stay cool.\n\nWith this heat it is important to be careful about health. Doctors advise drinking a lot of water and not going out during the hottest hours of the day. Elderly people and children are the most fragile people and need more protection. Animals also suffer when the temperature is high. Luckily, this heat wave does not last forever: after a few days the weather changes and the air becomes lighter.",
-        "resumen_es": "In Italia il tempo cambia molto in questi giorni. Prima arriva un po' di instabilita, con pioggia e temporali in alcune regioni. Poi il sole torna protagonista e le temperature salgono di nuovo. Gli esperti del meteo dicono che una nuova ondata di calore arrivera presto. Da meta settimana le temperature possono raggiungere trentasei o trentotto gradi al Centro e al Nord del Paese. Fa davvero molto caldo e molte persone cercano un modo per stare al fresco.\n\nCon questo caldo e importante fare attenzione alla salute. I medici consigliano di bere molta acqua e di non uscire nelle ore piu calde del giorno. Gli anziani e i bambini sono le persone piu fragili e hanno bisogno di piu protezione. Anche gli animali soffrono quando la temperatura e alta. Per fortuna, questa ondata di calore non dura per sempre: dopo qualche giorno il tempo cambia e l'aria diventa piu leggera.",
+        "resumen_es": "In Italia il tempo cambia molto in questi giorni. Prima arriva un po' di instabilità, con pioggia e temporali in alcune regioni. Poi il sole torna protagonista e le temperature salgono di nuovo. Gli esperti del meteo dicono che una nuova ondata di calore arriverà presto. Da metà settimana le temperature possono raggiungere trentasei o trentotto gradi al Centro e al Nord del Paese. Fa davvero molto caldo e molte persone cercano un modo per stare al fresco.\n\nCon questo caldo è importante fare attenzione alla salute. I medici consigliano di bere molta acqua e di non uscire nelle ore più calde del giorno. Gli anziani e i bambini sono le persone più fragili e hanno bisogno di più protezione. Anche gli animali soffrono quando la temperatura è alta. Per fortuna, questa ondata di calore non dura per sempre: dopo qualche giorno il tempo cambia e l'aria diventa più leggera.",
         "vocab": [
           {
             "front": "il tempo",
@@ -210,10 +210,10 @@
             "tier": "B1"
           },
           {
-            "front": "instabilita",
+            "front": "instabilità",
             "pos": "noun",
             "back": "instability (weather)",
-            "example": "C'e instabilita al Nord.",
+            "example": "C'è instabilità al Nord.",
             "tier": "B1"
           },
           {
@@ -227,14 +227,14 @@
             "front": "temporale",
             "pos": "noun",
             "back": "thunderstorm",
-            "example": "Un forte temporale ha colpito la citta.",
+            "example": "Un forte temporale ha colpito la città.",
             "tier": "B1"
           },
           {
             "front": "temperatura",
             "pos": "noun",
             "back": "temperature",
-            "example": "La temperatura e molto alta.",
+            "example": "La temperatura è molto alta.",
             "tier": "B1"
           },
           {
@@ -283,14 +283,14 @@
             "front": "anziano",
             "pos": "noun",
             "back": "elderly person",
-            "example": "Gli anziani devono bere di piu.",
+            "example": "Gli anziani devono bere di più.",
             "tier": "B1"
           },
           {
             "front": "fragile",
             "pos": "adj",
             "back": "fragile, vulnerable",
-            "example": "I bambini sono piu fragili.",
+            "example": "I bambini sono più fragili.",
             "tier": "B1"
           },
           {
@@ -303,22 +303,22 @@
         ],
         "grammar": [
           {
-            "sentence": "Gli esperti del meteo dicono che una nuova ondata di calore arrivera presto.",
-            "point": "Futuro semplice (arrivera)",
-            "explanation": "'Arrivera' e il futuro semplice di 'arrivare', usato per parlare di eventi che devono ancora accadere.",
-            "why_tricky": "Le desinenze del futuro (-ero, -erai, -era) cambiano la vocale del tema e vanno memorizzate."
+            "sentence": "Gli esperti del meteo dicono che una nuova ondata di calore arriverà presto.",
+            "point": "Futuro semplice (arriverà)",
+            "explanation": "'Arriverà' è il futuro semplice di 'arrivare', usato per parlare di eventi che devono ancora accadere.",
+            "why_tricky": "Le desinenze del futuro (-erò, -erai, -erà) cambiano la vocale del tema e vanno memorizzate."
           },
           {
-            "sentence": "I medici consigliano di bere molta acqua e di non uscire nelle ore piu calde del giorno.",
+            "sentence": "I medici consigliano di bere molta acqua e di non uscire nelle ore più calde del giorno.",
             "point": "consigliare di + infinito",
             "explanation": "Dopo 'consigliare' si usa 'di' + infinito. La negazione 'non' si mette davanti all'infinito: 'di non uscire'.",
-            "why_tricky": "Ricordare la 'di' e la posizione di 'non' prima dell'infinito e una difficolta tipica."
+            "why_tricky": "Ricordare la 'di' e la posizione di 'non' prima dell'infinito è una difficoltà tipica."
           },
           {
-            "sentence": "Gli anziani e i bambini sono le persone piu fragili e hanno bisogno di piu protezione.",
-            "point": "Superlativo relativo con piu",
-            "explanation": "'Le persone piu fragili' e un superlativo relativo: articolo + nome + 'piu' + aggettivo. 'Avere bisogno di' regge un nome.",
-            "why_tricky": "Serve l'articolo davanti al gruppo ('le persone piu fragili') per esprimere il superlativo relativo."
+            "sentence": "Gli anziani e i bambini sono le persone più fragili e hanno bisogno di più protezione.",
+            "point": "Superlativo relativo con più",
+            "explanation": "'Le persone più fragili' è un superlativo relativo: articolo + nome + 'più' + aggettivo. 'Avere bisogno di' regge un nome.",
+            "why_tricky": "Serve l'articolo davanti al gruppo ('le persone più fragili') per esprimere il superlativo relativo."
           }
         ],
         "idioms": [
@@ -330,7 +330,7 @@
           {
             "phrase": "per fortuna",
             "meaning": "luckily, fortunately",
-            "example": "Per fortuna non e successo niente."
+            "example": "Per fortuna non è successo niente."
           }
         ],
         "comprehension": [
@@ -343,11 +343,11 @@
             "type": "open"
           },
           {
-            "q": "Perche gli anziani e i bambini hanno bisogno di piu protezione?",
+            "q": "Perché gli anziani e i bambini hanno bisogno di più protezione?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Ti piace l'estate o preferisci le stagioni piu fresche? Spiega perche con qualche frase."
+        "opinion_prompt": "Ti piace l'estate o preferisci le stagioni più fresche? Spiega perché con qualche frase."
       }
     },
     {
@@ -361,7 +361,7 @@
       ],
       "pack": {
         "pack_id": "feed-2026-07-30-incendio-gargano",
-        "revision": 1,
+        "revision": 2,
         "meta": {
           "title": "Incendio spento sul Gargano, danni all'economia stimati in 10 milioni",
           "source": "ANSA",
@@ -374,34 +374,34 @@
           "level": "A2-B1"
         },
         "summary_en": "On the Gargano, a very beautiful area of Puglia, a large fire has finally been put out. The fire burned about one hundred and fifty hectares of land and destroyed trees and plants. For many hours the firefighters and the special planes, called canadair, worked without stopping. Nine people were rescued and taken to a safe place. Now only a few small areas with smoke remain, but the situation is under control and there is no more danger for people.\n\nThe fire caused a lot of damage to the local economy. Experts talk about a loss of around ten million euros, above all for tourism. Many tourists had left out of fear, but now they are returning to their homes and to the hotels in the area. Summer is an important period for the Gargano, because many visitors arrive. The authorities ask people to be careful, because with the heat a new fire can start very easily.",
-        "resumen_es": "Sul Gargano, una zona molto bella della Puglia, un grande incendio e finalmente spento. Il fuoco ha bruciato circa centocinquanta ettari di terra e ha distrutto alberi e piante. Per molte ore i vigili del fuoco e gli aerei speciali, chiamati canadair, hanno lavorato senza fermarsi. Nove persone sono state salvate e portate in un luogo sicuro. Adesso restano solo alcune piccole zone con del fumo, ma la situazione e sotto controllo e non c'e piu pericolo per la gente.\n\nL'incendio ha causato molti danni all'economia locale. Gli esperti parlano di una perdita di circa dieci milioni di euro, soprattutto per il turismo. Molti turisti erano partiti per paura, ma adesso stanno tornando nelle loro case e negli alberghi della zona. L'estate e un periodo importante per il Gargano, perche arrivano molti visitatori. Le autorita chiedono di fare attenzione, perche con il caldo un nuovo incendio puo nascere facilmente.",
+        "resumen_es": "Sul Gargano, una zona molto bella della Puglia, un grande incendio è finalmente spento. Il fuoco ha bruciato circa centocinquanta ettari di terra e ha distrutto alberi e piante. Per molte ore i vigili del fuoco e gli aerei speciali, chiamati canadair, hanno lavorato senza fermarsi. Nove persone sono state salvate e portate in un luogo sicuro. Adesso restano solo alcune piccole zone con del fumo, ma la situazione è sotto controllo e non c'è più pericolo per la gente.\n\nL'incendio ha causato molti danni all'economia locale. Gli esperti parlano di una perdita di circa dieci milioni di euro, soprattutto per il turismo. Molti turisti erano partiti per paura, ma adesso stanno tornando nelle loro case e negli alberghi della zona. L'estate è un periodo importante per il Gargano, perché arrivano molti visitatori. Le autorità chiedono di fare attenzione, perché con il caldo un nuovo incendio può nascere facilmente.",
         "vocab": [
           {
             "front": "incendio",
             "pos": "noun",
             "back": "fire, blaze",
-            "example": "L'incendio e durato tre giorni.",
+            "example": "L'incendio è durato tre giorni.",
             "tier": "B1"
           },
           {
             "front": "spento",
             "pos": "adj",
             "back": "put out, off",
-            "example": "Il fuoco e finalmente spento.",
+            "example": "Il fuoco è finalmente spento.",
             "tier": "B1"
           },
           {
             "front": "fuoco",
             "pos": "noun",
             "back": "fire",
-            "example": "Il fuoco e molto pericoloso.",
+            "example": "Il fuoco è molto pericoloso.",
             "tier": "B1"
           },
           {
             "front": "bruciare",
             "pos": "verb",
             "back": "to burn",
-            "example": "Il sole puo bruciare la pelle.",
+            "example": "Il sole può bruciare la pelle.",
             "tier": "B1"
           },
           {
@@ -436,7 +436,7 @@
             "front": "pericolo",
             "pos": "noun",
             "back": "danger",
-            "example": "Non c'e piu pericolo.",
+            "example": "Non c'è più pericolo.",
             "tier": "B1"
           },
           {
@@ -450,14 +450,14 @@
             "front": "perdita",
             "pos": "noun",
             "back": "loss",
-            "example": "E stata una grande perdita per l'azienda.",
+            "example": "È stata una grande perdita per l'azienda.",
             "tier": "B1"
           },
           {
             "front": "turismo",
             "pos": "noun",
             "back": "tourism",
-            "example": "Il turismo e importante per la citta.",
+            "example": "Il turismo è importante per la città.",
             "tier": "B1"
           },
           {
@@ -468,10 +468,10 @@
             "tier": "B1"
           },
           {
-            "front": "autorita",
+            "front": "autorità",
             "pos": "noun",
             "back": "authorities",
-            "example": "Le autorita hanno chiuso la strada.",
+            "example": "Le autorità hanno chiuso la strada.",
             "tier": "B1"
           }
         ],
@@ -489,17 +489,17 @@
             "why_tricky": "'Partire' vuole l'ausiliare 'essere', quindi il participio concorda: 'partiti' (maschile plurale)."
           },
           {
-            "sentence": "Le autorita chiedono di fare attenzione, perche con il caldo un nuovo incendio puo nascere facilmente.",
+            "sentence": "Le autorità chiedono di fare attenzione, perché con il caldo un nuovo incendio può nascere facilmente.",
             "point": "chiedere di + infinito",
             "explanation": "Dopo 'chiedere' si usa 'di' + infinito quando si domanda a qualcuno di fare qualcosa.",
-            "why_tricky": "La preposizione 'di' e obbligatoria e spesso viene omessa dagli studenti."
+            "why_tricky": "La preposizione 'di' è obbligatoria e spesso viene omessa dagli studenti."
           }
         ],
         "idioms": [
           {
             "phrase": "sotto controllo",
             "meaning": "under control",
-            "example": "La situazione e sotto controllo."
+            "example": "La situazione è sotto controllo."
           },
           {
             "phrase": "senza fermarsi",
@@ -517,7 +517,7 @@
             "type": "open"
           },
           {
-            "q": "Perche l'estate e un periodo importante per il Gargano?",
+            "q": "Perché l'estate è un periodo importante per il Gargano?",
             "type": "open"
           }
         ],
