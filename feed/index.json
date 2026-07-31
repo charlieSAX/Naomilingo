@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-07-31T08:13:14Z",
+ "generated_at": "2026-07-31T20:10:24Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-07-31-etna-robot-luna",
+   "title": "Sull'Etna le prove del robot italiano destinato alla Luna",
+   "source": "ANSA",
+   "date": "2026-07-31",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "spazio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-31-etna-robot-luna",
+    "revision": 1,
+    "meta": {
+     "title": "Sull'Etna le prove del robot italiano destinato alla Luna",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/31/sulletna-le-prove-del-robot-italiano-destinato-alla-luna_0eb142d1-dc11-4dbb-8f63-5070f6168ecd.html",
+     "date_published": "2026-07-31",
+     "date_processed": "2026-07-31",
+     "tags": [
+      "scienza",
+      "spazio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "An Italian robot is being tested on Mount Etna, the great volcano in Sicily. Scientists chose this place because the ground looks a lot like the surface of the Moon. There are rocks, ash and few plants, so the robot can practise in conditions similar to those in space. In this way, the experts can see if the machine works well before the real journey.\n\nThe goal is to prepare the robot for a future mission on the Moon. On Etna the technicians study how it moves, how it avoids obstacles and how it collects small samples of soil. If everything goes well, this technology could help humans explore our satellite. It is an important project for Italy and shows that Italian research plays a role in the new space adventure.",
+    "resumen_es": "Un robot italiano viene provato sull'Etna, il grande vulcano della Sicilia. Gli scienziati hanno scelto questo luogo perché il terreno assomiglia molto alla superficie della Luna. Ci sono rocce, cenere e poche piante, così il robot può fare pratica in condizioni simili a quelle dello spazio. In questo modo, gli esperti possono vedere se la macchina funziona bene prima del vero viaggio.\n\nL'obiettivo è preparare il robot per una futura missione sulla Luna. Sull'Etna i tecnici studiano come si muove, come evita gli ostacoli e come raccoglie piccoli campioni di terreno. Se tutto va bene, questa tecnologia potrà aiutare gli esseri umani a esplorare il nostro satellite. È un progetto importante per l'Italia e dimostra che la ricerca italiana ha un ruolo nella nuova avventura dello spazio.",
+    "vocab": [
+     {
+      "front": "provare",
+      "pos": "verb",
+      "back": "to test, to try",
+      "example": "Gli ingegneri provano il motore ogni giorno.",
+      "tier": "A2"
+     },
+     {
+      "front": "il vulcano",
+      "pos": "noun",
+      "back": "the volcano",
+      "example": "L'Etna è un vulcano molto famoso.",
+      "tier": "A2"
+     },
+     {
+      "front": "il terreno",
+      "pos": "noun",
+      "back": "the ground, terrain",
+      "example": "Il terreno qui è duro e pieno di pietre.",
+      "tier": "A2"
+     },
+     {
+      "front": "assomigliare a",
+      "pos": "verb",
+      "back": "to look like, to resemble",
+      "example": "Questo posto assomiglia al deserto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la superficie",
+      "pos": "noun",
+      "back": "the surface",
+      "example": "La superficie della Luna è grigia.",
+      "tier": "B1"
+     },
+     {
+      "front": "fare pratica",
+      "pos": "phrase",
+      "back": "to practise",
+      "example": "Voglio fare pratica con l'italiano.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'obiettivo",
+      "pos": "noun",
+      "back": "the goal, aim",
+      "example": "Il nostro obiettivo è finire in tempo.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'ostacolo",
+      "pos": "noun",
+      "back": "the obstacle",
+      "example": "Il robot evita ogni ostacolo.",
+      "tier": "B1"
+     },
+     {
+      "front": "raccogliere",
+      "pos": "verb",
+      "back": "to collect, to gather",
+      "example": "I bambini raccolgono le foglie nel parco.",
+      "tier": "B1"
+     },
+     {
+      "front": "il campione",
+      "pos": "noun",
+      "back": "the sample",
+      "example": "Hanno preso un campione di acqua.",
+      "tier": "B1"
+     },
+     {
+      "front": "esplorare",
+      "pos": "verb",
+      "back": "to explore",
+      "example": "Vogliamo esplorare nuovi posti.",
+      "tier": "A2"
+     },
+     {
+      "front": "la ricerca",
+      "pos": "noun",
+      "back": "the research",
+      "example": "La ricerca scientifica costa molto.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Un robot italiano viene provato sull'Etna, il grande vulcano della Sicilia.",
+      "point": "passive with 'venire' + past participle",
+      "explanation": "Italian often forms the passive with 'venire': 'viene provato' means 'is tested'. The participle agrees with the subject (robot, masculine singular).",
+      "why_tricky": "Beginners know only 'essere' passives; 'venire' passives are very common and mean the same in the present."
+     },
+     {
+      "sentence": "Gli scienziati hanno scelto questo luogo perché il terreno assomiglia molto alla superficie della Luna.",
+      "point": "irregular past participle 'scelto'",
+      "explanation": "'Scegliere' has the irregular participle 'scelto', used here in the passato prossimo 'hanno scelto' (they chose).",
+      "why_tricky": "Learners may say 'hanno sceglito'; the correct irregular form is 'scelto'."
+     },
+     {
+      "sentence": "Se tutto va bene, questa tecnologia potrà aiutare gli esseri umani a esplorare il nostro satellite.",
+      "point": "real conditional 'se' + present, main clause in future",
+      "explanation": "For a likely future condition, Italian uses 'se' + present ('va') with the future 'potrà' in the main clause.",
+      "why_tricky": "The verb 'aiutare' also needs 'a' before the infinitive: 'aiutare a esplorare'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fare pratica",
+      "meaning": "to practise, to get hands-on experience",
+      "example": "Per imparare bene devi fare pratica ogni giorno."
+     },
+     {
+      "phrase": "andare bene",
+      "meaning": "to go well, to be fine",
+      "example": "Se tutto va bene, arriviamo prima di sera."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché gli scienziati hanno scelto l'Etna per le prove?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa studiano i tecnici mentre il robot si muove?",
+      "type": "open"
+     },
+     {
+      "q": "Qual è l'obiettivo finale di questo progetto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piacerebbe lavorare a un progetto spaziale? Scrivi qualche frase e spiega perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-31-europei-nuoto-oro-tuffi",
+   "title": "Europei di nuoto, il primo oro è dell'Italia nei tuffi a squadre",
+   "source": "ANSA",
+   "date": "2026-07-31",
+   "level": "A2-B1",
+   "topics": [
+    "sport",
+    "nuoto"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-31-europei-nuoto-oro-tuffi",
+    "revision": 1,
+    "meta": {
+     "title": "Europei di nuoto, il primo oro è dell'Italia nei tuffi a squadre",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/europei-nuoto-il-primo-oro-e-dellitalia-nei-tuffi-a-squadre_1553ddc7-5365-46fe-8c2a-3fb39fe4a402.html",
+     "date_published": "2026-07-31",
+     "date_processed": "2026-07-31",
+     "tags": [
+      "sport",
+      "nuoto"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "At the European swimming championships, Italy has won its first gold medal. The victory came in the team diving event, where the Italian athletes competed together as one group. The audience followed the competition with great emotion and celebrated the result with much joy. For the team, it is a wonderful start to the championships.\n\nThis win is the fruit of long training and a lot of daily work in the pool. Diving requires balance, courage and precision, because every jump lasts only a few seconds. The Italian athletes showed that they can stay calm under pressure and work well as a team. Now the fans hope that the national team will win other medals in the coming days, while the competition continues.",
+    "resumen_es": "Ai campionati europei di nuoto, l'Italia ha vinto la sua prima medaglia d'oro. La vittoria è arrivata nei tuffi a squadre, dove gli atleti italiani hanno gareggiato insieme come un unico gruppo. Il pubblico ha seguito la gara con grande emozione e ha festeggiato il risultato con molta gioia. Per la squadra è un inizio bellissimo dei campionati.\n\nQuesta vittoria è il frutto di un lungo allenamento e di tanto lavoro quotidiano in piscina. I tuffi richiedono equilibrio, coraggio e precisione, perché ogni salto dura solo pochi secondi. Gli atleti italiani hanno dimostrato di saper restare calmi sotto pressione e di lavorare bene come squadra. Adesso i tifosi sperano che la nazionale vinca altre medaglie nei prossimi giorni, mentre la competizione continua.",
+    "vocab": [
+     {
+      "front": "la medaglia d'oro",
+      "pos": "noun",
+      "back": "the gold medal",
+      "example": "Ha vinto la medaglia d'oro alle Olimpiadi.",
+      "tier": "A2"
+     },
+     {
+      "front": "la vittoria",
+      "pos": "noun",
+      "back": "the victory, win",
+      "example": "La vittoria è stata una grande sorpresa.",
+      "tier": "A2"
+     },
+     {
+      "front": "il tuffo",
+      "pos": "noun",
+      "back": "the dive",
+      "example": "Il suo tuffo è stato quasi perfetto.",
+      "tier": "B1"
+     },
+     {
+      "front": "gareggiare",
+      "pos": "verb",
+      "back": "to compete",
+      "example": "Gli atleti gareggiano per il primo posto.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "the audience, public",
+      "example": "Il pubblico ha applaudito a lungo.",
+      "tier": "A2"
+     },
+     {
+      "front": "festeggiare",
+      "pos": "verb",
+      "back": "to celebrate",
+      "example": "Abbiamo festeggiato la vittoria insieme.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'allenamento",
+      "pos": "noun",
+      "back": "the training",
+      "example": "L'allenamento comincia alle sette.",
+      "tier": "A2"
+     },
+     {
+      "front": "quotidiano",
+      "pos": "adj",
+      "back": "daily",
+      "example": "Il lavoro quotidiano porta buoni risultati.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'equilibrio",
+      "pos": "noun",
+      "back": "the balance",
+      "example": "Serve equilibrio per stare in piedi sulla barca.",
+      "tier": "B1"
+     },
+     {
+      "front": "il coraggio",
+      "pos": "noun",
+      "back": "the courage",
+      "example": "Ci vuole coraggio per tuffarsi da lì.",
+      "tier": "A2"
+     },
+     {
+      "front": "il tifoso",
+      "pos": "noun",
+      "back": "the fan, supporter",
+      "example": "I tifosi cantano allo stadio.",
+      "tier": "B1"
+     },
+     {
+      "front": "sotto pressione",
+      "pos": "phrase",
+      "back": "under pressure",
+      "example": "Lavora bene anche sotto pressione.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La vittoria è arrivata nei tuffi a squadre, dove gli atleti italiani hanno gareggiato insieme come un unico gruppo.",
+      "point": "passato prossimo: 'essere' vs 'avere' auxiliary",
+      "explanation": "'È arrivata' uses 'essere' (and agrees: arrivata), while 'hanno gareggiato' uses 'avere'. Verbs of movement like 'arrivare' take 'essere'.",
+      "why_tricky": "Learners must remember which verbs take 'essere' and that the participle then agrees in gender and number."
+     },
+     {
+      "sentence": "Gli atleti italiani hanno dimostrato di saper restare calmi sotto pressione e di lavorare bene come squadra.",
+      "point": "'dimostrare di' + infinitive",
+      "explanation": "After many verbs of saying/showing, Italian uses 'di' before the infinitive: 'hanno dimostrato di saper restare'.",
+      "why_tricky": "English uses 'that they can...'; Italian prefers 'di' + infinitive when the subject is the same."
+     },
+     {
+      "sentence": "Adesso i tifosi sperano che la nazionale vinca altre medaglie nei prossimi giorni, mentre la competizione continua.",
+      "point": "subjunctive after 'sperare che'",
+      "explanation": "'Sperare che' requires the subjunctive: 'vinca' (present subjunctive of vincere) expresses a hope, not a fact.",
+      "why_tricky": "The subjunctive 'vinca' looks different from the indicative 'vince', and beginners often use the indicative by mistake."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "sotto pressione",
+      "meaning": "under pressure",
+      "example": "Durante gli esami mi sento sotto pressione."
+     },
+     {
+      "phrase": "il frutto di",
+      "meaning": "the result/fruit of (effort)",
+      "example": "Questo successo è il frutto di anni di lavoro."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "In quale gara l'Italia ha vinto la prima medaglia d'oro?",
+      "type": "open"
+     },
+     {
+      "q": "Quali qualità richiedono i tuffi, secondo il testo?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa sperano adesso i tifosi?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Qual è lo sport che preferisci guardare o praticare? Scrivi qualche frase e spiega perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-07-31-mare-in-boccetta-pascale",
+   "title": "Studenti di infermieristica regalano ai pazienti oncologici il 'mare in boccetta'",
+   "source": "ANSA",
+   "date": "2026-07-31",
+   "level": "A2-B1",
+   "topics": [
+    "solidarietà",
+    "salute"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-07-31-mare-in-boccetta-pascale",
+    "revision": 1,
+    "meta": {
+     "title": "Studenti di infermieristica regalano ai pazienti oncologici il 'mare in boccetta'",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/07/31/studenti-di-infermieristica-regalano-a-pazienti-oncologici-il-mare-in-boccetta_63620f6a-72d9-45b4-ad54-517053d4738c.html",
+     "date_published": "2026-07-31",
+     "date_processed": "2026-07-31",
+     "tags": [
+      "solidarietà",
+      "salute"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Some nursing students had a very sweet idea for patients in a hospital in Naples. Many sick people cannot leave their room and cannot go to the beach in summer. So the young students prepared small bottles with sand, water and shells: a little 'sea in a bottle' to give as a gift. In this way, they wanted to bring a piece of summer to those who must stay inside.\n\nThe gesture is simple but full of meaning, because it shows attention and warmth towards the patients. According to the hospital, this is the true sense of care: not only medicines, but also closeness and kindness. The patients received the little bottles with emotion and a smile. Initiatives like this remind us that a small act can make a difficult day much better.",
+    "resumen_es": "Alcuni studenti di infermieristica hanno avuto un'idea molto dolce per i pazienti di un ospedale di Napoli. Molte persone malate non possono uscire dalla loro stanza e non possono andare al mare in estate. Così i giovani studenti hanno preparato delle piccole boccette con sabbia, acqua e conchiglie: un piccolo 'mare in boccetta' da regalare. In questo modo, volevano portare un pezzo di estate a chi deve restare dentro.\n\nIl gesto è semplice ma pieno di significato, perché mostra attenzione e calore verso i pazienti. Secondo l'ospedale, questo è il vero senso della cura: non solo medicine, ma anche vicinanza e gentilezza. I pazienti hanno ricevuto le boccette con emozione e con un sorriso. Iniziative come questa ci ricordano che un piccolo gesto può rendere molto migliore una giornata difficile.",
+    "vocab": [
+     {
+      "front": "l'infermieristica",
+      "pos": "noun",
+      "back": "nursing (the field of study)",
+      "example": "Studia infermieristica all'università.",
+      "tier": "B1"
+     },
+     {
+      "front": "il paziente",
+      "pos": "noun",
+      "back": "the patient",
+      "example": "Il paziente riposa nella sua stanza.",
+      "tier": "A2"
+     },
+     {
+      "front": "malato",
+      "pos": "adj",
+      "back": "ill, sick",
+      "example": "Mio nonno è malato da una settimana.",
+      "tier": "A2"
+     },
+     {
+      "front": "la stanza",
+      "pos": "noun",
+      "back": "the room",
+      "example": "La sua stanza è al terzo piano.",
+      "tier": "A2"
+     },
+     {
+      "front": "la boccetta",
+      "pos": "noun",
+      "back": "the small bottle, vial",
+      "example": "Ha una boccetta di profumo sul tavolo.",
+      "tier": "B1"
+     },
+     {
+      "front": "la conchiglia",
+      "pos": "noun",
+      "back": "the shell",
+      "example": "Sulla spiaggia ho trovato una conchiglia.",
+      "tier": "B1"
+     },
+     {
+      "front": "regalare",
+      "pos": "verb",
+      "back": "to give (as a gift)",
+      "example": "Le ho regalato un libro per il compleanno.",
+      "tier": "A2"
+     },
+     {
+      "front": "il gesto",
+      "pos": "noun",
+      "back": "the gesture, act",
+      "example": "È stato un gesto molto gentile.",
+      "tier": "B1"
+     },
+     {
+      "front": "il significato",
+      "pos": "noun",
+      "back": "the meaning",
+      "example": "Non capisco il significato di questa parola.",
+      "tier": "A2"
+     },
+     {
+      "front": "la vicinanza",
+      "pos": "noun",
+      "back": "the closeness",
+      "example": "La vicinanza degli amici aiuta molto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la gentilezza",
+      "pos": "noun",
+      "back": "the kindness",
+      "example": "La gentilezza non costa niente.",
+      "tier": "B1"
+     },
+     {
+      "front": "rendere",
+      "pos": "verb",
+      "back": "to make (something become)",
+      "example": "La musica rende la casa più allegra.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Alcuni studenti di infermieristica hanno avuto un'idea molto dolce per i pazienti di un ospedale di Napoli.",
+      "point": "passato prossimo of 'avere': 'hanno avuto'",
+      "explanation": "'Avere' forms its own passato prossimo with itself as auxiliary: 'hanno avuto' (they had/got).",
+      "why_tricky": "Seeing 'avere' twice ('hanno avuto') confuses beginners, but it is correct."
+     },
+     {
+      "sentence": "Molte persone malate non possono uscire dalla loro stanza e non possono andare al mare in estate.",
+      "point": "'potere' + infinitive in the negative",
+      "explanation": "'Non possono uscire' and 'non possono andare' show 'potere' plus a plain infinitive to say what people cannot do.",
+      "why_tricky": "The negation 'non' goes before 'possono', and the second verb stays in the infinitive."
+     },
+     {
+      "sentence": "Iniziative come questa ci ricordano che un piccolo gesto può rendere molto migliore una giornata difficile.",
+      "point": "'rendere' + adjective (to make something + adj)",
+      "explanation": "'Rendere migliore' means 'to make better'; 'rendere' takes an object plus an adjective that describes the result.",
+      "why_tricky": "Learners may use 'fare' instead; with an adjective result Italian prefers 'rendere'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "pieno di significato",
+      "meaning": "full of meaning, meaningful",
+      "example": "È stato un discorso breve ma pieno di significato."
+     },
+     {
+      "phrase": "un pezzo di",
+      "meaning": "a piece of, a bit of",
+      "example": "Mi manca un pezzo di casa quando viaggio."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa hanno preparato gli studenti per i pazienti?",
+      "type": "open"
+     },
+     {
+      "q": "Perché molti pazienti non possono andare al mare?",
+      "type": "open"
+     },
+     {
+      "q": "Secondo l'ospedale, qual è il vero senso della cura?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Racconta un piccolo gesto gentile che qualcuno ha fatto per te. Scrivi qualche frase."
+   }
+  },
   {
    "pack_id": "feed-2026-07-31-spiderman-record",
    "title": "Record in Italia per Spider-Man: Brand New Day, 4 milioni di euro nel giorno d'esordio",
@@ -6285,513 +6771,6 @@
      }
     ],
     "opinion_prompt": "Scrivi un breve testo sulla tua vacanza ideale: dove vai, con chi e che cosa fai."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-24-bambini-schermi-legge",
-   "title": "Niente dispositivi digitali sotto i 3 anni, al Senato la prima proposta di legge",
-   "source": "ANSA",
-   "date": "2026-07-23",
-   "level": "A2-B1",
-   "topics": [
-    "salute",
-    "famiglia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-24-bambini-schermi-legge",
-    "revision": 1,
-    "meta": {
-     "title": "Niente dispositivi digitali sotto i 3 anni, al Senato la prima proposta di legge",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/notizie_dai_pediatri/2026/07/23/niente-dispositivi-digitali-sotto-i-3-anni-al-senato-la-prima-proposta-di-legge_f1c6d7a7-7f41-4aea-aea5-a17ea618f624.html",
-     "date_published": "2026-07-23",
-     "date_processed": "2026-07-24",
-     "tags": [
-      "salute",
-      "famiglia"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Italy the first bill about children and screens has reached the Senate. The idea is simple: children under three should not use phones, tablets or other digital devices. The proposal was created together with paediatricians, who have been sounding the alarm for some time. According to the doctors, too many hours in front of a screen can harm the development of the youngest children.\n\nThe aim of the law is not only to ban, but also to help families. Many parents, in fact, use the phone to calm their children, but they do not really know the risks. For this reason the text calls for more information and support for parents. Paediatricians remind us that in the first years of life children learn better by playing, talking and being with people, not by looking at a screen.",
-    "resumen_es": "In Italia è arrivata al Senato la prima proposta di legge sui bambini e gli schermi. L'idea è semplice: i bambini sotto i tre anni non dovrebbero usare telefoni, tablet o altri dispositivi digitali. La proposta nasce insieme ai pediatri, che da tempo lanciano un allarme. Secondo i medici, troppe ore davanti allo schermo possono fare male allo sviluppo dei più piccoli.\n\nL'obiettivo della legge non è solo vietare, ma anche aiutare le famiglie. Molti genitori, infatti, usano il telefono per calmare i figli, ma non conoscono bene i rischi. Per questo il testo prevede più informazione e sostegno per i genitori. I pediatri ricordano che nei primi anni di vita i bambini imparano meglio giocando, parlando e stando con le persone, non guardando uno schermo.",
-    "vocab": [
-     {
-      "front": "lo schermo",
-      "pos": "noun",
-      "back": "screen",
-      "example": "I bambini passano troppo tempo davanti allo schermo.",
-      "tier": "B1"
-     },
-     {
-      "front": "il dispositivo",
-      "pos": "noun",
-      "back": "device",
-      "example": "Il telefono è un dispositivo digitale.",
-      "tier": "B1"
-     },
-     {
-      "front": "il bambino",
-      "pos": "noun",
-      "back": "child",
-      "example": "Il bambino ha due anni.",
-      "tier": "A2"
-     },
-     {
-      "front": "la legge",
-      "pos": "noun",
-      "back": "law",
-      "example": "Il Parlamento discute una nuova legge.",
-      "tier": "B1"
-     },
-     {
-      "front": "la proposta",
-      "pos": "noun",
-      "back": "proposal",
-      "example": "La proposta arriva al Senato.",
-      "tier": "B1"
-     },
-     {
-      "front": "il pediatra",
-      "pos": "noun",
-      "back": "paediatrician",
-      "example": "Il pediatra visita i bambini.",
-      "tier": "A2"
-     },
-     {
-      "front": "vietare",
-      "pos": "verb",
-      "back": "to forbid, ban",
-      "example": "La legge vuole vietare i telefoni ai più piccoli.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo sviluppo",
-      "pos": "noun",
-      "back": "development",
-      "example": "Lo schermo può danneggiare lo sviluppo del bambino.",
-      "tier": "B1"
-     },
-     {
-      "front": "il rischio",
-      "pos": "noun",
-      "back": "risk",
-      "example": "I genitori non conoscono i rischi.",
-      "tier": "B1"
-     },
-     {
-      "front": "calmare",
-      "pos": "verb",
-      "back": "to calm",
-      "example": "Usa il telefono per calmare il figlio.",
-      "tier": "A2"
-     },
-     {
-      "front": "il genitore",
-      "pos": "noun",
-      "back": "parent",
-      "example": "I genitori hanno bisogno di aiuto.",
-      "tier": "A2"
-     },
-     {
-      "front": "il sostegno",
-      "pos": "noun",
-      "back": "support",
-      "example": "La legge offre sostegno alle famiglie.",
-      "tier": "B1"
-     },
-     {
-      "front": "giocare",
-      "pos": "verb",
-      "back": "to play",
-      "example": "I bambini imparano giocando.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "L'idea è semplice: i bambini sotto i tre anni non dovrebbero usare telefoni, tablet o altri dispositivi digitali.",
-      "point": "Condizionale 'dovrebbero' per dare un consiglio",
-      "explanation": "'Dovrebbero' non è un obbligo assoluto, ma un consiglio: sarebbe meglio non farlo.",
-      "why_tricky": "Il condizionale rende la frase più gentile del presente 'devono', che suonerebbe come un ordine."
-     },
-     {
-      "sentence": "L'obiettivo della legge non è solo vietare, ma anche aiutare le famiglie.",
-      "point": "'non solo... ma anche' e infinito come nome",
-      "explanation": "La struttura unisce due idee, e gli infiniti 'vietare' e 'aiutare' funzionano come sostantivi.",
-      "why_tricky": "In italiano l'infinito può fare da nome senza articolo, cosa che in inglese richiede la forma in -ing."
-     },
-     {
-      "sentence": "I pediatri ricordano che nei primi anni di vita i bambini imparano meglio giocando, parlando e stando con le persone, non guardando uno schermo.",
-      "point": "Gerundio per esprimere il modo",
-      "explanation": "'Giocando', 'parlando' e 'stando' spiegano come i bambini imparano.",
-      "why_tricky": "Il gerundio italiano qui indica il modo e non usa alcuna preposizione, a differenza dell'inglese 'by playing'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "lanciare l'allarme",
-      "meaning": "to sound the alarm, raise a warning",
-      "example": "I medici lanciano l'allarme sull'uso dei telefoni."
-     },
-     {
-      "phrase": "fare male a",
-      "meaning": "to be bad for, to harm",
-      "example": "Troppo schermo fa male ai bambini."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa propone la nuova legge per i bambini sotto i tre anni?",
-      "type": "open"
-     },
-     {
-      "q": "Perché i pediatri sono preoccupati?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, i bambini piccoli dovrebbero usare i telefoni? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo sul tuo rapporto con il telefono: quante ore lo usi e se vorresti usarlo di meno."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-24-bolle-walk-of-fame",
-   "title": "Roberto Bolle: 'La stella sulla Walk of Fame il traguardo di una vita'",
-   "source": "ANSA",
-   "date": "2026-07-24",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "danza"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-24-bolle-walk-of-fame",
-    "revision": 1,
-    "meta": {
-     "title": "Roberto Bolle: 'La stella sulla Walk of Fame il traguardo di una vita'",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/07/24/roberto-bolle-stella-su-walk-of-fame-e-un-sogno-che-diventa-realta_526d18e3-9155-4fd6-8733-637f7a9577cd.html",
-     "date_published": "2026-07-24",
-     "date_processed": "2026-07-24",
-     "tags": [
-      "cultura",
-      "danza"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "The famous Italian dancer Roberto Bolle will receive a star on the Hollywood Walk of Fame. It is a great honour, because few people from the world of dance obtain this recognition. Bolle said that for him it is the achievement of a lifetime and that he did not expect it. The ceremony will take place in 2027, together with another thirty-two personalities from the world of entertainment.\n\nRoberto Bolle is known all over the world and has danced in the most important theatres for many years. As well as dancing, he also works to bring the general public closer to classical dance, with shows on television and in the squares. This star rewards not only him, but a little the whole of Italian dance. For many young dancers, his story is an example: with talent, study and passion, dreams can come true.",
-    "resumen_es": "Il famoso ballerino italiano Roberto Bolle riceverà una stella sulla Walk of Fame di Hollywood. È un grande onore, perché poche persone del mondo della danza ottengono questo riconoscimento. Bolle ha detto che per lui è il traguardo di una vita e che non se lo aspettava. La cerimonia si terrà nel 2027, insieme ad altre trentadue personalità dello spettacolo.\n\nRoberto Bolle è conosciuto in tutto il mondo e balla nei teatri più importanti da molti anni. Oltre a danzare, lavora anche per avvicinare il grande pubblico alla danza classica, con spettacoli in televisione e nelle piazze. Questa stella non premia solo lui, ma un po' tutta la danza italiana. Per molti giovani ballerini, la sua storia è un esempio: con talento, studio e passione i sogni possono diventare realtà.",
-    "vocab": [
-     {
-      "front": "il ballerino",
-      "pos": "noun",
-      "back": "dancer (male)",
-      "example": "Roberto Bolle è un ballerino famoso.",
-      "tier": "A2"
-     },
-     {
-      "front": "la danza",
-      "pos": "noun",
-      "back": "dance",
-      "example": "Ama la danza classica.",
-      "tier": "B1"
-     },
-     {
-      "front": "la stella",
-      "pos": "noun",
-      "back": "star",
-      "example": "Riceve una stella sulla Walk of Fame.",
-      "tier": "A2"
-     },
-     {
-      "front": "il traguardo",
-      "pos": "noun",
-      "back": "goal, milestone",
-      "example": "È il traguardo di una vita.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'onore",
-      "pos": "noun",
-      "back": "honour",
-      "example": "È un grande onore per lui.",
-      "tier": "B1"
-     },
-     {
-      "front": "il riconoscimento",
-      "pos": "noun",
-      "back": "recognition, award",
-      "example": "Pochi ottengono questo riconoscimento.",
-      "tier": "B1"
-     },
-     {
-      "front": "la cerimonia",
-      "pos": "noun",
-      "back": "ceremony",
-      "example": "La cerimonia si terrà nel 2027.",
-      "tier": "B1"
-     },
-     {
-      "front": "il teatro",
-      "pos": "noun",
-      "back": "theatre",
-      "example": "Balla nei teatri più importanti.",
-      "tier": "A2"
-     },
-     {
-      "front": "il pubblico",
-      "pos": "noun",
-      "back": "audience, public",
-      "example": "Vuole avvicinare il pubblico alla danza.",
-      "tier": "B1"
-     },
-     {
-      "front": "lo spettacolo",
-      "pos": "noun",
-      "back": "show, performance",
-      "example": "Fa spettacoli in televisione.",
-      "tier": "A2"
-     },
-     {
-      "front": "il talento",
-      "pos": "noun",
-      "back": "talent",
-      "example": "Ha molto talento.",
-      "tier": "A2"
-     },
-     {
-      "front": "il sogno",
-      "pos": "noun",
-      "back": "dream",
-      "example": "I sogni possono diventare realtà.",
-      "tier": "A2"
-     },
-     {
-      "front": "avvicinare",
-      "pos": "verb",
-      "back": "to bring closer",
-      "example": "Lavora per avvicinare i giovani alla danza.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Bolle ha detto che per lui è il traguardo di una vita e che non se lo aspettava.",
-      "point": "Passato prossimo e imperfetto insieme",
-      "explanation": "'Ha detto' racconta un'azione finita, mentre 'aspettava' descrive uno stato nel passato.",
-      "why_tricky": "Scegliere tra passato prossimo e imperfetto è difficile: uno indica l'azione, l'altro la situazione."
-     },
-     {
-      "sentence": "Oltre a danzare, lavora anche per avvicinare il grande pubblico alla danza classica, con spettacoli in televisione e nelle piazze.",
-      "point": "'oltre a + infinito' e 'per + infinito'",
-      "explanation": "'Oltre a danzare' aggiunge un'altra attività e 'per avvicinare' indica lo scopo del suo lavoro.",
-      "why_tricky": "Dopo 'oltre a' serve sempre l'infinito, mentre in inglese si usa la forma in -ing."
-     },
-     {
-      "sentence": "Per molti giovani ballerini, la sua storia è un esempio: con talento, studio e passione i sogni possono diventare realtà.",
-      "point": "'potere + infinito' per la possibilità",
-      "explanation": "'Possono diventare' esprime che qualcosa è possibile a certe condizioni.",
-      "why_tricky": "Il verbo 'potere' regge sempre l'infinito senza preposizione: 'possono diventare', non 'possono di diventare'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "il traguardo di una vita",
-      "meaning": "the achievement of a lifetime",
-      "example": "Vincere questo premio è il traguardo di una vita."
-     },
-     {
-      "phrase": "diventare realtà",
-      "meaning": "to come true",
-      "example": "Con impegno, i sogni possono diventare realtà."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa riceverà Roberto Bolle a Hollywood?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa fa Bolle, oltre a ballare nei teatri?",
-      "type": "open"
-     },
-     {
-      "q": "Chi è una persona che ammiri nel mondo dell'arte o dello sport? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo su un tuo sogno e spiega che cosa puoi fare per realizzarlo."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-23-microplastiche-cuore",
-   "title": "Cuore, scoperto il legame tra microplastiche e infarto",
-   "source": "ANSA",
-   "date": "2026-07-23",
-   "level": "A2-B1",
-   "topics": [
-    "salute",
-    "scienza"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-23-microplastiche-cuore",
-    "revision": 1,
-    "meta": {
-     "title": "Cuore, scoperto il legame tra microplastiche e infarto",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/07/15/cuore-scoperto-legame-tra-microplastiche-e-infarto_afa12ca2-5419-47bc-882d-238f4a4f9457.html",
-     "date_published": "2026-07-23",
-     "date_processed": "2026-07-23",
-     "tags": [
-      "salute",
-      "scienza"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "A new scientific study has found a link between microplastics and heart disease. Microplastics are tiny pieces of plastic that enter our body through food, water and air. The researchers say that these particles can increase the risk of a heart attack. It is an important discovery because it shows a new danger to our health.\n\nThe scientists explain that smoking and pollution also play an important role in this problem. To protect the heart, therefore, it is useful to reduce the use of plastic and to live in a healthier way. We can drink less bottled water, eat fresh foods and walk in clean air. The researchers will continue to study this topic to understand better how to defend our body.",
-    "resumen_es": "Un nuovo studio scientifico ha trovato un legame tra le microplastiche e le malattie del cuore. Le microplastiche sono piccolissimi pezzi di plastica che entrano nel nostro corpo con il cibo, l'acqua e l'aria. I ricercatori dicono che queste particelle possono aumentare il rischio di infarto. È una scoperta importante perché mostra un nuovo pericolo per la nostra salute.\n\nGli scienziati spiegano che anche il fumo e l'inquinamento hanno un ruolo importante in questo problema. Per proteggere il cuore, quindi, è utile ridurre l'uso della plastica e vivere in modo più sano. Possiamo bere meno acqua in bottiglia, mangiare cibi freschi e camminare all'aria pulita. I ricercatori continueranno a studiare questo tema per capire meglio come difendere il nostro corpo.",
-    "vocab": [
-     {
-      "front": "studio",
-      "pos": "noun",
-      "back": "study",
-      "example": "Un nuovo studio lo conferma.",
-      "tier": "A2"
-     },
-     {
-      "front": "legame",
-      "pos": "noun",
-      "back": "link, connection",
-      "example": "C'è un legame tra i due fatti.",
-      "tier": "B1"
-     },
-     {
-      "front": "microplastiche",
-      "pos": "noun",
-      "back": "microplastics",
-      "example": "Le microplastiche sono ovunque.",
-      "tier": "B1"
-     },
-     {
-      "front": "malattia",
-      "pos": "noun",
-      "back": "illness, disease",
-      "example": "È una malattia molto comune.",
-      "tier": "A2"
-     },
-     {
-      "front": "cuore",
-      "pos": "noun",
-      "back": "heart",
-      "example": "Il cuore batte forte.",
-      "tier": "A2"
-     },
-     {
-      "front": "ricercatore",
-      "pos": "noun",
-      "back": "researcher",
-      "example": "Il ricercatore studia il virus.",
-      "tier": "B1"
-     },
-     {
-      "front": "rischio",
-      "pos": "noun",
-      "back": "risk",
-      "example": "C'è un rischio molto alto.",
-      "tier": "B1"
-     },
-     {
-      "front": "infarto",
-      "pos": "noun",
-      "back": "heart attack",
-      "example": "Suo nonno ha avuto un infarto.",
-      "tier": "B1"
-     },
-     {
-      "front": "scoperta",
-      "pos": "noun",
-      "back": "discovery",
-      "example": "È una grande scoperta scientifica.",
-      "tier": "B1"
-     },
-     {
-      "front": "inquinamento",
-      "pos": "noun",
-      "back": "pollution",
-      "example": "L'inquinamento è un grave problema.",
-      "tier": "B1"
-     },
-     {
-      "front": "ridurre",
-      "pos": "verb",
-      "back": "to reduce",
-      "example": "Dobbiamo ridurre la plastica.",
-      "tier": "B1"
-     },
-     {
-      "front": "sano",
-      "pos": "adj",
-      "back": "healthy",
-      "example": "Cerco di mangiare cibo sano.",
-      "tier": "A2"
-     },
-     {
-      "front": "proteggere",
-      "pos": "verb",
-      "back": "to protect",
-      "example": "Vuole proteggere la sua famiglia.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Le microplastiche sono piccolissimi pezzi di plastica che entrano nel nostro corpo con il cibo, l'acqua e l'aria.",
-      "point": "Superlativo assoluto 'piccolissimi' e relativo 'che'",
-      "explanation": "Il suffisso '-issimo' forma il superlativo assoluto (molto piccoli); 'che' è pronome relativo soggetto.",
-      "why_tricky": "L'accordo di 'piccolissimi' al maschile plurale."
-     },
-     {
-      "sentence": "I ricercatori dicono che queste particelle possono aumentare il rischio di infarto.",
-      "point": "Modale 'possono' + infinito; 'dire che' + indicativo",
-      "explanation": "'potere' si coniuga e l'infinito segue; un fatto riferito resta all'indicativo.",
-      "why_tricky": "Mantenere l'indicativo dopo 'dicono che'."
-     },
-     {
-      "sentence": "Per proteggere il cuore, quindi, è utile ridurre l'uso della plastica e vivere in modo più sano.",
-      "point": "'per + infinito' (scopo); 'è utile + infinito'",
-      "explanation": "'per' indica lo scopo; l'espressione impersonale 'è utile' regge l'infinito.",
-      "why_tricky": "Usare l'infinito e non un verbo coniugato."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "in modo più sano",
-      "meaning": "in a healthier way",
-      "example": "Cerco di vivere in modo più sano."
-     },
-     {
-      "phrase": "avere un ruolo",
-      "meaning": "to play a role",
-      "example": "Lo sport ha un ruolo importante nella salute."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa hanno scoperto gli scienziati in questo studio?",
-      "type": "open"
-     },
-     {
-      "q": "Come entrano le microplastiche nel nostro corpo?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa possiamo fare per proteggere il cuore?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Che cosa fai tu ogni giorno per vivere in modo più sano? Scrivi tre o quattro frasi."
    }
   }
  ]
