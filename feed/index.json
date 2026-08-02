@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-08-02T08:16:35Z",
+ "generated_at": "2026-08-02T20:12:58Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-02-stelle-senza-eta",
+   "title": "Stelle senza età, dovrebbero essere antichissime ma sembrano giovani",
+   "source": "ANSA",
+   "date": "2026-08-02",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "spazio"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-stelle-senza-eta",
+    "revision": 1,
+    "meta": {
+     "title": "Stelle senza età, dovrebbero essere antichissime ma sembrano giovani",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/28/stelle-senza-eta-dovrebbero-essere-antichissime-ma-sembrano-giovani-_9183f679-b9d6-48a3-859b-b3dea20b8412.html",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "scienza",
+      "spazio"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In the sky there are some very strange stars. According to scientists, these stars should be extremely old. In fact, they were born a very long time ago, at the beginning of the history of the universe. And yet, when astronomers observe them, they still seem young. This fact surprises many researchers. Their true origin, for the moment, remains a real puzzle.\n\nThe scholars are looking for an explanation for this mystery. Perhaps these stars received new energy from other nearby stars. Or perhaps, instead, they joined together and so became brighter. Understanding how they work is very important. In this way, scientists can study the universe and its long history better. For this reason, many telescopes keep observing the sky every night, and every new discovery opens other interesting questions.",
+    "resumen_es": "Nel cielo ci sono alcune stelle molto strane. Secondo gli scienziati, queste stelle dovrebbero essere antichissime. Sono nate infatti tanto tempo fa, all'inizio della storia dell'universo. Eppure, quando gli astronomi le osservano, sembrano ancora giovani. Questo fatto sorprende molti ricercatori. La loro vera origine, per il momento, resta un vero rompicapo.\n\nGli studiosi cercano una spiegazione per questo mistero. Forse queste stelle hanno ricevuto nuova energia da altre stelle vicine. Forse, invece, si sono unite tra loro e così sono diventate più luminose. Capire come funzionano è molto importante. In questo modo, gli scienziati possono studiare meglio l'universo e la sua lunga storia. Per questo motivo, molti telescopi continuano a osservare il cielo ogni notte, e ogni nuova scoperta apre altre domande interessanti.",
+    "vocab": [
+     {
+      "front": "la stella",
+      "pos": "noun",
+      "back": "star",
+      "example": "Di notte vedo tante stelle.",
+      "tier": "A2"
+     },
+     {
+      "front": "strano/a",
+      "pos": "adj",
+      "back": "strange",
+      "example": "Ho sentito un rumore strano.",
+      "tier": "A2"
+     },
+     {
+      "front": "lo scienziato",
+      "pos": "noun",
+      "back": "scientist",
+      "example": "Lo scienziato studia il cielo.",
+      "tier": "A2"
+     },
+     {
+      "front": "antichissimo/a",
+      "pos": "adj",
+      "back": "very ancient, extremely old",
+      "example": "Questo castello è antichissimo.",
+      "tier": "B1"
+     },
+     {
+      "front": "nascere",
+      "pos": "verb",
+      "back": "to be born",
+      "example": "Sono nata in Italia.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'universo",
+      "pos": "noun",
+      "back": "universe",
+      "example": "L'universo è molto grande.",
+      "tier": "B1"
+     },
+     {
+      "front": "eppure",
+      "pos": "adv",
+      "back": "and yet, nevertheless",
+      "example": "È tardi, eppure non ho sonno.",
+      "tier": "B1"
+     },
+     {
+      "front": "osservare",
+      "pos": "verb",
+      "back": "to observe, watch",
+      "example": "Osservo gli uccelli dal balcone.",
+      "tier": "A2"
+     },
+     {
+      "front": "il ricercatore",
+      "pos": "noun",
+      "back": "researcher",
+      "example": "Il ricercatore lavora in laboratorio.",
+      "tier": "B1"
+     },
+     {
+      "front": "il rompicapo",
+      "pos": "noun",
+      "back": "puzzle, riddle",
+      "example": "Questo problema è un vero rompicapo.",
+      "tier": "B1"
+     },
+     {
+      "front": "la spiegazione",
+      "pos": "noun",
+      "back": "explanation",
+      "example": "Cerco una spiegazione semplice.",
+      "tier": "A2"
+     },
+     {
+      "front": "luminoso/a",
+      "pos": "adj",
+      "back": "bright, luminous",
+      "example": "La luna è molto luminosa stanotte.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Secondo gli scienziati, queste stelle dovrebbero essere antichissime.",
+      "point": "Il condizionale 'dovrebbero' per l'ipotesi",
+      "explanation": "'Dovrebbero' esprime una supposizione: qualcosa che ci si aspetta ma non è sicuro.",
+      "why_tricky": "Il condizionale qui non indica un consiglio, ma una probabilità o una previsione."
+     },
+     {
+      "sentence": "Eppure, quando gli astronomi le osservano, sembrano ancora giovani.",
+      "point": "Il pronome diretto 'le'",
+      "explanation": "'Le' sostituisce 'le stelle' ed evita di ripetere il nome.",
+      "why_tricky": "Il pronome va prima del verbo e deve concordare con il genere e il numero del nome."
+     },
+     {
+      "sentence": "La loro vera origine, per il momento, resta un vero rompicapo.",
+      "point": "L'aggettivo possessivo 'loro'",
+      "explanation": "'La loro' indica il possesso e non cambia mai forma, ma prende l'articolo.",
+      "why_tricky": "A differenza degli altri possessivi, 'loro' resta uguale al maschile e al femminile."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "un vero rompicapo",
+      "meaning": "a real puzzle, something very hard to understand",
+      "example": "Montare questo mobile è stato un vero rompicapo."
+     },
+     {
+      "phrase": "tanto tempo fa",
+      "meaning": "a long time ago",
+      "example": "Ci siamo conosciuti tanto tempo fa."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché queste stelle sorprendono gli scienziati?",
+      "type": "open"
+     },
+     {
+      "q": "Quali spiegazioni cercano gli studiosi?",
+      "type": "open"
+     },
+     {
+      "q": "Perché è importante capire come funzionano le stelle?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi qualche frase sulle stelle e sullo spazio."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-02-assoturismo-agosto",
+   "title": "Assoturismo, il caldo spinge le località montane, ma frena le città d'arte",
+   "source": "ANSA",
+   "date": "2026-08-02",
+   "level": "A2-B1",
+   "topics": [
+    "turismo",
+    "estate"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-assoturismo-agosto",
+    "revision": 1,
+    "meta": {
+     "title": "Assoturismo, il caldo spinge le località montane, ma frena le città d'arte",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/01/assoturismo-ad-agosto-presenze-in-crescita-con-967-milioni-di-pernottamenti_df8f308e-5868-4965-a837-2ee74fece01a.html",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "turismo",
+      "estate"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In August many Italians go on holiday. This year the great heat changes their choices. According to Assoturismo, the mountain resorts are fuller than usual. Here the number of stays grows by 2.3 per cent. In the mountains, in fact, the air is cooler and more pleasant. The cities of art, instead, grow very little, only by 0.3 per cent.\n\nIn the whole country almost 96.7 million overnight stays are counted. It is a very high number for the month of August. The mountains and the sea remain the favourite destinations for tourists. Many people look for a cool place to rest and feel good. The heat, therefore, does not stop the holidays, but it changes the way Italians travel.",
+    "resumen_es": "Ad agosto molti italiani vanno in vacanza. Quest'anno il grande caldo cambia le loro scelte. Secondo Assoturismo, le località di montagna sono più piene del solito. Qui le presenze crescono del 2,3 per cento. In montagna, infatti, l'aria è più fresca e piacevole. Le città d'arte, invece, crescono molto poco, solo dello 0,3 per cento.\n\nIn tutto il Paese si contano quasi 96,7 milioni di pernottamenti. È un numero molto alto per il mese di agosto. Le montagne e il mare restano le mete preferite dai turisti. Molte persone cercano un posto fresco per riposare e stare bene. Il caldo, quindi, non ferma le vacanze, ma cambia il modo di viaggiare degli italiani.",
+    "vocab": [
+     {
+      "front": "la vacanza",
+      "pos": "noun",
+      "back": "holiday, vacation",
+      "example": "Ad agosto vado in vacanza al mare.",
+      "tier": "A2"
+     },
+     {
+      "front": "il caldo",
+      "pos": "noun",
+      "back": "heat",
+      "example": "Oggi c'è troppo caldo.",
+      "tier": "A2"
+     },
+     {
+      "front": "la scelta",
+      "pos": "noun",
+      "back": "choice",
+      "example": "È stata una scelta difficile.",
+      "tier": "A2"
+     },
+     {
+      "front": "la località",
+      "pos": "noun",
+      "back": "resort, place, spot",
+      "example": "È una bella località di montagna.",
+      "tier": "B1"
+     },
+     {
+      "front": "la montagna",
+      "pos": "noun",
+      "back": "mountain",
+      "example": "D'estate preferisco la montagna.",
+      "tier": "A2"
+     },
+     {
+      "front": "pieno/a",
+      "pos": "adj",
+      "back": "full",
+      "example": "Il treno era pieno di gente.",
+      "tier": "A2"
+     },
+     {
+      "front": "la presenza",
+      "pos": "noun",
+      "back": "presence; here: number of visitors",
+      "example": "Le presenze turistiche sono aumentate.",
+      "tier": "B1"
+     },
+     {
+      "front": "fresco/a",
+      "pos": "adj",
+      "back": "cool, fresh",
+      "example": "La sera l'aria è più fresca.",
+      "tier": "A2"
+     },
+     {
+      "front": "il pernottamento",
+      "pos": "noun",
+      "back": "overnight stay",
+      "example": "L'hotel offre il pernottamento con colazione.",
+      "tier": "B1"
+     },
+     {
+      "front": "la meta",
+      "pos": "noun",
+      "back": "destination",
+      "example": "Roma è una meta molto famosa.",
+      "tier": "B1"
+     },
+     {
+      "front": "riposare",
+      "pos": "verb",
+      "back": "to rest",
+      "example": "Dopo il lavoro voglio riposare.",
+      "tier": "A2"
+     },
+     {
+      "front": "viaggiare",
+      "pos": "verb",
+      "back": "to travel",
+      "example": "Mi piace viaggiare in Europa.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Secondo Assoturismo, le località di montagna sono più piene del solito.",
+      "point": "Il comparativo di maggioranza 'più... del'",
+      "explanation": "'Più piene del solito' confronta la situazione di quest'anno con quella normale.",
+      "why_tricky": "Dopo 'più' l'aggettivo concorda con il nome ('piene', femminile plurale)."
+     },
+     {
+      "sentence": "In tutto il Paese si contano quasi 96,7 milioni di pernottamenti.",
+      "point": "Il 'si' passivante",
+      "explanation": "'Si contano' significa 'vengono contati'; il verbo va al plurale perché il soggetto è plurale.",
+      "why_tricky": "Con il 'si' passivante il verbo cambia numero secondo il soggetto (contano, non conta)."
+     },
+     {
+      "sentence": "Il caldo, quindi, non ferma le vacanze, ma cambia il modo di viaggiare degli italiani.",
+      "point": "Il contrasto con 'ma' e 'modo di' + infinito",
+      "explanation": "'Ma' collega due idee opposte; 'modo di viaggiare' usa l'infinito dopo la preposizione 'di'.",
+      "why_tricky": "Dopo 'modo di' serve sempre l'infinito, mai un verbo coniugato."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "più del solito",
+      "meaning": "more than usual",
+      "example": "Oggi ho mangiato più del solito."
+     },
+     {
+      "phrase": "stare bene",
+      "meaning": "to feel good / well",
+      "example": "In vacanza sto bene e mi rilasso."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché quest'anno molti turisti scelgono la montagna?",
+      "type": "open"
+     },
+     {
+      "q": "Come cambiano le presenze nelle città d'arte?",
+      "type": "open"
+     },
+     {
+      "q": "Secondo il testo, il caldo ferma le vacanze? Perché?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Dove preferisci andare in vacanza d'estate: al mare, in montagna o in città? Spiega perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-02-europei-tuffi-oro",
+   "title": "Europei, tuffi: Matteo Santoro e Chiara Pellacani oro nel sincro misto dai tre metri",
+   "source": "RaiNews",
+   "date": "2026-08-02",
+   "level": "A2-B1",
+   "topics": [
+    "sport",
+    "tuffi"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-02-europei-tuffi-oro",
+    "revision": 1,
+    "meta": {
+     "title": "Europei, tuffi: Matteo Santoro e Chiara Pellacani oro nel sincro misto dai tre metri",
+     "source": "RaiNews",
+     "url": "https://www.rainews.it/maratona/2026/08/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
+     "date_published": "2026-08-02",
+     "date_processed": "2026-08-02",
+     "tags": [
+      "sport",
+      "tuffi"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "At the swimming European Championships in Paris, Italy wins a fine gold medal. The two athletes Matteo Santoro and Chiara Pellacani compete together in the diving. Their event is the mixed synchro from the three-metre springboard. The two jump at the same moment, with precise and identical movements. The audience applauds and the jury gives a very high score. For Italy it is a great success.\n\nThis victory is important for Italian sport. Diving, in fact, requires courage, strength and balance. The athletes train every day for many hours. Chiara Pellacani also takes part in other individual events. Her goal is to win new medals in the coming days. Many young people watch these champions and dream of becoming like them one day.",
+    "resumen_es": "Agli Europei di nuoto a Parigi, l'Italia vince una bella medaglia d'oro. I due atleti Matteo Santoro e Chiara Pellacani gareggiano insieme nei tuffi. La loro gara è il sincro misto dal trampolino di tre metri. I due saltano nello stesso momento, con movimenti precisi e uguali. Il pubblico applaude e la giuria dà un punteggio molto alto. Per l'Italia è un grande successo.\n\nQuesta vittoria è importante per lo sport italiano. I tuffi, infatti, richiedono coraggio, forza ed equilibrio. Gli atleti si allenano ogni giorno per molte ore. Chiara Pellacani partecipa anche ad altre gare individuali. Il suo obiettivo è vincere nuove medaglie nei prossimi giorni. Tanti giovani guardano questi campioni e sognano di diventare come loro un giorno.",
+    "vocab": [
+     {
+      "front": "i tuffi",
+      "pos": "noun",
+      "back": "diving (sport)",
+      "example": "I tuffi sono uno sport spettacolare.",
+      "tier": "B1"
+     },
+     {
+      "front": "la medaglia d'oro",
+      "pos": "phrase",
+      "back": "gold medal",
+      "example": "Ha vinto la medaglia d'oro alle Olimpiadi.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'atleta",
+      "pos": "noun",
+      "back": "athlete",
+      "example": "L'atleta si allena tutti i giorni.",
+      "tier": "A2"
+     },
+     {
+      "front": "gareggiare",
+      "pos": "verb",
+      "back": "to compete",
+      "example": "Domani gareggia nella gara finale.",
+      "tier": "B1"
+     },
+     {
+      "front": "la gara",
+      "pos": "noun",
+      "back": "race, competition, event",
+      "example": "La gara comincia alle dieci.",
+      "tier": "A2"
+     },
+     {
+      "front": "il trampolino",
+      "pos": "noun",
+      "back": "springboard, diving board",
+      "example": "Salta dal trampolino con coraggio.",
+      "tier": "B1"
+     },
+     {
+      "front": "saltare",
+      "pos": "verb",
+      "back": "to jump",
+      "example": "Il bambino salta nella piscina.",
+      "tier": "A2"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "audience, public",
+      "example": "Il pubblico applaude i cantanti.",
+      "tier": "A2"
+     },
+     {
+      "front": "il punteggio",
+      "pos": "noun",
+      "back": "score",
+      "example": "Ha ottenuto un punteggio altissimo.",
+      "tier": "B1"
+     },
+     {
+      "front": "allenarsi",
+      "pos": "verb",
+      "back": "to train (oneself)",
+      "example": "Mi alleno in palestra tre volte a settimana.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'obiettivo",
+      "pos": "noun",
+      "back": "goal, objective",
+      "example": "Il mio obiettivo è imparare l'italiano.",
+      "tier": "B1"
+     },
+     {
+      "front": "il coraggio",
+      "pos": "noun",
+      "back": "courage",
+      "example": "Ci vuole coraggio per tuffarsi.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "I due saltano nello stesso momento, con movimenti precisi e uguali.",
+      "point": "La preposizione articolata 'nello'",
+      "explanation": "'Nello' unisce 'in' e 'lo' davanti a 'stesso momento'.",
+      "why_tricky": "La forma cambia secondo l'articolo: in + lo diventa 'nello', in + il diventa 'nel'."
+     },
+     {
+      "sentence": "Gli atleti si allenano ogni giorno per molte ore.",
+      "point": "Il verbo riflessivo 'allenarsi'",
+      "explanation": "'Si allenano' indica che gli atleti fanno l'azione su se stessi.",
+      "why_tricky": "Il pronome 'si' è obbligatorio e cambia con la persona (mi alleno, ti alleni, si allena)."
+     },
+     {
+      "sentence": "Il suo obiettivo è vincere nuove medaglie nei prossimi giorni.",
+      "point": "Possessivo 'suo' e 'nei' articolata",
+      "explanation": "'Il suo obiettivo' indica il possesso; 'nei prossimi giorni' unisce 'in' e 'i'.",
+      "why_tricky": "Il possessivo prende quasi sempre l'articolo ('il suo'), a differenza dell'inglese."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "ci vuole coraggio",
+      "meaning": "it takes courage",
+      "example": "Per parlare in pubblico ci vuole coraggio."
+     },
+     {
+      "phrase": "allo stesso momento",
+      "meaning": "at the same time",
+      "example": "Sono arrivati tutti allo stesso momento."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quale medaglia vince l'Italia in questa gara?",
+      "type": "open"
+     },
+     {
+      "q": "Perché i tuffi sono uno sport difficile?",
+      "type": "open"
+     },
+     {
+      "q": "Qual è l'obiettivo di Chiara Pellacani?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Qual è il tuo sport preferito? Scrivi qualche frase e spiega perché ti piace."
+   }
+  },
   {
    "pack_id": "feed-2026-08-02-cielo-agosto",
    "title": "Con eclissi e stelle cadenti, il cielo di agosto dà spettacolo",
@@ -6229,506 +6715,6 @@
      }
     ],
     "opinion_prompt": "Secondo te, è giusto avere un'assicurazione per il monopattino? Spiega perché con parole semplici."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-27-sharon-stone-roma-nobel",
-   "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
-   "source": "ANSA",
-   "date": "2026-07-27",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "tecnologia"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-27-sharon-stone-roma-nobel",
-    "revision": 1,
-    "meta": {
-     "title": "Sharon Stone a Roma all'assemblea dei Nobel: 'La dignità umana non è un algoritmo'",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/videogallery/italia/2026/07/16/sharon-stone-a-roma-allassemblea-dei-nobel-la-dignita-umana-non-e-un-algoritmo_b56b2349-b147-4480-bfca-f731ce4da7ff.html",
-     "date_published": "2026-07-16",
-     "date_processed": "2026-07-27",
-     "tags": [
-      "cultura",
-      "tecnologia"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "The American actress Sharon Stone arrived in Rome for a very important meeting. She took part in an assembly with some Nobel prize winners. During her speech she talked about a current topic: technology and the rights of people. Then she said a strong sentence: 'Human dignity is not an algorithm'. With these words she wanted to remember the value of every human being in front of the new machines.\n\nToday artificial intelligence is present in many parts of our life. For this reason many experts discuss its risks and its limits. Sharon Stone invited everyone not to forget feelings and respect. According to her, machines cannot replace the humanity of people. Her message pleased the audience present in Rome. In this way the actress united the world of cinema and the big questions of today.",
-    "resumen_es": "L'attrice americana Sharon Stone è arrivata a Roma per un incontro molto importante. Ha partecipato a un'assemblea con alcuni premi Nobel. Durante il suo discorso ha parlato di un tema attuale: la tecnologia e i diritti delle persone. Poi ha detto una frase forte: 'La dignità umana non è un algoritmo'. Con queste parole ha voluto ricordare il valore di ogni essere umano davanti alle nuove macchine.\n\nOggi l'intelligenza artificiale è presente in molte parti della nostra vita. Per questo tanti esperti discutono dei suoi rischi e dei suoi limiti. Sharon Stone ha invitato tutti a non dimenticare i sentimenti e il rispetto. Secondo lei, le macchine non possono sostituire l'umanità delle persone. Il suo messaggio è piaciuto al pubblico presente a Roma. Così l'attrice ha unito il mondo del cinema e le grandi domande di oggi.",
-    "vocab": [
-     {
-      "front": "l'attrice",
-      "pos": "noun",
-      "back": "actress",
-      "example": "L'attrice ha vinto un premio.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'incontro",
-      "pos": "noun",
-      "back": "meeting",
-      "example": "Abbiamo un incontro alle tre.",
-      "tier": "A2"
-     },
-     {
-      "front": "il discorso",
-      "pos": "noun",
-      "back": "speech",
-      "example": "Il presidente ha fatto un lungo discorso.",
-      "tier": "B1"
-     },
-     {
-      "front": "attuale",
-      "pos": "adj",
-      "back": "current, topical",
-      "example": "È un problema molto attuale.",
-      "tier": "B1"
-     },
-     {
-      "front": "i diritti",
-      "pos": "noun",
-      "back": "rights",
-      "example": "Tutti hanno gli stessi diritti.",
-      "tier": "B1"
-     },
-     {
-      "front": "la dignità",
-      "pos": "noun",
-      "back": "dignity",
-      "example": "Ogni persona merita rispetto e dignità.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'essere umano",
-      "pos": "noun",
-      "back": "human being",
-      "example": "Ogni essere umano è unico.",
-      "tier": "B1"
-     },
-     {
-      "front": "i sentimenti",
-      "pos": "noun",
-      "back": "feelings",
-      "example": "È difficile spiegare i sentimenti.",
-      "tier": "B1"
-     },
-     {
-      "front": "il rispetto",
-      "pos": "noun",
-      "back": "respect",
-      "example": "Il rispetto è importante tra amici.",
-      "tier": "A2"
-     },
-     {
-      "front": "sostituire",
-      "pos": "verb",
-      "back": "to replace",
-      "example": "Il computer non può sostituire un amico.",
-      "tier": "B1"
-     },
-     {
-      "front": "piacere a",
-      "pos": "verb",
-      "back": "to please, to be liked by",
-      "example": "Il film è piaciuto a tutti.",
-      "tier": "A2"
-     },
-     {
-      "front": "unire",
-      "pos": "verb",
-      "back": "to unite, to bring together",
-      "example": "La musica unisce le persone.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Il suo messaggio è piaciuto al pubblico presente a Roma.",
-      "point": "Passato prossimo del verbo 'piacere'",
-      "explanation": "'Piacere' usa l'ausiliare 'essere', quindi il participio concorda: 'è piaciuto' con 'messaggio'. 'Al pubblico' usa la preposizione articolata 'a + il'.",
-      "why_tricky": "Con 'piacere' la persona che prova il piacere è un complemento indiretto ('al pubblico'), non il soggetto."
-     },
-     {
-      "sentence": "Secondo lei, le macchine non possono sostituire l'umanità delle persone.",
-      "point": "'Potere' + infinito",
-      "explanation": "Dopo 'potere' il secondo verbo resta all'infinito: 'possono sostituire'.",
-      "why_tricky": "'Secondo lei' significa 'nella sua opinione' e non regge il congiuntivo."
-     },
-     {
-      "sentence": "Oggi l'intelligenza artificiale è presente in molte parti della nostra vita.",
-      "point": "Preposizione articolata 'della'",
-      "explanation": "'Della' nasce da 'di + la' e collega 'parti' con 'nostra vita'.",
-      "why_tricky": "L'articolo si unisce alla preposizione: si dice 'della vita', non 'di la vita'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "secondo lei",
-      "meaning": "nella sua opinione",
-      "example": "Secondo lei, il film è bellissimo."
-     },
-     {
-      "phrase": "davanti a",
-      "meaning": "di fronte a qualcosa o qualcuno",
-      "example": "Ci vediamo davanti al cinema."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché Sharon Stone è andata a Roma?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa ha detto sulla tecnologia e le persone?",
-      "type": "open"
-     },
-     {
-      "q": "Perché tanti esperti discutono dell'intelligenza artificiale?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Sei d'accordo con la frase 'La dignità umana non è un algoritmo'? Scrivi la tua opinione con frasi semplici."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-27-bambini-matematica-scuola",
-   "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
-   "source": "ANSA",
-   "date": "2026-07-27",
-   "level": "A2-B1",
-   "topics": [
-    "scuola",
-    "societa"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-27-bambini-matematica-scuola",
-    "revision": 1,
-    "meta": {
-     "title": "Quasi 40% dei bambini delle elementari non ha conoscenze di base in matematica",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/quasi-40-bambini-elementari-non-ha-conoscenze-di-base-in-matematica_e54fb0da-45ac-4e7a-9870-526bba6d3192.html",
-     "date_published": "2026-07-16",
-     "date_processed": "2026-07-27",
-     "tags": [
-      "scuola",
-      "societa"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Italy a new study talks about primary school. According to the Invalsi data, almost 40% of children in primary school do not have the basic knowledge in mathematics. This means that many pupils have difficulty with numbers and with simple calculations. The experts are worried about these results. Mathematics in fact is very important for everyday life and for the future of the children.\n\nThe situation got worse after the Covid period. In those years the schools stayed closed for a long time. So many students lost important lessons and studied less. Now teachers and families are looking for solutions to help the children. Some are asking for more hours of lessons and fun activities with numbers. The goal is simple: to bring back to the children the desire to learn mathematics.",
-    "resumen_es": "In Italia una nuova ricerca parla della scuola primaria. Secondo i dati Invalsi, quasi il 40% dei bambini delle elementari non ha le conoscenze di base in matematica. Questo significa che molti alunni hanno difficoltà con i numeri e con i calcoli semplici. Gli esperti sono preoccupati per questi risultati. La matematica infatti è molto importante per la vita di tutti i giorni e per il futuro dei ragazzi.\n\nLa situazione è peggiorata dopo il periodo del Covid. In quegli anni le scuole sono rimaste chiuse per molto tempo. Così molti studenti hanno perso lezioni importanti e hanno studiato meno. Ora insegnanti e famiglie cercano soluzioni per aiutare i bambini. Alcuni chiedono più ore di lezione e attività divertenti con i numeri. L'obiettivo è semplice: far tornare ai bambini la voglia di imparare la matematica.",
-    "vocab": [
-     {
-      "front": "la ricerca",
-      "pos": "noun",
-      "back": "study, research",
-      "example": "Ho letto una ricerca interessante.",
-      "tier": "B1"
-     },
-     {
-      "front": "la scuola primaria",
-      "pos": "phrase",
-      "back": "primary school",
-      "example": "Mia figlia va alla scuola primaria.",
-      "tier": "A2"
-     },
-     {
-      "front": "le elementari",
-      "pos": "noun",
-      "back": "primary school (elementary)",
-      "example": "Ho frequentato le elementari qui.",
-      "tier": "A2"
-     },
-     {
-      "front": "le conoscenze",
-      "pos": "noun",
-      "back": "knowledge",
-      "example": "Ha buone conoscenze di inglese.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'alunno",
-      "pos": "noun",
-      "back": "pupil",
-      "example": "Ogni alunno ha un quaderno.",
-      "tier": "A2"
-     },
-     {
-      "front": "avere difficoltà con",
-      "pos": "phrase",
-      "back": "to have difficulty with",
-      "example": "Ho difficoltà con la grammatica.",
-      "tier": "B1"
-     },
-     {
-      "front": "il calcolo",
-      "pos": "noun",
-      "back": "calculation",
-      "example": "Fa i calcoli molto veloce.",
-      "tier": "B1"
-     },
-     {
-      "front": "peggiorare",
-      "pos": "verb",
-      "back": "to get worse",
-      "example": "Il tempo è peggiorato di sera.",
-      "tier": "B1"
-     },
-     {
-      "front": "rimanere chiuso",
-      "pos": "phrase",
-      "back": "to stay closed",
-      "example": "Il negozio è rimasto chiuso tutto il giorno.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'insegnante",
-      "pos": "noun",
-      "back": "teacher",
-      "example": "L'insegnante spiega la lezione.",
-      "tier": "A2"
-     },
-     {
-      "front": "la voglia",
-      "pos": "noun",
-      "back": "desire, wish",
-      "example": "Ho voglia di un gelato.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'obiettivo",
-      "pos": "noun",
-      "back": "goal, aim",
-      "example": "Il nostro obiettivo è chiaro.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La situazione è peggiorata dopo il periodo del Covid.",
-      "point": "Passato prossimo con 'essere' e accordo",
-      "explanation": "'Peggiorare' usa l'ausiliare 'essere', quindi il participio concorda con il soggetto femminile: 'è peggiorata'.",
-      "why_tricky": "Con 'essere' il participio cambia in genere e numero; con 'avere' di solito no."
-     },
-     {
-      "sentence": "In quegli anni le scuole sono rimaste chiuse per molto tempo.",
-      "point": "Dimostrativo 'quegli' e accordo del participio",
-      "explanation": "'Quegli' è la forma di 'quei' davanti a parole che iniziano per vocale come 'anni'. 'Sono rimaste' concorda con 'le scuole'.",
-      "why_tricky": "'Quello' cambia forma come l'articolo: quel, quello, quell', quei, quegli."
-     },
-     {
-      "sentence": "Questo significa che molti alunni hanno difficoltà con i numeri e con i calcoli semplici.",
-      "point": "Espressione 'avere difficoltà con'",
-      "explanation": "Si usa 'avere difficoltà con' più un nome per dire che qualcosa è difficile per qualcuno.",
-      "why_tricky": "Si dice 'difficoltà con', non 'difficoltà in', quando segue un nome concreto."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "di tutti i giorni",
-      "meaning": "che succede ogni giorno, normale",
-      "example": "Sono i problemi di tutti i giorni."
-     },
-     {
-      "phrase": "far tornare la voglia",
-      "meaning": "fare venire di nuovo il desiderio di qualcosa",
-      "example": "Quel libro mi ha fatto tornare la voglia di leggere."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa dice la ricerca Invalsi sui bambini delle elementari?",
-      "type": "open"
-     },
-     {
-      "q": "Perché la situazione è peggiorata negli ultimi anni?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa chiedono alcune persone per aiutare i bambini?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, come si può aiutare i bambini ad amare la matematica? Scrivi due o tre idee semplici."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-26-caldo-bollino-rosso",
-   "title": "Sabato salgono a 19 le città col bollino rosso per il caldo",
-   "source": "ANSA",
-   "date": "2026-07-16",
-   "level": "A2-B1",
-   "topics": [
-    "meteo",
-    "salute"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-26-caldo-bollino-rosso",
-    "revision": 1,
-    "meta": {
-     "title": "Sabato salgono a 19 le città col bollino rosso per il caldo",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/sabato-salgono-a-19-le-citta-col-bollino-rosso-per-il-caldo_0c17b621-0f0b-451d-944d-ff82e3de9dfd.html",
-     "date_published": "2026-07-16",
-     "date_processed": "2026-07-26",
-     "tags": [
-      "meteo",
-      "salute"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "It is very hot in Italy. On Saturday the cities with the red alert rise to nineteen. The day before there were sixteen. The red alert is the highest level of warning for heat. It means that temperatures are very high and can be dangerous for everyone's health, not only for weak people.\n\nThe authorities give some simple advice. It is better to drink a lot of water and stay at home during the hottest hours of the day. Elderly people and children must be very careful. Animals also suffer from the heat and need fresh water and shade. Strong heat is now common during the Italian summer, and for this reason it is important to follow the advice and protect the most fragile people.",
-    "resumen_es": "In Italia fa molto caldo. Sabato le città con il bollino rosso salgono a diciannove. Il giorno prima erano sedici. Il bollino rosso è il livello più alto di allerta per il caldo. Vuol dire che le temperature sono molto alte e possono essere pericolose per la salute di tutti, non solo delle persone deboli.\n\nLe autorità danno alcuni consigli semplici. È meglio bere molta acqua e restare in casa nelle ore più calde del giorno. Le persone anziane e i bambini devono stare molto attenti. Anche gli animali soffrono il caldo e hanno bisogno di acqua fresca e di ombra. Il caldo forte è ormai comune durante l'estate italiana, e per questo è importante seguire i consigli e proteggere le persone più fragili.",
-    "vocab": [
-     {
-      "front": "il caldo",
-      "pos": "noun",
-      "back": "the heat",
-      "example": "In estate fa molto caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "il bollino rosso",
-      "pos": "phrase",
-      "back": "red alert level",
-      "example": "Oggi c'è il bollino rosso in città.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'allerta",
-      "pos": "noun",
-      "back": "alert, warning",
-      "example": "C'è un'allerta per il maltempo.",
-      "tier": "B1"
-     },
-     {
-      "front": "la temperatura",
-      "pos": "noun",
-      "back": "temperature",
-      "example": "La temperatura è molto alta.",
-      "tier": "B1"
-     },
-     {
-      "front": "pericoloso",
-      "pos": "adj",
-      "back": "dangerous",
-      "example": "Il caldo forte è pericoloso.",
-      "tier": "B1"
-     },
-     {
-      "front": "la salute",
-      "pos": "noun",
-      "back": "health",
-      "example": "Devi pensare alla tua salute.",
-      "tier": "B1"
-     },
-     {
-      "front": "il consiglio",
-      "pos": "noun",
-      "back": "piece of advice",
-      "example": "Ti do un consiglio utile.",
-      "tier": "B1"
-     },
-     {
-      "front": "bere",
-      "pos": "verb",
-      "back": "to drink",
-      "example": "Devi bere molta acqua.",
-      "tier": "A2"
-     },
-     {
-      "front": "anziano",
-      "pos": "adj",
-      "back": "elderly",
-      "example": "Le persone anziane soffrono il caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "soffrire",
-      "pos": "verb",
-      "back": "to suffer",
-      "example": "Gli animali soffrono il caldo.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'ombra",
-      "pos": "noun",
-      "back": "shade",
-      "example": "Il cane cerca l'ombra.",
-      "tier": "B1"
-     },
-     {
-      "front": "fragile",
-      "pos": "adj",
-      "back": "fragile, vulnerable",
-      "example": "Dobbiamo proteggere le persone fragili.",
-      "tier": "B1"
-     },
-     {
-      "front": "attento",
-      "pos": "adj",
-      "back": "careful",
-      "example": "Stai attento al sole.",
-      "tier": "A2"
-     },
-     {
-      "front": "ormai",
-      "pos": "adv",
-      "back": "by now, nowadays",
-      "example": "Ormai fa caldo ogni estate.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Sabato le città con il bollino rosso salgono a diciannove.",
-      "point": "Presente del verbo irregolare 'salire'",
-      "explanation": "'salgono' è la terza persona plurale di 'salire'; qui significa che il numero aumenta fino a diciannove.",
-      "why_tricky": "'salire' è irregolare (io salgo, loro salgono) e in questo contesto vuol dire 'aumentare', non solo 'andare su'."
-     },
-     {
-      "sentence": "È meglio bere molta acqua e restare in casa nelle ore più calde del giorno.",
-      "point": "'è meglio + infinito' e il superlativo",
-      "explanation": "'è meglio + infinito' serve a dare un consiglio; 'più calde' è il comparativo/superlativo di 'caldo'.",
-      "why_tricky": "Dopo 'è meglio' si usa l'infinito senza preposizione, cosa che in inglese richiede 'to'."
-     },
-     {
-      "sentence": "Le persone anziane e i bambini devono stare molto attenti.",
-      "point": "'dovere + infinito' e accordo dell'aggettivo",
-      "explanation": "'devono stare' esprime un obbligo; 'attenti' concorda al maschile plurale con il gruppo.",
-      "why_tricky": "L'aggettivo 'attenti' deve accordarsi con il soggetto plurale, un dettaglio facile da dimenticare."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "soffrire il caldo",
-      "meaning": "sentirsi male a causa delle temperature alte",
-      "example": "D'estate soffro molto il caldo."
-     },
-     {
-      "phrase": "stare attento",
-      "meaning": "fare attenzione, essere prudente",
-      "example": "Stai attento quando esci con questo sole."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa significa il bollino rosso?",
-      "type": "open"
-     },
-     {
-      "q": "Quali consigli danno le autorità per il caldo?",
-      "type": "open"
-     },
-     {
-      "q": "Perché le persone anziane e i bambini devono stare attenti?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Come passi le giornate quando fa molto caldo? Scrivi un breve testo con i tuoi consigli."
    }
   }
  ]
