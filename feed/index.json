@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-03T08:11:47Z",
+  "generated_at": "2026-08-04T08:10:38Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-04-social-voti-scuola",
+      "title": "L'uso dei social in adolescenza potrebbe incidere sui voti a scuola",
+      "source": "ANSA",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-social-voti-scuola",
+        "revision": 1,
+        "meta": {
+          "title": "L'uso dei social in adolescenza potrebbe incidere sui voti a scuola",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/03/luso-dei-social-in-adolescenza-potrebbe-incidere-sui-voti-a-scuola_443e6bf6-4d74-4c20-b164-67ce17d09a97.html",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "scuola",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "An Italian study says that social networks can affect school marks. The researchers compared the results of the Invalsi tests in Italian and maths with the age at which young people opened their first social media profile. The finding is clear: those who start earlier get lower scores. The effect is not enormous, but it shows up consistently.\n\nExperts explain that the main problem is time. The hours spent on a screen are hours taken away from study, from reading and above all from sleep. A teenager who sleeps little struggles to concentrate the next day. Many teachers are asking for clearer rules on phone use in class. Others, though, prefer to work on digital education, because banning is not enough. The research continues and the results will also be useful to families.",
+        "resumen_es": "Uno studio italiano dice che i social network possono influire sui voti a scuola. I ricercatori hanno confrontato i risultati dei test Invalsi di italiano e matematica con l'età in cui i ragazzi hanno aperto il primo profilo social. Il dato è chiaro: chi comincia prima ottiene punteggi più bassi. L'effetto non è enorme, ma si vede in modo costante.\n\nGli esperti spiegano che il problema principale è il tempo. Le ore passate davanti allo schermo sono ore tolte allo studio, alla lettura e soprattutto al sonno. Un ragazzo che dorme poco fatica a concentrarsi il giorno dopo. Molti insegnanti chiedono regole più chiare sull'uso del telefono in classe. Altri, invece, preferiscono lavorare sull'educazione digitale, perché vietare non basta. La ricerca continua e i risultati saranno utili anche alle famiglie.",
+        "vocab": [
+          {
+            "front": "influire su",
+            "pos": "verb",
+            "back": "to affect, to have an influence on",
+            "example": "Il tempo libero influisce sul nostro umore.",
+            "tier": "B1"
+          },
+          {
+            "front": "il voto",
+            "pos": "noun",
+            "back": "mark, grade at school",
+            "example": "Ha preso un bel voto in matematica.",
+            "tier": "A2"
+          },
+          {
+            "front": "confrontare",
+            "pos": "verb",
+            "back": "to compare",
+            "example": "Ho confrontato i prezzi di tre negozi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il punteggio",
+            "pos": "noun",
+            "back": "score",
+            "example": "Il punteggio finale è stato molto alto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dato",
+            "pos": "noun",
+            "back": "figure, piece of data",
+            "example": "Questo dato è davvero interessante.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Passo troppe ore davanti allo schermo.",
+            "tier": "A2"
+          },
+          {
+            "front": "togliere tempo a",
+            "pos": "phrase",
+            "back": "to take time away from",
+            "example": "Il lavoro mi toglie tempo alla famiglia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sonno",
+            "pos": "noun",
+            "back": "sleep",
+            "example": "Il sonno è importante quanto il cibo.",
+            "tier": "A2"
+          },
+          {
+            "front": "faticare a",
+            "pos": "verb",
+            "back": "to struggle to do something",
+            "example": "Fatico a svegliarmi presto.",
+            "tier": "B1"
+          },
+          {
+            "front": "concentrarsi",
+            "pos": "verb",
+            "back": "to concentrate",
+            "example": "Non riesco a concentrarmi con la musica.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'insegnante",
+            "pos": "noun",
+            "back": "teacher",
+            "example": "La mia insegnante di storia è bravissima.",
+            "tier": "A2"
+          },
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to ban, to forbid",
+            "example": "In questa scuola vietano il telefono.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "Non basta studiare la sera prima.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il dato è chiaro: chi comincia prima ottiene punteggi più bassi.",
+            "point": "chi as 'those who' with a singular verb",
+            "explanation": "'Chi' introduces a general subject meaning 'the person who' or 'those who', and the verb after it always stays singular.",
+            "why_tricky": "The English meaning is plural, so learners write 'chi cominciano' or add 'le persone che'."
+          },
+          {
+            "sentence": "Le ore passate davanti allo schermo sono ore tolte allo studio, alla lettura e soprattutto al sonno.",
+            "point": "Past participle used as an adjective",
+            "explanation": "'Passate' and 'tolte' are participles working like adjectives, so they agree in gender and number with 'ore'.",
+            "why_tricky": "There is no auxiliary verb here, so learners do not expect agreement and leave the participle in the masculine singular."
+          },
+          {
+            "sentence": "Altri, invece, preferiscono lavorare sull'educazione digitale, perché vietare non basta.",
+            "point": "Infinitive as the subject of the sentence",
+            "explanation": "Italian uses the plain infinitive where English uses the -ing form, so 'vietare non basta' means 'banning is not enough'.",
+            "why_tricky": "Learners look for a gerund and produce 'vietando non basta', which is wrong in Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non basta",
+            "meaning": "it is not enough, it does not solve the problem on its own",
+            "example": "Studiare la sera prima non basta."
+          },
+          {
+            "phrase": "il giorno dopo",
+            "meaning": "the following day",
+            "example": "Siamo tornati tardi e il giorno dopo ero stanchissimo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno confrontato i ricercatori nello studio?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il tempo è il problema principale, secondo gli esperti?",
+            "type": "open"
+          },
+          {
+            "q": "Quali due idee diverse hanno gli insegnanti sul telefono in classe?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, la scuola deve vietare il telefono in classe? Scrivi circa 100 parole con almeno due motivi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-carta-identita-elettronica",
+      "title": "All'estero solo con la carta d'identità elettronica",
+      "source": "ANSA",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "documenti"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-carta-identita-elettronica",
+        "revision": 1,
+        "meta": {
+          "title": "All'estero solo con la carta d'identità elettronica",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/08/03/da-oggi-la-carta-didentita-cartacea-non-e-piu-valida-per-espatrio_99359be0-f8d3-4183-b00e-85b6514883f5.html",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "viaggi",
+            "documenti"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "From Monday the paper identity card is no longer valid for travelling abroad. To leave Italy you need the electronic identity card, the one with the microchip, or else a passport. The rule comes from the European Union and applies to all Italian citizens. Anyone who still has the old document has to ask their local council for a new one.\n\nIn many councils, however, there are long waiting lists. For this reason councils will be able to issue a temporary document to people with an urgent trip. The advice is simple: check the expiry date of your document straight away and book the appointment in advance, without waiting until the last moment. Anyone travelling with an invalid document risks being left behind at the airport. Airlines are also reminding passengers of these rules.",
+        "resumen_es": "Da lunedì la carta d'identità di carta non vale più per viaggiare all'estero. Per uscire dall'Italia serve la carta d'identità elettronica, quella con il microchip, oppure il passaporto. La regola arriva dall'Unione Europea e riguarda tutti i cittadini italiani. Chi ha ancora il vecchio documento deve chiederne uno nuovo al proprio Comune.\n\nIn molti Comuni, però, ci sono liste d'attesa lunghe. Per questo motivo i Comuni potranno rilasciare un documento provvisorio a chi ha un viaggio urgente. Il consiglio è semplice: controllare subito la scadenza del documento e prenotare l'appuntamento con anticipo, senza aspettare l'ultimo momento. Chi parte con un documento non valido rischia di restare a terra in aeroporto. Anche le compagnie aeree ricordano queste regole ai passeggeri.",
+        "vocab": [
+          {
+            "front": "la carta d'identità",
+            "pos": "noun",
+            "back": "identity card",
+            "example": "Ho perso la carta d'identità in vacanza.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'estero",
+            "pos": "adv",
+            "back": "abroad",
+            "example": "Mio fratello lavora all'estero da due anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "valere",
+            "pos": "verb",
+            "back": "to be valid, to count",
+            "example": "Questo biglietto vale solo oggi.",
+            "tier": "B1"
+          },
+          {
+            "front": "servire",
+            "pos": "verb",
+            "back": "to be needed",
+            "example": "Per entrare serve la prenotazione.",
+            "tier": "A2"
+          },
+          {
+            "front": "riguardare",
+            "pos": "verb",
+            "back": "to concern, to apply to",
+            "example": "La novità riguarda tutti gli studenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il Comune",
+            "pos": "noun",
+            "back": "local council, town hall",
+            "example": "Devo andare in Comune per un certificato.",
+            "tier": "B1"
+          },
+          {
+            "front": "la lista d'attesa",
+            "pos": "noun",
+            "back": "waiting list",
+            "example": "Siamo in lista d'attesa da tre mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "rilasciare",
+            "pos": "verb",
+            "back": "to issue (a document)",
+            "example": "Il Comune rilascia il documento in due giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "provvisorio",
+            "pos": "adj",
+            "back": "temporary, provisional",
+            "example": "Mi hanno dato un permesso provvisorio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scadenza",
+            "pos": "noun",
+            "back": "expiry date, deadline",
+            "example": "Controlla sempre la scadenza del latte.",
+            "tier": "B1"
+          },
+          {
+            "front": "prenotare",
+            "pos": "verb",
+            "back": "to book",
+            "example": "Ho prenotato un tavolo per otto persone.",
+            "tier": "A2"
+          },
+          {
+            "front": "con anticipo",
+            "pos": "phrase",
+            "back": "in advance, early",
+            "example": "Compra i biglietti con anticipo, costano meno.",
+            "tier": "B1"
+          },
+          {
+            "front": "rischiare di",
+            "pos": "verb",
+            "back": "to risk doing something",
+            "example": "Rischi di perdere il treno.",
+            "tier": "B1"
+          },
+          {
+            "front": "il passeggero",
+            "pos": "noun",
+            "back": "passenger",
+            "example": "I passeggeri devono restare seduti.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Chi ha ancora il vecchio documento deve chiederne uno nuovo al proprio Comune.",
+            "point": "The particle ne replacing 'of it'",
+            "explanation": "'Ne' stands for 'di questo documento', so 'chiederne uno nuovo' means 'to ask for a new one of them'.",
+            "why_tricky": "English simply says 'a new one' with nothing extra, so learners drop 'ne' and the sentence sounds incomplete in Italian."
+          },
+          {
+            "sentence": "Per questo motivo i Comuni potranno rilasciare un documento provvisorio a chi ha un viaggio urgente.",
+            "point": "Simple future of potere",
+            "explanation": "'Potranno' is the future of 'potere' and expresses a permission that starts in the future, common in news about new rules.",
+            "why_tricky": "The stem changes to 'potr-', so learners who expect a regular form produce 'poteranno'."
+          },
+          {
+            "sentence": "Chi parte con un documento non valido rischia di restare a terra in aeroporto.",
+            "point": "rischiare di plus infinitive",
+            "explanation": "Verbs like rischiare, cercare and decidere need the preposition 'di' before a following infinitive.",
+            "why_tricky": "English uses an -ing form with no preposition, so learners write 'rischia restare'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "restare a terra",
+            "meaning": "to be left behind, not to be allowed to board",
+            "example": "Sono arrivati tardi al check-in e sono restati a terra."
+          },
+          {
+            "phrase": "all'ultimo momento",
+            "meaning": "at the very last minute",
+            "example": "Prepara sempre la valigia all'ultimo momento."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali documenti servono adesso per uscire dall'Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i Comuni possono dare un documento provvisorio?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è il consiglio principale dell'articolo per chi deve viaggiare?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti è mai capitato un problema con un documento o un viaggio? Racconta in circa 100 parole che cosa è successo e come hai risolto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-megacostellazioni-satelliti",
+      "title": "Dalle megacostellazioni di satelliti il rischio di un far west spaziale",
+      "source": "ANSA",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "spazio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-megacostellazioni-satelliti",
+        "revision": 1,
+        "meta": {
+          "title": "Dalle megacostellazioni di satelliti il rischio di un far west spaziale",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/04/dalle-megacostellazioni-di-satelliti-il-rischio-di-un-far-west-spaziale_242ffe9d-e29a-4099-b623-643cb88a1d8f.html",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "scienza",
+            "spazio"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Florence a group of astronomers has made an appeal about satellites. Today there are thousands of satellites around the Earth, and the big companies want to launch many more. These enormous groups are called megaconstellations. They are used to bring internet to the whole world, but they also create serious problems.\n\nThe first problem is light: the satellites shine in the sky and disturb the observations made by telescopes. The second is space full of rubbish, because every old object can collide with the others. This is why scientists are asking for shared international rules. Without common rules, they say, space risks becoming a sort of wild west. The discussion has only just begun and it involves governments, companies and researchers all over the world.",
+        "resumen_es": "A Firenze un gruppo di astronomi ha lanciato un appello sui satelliti. Oggi intorno alla Terra ci sono migliaia di satelliti, e le grandi aziende vogliono lanciarne molti altri. Questi gruppi enormi si chiamano megacostellazioni. Servono per portare internet in tutto il mondo, ma creano anche problemi seri.\n\nIl primo problema è la luce: i satelliti brillano nel cielo e disturbano le osservazioni dei telescopi. Il secondo è lo spazio pieno di rifiuti, perché ogni oggetto vecchio può scontrarsi con gli altri. Per questo gli scienziati chiedono regole internazionali condivise. Senza regole comuni, dicono, lo spazio rischia di diventare una specie di far west. La discussione è appena cominciata e coinvolge governi, aziende e ricercatori di tutto il mondo.",
+        "vocab": [
+          {
+            "front": "lanciare un appello",
+            "pos": "phrase",
+            "back": "to make an appeal",
+            "example": "I medici hanno lanciato un appello ai giovani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il satellite",
+            "pos": "noun",
+            "back": "satellite",
+            "example": "Il satellite manda immagini ogni giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "intorno a",
+            "pos": "prep",
+            "back": "around",
+            "example": "Abbiamo camminato intorno al lago.",
+            "tier": "A2"
+          },
+          {
+            "front": "migliaia di",
+            "pos": "noun",
+            "back": "thousands of",
+            "example": "Migliaia di persone erano in piazza.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'azienda",
+            "pos": "noun",
+            "back": "company, firm",
+            "example": "Lavoro in un'azienda piccola.",
+            "tier": "A2"
+          },
+          {
+            "front": "brillare",
+            "pos": "verb",
+            "back": "to shine",
+            "example": "Le stelle brillano più forte in montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "disturbare",
+            "pos": "verb",
+            "back": "to disturb, to interfere with",
+            "example": "Il rumore disturba i vicini.",
+            "tier": "A2"
+          },
+          {
+            "front": "il rifiuto",
+            "pos": "noun",
+            "back": "waste, piece of rubbish",
+            "example": "In città i rifiuti sono un problema serio.",
+            "tier": "B1"
+          },
+          {
+            "front": "scontrarsi con",
+            "pos": "verb",
+            "back": "to collide with",
+            "example": "L'auto si è scontrata con un camion.",
+            "tier": "B1"
+          },
+          {
+            "front": "condiviso",
+            "pos": "adj",
+            "back": "shared",
+            "example": "Abbiamo un obiettivo condiviso.",
+            "tier": "B1"
+          },
+          {
+            "front": "una specie di",
+            "pos": "phrase",
+            "back": "a sort of, a kind of",
+            "example": "È una specie di museo all'aperto.",
+            "tier": "B1"
+          },
+          {
+            "front": "appena",
+            "pos": "adv",
+            "back": "just, only just",
+            "example": "Il film è appena finito.",
+            "tier": "A2"
+          },
+          {
+            "front": "coinvolgere",
+            "pos": "verb",
+            "back": "to involve",
+            "example": "Il progetto coinvolge cinque scuole.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Oggi intorno alla Terra ci sono migliaia di satelliti, e le grandi aziende vogliono lanciarne molti altri.",
+            "point": "ne attached to an infinitive",
+            "explanation": "'Ne' means 'of them' and joins the end of the infinitive after a modal verb, giving 'lanciarne'.",
+            "why_tricky": "Learners either forget 'ne' or place it before 'vogliono', which sounds unnatural here."
+          },
+          {
+            "sentence": "Il secondo è lo spazio pieno di rifiuti, perché ogni oggetto vecchio può scontrarsi con gli altri.",
+            "point": "Reflexive infinitive after a modal verb",
+            "explanation": "With modal verbs the reflexive pronoun can stay attached to the infinitive, so 'può scontrarsi' is the natural order.",
+            "why_tricky": "Learners drop the reflexive 'si' entirely, since English 'collide' is not reflexive."
+          },
+          {
+            "sentence": "La discussione è appena cominciata e coinvolge governi, aziende e ricercatori di tutto il mondo.",
+            "point": "Passato prossimo with essere and agreement",
+            "explanation": "'Cominciare' takes 'essere' when it has no object, so the participle agrees with the feminine subject 'la discussione'.",
+            "why_tricky": "The same verb takes 'avere' when it does have an object, so learners must watch the sentence structure, not just the verb."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "una specie di far west",
+            "meaning": "a lawless situation where anything goes",
+            "example": "Senza controlli il mercato diventa una specie di far west."
+          },
+          {
+            "phrase": "lanciare un appello",
+            "meaning": "to publicly call on others to act",
+            "example": "L'associazione ha lanciato un appello per trovare volontari."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa sono le megacostellazioni e a che cosa servono?",
+            "type": "open"
+          },
+          {
+            "q": "Quali due problemi principali indicano gli astronomi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono gli scienziati per evitare il far west spaziale?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te è più importante avere internet ovunque o proteggere il cielo notturno? Scrivi circa 100 parole e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-08-03-terremoto-campi-flegrei",
       "title": "Terremoto nei Campi Flegrei di magnitudo 4.7, il più forte degli ultimi tempi",
@@ -6187,506 +6701,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, i bambini dovrebbero bere gli energy drink? Scrivi la tua opinione in poche frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-cane-fantasma-amazzonia",
-      "title": "Gli occhi nel bosco del cane fantasma dell'America Latina: studio cattura le immagini dopo decenni",
-      "source": "RaiNews",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "natura",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-cane-fantasma-amazzonia",
-        "revision": 1,
-        "meta": {
-          "title": "Gli occhi nel bosco del cane fantasma dell'America Latina: studio cattura le immagini dopo decenni",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/video/2026/07/gli-occhi-nel-bosco-del-cane-fantasma-dellamerica-latina-studio-cattura-le-immagini-dopo-decenni-video-a315ca21-e43f-47c4-b464-573fd0760802.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "natura",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In the Amazon forest lives a very rare and mysterious animal. It is called the short-eared dog and it lives in Latin America. Many people call it the ghost dog, because it is almost impossible to see it. Now a group of researchers has managed to photograph it in Bolivia. The images arrive after many years of waiting and research.\n\nThis wild dog is difficult to study because it lives far from people. The scientists use special cameras hidden among the trees. The photographs help to understand how the animal lives and where it moves. Unfortunately the forest is in danger because of humans. For this reason the experts want to protect its territory. Every new image is a small treasure for science and for nature.",
-        "resumen_es": "Nella foresta amazzonica vive un animale molto raro e misterioso. Si chiama cane dalle orecchie corte e vive in America Latina. Molti lo chiamano il cane fantasma, perche e quasi impossibile vederlo. Ora un gruppo di ricercatori e riuscito a fotografarlo in Bolivia. Le immagini arrivano dopo molti anni di attesa e di ricerche.\n\nQuesto cane selvatico e difficile da studiare perche vive lontano dalle persone. Gli scienziati usano macchine fotografiche speciali nascoste tra gli alberi. Le fotografie aiutano a capire come vive e dove si muove l'animale. Purtroppo la foresta e in pericolo a causa dell'uomo. Per questo gli esperti vogliono proteggere il suo territorio. Ogni nuova immagine e un piccolo tesoro per la scienza e per la natura.",
-        "vocab": [
-          {
-            "front": "la foresta",
-            "pos": "noun",
-            "back": "forest",
-            "example": "La foresta amazzonica e enorme.",
-            "tier": "A2"
-          },
-          {
-            "front": "raro",
-            "pos": "adj",
-            "back": "rare",
-            "example": "E un animale molto raro.",
-            "tier": "A2"
-          },
-          {
-            "front": "misterioso",
-            "pos": "adj",
-            "back": "mysterious",
-            "example": "Il cane fantasma e misterioso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "I ricercatori studiano gli animali.",
-            "tier": "B1"
-          },
-          {
-            "front": "riuscire a",
-            "pos": "verb",
-            "back": "to manage to, succeed in",
-            "example": "Sono riusciti a fotografare l'animale.",
-            "tier": "B1"
-          },
-          {
-            "front": "selvatico",
-            "pos": "adj",
-            "back": "wild",
-            "example": "Il cane selvatico vive nella foresta.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascosto",
-            "pos": "adj",
-            "back": "hidden",
-            "example": "La macchina fotografica e nascosta tra gli alberi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'albero",
-            "pos": "noun",
-            "back": "tree",
-            "example": "Gli uccelli vivono sugli alberi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pericolo",
-            "pos": "noun",
-            "back": "danger",
-            "example": "La foresta e in pericolo.",
-            "tier": "A2"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Dobbiamo proteggere la natura.",
-            "tier": "B1"
-          },
-          {
-            "front": "il territorio",
-            "pos": "noun",
-            "back": "territory, land",
-            "example": "Ogni animale ha il suo territorio.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tesoro",
-            "pos": "noun",
-            "back": "treasure",
-            "example": "Ogni foto e un piccolo tesoro.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "un gruppo di ricercatori e riuscito a fotografarlo in Bolivia",
-            "point": "'riuscire a' + infinito al passato prossimo con 'essere'",
-            "explanation": "'Riuscire' vuole la preposizione 'a' prima dell'infinito e forma il passato prossimo con 'essere': 'e riuscito'. Il pronome 'lo' si attacca all'infinito ('fotografarlo').",
-            "why_tricky": "Molti usano 'avere' invece di 'essere', e dimenticano la 'a'."
-          },
-          {
-            "sentence": "Questo cane selvatico e difficile da studiare perche vive lontano dalle persone",
-            "point": "'essere difficile da' + infinito",
-            "explanation": "La struttura 'essere difficile/facile da + infinito' descrive quanto e complicato fare qualcosa: 'difficile da studiare'.",
-            "why_tricky": "Si usa 'da' e non 'di' o 'a' davanti all'infinito."
-          },
-          {
-            "sentence": "gli esperti vogliono proteggere il suo territorio",
-            "point": "'volere' + infinito",
-            "explanation": "Dopo i verbi modali come 'volere' si mette direttamente l'infinito, senza preposizione: 'vogliono proteggere'.",
-            "why_tricky": "Il verbo 'volere' e irregolare (loro vogliono) ed e facile sbagliarne la forma."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a causa di",
-            "meaning": "because of, due to",
-            "example": "La foresta e in pericolo a causa dell'uomo."
-          },
-          {
-            "phrase": "tra gli alberi",
-            "meaning": "among the trees",
-            "example": "Le macchine fotografiche sono nascoste tra gli alberi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perche questo animale si chiama cane fantasma?",
-            "type": "open"
-          },
-          {
-            "q": "Come fanno gli scienziati a studiare l'animale?",
-            "type": "open"
-          },
-          {
-            "q": "Perche e importante proteggere la foresta?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Perche e importante proteggere gli animali rari? Scrivi la tua opinione in poche frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-fiume-alghe-siccita",
-      "title": "Il fiume svizzero e un tappeto di alghe, tutta colpa della siccita",
-      "source": "RaiNews",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "clima"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-fiume-alghe-siccita",
-        "revision": 1,
-        "meta": {
-          "title": "Il fiume svizzero e un tappeto di alghe, tutta colpa della siccita",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/video/2026/07/il-fiume-svizzero-e-un-tappeto-di-alghe-tutta-colpa-della-siccita-c0aa1d89-f1f8-49c4-ace3-c5191efcce91.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "ambiente",
-            "clima"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Switzerland a river is covered by a large carpet of green algae. The algae cover a very big surface, like almost two football pitches. The images are impressive and a little sad. The experts say that the main cause is the drought. For a long time, in fact, it has rained too little in this area.\n\nWhen the river has little water, the water becomes warmer and slower. In these conditions the algae grow very quickly. The problem does not concern only the beauty of the landscape. Too much algae can take oxygen away from the water and put the fish in danger. The scientists link this phenomenon to climate change. For them it is a clear signal: we must protect the water and the rivers before it is too late.",
-        "resumen_es": "In Svizzera un fiume e coperto da un grande tappeto di alghe verdi. Le alghe occupano una superficie molto grande, come quasi due campi da calcio. Le immagini sono impressionanti e un po' tristi. Gli esperti dicono che la causa principale e la siccita. Da molto tempo, infatti, in questa zona piove troppo poco.\n\nQuando il fiume ha poca acqua, l'acqua diventa piu calda e piu lenta. In queste condizioni le alghe crescono molto in fretta. Il problema non riguarda solo la bellezza del paesaggio. Troppe alghe possono togliere ossigeno all'acqua e mettere in pericolo i pesci. Gli scienziati collegano questo fenomeno al cambiamento climatico. Per loro e un segnale chiaro: dobbiamo proteggere l'acqua e i fiumi prima che sia troppo tardi.",
-        "vocab": [
-          {
-            "front": "il fiume",
-            "pos": "noun",
-            "back": "river",
-            "example": "Il fiume attraversa la citta.",
-            "tier": "A2"
-          },
-          {
-            "front": "coperto",
-            "pos": "adj",
-            "back": "covered",
-            "example": "Il fiume e coperto di alghe.",
-            "tier": "A2"
-          },
-          {
-            "front": "le alghe",
-            "pos": "noun",
-            "back": "algae, seaweed",
-            "example": "Le alghe verdi crescono nell'acqua.",
-            "tier": "B1"
-          },
-          {
-            "front": "la superficie",
-            "pos": "noun",
-            "back": "surface, area",
-            "example": "Le alghe coprono una grande superficie.",
-            "tier": "B1"
-          },
-          {
-            "front": "la siccita",
-            "pos": "noun",
-            "back": "drought",
-            "example": "La siccita e un problema serio.",
-            "tier": "B1"
-          },
-          {
-            "front": "piovere",
-            "pos": "verb",
-            "back": "to rain",
-            "example": "In questa zona piove troppo poco.",
-            "tier": "A2"
-          },
-          {
-            "front": "lento",
-            "pos": "adj",
-            "back": "slow",
-            "example": "L'acqua diventa piu lenta.",
-            "tier": "A2"
-          },
-          {
-            "front": "crescere",
-            "pos": "verb",
-            "back": "to grow",
-            "example": "Le alghe crescono in fretta.",
-            "tier": "A2"
-          },
-          {
-            "front": "il paesaggio",
-            "pos": "noun",
-            "back": "landscape",
-            "example": "Il paesaggio e molto bello.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ossigeno",
-            "pos": "noun",
-            "back": "oxygen",
-            "example": "I pesci hanno bisogno di ossigeno.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cambiamento climatico",
-            "pos": "noun",
-            "back": "climate change",
-            "example": "Il cambiamento climatico preoccupa tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il segnale",
-            "pos": "noun",
-            "back": "sign, signal",
-            "example": "E un segnale chiaro per tutti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "un fiume e coperto da un grande tappeto di alghe verdi",
-            "point": "Passivo con 'essere' + participio + 'da'",
-            "explanation": "Il passivo si forma con 'essere' + participio passato ('e coperto'). Chi fa l'azione e introdotto da 'da'.",
-            "why_tricky": "Il participio 'coperto' concorda con il soggetto e serve la preposizione 'da'."
-          },
-          {
-            "sentence": "Quando il fiume ha poca acqua, l'acqua diventa piu calda e piu lenta",
-            "point": "Comparativo di maggioranza con 'piu'",
-            "explanation": "Per dire che qualcosa aumenta si usa 'piu' + aggettivo: 'piu calda', 'piu lenta'.",
-            "why_tricky": "L'aggettivo deve concordare in genere e numero con il nome ('acqua' femminile)."
-          },
-          {
-            "sentence": "dobbiamo proteggere l'acqua e i fiumi prima che sia troppo tardi",
-            "point": "'prima che' + congiuntivo",
-            "explanation": "La locuzione 'prima che' richiede il congiuntivo: 'sia' (congiuntivo presente di 'essere').",
-            "why_tricky": "E facile usare l'indicativo 'e', ma dopo 'prima che' serve il congiuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "colpa della siccita",
-            "meaning": "the drought's fault",
-            "example": "Il problema e tutta colpa della siccita."
-          },
-          {
-            "phrase": "mettere in pericolo",
-            "meaning": "to put in danger",
-            "example": "Le alghe mettono in pericolo i pesci."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa copre il fiume in Svizzera?",
-            "type": "open"
-          },
-          {
-            "q": "Qual e la causa principale di questo fenomeno?",
-            "type": "open"
-          },
-          {
-            "q": "Perche troppe alghe sono un pericolo per i pesci?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa possiamo fare per proteggere i fiumi e l'acqua? Scrivi la tua opinione in poche frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-27-odissea-cinema-incassi",
-      "title": "L'Odissea al cinema nell'Olimpo degli incassi in Italia",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-27-odissea-cinema-incassi",
-        "revision": 1,
-        "meta": {
-          "title": "L'Odissea al cinema nell'Olimpo degli incassi in Italia",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/27/odissea-nellolimpo-degli-incassi-secondo-weekend-con-un-totale-per-di-267_51d26d1a-ee72-4814-a5cb-97629d1ca992.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-27",
-          "tags": [
-            "cinema",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The new film 'The Odyssey' keeps having great success in Italy. In its second weekend in cinemas, it earned more money than the week before. Many people go to the cinema to see it. The film tells an ancient and famous story, and it pleases a very varied audience. The tickets sold are very many and the film stays first among the takings.\n\nThis result is important for Italian cinema. In summer, usually, fewer people go to the cinema, because it is hot and many are on holiday. A film that fills the halls in this period is therefore good news for everyone. The owners of the cinemas hope that the success continues also in the coming weeks. Meanwhile, the audience talks about the film on social media and advises friends to go and see it. Word of mouth helps a lot to bring new people into the hall.",
-        "resumen_es": "Il nuovo film 'L'Odissea' continua ad avere un grande successo in Italia. Nel suo secondo fine settimana nelle sale, ha incassato più soldi della settimana prima. Molte persone vanno al cinema per vederlo. Il film racconta una storia antica e famosa, e piace a un pubblico molto vario. I biglietti venduti sono tantissimi e il film resta primo tra gli incassi.\n\nQuesto risultato è importante per il cinema italiano. In estate, di solito, meno persone vanno al cinema, perché fa caldo e molti sono in vacanza. Un film che riempie le sale in questo periodo è quindi una buona notizia per tutti. I proprietari dei cinema sperano che il successo continui anche nelle prossime settimane. Intanto, il pubblico parla del film sui social e consiglia agli amici di andare a vederlo. Il passaparola aiuta molto a portare nuove persone in sala.",
-        "vocab": [
-          {
-            "front": "il successo",
-            "pos": "noun",
-            "back": "success",
-            "example": "Il film ha molto successo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fine settimana",
-            "pos": "phrase",
-            "back": "the weekend",
-            "example": "Vado al cinema il fine settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "incassare",
-            "pos": "verb",
-            "back": "to take in, earn (money)",
-            "example": "Il film ha incassato molti soldi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sala",
-            "pos": "noun",
-            "back": "cinema hall, room",
-            "example": "La sala è piena di gente.",
-            "tier": "B1"
-          },
-          {
-            "front": "il biglietto",
-            "pos": "noun",
-            "back": "ticket",
-            "example": "Ho comprato due biglietti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico è molto contento.",
-            "tier": "B1"
-          },
-          {
-            "front": "vario",
-            "pos": "adj",
-            "back": "varied, diverse",
-            "example": "Il pubblico è molto vario.",
-            "tier": "B1"
-          },
-          {
-            "front": "il risultato",
-            "pos": "noun",
-            "back": "result",
-            "example": "È un ottimo risultato.",
-            "tier": "B1"
-          },
-          {
-            "front": "in vacanza",
-            "pos": "phrase",
-            "back": "on holiday",
-            "example": "In estate molti sono in vacanza.",
-            "tier": "B1"
-          },
-          {
-            "front": "riempire",
-            "pos": "verb",
-            "back": "to fill",
-            "example": "Il film riempie le sale.",
-            "tier": "B1"
-          },
-          {
-            "front": "sperare",
-            "pos": "verb",
-            "back": "to hope",
-            "example": "Speriamo che continui così.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to recommend, advise",
-            "example": "Ti consiglio questo film.",
-            "tier": "B1"
-          },
-          {
-            "front": "il passaparola",
-            "pos": "noun",
-            "back": "word of mouth",
-            "example": "Il passaparola porta molti spettatori.",
-            "tier": "B2"
-          },
-          {
-            "front": "prossimo",
-            "pos": "adj",
-            "back": "next, coming",
-            "example": "La prossima settimana esce un altro film.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il nuovo film 'L'Odissea' continua ad avere un grande successo in Italia.",
-            "point": "Continuare a più infinito",
-            "explanation": "Per dire che un'azione va avanti nel tempo si usa 'continuare a' più l'infinito: 'continua ad avere'. Davanti a una vocale 'a' diventa 'ad'.",
-            "why_tricky": "Bisogna ricordare la preposizione 'a' e la 'd' eufonica prima di una vocale."
-          },
-          {
-            "sentence": "In estate, di solito, meno persone vanno al cinema, perché fa caldo e molti sono in vacanza.",
-            "point": "'Fa caldo': il tempo con il verbo 'fare'",
-            "explanation": "Per parlare del clima si usa 'fare': 'fa caldo', 'fa freddo'. Non si usa 'essere' come in altre lingue.",
-            "why_tricky": "In inglese si dice 'it is hot' con 'essere', ma in italiano serve 'fare'."
-          },
-          {
-            "sentence": "I proprietari dei cinema sperano che il successo continui anche nelle prossime settimane.",
-            "point": "Congiuntivo dopo 'sperare che'",
-            "explanation": "Dopo verbi di speranza e desiderio come 'sperare che' il verbo va al congiuntivo: 'continui'.",
-            "why_tricky": "La forma del congiuntivo 'continui' somiglia al presente, quindi è facile confondersi."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare successo",
-            "meaning": "to be a hit, to be very successful",
-            "example": "Il film sta facendo successo in tutta Italia."
-          },
-          {
-            "phrase": "il passaparola",
-            "meaning": "word of mouth",
-            "example": "Grazie al passaparola, molte persone vanno a vedere il film."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il film 'L'Odissea' è importante per il cinema italiano?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in estate di solito meno persone vanno al cinema?",
-            "type": "open"
-          },
-          {
-            "q": "Come aiuta il passaparola, secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci vedere i film al cinema o a casa? Spiega perché."
       }
     }
   ]
