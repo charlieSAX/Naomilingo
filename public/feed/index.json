@@ -1,7 +1,528 @@
 {
-  "generated_at": "2026-08-04T08:10:38Z",
+  "generated_at": "2026-08-04T20:11:37.876979Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-04-giappone-luoghi-silenzio",
+      "title": "In Giappone i luoghi del silenzio, tra montagne sacre e isole incontaminate",
+      "source": "ANSA",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "natura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-giappone-luoghi-silenzio",
+        "revision": 1,
+        "meta": {
+          "title": "In Giappone i luoghi del silenzio, tra montagne sacre e isole incontaminate",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/08/03/in-giappone-i-luoghi-del-silenzio-tra-montagne-sacre-e-isole-incontaminate_5e797c3c-6bb5-40b2-94be-729c18cc06eb.html",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "viaggi",
+            "natura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A few hours from Tokyo there are very quiet places. They are the sacred mountains of Dewa, in the north of Japan. The three peaks are called Haguro, Gassan and Yudono. For centuries pilgrims have climbed these mountains on foot. They walk among very tall trees and small wooden temples. Here silence is the most important thing.\n\nThese places are different from the big Japanese cities. There are no lights, shops or noise. Many travellers are looking for exactly this: stopping, breathing and walking slowly. Some islands in the country offer the same calm too, with empty beaches and clean nature. Slow tourism grows every year, because more and more people want to really rest during their holidays. To visit these areas you need good shoes, time and a little patience.",
+        "resumen_es": "A poche ore da Tokyo ci sono luoghi molto tranquilli. Sono le montagne sacre di Dewa, nel nord del Giappone. I tre monti si chiamano Haguro, Gassan e Yudono. Da secoli i pellegrini salgono su questi monti a piedi. Camminano tra alberi altissimi e piccoli templi di legno. Qui il silenzio è la cosa più importante.\n\nQuesti posti sono diversi dalle grandi città giapponesi. Non ci sono luci, negozi o rumore. Molti viaggiatori cercano proprio questo: fermarsi, respirare e camminare piano. Anche alcune isole del paese offrono la stessa calma, con spiagge vuote e natura pulita. Il turismo lento cresce ogni anno, perché sempre più persone vogliono riposare davvero durante le vacanze. Per visitare queste zone servono buone scarpe, tempo e un po' di pazienza.",
+        "vocab": [
+          {
+            "front": "il luogo",
+            "pos": "noun",
+            "back": "place",
+            "example": "Questo è un luogo molto tranquillo.",
+            "tier": "B1"
+          },
+          {
+            "front": "sacro",
+            "pos": "adj",
+            "back": "sacred, holy",
+            "example": "Per molte persone questa montagna è sacra.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pellegrino",
+            "pos": "noun",
+            "back": "pilgrim",
+            "example": "I pellegrini arrivano ogni estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "salire",
+            "pos": "verb",
+            "back": "to go up, to climb",
+            "example": "Saliamo sul monte domani mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "a piedi",
+            "pos": "phrase",
+            "back": "on foot",
+            "example": "Vado al lavoro a piedi.",
+            "tier": "A2"
+          },
+          {
+            "front": "camminare",
+            "pos": "verb",
+            "back": "to walk",
+            "example": "Camminiamo per due ore nel bosco.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tempio",
+            "pos": "noun",
+            "back": "temple",
+            "example": "Nel bosco c'è un piccolo tempio di legno.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rumore",
+            "pos": "noun",
+            "back": "noise",
+            "example": "In città c'è troppo rumore la notte.",
+            "tier": "A2"
+          },
+          {
+            "front": "fermarsi",
+            "pos": "verb",
+            "back": "to stop, to pause",
+            "example": "Mi fermo un momento a bere acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "respirare",
+            "pos": "verb",
+            "back": "to breathe",
+            "example": "Qui si respira aria pulita.",
+            "tier": "B1"
+          },
+          {
+            "front": "vuoto",
+            "pos": "adj",
+            "back": "empty",
+            "example": "La spiaggia era completamente vuota.",
+            "tier": "A2"
+          },
+          {
+            "front": "riposare",
+            "pos": "verb",
+            "back": "to rest",
+            "example": "In vacanza voglio solo riposare.",
+            "tier": "A2"
+          },
+          {
+            "front": "servire",
+            "pos": "verb",
+            "back": "to be needed, to take (something)",
+            "example": "Per questo viaggio servono scarpe comode.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Da secoli i pellegrini salgono su questi monti a piedi.",
+            "point": "da + time with the present tense",
+            "explanation": "Italian says 'da secoli i pellegrini salgono' with the present tense for something that started long ago and still happens today. English switches to 'have climbed', but Italian keeps the simple present.",
+            "why_tricky": "English speakers reach for the passato prossimo, 'sono saliti', which would mean the action is finished. With 'da' the present is the correct choice."
+          },
+          {
+            "sentence": "Non ci sono luci, negozi o rumore.",
+            "point": "negation with non ci sono and a list joined by o",
+            "explanation": "'Ci sono' means 'there are', and its negative is simply 'non ci sono'. After a negative, Italian uses 'o' between the listed items, without adding another 'non' before each one.",
+            "why_tricky": "Learners try to copy English 'no lights, no shops', repeating the negative, or they wrongly use 'e' instead of 'o' in a negative list."
+          },
+          {
+            "sentence": "Per visitare queste zone servono buone scarpe, tempo e un po' di pazienza.",
+            "point": "servire used impersonally, agreeing with the thing needed",
+            "explanation": "In 'servono buone scarpe, tempo e un po' di pazienza', the verb agrees with what is needed, not with the person needing it. Because the list is plural, the verb is 'servono' rather than 'serve'.",
+            "why_tricky": "It works backwards compared to English 'you need'. The person disappears from the sentence and the object becomes the subject, exactly like 'piacere'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a poche ore da",
+            "meaning": "only a few hours away from",
+            "example": "Il mare è a poche ore da casa mia."
+          },
+          {
+            "phrase": "un po' di pazienza",
+            "meaning": "a bit of patience",
+            "example": "Ci vuole un po' di pazienza per imparare una lingua."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove si trovano le montagne sacre di Dewa?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa cercano molti viaggiatori in questi luoghi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa serve per visitare queste zone?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci le vacanze in una grande città o in un posto tranquillo in mezzo alla natura? Scrivi 80 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-xbox-rincari-europa",
+      "title": "Dopo gli Usa scattano anche in Europa i rincari delle Xbox, fino a 200 euro",
+      "source": "ANSA",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-xbox-rincari-europa",
+        "revision": 1,
+        "meta": {
+          "title": "Dopo gli Usa scattano anche in Europa i rincari delle Xbox, fino a 200 euro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/03/dopo-gli-usa-scattano-anche-in-europa-i-rincari-delle-xbox-fino_2a8b5ffc-95d6-4d83-b893-39be7274fd69.html",
+          "date_published": "2026-08-03",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "tecnologia",
+            "economia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The prices of Xbox consoles are going up in Europe too. The increase arrived first in the United States, now it is the turn of European customers. In some cases the price rise can reach up to two hundred euros. The company explains that the costs of memory and storage space have grown a lot in recent months. For this reason the final price of the product changes.\n\nThis news does not concern video games only. Many electronic products use the same components, so other increases are possible. For families it means spending more for the same object. Some gamers will wait for the offers or will buy second-hand consoles. Others will switch to subscription games, which cost less at the start. In the coming months we will understand whether sales really do fall.",
+        "resumen_es": "I prezzi delle console Xbox aumentano anche in Europa. Prima l'aumento è arrivato negli Stati Uniti, adesso tocca ai clienti europei. In alcuni casi il rincaro può arrivare fino a duecento euro. L'azienda spiega che i costi della memoria e dello spazio di archiviazione sono cresciuti molto negli ultimi mesi. Per questo il prezzo finale del prodotto cambia.\n\nQuesta notizia non riguarda solo i videogiochi. Molti prodotti elettronici usano gli stessi componenti, quindi altri aumenti sono possibili. Per le famiglie significa spendere di più per lo stesso oggetto. Alcuni giocatori aspetteranno le offerte o compreranno console usate. Altri passeranno ai giochi in abbonamento, che costano meno all'inizio. Nei prossimi mesi capiremo se le vendite scendono davvero.",
+        "vocab": [
+          {
+            "front": "il prezzo",
+            "pos": "noun",
+            "back": "price",
+            "example": "Il prezzo del pane è aumentato.",
+            "tier": "A2"
+          },
+          {
+            "front": "aumentare",
+            "pos": "verb",
+            "back": "to increase, to go up",
+            "example": "I costi aumentano ogni anno.",
+            "tier": "A2"
+          },
+          {
+            "front": "il rincaro",
+            "pos": "noun",
+            "back": "price rise",
+            "example": "C'è stato un forte rincaro dell'energia.",
+            "tier": "B1"
+          },
+          {
+            "front": "toccare a qualcuno",
+            "pos": "phrase",
+            "back": "to be someone's turn",
+            "example": "Adesso tocca a te pagare.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'azienda",
+            "pos": "noun",
+            "back": "company, firm",
+            "example": "L'azienda ha spiegato la decisione.",
+            "tier": "A2"
+          },
+          {
+            "front": "il costo",
+            "pos": "noun",
+            "back": "cost",
+            "example": "I costi di produzione sono alti.",
+            "tier": "A2"
+          },
+          {
+            "front": "crescere",
+            "pos": "verb",
+            "back": "to grow, to rise",
+            "example": "Le vendite sono cresciute molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "riguardare",
+            "pos": "verb",
+            "back": "to concern, to be about",
+            "example": "Questo problema riguarda tutti noi.",
+            "tier": "B1"
+          },
+          {
+            "front": "quindi",
+            "pos": "adv",
+            "back": "so, therefore",
+            "example": "Piove, quindi restiamo a casa.",
+            "tier": "A2"
+          },
+          {
+            "front": "spendere",
+            "pos": "verb",
+            "back": "to spend (money)",
+            "example": "Spendo troppo per il caffè.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'offerta",
+            "pos": "noun",
+            "back": "special offer, deal",
+            "example": "Aspetto le offerte di settembre.",
+            "tier": "A2"
+          },
+          {
+            "front": "usato",
+            "pos": "adj",
+            "back": "second-hand, used",
+            "example": "Ho comprato una bici usata.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'abbonamento",
+            "pos": "noun",
+            "back": "subscription",
+            "example": "Pago un abbonamento mensile.",
+            "tier": "B1"
+          },
+          {
+            "front": "le vendite",
+            "pos": "noun",
+            "back": "sales",
+            "example": "Le vendite scendono in estate.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'azienda spiega che i costi della memoria e dello spazio di archiviazione sono cresciuti molto negli ultimi mesi.",
+            "point": "essere as the auxiliary with crescere in the passato prossimo",
+            "explanation": "'Sono cresciuti' uses essere, not avere, because crescere describes a change of state. With essere the participle must agree with the subject, so 'i costi' plural masculine gives the ending in i.",
+            "why_tricky": "Most action verbs take avere, and English 'have grown' pushes learners towards 'hanno cresciuto', which is wrong here."
+          },
+          {
+            "sentence": "Alcuni giocatori aspetteranno le offerte o compreranno console usate.",
+            "point": "simple future for predictions",
+            "explanation": "'Aspetteranno' and 'compreranno' are the futuro semplice, used for what will probably happen. Regular are verbs change the a to e before the future endings, so aspettare gives aspetteranno.",
+            "why_tricky": "The vowel change in are verbs is easy to forget, and learners produce 'aspettaranno' by mistake."
+          },
+          {
+            "sentence": "Per le famiglie significa spendere di più per lo stesso oggetto.",
+            "point": "impersonal significare followed by an infinitive",
+            "explanation": "'Significa spendere di più' means 'it means spending more'. Italian uses the infinitive where English uses the ing form, and 'di più' is the standard way to say 'more' after a verb.",
+            "why_tricky": "There is no gerund here, so learners write 'significa spendendo', copying the English structure."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "adesso tocca a te",
+            "meaning": "now it is your turn",
+            "example": "Ho lavato i piatti ieri, adesso tocca a te."
+          },
+          {
+            "phrase": "fino a",
+            "meaning": "up to, as far as",
+            "example": "Il prezzo può salire fino a cento euro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è arrivato prima l'aumento dei prezzi?",
+            "type": "open"
+          },
+          {
+            "q": "Quale spiegazione dà l'azienda per i nuovi prezzi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa possono fare i giocatori che non vogliono spendere di più?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, quanto è giusto spendere per una console o per un telefono nuovo? Scrivi 80 parole e spiega la tua idea."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-04-eclissi-solare-agosto",
+      "title": "Eclissi solare, il fenomeno del 12 agosto quando la luna oscurerà parzialmente la nostra stella",
+      "source": "Rai News",
+      "date": "2026-08-04",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "cielo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-04-eclissi-solare-agosto",
+        "revision": 1,
+        "meta": {
+          "title": "Eclissi solare, il fenomeno del 12 agosto quando la luna oscurerà parzialmente la nostra stella",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/eclissi-solare-il-fenomeno-del-12-agosto-quando-la-luna-oscurera-parzialmente-la-nostra-stella-astronomia-003286ee-4f18-4f94-b93d-85dd6fd4e50d.html",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-04",
+          "tags": [
+            "scienza",
+            "cielo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "On 12 August there will be a solar eclipse. In the late afternoon, shortly before sunset, the moon will pass in front of the sun and will partly cover it. The sky will become a little darker, but it will not be night. The phenomenon will last a few minutes and will be visible from many areas. To watch it you need special glasses, because the sun hurts your eyes.\n\nAn eclipse happens when the earth, the moon and the sun are almost on the same line. It is not an extremely rare thing, but every eclipse is different and not all countries see it in the same way. For astronomers it is also a work and study opportunity. For everyone else it is above all a free show. Many groups organise public evenings with telescopes, and usually the children are the happiest.",
+        "resumen_es": "Il 12 agosto ci sarà un'eclissi solare. Nel tardo pomeriggio, poco prima del tramonto, la luna passerà davanti al sole e lo coprirà in parte. Il cielo diventerà un po' più scuro, ma non sarà notte. Il fenomeno durerà alcuni minuti e sarà visibile da molte zone. Per guardarlo servono occhiali speciali, perché il sole fa male agli occhi.\n\nUn'eclissi succede quando la terra, la luna e il sole si trovano quasi sulla stessa linea. Non è una cosa rarissima, ma ogni eclissi è diversa e non tutti i paesi la vedono allo stesso modo. Per gli astronomi è anche un'occasione di lavoro e di studio. Per le altre persone è soprattutto uno spettacolo gratis. Molti gruppi organizzano serate pubbliche con i telescopi, e di solito i bambini sono i più contenti.",
+        "vocab": [
+          {
+            "front": "l'eclissi",
+            "pos": "noun",
+            "back": "eclipse",
+            "example": "L'eclissi comincia alle sette di sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tramonto",
+            "pos": "noun",
+            "back": "sunset",
+            "example": "Guardiamo il tramonto dal balcone.",
+            "tier": "A2"
+          },
+          {
+            "front": "coprire",
+            "pos": "verb",
+            "back": "to cover",
+            "example": "Le nuvole coprono il sole.",
+            "tier": "A2"
+          },
+          {
+            "front": "in parte",
+            "pos": "phrase",
+            "back": "partly, in part",
+            "example": "Hai ragione, ma solo in parte.",
+            "tier": "B1"
+          },
+          {
+            "front": "scuro",
+            "pos": "adj",
+            "back": "dark",
+            "example": "La stanza è troppo scura.",
+            "tier": "A2"
+          },
+          {
+            "front": "durare",
+            "pos": "verb",
+            "back": "to last",
+            "example": "Il film dura due ore.",
+            "tier": "A2"
+          },
+          {
+            "front": "visibile",
+            "pos": "adj",
+            "back": "visible",
+            "example": "La montagna è visibile da qui.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli occhiali",
+            "pos": "noun",
+            "back": "glasses",
+            "example": "Non trovo i miei occhiali.",
+            "tier": "A2"
+          },
+          {
+            "front": "fare male",
+            "pos": "phrase",
+            "back": "to hurt, to be bad for",
+            "example": "Il rumore forte fa male alle orecchie.",
+            "tier": "A2"
+          },
+          {
+            "front": "succedere",
+            "pos": "verb",
+            "back": "to happen",
+            "example": "Che cosa è successo ieri sera?",
+            "tier": "A2"
+          },
+          {
+            "front": "allo stesso modo",
+            "pos": "phrase",
+            "back": "in the same way",
+            "example": "Non tutti reagiscono allo stesso modo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'occasione",
+            "pos": "noun",
+            "back": "opportunity, occasion",
+            "example": "È una buona occasione per imparare.",
+            "tier": "B1"
+          },
+          {
+            "front": "gratis",
+            "pos": "adj",
+            "back": "free, at no cost",
+            "example": "L'ingresso al museo è gratis la domenica.",
+            "tier": "A2"
+          },
+          {
+            "front": "di solito",
+            "pos": "adv",
+            "back": "usually",
+            "example": "Di solito mi alzo alle sette.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nel tardo pomeriggio, poco prima del tramonto, la luna passerà davanti al sole e lo coprirà in parte.",
+            "point": "simple future and the object pronoun lo before the verb",
+            "explanation": "'Passerà' and 'coprirà' are futuro semplice forms. In 'lo coprirà', the pronoun lo stands for 'il sole' and goes before the conjugated verb, not after it.",
+            "why_tricky": "English puts the object after the verb, 'will cover it', so learners write 'coprirà lo', which is not possible with a conjugated verb."
+          },
+          {
+            "sentence": "Per guardarlo servono occhiali speciali, perché il sole fa male agli occhi.",
+            "point": "servire with a plural subject, and per + infinitive for purpose",
+            "explanation": "'Per guardarlo' expresses purpose, and the pronoun lo attaches to the end of the infinitive. 'Servono occhiali speciali' agrees with the plural thing that is needed, exactly like piacere.",
+            "why_tricky": "Two different pronoun rules appear in one sentence: attached to an infinitive, but placed before a conjugated verb."
+          },
+          {
+            "sentence": "Un'eclissi succede quando la terra, la luna e il sole si trovano quasi sulla stessa linea.",
+            "point": "quando + present indicative for general truths",
+            "explanation": "When you describe something that is always true, Italian uses quando with the present indicative, not the subjunctive or the future. 'Si trovano' is the reflexive of trovare meaning 'to be located'.",
+            "why_tricky": "Learners sometimes reach for the congiuntivo after quando, or translate 'are' with 'sono' instead of the more natural 'si trovano'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare male agli occhi",
+            "meaning": "to hurt your eyes",
+            "example": "Questa luce forte fa male agli occhi."
+          },
+          {
+            "phrase": "di solito",
+            "meaning": "usually, as a rule",
+            "example": "Di solito ceniamo alle otto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando comincerà l'eclissi del 12 agosto?",
+            "type": "open"
+          },
+          {
+            "q": "Perché servono occhiali speciali per guardare il sole?",
+            "type": "open"
+          },
+          {
+            "q": "Perché ogni eclissi non è uguale per tutti i paesi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta in 80 parole un momento in cui hai visto qualcosa di bello nel cielo."
+      }
+    },
     {
       "pack_id": "feed-2026-08-04-social-voti-scuola",
       "title": "L'uso dei social in adolescenza potrebbe incidere sui voti a scuola",
@@ -6187,520 +6708,6 @@
           }
         ],
         "opinion_prompt": "Ti piacerebbe visitare un vulcano come l'Etna? Perché sì o perché no? Scrivi la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-patti-smith-circo-massimo",
-      "title": "Patti Smith al Circo Massimo, l'emozione e l'impegno",
-      "source": "ANSA",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-patti-smith-circo-massimo",
-        "revision": 1,
-        "meta": {
-          "title": "Patti Smith al Circo Massimo, l'emozione e l'impegno",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/28/patti-smith-al-circo-massimo-lemozione-e-limpegno_66a12dca-102e-4b41-94e2-dcf8c145e957.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The American singer Patti Smith played in Rome, at the Circus Maximus. It was a great concert, full of emotion. Patti Smith is a famous rock artist and she will soon turn eighty. During the evening she sang her most famous and historic songs. The audience was happy and sang along with her.\n\nPatti Smith is not only a musician. She is also a committed woman, who often talks about peace and rights. For this reason her concert was also an important message. Many people of different ages came to listen to her. At the end, the audience applauded her for a long time with great enthusiasm. Concerts like this show that good music has no age and brings the generations together.",
-        "resumen_es": "La cantante americana Patti Smith ha suonato a Roma, al Circo Massimo. È stato un grande concerto, pieno di emozione. Patti Smith è una famosa artista rock e presto compie ottant'anni. Durante la serata ha cantato le sue canzoni più famose e storiche. Il pubblico era felice e ha cantato insieme a lei.\n\nPatti Smith non è solo una musicista. È anche una donna impegnata, che parla spesso di pace e di diritti. Per questo il suo concerto è stato anche un messaggio importante. Molte persone di età diverse sono venute ad ascoltarla. Alla fine, il pubblico l'ha applaudita a lungo con grande entusiasmo. Concerti come questo dimostrano che la buona musica non ha età e unisce le generazioni.",
-        "vocab": [
-          {
-            "front": "la cantante",
-            "pos": "noun",
-            "back": "the singer (female)",
-            "example": "La cantante ha una voce bellissima.",
-            "tier": "A2"
-          },
-          {
-            "front": "suonare",
-            "pos": "verb",
-            "back": "to play (music), to sound",
-            "example": "Suona la chitarra molto bene.",
-            "tier": "A2"
-          },
-          {
-            "front": "il concerto",
-            "pos": "noun",
-            "back": "the concert",
-            "example": "Andiamo al concerto stasera?",
-            "tier": "A2"
-          },
-          {
-            "front": "l'emozione",
-            "pos": "noun",
-            "back": "emotion, excitement",
-            "example": "Ho provato una grande emozione.",
-            "tier": "B1"
-          },
-          {
-            "front": "compiere gli anni",
-            "pos": "verb",
-            "back": "to turn (an age), to have a birthday",
-            "example": "Domani compio trent'anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the audience, public",
-            "example": "Il pubblico ha applaudito.",
-            "tier": "B1"
-          },
-          {
-            "front": "impegnato",
-            "pos": "adj",
-            "back": "committed, engaged",
-            "example": "È un artista molto impegnato.",
-            "tier": "B1"
-          },
-          {
-            "front": "i diritti",
-            "pos": "noun",
-            "back": "the rights",
-            "example": "Difende i diritti dei lavoratori.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pace",
-            "pos": "noun",
-            "back": "peace",
-            "example": "Tutti vogliono la pace.",
-            "tier": "A2"
-          },
-          {
-            "front": "applaudire",
-            "pos": "verb",
-            "back": "to applaud, to clap",
-            "example": "Il pubblico ha applaudito forte.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'entusiasmo",
-            "pos": "noun",
-            "back": "enthusiasm",
-            "example": "Ha parlato con entusiasmo.",
-            "tier": "B1"
-          },
-          {
-            "front": "unire",
-            "pos": "verb",
-            "back": "to unite, to bring together",
-            "example": "La musica unisce le persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "la generazione",
-            "pos": "noun",
-            "back": "the generation",
-            "example": "Ogni generazione ha la sua musica.",
-            "tier": "B1"
-          },
-          {
-            "front": "cantare insieme",
-            "pos": "phrase",
-            "back": "to sing together",
-            "example": "Abbiamo cantato insieme fino a tardi.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La cantante americana Patti Smith ha suonato a Roma, al Circo Massimo.",
-            "point": "Passato prossimo con 'avere'",
-            "explanation": "'Ha suonato' è passato prossimo: ausiliare 'avere' con il participio passato 'suonato', per un'azione conclusa.",
-            "why_tricky": "Con i nomi di città si usa la preposizione 'a' ('a Roma'), non 'in'."
-          },
-          {
-            "sentence": "Molte persone di età diverse sono venute ad ascoltarla.",
-            "point": "Passato prossimo con 'essere' e accordo",
-            "explanation": "'Sono venute' usa l'ausiliare 'essere', quindi il participio concorda con il soggetto (femminile plurale: 'venute').",
-            "why_tricky": "Il pronome 'la' si attacca all'infinito: 'ascoltarla' significa 'ascoltare lei'."
-          },
-          {
-            "sentence": "Concerti come questo dimostrano che la buona musica non ha età e unisce le generazioni.",
-            "point": "Frase con 'che' e presente",
-            "explanation": "'Dimostrano che' introduce una frase oggettiva al presente ('non ha età e unisce').",
-            "why_tricky": "Dopo 'dimostrare che', quando si afferma un fatto, si usa l'indicativo, non il congiuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non avere età",
-            "meaning": "to be timeless, to have no age",
-            "example": "La vera arte non ha età."
-          },
-          {
-            "phrase": "a lungo",
-            "meaning": "for a long time",
-            "example": "Abbiamo parlato a lungo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove e in che occasione ha cantato Patti Smith?",
-            "type": "open"
-          },
-          {
-            "q": "Perché diciamo che Patti Smith è una donna impegnata?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dimostra un concerto come questo, secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è il concerto o la canzone che ti emoziona di più? Racconta perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-compiti-vacanze-studenti",
-      "title": "Skuola.net: 'Studenti caricati di compiti per le vacanze, anche a scuole chiuse, tramite registro elettronico'",
-      "source": "ANSA",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "scuola",
-        "societa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-compiti-vacanze-studenti",
-        "revision": 1,
-        "meta": {
-          "title": "Skuola.net: 'Studenti caricati di compiti per le vacanze, anche a scuole chiuse, tramite registro elettronico'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/07/24/skuola.net-studenti-caricati-di-compiti-per-le-vacanze_53e29ffa-cdd7-426f-bdc5-faf6896e32c9.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "scuola",
-            "societa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy many students get a lot of homework for the summer holidays. A website that deals with school, Skuola.net, carried out a survey among young people. According to the results, some teachers give homework even after school has finished. Many students feel tired and stressed for this reason.\n\nThe topic of summer homework has always divided parents and teachers. Some think that homework helps young people not to forget what they have learned. Others, instead, believe that children need rest and free time. Perhaps the best solution is a balance: little homework, but useful, so that young people can study and enjoy the holidays at the same time.",
-        "resumen_es": "In Italia molti studenti ricevono tanti compiti per le vacanze estive. Un sito che si occupa di scuola, Skuola.net, ha fatto un sondaggio tra i ragazzi. Secondo i risultati, alcuni insegnanti danno i compiti anche dopo la fine della scuola. Molti studenti si sentono stanchi e stressati per questo motivo.\n\nIl tema dei compiti per l'estate divide da sempre genitori e professori. Alcuni pensano che i compiti aiutino i ragazzi a non dimenticare quello che hanno imparato. Altri, invece, credono che i bambini abbiano bisogno di riposo e di tempo libero. Forse la soluzione migliore è un equilibrio: pochi compiti, ma utili, così i ragazzi possono studiare e allo stesso tempo godersi le vacanze.",
-        "vocab": [
-          {
-            "front": "lo studente",
-            "pos": "noun",
-            "back": "the student",
-            "example": "Lo studente studia in biblioteca.",
-            "tier": "A2"
-          },
-          {
-            "front": "i compiti",
-            "pos": "noun",
-            "back": "the homework",
-            "example": "Ho finito i compiti di matematica.",
-            "tier": "A2"
-          },
-          {
-            "front": "le vacanze",
-            "pos": "noun",
-            "back": "the holidays",
-            "example": "In estate andiamo in vacanza al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sondaggio",
-            "pos": "noun",
-            "back": "the survey, poll",
-            "example": "Hanno fatto un sondaggio online.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'insegnante",
-            "pos": "noun",
-            "back": "the teacher",
-            "example": "L'insegnante spiega la lezione.",
-            "tier": "A2"
-          },
-          {
-            "front": "stanco",
-            "pos": "adj",
-            "back": "tired",
-            "example": "Sono molto stanco oggi.",
-            "tier": "A2"
-          },
-          {
-            "front": "stressato",
-            "pos": "adj",
-            "back": "stressed",
-            "example": "Durante gli esami sono stressata.",
-            "tier": "B1"
-          },
-          {
-            "front": "dividere",
-            "pos": "verb",
-            "back": "to divide, to split",
-            "example": "Il tema divide le opinioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "imparare",
-            "pos": "verb",
-            "back": "to learn",
-            "example": "I bambini imparano in fretta.",
-            "tier": "A2"
-          },
-          {
-            "front": "il riposo",
-            "pos": "noun",
-            "back": "rest",
-            "example": "Dopo il lavoro ho bisogno di riposo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tempo libero",
-            "pos": "phrase",
-            "back": "free time",
-            "example": "Nel tempo libero leggo libri.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "È importante trovare un equilibrio.",
-            "tier": "B1"
-          },
-          {
-            "front": "utile",
-            "pos": "adj",
-            "back": "useful",
-            "example": "Questo consiglio è molto utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "allo stesso tempo",
-            "pos": "phrase",
-            "back": "at the same time",
-            "example": "Studia e lavora allo stesso tempo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Italia molti studenti ricevono tanti compiti per le vacanze estive.",
-            "point": "Presente indicativo (verbi in -ere)",
-            "explanation": "'Ricevono' è la terza persona plurale di 'ricevere'; 'tanti' concorda con 'compiti' (maschile plurale).",
-            "why_tricky": "'Tanti' cambia la desinenza secondo il nome: tanti compiti, tante vacanze."
-          },
-          {
-            "sentence": "Alcuni pensano che i compiti aiutino i ragazzi a non dimenticare quello che hanno imparato.",
-            "point": "Congiuntivo dopo 'pensare che'",
-            "explanation": "Dopo 'pensare che' si usa il congiuntivo presente: 'aiutino'.",
-            "why_tricky": "In inglese si usa il presente semplice ('helps'); l'italiano richiede il congiuntivo dopo i verbi di opinione."
-          },
-          {
-            "sentence": "Forse la soluzione migliore è un equilibrio: pochi compiti, ma utili, così i ragazzi possono studiare e allo stesso tempo godersi le vacanze.",
-            "point": "Comparativo 'migliore' e verbo riflessivo",
-            "explanation": "'Migliore' è la forma comparativa di 'buono'; 'godersi' è un verbo riflessivo che significa 'apprezzare pienamente'.",
-            "why_tricky": "'Migliore' sostituisce 'più buono' ed è irregolare, come 'better' in inglese."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da sempre",
-            "meaning": "always, since forever",
-            "example": "Questo problema esiste da sempre."
-          },
-          {
-            "phrase": "avere bisogno di",
-            "meaning": "to need",
-            "example": "Ho bisogno di aiuto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha scoperto il sondaggio di Skuola.net?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcuni studenti si sentono stanchi e stressati?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono le due opinioni diverse sui compiti delle vacanze?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, gli studenti dovrebbero avere compiti durante le vacanze? Scrivi la tua opinione con almeno tre frasi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-energy-drink-bambini",
-      "title": "Energy drink, l'allarme dei pediatri: si consumano gia a 9 anni",
-      "source": "RaiNews",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "bambini"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-energy-drink-bambini",
-        "revision": 1,
-        "meta": {
-          "title": "Energy drink, l'allarme dei pediatri: si consumano gia a 9 anni",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/07/energy-drink-lallarme-dei-pediatri-si-consumano-gia-a-9-anni-b118bb45-9ef4-420b-a02e-33588e21f990.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "salute",
-            "bambini"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Children's doctors are raising a new alarm about energy drinks. According to a study by the Italian Society of Paediatrics, many young people drink these drinks already at nine years old. The researchers interviewed more than four hundred youngsters. Most of them have already tried an energy drink at least once. One in ten drinks them often, even during the school week.\n\nEnergy drinks contain a lot of caffeine and a lot of sugar. For this reason they can be bad for the youngest children. The paediatricians explain that these products disturb sleep and make children nervous. Moreover, the heart can beat too fast. The doctors ask parents to check what their children drink. They also recommend more water and fewer sweet drinks. The most important thing is to set a good example every day.",
-        "resumen_es": "I medici dei bambini lanciano un nuovo allarme sugli energy drink. Secondo uno studio della Societa italiana di pediatria, molti ragazzi bevono queste bevande gia a nove anni. I ricercatori hanno intervistato piu di quattrocento giovani. La maggior parte ha gia provato un energy drink almeno una volta. Uno su dieci li beve spesso, anche durante la settimana di scuola.\n\nGli energy drink contengono molta caffeina e molto zucchero. Per questo motivo possono fare male ai piu piccoli. I pediatri spiegano che questi prodotti disturbano il sonno e rendono i bambini nervosi. Inoltre, il cuore puo battere troppo in fretta. I medici chiedono ai genitori di controllare cosa bevono i figli. Consigliano anche piu acqua e meno bevande dolci. La cosa piu importante e dare il buon esempio ogni giorno.",
-        "vocab": [
-          {
-            "front": "la bevanda",
-            "pos": "noun",
-            "back": "drink, beverage",
-            "example": "L'acqua e la bevanda migliore.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'allarme",
-            "pos": "noun",
-            "back": "alarm, warning",
-            "example": "I medici lanciano un allarme.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pediatra",
-            "pos": "noun",
-            "back": "paediatrician",
-            "example": "Il pediatra visita i bambini.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo zucchero",
-            "pos": "noun",
-            "back": "sugar",
-            "example": "Questa bevanda ha troppo zucchero.",
-            "tier": "A2"
-          },
-          {
-            "front": "fare male",
-            "pos": "phrase",
-            "back": "to be bad for, to hurt",
-            "example": "Il caffe puo fare male ai bambini.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sonno",
-            "pos": "noun",
-            "back": "sleep",
-            "example": "Gli energy drink disturbano il sonno.",
-            "tier": "A2"
-          },
-          {
-            "front": "nervoso",
-            "pos": "adj",
-            "back": "nervous, edgy",
-            "example": "Il bambino diventa nervoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cuore",
-            "pos": "noun",
-            "back": "heart",
-            "example": "Il cuore batte in fretta.",
-            "tier": "A2"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check, control",
-            "example": "I genitori devono controllare cosa bevono i figli.",
-            "tier": "A2"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to recommend, advise",
-            "example": "Il medico consiglia piu acqua.",
-            "tier": "B1"
-          },
-          {
-            "front": "in fretta",
-            "pos": "phrase",
-            "back": "quickly, in a hurry",
-            "example": "Il cuore batte troppo in fretta.",
-            "tier": "B1"
-          },
-          {
-            "front": "il buon esempio",
-            "pos": "noun",
-            "back": "good example",
-            "example": "I genitori danno il buon esempio.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "molti ragazzi bevono queste bevande gia a nove anni",
-            "point": "Presente irregolare del verbo 'bere'",
-            "explanation": "Il verbo 'bere' e irregolare: io bevo, tu bevi, lui beve, noi beviamo, voi bevete, loro bevono. Qui usiamo 'bevono' (loro).",
-            "why_tricky": "La radice cambia in 'bev-', diversa dall'infinito 'bere'."
-          },
-          {
-            "sentence": "possono fare male ai piu piccoli",
-            "point": "'potere' + infinito e preposizione articolata 'ai'",
-            "explanation": "Dopo 'potere' si usa l'infinito ('fare'). 'Ai' unisce la preposizione 'a' e l'articolo 'i' (a + i = ai).",
-            "why_tricky": "Bisogna ricordare di unire preposizione e articolo in una sola parola."
-          },
-          {
-            "sentence": "I medici chiedono ai genitori di controllare cosa bevono i figli",
-            "point": "'chiedere a qualcuno di' + infinito",
-            "explanation": "Con 'chiedere' si usa la struttura 'chiedere a qualcuno di fare qualcosa': chiedono AI genitori DI controllare.",
-            "why_tricky": "Servono due elementi, 'a' per la persona e 'di' prima dell'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "uno su dieci",
-            "meaning": "one in ten",
-            "example": "Uno su dieci beve energy drink spesso."
-          },
-          {
-            "phrase": "dare il buon esempio",
-            "meaning": "to set a good example",
-            "example": "I genitori devono dare il buon esempio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa dice lo studio della Societa italiana di pediatria?",
-            "type": "open"
-          },
-          {
-            "q": "Perche gli energy drink possono fare male ai bambini?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano i medici ai genitori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, i bambini dovrebbero bere gli energy drink? Scrivi la tua opinione in poche frasi."
       }
     }
   ]
