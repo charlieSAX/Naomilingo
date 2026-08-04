@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:11:37.876979Z",
+  "generated_at": "2026-08-04T20:17:30.976481Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
     {
@@ -348,179 +348,179 @@
       }
     },
     {
-      "pack_id": "feed-2026-08-04-eclissi-solare-agosto",
-      "title": "Eclissi solare, il fenomeno del 12 agosto quando la luna oscurerà parzialmente la nostra stella",
-      "source": "Rai News",
+      "pack_id": "feed-2026-08-04-centanni-solitudine-serie",
+      "title": "Cent'Anni di Solitudine, gran finale in tv per la saga dei Buendìa",
+      "source": "ANSA",
       "date": "2026-08-04",
       "level": "A2-B1",
       "topics": [
-        "scienza",
-        "cielo"
+        "cultura",
+        "libri"
       ],
       "pack": {
-        "pack_id": "feed-2026-08-04-eclissi-solare-agosto",
+        "pack_id": "feed-2026-08-04-centanni-solitudine-serie",
         "revision": 1,
         "meta": {
-          "title": "Eclissi solare, il fenomeno del 12 agosto quando la luna oscurerà parzialmente la nostra stella",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/eclissi-solare-il-fenomeno-del-12-agosto-quando-la-luna-oscurera-parzialmente-la-nostra-stella-astronomia-003286ee-4f18-4f94-b93d-85dd6fd4e50d.html",
-          "date_published": "2026-08-04",
+          "title": "Cent'Anni di Solitudine, gran finale in tv per la saga dei Buendìa",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/08/03/centanni-di-solitudine-gran-finale-in-tv-per-la-saga-dei-buendia_8973006b-de2c-4e2c-bcc3-72d5376072a0.html",
+          "date_published": "2026-08-03",
           "date_processed": "2026-08-04",
           "tags": [
-            "scienza",
-            "cielo"
+            "cultura",
+            "libri"
           ],
           "level": "A2-B1"
         },
-        "summary_en": "On 12 August there will be a solar eclipse. In the late afternoon, shortly before sunset, the moon will pass in front of the sun and will partly cover it. The sky will become a little darker, but it will not be night. The phenomenon will last a few minutes and will be visible from many areas. To watch it you need special glasses, because the sun hurts your eyes.\n\nAn eclipse happens when the earth, the moon and the sun are almost on the same line. It is not an extremely rare thing, but every eclipse is different and not all countries see it in the same way. For astronomers it is also a work and study opportunity. For everyone else it is above all a free show. Many groups organise public evenings with telescopes, and usually the children are the happiest.",
-        "resumen_es": "Il 12 agosto ci sarà un'eclissi solare. Nel tardo pomeriggio, poco prima del tramonto, la luna passerà davanti al sole e lo coprirà in parte. Il cielo diventerà un po' più scuro, ma non sarà notte. Il fenomeno durerà alcuni minuti e sarà visibile da molte zone. Per guardarlo servono occhiali speciali, perché il sole fa male agli occhi.\n\nUn'eclissi succede quando la terra, la luna e il sole si trovano quasi sulla stessa linea. Non è una cosa rarissima, ma ogni eclissi è diversa e non tutti i paesi la vedono allo stesso modo. Per gli astronomi è anche un'occasione di lavoro e di studio. Per le altre persone è soprattutto uno spettacolo gratis. Molti gruppi organizzano serate pubbliche con i telescopi, e di solito i bambini sono i più contenti.",
+        "summary_en": "From 5 August the second part of the series One Hundred Years of Solitude arrives on Netflix. The story comes from the famous novel by Gabriel García Márquez, a Colombian writer. The tale follows the Buendía family in an imaginary town called Macondo. The last episode is as long as a film. Many people have been waiting for this ending for months.\n\nFor years many people thought this book was impossible to film. The novel is full of magic, of dreams and of memories, and time does not always move forward in a normal way. The series is shot in Colombia, with Colombian actors and in Spanish. For anyone studying Spanish it can be a good listening exercise. For anyone who loves reading, on the other hand, the simplest advice always stands: the book first, then the screen.",
+        "resumen_es": "Dal 5 agosto arriva su Netflix la seconda parte della serie Cent'anni di solitudine. La storia viene dal romanzo famoso di Gabriel García Márquez, uno scrittore colombiano. Il racconto segue la famiglia Buendía in un paese immaginario che si chiama Macondo. L'ultimo episodio è lungo come un film. Molte persone aspettano questo finale da mesi.\n\nPer anni molti pensavano che questo libro fosse impossibile da filmare. Il romanzo è pieno di magia, di sogni e di ricordi, e il tempo non va sempre avanti in modo normale. La serie è girata in Colombia, con attori colombiani e in lingua spagnola. Per chi studia lo spagnolo può essere un buon esercizio di ascolto. Per chi ama leggere, invece, resta sempre il consiglio più semplice: prima il libro, poi lo schermo.",
         "vocab": [
           {
-            "front": "l'eclissi",
+            "front": "il romanzo",
             "pos": "noun",
-            "back": "eclipse",
-            "example": "L'eclissi comincia alle sette di sera.",
+            "back": "novel",
+            "example": "Ho finito il romanzo in tre giorni.",
             "tier": "B1"
           },
           {
-            "front": "il tramonto",
+            "front": "lo scrittore",
             "pos": "noun",
-            "back": "sunset",
-            "example": "Guardiamo il tramonto dal balcone.",
+            "back": "writer",
+            "example": "È uno scrittore molto famoso.",
             "tier": "A2"
           },
           {
-            "front": "coprire",
+            "front": "il racconto",
+            "pos": "noun",
+            "back": "story, tale, narrative",
+            "example": "Il racconto comincia in un piccolo paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "seguire",
             "pos": "verb",
-            "back": "to cover",
-            "example": "Le nuvole coprono il sole.",
+            "back": "to follow",
+            "example": "La serie segue una famiglia per cento anni.",
             "tier": "A2"
           },
           {
-            "front": "in parte",
-            "pos": "phrase",
-            "back": "partly, in part",
-            "example": "Hai ragione, ma solo in parte.",
+            "front": "immaginario",
+            "pos": "adj",
+            "back": "imaginary, fictional",
+            "example": "Macondo è un posto immaginario.",
             "tier": "B1"
           },
           {
-            "front": "scuro",
-            "pos": "adj",
-            "back": "dark",
-            "example": "La stanza è troppo scura.",
-            "tier": "A2"
-          },
-          {
-            "front": "durare",
-            "pos": "verb",
-            "back": "to last",
-            "example": "Il film dura due ore.",
-            "tier": "A2"
-          },
-          {
-            "front": "visibile",
-            "pos": "adj",
-            "back": "visible",
-            "example": "La montagna è visibile da qui.",
-            "tier": "B1"
-          },
-          {
-            "front": "gli occhiali",
+            "front": "il finale",
             "pos": "noun",
-            "back": "glasses",
-            "example": "Non trovo i miei occhiali.",
+            "back": "the ending (of a story or series)",
+            "example": "Il finale mi è piaciuto molto.",
             "tier": "A2"
           },
           {
-            "front": "fare male",
-            "pos": "phrase",
-            "back": "to hurt, to be bad for",
-            "example": "Il rumore forte fa male alle orecchie.",
-            "tier": "A2"
-          },
-          {
-            "front": "succedere",
+            "front": "filmare",
             "pos": "verb",
-            "back": "to happen",
-            "example": "Che cosa è successo ieri sera?",
-            "tier": "A2"
+            "back": "to film",
+            "example": "Non è facile filmare un libro così.",
+            "tier": "B1"
           },
           {
-            "front": "allo stesso modo",
+            "front": "girare (un film)",
+            "pos": "verb",
+            "back": "to shoot (a film or series)",
+            "example": "Hanno girato la serie in Colombia.",
+            "tier": "B1"
+          },
+          {
+            "front": "pieno di",
             "pos": "phrase",
-            "back": "in the same way",
-            "example": "Non tutti reagiscono allo stesso modo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'occasione",
-            "pos": "noun",
-            "back": "opportunity, occasion",
-            "example": "È una buona occasione per imparare.",
-            "tier": "B1"
-          },
-          {
-            "front": "gratis",
-            "pos": "adj",
-            "back": "free, at no cost",
-            "example": "L'ingresso al museo è gratis la domenica.",
+            "back": "full of",
+            "example": "La città è piena di turisti.",
             "tier": "A2"
           },
           {
-            "front": "di solito",
-            "pos": "adv",
-            "back": "usually",
-            "example": "Di solito mi alzo alle sette.",
+            "front": "il sogno",
+            "pos": "noun",
+            "back": "dream",
+            "example": "Stanotte ho fatto un sogno strano.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ricordo",
+            "pos": "noun",
+            "back": "memory, recollection",
+            "example": "Ho un bel ricordo di quell'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "andare avanti",
+            "pos": "verb",
+            "back": "to go forward, to move on",
+            "example": "Il tempo va avanti e non torna.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ascolto",
+            "pos": "noun",
+            "back": "listening",
+            "example": "Faccio esercizi di ascolto ogni sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Passo troppe ore davanti allo schermo.",
             "tier": "A2"
           }
         ],
         "grammar": [
           {
-            "sentence": "Nel tardo pomeriggio, poco prima del tramonto, la luna passerà davanti al sole e lo coprirà in parte.",
-            "point": "simple future and the object pronoun lo before the verb",
-            "explanation": "'Passerà' and 'coprirà' are futuro semplice forms. In 'lo coprirà', the pronoun lo stands for 'il sole' and goes before the conjugated verb, not after it.",
-            "why_tricky": "English puts the object after the verb, 'will cover it', so learners write 'coprirà lo', which is not possible with a conjugated verb."
+            "sentence": "Per anni molti pensavano che questo libro fosse impossibile da filmare.",
+            "point": "congiuntivo imperfetto after a past verb of opinion",
+            "explanation": "'Pensavano che questo libro fosse impossibile' needs the subjunctive because pensare che expresses an opinion, not a fact. Since the main verb 'pensavano' is in the past, the subjunctive also shifts to the past form 'fosse'.",
+            "why_tricky": "English simply says 'thought it was'. Learners write 'pensavano che era', which is common in casual speech but wrong in careful Italian."
           },
           {
-            "sentence": "Per guardarlo servono occhiali speciali, perché il sole fa male agli occhi.",
-            "point": "servire with a plural subject, and per + infinitive for purpose",
-            "explanation": "'Per guardarlo' expresses purpose, and the pronoun lo attaches to the end of the infinitive. 'Servono occhiali speciali' agrees with the plural thing that is needed, exactly like piacere.",
-            "why_tricky": "Two different pronoun rules appear in one sentence: attached to an infinitive, but placed before a conjugated verb."
+            "sentence": "La serie è girata in Colombia, con attori colombiani e in lingua spagnola.",
+            "point": "passive with essere and participle agreement",
+            "explanation": "'È girata' is a passive: the series is the thing being filmed, not the one doing the filming. With essere the participle agrees with the subject, so 'la serie' feminine singular gives 'girata'.",
+            "why_tricky": "The ending changes with the subject, so learners leave 'girato' by default and lose the agreement."
           },
           {
-            "sentence": "Un'eclissi succede quando la terra, la luna e il sole si trovano quasi sulla stessa linea.",
-            "point": "quando + present indicative for general truths",
-            "explanation": "When you describe something that is always true, Italian uses quando with the present indicative, not the subjunctive or the future. 'Si trovano' is the reflexive of trovare meaning 'to be located'.",
-            "why_tricky": "Learners sometimes reach for the congiuntivo after quando, or translate 'are' with 'sono' instead of the more natural 'si trovano'."
+            "sentence": "Dal 5 agosto arriva su Netflix la seconda parte della serie Cent'anni di solitudine.",
+            "point": "da + date for a starting point, with the subject after the verb",
+            "explanation": "'Dal 5 agosto' means 'from 5 August onwards', and the present tense 'arriva' is used for something scheduled in the near future. Italian happily puts the long subject after the verb to keep the sentence balanced.",
+            "why_tricky": "Learners use the future 'arriverà' where the present is more natural, and they force the English order with the subject first."
           }
         ],
         "idioms": [
           {
-            "phrase": "fare male agli occhi",
-            "meaning": "to hurt your eyes",
-            "example": "Questa luce forte fa male agli occhi."
+            "phrase": "da mesi",
+            "meaning": "for months (and still going)",
+            "example": "Aspetto una risposta da mesi."
           },
           {
-            "phrase": "di solito",
-            "meaning": "usually, as a rule",
-            "example": "Di solito ceniamo alle otto."
+            "phrase": "andare avanti",
+            "meaning": "to keep going, to move forward",
+            "example": "Dopo quel periodo difficile è andata avanti da sola."
           }
         ],
         "comprehension": [
           {
-            "q": "Quando comincerà l'eclissi del 12 agosto?",
+            "q": "Da dove viene la storia della serie?",
             "type": "open"
           },
           {
-            "q": "Perché servono occhiali speciali per guardare il sole?",
+            "q": "Perché per molti anni il libro sembrava impossibile da filmare?",
             "type": "open"
           },
           {
-            "q": "Perché ogni eclissi non è uguale per tutti i paesi?",
+            "q": "Perché la serie può essere utile per chi studia lo spagnolo?",
             "type": "open"
           }
         ],
-        "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta in 80 parole un momento in cui hai visto qualcosa di bello nel cielo."
+        "opinion_prompt": "Preferisci leggere un libro o guardare la serie tratta dal libro? Scrivi 80 parole e spiega la tua scelta."
       }
     },
     {
