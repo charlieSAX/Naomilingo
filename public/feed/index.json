@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-05T08:10:55.002794Z",
+  "generated_at": "2026-08-05T20:09:58.394159Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-05-papa-mcconaughey",
+      "title": "Il Papa incontra l'attore Premio Oscar Matthew McConaughey",
+      "source": "ANSA",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "Vaticano",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-papa-mcconaughey",
+        "revision": 1,
+        "meta": {
+          "title": "Il Papa incontra l'attore Premio Oscar Matthew McConaughey",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/vaticano/notizie/2026/08/05/il-papa-incontra-lattore-premio-oscar-matthew-mcconaughey_87ee86af-ad09-4413-916b-667ac6fcfe13.html",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "Vaticano",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Pope has met the American actor Matthew McConaughey. The meeting took place at the end of the general audience, in St Peter's Basilica. The actor, an Oscar winner, greeted the Pope and spoke with him for a few minutes. Many people who were there took photos with their phones. The news reached the papers and social media straight away.\n\nIt is not the first time that a film star has met the Pope. These meetings are short, but they attract a lot of attention. For the Vatican they are also a way of speaking to a younger, more international audience. For years McConaughey has often talked about faith and values in his interviews and in his books. For this reason his meeting with the Pope interested many readers.",
+        "resumen_es": "Il Papa ha incontrato l'attore americano Matthew McConaughey. L'incontro è avvenuto alla fine dell'udienza generale, nella basilica di San Pietro. L'attore, premio Oscar, ha salutato il Papa e ha parlato con lui per qualche minuto. Molte persone presenti hanno fatto foto con il telefono. La notizia è arrivata subito sui giornali e sui social.\n\nNon è la prima volta che una star del cinema incontra il Papa. Questi incontri sono brevi, ma attirano molta attenzione. Per il Vaticano sono anche un modo per parlare a un pubblico più giovane e internazionale. McConaughey da anni parla spesso di fede e di valori nelle sue interviste e nei suoi libri. Per questo il suo incontro con il Papa ha interessato molti lettori.",
+        "vocab": [
+          {
+            "front": "incontrare",
+            "pos": "verb",
+            "back": "to meet",
+            "example": "Domani incontro un vecchio amico.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'attore",
+            "pos": "noun",
+            "back": "the actor",
+            "example": "L'attore ha vinto un premio importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "avvenire",
+            "pos": "verb",
+            "back": "to take place, to happen",
+            "example": "La riunione è avvenuta in ufficio.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'udienza",
+            "pos": "noun",
+            "back": "the audience (formal meeting)",
+            "example": "L'udienza del Papa è il mercoledì.",
+            "tier": "B2"
+          },
+          {
+            "front": "la basilica",
+            "pos": "noun",
+            "back": "the basilica, large church",
+            "example": "La basilica era piena di turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "salutare",
+            "pos": "verb",
+            "back": "to greet, to say hello to",
+            "example": "Ho salutato i vicini per strada.",
+            "tier": "B1"
+          },
+          {
+            "front": "qualche minuto",
+            "pos": "phrase",
+            "back": "a few minutes",
+            "example": "Aspetta qualche minuto, arrivo subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "la notizia",
+            "pos": "noun",
+            "back": "the news item",
+            "example": "La notizia è uscita stamattina.",
+            "tier": "B1"
+          },
+          {
+            "front": "attirare l'attenzione",
+            "pos": "phrase",
+            "back": "to attract attention",
+            "example": "Il suo vestito ha attirato l'attenzione di tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "the audience, the public",
+            "example": "Il pubblico ha applaudito a lungo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fede",
+            "pos": "noun",
+            "back": "faith",
+            "example": "Parla spesso della sua fede.",
+            "tier": "B1"
+          },
+          {
+            "front": "i valori",
+            "pos": "noun",
+            "back": "values",
+            "example": "I valori della famiglia sono importanti per lui.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'intervista",
+            "pos": "noun",
+            "back": "the interview",
+            "example": "Ho letto una lunga intervista sul giornale.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'incontro è avvenuto alla fine dell'udienza generale, nella basilica di San Pietro.",
+            "point": "Passato prossimo con l'ausiliare 'essere'",
+            "explanation": "Verbi come 'avvenire', 'arrivare' o 'andare' formano il passato prossimo con 'essere', e il participio concorda con il soggetto: l'incontro (maschile singolare) è avvenuto.",
+            "why_tricky": "La maggior parte dei verbi usa 'avere', quindi bisogna imparare a memoria quelli che usano 'essere' e ricordare l'accordo."
+          },
+          {
+            "sentence": "Non è la prima volta che una star del cinema incontra il Papa.",
+            "point": "Presente indicativo dopo 'è la prima volta che'",
+            "explanation": "Qui l'italiano parlato e giornalistico usa spesso il presente indicativo per un fatto generale e ripetuto, invece del congiuntivo.",
+            "why_tricky": "Molti manuali insegnano il congiuntivo dopo espressioni impersonali, ma con 'non è la prima volta che' l'indicativo è naturale."
+          },
+          {
+            "sentence": "Per il Vaticano sono anche un modo per parlare a un pubblico più giovane e internazionale.",
+            "point": "Comparativo con 'più' e la preposizione 'a' con 'parlare'",
+            "explanation": "'Parlare a qualcuno' regge la preposizione 'a'. 'Più giovane' e 'più internazionale' sono comparativi senza secondo termine di paragone.",
+            "why_tricky": "In inglese si dice 'speak to' ma anche 'speak with'; in italiano con un pubblico si usa quasi sempre 'parlare a'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "attirare l'attenzione",
+            "meaning": "farsi notare, essere al centro dell'interesse",
+            "example": "Quella pubblicità attira l'attenzione di tutti."
+          },
+          {
+            "phrase": "in carne e ossa",
+            "meaning": "di persona, non in foto o in televisione",
+            "example": "Ho visto l'attore in carne e ossa davanti al teatro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove e quando è avvenuto l'incontro tra il Papa e l'attore?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il testo, questi incontri sono utili per il Vaticano?",
+            "type": "open"
+          },
+          {
+            "q": "Di quali temi parla spesso McConaughey nelle sue interviste?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe incontrare una persona famosa? Scrivi circa 100 parole: chi vorresti incontrare e che cosa gli diresti."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-sanremo-giovani-regole",
+      "title": "Sanremo Giovani si cambia, un unico vincitore sarà all'Ariston tra i Big",
+      "source": "ANSA",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "televisione"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-sanremo-giovani-regole",
+        "revision": 1,
+        "meta": {
+          "title": "Sanremo Giovani si cambia, un unico vincitore sarà all'Ariston tra i Big",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/08/05/sanremo-giovani-si-cambia-un-unico-vincitore-sara-allariston-tra-i-big_41e8a00f-daac-42b9-b9ee-87272c8b93a1.html",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "musica",
+            "televisione"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Sanremo Giovani is changing its rules. From this year there will be a single winner, and that singer will go to the Ariston Theatre together with the Big names. Before, there were more young singers competing at the festival. The new rules will be online from Friday 7 August. Anyone who wants to take part will be able to read all the conditions.\n\nSanremo Giovani is an important competition for singers at the start of their career. Many famous artists in Italy started right here. With the new rule the competition becomes harder, because there is only one place available. Some think that this way the winner will get more space and a bigger audience. Others fear that fewer young people will be able to make themselves known. The answer will come in February, during the festival.",
+        "resumen_es": "Sanremo Giovani cambia le regole. Da quest'anno ci sarà un solo vincitore, e questo cantante andrà al Teatro Ariston insieme ai Big. Prima invece i giovani cantanti in gara al festival erano di più. Il nuovo regolamento sarà online da venerdì 7 agosto. Chi vuole partecipare potrà leggere tutte le condizioni.\n\nSanremo Giovani è una gara importante per i cantanti all'inizio della carriera. Molti artisti famosi in Italia sono partiti proprio da qui. Con la nuova regola la competizione diventa più dura, perché il posto disponibile è uno solo. Alcuni pensano che così il vincitore avrà più spazio e più pubblico. Altri temono che meno giovani potranno farsi conoscere. La risposta arriverà a febbraio, durante il festival.",
+        "vocab": [
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "the rule",
+            "example": "Le regole del gioco sono semplici.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vincitore",
+            "pos": "noun",
+            "back": "the winner",
+            "example": "Il vincitore riceve un premio in denaro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cantante",
+            "pos": "noun",
+            "back": "the singer",
+            "example": "Quel cantante ha una voce bellissima.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "the competition, the contest",
+            "example": "Ho partecipato a una gara di cucina.",
+            "tier": "B1"
+          },
+          {
+            "front": "il regolamento",
+            "pos": "noun",
+            "back": "the rules, the regulations (document)",
+            "example": "Il regolamento è sul sito della scuola.",
+            "tier": "B2"
+          },
+          {
+            "front": "partecipare a",
+            "pos": "verb",
+            "back": "to take part in",
+            "example": "Voglio partecipare al concorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "la carriera",
+            "pos": "noun",
+            "back": "the career",
+            "example": "Ha iniziato la carriera a vent'anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "disponibile",
+            "pos": "adj",
+            "back": "available",
+            "example": "Non c'è nessun posto disponibile.",
+            "tier": "B1"
+          },
+          {
+            "front": "duro",
+            "pos": "adj",
+            "back": "hard, tough",
+            "example": "È stato un anno molto duro per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid that",
+            "example": "Temo di arrivare in ritardo.",
+            "tier": "B2"
+          },
+          {
+            "front": "farsi conoscere",
+            "pos": "phrase",
+            "back": "to make oneself known",
+            "example": "Usa i social per farsi conoscere.",
+            "tier": "B2"
+          },
+          {
+            "front": "proprio",
+            "pos": "adv",
+            "back": "exactly, right (for emphasis)",
+            "example": "Abito proprio qui, dietro l'angolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "insieme a",
+            "pos": "phrase",
+            "back": "together with",
+            "example": "Viaggio insieme a mia sorella.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Da quest'anno ci sarà un solo vincitore, e questo cantante andrà al Teatro Ariston insieme ai Big.",
+            "point": "Futuro semplice",
+            "explanation": "'Sarà' e 'andrà' sono futuri semplici irregolari di 'essere' e 'andare'. Si usano per fatti programmati che devono ancora succedere.",
+            "why_tricky": "In italiano parlato spesso si usa il presente per il futuro, ma nei testi di notizie il futuro semplice resta normale."
+          },
+          {
+            "sentence": "Altri temono che meno giovani potranno farsi conoscere.",
+            "point": "'Temere che' e il verbo riflessivo 'farsi'",
+            "explanation": "'Farsi conoscere' unisce il verbo 'fare' riflessivo con un infinito: significa fare in modo che gli altri ti conoscano. La forma piu' curata dopo 'temere che' sarebbe il congiuntivo, ma la lingua dei giornali accetta anche l'indicativo futuro.",
+            "why_tricky": "La costruzione 'farsi + infinito' non esiste in inglese e va imparata come blocco unico."
+          },
+          {
+            "sentence": "Con la nuova regola la competizione diventa più dura, perché il posto disponibile è uno solo.",
+            "point": "Accordo dell'aggettivo con il nome femminile",
+            "explanation": "'Competizione' è femminile singolare, quindi l'aggettivo diventa 'dura' e non 'duro'. L'accordo vale anche dopo il verbo 'diventare'.",
+            "why_tricky": "Gli aggettivi in italiano cambiano anche quando stanno lontano dal nome, dopo verbi come essere, sembrare o diventare."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "farsi conoscere",
+            "meaning": "diventare noto al pubblico",
+            "example": "Con quella canzone si è fatto conoscere in tutta Italia."
+          },
+          {
+            "phrase": "partire da zero",
+            "meaning": "cominciare senza niente e senza aiuti",
+            "example": "È partita da zero e oggi ha il suo studio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa cambia quest'anno a Sanremo Giovani?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa gara è importante per i cantanti giovani?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le opinioni diverse sulla nuova regola?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i programmi televisivi sono un buon modo per scoprire nuovi cantanti? Scrivi circa 100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-farfalle-clima-habitat",
+      "title": "Farfalle in fuga dal clima, l'80% delle specie cerca nuovi habitat",
+      "source": "Rai News",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "scienza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-farfalle-clima-habitat",
+        "revision": 1,
+        "meta": {
+          "title": "Farfalle in fuga dal clima, l'80% delle specie cerca nuovi habitat",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/farfalle-in-fuga-dal-clima-l80-delle-specie-cerca-nuovi-habitat-8b2e6fb0-5336-41ef-824e-98e246ed85a7.html",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "ambiente",
+            "scienza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Almost 80% of butterfly species in the world have changed their territory. The insects are looking for new habitats because the climate has become hotter. Many butterflies are moving up towards the mountains or going north, where temperatures are lower. Scientists have studied data collected in many countries and have seen the same movement almost everywhere.\n\nThis change is not good news. Butterflies are important because they carry the pollen of flowers and are food for birds. If they move, other species have to adapt too. What is more, not all of them manage to find a suitable place: some find only cities, farmed fields or roads. For researchers, butterflies are a useful signal: they show clearly how the climate is changing nature.",
+        "resumen_es": "Quasi l'80% delle specie di farfalle nel mondo ha cambiato il proprio territorio. Gli insetti cercano nuovi habitat perché il clima è diventato più caldo. Molte farfalle salgono verso le montagne o vanno verso nord, dove le temperature sono più basse. Gli scienziati hanno studiato dati raccolti in molti Paesi e hanno visto lo stesso movimento quasi ovunque.\n\nQuesto cambiamento non è una buona notizia. Le farfalle sono importanti perché trasportano il polline dei fiori e sono cibo per gli uccelli. Se si spostano, anche altre specie devono adattarsi. Inoltre non tutte riescono a trovare un posto adatto: alcune trovano solo città, campi coltivati o strade. Per gli studiosi le farfalle sono un segnale utile: mostrano in modo chiaro come il clima sta cambiando la natura.",
+        "vocab": [
+          {
+            "front": "la farfalla",
+            "pos": "noun",
+            "back": "the butterfly",
+            "example": "In giardino c'erano tante farfalle bianche.",
+            "tier": "B1"
+          },
+          {
+            "front": "la specie",
+            "pos": "noun",
+            "back": "the species",
+            "example": "Questa specie vive solo in montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "il territorio",
+            "pos": "noun",
+            "back": "the territory, the area",
+            "example": "L'animale difende il suo territorio.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'insetto",
+            "pos": "noun",
+            "back": "the insect",
+            "example": "Gli insetti sono utili per l'agricoltura.",
+            "tier": "B1"
+          },
+          {
+            "front": "diventare",
+            "pos": "verb",
+            "back": "to become",
+            "example": "L'estate è diventata più lunga.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccogliere",
+            "pos": "verb",
+            "back": "to collect, to gather",
+            "example": "Abbiamo raccolto i dati in sei mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "ovunque",
+            "pos": "adv",
+            "back": "everywhere",
+            "example": "Trovi questo problema ovunque in Europa.",
+            "tier": "B2"
+          },
+          {
+            "front": "trasportare",
+            "pos": "verb",
+            "back": "to carry, to transport",
+            "example": "Il vento trasporta la sabbia lontano.",
+            "tier": "B1"
+          },
+          {
+            "front": "il polline",
+            "pos": "noun",
+            "back": "pollen",
+            "example": "In primavera c'è molto polline nell'aria.",
+            "tier": "B2"
+          },
+          {
+            "front": "spostarsi",
+            "pos": "verb",
+            "back": "to move, to shift position",
+            "example": "Mi sposto di due metri e ti faccio passare.",
+            "tier": "B1"
+          },
+          {
+            "front": "adattarsi",
+            "pos": "verb",
+            "back": "to adapt",
+            "example": "I bambini si adattano subito alle novità.",
+            "tier": "B2"
+          },
+          {
+            "front": "il campo coltivato",
+            "pos": "noun",
+            "back": "the farmed field",
+            "example": "Intorno al paese ci sono campi coltivati.",
+            "tier": "B2"
+          },
+          {
+            "front": "il segnale",
+            "pos": "noun",
+            "back": "the sign, the signal",
+            "example": "È un segnale chiaro che qualcosa non va.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli insetti cercano nuovi habitat perché il clima è diventato più caldo.",
+            "point": "Passato prossimo di 'diventare' con 'essere'",
+            "explanation": "'Diventare' vuole l'ausiliare 'essere', quindi si dice 'è diventato' e mai 'ha diventato'. L'aggettivo che segue concorda con il soggetto.",
+            "why_tricky": "In inglese 'become' usa sempre 'have', quindi l'ausiliare 'essere' sembra strano."
+          },
+          {
+            "sentence": "Se si spostano, anche altre specie devono adattarsi.",
+            "point": "Periodo ipotetico della realtà",
+            "explanation": "Con 'se' più presente indicativo si esprime una condizione considerata reale o molto probabile, e la conseguenza va anche lei al presente.",
+            "why_tricky": "Molti studenti mettono il congiuntivo dopo 'se', ma nel periodo ipotetico della realtà si usa l'indicativo."
+          },
+          {
+            "sentence": "Inoltre non tutte riescono a trovare un posto adatto: alcune trovano solo città, campi coltivati o strade.",
+            "point": "'Riuscire a' più infinito",
+            "explanation": "'Riuscire' regge sempre la preposizione 'a' davanti all'infinito e significa avere successo nel fare qualcosa.",
+            "why_tricky": "Si confonde con 'potere', che non vuole preposizione: 'possono trovare' ma 'riescono a trovare'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere un campanello d'allarme",
+            "meaning": "essere un segnale di pericolo",
+            "example": "Il caldo di luglio è un campanello d'allarme per gli agricoltori."
+          },
+          {
+            "phrase": "avere le ali",
+            "meaning": "sentirsi liberi e leggeri",
+            "example": "Dopo l'esame mi sembrava di avere le ali."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché le farfalle cercano nuovi habitat?",
+            "type": "open"
+          },
+          {
+            "q": "In quali direzioni si spostano gli insetti e perché?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi trovano le farfalle quando cambiano zona?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa possiamo fare nelle nostre città per aiutare gli insetti e gli animali piccoli? Scrivi circa 100 parole con due idee concrete."
+      }
+    },
     {
       "pack_id": "feed-2026-08-05-dicaprio-bezos-specie",
       "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
@@ -6166,534 +6673,6 @@
           }
         ],
         "opinion_prompt": "Racconta un viaggio in treno che hai fatto. Dove sei andato e com'è stato?"
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-nazionale-nuovo-ct",
-      "title": "Pirlo non sarà il Ct, Maldini e Leonardo lasciano la nazionale",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "calcio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-nazionale-nuovo-ct",
-        "revision": 1,
-        "meta": {
-          "title": "Pirlo non sarà il Ct, Maldini e Leonardo lasciano la nazionale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "sport",
-            "calcio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Italian national football team is looking for a new coach. Andrea Pirlo will not be the head coach, that is the person who leads the team. Other important managers too, like Paolo Maldini, are leaving their role in the national team. In these days people are talking a lot about this news on television and in the sports newspapers.\n\nThe president of the federation has promised that soon there will be some news. Many fans are waiting to know who will be the new leader of the blue team. The choice of the coach is very important for the future of the national team. Everyone hopes that Italy will soon go back to winning and playing well. For now, however, the name of the new head coach remains a mystery.",
-        "resumen_es": "La nazionale italiana di calcio cerca un nuovo allenatore. Andrea Pirlo non sarà il commissario tecnico, cioè la persona che guida la squadra. Anche altri dirigenti importanti, come Paolo Maldini, lasciano il loro ruolo nella nazionale. In questi giorni si parla molto di questa notizia in televisione e sui giornali sportivi.\n\nIl presidente della federazione ha promesso che presto ci saranno delle novità. Molti tifosi aspettano di sapere chi sarà la nuova guida della squadra azzurra. La scelta dell'allenatore è molto importante per il futuro della nazionale. Tutti sperano che l'Italia torni presto a vincere e a giocare bene. Per ora, però, il nome del nuovo commissario tecnico resta un mistero.",
-        "vocab": [
-          {
-            "front": "la nazionale",
-            "pos": "noun",
-            "back": "national team",
-            "example": "La nazionale gioca domani sera.",
-            "tier": "A2"
-          },
-          {
-            "front": "il calcio",
-            "pos": "noun",
-            "back": "football, soccer",
-            "example": "Il calcio è lo sport più amato in Italia.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'allenatore",
-            "pos": "noun",
-            "back": "coach, trainer",
-            "example": "L'allenatore parla con i giocatori.",
-            "tier": "A2"
-          },
-          {
-            "front": "il commissario tecnico",
-            "pos": "noun",
-            "back": "head coach (of a national team)",
-            "example": "Il commissario tecnico sceglie la squadra.",
-            "tier": "B1"
-          },
-          {
-            "front": "la squadra",
-            "pos": "noun",
-            "back": "team",
-            "example": "La mia squadra ha vinto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dirigente",
-            "pos": "noun",
-            "back": "manager, executive",
-            "example": "I dirigenti decidono il futuro del club.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ruolo",
-            "pos": "noun",
-            "back": "role",
-            "example": "Ha un ruolo importante nella squadra.",
-            "tier": "B1"
-          },
-          {
-            "front": "la notizia",
-            "pos": "noun",
-            "back": "news, piece of news",
-            "example": "Ho letto una bella notizia.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la federazione",
-            "pos": "noun",
-            "back": "federation",
-            "example": "La federazione organizza il campionato.",
-            "tier": "B1"
-          },
-          {
-            "front": "promettere",
-            "pos": "verb",
-            "back": "to promise",
-            "example": "Ti prometto che verrò.",
-            "tier": "A2"
-          },
-          {
-            "front": "la novità",
-            "pos": "noun",
-            "back": "news, new development",
-            "example": "Ci sono novità sul progetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la guida",
-            "pos": "noun",
-            "back": "leadership, guide",
-            "example": "Serve una guida forte per la squadra.",
-            "tier": "B1"
-          },
-          {
-            "front": "azzurro",
-            "pos": "adj",
-            "back": "blue (the Italian team colour)",
-            "example": "La maglia azzurra è famosa nel mondo.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Andrea Pirlo non sarà il commissario tecnico, cioè la persona che guida la squadra.",
-            "point": "Il futuro semplice 'sarà'",
-            "explanation": "'Sarà' è il futuro di 'essere' e parla di qualcosa che ancora non è deciso; 'che guida' è una frase relativa.",
-            "why_tricky": "Il futuro di 'essere' è irregolare (sarò, sarai, sarà) e non segue il modello normale."
-          },
-          {
-            "sentence": "Il presidente della federazione ha promesso che presto ci saranno delle novità.",
-            "point": "Passato prossimo 'ha promesso' + futuro 'ci saranno'",
-            "explanation": "'Ha promesso' è passato prossimo con 'avere'; 'ci saranno' è il futuro di 'esserci'.",
-            "why_tricky": "Lo studente confonde 'ci saranno' con il semplice 'saranno'."
-          },
-          {
-            "sentence": "Tutti sperano che l'Italia torni presto a vincere e a giocare bene.",
-            "point": "Congiuntivo dopo 'sperare che'",
-            "explanation": "Dopo 'sperare che' si usa il congiuntivo: 'torni', non 'torna'.",
-            "why_tricky": "Il congiuntivo presente di verbi come 'tornare' cambia la vocale finale e si dimentica facilmente."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "la squadra azzurra",
-            "meaning": "la nazionale italiana, che gioca con la maglia blu",
-            "example": "La squadra azzurra ha molti tifosi in tutto il mondo."
-          },
-          {
-            "phrase": "restare un mistero",
-            "meaning": "rimanere sconosciuto, senza risposta",
-            "example": "Il nome del vincitore resta un mistero."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi cerca un nuovo allenatore?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha promesso il presidente della federazione?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la scelta dell'allenatore è importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace il calcio o preferisci un altro sport? Scrivi qualche frase sul tuo sport preferito."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-francia-incendi-macron",
-      "title": "Macron nei luoghi devastati dagli incendi in Francia",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "cronaca"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-francia-incendi-macron",
-        "revision": 1,
-        "meta": {
-          "title": "Macron nei luoghi devastati dagli incendi in Francia",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/27/incendi-in-francia-e-spagna-a-gironda-incendio-non-domato-e-la-ue-pensa-ad-una-flotta_57b629da-ec0b-4e38-bcf3-edd2862fc93b.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "ambiente",
-            "cronaca"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In France big fires have burned many woods and fields. President Emmanuel Macron went to visit the areas hit by the fire. In one region the situation is under control, but in another the firefighters keep working day and night. The strong heat and the wind make the work very difficult.\n\nIn Spain too there have been similar fires in the last weeks. For this reason the European Union is thinking of creating a shared fleet of planes to put out the flames. Experts say that ever hotter summers increase the risk of fires. The authorities ask citizens to be careful and not to light fires near the woods. The hope is to protect people and nature better.",
-        "resumen_es": "In Francia grandi incendi hanno bruciato molti boschi e campi. Il presidente Emmanuel Macron è andato a visitare le zone colpite dal fuoco. In una regione la situazione è sotto controllo, ma in un'altra i pompieri continuano a lavorare giorno e notte. Il caldo forte e il vento rendono il lavoro molto difficile.\n\nAnche in Spagna ci sono stati incendi simili nelle ultime settimane. Per questo l'Unione Europea pensa di creare una flotta comune di aerei per spegnere le fiamme. Gli esperti dicono che le estati sempre più calde aumentano il rischio di incendi. Le autorità chiedono ai cittadini di stare attenti e di non accendere fuochi vicino ai boschi. La speranza è di proteggere meglio le persone e la natura.",
-        "vocab": [
-          {
-            "front": "l'incendio",
-            "pos": "noun",
-            "back": "fire, blaze",
-            "example": "L'incendio ha distrutto la casa.",
-            "tier": "B1"
-          },
-          {
-            "front": "bruciare",
-            "pos": "verb",
-            "back": "to burn",
-            "example": "Il fuoco brucia gli alberi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il bosco",
-            "pos": "noun",
-            "back": "wood, forest",
-            "example": "Facciamo una passeggiata nel bosco.",
-            "tier": "A2"
-          },
-          {
-            "front": "la zona",
-            "pos": "noun",
-            "back": "area, zone",
-            "example": "Questa zona è molto tranquilla.",
-            "tier": "A2"
-          },
-          {
-            "front": "colpito",
-            "pos": "adj",
-            "back": "hit, affected",
-            "example": "Le zone colpite hanno bisogno di aiuto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fuoco",
-            "pos": "noun",
-            "back": "fire",
-            "example": "Il fuoco è molto pericoloso.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pompiere",
-            "pos": "noun",
-            "back": "firefighter",
-            "example": "I pompieri spengono l'incendio.",
-            "tier": "A2"
-          },
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "In estate fa molto caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il vento",
-            "pos": "noun",
-            "back": "wind",
-            "example": "Oggi c'è molto vento.",
-            "tier": "A2"
-          },
-          {
-            "front": "la flotta",
-            "pos": "noun",
-            "back": "fleet",
-            "example": "La flotta di aerei è pronta.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'aereo",
-            "pos": "noun",
-            "back": "airplane",
-            "example": "L'aereo parte alle otto.",
-            "tier": "A2"
-          },
-          {
-            "front": "spegnere",
-            "pos": "verb",
-            "back": "to put out, to switch off",
-            "example": "Devo spegnere la luce.",
-            "tier": "A2"
-          },
-          {
-            "front": "le fiamme",
-            "pos": "noun",
-            "back": "flames",
-            "example": "Le fiamme sono molto alte.",
-            "tier": "B1"
-          },
-          {
-            "front": "accendere",
-            "pos": "verb",
-            "back": "to light, to switch on",
-            "example": "Non accendere il fuoco qui.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il presidente Emmanuel Macron è andato a visitare le zone colpite dal fuoco.",
-            "point": "Passato prossimo con 'essere': 'è andato'",
-            "explanation": "Il verbo 'andare' forma il passato prossimo con 'essere' e il participio si accorda: 'è andato'. 'Andare a + infinito' indica lo scopo.",
-            "why_tricky": "Molti usano 'avere' invece di 'essere' con i verbi di movimento come 'andare'."
-          },
-          {
-            "sentence": "Per questo l'Unione Europea pensa di creare una flotta comune di aerei per spegnere le fiamme.",
-            "point": "'pensare di + infinito' e 'per + infinito'",
-            "explanation": "'Pensare di' introduce un'intenzione; 'per + infinito' esprime lo scopo (per spegnere).",
-            "why_tricky": "Si confonde 'pensare di' (intenzione) con 'pensare a' (rivolgere il pensiero a qualcosa)."
-          },
-          {
-            "sentence": "Le autorità chiedono ai cittadini di stare attenti e di non accendere fuochi vicino ai boschi.",
-            "point": "'chiedere a qualcuno di + infinito' e infinito negativo",
-            "explanation": "Si chiede 'a' una persona 'di' fare qualcosa; nell'infinito negativo il 'non' va prima del verbo: 'di non accendere'.",
-            "why_tricky": "È facile sbagliare l'ordine e dire 'di accendere non' invece di 'di non accendere'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "giorno e notte",
-            "meaning": "senza mai fermarsi, tutto il tempo",
-            "example": "I medici hanno lavorato giorno e notte."
-          },
-          {
-            "phrase": "stare attenti",
-            "meaning": "fare attenzione, essere prudenti",
-            "example": "State attenti quando attraversate la strada."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha visitato il presidente Macron?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il lavoro dei pompieri è difficile?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa vuole creare l'Unione Europea?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa possiamo fare per proteggere i boschi dagli incendi? Scrivi le tue idee."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-chatbot-relazioni-umane",
-      "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "tags": [
-        "tecnologia",
-        "società"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-chatbot-relazioni-umane",
-        "revision": 1,
-        "meta": {
-          "title": "Troppe confidenze ai chatbot, a rischio le relazioni umane",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/27/troppe-confidenze-ai-chatbot-a-rischio-le-relazioni-umane-_2e61018b-eed0-418e-bec8-055826a18a8e.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "tecnologia",
-            "società"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A study from Stanford University issues a warning. Many people tell too many secrets to chatbots. These programs always answer in a kind way and almost always agree with us. For this reason, some people prefer to talk to a chatbot instead of a friend. The experts think that this could be a risk for the relationships between people.\n\nThe problem is simple. A chatbot almost always says what we want to hear. A real friend, on the other hand, sometimes tells us difficult but useful things. This is how we learn empathy and a sense of responsibility. The experts do not say that technology is bad. They only say that we must use it with balance. It is important to talk with real people too, and not only with a program.",
-        "resumen_es": "Uno studio dell'università di Stanford lancia un avviso. Molte persone raccontano troppi segreti ai chatbot. Questi programmi rispondono sempre in modo gentile e danno quasi sempre ragione. Per questo motivo, alcune persone preferiscono parlare con un chatbot invece che con un amico. Gli esperti pensano che questo possa essere un rischio per le relazioni tra le persone.\n\nIl problema è semplice. Un chatbot dice quasi sempre quello che vogliamo sentire. Un vero amico, invece, a volte ci dice cose difficili ma utili. Così impariamo l'empatia e il senso di responsabilità. Gli esperti non dicono che la tecnologia è cattiva. Dicono solo che dobbiamo usarla con equilibrio. È importante parlare anche con le persone reali e non solo con un programma.",
-        "vocab": [
-          {
-            "front": "studio",
-            "pos": "noun",
-            "back": "study",
-            "example": "Uno studio importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "avviso",
-            "pos": "noun",
-            "back": "warning",
-            "example": "Ha lanciato un avviso.",
-            "tier": "B1"
-          },
-          {
-            "front": "segreto",
-            "pos": "noun",
-            "back": "secret",
-            "example": "Racconta i suoi segreti.",
-            "tier": "A2"
-          },
-          {
-            "front": "gentile",
-            "pos": "adj",
-            "back": "kind, polite",
-            "example": "Il chatbot è sempre gentile.",
-            "tier": "A2"
-          },
-          {
-            "front": "dare ragione",
-            "pos": "phrase",
-            "back": "to agree with, to say someone is right",
-            "example": "Mi dà sempre ragione.",
-            "tier": "B1"
-          },
-          {
-            "front": "invece",
-            "pos": "adv",
-            "back": "instead, on the other hand",
-            "example": "Preferisco il tè, invece del caffè.",
-            "tier": "A2"
-          },
-          {
-            "front": "rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "C'è un rischio.",
-            "tier": "B1"
-          },
-          {
-            "front": "relazione",
-            "pos": "noun",
-            "back": "relationship",
-            "example": "Le relazioni tra amici.",
-            "tier": "B1"
-          },
-          {
-            "front": "empatia",
-            "pos": "noun",
-            "back": "empathy",
-            "example": "L'empatia è importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "responsabilità",
-            "pos": "noun",
-            "back": "responsibility",
-            "example": "Il senso di responsabilità.",
-            "tier": "B1"
-          },
-          {
-            "front": "tecnologia",
-            "pos": "noun",
-            "back": "technology",
-            "example": "La tecnologia è utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Usare la tecnologia con equilibrio.",
-            "tier": "B1"
-          },
-          {
-            "front": "reale",
-            "pos": "adj",
-            "back": "real",
-            "example": "Le persone reali.",
-            "tier": "A2"
-          },
-          {
-            "front": "utile",
-            "pos": "adj",
-            "back": "useful",
-            "example": "Un consiglio utile.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Molte persone raccontano troppi segreti ai chatbot.",
-            "point": "il presente indicativo e la preposizione articolata ai",
-            "explanation": "'Raccontano' è il presente di 'raccontare'. 'Ai' unisce 'a' e 'i' (a + i = ai).",
-            "why_tricky": "Le preposizioni articolate (ai, dei, sui) sono corte e facili da dimenticare."
-          },
-          {
-            "sentence": "Per questo motivo, alcune persone preferiscono parlare con un chatbot invece che con un amico.",
-            "point": "preferire + infinito e l'espressione invece che",
-            "explanation": "Dopo 'preferire' si usa l'infinito: preferiscono parlare. 'Invece che' significa 'instead of'.",
-            "why_tricky": "'Preferire' regge l'infinito senza preposizione, diverso da altri verbi."
-          },
-          {
-            "sentence": "Gli esperti pensano che questo possa essere un rischio per le relazioni tra le persone.",
-            "point": "pensare che + congiuntivo (possa)",
-            "explanation": "Dopo 'pensare che' si usa il congiuntivo: 'possa' invece di 'può'. Esprime un'opinione, non un fatto sicuro.",
-            "why_tricky": "Il congiuntivo dopo i verbi di opinione non esiste in inglese ed è difficile per chi impara."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dare ragione a qualcuno",
-            "meaning": "to agree with someone",
-            "example": "Alla fine mi ha dato ragione."
-          },
-          {
-            "phrase": "con equilibrio",
-            "meaning": "in a balanced way",
-            "example": "Bisogna mangiare con equilibrio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Cosa dice lo studio di Stanford?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è la differenza tra un chatbot e un vero amico?",
-            "type": "open"
-          },
-          {
-            "q": "Cosa consigliano gli esperti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Tu parli mai con un chatbot? Scrivi la tua opinione in cinque frasi semplici."
       }
     }
   ]
