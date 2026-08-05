@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-04T20:17:30.976481Z",
+  "generated_at": "2026-08-05T08:10:55.002794Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-05-dicaprio-bezos-specie",
+      "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
+      "source": "ANSA",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "animali"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-dicaprio-bezos-specie",
+        "revision": 1,
+        "meta": {
+          "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/04/leonardo-dicaprio-e-jeff-bezos-lanciano-progetto-per-salvare-100-specie_12bcb1b2-2e8c-4e73-a7b9-32e11531cff2.html",
+          "date_published": "2026-08-04",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "ambiente",
+            "animali"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The actor Leonardo DiCaprio and the businessman Jeff Bezos have launched a new environmental project together. It is called the Phoenix Species Project and it is a fund of 200 million dollars. The aim is to save a hundred animal and plant species that risk disappearing. The money will be used to protect natural habitats and to support the work of researchers. The project is philanthropic: it is not looking for a profit, but wants to help nature.\n\nMany species are in danger because of human activity. The loss of habitats, pollution and climate change make life difficult for many animals. In recent years several celebrities have decided to fund similar projects. Some experts, however, say that private money is not enough. In their view stronger laws and clear political choices are also needed. The coming months will tell which species will receive the first help.",
+        "resumen_es": "L'attore Leonardo DiCaprio e l'imprenditore Jeff Bezos hanno lanciato insieme un nuovo progetto per l'ambiente. Si chiama Phoenix Species Project ed è un fondo da 200 milioni di dollari. L'obiettivo è salvare cento specie animali e vegetali che rischiano di scomparire. I soldi serviranno a proteggere gli habitat naturali e a sostenere il lavoro dei ricercatori. Il progetto è filantropico: non cerca un guadagno, ma vuole aiutare la natura.\n\nMolte specie sono in pericolo a causa dell'attività umana. La perdita degli habitat, l'inquinamento e il cambiamento climatico rendono la vita difficile a molti animali. Negli ultimi anni diverse celebrità hanno deciso di finanziare progetti simili. Alcuni esperti però dicono che il denaro privato non basta. Secondo loro servono anche leggi più forti e scelte politiche chiare. I prossimi mesi diranno quali specie riceveranno i primi aiuti.",
+        "vocab": [
+          {
+            "front": "lanciare un progetto",
+            "pos": "phrase",
+            "back": "to launch a project",
+            "example": "Il Comune ha lanciato un progetto per le scuole.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'imprenditore",
+            "pos": "noun",
+            "back": "businessman, entrepreneur",
+            "example": "Mio zio è un imprenditore agricolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fondo",
+            "pos": "noun",
+            "back": "fund (of money)",
+            "example": "Hanno creato un fondo per gli studenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la specie",
+            "pos": "noun",
+            "back": "species",
+            "example": "Questa specie vive solo in Africa.",
+            "tier": "B1"
+          },
+          {
+            "front": "rischiare di",
+            "pos": "verb",
+            "back": "to risk (doing something)",
+            "example": "Rischio di arrivare tardi.",
+            "tier": "B1"
+          },
+          {
+            "front": "scomparire",
+            "pos": "verb",
+            "back": "to disappear",
+            "example": "Molti insetti stanno scomparendo.",
+            "tier": "B1"
+          },
+          {
+            "front": "servire a",
+            "pos": "verb",
+            "back": "to be used for, to serve to",
+            "example": "Questi soldi servono a comprare i libri.",
+            "tier": "A2"
+          },
+          {
+            "front": "sostenere",
+            "pos": "verb",
+            "back": "to support",
+            "example": "Vogliamo sostenere le famiglie giovani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il guadagno",
+            "pos": "noun",
+            "back": "profit, earnings",
+            "example": "Il guadagno di quest'anno è basso.",
+            "tier": "B1"
+          },
+          {
+            "front": "essere in pericolo",
+            "pos": "phrase",
+            "back": "to be in danger",
+            "example": "Il panda non è più in pericolo come prima.",
+            "tier": "A2"
+          },
+          {
+            "front": "a causa di",
+            "pos": "phrase",
+            "back": "because of",
+            "example": "Il treno è in ritardo a causa del maltempo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'inquinamento",
+            "pos": "noun",
+            "back": "pollution",
+            "example": "In città l'inquinamento è alto.",
+            "tier": "B1"
+          },
+          {
+            "front": "finanziare",
+            "pos": "verb",
+            "back": "to fund, to finance",
+            "example": "Chi finanzia questa ricerca?",
+            "tier": "B1"
+          },
+          {
+            "front": "non bastare",
+            "pos": "verb",
+            "back": "not to be enough",
+            "example": "Un giorno non basta per visitare Roma.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I soldi serviranno a proteggere gli habitat naturali e a sostenere il lavoro dei ricercatori.",
+            "point": "Il futuro semplice e la preposizione 'a' dopo 'servire'",
+            "explanation": "'Serviranno' è il futuro di 'servire'. Dopo 'servire' si usa la preposizione 'a' più l'infinito, e la 'a' si ripete davanti a ogni infinito della lista.",
+            "why_tricky": "In inglese si dice 'will be used to protect and support', senza ripetere niente. In italiano la 'a' va ripetuta, altrimenti la frase suona incompleta."
+          },
+          {
+            "sentence": "La perdita degli habitat, l'inquinamento e il cambiamento climatico rendono la vita difficile a molti animali.",
+            "point": "'Rendere' + aggettivo per esprimere un cambiamento",
+            "explanation": "'Rendere qualcosa + aggettivo' significa 'far diventare'. Qui l'aggettivo 'difficile' descrive 'la vita', non i soggetti della frase.",
+            "why_tricky": "Molti studenti usano 'fare' al posto di 'rendere' e dicono 'fanno la vita difficile', che è possibile ma meno preciso. Inoltre l'aggettivo deve concordare con l'oggetto, non con il soggetto."
+          },
+          {
+            "sentence": "Negli ultimi anni diverse celebrità hanno deciso di finanziare progetti simili.",
+            "point": "Il passato prossimo con 'negli ultimi anni'",
+            "explanation": "Quando si parla di un periodo che arriva fino a oggi, l'italiano usa il passato prossimo con l'ausiliare 'avere' e il participio 'deciso'. Dopo 'decidere' serve la preposizione 'di'.",
+            "why_tricky": "'Celebrità' è invariabile al plurale, quindi solo l'articolo e l'aggettivo 'diverse' mostrano che si parla di più persone."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a causa di",
+            "meaning": "per colpa di qualcosa di negativo",
+            "example": "Abbiamo perso la partita a causa della pioggia."
+          },
+          {
+            "phrase": "secondo loro",
+            "meaning": "per la loro opinione",
+            "example": "Secondo loro il film era noioso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi ha lanciato il Phoenix Species Project e con quanti soldi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molte specie sono in pericolo oggi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dicono alcuni esperti del denaro privato?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i personaggi famosi possono davvero aiutare l'ambiente? Scrivi 80 o 100 parole e spiega la tua opinione con due esempi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-panda-mongolia-rally",
+      "title": "Con la Panda verso la Mongolia, il viaggio di Mirko e Alessandro",
+      "source": "Rai News",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "avventura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-panda-mongolia-rally",
+        "revision": 1,
+        "meta": {
+          "title": "Con la Panda verso la Mongolia, il viaggio di Mirko e Alessandro",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/il-viaggio-di-alessandro-e-mirko-in-panda-verso-la-mongolia-63d6c1a6-665d-428d-b0ab-5cf6c40952e7.html",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "viaggi",
+            "avventura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Mirko and Alessandro are two young men from Bolzano. They have set off from Italy on board an old Fiat Panda from 1999. Their aim is to reach Mongolia after a journey of about twenty thousand kilometres. They are taking part in the Mongol Rally, a very unusual race: the winner is not the one who arrives first, what counts is the adventure and the help you give to others. In fact the rules ask you to use a small car with little power.\n\nThe route crosses many countries in Eastern Europe and Central Asia. The two friends will often sleep in a tent and will have to repair the car themselves when it breaks down. Many teams also raise money for charities. The rally has existed for more than twenty years and every summer it attracts hundreds of participants from all over the world. For Mirko and Alessandro the hardest part will probably be the desert.",
+        "resumen_es": "Mirko e Alessandro sono due ragazzi di Bolzano. Sono partiti dall'Italia a bordo di una vecchia Fiat Panda del 1999. Il loro obiettivo è arrivare in Mongolia dopo un viaggio di circa ventimila chilometri. Partecipano al Mongol Rally, una gara molto particolare: non vince chi arriva prima, ma conta l'avventura e l'aiuto che si dà agli altri. Le regole chiedono infatti di usare un'auto piccola e poco potente.\n\nIl percorso attraversa molti paesi dell'Europa dell'Est e dell'Asia centrale. I due amici dormiranno spesso in tenda e dovranno riparare la macchina da soli quando si romperà. Molti equipaggi raccolgono anche soldi per associazioni di beneficenza. Il rally esiste da più di vent'anni e ogni estate attira centinaia di partecipanti da tutto il mondo. Per Mirko e Alessandro la parte più difficile sarà probabilmente il deserto.",
+        "vocab": [
+          {
+            "front": "partire da",
+            "pos": "verb",
+            "back": "to set off from, to leave from",
+            "example": "Siamo partiti da Milano alle sei.",
+            "tier": "A2"
+          },
+          {
+            "front": "a bordo di",
+            "pos": "phrase",
+            "back": "on board",
+            "example": "Erano a bordo di una barca piccola.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "aim, goal",
+            "example": "Il mio obiettivo è imparare l'italiano.",
+            "tier": "A2"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "route, path",
+            "example": "Il percorso è lungo dieci chilometri.",
+            "tier": "B1"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross",
+            "example": "Il fiume attraversa tutta la città.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "race, competition",
+            "example": "Domani c'è una gara di nuoto.",
+            "tier": "A2"
+          },
+          {
+            "front": "contare",
+            "pos": "verb",
+            "back": "to matter, to count",
+            "example": "Non conta vincere, conta partecipare.",
+            "tier": "B1"
+          },
+          {
+            "front": "riparare",
+            "pos": "verb",
+            "back": "to repair, to fix",
+            "example": "Devo riparare la bicicletta.",
+            "tier": "A2"
+          },
+          {
+            "front": "rompersi",
+            "pos": "verb",
+            "back": "to break down, to break",
+            "example": "La lavatrice si è rotta ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'equipaggio",
+            "pos": "noun",
+            "back": "crew, team",
+            "example": "L'equipaggio della nave è di venti persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccogliere soldi",
+            "pos": "phrase",
+            "back": "to raise money",
+            "example": "La scuola raccoglie soldi per un viaggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la beneficenza",
+            "pos": "noun",
+            "back": "charity",
+            "example": "Il concerto è di beneficenza.",
+            "tier": "B1"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "La festa attira molti turisti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I due amici dormiranno spesso in tenda e dovranno riparare la macchina da soli quando si romperà.",
+            "point": "Il futuro semplice anche dopo 'quando'",
+            "explanation": "In italiano, se la frase principale è al futuro, anche il verbo dopo 'quando' va al futuro: 'quando si romperà'. Notare i futuri irregolari 'dovranno' e 'romperà'.",
+            "why_tricky": "In inglese si usa il presente ('when it breaks down'), quindi molti studenti scrivono 'quando si rompe' e la frase perde il valore di previsione."
+          },
+          {
+            "sentence": "Partecipano al Mongol Rally, una gara molto particolare: non vince chi arriva prima, ma conta l'avventura e l'aiuto che si dà agli altri.",
+            "point": "'Chi' come pronome che significa 'la persona che'",
+            "explanation": "'Chi' qui non è una domanda: introduce un soggetto generico, 'la persona che arriva prima'. Il verbo dopo 'chi' resta sempre alla terza persona singolare.",
+            "why_tricky": "'Chi' si confonde facilmente con 'che' e con 'chi?' interrogativo, e in inglese si traduce con 'the one who', due parole invece di una."
+          },
+          {
+            "sentence": "Il rally esiste da più di vent'anni e ogni estate attira centinaia di partecipanti da tutto il mondo.",
+            "point": "'Da' + tempo con il presente per una durata",
+            "explanation": "Quando un'azione è cominciata nel passato e continua adesso, l'italiano usa il presente più 'da': 'esiste da vent'anni'.",
+            "why_tricky": "L'inglese usa il present perfect ('has existed for'), quindi è facile scrivere 'è esistito da', che in italiano è sbagliato."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da soli",
+            "meaning": "senza l'aiuto di nessuno",
+            "example": "I bambini hanno preparato la cena da soli."
+          },
+          {
+            "phrase": "da tutto il mondo",
+            "meaning": "da ogni parte del pianeta",
+            "example": "Alla fiera arrivano visitatori da tutto il mondo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Con quale macchina viaggiano Mirko e Alessandro e da dove vengono?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il Mongol Rally è una gara particolare?",
+            "type": "open"
+          },
+          {
+            "q": "Quali difficoltà troveranno i due amici durante il viaggio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacerebbe fare un viaggio lungo e difficile come questo? Scrivi 80 o 100 parole e spiega perché sì o perché no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-05-vino-cereali-cina",
+      "title": "L'antico vino di cereali: gli archeologi scoprono la ricetta cinese di duemila anni fa",
+      "source": "Rai News",
+      "date": "2026-08-05",
+      "level": "A2-B1",
+      "topics": [
+        "archeologia",
+        "storia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-05-vino-cereali-cina",
+        "revision": 1,
+        "meta": {
+          "title": "L'antico vino di cereali: gli archeologi scoprono la ricetta cinese di duemila anni fa",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/scoperto-nel-nord-ovest-della-cina-un-vino-di-cereali-risalente-a-2300-anni-fa-38a2b190-c522-4fb1-96dc-f23c92ad0ce7.html",
+          "date_published": "2026-08-05",
+          "date_processed": "2026-08-05",
+          "tags": [
+            "archeologia",
+            "storia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Some archaeologists have made an interesting discovery in north-west China. Inside a bronze vase they found an ancient liquid about two thousand three hundred years old. The analyses say that it is a wine made with cereals. The vase has a special shape, called garlic-head, typical of the Qin culture. It is very rare to find a liquid preserved so well after so many centuries.\n\nThis discovery helps us understand how people of that period lived. Wine often had a role in ceremonies and at important banquets. Scholars now want to work out which cereals were used and how the drink was prepared. The bronze, in fact, sealed the vase well and protected the liquid from the air. Similar analyses have also been carried out at other Chinese archaeological sites in recent years.",
+        "resumen_es": "Alcuni archeologi hanno fatto una scoperta interessante nel nord-ovest della Cina. Dentro un vaso di bronzo hanno trovato un liquido antico di circa duemilatrecento anni. Le analisi dicono che si tratta di un vino fatto con i cereali. Il vaso ha una forma speciale, chiamata a testa d'aglio, tipica della cultura Qin. È molto raro trovare un liquido conservato così bene dopo tanti secoli.\n\nQuesta scoperta aiuta a capire come vivevano le persone di quel periodo. Il vino aveva spesso un ruolo nelle cerimonie e nei banchetti importanti. Gli studiosi vogliono ora capire quali cereali sono stati usati e come veniva preparata la bevanda. Il bronzo, infatti, ha chiuso bene il vaso e ha protetto il liquido dall'aria. Analisi simili sono state fatte anche in altri siti archeologici cinesi negli ultimi anni.",
+        "vocab": [
+          {
+            "front": "la scoperta",
+            "pos": "noun",
+            "back": "discovery",
+            "example": "È stata una scoperta importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "il vaso",
+            "pos": "noun",
+            "back": "vase, pot",
+            "example": "Il vaso è pieno di fiori.",
+            "tier": "A2"
+          },
+          {
+            "front": "il bronzo",
+            "pos": "noun",
+            "back": "bronze",
+            "example": "La statua è di bronzo.",
+            "tier": "B1"
+          },
+          {
+            "front": "trattarsi di",
+            "pos": "verb",
+            "back": "to be a matter of, to be",
+            "example": "Si tratta di un errore semplice.",
+            "tier": "B1"
+          },
+          {
+            "front": "i cereali",
+            "pos": "noun",
+            "back": "cereals, grains",
+            "example": "Mangio i cereali a colazione.",
+            "tier": "A2"
+          },
+          {
+            "front": "conservare",
+            "pos": "verb",
+            "back": "to preserve, to keep",
+            "example": "Conservo le foto in una scatola.",
+            "tier": "B1"
+          },
+          {
+            "front": "il secolo",
+            "pos": "noun",
+            "back": "century",
+            "example": "La chiesa è del quindicesimo secolo.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo studioso",
+            "pos": "noun",
+            "back": "scholar, researcher",
+            "example": "Gli studiosi non sono d'accordo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ruolo",
+            "pos": "noun",
+            "back": "role",
+            "example": "Ha un ruolo importante nel gruppo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il banchetto",
+            "pos": "noun",
+            "back": "banquet, feast",
+            "example": "Dopo il matrimonio c'è il banchetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la bevanda",
+            "pos": "noun",
+            "back": "drink, beverage",
+            "example": "Che bevanda preferisci?",
+            "tier": "A2"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Il cappello protegge dal sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sito archeologico",
+            "pos": "noun",
+            "back": "archaeological site",
+            "example": "Abbiamo visitato un sito archeologico romano.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Questa scoperta aiuta a capire come vivevano le persone di quel periodo.",
+            "point": "L'imperfetto per abitudini nel passato",
+            "explanation": "'Vivevano' è imperfetto e descrive un modo di vivere abituale, che durava nel tempo. Non indica un fatto singolo e concluso.",
+            "why_tricky": "Con il passato prossimo ('come hanno vissuto') la frase parlerebbe di un evento finito, non di una abitudine, e il senso cambierebbe."
+          },
+          {
+            "sentence": "Gli studiosi vogliono ora capire quali cereali sono stati usati e come veniva preparata la bevanda.",
+            "point": "Due forme di passivo: 'essere' e 'venire'",
+            "explanation": "'Sono stati usati' è un passivo con 'essere' al passato prossimo. 'Veniva preparata' usa 'venire' all'imperfetto: si usa solo con azioni, mai con stati, e suona più dinamico.",
+            "why_tricky": "Le due forme si traducono in inglese allo stesso modo, ma 'venire' non si può usare nei tempi composti: 'è venuto preparato' è sbagliato."
+          },
+          {
+            "sentence": "È molto raro trovare un liquido conservato così bene dopo tanti secoli.",
+            "point": "'È + aggettivo + infinito' come costruzione impersonale",
+            "explanation": "Per dare un giudizio generale l'italiano usa 'è' più aggettivo più infinito, senza soggetto. L'aggettivo resta sempre al maschile singolare.",
+            "why_tricky": "In inglese serve un soggetto formale ('it is rare to find'), mentre in italiano non si mette nulla davanti a 'è'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "si tratta di",
+            "meaning": "è, riguarda (per spiegare di che cosa si parla)",
+            "example": "Non è un problema grave: si tratta solo di aspettare."
+          },
+          {
+            "phrase": "così bene",
+            "meaning": "in modo molto buono, meglio del previsto",
+            "example": "Non pensavo che parlassi italiano così bene."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno trovato gli archeologi e dove?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il vaso di bronzo è stato importante per la conservazione del liquido?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa vogliono ancora capire gli studiosi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te perché è utile studiare come mangiavano e bevevano le persone del passato? Scrivi 80 o 100 parole."
+      }
+    },
     {
       "pack_id": "feed-2026-08-04-giappone-luoghi-silenzio",
       "title": "In Giappone i luoghi del silenzio, tra montagne sacre e isole incontaminate",
@@ -6180,534 +6694,6 @@
           }
         ],
         "opinion_prompt": "Tu parli mai con un chatbot? Scrivi la tua opinione in cinque frasi semplici."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-attori-contro-fusione",
-      "title": "Benedict Cumberbatch e Alan Cumming contro la fusione tra Paramount e Warner",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "tags": [
-        "cultura",
-        "cinema"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-attori-contro-fusione",
-        "revision": 1,
-        "meta": {
-          "title": "Benedict Cumberbatch e Alan Cumming contro la fusione tra Paramount e Warner",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/07/27/cumberbatch-e-cumming-contro-la-fusione-tra-paramount-e-warner_a0ff6142-9a03-4d90-80d2-bb42d9787bda.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "cultura",
-            "cinema"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Two famous British actors, Benedict Cumberbatch and Alan Cumming, are against the merger of two big cinema companies, Paramount and Warner. The actors have written to the British government. They ask it to stop the union between the two companies. In their view, this merger could do great harm to citizens and to the world of cinema.\n\nThe actors explain their fear. If few companies control all of cinema, there are fewer choices for the public. Smaller artists too risk having less space. For this reason they ask for more attention and clear rules. The debate is open and many people in cinema are following the matter with interest. Now the final decision is up to the authorities of the United Kingdom.",
-        "resumen_es": "Due famosi attori britannici, Benedict Cumberbatch e Alan Cumming, sono contro la fusione tra due grandi aziende del cinema, Paramount e Warner. Gli attori hanno scritto al governo britannico. Chiedono di fermare l'unione tra le due società. Secondo loro, questa fusione potrebbe fare un grande danno ai cittadini e al mondo del cinema.\n\nGli attori spiegano la loro paura. Se poche aziende controllano tutto il cinema, ci sono meno scelte per il pubblico. Anche gli artisti più piccoli rischiano di avere meno spazio. Per questo chiedono più attenzione e regole chiare. Il dibattito è aperto e molte persone del cinema seguono la questione con interesse. Ora la decisione finale spetta alle autorità del Regno Unito.",
-        "vocab": [
-          {
-            "front": "attore",
-            "pos": "noun",
-            "back": "actor",
-            "example": "È un attore famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "famoso",
-            "pos": "adj",
-            "back": "famous",
-            "example": "Un attore molto famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "fusione",
-            "pos": "noun",
-            "back": "merger",
-            "example": "La fusione tra due aziende.",
-            "tier": "B1"
-          },
-          {
-            "front": "azienda",
-            "pos": "noun",
-            "back": "company",
-            "example": "Una grande azienda.",
-            "tier": "A2"
-          },
-          {
-            "front": "governo",
-            "pos": "noun",
-            "back": "government",
-            "example": "Il governo britannico.",
-            "tier": "A2"
-          },
-          {
-            "front": "fermare",
-            "pos": "verb",
-            "back": "to stop",
-            "example": "Chiedono di fermare l'unione.",
-            "tier": "A2"
-          },
-          {
-            "front": "società",
-            "pos": "noun",
-            "back": "company, society",
-            "example": "Le due società.",
-            "tier": "B1"
-          },
-          {
-            "front": "danno",
-            "pos": "noun",
-            "back": "harm, damage",
-            "example": "Un grande danno.",
-            "tier": "B1"
-          },
-          {
-            "front": "cittadino",
-            "pos": "noun",
-            "back": "citizen",
-            "example": "I cittadini sono preoccupati.",
-            "tier": "B1"
-          },
-          {
-            "front": "scelta",
-            "pos": "noun",
-            "back": "choice",
-            "example": "Ci sono meno scelte.",
-            "tier": "A2"
-          },
-          {
-            "front": "rischiare",
-            "pos": "verb",
-            "back": "to risk",
-            "example": "Rischiano di perdere tutto.",
-            "tier": "B1"
-          },
-          {
-            "front": "dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "Il dibattito è aperto.",
-            "tier": "B1"
-          },
-          {
-            "front": "questione",
-            "pos": "noun",
-            "back": "issue, matter",
-            "example": "Seguono la questione.",
-            "tier": "B1"
-          },
-          {
-            "front": "spettare a",
-            "pos": "phrase",
-            "back": "to be up to (someone)",
-            "example": "La decisione spetta a loro.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli attori hanno scritto al governo britannico.",
-            "point": "passato prossimo con avere (participio irregolare scritto) e la preposizione al",
-            "explanation": "'Hanno scritto' è il passato prossimo di 'scrivere', con participio irregolare. 'Al' unisce 'a' e 'il'.",
-            "why_tricky": "Molti participi sono irregolari (scritto, fatto, detto) e vanno imparati a memoria."
-          },
-          {
-            "sentence": "Secondo loro, questa fusione potrebbe fare un grande danno ai cittadini e al mondo del cinema.",
-            "point": "il condizionale potrebbe e l'espressione secondo loro",
-            "explanation": "'Potrebbe' è il condizionale di 'potere' e indica una possibilità. 'Secondo loro' significa 'in their opinion'.",
-            "why_tricky": "Il condizionale si usa per ipotesi e opinioni, non solo per la cortesia."
-          },
-          {
-            "sentence": "Se poche aziende controllano tutto il cinema, ci sono meno scelte per il pubblico.",
-            "point": "il periodo ipotetico reale (se + presente, presente)",
-            "explanation": "Quando la condizione è possibile e reale, si usa il presente in entrambe le parti: se controllano, ci sono.",
-            "why_tricky": "Con condizioni reali si usa il presente; gli studenti a volte mettono il congiuntivo per sbaglio."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere contro",
-            "meaning": "to be against",
-            "example": "Molti sono contro la nuova legge."
-          },
-          {
-            "phrase": "spettare a qualcuno",
-            "meaning": "to be someone's decision or responsibility",
-            "example": "La scelta spetta a te."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché i due attori sono contro la fusione?",
-            "type": "open"
-          },
-          {
-            "q": "Cosa hanno chiesto al governo britannico?",
-            "type": "open"
-          },
-          {
-            "q": "Chi deve prendere la decisione finale?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è meglio avere tante piccole aziende o poche grandi aziende nel cinema? Scrivi cinque frasi semplici."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-29-estate-ondate-calore",
-      "title": "L'estate 2026 già sopra la media per numero e durata delle ondate di calore",
-      "source": "ANSA",
-      "date": "2026-07-27",
-      "level": "A2-B1",
-      "tags": [
-        "clima",
-        "meteo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-29-estate-ondate-calore",
-        "revision": 1,
-        "meta": {
-          "title": "L'estate 2026 già sopra la media per numero e durata delle ondate di calore",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/27/lestate-2026-gia-sopra-la-media-per-numero-e-durata-delle-ondate_a8ad5b50-897e-451c-bbab-6e90878e6ba1.html",
-          "date_published": "2026-07-27",
-          "date_processed": "2026-07-29",
-          "tags": [
-            "clima",
-            "meteo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The summer of 2026 is very hot in Italy. There have already been many heatwaves. It is hot more often and for more days than in past years. The experts say that soon a new heatwave will arrive. This time the heat will mainly hit the centre and the north of the country.\n\nStrong heat can be a problem for health. Elderly people and children must be careful. The experts give some simple tips: drink a lot of water, stay in the shade and do not go out in the hottest hours. Many scientists link these heatwaves to climate change. For this reason they say that in the future summers could become even hotter. It is important to prepare well every year.",
-        "resumen_es": "L'estate 2026 è molto calda in Italia. Ci sono già state molte ondate di calore. Fa caldo più spesso e per più giorni rispetto agli anni passati. Gli esperti dicono che presto arriverà una nuova ondata di calore. Questa volta il caldo colpirà soprattutto il Centro e il Nord del Paese.\n\nIl caldo forte può essere un problema per la salute. Le persone anziane e i bambini devono stare attenti. Gli esperti danno alcuni consigli semplici: bere molta acqua, restare all'ombra e non uscire nelle ore più calde. Molti scienziati collegano queste ondate di calore al cambiamento climatico. Per questo dicono che in futuro le estati potrebbero diventare ancora più calde. È importante prepararsi bene ogni anno.",
-        "vocab": [
-          {
-            "front": "estate",
-            "pos": "noun",
-            "back": "summer",
-            "example": "In estate fa caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "caldo",
-            "pos": "noun",
-            "back": "heat; hot",
-            "example": "Oggi fa molto caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "ondata di calore",
-            "pos": "phrase",
-            "back": "heatwave",
-            "example": "Arriva una nuova ondata di calore.",
-            "tier": "B1"
-          },
-          {
-            "front": "media",
-            "pos": "noun",
-            "back": "average",
-            "example": "Le temperature sono sopra la media.",
-            "tier": "B1"
-          },
-          {
-            "front": "durata",
-            "pos": "noun",
-            "back": "duration, length",
-            "example": "La durata del film è due ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "colpire",
-            "pos": "verb",
-            "back": "to hit, to affect",
-            "example": "Il caldo colpisce il Nord.",
-            "tier": "B1"
-          },
-          {
-            "front": "anziano",
-            "pos": "adj",
-            "back": "elderly",
-            "example": "Le persone anziane soffrono il caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "consiglio",
-            "pos": "noun",
-            "back": "advice, tip",
-            "example": "Ti do un consiglio.",
-            "tier": "A2"
-          },
-          {
-            "front": "ombra",
-            "pos": "noun",
-            "back": "shade, shadow",
-            "example": "Il gatto dorme all'ombra.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'ombra",
-            "pos": "phrase",
-            "back": "in the shade",
-            "example": "Con questo sole meglio stare all'ombra.",
-            "tier": "A2"
-          },
-          {
-            "front": "scienziato",
-            "pos": "noun",
-            "back": "scientist",
-            "example": "Gli scienziati studiano il clima.",
-            "tier": "B1"
-          },
-          {
-            "front": "cambiamento climatico",
-            "pos": "phrase",
-            "back": "climate change",
-            "example": "Il cambiamento climatico è un problema.",
-            "tier": "B1"
-          },
-          {
-            "front": "stare attenti",
-            "pos": "phrase",
-            "back": "to be careful",
-            "example": "Dovete stare attenti.",
-            "tier": "A2"
-          },
-          {
-            "front": "prepararsi",
-            "pos": "verb",
-            "back": "to get ready",
-            "example": "Dobbiamo prepararci bene.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ci sono già state molte ondate di calore.",
-            "point": "il passato prossimo di esserci con l'accordo del participio",
-            "explanation": "'Ci sono state' è il passato prossimo di 'esserci'. Con l'ausiliare 'essere' il participio concorda: 'state' (femminile plurale) con 'ondate'.",
-            "why_tricky": "Con 'essere' il participio cambia (stato, stata, state); con 'avere' di solito no."
-          },
-          {
-            "sentence": "Gli esperti dicono che presto arriverà una nuova ondata di calore.",
-            "point": "il futuro semplice arriverà",
-            "explanation": "'Arriverà' è il futuro di 'arrivare' e indica un'azione che deve ancora succedere.",
-            "why_tricky": "Il futuro italiano ha terminazioni particolari (-erà, -irà) che gli studenti confondono con il condizionale."
-          },
-          {
-            "sentence": "Le persone anziane e i bambini devono stare attenti.",
-            "point": "dovere + infinito e l'espressione stare attenti",
-            "explanation": "'Devono stare' esprime un obbligo. 'Stare attenti' significa 'to be careful' e l'aggettivo concorda: attenti.",
-            "why_tricky": "Si dice 'stare attenti', non 'essere attenti'; e l'aggettivo deve accordarsi al plurale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare caldo",
-            "meaning": "to be hot (weather)",
-            "example": "In agosto fa molto caldo."
-          },
-          {
-            "phrase": "stare all'ombra",
-            "meaning": "to stay in the shade",
-            "example": "Con questo sole meglio stare all'ombra."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Com'è l'estate 2026 in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Chi deve stare più attento al caldo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in futuro le estati potrebbero essere più calde?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come ti proteggi dal caldo in estate? Scrivi la tua opinione in cinque frasi semplici."
-      }
-    },
-    {
-      "pack_id": "feed-2026-07-28-etna-intrusioni-magmatiche",
-      "title": "Etna, svelato come si propagano le intrusioni magmatiche",
-      "source": "ANSA",
-      "date": "2026-07-28",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "natura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-07-28-etna-intrusioni-magmatiche",
-        "revision": 1,
-        "meta": {
-          "title": "Etna, svelato come si propagano le intrusioni magmatiche",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/28/etna-svelato-come-si-propagano-le-intrusioni-magmatiche_0cca04fb-cacc-4b6b-9537-7f1fabaeaaa2.html",
-          "date_published": "2026-07-28",
-          "date_processed": "2026-07-28",
-          "tags": [
-            "scienza",
-            "natura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Etna is the biggest and most active volcano in Europe. It is in Sicily, in the south of Italy. A new Italian study explains how the magma moves inside the volcano. The researchers analysed an old eruption from 2008 to understand this phenomenon better. Thanks to their instruments, they followed the path of the magma under the ground.\n\nThis discovery is very important for science. If scientists understand how the magma moves, they can predict eruptions better. In this way it is possible to protect the people who live near the volcano. Every year Etna attracts many tourists and researchers from all over the world. The volcano is beautiful but also dangerous, and for this reason the experts always watch it with great attention.",
-        "resumen_es": "L'Etna è il vulcano più grande e attivo d'Europa. Si trova in Sicilia, nel sud dell'Italia. Un nuovo studio italiano spiega come si muove il magma dentro il vulcano. I ricercatori hanno analizzato una vecchia eruzione del 2008 per capire meglio questo fenomeno. Grazie ai loro strumenti, hanno seguito il percorso del magma sotto la terra.\n\nQuesta scoperta è molto importante per la scienza. Se gli scienziati capiscono come si muove il magma, possono prevedere meglio le eruzioni. Così è possibile proteggere le persone che vivono vicino al vulcano. Ogni anno l'Etna attira molti turisti e studiosi da tutto il mondo. Il vulcano è bello ma anche pericoloso, per questo gli esperti lo osservano sempre con grande attenzione.",
-        "vocab": [
-          {
-            "front": "il vulcano",
-            "pos": "noun",
-            "back": "the volcano",
-            "example": "L'Etna è un vulcano famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "attivo",
-            "pos": "adj",
-            "back": "active",
-            "example": "È un vulcano ancora attivo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il magma",
-            "pos": "noun",
-            "back": "the magma",
-            "example": "Il magma è roccia liquida e calda.",
-            "tier": "B1"
-          },
-          {
-            "front": "muoversi",
-            "pos": "verb",
-            "back": "to move",
-            "example": "Il magma si muove lentamente.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo studio",
-            "pos": "noun",
-            "back": "the study",
-            "example": "Ho letto un nuovo studio scientifico.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "the researcher",
-            "example": "Il ricercatore lavora in laboratorio.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'eruzione",
-            "pos": "noun",
-            "back": "the eruption",
-            "example": "L'eruzione ha spaventato tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scoperta",
-            "pos": "noun",
-            "back": "the discovery",
-            "example": "È stata una scoperta importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "prevedere",
-            "pos": "verb",
-            "back": "to predict, to foresee",
-            "example": "Non è facile prevedere il futuro.",
-            "tier": "B1"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Dobbiamo proteggere l'ambiente.",
-            "tier": "A2"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Questa strada è pericolosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "La città attira molti turisti.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "the instrument, tool",
-            "example": "Usa strumenti moderni.",
-            "tier": "B1"
-          },
-          {
-            "front": "con attenzione",
-            "pos": "phrase",
-            "back": "carefully, with attention",
-            "example": "Ascolta con attenzione.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'Etna è il vulcano più grande e attivo d'Europa.",
-            "point": "Superlativo relativo",
-            "explanation": "'Il più grande' è il superlativo relativo: indica il massimo grado in un gruppo (in Europa).",
-            "why_tricky": "In italiano l'articolo 'il' resta prima di 'più'; in inglese si usa '-est' o 'the most'."
-          },
-          {
-            "sentence": "Se gli scienziati capiscono come si muove il magma, possono prevedere meglio le eruzioni.",
-            "point": "Periodo ipotetico della realtà",
-            "explanation": "'Se' con il presente ('capiscono') e il presente ('possono') esprime una condizione reale e possibile.",
-            "why_tricky": "Il 'si' di 'si muove' è impersonale e non va confuso con il pronome riflessivo."
-          },
-          {
-            "sentence": "Il vulcano è bello ma anche pericoloso, per questo gli esperti lo osservano sempre con grande attenzione.",
-            "point": "Pronome diretto 'lo'",
-            "explanation": "'Lo' sostituisce 'il vulcano' come oggetto diretto, così non si ripete il nome.",
-            "why_tricky": "Il pronome va prima del verbo coniugato: 'lo osservano', non 'osservano lo'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da tutto il mondo",
-            "meaning": "from all over the world",
-            "example": "Vengono turisti da tutto il mondo."
-          },
-          {
-            "phrase": "con grande attenzione",
-            "meaning": "very carefully, with great care",
-            "example": "Guarda ogni dettaglio con grande attenzione."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove si trova l'Etna e perché è famoso?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa hanno studiato i ricercatori italiani?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è importante capire come si muove il magma?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe visitare un vulcano come l'Etna? Perché sì o perché no? Scrivi la tua opinione."
       }
     }
   ]
