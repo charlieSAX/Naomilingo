@@ -1,7 +1,535 @@
 {
- "generated_at": "2026-08-06T20:10:17.852775Z",
+ "generated_at": "2026-08-07T08:10:21.176745Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-07-addio-guccini",
+   "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
+   "source": "ANSA",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "cultura",
+    "musica"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-addio-guccini",
+    "revision": 1,
+    "meta": {
+     "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/2026/08/06/addio-a-francesco-guccini-il-maestrone-che-ha-segnato-la-storia-della-musica_70361168-09fe-4f1f-98f7-7155fae99993.html",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "cultura",
+      "musica"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Francesco Guccini, one of Italy's best-loved singer-songwriters, has died. He was 86. Many people called him the Maestrone, out of respect and out of affection. His songs tell the story of ordinary people, of small-town Italy, of friendship and of time passing. Guccini also wrote novels and for years he taught. The funeral is being held privately.\n\nAll over Italy many artists have remembered him with warm words, and some bands have sung his songs during their concerts these last few days. For several generations his words were a kind of soundtrack: they were learned at school, in the mountains or around a fire. Now radio and television stations are preparing special programmes, and his songs are being listened to again by a young audience as well.",
+    "resumen_es": "È morto Francesco Guccini, uno dei cantautori più amati d'Italia. Aveva 86 anni. Molte persone lo chiamavano il Maestrone, per rispetto e per affetto. Le sue canzoni raccontano la vita della gente semplice, la provincia, l'amicizia e il tempo che passa. Guccini ha scritto anche romanzi e per anni ha insegnato. I funerali si svolgono in forma privata.\n\nIn tutta Italia molti artisti lo hanno ricordato con parole affettuose e alcuni gruppi hanno cantato le sue canzoni durante i concerti di questi giorni. Per diverse generazioni le sue parole sono state una specie di colonna sonora: si imparavano a scuola, in montagna o intorno a un fuoco. Adesso le radio e le televisioni preparano programmi speciali, e le sue canzoni tornano ad essere ascoltate anche da un pubblico giovane.",
+    "vocab": [
+     {
+      "front": "il cantautore",
+      "pos": "noun",
+      "back": "singer-songwriter",
+      "example": "Guccini è stato un grande cantautore.",
+      "tier": "B1"
+     },
+     {
+      "front": "amato",
+      "pos": "adj",
+      "back": "loved, beloved",
+      "example": "È un artista molto amato in Italia.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'affetto",
+      "pos": "noun",
+      "back": "affection",
+      "example": "Lo ricordano con affetto.",
+      "tier": "B1"
+     },
+     {
+      "front": "raccontare",
+      "pos": "verb",
+      "back": "to tell, to recount",
+      "example": "Le sue canzoni raccontano storie vere.",
+      "tier": "B1"
+     },
+     {
+      "front": "la gente semplice",
+      "pos": "phrase",
+      "back": "ordinary people",
+      "example": "Scriveva della gente semplice.",
+      "tier": "B1"
+     },
+     {
+      "front": "la provincia",
+      "pos": "noun",
+      "back": "the provinces, small-town Italy",
+      "example": "È cresciuto in provincia.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'amicizia",
+      "pos": "noun",
+      "back": "friendship",
+      "example": "Parla spesso di amicizia.",
+      "tier": "B1"
+     },
+     {
+      "front": "il romanzo",
+      "pos": "noun",
+      "back": "novel",
+      "example": "Ha scritto anche due romanzi.",
+      "tier": "B1"
+     },
+     {
+      "front": "i funerali",
+      "pos": "noun",
+      "back": "funeral",
+      "example": "I funerali sono privati.",
+      "tier": "B1"
+     },
+     {
+      "front": "svolgersi",
+      "pos": "verb",
+      "back": "to take place",
+      "example": "La cerimonia si svolge domani.",
+      "tier": "B2"
+     },
+     {
+      "front": "ricordare",
+      "pos": "verb",
+      "back": "to remember, to pay tribute to",
+      "example": "Molti artisti lo hanno ricordato.",
+      "tier": "B1"
+     },
+     {
+      "front": "la colonna sonora",
+      "pos": "phrase",
+      "back": "soundtrack",
+      "example": "Quella canzone è la colonna sonora della mia gioventù.",
+      "tier": "B2"
+     },
+     {
+      "front": "la generazione",
+      "pos": "noun",
+      "back": "generation",
+      "example": "Diverse generazioni lo hanno ascoltato.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "audience",
+      "example": "Il pubblico era numeroso.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "È morto Francesco Guccini, uno dei cantautori più amati d'Italia.",
+      "point": "passato prossimo with essere and agreement",
+      "explanation": "Morire takes essere, so the participle agrees with the subject: \"è morto\" for a man, \"è morta\" for a woman. Most verbs of motion and change of state behave the same way.",
+      "why_tricky": "Verbs that take avere never agree with the subject, so learners mix the two systems. Ask first which auxiliary the verb uses, then decide about agreement."
+     },
+     {
+      "sentence": "Le sue canzoni raccontano la vita della gente semplice, la provincia, l'amicizia e il tempo che passa.",
+      "point": "possessive adjective with the article: le sue canzoni",
+      "explanation": "Italian normally keeps the definite article before a possessive: le sue canzoni, il mio libro. The possessive agrees with the thing owned, not with the owner, so \"sue\" is feminine plural because \"canzoni\" is.",
+      "why_tricky": "English speakers expect the possessive to tell them the owner's gender. In Italian \"le sue canzoni\" could be a man's or a woman's songs; only the context says which."
+     },
+     {
+      "sentence": "Per diverse generazioni le sue parole sono state una specie di colonna sonora: si imparavano a scuola, in montagna o intorno a un fuoco.",
+      "point": "imperfetto for repeated past habits, with the impersonal si",
+      "explanation": "\"si imparavano\" combines the impersonal si with the imperfect, the tense for things that used to happen regularly. The verb is plural because \"le parole\" is plural.",
+      "why_tricky": "The passato prossimo (\"si sono imparate\") would turn a long habit into a single completed event. And the si construction takes plural agreement, which is easy to forget."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "lasciare il segno",
+      "meaning": "to leave a mark, to make a lasting impression",
+      "example": "Le sue canzoni hanno lasciato il segno."
+     },
+     {
+      "phrase": "avere un posto nel cuore",
+      "meaning": "to have a place in someone's heart",
+      "example": "Quella canzone ha un posto nel mio cuore."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché molte persone chiamavano Guccini il Maestrone?",
+      "type": "open"
+     },
+     {
+      "q": "Di che cosa parlano le sue canzoni?",
+      "type": "open"
+     },
+     {
+      "q": "Come lo hanno ricordato gli altri artisti?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Scrivi 100 parole su una canzone che è importante per te: quando l'hai sentita la prima volta e perché ti piace."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-lattuga-proteina-carne",
+   "title": "Ottenuta la prima lattuga che produce una proteina chiave della carne",
+   "source": "ANSA",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "alimentazione"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-lattuga-proteina-carne",
+    "revision": 1,
+    "meta": {
+     "title": "Ottenuta la prima lattuga che produce una proteina chiave della carne",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/07/ottenuta-la-prima-lattuga-che-produce-una-proteina-chiave-della-carne_57570494-0f6b-4789-8531-8dd63fd0c125.html",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "scienza",
+      "alimentazione"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Some researchers have produced a lettuce able to make a protein typical of meat. The plant grows like an ordinary lettuce, but inside its leaves this protein forms as well. The idea is simple: to use plants as small natural factories, instead of raising more animals. For now this is a laboratory result and not a product we can find in the supermarket.\n\nIf the research goes well, this route could make our diet more sustainable, because growing plants uses less water and less land than livestock farming. Many questions remain, though: taste, cost and above all the European rules on food safety. Consumers, too, will have to get used to the idea. Scientists therefore urge caution, because more studies are needed before we can talk about a real change.",
+    "resumen_es": "Alcuni ricercatori hanno ottenuto una lattuga capace di produrre una proteina tipica della carne. La pianta cresce come una lattuga normale, ma dentro le sue foglie si forma anche questa proteina. L'idea è semplice: usare le piante come piccole fabbriche naturali, invece di allevare più animali. Per ora si tratta di un risultato di laboratorio e non di un prodotto che possiamo trovare al supermercato.\n\nSe la ricerca andrà avanti bene, questa strada potrebbe rendere l'alimentazione più sostenibile, perché coltivare piante consuma meno acqua e meno terra dell'allevamento. Restano però molte domande: il sapore, il costo e soprattutto le regole europee sulla sicurezza alimentare. Anche i consumatori dovranno abituarsi all'idea. Gli scienziati invitano quindi alla prudenza, perché servono altri studi prima di parlare di un vero cambiamento.",
+    "vocab": [
+     {
+      "front": "il ricercatore",
+      "pos": "noun",
+      "back": "researcher",
+      "example": "I ricercatori hanno pubblicato lo studio.",
+      "tier": "B1"
+     },
+     {
+      "front": "la lattuga",
+      "pos": "noun",
+      "back": "lettuce",
+      "example": "Ho comprato una lattuga fresca.",
+      "tier": "B1"
+     },
+     {
+      "front": "la foglia",
+      "pos": "noun",
+      "back": "leaf",
+      "example": "Le foglie sono verdi e larghe.",
+      "tier": "B1"
+     },
+     {
+      "front": "allevare",
+      "pos": "verb",
+      "back": "to raise, to farm (animals)",
+      "example": "In questa zona allevano mucche.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'allevamento",
+      "pos": "noun",
+      "back": "livestock farming",
+      "example": "L'allevamento consuma molta acqua.",
+      "tier": "B2"
+     },
+     {
+      "front": "coltivare",
+      "pos": "verb",
+      "back": "to grow, to cultivate",
+      "example": "Coltivano pomodori nell'orto.",
+      "tier": "B1"
+     },
+     {
+      "front": "sostenibile",
+      "pos": "adj",
+      "back": "sustainable",
+      "example": "Cercano un'agricoltura più sostenibile.",
+      "tier": "B1"
+     },
+     {
+      "front": "il sapore",
+      "pos": "noun",
+      "back": "taste, flavour",
+      "example": "Il sapore è ancora da migliorare.",
+      "tier": "B1"
+     },
+     {
+      "front": "la sicurezza alimentare",
+      "pos": "phrase",
+      "back": "food safety",
+      "example": "Le regole sulla sicurezza alimentare sono severe.",
+      "tier": "B2"
+     },
+     {
+      "front": "abituarsi a",
+      "pos": "verb",
+      "back": "to get used to",
+      "example": "Ci si abitua presto al clima.",
+      "tier": "B1"
+     },
+     {
+      "front": "la prudenza",
+      "pos": "noun",
+      "back": "caution",
+      "example": "Gli scienziati invitano alla prudenza.",
+      "tier": "B2"
+     },
+     {
+      "front": "si tratta di",
+      "pos": "phrase",
+      "back": "it is a matter of, this is",
+      "example": "Si tratta di un primo esperimento.",
+      "tier": "B1"
+     },
+     {
+      "front": "per ora",
+      "pos": "phrase",
+      "back": "for now",
+      "example": "Per ora non ci sono novità.",
+      "tier": "B1"
+     },
+     {
+      "front": "andare avanti",
+      "pos": "phrase",
+      "back": "to go on, to continue",
+      "example": "Il progetto andrà avanti fino a dicembre.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Se la ricerca andrà avanti bene, questa strada potrebbe rendere l'alimentazione più sostenibile, perché coltivare piante consuma meno acqua e meno terra dell'allevamento.",
+      "point": "periodo ipotetico with the future in the se clause",
+      "explanation": "Italian, unlike English, uses the future tense after \"se\" when the condition is genuinely still open: \"se andrà avanti\", not \"se va avanti\". The main clause here uses the conditional \"potrebbe\".",
+      "why_tricky": "English says \"if the research goes well\" with a present tense, so learners transfer that. Both \"se andrà\" and \"se va\" exist in Italian, but the future makes the openness explicit."
+     },
+     {
+      "sentence": "Per ora si tratta di un risultato di laboratorio e non di un prodotto che possiamo trovare al supermercato.",
+      "point": "the fixed impersonal expression si tratta di",
+      "explanation": "\"si tratta di\" always stays in the third person singular and is always followed by \"di\". It means \"this is / it is a case of\" and has no expressed subject.",
+      "why_tricky": "Learners try to make it agree (\"si trattano di risultati\") or drop the \"di\". Neither is possible: the phrase is frozen."
+     },
+     {
+      "sentence": "Anche i consumatori dovranno abituarsi all'idea.",
+      "point": "reflexive infinitive after a modal verb",
+      "explanation": "With a modal verb like dovere, the reflexive pronoun can attach to the infinitive: \"dovranno abituarsi\". Italian also allows \"si dovranno abituare\", with the same meaning.",
+      "why_tricky": "What is not allowed is dropping the pronoun altogether. Abituarsi is reflexive in Italian even though \"get used to\" is not reflexive in English."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "andarci piano",
+      "meaning": "to take it slowly, not to jump to conclusions",
+      "example": "Meglio andarci piano con gli entusiasmi."
+     },
+     {
+      "phrase": "essere ancora acqua passata",
+      "meaning": "something already over and no longer relevant",
+      "example": "Quel problema è ormai acqua passata."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa hanno ottenuto i ricercatori?",
+      "type": "open"
+     },
+     {
+      "q": "Perché questa ricerca potrebbe essere utile per l'ambiente?",
+      "type": "open"
+     },
+     {
+      "q": "Quali dubbi restano prima di trovare questo prodotto nei negozi?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Mangeresti un alimento creato in laboratorio? Scrivi 100 parole e spiega perché sì o perché no."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-esodo-estivo-bollino-nero",
+   "title": "Bollino nero per l'esodo estivo, 25 milioni in viaggio: domani giornata clou, ecco dove",
+   "source": "Rai News",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "viaggi"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-esodo-estivo-bollino-nero",
+    "revision": 1,
+    "meta": {
+     "title": "Bollino nero per l'esodo estivo, 25 milioni in viaggio: domani giornata clou, ecco dove",
+     "source": "Rai News",
+     "url": "https://www.rainews.it/articoli/2026/08/bollino-nero-per-lesodo-estivo-domani-sulle-strade-giornata-clou-ecco-dove-viabilita-00a53478-f498-4008-a12f-a1ad80c6bf00.html",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "società",
+      "viaggi"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "This weekend the great summer exodus begins: around 25 million Italians are setting off on holiday. The motorway companies have given Saturday morning a black rating, that is, the worst moment to leave. Traffic is already heavy today, above all towards the coast and towards the south. For anyone who can choose, it is better to leave late in the evening or very early in the morning.\n\nThe traffic police advise checking the car before setting off, drinking often and stopping every two hours, because in the heat tiredness comes on sooner. Trains and airports will also be full over these days. Anyone staying in the city will find clear roads instead, and many shops closed until September. The hardest journey back will be at the end of the month.",
+    "resumen_es": "Questo fine settimana comincia il grande esodo estivo: circa 25 milioni di italiani si mettono in viaggio per le vacanze. Le società delle autostrade hanno messo il bollino nero su sabato mattina, cioè il momento peggiore per partire. Il traffico è intenso già da oggi, soprattutto verso il mare e verso il sud. Chi può scegliere, è meglio che parta la sera tardi o la mattina molto presto.\n\nLa polizia stradale consiglia di controllare la macchina prima di partire, di bere spesso e di fermarsi ogni due ore, perché con il caldo la stanchezza arriva prima. Anche i treni e gli aeroporti saranno pieni in questi giorni. Chi resta in città troverà invece strade libere e molti negozi chiusi fino a settembre. Il rientro più difficile sarà alla fine del mese.",
+    "vocab": [
+     {
+      "front": "l'esodo estivo",
+      "pos": "phrase",
+      "back": "the summer getaway, mass holiday departure",
+      "example": "L'esodo estivo comincia ad agosto.",
+      "tier": "B2"
+     },
+     {
+      "front": "mettersi in viaggio",
+      "pos": "phrase",
+      "back": "to set off",
+      "example": "Ci mettiamo in viaggio alle sei.",
+      "tier": "B1"
+     },
+     {
+      "front": "il bollino nero",
+      "pos": "phrase",
+      "back": "black rating (worst traffic day)",
+      "example": "Sabato c'è il bollino nero.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'autostrada",
+      "pos": "noun",
+      "back": "motorway",
+      "example": "L'autostrada era piena di macchine.",
+      "tier": "B1"
+     },
+     {
+      "front": "il traffico",
+      "pos": "noun",
+      "back": "traffic",
+      "example": "Il traffico è intenso verso il mare.",
+      "tier": "B1"
+     },
+     {
+      "front": "intenso",
+      "pos": "adj",
+      "back": "heavy, intense",
+      "example": "Il traffico sarà intenso da domani.",
+      "tier": "B1"
+     },
+     {
+      "front": "partire",
+      "pos": "verb",
+      "back": "to leave, to set off",
+      "example": "Partiamo domani mattina presto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la polizia stradale",
+      "pos": "phrase",
+      "back": "traffic police",
+      "example": "La polizia stradale controlla le auto.",
+      "tier": "B1"
+     },
+     {
+      "front": "consigliare di",
+      "pos": "verb",
+      "back": "to advise to",
+      "example": "Ti consiglio di partire presto.",
+      "tier": "B1"
+     },
+     {
+      "front": "fermarsi",
+      "pos": "verb",
+      "back": "to stop",
+      "example": "Fermiamoci a bere qualcosa.",
+      "tier": "B1"
+     },
+     {
+      "front": "la stanchezza",
+      "pos": "noun",
+      "back": "tiredness",
+      "example": "Con il caldo la stanchezza aumenta.",
+      "tier": "B1"
+     },
+     {
+      "front": "il rientro",
+      "pos": "noun",
+      "back": "the return journey",
+      "example": "Il rientro sarà a fine mese.",
+      "tier": "B2"
+     },
+     {
+      "front": "chi può",
+      "pos": "phrase",
+      "back": "those who can, whoever can",
+      "example": "Chi può, parte di notte.",
+      "tier": "B1"
+     },
+     {
+      "front": "fino a",
+      "pos": "phrase",
+      "back": "until, up to",
+      "example": "I negozi sono chiusi fino a settembre.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Chi può scegliere, è meglio che parta la sera tardi o la mattina molto presto.",
+      "point": "è meglio che + congiuntivo",
+      "explanation": "Impersonal expressions of opinion or advice, such as \"è meglio che\", \"bisogna che\", \"è importante che\", are followed by the subjunctive: parta, not parte.",
+      "why_tricky": "When there is no change of subject Italian prefers the infinitive instead: \"è meglio partire presto\". Learners often keep \"che\" and the indicative, which sounds wrong in both cases."
+     },
+     {
+      "sentence": "La polizia stradale consiglia di controllare la macchina prima di partire, di bere spesso e di fermarsi ogni due ore, perché con il caldo la stanchezza arriva prima.",
+      "point": "consigliare di + infinito, and prima di + infinito",
+      "explanation": "Many Italian verbs of advising and asking are followed by \"di\" plus the infinitive. Likewise \"prima di\" always takes the infinitive, never a conjugated verb.",
+      "why_tricky": "English uses the gerund (\"before leaving\"), so learners write \"prima di partendo\". Italian has no gerund after a preposition: it must be the plain infinitive."
+     },
+     {
+      "sentence": "Chi resta in città troverà invece strade libere e molti negozi chiusi fino a settembre.",
+      "point": "futuro semplice and the relative pronoun chi",
+      "explanation": "\"chi\" means \"the person who / whoever\" and always takes a singular verb, here \"resta\". The main verb \"troverà\" is in the simple future, used for a confident prediction.",
+      "why_tricky": "Learners confuse \"chi\" with the plural \"quelli che\" and put the verb in the plural. Also, spoken Italian often replaces the future with the present, but written news keeps the future."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "mettersi in strada",
+      "meaning": "to hit the road",
+      "example": "Domani ci mettiamo in strada all'alba."
+     },
+     {
+      "phrase": "essere agli sgoccioli",
+      "meaning": "to be nearly over, down to the last drop",
+      "example": "Le vacanze sono ormai agli sgoccioli."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Quando è il momento peggiore per partire questo fine settimana?",
+      "type": "open"
+     },
+     {
+      "q": "Quali consigli dà la polizia stradale?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa trova chi resta in città durante l'esodo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Preferisci partire in vacanza ad agosto con tutti gli altri o in un altro mese? Scrivi 100 parole e spiega perché."
+   }
+  },
   {
    "pack_id": "feed-2026-08-06-pellacani-cinque-ori",
    "title": "Parigi: Chiara Pellacani storico en plein, 5 ori su 5 agli Europei di tuffi",
@@ -6156,506 +6684,6 @@
      }
     ],
     "opinion_prompt": "Preferisci vedere un film al cinema o a casa sul divano? Spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-whatsapp-web",
-   "title": "WhatsApp migliora la versione web, ora con chiamate video e audio",
-   "source": "ANSA",
-   "date": "2026-07-31",
-   "level": "A2-B1",
-   "topics": [
-    "tecnologia",
-    "internet"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-whatsapp-web",
-    "revision": 1,
-    "meta": {
-     "title": "WhatsApp migliora la versione web, ora con chiamate video e audio",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/07/29/whatsapp-migliora-la-versione-web-ora-con-chiamate-video-e-audio_04199636-0a99-4e2b-ba1d-7e0699a92b68.html",
-     "date_published": "2026-07-29",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "tecnologia",
-      "internet"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "WhatsApp has improved its version for computers. From today it is possible to make audio and video calls directly from the browser, without using the phone. Before, this feature did not exist and many users had to use their smartphone. Now, instead, you can talk with friends and colleagues even while working at the computer. It is a convenient new feature, especially for those who spend many hours in front of the screen.\n\nWith this choice, WhatsApp wants to compete with other very popular programs for video calls, like Zoom and Meet. The new version also offers a waiting room and a system to reduce background noise. These features are useful especially for work meetings. In this way, the app tries to become a complete tool, not only for messages, but also for the important calls of every day.",
-    "resumen_es": "WhatsApp ha migliorato la sua versione per il computer. Da oggi è possibile fare chiamate audio e video direttamente dal browser, senza usare il telefono. Prima questa funzione non c'era e molti utenti dovevano per forza usare lo smartphone. Ora invece si può parlare con amici e colleghi anche mentre si lavora al computer. È una novità comoda, soprattutto per chi passa molte ore davanti allo schermo.\n\nCon questa scelta, WhatsApp vuole competere con altri programmi molto usati per le videochiamate, come Zoom e Meet. La nuova versione offre anche una sala d'attesa e un sistema per ridurre i rumori di fondo. Queste funzioni sono utili soprattutto per le riunioni di lavoro. In questo modo, l'applicazione cerca di diventare uno strumento completo, non solo per i messaggi, ma anche per le chiamate importanti di ogni giorno.",
-    "vocab": [
-     {
-      "front": "versione",
-      "pos": "noun",
-      "back": "version",
-      "example": "Hanno lanciato una nuova versione dell'app.",
-      "tier": "A2"
-     },
-     {
-      "front": "migliorare",
-      "pos": "verb",
-      "back": "to improve",
-      "example": "WhatsApp ha migliorato il servizio.",
-      "tier": "A2"
-     },
-     {
-      "front": "chiamata",
-      "pos": "noun",
-      "back": "call",
-      "example": "Ho fatto una chiamata video con mia madre.",
-      "tier": "A2"
-     },
-     {
-      "front": "browser",
-      "pos": "noun",
-      "back": "browser",
-      "example": "Apro il sito dal browser.",
-      "tier": "B1"
-     },
-     {
-      "front": "utente",
-      "pos": "noun",
-      "back": "user",
-      "example": "L'app ha molti utenti in Italia.",
-      "tier": "B1"
-     },
-     {
-      "front": "per forza",
-      "pos": "phrase",
-      "back": "necessarily, whether you like it or not",
-      "example": "Prima dovevi per forza usare il telefono.",
-      "tier": "B1"
-     },
-     {
-      "front": "comodo",
-      "pos": "adj",
-      "back": "convenient, comfortable",
-      "example": "È una funzione molto comoda.",
-      "tier": "A2"
-     },
-     {
-      "front": "schermo",
-      "pos": "noun",
-      "back": "screen",
-      "example": "Passo molte ore davanti allo schermo.",
-      "tier": "A2"
-     },
-     {
-      "front": "competere",
-      "pos": "verb",
-      "back": "to compete",
-      "example": "L'azienda vuole competere con i più grandi.",
-      "tier": "B1"
-     },
-     {
-      "front": "sala d'attesa",
-      "pos": "noun",
-      "back": "waiting room",
-      "example": "La riunione ha una sala d'attesa online.",
-      "tier": "B1"
-     },
-     {
-      "front": "rumori di fondo",
-      "pos": "noun",
-      "back": "background noise",
-      "example": "Il sistema riduce i rumori di fondo.",
-      "tier": "B1"
-     },
-     {
-      "front": "riunione",
-      "pos": "noun",
-      "back": "meeting",
-      "example": "Ho una riunione di lavoro alle tre.",
-      "tier": "A2"
-     },
-     {
-      "front": "strumento",
-      "pos": "noun",
-      "back": "tool, instrument",
-      "example": "L'app diventa uno strumento completo.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Ora invece si può parlare con amici e colleghi anche mentre si lavora al computer.",
-      "point": "il 'si' impersonale",
-      "explanation": "Il 'si' impersonale indica un soggetto generico, come 'you' o 'one' in inglese: 'si può parlare', 'si lavora' vogliono dire 'one can talk', 'one works'.",
-      "why_tricky": "Il verbo resta alla terza persona singolare e non c'è un soggetto esplicito, cosa insolita per chi parla inglese."
-     },
-     {
-      "sentence": "In questo modo, l'applicazione cerca di diventare uno strumento completo, non solo per i messaggi, ma anche per le chiamate importanti di ogni giorno.",
-      "point": "'cercare di + infinito' e 'non solo... ma anche'",
-      "explanation": "'Cercare di + infinito' significa provare a fare qualcosa. 'Non solo... ma anche' collega due elementi aggiungendo il secondo.",
-      "why_tricky": "Serve la preposizione 'di' dopo 'cercare', e la coppia 'non solo... ma anche' va completata sempre."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "per forza",
-      "meaning": "necessarily, with no other choice",
-      "example": "Senza biglietto non puoi entrare, per forza."
-     },
-     {
-      "phrase": "in questo modo",
-      "meaning": "in this way, like this",
-      "example": "In questo modo tutti possono partecipare."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa si può fare ora dalla versione web di WhatsApp?",
-      "type": "open"
-     },
-     {
-      "q": "Con quali programmi vuole competere WhatsApp?",
-      "type": "open"
-     },
-     {
-      "q": "Perché le nuove funzioni sono utili per il lavoro?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, è meglio fare le riunioni di lavoro online o di persona? Spiega la tua opinione."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-diritto-riparazione",
-   "title": "Elettrodomestici, stop all'obsolescenza programmata: arriva il diritto alla riparazione",
-   "source": "RAI News",
-   "date": "2026-07-31",
-   "level": "A2-B1",
-   "topics": [
-    "ambiente",
-    "consumo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-diritto-riparazione",
-    "revision": 1,
-    "meta": {
-     "title": "Elettrodomestici, stop all'obsolescenza programmata: arriva il diritto alla riparazione",
-     "source": "RAI News",
-     "url": "https://www.rainews.it/articoli/2026/07/elettrodomestici-stop-allobsolescenza-programmata-arriva-il-diritto-alla-riparazione-d7d4c8ba-817f-4a59-8dbe-4a7c25e59c71.html",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "ambiente",
-      "consumo"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Europe new rules are coming for home appliances, such as washing machines and fridges. From now on, companies will have to repair broken products, even after the warranty ends. In addition, they will have to guarantee spare parts for several years. The goal is clear: to stop planned obsolescence, that is, the habit of building objects that break too soon. In this way, citizens will be able to use their appliances for much longer.\n\nThis new development is positive for two important reasons. First of all, families will be able to save money, because they will not have to keep buying new products. In addition, less waste will be produced, and this will be good for the environment. Many associations had been asking for a law like this for a long time. Now the challenge will be to check that companies really respect the new rules in all European countries in the coming years.",
-    "resumen_es": "In Europa arrivano nuove regole per gli elettrodomestici, come lavatrici e frigoriferi. D'ora in poi le aziende dovranno riparare i prodotti rotti, anche dopo la fine della garanzia. Inoltre, dovranno garantire i pezzi di ricambio per diversi anni. L'obiettivo è chiaro: fermare l'obsolescenza programmata, cioè l'abitudine di costruire oggetti che si rompono troppo presto. In questo modo, i cittadini potranno usare i loro apparecchi molto più a lungo.\n\nQuesta novità è positiva per due motivi importanti. Prima di tutto, le famiglie potranno risparmiare soldi, perché non dovranno comprare sempre prodotti nuovi. Inoltre, si produrranno meno rifiuti e questo farà bene all'ambiente. Molte associazioni chiedevano da tempo una legge come questa. Ora la sfida sarà controllare che le aziende rispettino davvero le nuove regole in tutti i Paesi europei nei prossimi anni.",
-    "vocab": [
-     {
-      "front": "elettrodomestico",
-      "pos": "noun",
-      "back": "home appliance",
-      "example": "La lavatrice è un elettrodomestico utile.",
-      "tier": "B1"
-     },
-     {
-      "front": "lavatrice",
-      "pos": "noun",
-      "back": "washing machine",
-      "example": "La lavatrice non funziona più.",
-      "tier": "A2"
-     },
-     {
-      "front": "frigorifero",
-      "pos": "noun",
-      "back": "fridge",
-      "example": "Il frigorifero è quasi vuoto.",
-      "tier": "A2"
-     },
-     {
-      "front": "riparare",
-      "pos": "verb",
-      "back": "to repair, to fix",
-      "example": "Ho fatto riparare il telefono.",
-      "tier": "A2"
-     },
-     {
-      "front": "garanzia",
-      "pos": "noun",
-      "back": "warranty, guarantee",
-      "example": "Il prodotto ha due anni di garanzia.",
-      "tier": "B1"
-     },
-     {
-      "front": "pezzo di ricambio",
-      "pos": "noun",
-      "back": "spare part",
-      "example": "Manca un pezzo di ricambio per la macchina.",
-      "tier": "B1"
-     },
-     {
-      "front": "obsolescenza programmata",
-      "pos": "noun",
-      "back": "planned obsolescence",
-      "example": "L'obsolescenza programmata fa comprare cose nuove.",
-      "tier": "B1"
-     },
-     {
-      "front": "rompersi",
-      "pos": "verb",
-      "back": "to break, to break down",
-      "example": "Gli oggetti si rompono troppo presto.",
-      "tier": "A2"
-     },
-     {
-      "front": "risparmiare",
-      "pos": "verb",
-      "back": "to save (money)",
-      "example": "Così le famiglie possono risparmiare soldi.",
-      "tier": "A2"
-     },
-     {
-      "front": "rifiuti",
-      "pos": "noun",
-      "back": "waste, rubbish",
-      "example": "Produciamo troppi rifiuti.",
-      "tier": "B1"
-     },
-     {
-      "front": "ambiente",
-      "pos": "noun",
-      "back": "environment",
-      "example": "Questa legge fa bene all'ambiente.",
-      "tier": "A2"
-     },
-     {
-      "front": "d'ora in poi",
-      "pos": "phrase",
-      "back": "from now on",
-      "example": "D'ora in poi paghiamo meno.",
-      "tier": "B1"
-     },
-     {
-      "front": "sfida",
-      "pos": "noun",
-      "back": "challenge",
-      "example": "La vera sfida è rispettare le regole.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "D'ora in poi le aziende dovranno riparare i prodotti rotti, anche dopo la fine della garanzia.",
-      "point": "futuro di 'dovere' per l'obbligo",
-      "explanation": "'Dovranno' è il futuro di 'dovere' e, seguito da un infinito ('riparare'), esprime un obbligo futuro.",
-      "why_tricky": "'Dovere' è irregolare al futuro (dovrò, dovrai, dovrà, dovremo, dovrete, dovranno) e perde la 'e'."
-     },
-     {
-      "sentence": "Ora la sfida sarà controllare che le aziende rispettino davvero le nuove regole in tutti i Paesi europei nei prossimi anni.",
-      "point": "congiuntivo dopo 'controllare che'",
-      "explanation": "Dopo 'controllare che' si usa il congiuntivo presente: 'rispettino'. Il congiuntivo serve dopo molti verbi che esprimono controllo, dubbio o volontà.",
-      "why_tricky": "La forma 'rispettino' non è come il presente indicativo 'rispettano'; cambia la vocale finale."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "d'ora in poi",
-      "meaning": "from now on",
-      "example": "D'ora in poi farò più attenzione."
-     },
-     {
-      "phrase": "fare bene a",
-      "meaning": "to be good for",
-      "example": "Camminare ogni giorno fa bene alla salute."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa dovranno fare le aziende con i prodotti rotti?",
-      "type": "open"
-     },
-     {
-      "q": "Che cos'è l'obsolescenza programmata?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questa legge fa bene all'ambiente?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Ripari i tuoi oggetti rotti o preferisci comprarne di nuovi? Spiega la tua scelta."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-30-auto-sfratto",
-   "title": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
-   "source": "ANSA",
-   "date": "2026-07-30",
-   "level": "A2-B1",
-   "topics": [
-    "societa"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-30-auto-sfratto",
-    "revision": 2,
-    "meta": {
-     "title": "Vive in auto dopo lo sfratto, cerca casa per riavere i figli",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/vive-in-auto-dopo-lo-sfratto-cerca-casa-per-riavere-i-figli_e1b455b4-0f58-46aa-bfe9-3e03e40b69e3.html",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-30",
-     "tags": [
-      "societa"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Cristina is an Italian woman who lives inside her car. She lost her home after an eviction and now she does not know where to go. Her story is sad, but also full of hope. Cristina does not give up and keeps looking for a place to live. Every day she asks the social services of her town for help. Her biggest dream is simple: to find a house and go back to living with her children.\n\nRight now the children cannot stay with her, because she does not have a safe home. For this reason Cristina wants to change her situation as soon as possible. Many people in Italy live a similar problem, because rents are high and wages often are not enough. Cristina's story reminds us that having a home is an important right. With a little help, this mother hopes to return soon to a normal life.",
-    "resumen_es": "Cristina è una donna italiana che vive dentro la sua auto. Ha perso la casa dopo uno sfratto e adesso non sa dove andare. La sua storia è triste, ma anche piena di speranza. Cristina non si arrende e continua a cercare un posto dove abitare. Ogni giorno chiede aiuto ai servizi sociali del suo comune. Il suo sogno più grande è semplice: trovare una casa e tornare a vivere con i suoi figli.\n\nIn questo momento i bambini non possono stare con lei, perché non ha una casa sicura. Per questo Cristina vuole cambiare la sua situazione il più presto possibile. Molte persone in Italia vivono un problema simile, perché gli affitti sono alti e gli stipendi spesso non bastano. La storia di Cristina ci ricorda che avere una casa è un diritto importante. Con un po' di aiuto, questa mamma spera di tornare presto a una vita normale.",
-    "vocab": [
-     {
-      "front": "l'auto",
-      "pos": "noun",
-      "back": "car",
-      "example": "La mia auto è vecchia.",
-      "tier": "B1"
-     },
-     {
-      "front": "perdere",
-      "pos": "verb",
-      "back": "to lose",
-      "example": "Ho paura di perdere il lavoro.",
-      "tier": "B1"
-     },
-     {
-      "front": "sfratto",
-      "pos": "noun",
-      "back": "eviction",
-      "example": "Hanno ricevuto lo sfratto.",
-      "tier": "B1"
-     },
-     {
-      "front": "casa",
-      "pos": "noun",
-      "back": "house, home",
-      "example": "Cerco una casa in centro.",
-      "tier": "B1"
-     },
-     {
-      "front": "speranza",
-      "pos": "noun",
-      "back": "hope",
-      "example": "Non perdere mai la speranza.",
-      "tier": "B1"
-     },
-     {
-      "front": "arrendersi",
-      "pos": "verb",
-      "back": "to give up",
-      "example": "Non mi arrendo mai.",
-      "tier": "B1"
-     },
-     {
-      "front": "abitare",
-      "pos": "verb",
-      "back": "to live (somewhere)",
-      "example": "Abito a Roma da due anni.",
-      "tier": "B1"
-     },
-     {
-      "front": "aiuto",
-      "pos": "noun",
-      "back": "help",
-      "example": "Ho bisogno di aiuto.",
-      "tier": "B1"
-     },
-     {
-      "front": "sogno",
-      "pos": "noun",
-      "back": "dream",
-      "example": "Il mio sogno è viaggiare.",
-      "tier": "B1"
-     },
-     {
-      "front": "affitto",
-      "pos": "noun",
-      "back": "rent",
-      "example": "L'affitto è troppo caro.",
-      "tier": "B1"
-     },
-     {
-      "front": "stipendio",
-      "pos": "noun",
-      "back": "salary, wage",
-      "example": "Lo stipendio non basta mai.",
-      "tier": "B1"
-     },
-     {
-      "front": "bastare",
-      "pos": "verb",
-      "back": "to be enough",
-      "example": "I soldi non bastano.",
-      "tier": "B1"
-     },
-     {
-      "front": "diritto",
-      "pos": "noun",
-      "back": "right",
-      "example": "La salute è un diritto.",
-      "tier": "B1"
-     },
-     {
-      "front": "tornare",
-      "pos": "verb",
-      "back": "to return",
-      "example": "Voglio tornare a casa.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Ha perso la casa dopo uno sfratto e adesso non sa dove andare.",
-      "point": "Passato prossimo con avere",
-      "explanation": "'Ha perso' è un passato prossimo: 'avere' + participio passato di 'perdere'. Si usa per azioni concluse.",
-      "why_tricky": "Il participio di 'perdere' è irregolare ('perso', non 'perduto' nell'uso comune) e va imparato a memoria."
-     },
-     {
-      "sentence": "Cristina non si arrende e continua a cercare un posto dove abitare.",
-      "point": "Verbo riflessivo + continuare a",
-      "explanation": "'Si arrende' è riflessivo (arrendersi). 'Continua a cercare' usa la struttura 'continuare a + infinito'.",
-      "why_tricky": "La preposizione 'a' dopo 'continuare' è obbligatoria e spesso viene dimenticata."
-     },
-     {
-      "sentence": "Molte persone in Italia vivono un problema simile, perché gli affitti sono alti e gli stipendi spesso non bastano.",
-      "point": "Articolo determinativo plurale (gli)",
-      "explanation": "'Gli' si usa davanti a nomi maschili plurali che iniziano per vocale o per s+consonante: gli affitti, gli stipendi.",
-      "why_tricky": "Molti studenti usano 'i' al posto di 'gli' davanti a 's impura' o vocale."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "il più presto possibile",
-      "meaning": "as soon as possible",
-      "example": "Chiamami il più presto possibile."
-     },
-     {
-      "phrase": "un po' di",
-      "meaning": "a little (bit of)",
-      "example": "Vorrei un po' di pane."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché Cristina vive nella sua auto?",
-      "type": "open"
-     },
-     {
-      "q": "Qual è il sogno più grande di Cristina?",
-      "type": "open"
-     },
-     {
-      "q": "Perché molte persone in Italia hanno un problema simile?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Secondo te, come può la società aiutare le persone che non hanno una casa? Scrivi qualche frase con la tua opinione."
    }
   }
  ]
