@@ -1,7 +1,493 @@
 {
- "generated_at": "2026-08-07T08:10:21.176745Z",
+ "generated_at": "2026-08-07T20:10:24.781318Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-07-rossellini-locarno",
+   "title": "Isabella Rossellini: 'Stroncata al mio primo ruolo, mi diedi alla moda'",
+   "source": "ANSA",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "cinema",
+    "cultura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-rossellini-locarno",
+    "revision": 1,
+    "meta": {
+     "title": "Isabella Rossellini: 'Stroncata al mio primo ruolo, mi diedi alla moda'",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/06/isabella-rossellini-stroncata-al-mio-primo-ruolo-mi-diedi-alla-moda_cfbceb42-1be6-4da7-9578-dccc9cefdeb3.html",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "cinema",
+      "cultura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The Italian actress Isabella Rossellini spoke about herself at the Locarno Festival. She said that her first film role was criticised very harshly. After those criticisms she left the cinema for a while and worked in fashion. Today she says she chooses films mainly on the basis of the director, not on the basis of the character.\n\nLocarno is one of the most important festivals in Europe and every summer it brings actors and directors from all over the world to Switzerland. Stories like Rossellini's are popular with the public because they show that even a famous career can start badly. Over the next few days the festival continues with more talks and more screenings. Many young actors listen to these stories to understand how the world of cinema really works.",
+    "resumen_es": "L'attrice italiana Isabella Rossellini ha parlato di sé al Festival di Locarno. Ha raccontato che il suo primo ruolo al cinema è stato criticato molto duramente. Dopo quelle critiche ha lasciato il cinema per un periodo e ha lavorato nella moda. Oggi dice che sceglie i film soprattutto in base al regista, non in base al personaggio.\n\nLocarno è uno dei festival più importanti d'Europa e ogni estate porta in Svizzera attori e registi da tutto il mondo. Storie come quella di Rossellini piacciono al pubblico perché mostrano che anche una carriera famosa può iniziare male. Nei prossimi giorni il festival continua con altri incontri e altre proiezioni. Molti giovani attori ascoltano questi racconti per capire come funziona davvero il mondo del cinema.",
+    "vocab": [
+     {
+      "front": "l'attrice",
+      "pos": "noun",
+      "back": "actress",
+      "example": "L'attrice ha vinto un premio importante.",
+      "tier": "B1"
+     },
+     {
+      "front": "il regista",
+      "pos": "noun",
+      "back": "film director",
+      "example": "Il regista ha presentato il suo nuovo film.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ruolo",
+      "pos": "noun",
+      "back": "role, part",
+      "example": "Ha avuto un ruolo piccolo ma importante.",
+      "tier": "B1"
+     },
+     {
+      "front": "criticare",
+      "pos": "verb",
+      "back": "to criticise",
+      "example": "I giornali hanno criticato la sua scelta.",
+      "tier": "B1"
+     },
+     {
+      "front": "duramente",
+      "pos": "adv",
+      "back": "harshly, hard",
+      "example": "Il pubblico ha reagito duramente.",
+      "tier": "B2"
+     },
+     {
+      "front": "la moda",
+      "pos": "noun",
+      "back": "fashion",
+      "example": "Lavora nel mondo della moda da vent'anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pubblico",
+      "pos": "noun",
+      "back": "audience, public",
+      "example": "Il pubblico ha applaudito a lungo.",
+      "tier": "B1"
+     },
+     {
+      "front": "la carriera",
+      "pos": "noun",
+      "back": "career",
+      "example": "La sua carriera è iniziata molto presto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la proiezione",
+      "pos": "noun",
+      "back": "screening (of a film)",
+      "example": "La proiezione inizia alle nove.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'incontro",
+      "pos": "noun",
+      "back": "meeting, talk, encounter",
+      "example": "Domani c'è un incontro con il regista.",
+      "tier": "A2"
+     },
+     {
+      "front": "scegliere",
+      "pos": "verb",
+      "back": "to choose",
+      "example": "Non so quale film scegliere.",
+      "tier": "A2"
+     },
+     {
+      "front": "il personaggio",
+      "pos": "noun",
+      "back": "character (in a story)",
+      "example": "Il personaggio principale è una donna.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Ha raccontato che il suo primo ruolo al cinema è stato criticato molto duramente.",
+      "point": "Passivo al passato prossimo",
+      "explanation": "'È stato criticato' è la forma passiva: il soggetto (il ruolo) riceve l'azione. Si forma con 'essere' al passato prossimo più il participio.",
+      "why_tricky": "Ci sono due participi vicini, 'stato' e 'criticato', e il participio deve concordare con il soggetto."
+     },
+     {
+      "sentence": "Oggi dice che sceglie i film soprattutto in base al regista, non in base al personaggio.",
+      "point": "'In base a' con preposizione articolata",
+      "explanation": "'In base a' significa 'secondo' o 'a seconda di'. Davanti a un articolo diventa 'in base al', 'in base alla', 'in base ai'.",
+      "why_tricky": "Bisogna ricordare di unire 'a' con l'articolo, quindi 'in base al regista' e non 'in base a il regista'."
+     },
+     {
+      "sentence": "Storie come quella di Rossellini piacciono al pubblico perché mostrano che anche una carriera famosa può iniziare male.",
+      "point": "Il verbo 'piacere'",
+      "explanation": "Con 'piacere' il soggetto grammaticale è la cosa che piace, qui 'storie', quindi il verbo è al plurale: 'piacciono'. La persona che prova il piacere va con 'a': 'al pubblico'.",
+      "why_tricky": "In inglese la struttura è rovesciata, quindi molti studenti dicono 'il pubblico piace le storie'."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "in base a",
+      "meaning": "on the basis of, according to",
+      "example": "Decidiamo in base al tempo che avremo domani."
+     },
+     {
+      "phrase": "da tutto il mondo",
+      "meaning": "from all over the world",
+      "example": "Al festival arrivano giornalisti da tutto il mondo."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa è successo al primo ruolo di Isabella Rossellini?",
+      "type": "open"
+     },
+     {
+      "q": "Che lavoro ha fatto dopo aver lasciato il cinema?",
+      "type": "open"
+     },
+     {
+      "q": "Come sceglie i film oggi?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, è più importante il regista o la storia di un film? Scrivi circa 100 parole e spiega perché."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-antitrust-monopattini",
+   "title": "Antitrust: 'Ostacolo a corse gratis', maximulta a monopattini e bikesharing",
+   "source": "ANSA",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "economia",
+    "città"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-antitrust-monopattini",
+    "revision": 1,
+    "meta": {
+     "title": "Antitrust: 'Ostacolo a corse gratis', maximulta a monopattini e bikesharing",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/08/06/dallantitrust-multa-milionaria-a-monopattini-e-bikesharing.-ostacolate-le-corse-gratis_d3aa932a-0998-4ba1-a559-7114154d02b0.html",
+     "date_published": "2026-08-06",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "economia",
+      "città"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The Italian competition authority has given a very high fine to three companies that run shared scooters and bicycles: Bird, Dott and Lime. According to the authority, the three companies made it difficult to use the free rides promised to customers. In total the fine is 2.675 million euros. The companies can now appeal, but in the meantime the news has caused a lot of discussion.\n\nScooters and shared bikes are now common in Italian cities. They are handy for short journeys, but they often create problems: unclear apps, surprise costs and rules that are hard to understand. This fine sends a simple message to the companies: the promises made in advertising must be true. In the coming months other European authorities could keep a closer eye on this sector, which grows every year.",
+    "resumen_es": "L'Antitrust italiano ha dato una multa molto alta a tre aziende di monopattini e biciclette condivise: Bird, Dott e Lime. Secondo l'autorità, le tre società rendevano difficile usare le corse gratis promesse ai clienti. In totale la multa è di 2,675 milioni di euro. Le aziende ora possono presentare ricorso, ma intanto la notizia ha fatto discutere molto.\n\nI monopattini e le bici in sharing sono ormai comuni nelle città italiane. Sono comodi per brevi spostamenti, ma spesso creano problemi: app poco chiare, costi a sorpresa e regole difficili da capire. Questa multa manda un messaggio semplice alle aziende: le promesse fatte nella pubblicità devono essere vere. Nei prossimi mesi altre autorità europee potrebbero controllare meglio questo settore, che cresce ogni anno.",
+    "vocab": [
+     {
+      "front": "la multa",
+      "pos": "noun",
+      "back": "fine, penalty",
+      "example": "Ho preso una multa per divieto di sosta.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'azienda",
+      "pos": "noun",
+      "back": "company, firm",
+      "example": "L'azienda ha aperto una nuova sede a Milano.",
+      "tier": "A2"
+     },
+     {
+      "front": "il monopattino",
+      "pos": "noun",
+      "back": "scooter",
+      "example": "Vado al lavoro in monopattino.",
+      "tier": "B1"
+     },
+     {
+      "front": "la corsa",
+      "pos": "noun",
+      "back": "ride, journey",
+      "example": "La prima corsa del mese è gratis.",
+      "tier": "B1"
+     },
+     {
+      "front": "gratis",
+      "pos": "adv",
+      "back": "free of charge",
+      "example": "L'ingresso al museo oggi è gratis.",
+      "tier": "A2"
+     },
+     {
+      "front": "presentare ricorso",
+      "pos": "phrase",
+      "back": "to appeal (a decision)",
+      "example": "La società ha deciso di presentare ricorso.",
+      "tier": "B2"
+     },
+     {
+      "front": "lo spostamento",
+      "pos": "noun",
+      "back": "journey, movement, trip",
+      "example": "Per spostamenti brevi preferisco la bici.",
+      "tier": "B1"
+     },
+     {
+      "front": "comodo",
+      "pos": "adj",
+      "back": "convenient, comfortable",
+      "example": "Questo treno è molto comodo.",
+      "tier": "A2"
+     },
+     {
+      "front": "la pubblicità",
+      "pos": "noun",
+      "back": "advertising, advert",
+      "example": "La pubblicità prometteva un mese gratis.",
+      "tier": "A2"
+     },
+     {
+      "front": "il settore",
+      "pos": "noun",
+      "back": "sector, industry",
+      "example": "Il settore del turismo è cresciuto molto.",
+      "tier": "B1"
+     },
+     {
+      "front": "crescere",
+      "pos": "verb",
+      "back": "to grow",
+      "example": "Il numero di utenti cresce ogni mese.",
+      "tier": "B1"
+     },
+     {
+      "front": "ormai",
+      "pos": "adv",
+      "back": "by now, at this point",
+      "example": "Ormai è troppo tardi per uscire.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Secondo l'autorità, le tre società rendevano difficile usare le corse gratis promesse ai clienti.",
+      "point": "Imperfetto e la struttura 'rendere' più aggettivo",
+      "explanation": "'Rendevano' è imperfetto e descrive una situazione che durava nel tempo. 'Rendere difficile' significa 'fare in modo che una cosa sia difficile'.",
+      "why_tricky": "Molti studenti usano il passato prossimo, ma qui si parla di un comportamento ripetuto, non di un fatto singolo."
+     },
+     {
+      "sentence": "Sono comodi per brevi spostamenti, ma spesso creano problemi: app poco chiare, costi a sorpresa e regole difficili da capire.",
+      "point": "Aggettivo più 'da' più infinito",
+      "explanation": "'Difficili da capire' significa 'che sono difficili quando si prova a capirle'. Dopo un aggettivo si usa 'da' più infinito.",
+      "why_tricky": "In inglese si dice 'hard to understand', quindi si tende a usare 'a' invece di 'da'."
+     },
+     {
+      "sentence": "Nei prossimi mesi altre autorità europee potrebbero controllare meglio questo settore, che cresce ogni anno.",
+      "point": "Condizionale presente per una possibilità",
+      "explanation": "'Potrebbero' è il condizionale di 'potere' e indica qualcosa di possibile ma non sicuro nel futuro.",
+      "why_tricky": "Il condizionale italiano si confonde facilmente con il futuro semplice, che invece esprime certezza."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "a sorpresa",
+      "meaning": "unexpectedly, as a surprise",
+      "example": "È arrivato a sorpresa alla festa."
+     },
+     {
+      "phrase": "far discutere",
+      "meaning": "to spark debate, to get people talking",
+      "example": "La decisione del sindaco ha fatto discutere tutta la città."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Perché l'Antitrust ha dato una multa a queste tre aziende?",
+      "type": "open"
+     },
+     {
+      "q": "Quali problemi creano spesso i servizi di sharing, secondo il testo?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa possono fare adesso le aziende?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Usi i monopattini o le bici condivise nella tua città? Scrivi circa 100 parole sui vantaggi e sui problemi di questi servizi."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-07-cascate-sangue-antartide",
+   "title": "Nelle cascate di sangue dell'Antartide antichi microrganismi marini",
+   "source": "ANSA",
+   "date": "2026-08-07",
+   "level": "A2-B1",
+   "topics": [
+    "scienza",
+    "natura"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-07-cascate-sangue-antartide",
+    "revision": 1,
+    "meta": {
+     "title": "Nelle cascate di sangue dell'Antartide antichi microrganismi marini",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/08/07/nelle-cascate-di-sangue-dellantartide-antichi-microrganismi-marini_19d5fd0c-70e7-4b8b-a589-11a15dfc6fbf.html",
+     "date_published": "2026-08-07",
+     "date_processed": "2026-08-07",
+     "tags": [
+      "scienza",
+      "natura"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "In Antarctica there is a red waterfall, known as the Blood Falls. Some researchers have found ancient marine microorganisms inside this water. The discovery shows that the water of the waterfall comes from the ocean and not only from the ice above. The red colour, in fact, depends on the iron in the water, which turns red when it meets the air.\n\nThese microorganisms live in an extreme environment, without light and with very little oxygen. For scientists they are very interesting, because they help us understand how life can survive in difficult conditions. Some researchers think that similar environments may also exist on other planets, for example under the ice of certain moons. For this reason Antarctica remains an important place for research into the future of space exploration.",
+    "resumen_es": "In Antartide esiste una cascata di colore rosso, chiamata 'cascate di sangue'. Alcuni ricercatori hanno trovato dentro quest'acqua antichi microrganismi marini. La scoperta dimostra che l'acqua della cascata viene dall'oceano e non solo dal ghiaccio sopra. Il colore rosso, infatti, dipende dal ferro presente nell'acqua, che diventa rosso quando incontra l'aria.\n\nQuesti microrganismi vivono in un ambiente estremo, senza luce e con pochissimo ossigeno. Per gli scienziati sono molto interessanti, perché aiutano a capire come la vita può resistere in condizioni difficili. Alcuni ricercatori pensano che ambienti simili possano esistere anche su altri pianeti, per esempio sotto il ghiaccio di alcune lune. Per questo l'Antartide resta un luogo importante per la ricerca sul futuro dell'esplorazione spaziale.",
+    "vocab": [
+     {
+      "front": "la cascata",
+      "pos": "noun",
+      "back": "waterfall",
+      "example": "Abbiamo visto una cascata bellissima in montagna.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ricercatore",
+      "pos": "noun",
+      "back": "researcher",
+      "example": "I ricercatori hanno pubblicato lo studio ieri.",
+      "tier": "B1"
+     },
+     {
+      "front": "la scoperta",
+      "pos": "noun",
+      "back": "discovery",
+      "example": "È una scoperta molto importante per la scienza.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ghiaccio",
+      "pos": "noun",
+      "back": "ice",
+      "example": "Il ghiaccio sul lago è molto spesso.",
+      "tier": "A2"
+     },
+     {
+      "front": "il ferro",
+      "pos": "noun",
+      "back": "iron",
+      "example": "Questo minerale contiene molto ferro.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'ambiente",
+      "pos": "noun",
+      "back": "environment",
+      "example": "Vivono in un ambiente molto freddo.",
+      "tier": "A2"
+     },
+     {
+      "front": "l'ossigeno",
+      "pos": "noun",
+      "back": "oxygen",
+      "example": "In alta montagna c'è meno ossigeno.",
+      "tier": "B1"
+     },
+     {
+      "front": "resistere",
+      "pos": "verb",
+      "back": "to survive, to hold out",
+      "example": "Queste piante resistono anche senza acqua.",
+      "tier": "B1"
+     },
+     {
+      "front": "il pianeta",
+      "pos": "noun",
+      "back": "planet",
+      "example": "Marte è il pianeta più studiato.",
+      "tier": "A2"
+     },
+     {
+      "front": "la luna",
+      "pos": "noun",
+      "back": "moon",
+      "example": "Giove ha molte lune.",
+      "tier": "A2"
+     },
+     {
+      "front": "la ricerca",
+      "pos": "noun",
+      "back": "research",
+      "example": "La ricerca scientifica costa molto.",
+      "tier": "B1"
+     },
+     {
+      "front": "dimostrare",
+      "pos": "verb",
+      "back": "to show, to prove",
+      "example": "Lo studio dimostra che il metodo funziona.",
+      "tier": "B1"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "La scoperta dimostra che l'acqua della cascata viene dall'oceano e non solo dal ghiaccio sopra.",
+      "point": "Preposizioni articolate con 'venire da'",
+      "explanation": "'Venire da' indica l'origine. Davanti all'articolo, 'da' si unisce: 'dall'oceano', 'dal ghiaccio', 'dalla montagna'.",
+      "why_tricky": "Bisogna scegliere la forma giusta secondo il genere e la prima lettera del nome."
+     },
+     {
+      "sentence": "Alcuni ricercatori pensano che ambienti simili possano esistere anche su altri pianeti, per esempio sotto il ghiaccio di alcune lune.",
+      "point": "Congiuntivo presente dopo 'pensare che'",
+      "explanation": "Dopo verbi di opinione come 'pensare che' o 'credere che' si usa il congiuntivo: 'possano' invece di 'possono'.",
+      "why_tricky": "Nell'italiano parlato molte persone usano l'indicativo, ma nei testi scritti il congiuntivo resta la forma corretta."
+     },
+     {
+      "sentence": "Per gli scienziati sono molto interessanti, perché aiutano a capire come la vita può resistere in condizioni difficili.",
+      "point": "'Aiutare a' più infinito",
+      "explanation": "Il verbo 'aiutare' vuole la preposizione 'a' prima dell'infinito: 'aiutare a capire', 'aiutare a trovare'.",
+      "why_tricky": "Ogni verbo italiano ha la sua preposizione fissa e non sempre corrisponde a quella inglese."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "per questo",
+      "meaning": "for this reason, that is why",
+      "example": "Piove sempre, per questo non usciamo."
+     },
+     {
+      "phrase": "dipendere da",
+      "meaning": "to depend on",
+      "example": "Tutto dipende dal tempo che avremo domani."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa hanno trovato i ricercatori nell'acqua della cascata?",
+      "type": "open"
+     },
+     {
+      "q": "Perché l'acqua della cascata è di colore rosso?",
+      "type": "open"
+     },
+     {
+      "q": "Perché questi microrganismi interessano agli scienziati?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, è utile spendere soldi per cercare la vita su altri pianeti? Scrivi circa 100 parole."
+   }
+  },
   {
    "pack_id": "feed-2026-08-07-addio-guccini",
    "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
@@ -6204,486 +6690,6 @@
      }
     ],
     "opinion_prompt": "Ti piacerebbe lavorare a un progetto spaziale? Scrivi qualche frase e spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-europei-nuoto-oro-tuffi",
-   "title": "Europei di nuoto, il primo oro è dell'Italia nei tuffi a squadre",
-   "source": "ANSA",
-   "date": "2026-07-31",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "nuoto"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-europei-nuoto-oro-tuffi",
-    "revision": 1,
-    "meta": {
-     "title": "Europei di nuoto, il primo oro è dell'Italia nei tuffi a squadre",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/07/31/europei-nuoto-il-primo-oro-e-dellitalia-nei-tuffi-a-squadre_1553ddc7-5365-46fe-8c2a-3fb39fe4a402.html",
-     "date_published": "2026-07-31",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "sport",
-      "nuoto"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "At the European swimming championships, Italy has won its first gold medal. The victory came in the team diving event, where the Italian athletes competed together as one group. The audience followed the competition with great emotion and celebrated the result with much joy. For the team, it is a wonderful start to the championships.\n\nThis win is the fruit of long training and a lot of daily work in the pool. Diving requires balance, courage and precision, because every jump lasts only a few seconds. The Italian athletes showed that they can stay calm under pressure and work well as a team. Now the fans hope that the national team will win other medals in the coming days, while the competition continues.",
-    "resumen_es": "Ai campionati europei di nuoto, l'Italia ha vinto la sua prima medaglia d'oro. La vittoria è arrivata nei tuffi a squadre, dove gli atleti italiani hanno gareggiato insieme come un unico gruppo. Il pubblico ha seguito la gara con grande emozione e ha festeggiato il risultato con molta gioia. Per la squadra è un inizio bellissimo dei campionati.\n\nQuesta vittoria è il frutto di un lungo allenamento e di tanto lavoro quotidiano in piscina. I tuffi richiedono equilibrio, coraggio e precisione, perché ogni salto dura solo pochi secondi. Gli atleti italiani hanno dimostrato di saper restare calmi sotto pressione e di lavorare bene come squadra. Adesso i tifosi sperano che la nazionale vinca altre medaglie nei prossimi giorni, mentre la competizione continua.",
-    "vocab": [
-     {
-      "front": "la medaglia d'oro",
-      "pos": "noun",
-      "back": "the gold medal",
-      "example": "Ha vinto la medaglia d'oro alle Olimpiadi.",
-      "tier": "A2"
-     },
-     {
-      "front": "la vittoria",
-      "pos": "noun",
-      "back": "the victory, win",
-      "example": "La vittoria è stata una grande sorpresa.",
-      "tier": "A2"
-     },
-     {
-      "front": "il tuffo",
-      "pos": "noun",
-      "back": "the dive",
-      "example": "Il suo tuffo è stato quasi perfetto.",
-      "tier": "B1"
-     },
-     {
-      "front": "gareggiare",
-      "pos": "verb",
-      "back": "to compete",
-      "example": "Gli atleti gareggiano per il primo posto.",
-      "tier": "B1"
-     },
-     {
-      "front": "il pubblico",
-      "pos": "noun",
-      "back": "the audience, public",
-      "example": "Il pubblico ha applaudito a lungo.",
-      "tier": "A2"
-     },
-     {
-      "front": "festeggiare",
-      "pos": "verb",
-      "back": "to celebrate",
-      "example": "Abbiamo festeggiato la vittoria insieme.",
-      "tier": "A2"
-     },
-     {
-      "front": "l'allenamento",
-      "pos": "noun",
-      "back": "the training",
-      "example": "L'allenamento comincia alle sette.",
-      "tier": "A2"
-     },
-     {
-      "front": "quotidiano",
-      "pos": "adj",
-      "back": "daily",
-      "example": "Il lavoro quotidiano porta buoni risultati.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'equilibrio",
-      "pos": "noun",
-      "back": "the balance",
-      "example": "Serve equilibrio per stare in piedi sulla barca.",
-      "tier": "B1"
-     },
-     {
-      "front": "il coraggio",
-      "pos": "noun",
-      "back": "the courage",
-      "example": "Ci vuole coraggio per tuffarsi da lì.",
-      "tier": "A2"
-     },
-     {
-      "front": "il tifoso",
-      "pos": "noun",
-      "back": "the fan, supporter",
-      "example": "I tifosi cantano allo stadio.",
-      "tier": "B1"
-     },
-     {
-      "front": "sotto pressione",
-      "pos": "phrase",
-      "back": "under pressure",
-      "example": "Lavora bene anche sotto pressione.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "La vittoria è arrivata nei tuffi a squadre, dove gli atleti italiani hanno gareggiato insieme come un unico gruppo.",
-      "point": "passato prossimo: 'essere' vs 'avere' auxiliary",
-      "explanation": "'È arrivata' uses 'essere' (and agrees: arrivata), while 'hanno gareggiato' uses 'avere'. Verbs of movement like 'arrivare' take 'essere'.",
-      "why_tricky": "Learners must remember which verbs take 'essere' and that the participle then agrees in gender and number."
-     },
-     {
-      "sentence": "Gli atleti italiani hanno dimostrato di saper restare calmi sotto pressione e di lavorare bene come squadra.",
-      "point": "'dimostrare di' + infinitive",
-      "explanation": "After many verbs of saying/showing, Italian uses 'di' before the infinitive: 'hanno dimostrato di saper restare'.",
-      "why_tricky": "English uses 'that they can...'; Italian prefers 'di' + infinitive when the subject is the same."
-     },
-     {
-      "sentence": "Adesso i tifosi sperano che la nazionale vinca altre medaglie nei prossimi giorni, mentre la competizione continua.",
-      "point": "subjunctive after 'sperare che'",
-      "explanation": "'Sperare che' requires the subjunctive: 'vinca' (present subjunctive of vincere) expresses a hope, not a fact.",
-      "why_tricky": "The subjunctive 'vinca' looks different from the indicative 'vince', and beginners often use the indicative by mistake."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "sotto pressione",
-      "meaning": "under pressure",
-      "example": "Durante gli esami mi sento sotto pressione."
-     },
-     {
-      "phrase": "il frutto di",
-      "meaning": "the result/fruit of (effort)",
-      "example": "Questo successo è il frutto di anni di lavoro."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "In quale gara l'Italia ha vinto la prima medaglia d'oro?",
-      "type": "open"
-     },
-     {
-      "q": "Quali qualità richiedono i tuffi, secondo il testo?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa sperano adesso i tifosi?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Qual è lo sport che preferisci guardare o praticare? Scrivi qualche frase e spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-mare-in-boccetta-pascale",
-   "title": "Studenti di infermieristica regalano ai pazienti oncologici il 'mare in boccetta'",
-   "source": "ANSA",
-   "date": "2026-07-31",
-   "level": "A2-B1",
-   "topics": [
-    "solidarietà",
-    "salute"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-mare-in-boccetta-pascale",
-    "revision": 1,
-    "meta": {
-     "title": "Studenti di infermieristica regalano ai pazienti oncologici il 'mare in boccetta'",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/07/31/studenti-di-infermieristica-regalano-a-pazienti-oncologici-il-mare-in-boccetta_63620f6a-72d9-45b4-ad54-517053d4738c.html",
-     "date_published": "2026-07-31",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "solidarietà",
-      "salute"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Some nursing students had a very sweet idea for patients in a hospital in Naples. Many sick people cannot leave their room and cannot go to the beach in summer. So the young students prepared small bottles with sand, water and shells: a little 'sea in a bottle' to give as a gift. In this way, they wanted to bring a piece of summer to those who must stay inside.\n\nThe gesture is simple but full of meaning, because it shows attention and warmth towards the patients. According to the hospital, this is the true sense of care: not only medicines, but also closeness and kindness. The patients received the little bottles with emotion and a smile. Initiatives like this remind us that a small act can make a difficult day much better.",
-    "resumen_es": "Alcuni studenti di infermieristica hanno avuto un'idea molto dolce per i pazienti di un ospedale di Napoli. Molte persone malate non possono uscire dalla loro stanza e non possono andare al mare in estate. Così i giovani studenti hanno preparato delle piccole boccette con sabbia, acqua e conchiglie: un piccolo 'mare in boccetta' da regalare. In questo modo, volevano portare un pezzo di estate a chi deve restare dentro.\n\nIl gesto è semplice ma pieno di significato, perché mostra attenzione e calore verso i pazienti. Secondo l'ospedale, questo è il vero senso della cura: non solo medicine, ma anche vicinanza e gentilezza. I pazienti hanno ricevuto le boccette con emozione e con un sorriso. Iniziative come questa ci ricordano che un piccolo gesto può rendere molto migliore una giornata difficile.",
-    "vocab": [
-     {
-      "front": "l'infermieristica",
-      "pos": "noun",
-      "back": "nursing (the field of study)",
-      "example": "Studia infermieristica all'università.",
-      "tier": "B1"
-     },
-     {
-      "front": "il paziente",
-      "pos": "noun",
-      "back": "the patient",
-      "example": "Il paziente riposa nella sua stanza.",
-      "tier": "A2"
-     },
-     {
-      "front": "malato",
-      "pos": "adj",
-      "back": "ill, sick",
-      "example": "Mio nonno è malato da una settimana.",
-      "tier": "A2"
-     },
-     {
-      "front": "la stanza",
-      "pos": "noun",
-      "back": "the room",
-      "example": "La sua stanza è al terzo piano.",
-      "tier": "A2"
-     },
-     {
-      "front": "la boccetta",
-      "pos": "noun",
-      "back": "the small bottle, vial",
-      "example": "Ha una boccetta di profumo sul tavolo.",
-      "tier": "B1"
-     },
-     {
-      "front": "la conchiglia",
-      "pos": "noun",
-      "back": "the shell",
-      "example": "Sulla spiaggia ho trovato una conchiglia.",
-      "tier": "B1"
-     },
-     {
-      "front": "regalare",
-      "pos": "verb",
-      "back": "to give (as a gift)",
-      "example": "Le ho regalato un libro per il compleanno.",
-      "tier": "A2"
-     },
-     {
-      "front": "il gesto",
-      "pos": "noun",
-      "back": "the gesture, act",
-      "example": "È stato un gesto molto gentile.",
-      "tier": "B1"
-     },
-     {
-      "front": "il significato",
-      "pos": "noun",
-      "back": "the meaning",
-      "example": "Non capisco il significato di questa parola.",
-      "tier": "A2"
-     },
-     {
-      "front": "la vicinanza",
-      "pos": "noun",
-      "back": "the closeness",
-      "example": "La vicinanza degli amici aiuta molto.",
-      "tier": "B1"
-     },
-     {
-      "front": "la gentilezza",
-      "pos": "noun",
-      "back": "the kindness",
-      "example": "La gentilezza non costa niente.",
-      "tier": "B1"
-     },
-     {
-      "front": "rendere",
-      "pos": "verb",
-      "back": "to make (something become)",
-      "example": "La musica rende la casa più allegra.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Alcuni studenti di infermieristica hanno avuto un'idea molto dolce per i pazienti di un ospedale di Napoli.",
-      "point": "passato prossimo of 'avere': 'hanno avuto'",
-      "explanation": "'Avere' forms its own passato prossimo with itself as auxiliary: 'hanno avuto' (they had/got).",
-      "why_tricky": "Seeing 'avere' twice ('hanno avuto') confuses beginners, but it is correct."
-     },
-     {
-      "sentence": "Molte persone malate non possono uscire dalla loro stanza e non possono andare al mare in estate.",
-      "point": "'potere' + infinitive in the negative",
-      "explanation": "'Non possono uscire' and 'non possono andare' show 'potere' plus a plain infinitive to say what people cannot do.",
-      "why_tricky": "The negation 'non' goes before 'possono', and the second verb stays in the infinitive."
-     },
-     {
-      "sentence": "Iniziative come questa ci ricordano che un piccolo gesto può rendere molto migliore una giornata difficile.",
-      "point": "'rendere' + adjective (to make something + adj)",
-      "explanation": "'Rendere migliore' means 'to make better'; 'rendere' takes an object plus an adjective that describes the result.",
-      "why_tricky": "Learners may use 'fare' instead; with an adjective result Italian prefers 'rendere'."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "pieno di significato",
-      "meaning": "full of meaning, meaningful",
-      "example": "È stato un discorso breve ma pieno di significato."
-     },
-     {
-      "phrase": "un pezzo di",
-      "meaning": "a piece of, a bit of",
-      "example": "Mi manca un pezzo di casa quando viaggio."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Che cosa hanno preparato gli studenti per i pazienti?",
-      "type": "open"
-     },
-     {
-      "q": "Perché molti pazienti non possono andare al mare?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo l'ospedale, qual è il vero senso della cura?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Racconta un piccolo gesto gentile che qualcuno ha fatto per te. Scrivi qualche frase."
-   }
-  },
-  {
-   "pack_id": "feed-2026-07-31-spiderman-record",
-   "title": "Record in Italia per Spider-Man: Brand New Day, 4 milioni di euro nel giorno d'esordio",
-   "source": "ANSA",
-   "date": "2026-07-31",
-   "level": "A2-B1",
-   "topics": [
-    "cultura",
-    "cinema"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-07-31-spiderman-record",
-    "revision": 1,
-    "meta": {
-     "title": "Record in Italia per Spider-Man: Brand New Day, 4 milioni di euro nel giorno d'esordio",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/cultura/2026/07/30/record-in-italia-per-spider-man-brand-new-day-4-milioni-di-euro_4c7f6496-e74a-426f-8d8e-d9a13d20f04d.html",
-     "date_published": "2026-07-30",
-     "date_processed": "2026-07-31",
-     "tags": [
-      "cultura",
-      "cinema"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "The new Spider-Man film has arrived in cinemas and was an immediate success in Italy. On the first day it earned four million euros. It is the best debut ever for this film series in our country. Many people went to the cinema to see Marvel's most famous superhero. The tickets sold out fast and the screens were full of viewers of all ages.\n\nThis result shows that the public still loves going to the cinema, especially for big action films. After difficult years for cinemas, a success like this is good news for the whole sector. The production company is also very happy with these numbers. Now many people wonder whether the film will manage to beat other records in the coming weeks, while it keeps showing in cinemas all over Italy.",
-    "resumen_es": "Il nuovo film di Spider-Man è arrivato al cinema e ha subito avuto un grande successo in Italia. Nel primo giorno ha guadagnato quattro milioni di euro. È il miglior debutto di sempre per questa serie di film nel nostro Paese. Molte persone sono andate al cinema per vedere il supereroe più famoso della Marvel. I biglietti sono andati a ruba e le sale erano piene di spettatori di tutte le età.\n\nQuesto risultato mostra che il pubblico ama ancora andare al cinema, soprattutto per i grandi film d'azione. Dopo anni difficili per le sale, un successo così è una buona notizia per tutto il settore. Anche la casa di produzione è molto contenta di questi numeri. Ora molti si chiedono se il film riuscirà a battere altri record nelle prossime settimane, mentre continua la programmazione nelle sale di tutta Italia.",
-    "vocab": [
-     {
-      "front": "esordio",
-      "pos": "noun",
-      "back": "debut, first appearance",
-      "example": "Il film ha avuto un ottimo esordio.",
-      "tier": "B1"
-     },
-     {
-      "front": "successo",
-      "pos": "noun",
-      "back": "success",
-      "example": "Il concerto è stato un grande successo.",
-      "tier": "A2"
-     },
-     {
-      "front": "guadagnare",
-      "pos": "verb",
-      "back": "to earn",
-      "example": "Il film ha guadagnato molti soldi.",
-      "tier": "A2"
-     },
-     {
-      "front": "biglietto",
-      "pos": "noun",
-      "back": "ticket",
-      "example": "Ho comprato due biglietti per il cinema.",
-      "tier": "A2"
-     },
-     {
-      "front": "andare a ruba",
-      "pos": "phrase",
-      "back": "to sell out very fast",
-      "example": "I biglietti sono andati a ruba.",
-      "tier": "B1"
-     },
-     {
-      "front": "sala",
-      "pos": "noun",
-      "back": "(cinema) screen, hall",
-      "example": "La sala era piena di gente.",
-      "tier": "A2"
-     },
-     {
-      "front": "spettatore",
-      "pos": "noun",
-      "back": "viewer, spectator",
-      "example": "Gli spettatori hanno applaudito.",
-      "tier": "B1"
-     },
-     {
-      "front": "pubblico",
-      "pos": "noun",
-      "back": "audience, public",
-      "example": "Il pubblico ama i film d'azione.",
-      "tier": "A2"
-     },
-     {
-      "front": "casa di produzione",
-      "pos": "noun",
-      "back": "production company",
-      "example": "La casa di produzione è contenta.",
-      "tier": "B1"
-     },
-     {
-      "front": "battere un record",
-      "pos": "phrase",
-      "back": "to break a record",
-      "example": "Il film potrebbe battere un record.",
-      "tier": "B1"
-     },
-     {
-      "front": "settore",
-      "pos": "noun",
-      "back": "sector, industry",
-      "example": "È una buona notizia per tutto il settore.",
-      "tier": "B1"
-     },
-     {
-      "front": "debutto",
-      "pos": "noun",
-      "back": "debut",
-      "example": "È il miglior debutto di sempre.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Molte persone sono andate al cinema per vedere il supereroe più famoso della Marvel.",
-      "point": "passato prossimo con essere e accordo",
-      "explanation": "Il verbo 'andare' forma il passato prossimo con 'essere', quindi il participio concorda con il soggetto: 'persone' (femminile plurale) chiede 'andate'.",
-      "why_tricky": "Con 'avere' il participio di solito non cambia, ma con 'essere' deve accordarsi in genere e numero."
-     },
-     {
-      "sentence": "Ora molti si chiedono se il film riuscirà a battere altri record nelle prossime settimane, mentre continua la programmazione nelle sale di tutta Italia.",
-      "point": "futuro semplice e 'riuscire a + infinito'",
-      "explanation": "'Riuscirà' è il futuro semplice di 'riuscire'. La struttura 'riuscire a + infinito' significa avere la capacità di fare qualcosa.",
-      "why_tricky": "Serve la preposizione 'a' prima dell'infinito; molti studenti la dimenticano."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "andare a ruba",
-      "meaning": "to sell like hot cakes, to sell out fast",
-      "example": "I biglietti del concerto sono andati a ruba."
-     },
-     {
-      "phrase": "avere successo",
-      "meaning": "to be successful",
-      "example": "Il nuovo film ha avuto molto successo in Italia."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Quanti soldi ha guadagnato il film nel primo giorno?",
-      "type": "open"
-     },
-     {
-      "q": "Perché questo successo è una buona notizia per i cinema?",
-      "type": "open"
-     },
-     {
-      "q": "Che cosa si chiedono ora molte persone sul film?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Preferisci vedere un film al cinema o a casa sul divano? Spiega perché."
    }
   }
  ]
