@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T20:10:00.398979Z",
+ "generated_at": "2026-08-08T20:14:11.563189Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
   {
@@ -334,172 +334,172 @@
    }
   },
   {
-   "pack_id": "feed-2026-08-08-meta-multa-minori",
-   "title": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
-   "source": "ANSA",
+   "pack_id": "feed-2026-08-08-cesaroni-dna-inchiesta",
+   "title": "Simonetta Cesaroni, trentasei anni dopo una traccia di Dna riaccende le speranze sull'inchiesta",
+   "source": "Rai News",
    "date": "2026-08-08",
    "level": "A2-B1",
    "topics": [
-    "tecnologia",
+    "cronaca",
     "giustizia"
    ],
    "pack": {
-    "pack_id": "feed-2026-08-08-meta-multa-minori",
+    "pack_id": "feed-2026-08-08-cesaroni-dna-inchiesta",
     "revision": 1,
     "meta": {
-     "title": "Usa, Meta dovrà pagare 567 milioni per danni dei social ai minori",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/usa-meta-dovra-pagare-567-milioni-per-danni-dei-social_43cc949d-e666-48dd-9317-6b8306994369.html",
-     "date_published": "2026-08-07",
+     "title": "Simonetta Cesaroni, trentasei anni dopo una traccia di Dna riaccende le speranze sull'inchiesta",
+     "source": "Rai News",
+     "url": "https://www.rainews.it/video/2026/08/simonetta-cesaroni-trentasei-anni-dopo-una-traccia-di-dna-riaccende-le-speranze-sullinchiesta-omicidio-via-poma-ba60a060-45ea-4601-b6b8-9287a5f51e63.html",
+     "date_published": "2026-08-06",
      "date_processed": "2026-08-08",
      "tags": [
-      "tecnologia",
+      "cronaca",
       "giustizia"
      ],
      "level": "A2-B1"
     },
-    "summary_en": "In the United States a judge has ruled that Meta will have to pay 567 million dollars for the harm done to minors by social media. The sum is added to civil penalties of 375 million already decided earlier. Meta is the company that controls Facebook, Instagram and WhatsApp, that is to say some of the applications most used by young people all over the world.\n\nThe case concerns the way these platforms are built: according to the prosecution, notifications and endless content push younger users to stay connected for hours. Many parents and teachers have been asking for stricter rules for years, while the companies reply that they already have control tools. This ruling may become an example for other courts and for governments that are preparing new laws. Meta can still appeal, so the story is not over.",
-    "resumen_es": "Negli Stati Uniti un giudice ha deciso che Meta dovrà pagare 567 milioni di dollari per i danni dei social ai minori. La cifra si aggiunge a sanzioni civili per 375 milioni già decise in precedenza. Meta è la società che controlla Facebook, Instagram e WhatsApp, cioè alcune delle applicazioni più usate dai ragazzi in tutto il mondo.\n\nIl processo riguarda il modo in cui queste piattaforme sono costruite: secondo l'accusa, le notifiche e i contenuti senza fine spingono i più giovani a restare collegati per ore. Molti genitori e insegnanti chiedono da anni regole più severe, mentre le aziende rispondono di avere già strumenti di controllo. Questa sentenza può diventare un esempio per altri tribunali e per i governi che stanno preparando nuove leggi. Meta può ancora presentare ricorso, quindi la vicenda non è finita.",
+    "summary_en": "Thirty six years on, the case of Simonetta Cesaroni is in the news again. A trace of DNA found at the scene of the crime is reviving hopes of finally arriving at a name. The genetic profile has already been compared with that of eight people, but the result was negative. Now another seven people will undergo a DNA test in September.\n\nSimonetta Cesaroni was killed in Rome in 1990 and her case is one of the most famous in Italian crime reporting. Over the years there have been trials, suspects and many lines of inquiry, but no definitive conviction. Today analysis techniques are far more precise than back then and make it possible to study tiny traces kept for decades. That is why several old cases are being reopened. The victim's family has been waiting a long time for an answer.",
+    "resumen_es": "Trentasei anni dopo, il caso di Simonetta Cesaroni torna di attualità. Una traccia di Dna trovata sul luogo del delitto riaccende le speranze di arrivare finalmente a un nome. Il profilo genetico è già stato confrontato con quello di otto persone, ma il risultato è stato negativo. Ora altre sette persone saranno sottoposte all'esame del Dna a settembre.\n\nSimonetta Cesaroni è stata uccisa a Roma nel 1990 e il suo caso è uno dei più famosi della cronaca italiana. Negli anni ci sono stati processi, sospetti e tante piste, ma nessuna condanna definitiva. Oggi le tecniche di analisi sono molto più precise di allora e permettono di studiare tracce piccolissime, conservate per decenni. Per questo diversi casi vecchi vengono riaperti. La famiglia della vittima aspetta da tanto tempo una risposta.",
     "vocab": [
      {
-      "front": "il giudice",
+      "front": "la traccia",
       "pos": "noun",
-      "back": "judge",
-      "example": "Il giudice ha letto la sentenza.",
-      "tier": "A2"
-     },
-     {
-      "front": "il danno",
-      "pos": "noun",
-      "back": "harm, damage",
-      "example": "Il temporale ha causato molti danni.",
-      "tier": "A2"
-     },
-     {
-      "front": "il minore",
-      "pos": "noun",
-      "back": "minor, person under 18",
-      "example": "Il film non è adatto ai minori.",
+      "back": "trace, clue",
+      "example": "Gli investigatori cercano tracce nella stanza.",
       "tier": "B1"
      },
      {
-      "front": "la cifra",
+      "front": "il delitto",
       "pos": "noun",
-      "back": "sum, figure",
-      "example": "La cifra è più alta del previsto.",
+      "back": "crime, murder",
+      "example": "Il delitto è avvenuto di notte.",
       "tier": "B1"
      },
      {
-      "front": "la sanzione",
-      "pos": "noun",
-      "back": "penalty, fine",
-      "example": "La sanzione arriva a mille euro.",
-      "tier": "B1"
-     },
-     {
-      "front": "il processo",
-      "pos": "noun",
-      "back": "trial",
-      "example": "Il processo comincia a ottobre.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'accusa",
-      "pos": "noun",
-      "back": "the prosecution, the charge",
-      "example": "L'accusa ha chiesto dieci anni.",
-      "tier": "B1"
-     },
-     {
-      "front": "spingere",
+      "front": "riaccendere",
       "pos": "verb",
-      "back": "to push",
-      "example": "La pubblicità ci spinge a comprare.",
+      "back": "to rekindle, to revive",
+      "example": "La notizia ha riacceso il dibattito.",
       "tier": "B1"
      },
      {
-      "front": "collegato",
-      "pos": "adj",
-      "back": "connected, online",
-      "example": "Resto collegato tutta la sera.",
+      "front": "la speranza",
+      "pos": "noun",
+      "back": "hope",
+      "example": "Non perdo la speranza.",
       "tier": "A2"
      },
      {
-      "front": "severo",
-      "pos": "adj",
-      "back": "strict",
-      "example": "I miei genitori erano molto severi.",
+      "front": "confrontare",
+      "pos": "verb",
+      "back": "to compare",
+      "example": "Hanno confrontato le due firme.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'esame",
+      "pos": "noun",
+      "back": "test, exam",
+      "example": "L'esame del sangue è domani mattina.",
       "tier": "A2"
      },
      {
-      "front": "la sentenza",
-      "pos": "noun",
-      "back": "ruling, verdict",
-      "example": "La sentenza sarà letta domani.",
+      "front": "uccidere",
+      "pos": "verb",
+      "back": "to kill",
+      "example": "Nessuno sa chi l'ha ucciso.",
       "tier": "B1"
      },
      {
-      "front": "presentare ricorso",
-      "pos": "phrase",
-      "back": "to lodge an appeal",
-      "example": "L'azienda ha deciso di presentare ricorso.",
+      "front": "la cronaca",
+      "pos": "noun",
+      "back": "news reporting, crime news",
+      "example": "Leggo sempre la cronaca locale.",
       "tier": "B1"
      },
      {
-      "front": "la vicenda",
+      "front": "il sospetto",
       "pos": "noun",
-      "back": "affair, story",
-      "example": "La vicenda dura da tre anni.",
+      "back": "suspicion, suspect",
+      "example": "Il sospetto non è mai stato provato.",
       "tier": "B1"
+     },
+     {
+      "front": "la pista",
+      "pos": "noun",
+      "back": "lead, line of inquiry",
+      "example": "La polizia segue una nuova pista.",
+      "tier": "B1"
+     },
+     {
+      "front": "la condanna",
+      "pos": "noun",
+      "back": "conviction, sentence",
+      "example": "La condanna è arrivata dopo tre anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "riaprire",
+      "pos": "verb",
+      "back": "to reopen",
+      "example": "Hanno deciso di riaprire il caso.",
+      "tier": "A2"
+     },
+     {
+      "front": "la vittima",
+      "pos": "noun",
+      "back": "victim",
+      "example": "La famiglia della vittima era in aula.",
+      "tier": "A2"
      }
     ],
     "grammar": [
      {
-      "sentence": "Negli Stati Uniti un giudice ha deciso che Meta dovrà pagare 567 milioni di dollari per i danni dei social ai minori.",
-      "point": "Future inside a reported decision",
-      "explanation": "Ha deciso is the passato prossimo for a recent action; dovrà pagare is the future of dovere and points to an obligation still to come.",
-      "why_tricky": "Dovere has an irregular future stem, dovr, so learners often produce the wrong form doverà."
+      "sentence": "Il profilo genetico è già stato confrontato con quello di otto persone, ma il risultato è stato negativo.",
+      "point": "Passive in the passato prossimo",
+      "explanation": "The passive uses essere plus stato plus participle: è stato confrontato. Già goes between è and stato.",
+      "why_tricky": "There are two participles in a row, and learners often put già in the wrong place or forget the agreement with il profilo."
      },
      {
-      "sentence": "Il processo riguarda il modo in cui queste piattaforme sono costruite: secondo l'accusa, le notifiche e i contenuti senza fine spingono i più giovani a restare collegati per ore.",
-      "point": "il modo in cui and spingere a plus infinitive",
-      "explanation": "Il modo in cui means the way in which and needs the preposition in before cui. Spingere takes a before the infinitive.",
-      "why_tricky": "English says the way these platforms are built with no preposition, so learners drop in cui and also forget the a after spingere."
+      "sentence": "Oggi le tecniche di analisi sono molto più precise di allora e permettono di studiare tracce piccolissime, conservate per decenni.",
+      "point": "Comparative with di and the absolute superlative",
+      "explanation": "Piu' precise di allora compares with di, not che, because the second element is a single word. Piccolissime is the absolute superlative of piccole.",
+      "why_tricky": "Choosing between di and che is a classic trap, and the ending of piccolissime has to agree with the plural feminine noun tracce."
      },
      {
-      "sentence": "Molti genitori e insegnanti chiedono da anni regole più severe, mentre le aziende rispondono di avere già strumenti di controllo.",
-      "point": "Present with da for ongoing time",
-      "explanation": "Chiedono da anni means they have been asking for years: Italian uses the present, not a past tense, with da.",
-      "why_tricky": "English forces a present perfect continuous here, so learners write hanno chiesto da anni, which sounds wrong."
+      "sentence": "La famiglia della vittima aspetta da tanto tempo una risposta.",
+      "point": "Present tense with da",
+      "explanation": "Aspetta da tanto tempo means she has been waiting for a long time: Italian keeps the present when the action is still going on.",
+      "why_tricky": "English uses a perfect form here, so learners write ha aspettato da tanto tempo, which sounds wrong in Italian."
      }
     ],
     "idioms": [
      {
-      "phrase": "presentare ricorso",
-      "meaning": "to appeal against a decision",
-      "example": "Se perdiamo, presentiamo ricorso subito."
+      "phrase": "riaccendere le speranze",
+      "meaning": "to revive hopes",
+      "example": "Il gol del pareggio ha riacceso le speranze dei tifosi."
      },
      {
-      "phrase": "non essere finita",
-      "meaning": "not to be over yet",
-      "example": "Hanno perso una partita, ma la stagione non è finita."
+      "phrase": "da tanto tempo",
+      "meaning": "for a long time",
+      "example": "Non lo vedo da tanto tempo."
      }
     ],
     "comprehension": [
      {
-      "q": "Quanto dovrà pagare Meta e per quale motivo?",
+      "q": "Che cosa ha riacceso le speranze nel caso di Simonetta Cesaroni?",
       "type": "open"
      },
      {
-      "q": "Che cosa dice l'accusa sul modo in cui sono costruite le piattaforme?",
+      "q": "Perché oggi è possibile studiare tracce molto vecchie?",
       "type": "open"
      },
      {
-      "q": "Perché il testo dice che la vicenda non è finita?",
+      "q": "Che cosa dice il testo sui processi e sui sospetti degli anni passati?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "Scrivi circa 100 parole: secondo te, a che età è giusto iniziare a usare i social? Spiega la tua opinione e proponi una regola."
+    "opinion_prompt": "Scrivi circa 100 parole: secondo te è giusto riaprire casi molto vecchi dopo tanti anni? Spiega la tua opinione con due motivi."
    }
   },
   {
