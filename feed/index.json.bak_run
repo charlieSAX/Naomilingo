@@ -1,7 +1,1510 @@
 {
-  "generated_at": "2026-08-08T08:10:53.375854Z",
+  "generated_at": "2026-08-09T20:12:41.775Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-09-assistente-google-gemini",
+      "title": "L'IA manda in pensione l'Assistente Google, sostituito da Gemini dal 4 settembre",
+      "source": "ANSA",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-assistente-google-gemini",
+        "revision": 1,
+        "meta": {
+          "title": "L'IA manda in pensione l'Assistente Google, sostituito da Gemini dal 4 settembre",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/06/lia-manda-in-pensione-lassistente-google-sara-sostituito-ovunque-da-gemini_fb286f85-473a-4494-a448-f05a08911674.html",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Google has announced that from 4 September the Google Assistant will be replaced by Gemini. The change will affect almost all devices: phones, tablets, smart watches and also cars with Android Auto. Gemini is a more recent artificial intelligence system, able to understand long requests and to answer in a more natural way. For most users it will be an automatic switch, with no need to install anything.\n\nNot everyone is happy, though. Some people are afraid of losing the simple commands they use every day, such as turning on the lights or setting a timer. Others are wondering how much personal data the new assistant needs in order to work properly. Google promises that the main functions will stay and that the service will improve over time. In the coming months we will find out whether that promise is kept.",
+        "resumen_es": "Google ha annunciato che dal 4 settembre l'Assistente Google sarà sostituito da Gemini. Il cambiamento riguarderà quasi tutti i dispositivi: telefoni, tablet, orologi intelligenti e anche le automobili con Android Auto. Gemini è un sistema di intelligenza artificiale più recente, capace di capire richieste lunghe e di rispondere in modo più naturale. Per la maggior parte degli utenti sarà un passaggio automatico, senza bisogno di installare niente.\n\nNon tutti però sono contenti. Alcune persone temono di perdere i comandi semplici che usano ogni giorno, come accendere le luci o mettere un timer. Altri si chiedono quanti dati personali servono al nuovo assistente per funzionare bene. Google promette che le funzioni principali resteranno e che il servizio migliorerà con il tempo. Nei prossimi mesi capiremo se la promessa sarà mantenuta.",
+        "vocab": [
+          {
+            "front": "annunciare",
+            "pos": "verb",
+            "back": "to announce",
+            "example": "L'azienda ha annunciato una novità.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Devo sostituire il telefono vecchio.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dispositivo",
+            "pos": "noun",
+            "back": "device",
+            "example": "Questo dispositivo è molto leggero.",
+            "tier": "B1"
+          },
+          {
+            "front": "riguardare",
+            "pos": "verb",
+            "back": "to concern, to affect",
+            "example": "La regola riguarda tutti gli studenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la richiesta",
+            "pos": "noun",
+            "back": "request",
+            "example": "Ho mandato una richiesta di informazioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'utente",
+            "pos": "noun",
+            "back": "user",
+            "example": "Ogni utente ha un profilo personale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il passaggio",
+            "pos": "noun",
+            "back": "switch, transition, step",
+            "example": "Il passaggio al nuovo sistema è stato veloce.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere di",
+            "pos": "verb",
+            "back": "to be afraid of, to fear",
+            "example": "Temo di arrivare tardi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il comando",
+            "pos": "noun",
+            "back": "command, instruction",
+            "example": "Basta un comando vocale.",
+            "tier": "B1"
+          },
+          {
+            "front": "accendere",
+            "pos": "verb",
+            "back": "to turn on, to switch on",
+            "example": "Accendi la luce, per favore.",
+            "tier": "A2"
+          },
+          {
+            "front": "i dati personali",
+            "pos": "noun",
+            "back": "personal data",
+            "example": "Non voglio dare i miei dati personali.",
+            "tier": "B1"
+          },
+          {
+            "front": "promettere",
+            "pos": "verb",
+            "back": "to promise",
+            "example": "Mi ha promesso una risposta per domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "migliorare",
+            "pos": "verb",
+            "back": "to improve, to get better",
+            "example": "Il mio italiano migliora ogni mese.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Google ha annunciato che dal 4 settembre l'Assistente Google sarà sostituito da Gemini.",
+            "point": "Passive voice in the future, with 'essere' plus 'da'",
+            "explanation": "'Sarà sostituito da' is the future passive: the subject receives the action and the agent is introduced by 'da'. The participle agrees with the subject.",
+            "why_tricky": "Learners confuse 'da' (by whom) with 'di', and they forget to make the participle agree in gender and number."
+          },
+          {
+            "sentence": "Alcune persone temono di perdere i comandi semplici che usano ogni giorno, come accendere le luci o mettere un timer.",
+            "point": "'temere di' plus infinitive",
+            "explanation": "When both verbs share the same subject, Italian uses 'di' plus the infinitive. If the subject changed, you would need 'temere che' plus the subjunctive.",
+            "why_tricky": "English says 'they fear losing', with no preposition, so learners drop the 'di' or wrongly reach for 'che'."
+          },
+          {
+            "sentence": "Nei prossimi mesi capiremo se la promessa sarà mantenuta.",
+            "point": "Future tense inside an indirect question with 'se'",
+            "explanation": "Here 'se' means 'whether', not 'if' as a condition, so using the future tense after it is completely normal.",
+            "why_tricky": "Learners remember the rule about avoiding the future after 'se' in conditional sentences and apply it here, where it does not belong."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mandare in pensione",
+            "meaning": "literally to send into retirement, used for retiring an old product or method",
+            "example": "Hanno mandato in pensione il vecchio programma."
+          },
+          {
+            "phrase": "con il tempo",
+            "meaning": "over time, gradually",
+            "example": "Con il tempo ti abituerai al nuovo telefono."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa cambierà dal 4 settembre e quali dispositivi saranno coinvolti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune persone non sono contente del cambiamento?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa promette Google agli utenti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Usi un assistente vocale sul telefono? Scrivi circa 80 parole e spiega per che cosa lo usi o perché preferisci non usarlo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-09-sinner-rinuncia-cincinnati",
+      "title": "Sinner rinuncia a Cincinnati: 'Il ginocchio fa male, punto gli Us Open'",
+      "source": "ANSA",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "sport"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-sinner-rinuncia-cincinnati",
+        "revision": 1,
+        "meta": {
+          "title": "Sinner rinuncia a Cincinnati: 'Il ginocchio fa male, punto gli Us Open'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "sport"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Jannik Sinner has decided not to play the Cincinnati tournament. The world number one explained that he has a problem with his right knee and that he does not feel ready yet. He is disappointed, but he prefers not to take a risk right now. His choice is clear: he wants to arrive in good shape at the US Open, the most important tournament of the American season.\n\nFor the Italian public it is a small disappointment, because Cincinnati is an event that many people follow. Injuries, however, are part of the life of an athlete who plays almost all year round. Many players choose to skip a tournament in order to recover and to protect their body. In the coming weeks we will know whether the rest has worked. If the knee is better, Sinner will be able to prepare for the US Open calmly.",
+        "resumen_es": "Jannik Sinner ha deciso di non giocare il torneo di Cincinnati. Il tennista numero uno del mondo ha spiegato di avere un problema al ginocchio destro e di non sentirsi ancora pronto. È deluso, ma preferisce non rischiare adesso. La sua scelta è chiara: vuole arrivare in buone condizioni agli US Open, il torneo più importante della stagione americana.\n\nPer il pubblico italiano è una piccola delusione, perché Cincinnati è un appuntamento molto seguito. Gli infortuni, però, fanno parte della vita di un atleta che gioca quasi tutto l'anno. Molti giocatori scelgono di saltare un torneo per recuperare e per proteggere il corpo. Nelle prossime settimane sapremo se il riposo è servito. Se il ginocchio starà meglio, Sinner potrà preparare gli US Open con calma.",
+        "vocab": [
+          {
+            "front": "rinunciare a",
+            "pos": "verb",
+            "back": "to give up something, to pull out of",
+            "example": "Ho rinunciato al viaggio per motivi di lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il torneo",
+            "pos": "noun",
+            "back": "tournament",
+            "example": "Il torneo comincia lunedì.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ginocchio",
+            "pos": "noun",
+            "back": "knee",
+            "example": "Mi fa male il ginocchio destro.",
+            "tier": "A2"
+          },
+          {
+            "front": "sentirsi pronto",
+            "pos": "phrase",
+            "back": "to feel ready",
+            "example": "Non mi sento pronto per l'esame.",
+            "tier": "A2"
+          },
+          {
+            "front": "deluso",
+            "pos": "adj",
+            "back": "disappointed",
+            "example": "Sono deluso dal risultato.",
+            "tier": "B1"
+          },
+          {
+            "front": "rischiare",
+            "pos": "verb",
+            "back": "to take a risk, to risk",
+            "example": "Non voglio rischiare adesso.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scelta",
+            "pos": "noun",
+            "back": "choice",
+            "example": "È stata una scelta difficile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la delusione",
+            "pos": "noun",
+            "back": "disappointment",
+            "example": "Che delusione, la partita è finita male.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'infortunio",
+            "pos": "noun",
+            "back": "injury (in sport or at work)",
+            "example": "Ha avuto un infortunio alla spalla.",
+            "tier": "B1"
+          },
+          {
+            "front": "saltare un torneo",
+            "pos": "phrase",
+            "back": "to skip a tournament",
+            "example": "Ha deciso di saltare un torneo per riposare.",
+            "tier": "B1"
+          },
+          {
+            "front": "recuperare",
+            "pos": "verb",
+            "back": "to recover, to get your strength back",
+            "example": "Dopo la partita deve recuperare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il riposo",
+            "pos": "noun",
+            "back": "rest",
+            "example": "Il medico consiglia due settimane di riposo.",
+            "tier": "B1"
+          },
+          {
+            "front": "con calma",
+            "pos": "phrase",
+            "back": "calmly, without rushing",
+            "example": "Facciamo tutto con calma.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il tennista numero uno del mondo ha spiegato di avere un problema al ginocchio destro e di non sentirsi ancora pronto.",
+            "point": "Reported speech with 'di' plus infinitive",
+            "explanation": "When the reported verb has the same subject as the main verb, Italian prefers 'di' plus the infinitive instead of 'che' plus a finite verb. The negative goes before the infinitive: 'di non sentirsi'.",
+            "why_tricky": "Learners copy English and write 'ha spiegato che ha un problema', which is possible but far less natural here, and they place 'non' after the infinitive."
+          },
+          {
+            "sentence": "Molti giocatori scelgono di saltare un torneo per recuperare e per proteggere il corpo.",
+            "point": "'per' plus infinitive to express purpose",
+            "explanation": "'Per' plus infinitive answers the question 'why', in the sense of 'in order to'. It is repeated before each new purpose.",
+            "why_tricky": "Learners write 'per che' or use the gerund 'recuperando', neither of which expresses purpose in Italian."
+          },
+          {
+            "sentence": "Se il ginocchio starà meglio, Sinner potrà preparare gli US Open con calma.",
+            "point": "Real conditional with the future in both clauses",
+            "explanation": "For a likely future condition, Italian uses the future both after 'se' and in the main clause. This is the 'periodo ipotetico della realtà'.",
+            "why_tricky": "English never uses 'will' after 'if', so learners write 'se il ginocchio sta meglio' and lose the future reference."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare parte di",
+            "meaning": "to be part of something",
+            "example": "Gli errori fanno parte del percorso."
+          },
+          {
+            "phrase": "tirare il fiato",
+            "meaning": "to catch your breath, to take a short break",
+            "example": "Dopo tanti tornei ha bisogno di tirare il fiato."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Sinner non giocherà a Cincinnati?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è il suo obiettivo principale adesso?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti atleti scelgono di saltare un torneo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te un atleta deve giocare sempre oppure è giusto fermarsi quando sta male? Scrivi circa 80 parole con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-09-pronto-soccorso-medici",
+      "title": "Pronto soccorso in affanno, più accessi e mancano 7mila medici",
+      "source": "ANSA",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "società"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-pronto-soccorso-medici",
+        "revision": 1,
+        "meta": {
+          "title": "Pronto soccorso in affanno, più accessi e mancano 7mila medici",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/09/pronto-soccorso-in-affanno-in-agosto-la-carenza-sale-a-quasi-7mila-medici_b86f7d84-5a9f-4260-ba33-ba83b8abc289.html",
+          "date_published": "2026-08-09",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "salute",
+            "società"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy emergency departments are in difficulty once again. In August more patients arrive and at the same time almost seven thousand doctors are missing. The unions explain that the usual problems are made worse by the summer holidays: only three departments out of ten have the staff they need. The result is long waits for patients and heavy shifts for the people who work there.\n\nThe causes are not new. Many young doctors choose other specialisations, because emergency work is stressful and badly paid compared with the responsibility involved. Some regions call in outside doctors to cover the shifts, but it is an expensive and temporary solution. The unions are asking for better salaries and more places in the specialisation schools. Without these measures, they say, every summer the problem will come back exactly the same.",
+        "resumen_es": "In Italia i pronto soccorso sono di nuovo in difficoltà. Ad agosto arrivano più pazienti e allo stesso tempo mancano quasi settemila medici. I sindacati spiegano che ai problemi di sempre si aggiungono le ferie estive: solo tre reparti su dieci hanno il personale necessario. Il risultato sono attese lunghe per i pazienti e turni pesanti per chi lavora.\n\nLe cause non sono nuove. Molti giovani medici scelgono altre specializzazioni, perché il lavoro in emergenza è stressante e poco pagato rispetto alle responsabilità. Alcune regioni chiamano medici esterni per coprire i turni, ma è una soluzione cara e provvisoria. I sindacati chiedono stipendi migliori e più posti nelle scuole di specializzazione. Senza questi interventi, dicono, ogni estate il problema tornerà uguale.",
+        "vocab": [
+          {
+            "front": "il pronto soccorso",
+            "pos": "noun",
+            "back": "accident and emergency department",
+            "example": "L'hanno portato al pronto soccorso.",
+            "tier": "A2"
+          },
+          {
+            "front": "essere in difficoltà",
+            "pos": "phrase",
+            "back": "to be struggling, to be in trouble",
+            "example": "L'ospedale è in difficoltà da mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il paziente",
+            "pos": "noun",
+            "back": "patient",
+            "example": "Il paziente aspetta da tre ore.",
+            "tier": "A2"
+          },
+          {
+            "front": "mancare",
+            "pos": "verb",
+            "back": "to be missing, to be lacking",
+            "example": "Mancano due sedie in sala.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sindacato",
+            "pos": "noun",
+            "back": "trade union",
+            "example": "Il sindacato ha chiesto un incontro.",
+            "tier": "B1"
+          },
+          {
+            "front": "le ferie",
+            "pos": "noun",
+            "back": "holidays from work, annual leave",
+            "example": "Vado in ferie ad agosto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il reparto",
+            "pos": "noun",
+            "back": "ward, department (in a hospital)",
+            "example": "Lavora nel reparto di cardiologia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il personale",
+            "pos": "noun",
+            "back": "staff, personnel",
+            "example": "Il personale è molto gentile.",
+            "tier": "B1"
+          },
+          {
+            "front": "il turno",
+            "pos": "noun",
+            "back": "shift",
+            "example": "Domani ho il turno di notte.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'attesa",
+            "pos": "noun",
+            "back": "wait, waiting time",
+            "example": "L'attesa è stata di due ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "la specializzazione",
+            "pos": "noun",
+            "back": "specialisation, specialist training",
+            "example": "Ha finito la specializzazione l'anno scorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo stipendio",
+            "pos": "noun",
+            "back": "salary",
+            "example": "Lo stipendio arriva il 27 del mese.",
+            "tier": "A2"
+          },
+          {
+            "front": "coprire un turno",
+            "pos": "phrase",
+            "back": "to cover a shift",
+            "example": "Chi copre il turno di sabato?",
+            "tier": "B1"
+          },
+          {
+            "front": "provvisorio",
+            "pos": "adj",
+            "back": "temporary",
+            "example": "È una sistemazione provvisoria.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Ad agosto arrivano più pazienti e allo stesso tempo mancano quasi settemila medici.",
+            "point": "Verbs like 'mancare' and 'arrivare' with the subject after the verb",
+            "explanation": "With these verbs the subject usually follows the verb: 'mancano settemila medici' means 'seven thousand doctors are missing'. The verb agrees with that subject.",
+            "why_tricky": "English puts the subject first, so learners write 'settemila medici mancano', which sounds odd, and they often leave 'manca' in the singular."
+          },
+          {
+            "sentence": "I sindacati spiegano che ai problemi di sempre si aggiungono le ferie estive: solo tre reparti su dieci hanno il personale necessario.",
+            "point": "The pronominal verb 'aggiungersi a' and proportions with 'su'",
+            "explanation": "'Si aggiungono a' means 'are added to' and needs the preposition 'a', here contracted to 'ai'. 'Tre su dieci' is the normal way to say 'three out of ten'.",
+            "why_tricky": "Learners forget the 'si' or use 'di' instead of 'a', and they translate 'out of' as 'fuori di'."
+          },
+          {
+            "sentence": "Senza questi interventi, dicono, ogni estate il problema tornerà uguale.",
+            "point": "'senza' plus noun as an implied condition, followed by the future",
+            "explanation": "'Senza questi interventi' replaces a whole conditional clause: 'if these measures are not taken'. The main verb then goes into the future.",
+            "why_tricky": "Learners build a long 'se non ci saranno...' clause instead of the shorter and very common 'senza' phrase."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere in affanno",
+            "meaning": "to be under strain, to be struggling to keep up",
+            "example": "Il servizio è in affanno da settimane."
+          },
+          {
+            "phrase": "tirare avanti",
+            "meaning": "to get by, to keep going with difficulty",
+            "example": "Con pochi medici il reparto tira avanti come può."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché ad agosto la situazione dei pronto soccorso è più difficile?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti giovani medici non scelgono la medicina d'emergenza?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono i sindacati?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nel tuo paese è facile essere curati velocemente quando c'è un'emergenza? Scrivi circa 80 parole e racconta la tua esperienza o quella di una persona che conosci."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-09-russell-crowe-highlander",
+      "title": "La metamorfosi di Russell Crowe: il gladiatore torna in forma per Highlander",
+      "source": "Rai News",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "attori"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-russell-crowe-highlander",
+        "revision": 1,
+        "meta": {
+          "title": "La metamorfosi di Russell Crowe: il gladiatore torna in forma per Highlander",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/la-metamorfosi-di-russell-crowe-il-gladiatore-torna-in-forma-per-highlander-il-post-949dbf10-93ca-47bd-9c52-888e7ea7f7b0.html",
+          "date_published": "2026-08-07",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "cinema",
+            "attori"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The New Zealand actor Russell Crowe has gone back to the gym. He is 62 and he is training hard for his new films. At the moment he is shooting The Last Druid in Spain, a film set in ancient Rome. After this job the Highlander reboot will arrive. Crowe trains together with the wrestler Drew McIntyre and he has talked about his transformation in a post on social media.\n\nMany viewers remember him above all for the film Gladiator, which made him famous all over the world. That is why his new physical shape has struck his fans. Getting ready for an action film is not easy: it takes months of exercise, a careful diet and a lot of rest. In the coming months we will find out whether the public likes these new stories. In the meantime the actor seems ready to go back to fighting on screen.",
+        "resumen_es": "L'attore neozelandese Russell Crowe è tornato in palestra. Ha 62 anni e si allena molto per i suoi nuovi film. In questo periodo gira in Spagna 'The Last Druid', un film ambientato nell'antica Roma. Dopo questo lavoro arriverà il reboot di Highlander. Crowe si allena insieme al lottatore Drew McIntyre e ha raccontato la sua trasformazione con un post sui social.\n\nMolti spettatori lo ricordano soprattutto per il film Il gladiatore, che lo ha reso famoso in tutto il mondo. Per questo la sua nuova forma fisica ha colpito i fan. Prepararsi per un film d'azione non è facile: servono mesi di esercizio, una dieta attenta e molto riposo. Nei prossimi mesi sapremo se il pubblico apprezzerà queste nuove storie. Intanto l'attore sembra pronto a tornare a combattere sullo schermo.",
+        "vocab": [
+          {
+            "front": "allenarsi",
+            "pos": "verb",
+            "back": "to train, to work out",
+            "example": "Mi alleno tre volte alla settimana.",
+            "tier": "B1"
+          },
+          {
+            "front": "la palestra",
+            "pos": "noun",
+            "back": "gym",
+            "example": "La palestra apre alle sette del mattino.",
+            "tier": "B1"
+          },
+          {
+            "front": "girare un film",
+            "pos": "phrase",
+            "back": "to shoot a film",
+            "example": "Hanno girato il film vicino al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "ambientato",
+            "pos": "adj",
+            "back": "set (in a place or period)",
+            "example": "È un romanzo ambientato in Sicilia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il lottatore",
+            "pos": "noun",
+            "back": "wrestler, fighter",
+            "example": "Il lottatore si allena ogni giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "la trasformazione",
+            "pos": "noun",
+            "back": "transformation, change",
+            "example": "La sua trasformazione ha sorpreso tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettatore",
+            "pos": "noun",
+            "back": "viewer, member of the audience",
+            "example": "Gli spettatori hanno applaudito a lungo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la forma fisica",
+            "pos": "noun",
+            "back": "physical shape, fitness",
+            "example": "Ha ritrovato la forma fisica dopo l'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "colpire",
+            "pos": "verb",
+            "back": "to strike, to impress",
+            "example": "La notizia ha colpito molte persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "il riposo",
+            "pos": "noun",
+            "back": "rest",
+            "example": "Dopo la gara serve un giorno di riposo.",
+            "tier": "B1"
+          },
+          {
+            "front": "apprezzare",
+            "pos": "verb",
+            "back": "to appreciate, to like",
+            "example": "Il pubblico ha apprezzato molto lo spettacolo.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "L'attore è bravissimo sullo schermo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In questo periodo gira in Spagna 'The Last Druid', un film ambientato nell'antica Roma.",
+            "point": "presente indicativo per un'azione in corso e participio con valore di frase relativa",
+            "explanation": "L'italiano usa il presente semplice anche per azioni che stanno accadendo adesso: gira significa he is shooting. Ambientato sostituisce che è ambientato.",
+            "why_tricky": "In inglese serve la forma progressiva (is shooting), mentre in italiano il presente basta. Inoltre il participio va accordato con il nome: un film ambientato, una storia ambientata."
+          },
+          {
+            "sentence": "Dopo questo lavoro arriverà il reboot di Highlander.",
+            "point": "futuro semplice",
+            "explanation": "Arriverà è il futuro di arrivare. Si usa per eventi previsti che non sono ancora iniziati.",
+            "why_tricky": "Nella lingua parlata gli italiani usano spesso il presente al posto del futuro (dopo arriva il reboot), quindi bisogna riconoscere ed usare entrambe le forme."
+          },
+          {
+            "sentence": "Nei prossimi mesi sapremo se il pubblico apprezzerà queste nuove storie.",
+            "point": "futuro anche dopo se in una domanda indiretta",
+            "explanation": "Qui se introduce una domanda indiretta, non una condizione, quindi il futuro è corretto: sapremo se apprezzerà.",
+            "why_tricky": "Nelle frasi condizionali (se piove, resto a casa) il futuro dopo se non si usa, e questa differenza confonde chi impara."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere in forma",
+            "meaning": "to be fit, in good shape",
+            "example": "Dopo mesi di palestra è di nuovo in forma."
+          },
+          {
+            "phrase": "rubare la scena",
+            "meaning": "to steal the show",
+            "example": "Nel nuovo film il protagonista ruba la scena a tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Russell Crowe è tornato in palestra?",
+            "type": "open"
+          },
+          {
+            "q": "Dove gira il suo nuovo film e in quale epoca è ambientato?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo te, perché il pubblico ricorda ancora Il gladiatore?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacciono i film d'azione storici? Scrivi 80 parole e spiega perché sì o perché no, con almeno un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-09-tifone-dolphin-giappone",
+      "title": "Il Giappone chiude negozi e cancella voli nelle isole meridionali mentre arriva il tifone Dolphin",
+      "source": "Rai News",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "meteo",
+        "Giappone"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-tifone-dolphin-giappone",
+        "revision": 1,
+        "meta": {
+          "title": "Il Giappone chiude negozi e cancella voli nelle isole meridionali mentre arriva il tifone Dolphin",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/il-giappone-chiude-negozi-e-cancella-voli-nelle-isole-meridionali-mentre-arriva-il-tifone-dolphin-f848f591-43bb-4fbf-bd63-b434c54fb06b.html",
+          "date_published": "2026-08-07",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "meteo",
+            "Giappone"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Japan is getting ready for the arrival of typhoon Dolphin. On the southern islands many shops have closed and several flights have been cancelled. The wind is very strong and the rain is falling without a break. The authorities have asked residents to stay at home and not to go near the sea. Public transport is also running on a reduced service.\n\nEvery summer Japan has to deal with several typhoons, above all between July and October. That is why the country has precise rules and very fast warning systems. Schools and companies know what to do when a storm arrives. In the coming days the typhoon should weaken, but the risk of flooding and landslides is still high. People will only be able to go back to normal life when the authorities give the green light.",
+        "resumen_es": "Il Giappone si prepara all'arrivo del tifone Dolphin. Nelle isole del sud molti negozi hanno chiuso e diversi voli sono stati cancellati. Il vento è molto forte e la pioggia cade senza sosta. Le autorità hanno chiesto agli abitanti di restare in casa e di non avvicinarsi al mare. Anche i trasporti pubblici funzionano in modo ridotto.\n\nOgni estate il Giappone deve affrontare diversi tifoni, soprattutto tra luglio e ottobre. Per questo il paese ha regole precise e sistemi di allerta molto rapidi. Le scuole e le aziende sanno che cosa fare quando arriva una tempesta. Nei prossimi giorni il tifone dovrebbe indebolirsi, ma il rischio di allagamenti e di frane resta alto. Le persone potranno tornare alla vita normale solo quando le autorità daranno il via libera.",
+        "vocab": [
+          {
+            "front": "il tifone",
+            "pos": "noun",
+            "back": "typhoon",
+            "example": "Il tifone è arrivato durante la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "cancellare un volo",
+            "pos": "phrase",
+            "back": "to cancel a flight",
+            "example": "Hanno cancellato il volo per Tokyo.",
+            "tier": "B1"
+          },
+          {
+            "front": "senza sosta",
+            "pos": "phrase",
+            "back": "non stop, without a break",
+            "example": "Ha piovuto senza sosta per due giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'allerta",
+            "pos": "noun",
+            "back": "alert, warning",
+            "example": "In città c'è l'allerta per il maltempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tempesta",
+            "pos": "noun",
+            "back": "storm",
+            "example": "La tempesta ha rotto molti alberi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'allagamento",
+            "pos": "noun",
+            "back": "flooding",
+            "example": "Gli allagamenti hanno bloccato le strade.",
+            "tier": "B2"
+          },
+          {
+            "front": "la frana",
+            "pos": "noun",
+            "back": "landslide",
+            "example": "Una frana ha chiuso la strada di montagna.",
+            "tier": "B2"
+          },
+          {
+            "front": "indebolirsi",
+            "pos": "verb",
+            "back": "to get weaker",
+            "example": "Il vento si indebolisce verso sera.",
+            "tier": "B2"
+          },
+          {
+            "front": "restare in casa",
+            "pos": "phrase",
+            "back": "to stay at home",
+            "example": "Con questo tempo è meglio restare in casa.",
+            "tier": "B1"
+          },
+          {
+            "front": "avvicinarsi a",
+            "pos": "verb",
+            "back": "to go near, to approach",
+            "example": "Non avvicinarti al fuoco.",
+            "tier": "B1"
+          },
+          {
+            "front": "i trasporti pubblici",
+            "pos": "noun",
+            "back": "public transport",
+            "example": "I trasporti pubblici sono gratuiti oggi.",
+            "tier": "B1"
+          },
+          {
+            "front": "dare il via libera",
+            "pos": "phrase",
+            "back": "to give the green light",
+            "example": "Il sindaco ha dato il via libera alla festa.",
+            "tier": "B2"
+          },
+          {
+            "front": "affrontare",
+            "pos": "verb",
+            "back": "to face, to deal with",
+            "example": "Dobbiamo affrontare il problema subito.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nelle isole del sud molti negozi hanno chiuso e diversi voli sono stati cancellati.",
+            "point": "passato prossimo attivo e passivo",
+            "explanation": "Hanno chiuso è un passato prossimo attivo con avere. Sono stati cancellati è un passivo: essere al passato prossimo più il participio, accordato al plurale maschile.",
+            "why_tricky": "Lo studente confonde i due ausiliari. Nel passivo compaiono due participi vicini (stati, cancellati) e tutti e due devono accordarsi con il soggetto."
+          },
+          {
+            "sentence": "Le autorità hanno chiesto agli abitanti di restare in casa e di non avvicinarsi al mare.",
+            "point": "chiedere a qualcuno di + infinito, e infinito negativo",
+            "explanation": "Dopo chiedere la persona va introdotta da a e l'azione da di più infinito. La negazione si mette prima dell'infinito: di non avvicinarsi.",
+            "why_tricky": "In inglese si dice asked residents to stay, senza preposizione davanti alla persona. In italiano servono due elementi: a per la persona e di per l'azione. La negazione si mette tra di e l'infinito: di non avvicinarsi."
+          },
+          {
+            "sentence": "Nei prossimi giorni il tifone dovrebbe indebolirsi, ma il rischio di allagamenti e di frane resta alto.",
+            "point": "condizionale dovrebbe per esprimere probabilità",
+            "explanation": "Dovrebbe non indica un obbligo, ma una previsione: it should weaken, probabilmente si indebolirà.",
+            "why_tricky": "Dovere significa di solito must, quindi il valore di probabilità del condizionale sorprende chi impara."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dare il via libera",
+            "meaning": "to give permission, the green light",
+            "example": "La protezione civile ha dato il via libera al rientro."
+          },
+          {
+            "phrase": "con il fiato sospeso",
+            "meaning": "holding your breath, anxiously waiting",
+            "example": "Il paese ha aspettato la notizia con il fiato sospeso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno deciso le autorità giapponesi prima dell'arrivo del tifone?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il Giappone ha sistemi di allerta molto rapidi?",
+            "type": "open"
+          },
+          {
+            "q": "Quali rischi restano anche dopo il passaggio del tifone?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nel tuo paese ci sono fenomeni meteo pericolosi? Scrivi 80 parole e spiega come si preparano le persone."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-09-infantino-uefa-boicottaggio",
+      "title": "Fifa, Infantino ai suoi: 'Resto qui', la Uefa conferma il boicottaggio",
+      "source": "ANSA",
+      "date": "2026-08-09",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "sport"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-09-infantino-uefa-boicottaggio",
+        "revision": 1,
+        "meta": {
+          "title": "Fifa, Infantino ai suoi: 'Resto qui', la Uefa conferma il boicottaggio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/06/la-uefa-conferma-il-boicottaggio-alla-fifa-persa-fiducia-in-infantino_289a154b-5d33-45a8-929d-bcc53b7324ac.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-09",
+          "tags": [
+            "calcio",
+            "sport"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The president of FIFA, Gianni Infantino, has told his colleagues that he will not leave his post. I am staying here, he repeated during a meeting. UEFA, however, has confirmed the boycott: the European federations say they have lost confidence in him. The situation is different in Africa, where many federations continue to support the current president.\n\nFIFA is the organisation that governs world football, while UEFA looks after football in Europe. When the two sides do not agree, the problems become visible straight away. A boycott means that some federations do not take part in meetings and shared activities. Now we have to see whether there will be an agreement or whether the crisis will go on. The coming weeks will be decisive for the future of international football.",
+        "resumen_es": "Il presidente della Fifa, Gianni Infantino, ha detto ai suoi collaboratori che non lascerà il suo posto. 'Resto qui', ha ripetuto durante una riunione. La Uefa, però, ha confermato il boicottaggio: le federazioni europee dicono di aver perso la fiducia in lui. La situazione è diversa in Africa, dove molte federazioni continuano a sostenere il presidente in carica.\n\nLa Fifa è l'organizzazione che governa il calcio mondiale, mentre la Uefa si occupa del calcio in Europa. Quando le due parti non vanno d'accordo, i problemi diventano subito molto visibili. Un boicottaggio significa che alcune federazioni non partecipano alle riunioni e alle attività comuni. Ora bisogna capire se ci sarà un accordo o se la crisi continuerà. Le prossime settimane saranno decisive per il futuro del calcio internazionale.",
+        "vocab": [
+          {
+            "front": "il collaboratore",
+            "pos": "noun",
+            "back": "colleague, member of staff",
+            "example": "Ha parlato con i suoi collaboratori.",
+            "tier": "B1"
+          },
+          {
+            "front": "lasciare il posto",
+            "pos": "phrase",
+            "back": "to leave the job, to step down",
+            "example": "Il direttore non vuole lasciare il posto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la riunione",
+            "pos": "noun",
+            "back": "meeting",
+            "example": "La riunione comincia alle nove.",
+            "tier": "B1"
+          },
+          {
+            "front": "il boicottaggio",
+            "pos": "noun",
+            "back": "boycott",
+            "example": "Il boicottaggio è durato tre mesi.",
+            "tier": "B2"
+          },
+          {
+            "front": "la federazione",
+            "pos": "noun",
+            "back": "federation, governing body",
+            "example": "La federazione ha cambiato le regole.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fiducia",
+            "pos": "noun",
+            "back": "trust, confidence",
+            "example": "Ho perso la fiducia in quel giornale.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostenere",
+            "pos": "verb",
+            "back": "to support",
+            "example": "Molti tifosi sostengono la squadra da anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "in carica",
+            "pos": "phrase",
+            "back": "in office, current",
+            "example": "Il sindaco in carica si ricandida.",
+            "tier": "B2"
+          },
+          {
+            "front": "occuparsi di",
+            "pos": "verb",
+            "back": "to deal with, to be in charge of",
+            "example": "Chi si occupa dei biglietti?",
+            "tier": "B1"
+          },
+          {
+            "front": "andare d'accordo",
+            "pos": "phrase",
+            "back": "to get on well",
+            "example": "I due fratelli non vanno d'accordo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'accordo",
+            "pos": "noun",
+            "back": "agreement, deal",
+            "example": "Hanno trovato un accordo dopo molte ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "decisivo",
+            "pos": "adj",
+            "back": "decisive, crucial",
+            "example": "È stata una partita decisiva.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "ha detto ai suoi collaboratori che non lascerà il suo posto",
+            "point": "discorso indiretto con il futuro",
+            "explanation": "Le parole originali erano non lascio o non lascerò. Nel discorso indiretto italiano il futuro resta futuro: ha detto che non lascerà.",
+            "why_tricky": "In inglese il tempo arretra (he said he would not leave). L'italiano moderno mantiene spesso il futuro semplice."
+          },
+          {
+            "sentence": "le federazioni europee dicono di aver perso la fiducia in lui",
+            "point": "dire di + infinito passato",
+            "explanation": "Quando il soggetto della frase principale e quello della subordinata sono gli stessi, si usa di più infinito: dicono di aver perso, non dicono che hanno perso.",
+            "why_tricky": "La forma con che non è sbagliata ma suona pesante, e l'infinito passato (aver perso) confonde perché perde spesso la e finale di avere."
+          },
+          {
+            "sentence": "Ora bisogna capire se ci sarà un accordo o se la crisi continuerà.",
+            "point": "bisogna + infinito e domanda indiretta con se",
+            "explanation": "Bisogna è impersonale e regge sempre l'infinito. Se introduce una domanda indiretta e permette il futuro: se ci sarà, se continuerà.",
+            "why_tricky": "Bisogna non ha soggetto e non si può dire io bisogno. Inoltre serve distinguere questo se dal se delle frasi condizionali, dove il futuro non si usa."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "perdere la fiducia in qualcuno",
+            "meaning": "to stop trusting someone",
+            "example": "I soci hanno perso la fiducia nel presidente."
+          },
+          {
+            "phrase": "avere le mani legate",
+            "meaning": "to have your hands tied, to be unable to act",
+            "example": "Senza i voti dell'assemblea, il consiglio ha le mani legate."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha deciso di fare Gianni Infantino?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è la posizione delle federazioni europee?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa significa, in pratica, un boicottaggio?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, un presidente sportivo deve dimettersi quando perde la fiducia di molte federazioni? Scrivi 80 parole e spiega la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-08-moda-online-second-hand",
+      "title": "Moda e-commerce, lo stato del mercato tra trend GenZ e second hand",
+      "source": "ANSA",
+      "date": "2026-08-08",
+      "level": "A2-B1",
+      "topics": [
+        "moda",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-08-moda-online-second-hand",
+        "revision": 1,
+        "meta": {
+          "title": "Moda e-commerce, lo stato del mercato tra trend GenZ e second hand",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/03/moda-e-commerce-lo-stato-del-mercato-tra-trend-genz-e-second-hand_d0c4a2a6-4025-4412-a930-8fcbabdb0f7d.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-08",
+          "tags": [
+            "moda",
+            "economia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A new report studies the online fashion market in ten European countries. The figures show that clothing accounts for around twenty per cent of household spending online. Buying clothes on the internet is by now a normal habit, above all for young people of Generation Z, who use their phone to search, compare prices and order in a few minutes.\n\nThe report also points to the growth of the second hand market. Many people sell the clothes they no longer wear and buy other second hand ones, in order to save money and to reduce waste. The big brands are watching this phenomenon closely and are opening sections devoted to used garments. Some problems remain, though: returns are expensive for companies and transporting the parcels causes pollution. The sector therefore has to find a balance between speed, price and respect for the environment.",
+        "resumen_es": "Un nuovo rapporto studia il mercato della moda online in dieci paesi europei. I dati mostrano che l'abbigliamento rappresenta circa il venti per cento della spesa online delle famiglie. Comprare vestiti su internet è ormai un'abitudine normale, soprattutto per i giovani della Generazione Z, che usano il telefono per cercare, confrontare i prezzi e ordinare in pochi minuti.\n\nIl rapporto segnala anche la crescita del mercato dell'usato, il cosiddetto second hand. Molte persone vendono i vestiti che non mettono più e ne comprano altri di seconda mano, per risparmiare e per ridurre gli sprechi. Le grandi marche guardano con attenzione a questo fenomeno e aprono sezioni dedicate ai capi usati. Restano però dei problemi: i resi costano cari alle aziende e il trasporto dei pacchi inquina. Il settore deve quindi trovare un equilibrio tra velocità, prezzo e rispetto dell'ambiente.",
+        "vocab": [
+          {
+            "front": "il rapporto",
+            "pos": "noun",
+            "back": "report",
+            "example": "Il rapporto annuale esce a settembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'abbigliamento",
+            "pos": "noun",
+            "back": "clothing",
+            "example": "Il negozio di abbigliamento è in centro.",
+            "tier": "A2"
+          },
+          {
+            "front": "la spesa",
+            "pos": "noun",
+            "back": "spending, shopping",
+            "example": "La spesa per la scuola aumenta ogni anno.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'abitudine",
+            "pos": "noun",
+            "back": "habit",
+            "example": "Ho l'abitudine di leggere prima di dormire.",
+            "tier": "A2"
+          },
+          {
+            "front": "confrontare",
+            "pos": "verb",
+            "back": "to compare",
+            "example": "Confronto sempre i prezzi prima di comprare.",
+            "tier": "B1"
+          },
+          {
+            "front": "la crescita",
+            "pos": "noun",
+            "back": "growth",
+            "example": "La crescita del turismo aiuta i piccoli paesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'usato",
+            "pos": "noun",
+            "back": "second hand goods",
+            "example": "Ho comprato la bici nel mercato dell'usato.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save money",
+            "example": "Risparmio un po' ogni mese.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo spreco",
+            "pos": "noun",
+            "back": "waste",
+            "example": "Buttare il cibo è uno spreco enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "il capo",
+            "pos": "noun",
+            "back": "item of clothing",
+            "example": "Questo capo di lana costa troppo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il reso",
+            "pos": "noun",
+            "back": "return of a product",
+            "example": "Il reso è gratuito entro trenta giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "inquinare",
+            "pos": "verb",
+            "back": "to pollute",
+            "example": "Le auto vecchie inquinano di più.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'equilibrio",
+            "pos": "noun",
+            "back": "balance",
+            "example": "Trovare un equilibrio tra lavoro e famiglia non è facile.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Comprare vestiti su internet è ormai un'abitudine normale, soprattutto per i giovani della Generazione Z, che usano il telefono per cercare, confrontare i prezzi e ordinare in pochi minuti.",
+            "point": "Infinitive as the subject of the sentence",
+            "explanation": "Comprare vestiti works as a noun here and is the subject of è. Italian uses the bare infinitive where English uses the ing form.",
+            "why_tricky": "Learners try to translate buying with a gerund, comprando, which is wrong as a subject in Italian."
+          },
+          {
+            "sentence": "Molte persone vendono i vestiti che non mettono più e ne comprano altri di seconda mano, per risparmiare e per ridurre gli sprechi.",
+            "point": "The pronoun ne",
+            "explanation": "Ne replaces di quelli, so ne comprano altri means they buy others of them. It goes before the conjugated verb.",
+            "why_tricky": "Ne has no English equivalent and is easy to leave out, but without it the sentence sounds incomplete in Italian."
+          },
+          {
+            "sentence": "Il settore deve quindi trovare un equilibrio tra velocità, prezzo e rispetto dell'ambiente.",
+            "point": "dovere plus infinitive",
+            "explanation": "Dovere expresses obligation and is always followed by the infinitive: deve trovare means it has to find.",
+            "why_tricky": "Learners add di after dovere, but unlike some other verbs dovere takes the infinitive directly."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "di seconda mano",
+            "meaning": "second hand",
+            "example": "Ho comprato un cappotto di seconda mano quasi nuovo."
+          },
+          {
+            "phrase": "costare caro",
+            "meaning": "to be expensive, to cost dearly",
+            "example": "Quell'errore ci è costato caro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa dicono i dati sulla spesa online per l'abbigliamento?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molte persone comprano vestiti di seconda mano?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi restano nel settore della moda online?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 100 parole: compri vestiti online o in negozio? Spiega perché e di' se compreresti abiti di seconda mano."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-08-patto-difesa-gedda",
+      "title": "Fonti saudite, 'oggi firma patto di mutua difesa con Turchia e Pakistan'",
+      "source": "ANSA",
+      "date": "2026-08-08",
+      "level": "A2-B1",
+      "topics": [
+        "politica",
+        "mondo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-08-patto-difesa-gedda",
+        "revision": 1,
+        "meta": {
+          "title": "Fonti saudite, 'oggi firma patto di mutua difesa con Turchia e Pakistan'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/08/07/fonti-saudite-oggi-firma-patto-di-mutua-difesa-con-turchia-e-pakistan_ac3c24c4-a327-4dd6-a3fb-1c574b5564de.html",
+          "date_published": "2026-08-07",
+          "date_processed": "2026-08-08",
+          "tags": [
+            "politica",
+            "mondo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "According to Saudi sources, today in Jeddah Saudi Arabia, Turkey and Pakistan are signing a mutual defence pact. The agreement provides that the three countries help one another if one of them is attacked. The same sources explain that it had been talked about for some time, but that recent events in the region have speeded up the negotiations.\n\nThe Middle East is going through a phase of great tension and many governments are looking for new alliances in order to feel safer. A pact of this kind has above all a political value: it sends a message to other countries and changes the balance of power in the area. Many open questions remain, though, for example how it will work in practice and what the consequences will be for relations with the United States and with Europe. In the coming days we will find out whether the text will be published and what concrete commitments it will contain.",
+        "resumen_es": "Secondo fonti saudite, oggi a Gedda l'Arabia Saudita, la Turchia e il Pakistan firmano un patto di mutua difesa. L'accordo prevede che i tre paesi si aiutino se uno di loro viene attaccato. Le stesse fonti spiegano che se ne parlava da tempo, ma che gli ultimi avvenimenti nella regione hanno accelerato le trattative.\n\nIl Medio Oriente vive una fase di forte tensione e molti governi cercano nuove alleanze per sentirsi più sicuri. Un patto di questo tipo ha soprattutto un valore politico: manda un messaggio agli altri paesi e cambia gli equilibri dell'area. Restano però molte domande aperte, per esempio come funzionerà nella pratica e quali saranno le conseguenze per i rapporti con gli Stati Uniti e con l'Europa. Nei prossimi giorni sapremo se il testo verrà pubblicato e quali impegni concreti conterrà.",
+        "vocab": [
+          {
+            "front": "la fonte",
+            "pos": "noun",
+            "back": "source",
+            "example": "Il giornale cita una fonte del governo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il patto",
+            "pos": "noun",
+            "back": "pact, agreement",
+            "example": "I due partiti hanno firmato un patto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la difesa",
+            "pos": "noun",
+            "back": "defence",
+            "example": "Il ministro della difesa parla domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "prevedere",
+            "pos": "verb",
+            "back": "to provide for, to foresee",
+            "example": "Il contratto prevede tre mesi di prova.",
+            "tier": "B1"
+          },
+          {
+            "front": "attaccare",
+            "pos": "verb",
+            "back": "to attack",
+            "example": "Nessuno vuole attaccare per primo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'avvenimento",
+            "pos": "noun",
+            "back": "event",
+            "example": "Gli avvenimenti di ieri hanno cambiato tutto.",
+            "tier": "B1"
+          },
+          {
+            "front": "accelerare",
+            "pos": "verb",
+            "back": "to speed up",
+            "example": "Dobbiamo accelerare i lavori.",
+            "tier": "B1"
+          },
+          {
+            "front": "le trattative",
+            "pos": "noun",
+            "back": "negotiations",
+            "example": "Le trattative sono durate due settimane.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'alleanza",
+            "pos": "noun",
+            "back": "alliance",
+            "example": "L'alleanza tra i due paesi è antica.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli equilibri",
+            "pos": "noun",
+            "back": "balance of power",
+            "example": "Il voto ha cambiato gli equilibri in parlamento.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rapporto",
+            "pos": "noun",
+            "back": "relationship",
+            "example": "I rapporti tra i vicini sono buoni.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'impegno",
+            "pos": "noun",
+            "back": "commitment",
+            "example": "Ha preso un impegno preciso con gli elettori.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'accordo prevede che i tre paesi si aiutino se uno di loro viene attaccato.",
+            "point": "Subjunctive after prevedere che",
+            "explanation": "Prevedere che introduces something not yet real, so the verb goes into the present subjunctive: si aiutino instead of si aiutano.",
+            "why_tricky": "The forms of the subjunctive look like the imperative to beginners, and English uses a plain present here, so the change is easy to miss."
+          },
+          {
+            "sentence": "Le stesse fonti spiegano che se ne parlava da tempo, ma che gli ultimi avvenimenti nella regione hanno accelerato le trattative.",
+            "point": "Imperfect with da tempo",
+            "explanation": "Se ne parlava da tempo uses the imperfect for a situation that had been going on for a while. Da tempo means for some time.",
+            "why_tricky": "English uses a perfect form, it had been talked about, so learners reach for the passato prossimo instead of the imperfect."
+          },
+          {
+            "sentence": "Nei prossimi giorni sapremo se il testo verrà pubblicato e quali impegni concreti conterrà.",
+            "point": "Future tense and the passive with venire",
+            "explanation": "Sapremo, verrà and conterrà are simple futures. Verrà pubblicato is a passive formed with venire instead of essere.",
+            "why_tricky": "The venire passive only works with simple tenses, and irregular futures such as conterrà from contenere have to be learned one by one."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da tempo",
+            "meaning": "for a long time",
+            "example": "Ci pensavo da tempo, ma non l'ho mai detto."
+          },
+          {
+            "phrase": "restare una domanda aperta",
+            "meaning": "to remain an unanswered question",
+            "example": "Chi pagherà resta una domanda aperta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa prevede l'accordo firmato a Gedda?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti governi cercano nuove alleanze?",
+            "type": "open"
+          },
+          {
+            "q": "Quali domande restano aperte secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 100 parole: secondo te, gli accordi militari tra paesi rendono il mondo più sicuro o meno sicuro? Spiega la tua opinione con due motivi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-08-cesaroni-dna-inchiesta",
+      "title": "Simonetta Cesaroni, trentasei anni dopo una traccia di Dna riaccende le speranze sull'inchiesta",
+      "source": "Rai News",
+      "date": "2026-08-08",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "giustizia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-08-cesaroni-dna-inchiesta",
+        "revision": 1,
+        "meta": {
+          "title": "Simonetta Cesaroni, trentasei anni dopo una traccia di Dna riaccende le speranze sull'inchiesta",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/simonetta-cesaroni-trentasei-anni-dopo-una-traccia-di-dna-riaccende-le-speranze-sullinchiesta-omicidio-via-poma-ba60a060-45ea-4601-b6b8-9287a5f51e63.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-08",
+          "tags": [
+            "cronaca",
+            "giustizia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Thirty six years on, the case of Simonetta Cesaroni is in the news again. A trace of DNA found at the scene of the crime is reviving hopes of finally arriving at a name. The genetic profile has already been compared with that of eight people, but the result was negative. Now another seven people will undergo a DNA test in September.\n\nSimonetta Cesaroni was killed in Rome in 1990 and her case is one of the most famous in Italian crime reporting. Over the years there have been trials, suspects and many lines of inquiry, but no definitive conviction. Today analysis techniques are far more precise than back then and make it possible to study tiny traces kept for decades. That is why several old cases are being reopened. The victim's family has been waiting a long time for an answer.",
+        "resumen_es": "Trentasei anni dopo, il caso di Simonetta Cesaroni torna di attualità. Una traccia di Dna trovata sul luogo del delitto riaccende le speranze di arrivare finalmente a un nome. Il profilo genetico è già stato confrontato con quello di otto persone, ma il risultato è stato negativo. Ora altre sette persone saranno sottoposte all'esame del Dna a settembre.\n\nSimonetta Cesaroni è stata uccisa a Roma nel 1990 e il suo caso è uno dei più famosi della cronaca italiana. Negli anni ci sono stati processi, sospetti e tante piste, ma nessuna condanna definitiva. Oggi le tecniche di analisi sono molto più precise di allora e permettono di studiare tracce piccolissime, conservate per decenni. Per questo diversi casi vecchi vengono riaperti. La famiglia della vittima aspetta da tanto tempo una risposta.",
+        "vocab": [
+          {
+            "front": "la traccia",
+            "pos": "noun",
+            "back": "trace, clue",
+            "example": "Gli investigatori cercano tracce nella stanza.",
+            "tier": "B1"
+          },
+          {
+            "front": "il delitto",
+            "pos": "noun",
+            "back": "crime, murder",
+            "example": "Il delitto è avvenuto di notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "riaccendere",
+            "pos": "verb",
+            "back": "to rekindle, to revive",
+            "example": "La notizia ha riacceso il dibattito.",
+            "tier": "B1"
+          },
+          {
+            "front": "la speranza",
+            "pos": "noun",
+            "back": "hope",
+            "example": "Non perdo la speranza.",
+            "tier": "A2"
+          },
+          {
+            "front": "confrontare",
+            "pos": "verb",
+            "back": "to compare",
+            "example": "Hanno confrontato le due firme.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esame",
+            "pos": "noun",
+            "back": "test, exam",
+            "example": "L'esame del sangue è domani mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "uccidere",
+            "pos": "verb",
+            "back": "to kill",
+            "example": "Nessuno sa chi l'ha ucciso.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cronaca",
+            "pos": "noun",
+            "back": "news reporting, crime news",
+            "example": "Leggo sempre la cronaca locale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sospetto",
+            "pos": "noun",
+            "back": "suspicion, suspect",
+            "example": "Il sospetto non è mai stato provato.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pista",
+            "pos": "noun",
+            "back": "lead, line of inquiry",
+            "example": "La polizia segue una nuova pista.",
+            "tier": "B1"
+          },
+          {
+            "front": "la condanna",
+            "pos": "noun",
+            "back": "conviction, sentence",
+            "example": "La condanna è arrivata dopo tre anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "riaprire",
+            "pos": "verb",
+            "back": "to reopen",
+            "example": "Hanno deciso di riaprire il caso.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vittima",
+            "pos": "noun",
+            "back": "victim",
+            "example": "La famiglia della vittima era in aula.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il profilo genetico è già stato confrontato con quello di otto persone, ma il risultato è stato negativo.",
+            "point": "Passive in the passato prossimo",
+            "explanation": "The passive uses essere plus stato plus participle: è stato confrontato. Già goes between è and stato.",
+            "why_tricky": "There are two participles in a row, and learners often put già in the wrong place or forget the agreement with il profilo."
+          },
+          {
+            "sentence": "Oggi le tecniche di analisi sono molto più precise di allora e permettono di studiare tracce piccolissime, conservate per decenni.",
+            "point": "Comparative with di and the absolute superlative",
+            "explanation": "Piu' precise di allora compares with di, not che, because the second element is a single word. Piccolissime is the absolute superlative of piccole.",
+            "why_tricky": "Choosing between di and che is a classic trap, and the ending of piccolissime has to agree with the plural feminine noun tracce."
+          },
+          {
+            "sentence": "La famiglia della vittima aspetta da tanto tempo una risposta.",
+            "point": "Present tense with da",
+            "explanation": "Aspetta da tanto tempo means she has been waiting for a long time: Italian keeps the present when the action is still going on.",
+            "why_tricky": "English uses a perfect form here, so learners write ha aspettato da tanto tempo, which sounds wrong in Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "riaccendere le speranze",
+            "meaning": "to revive hopes",
+            "example": "Il gol del pareggio ha riacceso le speranze dei tifosi."
+          },
+          {
+            "phrase": "da tanto tempo",
+            "meaning": "for a long time",
+            "example": "Non lo vedo da tanto tempo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha riacceso le speranze nel caso di Simonetta Cesaroni?",
+            "type": "open"
+          },
+          {
+            "q": "Perché oggi è possibile studiare tracce molto vecchie?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dice il testo sui processi e sui sospetti degli anni passati?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 100 parole: secondo te è giusto riaprire casi molto vecchi dopo tanti anni? Spiega la tua opinione con due motivi."
+      }
+    },
     {
       "pack_id": "feed-2026-08-08-etna-cenere-catania",
       "title": "Emissione di cenere dall'Etna, sospesi atterraggi a Catania fino alle 12",
@@ -5197,1499 +6700,6 @@
           }
         ],
         "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi qualche frase sulle stelle e sullo spazio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-assoturismo-agosto",
-      "title": "Assoturismo, il caldo spinge le località montane, ma frena le città d'arte",
-      "source": "ANSA",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "turismo",
-        "estate"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-assoturismo-agosto",
-        "revision": 1,
-        "meta": {
-          "title": "Assoturismo, il caldo spinge le località montane, ma frena le città d'arte",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/01/assoturismo-ad-agosto-presenze-in-crescita-con-967-milioni-di-pernottamenti_df8f308e-5868-4965-a837-2ee74fece01a.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "turismo",
-            "estate"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In August many Italians go on holiday. This year the great heat changes their choices. According to Assoturismo, the mountain resorts are fuller than usual. Here the number of stays grows by 2.3 per cent. In the mountains, in fact, the air is cooler and more pleasant. The cities of art, instead, grow very little, only by 0.3 per cent.\n\nIn the whole country almost 96.7 million overnight stays are counted. It is a very high number for the month of August. The mountains and the sea remain the favourite destinations for tourists. Many people look for a cool place to rest and feel good. The heat, therefore, does not stop the holidays, but it changes the way Italians travel.",
-        "resumen_es": "Ad agosto molti italiani vanno in vacanza. Quest'anno il grande caldo cambia le loro scelte. Secondo Assoturismo, le località di montagna sono più piene del solito. Qui le presenze crescono del 2,3 per cento. In montagna, infatti, l'aria è più fresca e piacevole. Le città d'arte, invece, crescono molto poco, solo dello 0,3 per cento.\n\nIn tutto il Paese si contano quasi 96,7 milioni di pernottamenti. È un numero molto alto per il mese di agosto. Le montagne e il mare restano le mete preferite dai turisti. Molte persone cercano un posto fresco per riposare e stare bene. Il caldo, quindi, non ferma le vacanze, ma cambia il modo di viaggiare degli italiani.",
-        "vocab": [
-          {
-            "front": "la vacanza",
-            "pos": "noun",
-            "back": "holiday, vacation",
-            "example": "Ad agosto vado in vacanza al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "Oggi c'è troppo caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scelta",
-            "pos": "noun",
-            "back": "choice",
-            "example": "È stata una scelta difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la località",
-            "pos": "noun",
-            "back": "resort, place, spot",
-            "example": "È una bella località di montagna.",
-            "tier": "B1"
-          },
-          {
-            "front": "la montagna",
-            "pos": "noun",
-            "back": "mountain",
-            "example": "D'estate preferisco la montagna.",
-            "tier": "A2"
-          },
-          {
-            "front": "pieno/a",
-            "pos": "adj",
-            "back": "full",
-            "example": "Il treno era pieno di gente.",
-            "tier": "A2"
-          },
-          {
-            "front": "la presenza",
-            "pos": "noun",
-            "back": "presence; here: number of visitors",
-            "example": "Le presenze turistiche sono aumentate.",
-            "tier": "B1"
-          },
-          {
-            "front": "fresco/a",
-            "pos": "adj",
-            "back": "cool, fresh",
-            "example": "La sera l'aria è più fresca.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pernottamento",
-            "pos": "noun",
-            "back": "overnight stay",
-            "example": "L'hotel offre il pernottamento con colazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "la meta",
-            "pos": "noun",
-            "back": "destination",
-            "example": "Roma è una meta molto famosa.",
-            "tier": "B1"
-          },
-          {
-            "front": "riposare",
-            "pos": "verb",
-            "back": "to rest",
-            "example": "Dopo il lavoro voglio riposare.",
-            "tier": "A2"
-          },
-          {
-            "front": "viaggiare",
-            "pos": "verb",
-            "back": "to travel",
-            "example": "Mi piace viaggiare in Europa.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo Assoturismo, le località di montagna sono più piene del solito.",
-            "point": "Il comparativo di maggioranza 'più... del'",
-            "explanation": "'Più piene del solito' confronta la situazione di quest'anno con quella normale.",
-            "why_tricky": "Dopo 'più' l'aggettivo concorda con il nome ('piene', femminile plurale)."
-          },
-          {
-            "sentence": "In tutto il Paese si contano quasi 96,7 milioni di pernottamenti.",
-            "point": "Il 'si' passivante",
-            "explanation": "'Si contano' significa 'vengono contati'; il verbo va al plurale perché il soggetto è plurale.",
-            "why_tricky": "Con il 'si' passivante il verbo cambia numero secondo il soggetto (contano, non conta)."
-          },
-          {
-            "sentence": "Il caldo, quindi, non ferma le vacanze, ma cambia il modo di viaggiare degli italiani.",
-            "point": "Il contrasto con 'ma' e 'modo di' + infinito",
-            "explanation": "'Ma' collega due idee opposte; 'modo di viaggiare' usa l'infinito dopo la preposizione 'di'.",
-            "why_tricky": "Dopo 'modo di' serve sempre l'infinito, mai un verbo coniugato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "più del solito",
-            "meaning": "more than usual",
-            "example": "Oggi ho mangiato più del solito."
-          },
-          {
-            "phrase": "stare bene",
-            "meaning": "to feel good / well",
-            "example": "In vacanza sto bene e mi rilasso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché quest'anno molti turisti scelgono la montagna?",
-            "type": "open"
-          },
-          {
-            "q": "Come cambiano le presenze nelle città d'arte?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, il caldo ferma le vacanze? Perché?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Dove preferisci andare in vacanza d'estate: al mare, in montagna o in città? Spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-europei-tuffi-oro",
-      "title": "Europei, tuffi: Matteo Santoro e Chiara Pellacani oro nel sincro misto dai tre metri",
-      "source": "RaiNews",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "tuffi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-europei-tuffi-oro",
-        "revision": 1,
-        "meta": {
-          "title": "Europei, tuffi: Matteo Santoro e Chiara Pellacani oro nel sincro misto dai tre metri",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/maratona/2026/08/europei-nuoto-parigi-tutte-le-medaglie-calendario-gare-b494a6f0-3302-41d9-b948-7fc828e44ff7.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "sport",
-            "tuffi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "At the swimming European Championships in Paris, Italy wins a fine gold medal. The two athletes Matteo Santoro and Chiara Pellacani compete together in the diving. Their event is the mixed synchro from the three-metre springboard. The two jump at the same moment, with precise and identical movements. The audience applauds and the jury gives a very high score. For Italy it is a great success.\n\nThis victory is important for Italian sport. Diving, in fact, requires courage, strength and balance. The athletes train every day for many hours. Chiara Pellacani also takes part in other individual events. Her goal is to win new medals in the coming days. Many young people watch these champions and dream of becoming like them one day.",
-        "resumen_es": "Agli Europei di nuoto a Parigi, l'Italia vince una bella medaglia d'oro. I due atleti Matteo Santoro e Chiara Pellacani gareggiano insieme nei tuffi. La loro gara è il sincro misto dal trampolino di tre metri. I due saltano nello stesso momento, con movimenti precisi e uguali. Il pubblico applaude e la giuria dà un punteggio molto alto. Per l'Italia è un grande successo.\n\nQuesta vittoria è importante per lo sport italiano. I tuffi, infatti, richiedono coraggio, forza ed equilibrio. Gli atleti si allenano ogni giorno per molte ore. Chiara Pellacani partecipa anche ad altre gare individuali. Il suo obiettivo è vincere nuove medaglie nei prossimi giorni. Tanti giovani guardano questi campioni e sognano di diventare come loro un giorno.",
-        "vocab": [
-          {
-            "front": "i tuffi",
-            "pos": "noun",
-            "back": "diving (sport)",
-            "example": "I tuffi sono uno sport spettacolare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la medaglia d'oro",
-            "pos": "phrase",
-            "back": "gold medal",
-            "example": "Ha vinto la medaglia d'oro alle Olimpiadi.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'atleta",
-            "pos": "noun",
-            "back": "athlete",
-            "example": "L'atleta si allena tutti i giorni.",
-            "tier": "A2"
-          },
-          {
-            "front": "gareggiare",
-            "pos": "verb",
-            "back": "to compete",
-            "example": "Domani gareggia nella gara finale.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gara",
-            "pos": "noun",
-            "back": "race, competition, event",
-            "example": "La gara comincia alle dieci.",
-            "tier": "A2"
-          },
-          {
-            "front": "il trampolino",
-            "pos": "noun",
-            "back": "springboard, diving board",
-            "example": "Salta dal trampolino con coraggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "saltare",
-            "pos": "verb",
-            "back": "to jump",
-            "example": "Il bambino salta nella piscina.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "audience, public",
-            "example": "Il pubblico applaude i cantanti.",
-            "tier": "A2"
-          },
-          {
-            "front": "il punteggio",
-            "pos": "noun",
-            "back": "score",
-            "example": "Ha ottenuto un punteggio altissimo.",
-            "tier": "B1"
-          },
-          {
-            "front": "allenarsi",
-            "pos": "verb",
-            "back": "to train (oneself)",
-            "example": "Mi alleno in palestra tre volte a settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "goal, objective",
-            "example": "Il mio obiettivo è imparare l'italiano.",
-            "tier": "B1"
-          },
-          {
-            "front": "il coraggio",
-            "pos": "noun",
-            "back": "courage",
-            "example": "Ci vuole coraggio per tuffarsi.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "I due saltano nello stesso momento, con movimenti precisi e uguali.",
-            "point": "La preposizione articolata 'nello'",
-            "explanation": "'Nello' unisce 'in' e 'lo' davanti a 'stesso momento'.",
-            "why_tricky": "La forma cambia secondo l'articolo: in + lo diventa 'nello', in + il diventa 'nel'."
-          },
-          {
-            "sentence": "Gli atleti si allenano ogni giorno per molte ore.",
-            "point": "Il verbo riflessivo 'allenarsi'",
-            "explanation": "'Si allenano' indica che gli atleti fanno l'azione su se stessi.",
-            "why_tricky": "Il pronome 'si' è obbligatorio e cambia con la persona (mi alleno, ti alleni, si allena)."
-          },
-          {
-            "sentence": "Il suo obiettivo è vincere nuove medaglie nei prossimi giorni.",
-            "point": "Possessivo 'suo' e 'nei' articolata",
-            "explanation": "'Il suo obiettivo' indica il possesso; 'nei prossimi giorni' unisce 'in' e 'i'.",
-            "why_tricky": "Il possessivo prende quasi sempre l'articolo ('il suo'), a differenza dell'inglese."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "ci vuole coraggio",
-            "meaning": "it takes courage",
-            "example": "Per parlare in pubblico ci vuole coraggio."
-          },
-          {
-            "phrase": "allo stesso momento",
-            "meaning": "at the same time",
-            "example": "Sono arrivati tutti allo stesso momento."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quale medaglia vince l'Italia in questa gara?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i tuffi sono uno sport difficile?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è l'obiettivo di Chiara Pellacani?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è il tuo sport preferito? Scrivi qualche frase e spiega perché ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-cielo-agosto",
-      "title": "Con eclissi e stelle cadenti, il cielo di agosto dà spettacolo",
-      "source": "ANSA",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "cielo",
-        "astronomia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-cielo-agosto",
-        "revision": 1,
-        "meta": {
-          "title": "Con eclissi e stelle cadenti, il cielo di agosto dà spettacolo",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/01/con-eclissi-e-stelle-cadenti-il-cielo-di-agosto-da-spettacolo_2d59cdef-09f3-4549-ada0-aa11416462d6.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "cielo",
-            "astronomia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In August the sky offers a beautiful show and everyone can watch it. The experts say that this month there are many shooting stars, called the Perseids. The best night to see them is around 12 August. On those days a total eclipse of the Sun also arrives, a rare event that is much awaited by astronomy fans.\n\nTo watch the stars you do not need a telescope. You just need to find a place far from the lights of the city and look up with patience. Many people in Italy love to spend these summer nights outdoors, with friends or with family. At the end of the month, on 28 August, there will also be a partial eclipse of the Moon. In short, whoever loves the sky will have many chances to lift their eyes and dream a little.",
-        "resumen_es": "Ad agosto il cielo offre uno spettacolo bellissimo e tutti possono guardarlo. Gli esperti dicono che questo mese ci sono molte stelle cadenti, chiamate Perseidi. La notte migliore per vederle è intorno al 12 agosto. In quei giorni arriva anche un'eclissi totale di Sole, un evento raro e molto atteso dagli appassionati di astronomia.\n\nPer osservare le stelle non serve un telescopio. Basta trovare un posto lontano dalle luci della città e guardare in alto con pazienza. Molte persone in Italia amano passare queste notti d'estate all'aperto, con gli amici o con la famiglia. Alla fine del mese, il 28 agosto, ci sarà anche un'eclissi parziale di Luna. Insomma, chi ama il cielo avrà tante occasioni per alzare gli occhi e sognare un po'.",
-        "vocab": [
-          {
-            "front": "il cielo",
-            "pos": "noun",
-            "back": "the sky",
-            "example": "Stasera il cielo è pieno di stelle.",
-            "tier": "A2"
-          },
-          {
-            "front": "la stella cadente",
-            "pos": "noun",
-            "back": "shooting star",
-            "example": "Ho visto una stella cadente e ho espresso un desiderio.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'eclissi",
-            "pos": "noun",
-            "back": "eclipse",
-            "example": "L'eclissi di Sole dura pochi minuti.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spettacolo",
-            "pos": "noun",
-            "back": "show, spectacle",
-            "example": "Il tramonto sul mare è uno spettacolo.",
-            "tier": "A2"
-          },
-          {
-            "front": "guardare in alto",
-            "pos": "phrase",
-            "back": "to look up",
-            "example": "Guarda in alto: c'è la Luna piena.",
-            "tier": "A2"
-          },
-          {
-            "front": "il telescopio",
-            "pos": "noun",
-            "back": "telescope",
-            "example": "Con il telescopio si vedono i pianeti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pazienza",
-            "pos": "noun",
-            "back": "patience",
-            "example": "Per imparare una lingua serve pazienza.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'aperto",
-            "pos": "adv",
-            "back": "outdoors",
-            "example": "D'estate mangiamo spesso all'aperto.",
-            "tier": "A2"
-          },
-          {
-            "front": "raro",
-            "pos": "adj",
-            "back": "rare",
-            "example": "Vedere la neve qui è molto raro.",
-            "tier": "A2"
-          },
-          {
-            "front": "atteso",
-            "pos": "adj",
-            "back": "awaited",
-            "example": "Il concerto era molto atteso da tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "sognare",
-            "pos": "verb",
-            "back": "to dream",
-            "example": "Mi piace sognare un futuro migliore.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La notte migliore per vederle è intorno al 12 agosto.",
-            "point": "Il superlativo relativo 'il/la migliore'",
-            "explanation": "'migliore' è il comparativo e superlativo di 'buono'; qui 'la notte migliore' significa 'la notte più buona di tutte'.",
-            "why_tricky": "Gli studenti dicono spesso 'più buona' invece della forma irregolare 'migliore'."
-          },
-          {
-            "sentence": "Per osservare le stelle non serve un telescopio.",
-            "point": "Il verbo 'servire' con significato di 'essere necessario'",
-            "explanation": "Qui 'non serve' vuol dire 'non è necessario'. Il soggetto è 'un telescopio', la cosa di cui non c'è bisogno.",
-            "why_tricky": "In inglese si usa 'you need', con la persona come soggetto; in italiano il soggetto è la cosa necessaria."
-          },
-          {
-            "sentence": "Molte persone in Italia amano passare queste notti d'estate all'aperto, con gli amici o con la famiglia.",
-            "point": "'amare + infinito' per esprimere cio che piace",
-            "explanation": "Dopo 'amare' si usa l'infinito: 'amano passare'. Serve a dire che a molte persone piace fare qualcosa.",
-            "why_tricky": "Si confonde con 'piacere', che ha una costruzione diversa con il pronome indiretto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dare spettacolo",
-            "meaning": "offrire una scena bella da vedere",
-            "example": "I fuochi d'artificio hanno dato spettacolo sul lago."
-          },
-          {
-            "phrase": "esprimere un desiderio",
-            "meaning": "pensare a qualcosa che si vuole, per esempio con una stella cadente",
-            "example": "Quando vede una stella cadente, esprime sempre un desiderio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Qual è la notte migliore per vedere le Perseidi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa serve per osservare le stelle, secondo il testo?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede il 28 agosto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta un momento in cui hai visto qualcosa di bello nel cielo."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-granchio-blu",
-      "title": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica",
-      "source": "ANSA",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "mare"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-granchio-blu",
-        "revision": 1,
-        "meta": {
-          "title": "Il caldo soffoca cozze e vongole mentre il granchio blu si moltiplica",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/08/01/il-caldo-soffoca-cozze-e-vongole-mentre-il-granchio-blu-si-moltiplica-senza-sosta_3cf5b791-6e0a-4b3a-9017-8d19a9a2e3dd.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "ambiente",
-            "mare"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The heat of this summer is creating problems for the Italian sea. The high temperatures of the water are killing the mussels and the clams, two animals that are very important for fishing. At the same time, another animal grows without stopping: the blue crab. This species comes from far away and now is found in many Italian seas, where it eats the small shellfish and ruins the work of the fishermen.\n\nAccording to an expert, the fault is the climate, but not only. Human activity too changes the balance of the sea and helps the new species to spread. In order not to lose everything, some companies try to sell the blue crab as food and put its meat in small jars. It is a curious solution: turning a problem into a resource. Meanwhile the fishermen wait for help and hope for a less hot summer.",
-        "resumen_es": "Il caldo di questa estate sta creando problemi al mare italiano. Le alte temperature dell'acqua uccidono le cozze e le vongole, due animali molto importanti per la pesca. Nello stesso tempo, un altro animale cresce senza sosta: il granchio blu. Questa specie arriva da lontano e ora si trova in tanti mari italiani, dove mangia i piccoli molluschi e rovina il lavoro dei pescatori.\n\nSecondo un esperto, la colpa è del clima, ma non solo. Anche l'attività dell'uomo cambia l'equilibrio del mare e aiuta le nuove specie a diffondersi. Per non perdere tutto, alcune aziende provano a vendere il granchio blu come cibo e mettono la sua polpa in piccoli vasetti. È una soluzione curiosa: trasformare un problema in una risorsa. Intanto i pescatori aspettano aiuto e sperano in un'estate meno calda.",
-        "vocab": [
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "heat",
-            "example": "Oggi il caldo è davvero forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "la cozza",
-            "pos": "noun",
-            "back": "mussel",
-            "example": "A cena abbiamo mangiato le cozze.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vongola",
-            "pos": "noun",
-            "back": "clam",
-            "example": "Gli spaghetti con le vongole sono buonissimi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il granchio",
-            "pos": "noun",
-            "back": "crab",
-            "example": "Sulla spiaggia ho visto un piccolo granchio.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pescatore",
-            "pos": "noun",
-            "back": "fisherman",
-            "example": "Il pescatore torna al porto la mattina presto.",
-            "tier": "A2"
-          },
-          {
-            "front": "moltiplicarsi",
-            "pos": "verb",
-            "back": "to multiply, to reproduce",
-            "example": "Con il caldo gli insetti si moltiplicano.",
-            "tier": "B1"
-          },
-          {
-            "front": "la specie",
-            "pos": "noun",
-            "back": "species",
-            "example": "Questa specie di uccello vive vicino al mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la colpa",
-            "pos": "noun",
-            "back": "fault, blame",
-            "example": "Non è colpa tua se ha piovuto.",
-            "tier": "A2"
-          },
-          {
-            "front": "rovinare",
-            "pos": "verb",
-            "back": "to ruin",
-            "example": "La pioggia ha rovinato la nostra gita.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Il traffico rompe l'equilibrio della citta.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vasetto",
-            "pos": "noun",
-            "back": "small jar",
-            "example": "Ho comprato un vasetto di miele.",
-            "tier": "A2"
-          },
-          {
-            "front": "la risorsa",
-            "pos": "noun",
-            "back": "resource",
-            "example": "L'acqua è una risorsa preziosa.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Le alte temperature dell'acqua uccidono le cozze e le vongole, due animali molto importanti per la pesca.",
-            "point": "L'articolo determinativo al plurale ('le')",
-            "explanation": "Con nomi femminili plurali si usa 'le': 'le alte temperature', 'le cozze', 'le vongole'. L'articolo concorda con il nome.",
-            "why_tricky": "Gli studenti dimenticano spesso l'articolo davanti a nomi generici, che in italiano invece serve."
-          },
-          {
-            "sentence": "Nello stesso tempo, un altro animale cresce senza sosta: il granchio blu.",
-            "point": "La preposizione articolata 'nello'",
-            "explanation": "'nello' nasce da 'in + lo'. Si usa 'lo' (e quindi 'nello') davanti a parole come 'stesso' che iniziano con s piu consonante.",
-            "why_tricky": "Scegliere tra 'nel', 'nello' e 'nella' dipende dal genere e dalla prima lettera del nome."
-          },
-          {
-            "sentence": "Secondo un esperto, la colpa è del clima, ma non solo.",
-            "point": "'secondo' per riportare un'opinione",
-            "explanation": "'secondo un esperto' significa 'in base a quello che dice un esperto'. Introduce il parere di qualcuno.",
-            "why_tricky": "'secondo' ha anche il significato di numero ordinale ('il secondo'), quindi il contesto è importante."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "senza sosta",
-            "meaning": "senza fermarsi mai, in modo continuo",
-            "example": "Ha lavorato senza sosta tutta la giornata."
-          },
-          {
-            "phrase": "non è colpa di",
-            "meaning": "la responsabilita non è di quella persona o cosa",
-            "example": "Non è colpa mia se il treno è in ritardo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché le cozze e le vongole sono in pericolo?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa fa il granchio blu nel mare italiano?",
-            "type": "open"
-          },
-          {
-            "q": "Come provano a usare il granchio blu alcune aziende?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, come possiamo proteggere il mare e gli animali che ci vivono? Scrivi le tue idee."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-tamaro-scrivere",
-      "title": "Tamaro: l'IA cambia la percezione della realtà, io scrivo a mano",
-      "source": "ANSA",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-tamaro-scrivere",
-        "revision": 1,
-        "meta": {
-          "title": "Tamaro: l'IA cambia la percezione della realtà, io scrivo a mano",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/08/01/tamaro-lia-cambia-la-percezione-della-realta-io-continuo-a-scrivere-a-mano_44eb83b2-1f29-4cd1-a3a7-2f6322c153ef.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "cultura",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Italian writer Susanna Tamaro has received an important prize for her long career. On this occasion, the author spoke about the relationship between people and technology. In her opinion, artificial intelligence changes the way in which we see reality and makes everything faster, but also more confusing. For this reason, she said a simple thing: she continues to write by hand.\n\nFor Tamaro, writing with a pen is not only a habit of the past. It is a slow gesture that helps to think calmly and to stay in contact with your own emotions. The writer does not reject progress, but she invites everyone not to forget the simple gestures of life. Her words make you reflect: in a world full of screens, perhaps a sheet of paper and a pen are still small precious tools.",
-        "resumen_es": "La scrittrice italiana Susanna Tamaro ha ricevuto un premio importante per la sua lunga carriera. In questa occasione, l'autrice ha parlato del rapporto tra le persone e la tecnologia. Secondo lei, l'intelligenza artificiale cambia il modo in cui vediamo la realtà e rende tutto più veloce, ma anche più confuso. Per questo motivo, ha detto una cosa semplice: lei continua a scrivere a mano.\n\nPer Tamaro, scrivere con la penna non è solo un'abitudine del passato. È un gesto lento che aiuta a pensare con calma e a restare in contatto con le proprie emozioni. La scrittrice non rifiuta il progresso, ma invita tutti a non dimenticare i gesti semplici della vita. Le sue parole fanno riflettere: in un mondo pieno di schermi, forse un foglio di carta e una penna sono ancora piccoli strumenti preziosi.",
-        "vocab": [
-          {
-            "front": "la scrittrice",
-            "pos": "noun",
-            "back": "writer (female)",
-            "example": "La scrittrice presenta il suo nuovo libro.",
-            "tier": "A2"
-          },
-          {
-            "front": "il premio",
-            "pos": "noun",
-            "back": "prize, award",
-            "example": "Ha vinto un premio importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "la carriera",
-            "pos": "noun",
-            "back": "career",
-            "example": "Ha avuto una lunga carriera nel cinema.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rapporto",
-            "pos": "noun",
-            "back": "relationship",
-            "example": "Ho un buon rapporto con i miei colleghi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la realtà",
-            "pos": "noun",
-            "back": "reality",
-            "example": "A volte i sogni sono più belli della realtà.",
-            "tier": "A2"
-          },
-          {
-            "front": "scrivere a mano",
-            "pos": "phrase",
-            "back": "to write by hand",
-            "example": "Preferisco scrivere a mano le lettere importanti.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abitudine",
-            "pos": "noun",
-            "back": "habit",
-            "example": "Ho l'abitudine di leggere prima di dormire.",
-            "tier": "B1"
-          },
-          {
-            "front": "il gesto",
-            "pos": "noun",
-            "back": "gesture, action",
-            "example": "Un piccolo gesto di gentilezza aiuta molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "lento",
-            "pos": "adj",
-            "back": "slow",
-            "example": "Il treno era molto lento oggi.",
-            "tier": "A2"
-          },
-          {
-            "front": "rifiutare",
-            "pos": "verb",
-            "back": "to reject, to refuse",
-            "example": "Ha rifiutato il nuovo lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo schermo",
-            "pos": "noun",
-            "back": "screen",
-            "example": "Passo troppe ore davanti allo schermo.",
-            "tier": "A2"
-          },
-          {
-            "front": "prezioso",
-            "pos": "adj",
-            "back": "precious, valuable",
-            "example": "Il tuo aiuto è molto prezioso.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Per questo motivo, ha detto una cosa semplice: lei continua a scrivere a mano.",
-            "point": "'continuare a + infinito'",
-            "explanation": "Dopo 'continuare' si usa la preposizione 'a' piu l'infinito: 'continua a scrivere'. Indica un'azione che va avanti nel tempo.",
-            "why_tricky": "Molti dimenticano la preposizione 'a' e dicono 'continua scrivere', che non è corretto."
-          },
-          {
-            "sentence": "Secondo lei, l'intelligenza artificiale cambia il modo in cui vediamo la realtà e rende tutto più veloce, ma anche più confuso.",
-            "point": "Il comparativo con 'più'",
-            "explanation": "'più veloce' e 'più confuso' sono comparativi di maggioranza: si mette 'più' davanti all'aggettivo.",
-            "why_tricky": "L'aggettivo deve concordare con il nome, ma con 'tutto' resta al maschile singolare."
-          },
-          {
-            "sentence": "La scrittrice non rifiuta il progresso, ma invita tutti a non dimenticare i gesti semplici della vita.",
-            "point": "'invitare qualcuno a + infinito'",
-            "explanation": "La struttura 'invitare qualcuno a fare qualcosa' significa chiedere gentilmente a una persona di fare qualcosa.",
-            "why_tricky": "Serve sempre la preposizione 'a' prima dell'infinito, che in inglese non c'è."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "scrivere a mano",
-            "meaning": "scrivere con la penna e non con il computer",
-            "example": "I bambini imparano prima a scrivere a mano."
-          },
-          {
-            "phrase": "fare riflettere",
-            "meaning": "far pensare con attenzione a qualcosa",
-            "example": "Quel film mi ha fatto riflettere molto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché Susanna Tamaro ha ricevuto un premio?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa pensa Tamaro dell'intelligenza artificiale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché per lei scrivere a mano è importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "E tu, preferisci scrivere a mano o al computer? Spiega perché con qualche esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-01-rottamazione-tasse",
-      "title": "Rottamazione-quinquies, prima o unica rata in scadenza il 31 luglio",
-      "source": "ANSA",
-      "date": "2026-08-01",
-      "level": "A2-B1",
-      "topics": [
-        "tasse",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-01-rottamazione-tasse",
-        "revision": 1,
-        "meta": {
-          "title": "Rottamazione-quinquies, prima o unica rata in scadenza il 31 luglio",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/07/27/rottamazione-quinquies-prima-o-unica-rata-in-scadenza-il-31-luglio_21128010-1d2a-4fb0-aadd-5223061a1620.html",
-          "date_published": "2026-08-01",
-          "date_processed": "2026-08-01",
-          "tags": [
-            "tasse",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy many people have old debts with the State. To help them, the government has created a special plan to pay taxes in an easier way. With this plan you can pay little by little, that is, in small installments. Anyone who has chosen this system must remember a very important date. The first installment, in fact, must be paid by the end of July. If a person does not pay on time, they can lose the right to use this help.\n\nThis news concerns many families and many small business owners. Paying all the taxes at once, in fact, is not always easy. For this reason a plan with installments can be useful. Experts advise marking the date on the calendar and not waiting until the last day. Anyone who has doubts can ask an office or an accountant for help. In this way it is easier to organize the payments and stay calm about the accounts.",
-        "resumen_es": "In Italia molte persone hanno vecchi debiti con lo Stato. Per aiutarle, il governo ha creato un piano speciale per pagare le tasse in modo facile. Con questo piano è possibile pagare poco alla volta, cioè in piccole rate. Chi ha scelto questo sistema deve ricordare una data importante. La prima rata, infatti, va pagata entro la fine del mese di luglio. Se una persona non paga in tempo, può perdere il diritto a usare questo aiuto.\n\nQuesta notizia riguarda tante famiglie e tanti piccoli imprenditori. Pagare le tasse tutte insieme, infatti, non è sempre facile. Per questo motivo un piano a rate può essere utile. Gli esperti consigliano di segnare la data sul calendario e di non aspettare l'ultimo giorno. Chi ha dubbi può chiedere aiuto a un ufficio o a un commercialista. In questo modo è più semplice organizzare i pagamenti e stare tranquilli con i conti.",
-        "vocab": [
-          {
-            "front": "il debito",
-            "pos": "noun",
-            "back": "debt",
-            "example": "Ho un piccolo debito con la banca.",
-            "tier": "A2"
-          },
-          {
-            "front": "le tasse",
-            "pos": "noun",
-            "back": "taxes",
-            "example": "Ogni anno paghiamo le tasse.",
-            "tier": "A2"
-          },
-          {
-            "front": "il piano",
-            "pos": "noun",
-            "back": "plan",
-            "example": "Abbiamo un piano per le vacanze.",
-            "tier": "A2"
-          },
-          {
-            "front": "la rata",
-            "pos": "noun",
-            "back": "installment",
-            "example": "Pago la macchina a rate.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scadenza",
-            "pos": "noun",
-            "back": "deadline",
-            "example": "La scadenza è domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "pagare in tempo",
-            "pos": "phrase",
-            "back": "to pay on time",
-            "example": "Cerco sempre di pagare in tempo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il diritto",
-            "pos": "noun",
-            "back": "right",
-            "example": "Ogni cittadino ha dei diritti.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'imprenditore",
-            "pos": "noun",
-            "back": "entrepreneur, business owner",
-            "example": "Mio zio è un imprenditore.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to advise",
-            "example": "Ti consiglio questo libro.",
-            "tier": "A2"
-          },
-          {
-            "front": "segnare",
-            "pos": "verb",
-            "back": "to mark, note down",
-            "example": "Segno l'appuntamento sul calendario.",
-            "tier": "B1"
-          },
-          {
-            "front": "il commercialista",
-            "pos": "noun",
-            "back": "accountant",
-            "example": "Il commercialista prepara le tasse.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pagamento",
-            "pos": "noun",
-            "back": "payment",
-            "example": "Il pagamento è arrivato ieri.",
-            "tier": "B1"
-          },
-          {
-            "front": "entro",
-            "pos": "adv",
-            "back": "by, within (a deadline)",
-            "example": "Finisco il lavoro entro venerdì.",
-            "tier": "B1"
-          },
-          {
-            "front": "i conti",
-            "pos": "noun",
-            "back": "accounts, finances",
-            "example": "Devo controllare i conti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La prima rata, infatti, va pagata entro la fine del mese di luglio.",
-            "point": "Andare + participio (obbligo)",
-            "explanation": "'Va pagata' significa 'deve essere pagata'. Il verbo 'andare' più il participio esprime un obbligo.",
-            "why_tricky": "Qui 'andare' non indica movimento: molti studenti pensano a 'va' come 'goes'."
-          },
-          {
-            "sentence": "Se una persona non paga in tempo, può perdere il diritto a usare questo aiuto.",
-            "point": "Periodo ipotetico reale (se + presente)",
-            "explanation": "'Se... paga... può perdere' esprime una condizione possibile e la sua conseguenza reale.",
-            "why_tricky": "Si usa il presente in entrambe le parti, senza il condizionale."
-          },
-          {
-            "sentence": "Gli esperti consigliano di segnare la data sul calendario e di non aspettare l'ultimo giorno.",
-            "point": "Consigliare di + infinito",
-            "explanation": "Dopo 'consigliare' si usa 'di' più l'infinito. La forma negativa è 'di non + infinito'.",
-            "why_tricky": "La preposizione 'di' e la posizione di 'non' prima dell'infinito confondono spesso."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "poco alla volta",
-            "meaning": "a poco a poco, gradualmente",
-            "example": "Imparo l'italiano poco alla volta."
-          },
-          {
-            "phrase": "stare tranquillo",
-            "meaning": "sentirsi calmo, non preoccuparsi",
-            "example": "Dopo aver pagato, sto tranquillo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il governo ha creato questo piano speciale?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede se una persona non paga in tempo?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano di fare gli esperti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è giusto poter pagare le tasse a piccole rate? Scrivi la tua opinione con qualche esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-01-ponte-stretto-messina",
-      "title": "Ponte sullo Stretto, esposto della Cgil alla Corte dei conti per danno erariale",
-      "source": "ANSA",
-      "date": "2026-08-01",
-      "level": "A2-B1",
-      "topics": [
-        "infrastrutture",
-        "Italia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-01-ponte-stretto-messina",
-        "revision": 1,
-        "meta": {
-          "title": "Ponte sullo Stretto, esposto della Cgil alla Corte dei conti per danno erariale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5e9966c8-61b1-4eb1-9182-d4cedf9d5519.html",
-          "date_published": "2026-08-01",
-          "date_processed": "2026-08-01",
-          "tags": [
-            "infrastrutture",
-            "Italia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Bridge over the Strait is a big project that is much discussed in Italy. The idea is to build a bridge to connect Sicily to the rest of the country. Today, to go from one side to the other, people use ships. A bridge, instead, could make the journey faster and more comfortable. The project, however, costs a huge amount of public money. For this reason a union has asked a special court to check carefully how the money is spent.\n\nThe topic of the bridge has divided citizens and politicians for many years. Some people think that the bridge is useful for work and for tourism. Other people, instead, are afraid for the environment and for the costs that are too high. Nobody knows yet whether the bridge will really be built. Meanwhile the debate continues and everyone has their say. One thing is certain: this great work has been making all of Italy talk for a very long time.",
-        "resumen_es": "Il Ponte sullo Stretto è un grande progetto molto discusso in Italia. L'idea è costruire un ponte per unire la Sicilia al resto del Paese. Oggi, per passare da una parte all'altra, le persone usano le navi. Un ponte, invece, potrebbe rendere il viaggio più veloce e comodo. Il progetto, però, costa moltissimo denaro pubblico. Per questo un sindacato ha chiesto a un tribunale speciale di controllare bene come vengono spesi i soldi.\n\nIl tema del ponte divide da molti anni i cittadini e i politici. Alcune persone pensano che il ponte sia utile per il lavoro e per il turismo. Altre persone, invece, hanno paura per l'ambiente e per i costi troppo alti. Nessuno sa ancora se il ponte verrà costruito davvero. Intanto il dibattito continua e ognuno dice la sua. Una cosa è certa: questa grande opera fa parlare tutta l'Italia da moltissimo tempo.",
-        "vocab": [
-          {
-            "front": "il ponte",
-            "pos": "noun",
-            "back": "bridge",
-            "example": "Il ponte attraversa il fiume.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo stretto",
-            "pos": "noun",
-            "back": "strait",
-            "example": "Lo stretto divide due mari.",
-            "tier": "B1"
-          },
-          {
-            "front": "il progetto",
-            "pos": "noun",
-            "back": "project",
-            "example": "È un progetto molto importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "unire",
-            "pos": "verb",
-            "back": "to unite, connect",
-            "example": "Il treno unisce le due città.",
-            "tier": "A2"
-          },
-          {
-            "front": "la nave",
-            "pos": "noun",
-            "back": "ship",
-            "example": "Andiamo in Sicilia con la nave.",
-            "tier": "A2"
-          },
-          {
-            "front": "il denaro pubblico",
-            "pos": "phrase",
-            "back": "public money",
-            "example": "Il denaro pubblico va usato bene.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sindacato",
-            "pos": "noun",
-            "back": "trade union",
-            "example": "Il sindacato difende i lavoratori.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tribunale",
-            "pos": "noun",
-            "back": "court",
-            "example": "Il caso è finito in tribunale.",
-            "tier": "B1"
-          },
-          {
-            "front": "controllare",
-            "pos": "verb",
-            "back": "to check",
-            "example": "Controllo sempre i prezzi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "C'è un grande dibattito sul tema.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ambiente",
-            "pos": "noun",
-            "back": "the environment",
-            "example": "Dobbiamo proteggere l'ambiente.",
-            "tier": "A2"
-          },
-          {
-            "front": "il costo",
-            "pos": "noun",
-            "back": "cost",
-            "example": "Il costo del viaggio è alto.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'opera",
-            "pos": "noun",
-            "back": "work (of construction)",
-            "example": "È un'opera molto grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "dividere",
-            "pos": "verb",
-            "back": "to divide",
-            "example": "Il tema divide le persone.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Alcune persone pensano che il ponte sia utile per il lavoro e per il turismo.",
-            "point": "Congiuntivo dopo 'pensare che'",
-            "explanation": "Dopo i verbi di opinione come 'pensare che' si usa il congiuntivo: 'sia', non 'è'.",
-            "why_tricky": "In inglese si usa l'indicativo; in italiano l'opinione chiede il congiuntivo."
-          },
-          {
-            "sentence": "Nessuno sa ancora se il ponte verrà costruito davvero.",
-            "point": "Futuro passivo (venire + participio)",
-            "explanation": "'Verrà costruito' è un futuro passivo: il ponte riceve l'azione. 'Venire' sostituisce 'essere'.",
-            "why_tricky": "Usare 'venire' al posto di 'essere' nel passivo è comune ma sorprende chi studia."
-          },
-          {
-            "sentence": "Un ponte, invece, potrebbe rendere il viaggio più veloce e comodo.",
-            "point": "Condizionale 'potrebbe' (possibilità)",
-            "explanation": "'Potrebbe' esprime una possibilità, qualcosa che forse accadrà ma non è sicuro.",
-            "why_tricky": "Il condizionale di 'potere' è irregolare (potrebbe) e non va confuso col futuro."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dire la sua",
-            "meaning": "esprimere la propria opinione",
-            "example": "In riunione tutti vogliono dire la loro."
-          },
-          {
-            "phrase": "una cosa è certa",
-            "meaning": "una cosa è sicura",
-            "example": "Una cosa è certa: dobbiamo partire presto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cos'è il Ponte sullo Stretto?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il sindacato ha chiesto aiuto a un tribunale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcune persone hanno paura di questo progetto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è meglio costruire il ponte o continuare a usare le navi? Spiega la tua idea."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-01-ex-ilva-acciaio",
-      "title": "Ex Ilva, Giorgetti: altri 100 milioni per l'amministrazione straordinaria",
-      "source": "ANSA",
-      "date": "2026-08-01",
-      "level": "A2-B1",
-      "topics": [
-        "lavoro",
-        "ambiente"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-01-ex-ilva-acciaio",
-        "revision": 1,
-        "meta": {
-          "title": "Ex Ilva, Giorgetti: altri 100 milioni per l'amministrazione straordinaria",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_5b26db8a-3a8e-4fe3-b064-3186d5f2e70c.html",
-          "date_published": "2026-08-01",
-          "date_processed": "2026-08-01",
-          "tags": [
-            "lavoro",
-            "ambiente"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The former Ilva is one of the biggest steel factories in Europe. It is in the south of Italy and gives work to many people. For years, however, the factory has been going through a very difficult time. For this reason the government has decided to give more money to keep it open. The goal is to protect the jobs and not stop production. At the same time, though, many problems remain to be solved for the future of the plant.\n\nAround this factory there has been a big debate for a long time. On one side there are the workers, who need the job to live. On the other side there are the citizens, who ask for cleaner air and more respect for their health. It is not easy to find a solution that works for everyone. The government will have to choose carefully between the economy and the environment. Many families are anxiously waiting to know what will happen in the coming months.",
-        "resumen_es": "L'ex Ilva è una delle fabbriche di acciaio più grandi d'Europa. Si trova nel sud dell'Italia e dà lavoro a molte persone. Da anni, però, la fabbrica vive un periodo molto difficile. Per questo il governo ha deciso di dare altri soldi per tenerla aperta. L'obiettivo è proteggere i posti di lavoro e non fermare la produzione. Allo stesso tempo, però, restano molti problemi da risolvere per il futuro dello stabilimento.\n\nIntorno a questa fabbrica esiste da tempo un grande dibattito. Da una parte ci sono gli operai, che hanno bisogno del lavoro per vivere. Dall'altra parte ci sono i cittadini, che chiedono aria più pulita e più rispetto per la salute. Non è facile trovare una soluzione che vada bene per tutti. Il governo dovrà scegliere con attenzione tra economia e ambiente. Molte famiglie aspettano con ansia di sapere che cosa succederà nei prossimi mesi.",
-        "vocab": [
-          {
-            "front": "la fabbrica",
-            "pos": "noun",
-            "back": "factory",
-            "example": "Mio padre lavora in fabbrica.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'acciaio",
-            "pos": "noun",
-            "back": "steel",
-            "example": "Il ponte è fatto di acciaio.",
-            "tier": "B1"
-          },
-          {
-            "front": "dare lavoro",
-            "pos": "phrase",
-            "back": "to provide work",
-            "example": "L'azienda dà lavoro a mille persone.",
-            "tier": "A2"
-          },
-          {
-            "front": "il governo",
-            "pos": "noun",
-            "back": "government",
-            "example": "Il governo ha preso una decisione.",
-            "tier": "A2"
-          },
-          {
-            "front": "tenere aperto",
-            "pos": "phrase",
-            "back": "to keep open",
-            "example": "Vogliono tenere aperto il negozio.",
-            "tier": "A2"
-          },
-          {
-            "front": "il posto di lavoro",
-            "pos": "noun",
-            "back": "job, workplace",
-            "example": "Ha perso il posto di lavoro.",
-            "tier": "A2"
-          },
-          {
-            "front": "la produzione",
-            "pos": "noun",
-            "back": "production",
-            "example": "La produzione è aumentata.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo stabilimento",
-            "pos": "noun",
-            "back": "plant, factory",
-            "example": "Lo stabilimento è molto grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'operaio",
-            "pos": "noun",
-            "back": "worker",
-            "example": "Gli operai iniziano presto la mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "la salute",
-            "pos": "noun",
-            "back": "health",
-            "example": "La salute è la cosa più importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "la soluzione",
-            "pos": "noun",
-            "back": "solution",
-            "example": "Cerchiamo una soluzione insieme.",
-            "tier": "A2"
-          },
-          {
-            "front": "scegliere",
-            "pos": "verb",
-            "back": "to choose",
-            "example": "Devo scegliere tra due lavori.",
-            "tier": "A2"
-          },
-          {
-            "front": "risolvere",
-            "pos": "verb",
-            "back": "to solve",
-            "example": "Dobbiamo risolvere il problema.",
-            "tier": "B1"
-          },
-          {
-            "front": "il futuro",
-            "pos": "noun",
-            "back": "the future",
-            "example": "Penso spesso al futuro.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Per questo il governo ha deciso di dare altri soldi per tenerla aperta.",
-            "point": "Decidere di + infinito e pronome 'la'",
-            "explanation": "Dopo 'decidere' si usa 'di' più l'infinito. In 'tenerla', 'la' sostituisce 'la fabbrica'.",
-            "why_tricky": "Il pronome si attacca alla fine dell'infinito (tenerla), non prima del verbo."
-          },
-          {
-            "sentence": "Non è facile trovare una soluzione che vada bene per tutti.",
-            "point": "Congiuntivo in frase relativa",
-            "explanation": "'Che vada bene' usa il congiuntivo perché la soluzione è cercata ma non ancora trovata.",
-            "why_tricky": "Con una cosa incerta o desiderata si usa il congiuntivo, non l'indicativo 'va'."
-          },
-          {
-            "sentence": "Il governo dovrà scegliere con attenzione tra economia e ambiente.",
-            "point": "Futuro semplice (dovere)",
-            "explanation": "'Dovrà' è il futuro di 'dovere' e indica un obbligo che accadrà più avanti.",
-            "why_tricky": "Il futuro di 'dovere' è irregolare: dovrà, non 'doverà'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da una parte... dall'altra",
-            "meaning": "da un lato... dall'altro lato",
-            "example": "Da una parte voglio riposare, dall'altra devo lavorare."
-          },
-          {
-            "phrase": "aspettare con ansia",
-            "meaning": "aspettare con impazienza o preoccupazione",
-            "example": "Aspetto con ansia i risultati dell'esame."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa produce la fabbrica ex Ilva?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il governo ha deciso di dare altri soldi?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il dibattito tra gli operai e i cittadini?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è più importante il lavoro o la protezione dell'ambiente? Spiega la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-01-vacanze-estive",
-      "title": "Vacanze estive: 36 milioni di italiani in partenza, 9 su 10 scelgono l'Italia",
-      "source": "RAI News",
-      "date": "2026-07-31",
-      "level": "A2-B1",
-      "topics": [
-        "vacanze",
-        "turismo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-01-vacanze-estive",
-        "revision": 1,
-        "meta": {
-          "title": "Vacanze estive: 36 milioni di italiani in partenza, 9 su 10 scelgono l'Italia",
-          "source": "RAI News",
-          "url": "https://www.rainews.it/video/2026/07/vacanze-estive-36-milioni-di-italiani-in-partenza-9-su-10-scelgono-l-italia-ed3d3de6-6f55-4b88-ba3a-8bad5b5dbe8b.html",
-          "date_published": "2026-07-31",
-          "date_processed": "2026-08-01",
-          "tags": [
-            "vacanze",
-            "turismo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "This summer about 36 million Italians are going on holiday. Most of them choose to stay in Italy. Nine people out of ten, in fact, prefer the sea, the art cities and the mountains of their own country. Many families leave especially in August, the most traditional month for holidays. On average, each person spends about 917 euros for the trip, the accommodation and other expenses.\n\nThis large movement of tourists is very important for the economy. In the month of August alone, the turnover goes over 16 billion euros. Hotels, restaurants and shops work a lot during the summer. Small towns and seaside resorts also receive many visitors. For many Italians, however, holidays are not only a question of money: they are above all a time to rest and spend time with family and friends.",
-        "resumen_es": "Quest'estate circa 36 milioni di italiani vanno in vacanza. La maggior parte di loro sceglie di restare in Italia. Nove persone su dieci, infatti, preferiscono il mare, le città d'arte e le montagne del proprio Paese. Molte famiglie partono soprattutto ad agosto, il mese più tradizionale per le ferie. In media, ogni persona spende circa 917 euro per il viaggio, il pernottamento e le altre spese.\n\nQuesto grande movimento di turisti è molto importante per l'economia. Solo nel mese di agosto, il giro d'affari supera i 16 miliardi di euro. Gli alberghi, i ristoranti e i negozi lavorano molto durante l'estate. Anche i piccoli paesi e le località di mare ricevono molti visitatori. Per molti italiani, però, le vacanze non sono solo una questione di soldi: sono soprattutto un momento per riposare e passare del tempo con la famiglia e gli amici.",
-        "vocab": [
-          {
-            "front": "la vacanza",
-            "pos": "noun",
-            "back": "holiday, vacation",
-            "example": "Ad agosto vado in vacanza al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "in partenza",
-            "pos": "phrase",
-            "back": "leaving, about to depart",
-            "example": "Milioni di turisti sono in partenza.",
-            "tier": "A2"
-          },
-          {
-            "front": "la maggior parte di",
-            "pos": "phrase",
-            "back": "most of",
-            "example": "La maggior parte di noi ama l'estate.",
-            "tier": "A2"
-          },
-          {
-            "front": "scegliere di",
-            "pos": "verb",
-            "back": "to choose to",
-            "example": "Scelgo di restare a casa.",
-            "tier": "B1"
-          },
-          {
-            "front": "il proprio Paese",
-            "pos": "phrase",
-            "back": "one's own country",
-            "example": "Molti preferiscono il proprio Paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "le ferie",
-            "pos": "noun",
-            "back": "holidays / time off work",
-            "example": "Prendo le ferie a luglio.",
-            "tier": "A2"
-          },
-          {
-            "front": "in media",
-            "pos": "phrase",
-            "back": "on average",
-            "example": "In media dormo otto ore.",
-            "tier": "A2"
-          },
-          {
-            "front": "spendere",
-            "pos": "verb",
-            "back": "to spend (money)",
-            "example": "Spendo poco per il cibo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pernottamento",
-            "pos": "noun",
-            "back": "overnight stay, accommodation",
-            "example": "Il pernottamento in hotel costa molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il giro d'affari",
-            "pos": "noun",
-            "back": "turnover (total business)",
-            "example": "Il giro d'affari del negozio cresce.",
-            "tier": "B1"
-          },
-          {
-            "front": "la località di mare",
-            "pos": "noun",
-            "back": "seaside resort / spot",
-            "example": "Rimini è una famosa località di mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "riposare",
-            "pos": "verb",
-            "back": "to rest",
-            "example": "In vacanza voglio solo riposare.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La maggior parte di loro sceglie di restare in Italia.",
-            "point": "'scegliere di + infinito'",
-            "explanation": "Dopo il verbo 'scegliere' si usa la preposizione 'di' e poi l'infinito. Il verbo è al singolare perché il soggetto è 'la maggior parte'.",
-            "why_tricky": "'La maggior parte' sembra plurale ma di solito regge il verbo al singolare."
-          },
-          {
-            "sentence": "In media, ogni persona spende circa 917 euro per il viaggio, il pernottamento e le altre spese.",
-            "point": "'ogni' + nome singolare",
-            "explanation": "'Ogni' vuole sempre il nome e il verbo al singolare: 'ogni persona spende'.",
-            "why_tricky": "In inglese 'every' può sembrare plurale, ma in italiano 'ogni' è sempre singolare."
-          },
-          {
-            "sentence": "Per molti italiani, però, le vacanze non sono solo una questione di soldi: sono soprattutto un momento per riposare e passare del tempo con la famiglia e gli amici.",
-            "point": "'per + infinito' per esprimere lo scopo",
-            "explanation": "'Per riposare' e 'per passare del tempo' indicano il motivo o lo scopo delle vacanze.",
-            "why_tricky": "Si dimentica facilmente 'per' e si mette un altro connettivo davanti all'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "il giro d'affari",
-            "meaning": "la quantità totale di denaro che muove un'attività",
-            "example": "Il giro d'affari del turismo estivo è enorme."
-          },
-          {
-            "phrase": "una questione di soldi",
-            "meaning": "un problema che riguarda solo il denaro",
-            "example": "Per lui non è una questione di soldi, ma di tempo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove passano le vacanze la maggior parte degli italiani?",
-            "type": "open"
-          },
-          {
-            "q": "Quanto spende in media ogni persona per le vacanze?",
-            "type": "open"
-          },
-          {
-            "q": "Perché le vacanze sono importanti per l'economia italiana?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Dove ti piace passare le vacanze e perché? Preferisci il mare, la montagna o la città? Scrivi qualche frase."
       }
     }
   ]

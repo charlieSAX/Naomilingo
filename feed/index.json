@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-09T20:12:41.775Z",
+  "generated_at": "2026-08-10T08:12:22Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-10-los-angeles-cibo-decomposizione",
+      "title": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
+      "source": "ANSA",
+      "date": "2026-08-10",
+      "level": "A2-B1",
+      "topics": [
+        "mondo",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-los-angeles-cibo-decomposizione",
+        "revision": 1,
+        "meta": {
+          "title": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/08/09/milioni-di-chili-di-cibo-in-decomposizione-un-quartiere-di-los-angeles-soffoca_05487f05-6cd8-4f93-9777-b9b0c40b4661.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "mondo",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In one neighbourhood of Los Angeles the air has become impossible to breathe. After a fire in a large warehouse, millions of kilos of food were left where they were and are now rotting. Residents say the smell gets into their homes even with the windows shut. Along with the stench have come a lot of flies and a lot of rats, and many people no longer open their windows in the evening.\n\nThe families in the area are asking the city to take the food away as soon as possible. It is not a simple job: it needs lorries, permits and a great deal of money. In the meantime some people prefer to sleep at a friend's or a relative's house, because the situation is hard to bear, above all with the summer heat. Many are also worried about the health of children and elderly people.",
+        "resumen_es": "In un quartiere di Los Angeles l'aria è diventata impossibile da respirare. Dopo l'incendio di un grande magazzino, milioni di chili di cibo sono rimasti sul posto e adesso stanno marcendo. Gli abitanti raccontano che l'odore entra nelle case anche con le finestre chiuse. Insieme alla puzza sono arrivate molte mosche e molti topi, e tante persone la sera non aprono più le finestre.\n\nLe famiglie della zona chiedono al Comune di portare via il cibo il prima possibile. Non è un lavoro semplice: servono camion, permessi e molti soldi. Intanto alcune persone preferiscono dormire a casa di amici o parenti, perché la situazione è difficile da sopportare, soprattutto con il caldo dell'estate. Molti sono preoccupati anche per la salute dei bambini e delle persone anziane.",
+        "vocab": [
+          {
+            "front": "il quartiere",
+            "pos": "noun",
+            "back": "neighbourhood, district",
+            "example": "Abito in un quartiere tranquillo.",
+            "tier": "B1"
+          },
+          {
+            "front": "respirare",
+            "pos": "verb",
+            "back": "to breathe",
+            "example": "Qui si respira bene, c'è aria pulita.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'incendio",
+            "pos": "noun",
+            "back": "fire, blaze",
+            "example": "L'incendio è durato tutta la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "il magazzino",
+            "pos": "noun",
+            "back": "warehouse",
+            "example": "Il magazzino è pieno di scatole.",
+            "tier": "B1"
+          },
+          {
+            "front": "marcire",
+            "pos": "verb",
+            "back": "to rot",
+            "example": "La frutta marcisce con questo caldo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la puzza",
+            "pos": "noun",
+            "back": "stench, bad smell",
+            "example": "C'è una puzza terribile in cucina.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mosca",
+            "pos": "noun",
+            "back": "fly",
+            "example": "D'estate ci sono troppe mosche.",
+            "tier": "A2"
+          },
+          {
+            "front": "il topo",
+            "pos": "noun",
+            "back": "rat, mouse",
+            "example": "Ho visto un topo in cortile.",
+            "tier": "A2"
+          },
+          {
+            "front": "portare via",
+            "pos": "phrase",
+            "back": "to take away",
+            "example": "Puoi portare via questi sacchi?",
+            "tier": "A2"
+          },
+          {
+            "front": "il permesso",
+            "pos": "noun",
+            "back": "permit, permission",
+            "example": "Serve un permesso per lavorare qui.",
+            "tier": "B1"
+          },
+          {
+            "front": "intanto",
+            "pos": "adv",
+            "back": "meanwhile",
+            "example": "Intanto io preparo la cena.",
+            "tier": "B1"
+          },
+          {
+            "front": "sopportare",
+            "pos": "verb",
+            "back": "to bear, put up with",
+            "example": "Non sopporto il rumore dei lavori.",
+            "tier": "B1"
+          },
+          {
+            "front": "preoccupato per",
+            "pos": "adj",
+            "back": "worried about",
+            "example": "Sono preoccupata per mio figlio.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli abitanti raccontano che l'odore entra nelle case anche con le finestre chiuse.",
+            "point": "indicative after 'raccontare che'",
+            "explanation": "Verbs that simply report a fact, like 'raccontare', 'dire' and 'spiegare', take the indicative: 'entra'. The subjunctive appears with opinion or doubt verbs instead.",
+            "why_tricky": "Learners often reach for the subjunctive after any 'che', but here the speakers are stating something they see every day."
+          },
+          {
+            "sentence": "Insieme alla puzza sono arrivate molte mosche e molti topi, e tante persone la sera non aprono più le finestre.",
+            "point": "passato prossimo with 'essere' and agreement of the participle",
+            "explanation": "'Arrivare' is a verb of motion, so it takes 'essere'. The participle agrees with the subject closest to it, here the feminine plural 'molte mosche', giving 'arrivate'.",
+            "why_tricky": "With a mixed subject the agreement is not obvious, and learners default to 'hanno arrivato', which does not exist."
+          },
+          {
+            "sentence": "Non è un lavoro semplice: servono camion, permessi e molti soldi.",
+            "point": "'servire' used impersonally",
+            "explanation": "When 'servire' means 'to be needed', the thing needed is the grammatical subject, so the verb agrees with it: 'servono camion'.",
+            "why_tricky": "English says 'you need lorries', with the person as subject, so learners write 'serviamo camion'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "il prima possibile",
+            "meaning": "as soon as possible",
+            "example": "Rispondimi il prima possibile, per favore."
+          },
+          {
+            "phrase": "non poterne più",
+            "meaning": "to have had enough, to not be able to take it any more",
+            "example": "Gli abitanti non ne possono più di questo odore."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché l'aria del quartiere è diventata così cattiva?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono le famiglie della zona?",
+            "type": "open"
+          },
+          {
+            "q": "Perché non è facile portare via il cibo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nella tua città c'è un problema di rifiuti o di cattivi odori? Scrivi un breve testo su che cosa dovrebbe fare il Comune."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-10-mondiali-atletica-under-20-tre-ori",
+      "title": "Atletica, Mondiali under 20: il magico sabato dei tre ori",
+      "source": "Rai News",
+      "date": "2026-08-10",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "giovani"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-mondiali-atletica-under-20-tre-ori",
+        "revision": 1,
+        "meta": {
+          "title": "Atletica, Mondiali under 20: il magico sabato dei tre ori",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/atleica-mondiali-under20-il-magico-sabato-dei-tre-marco-tripisciano-raisport-video-7def4ab3-e335-47e6-9cee-25f4437338e3.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "sport",
+            "giovani"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "It was an unforgettable Saturday for Italian athletics at the under 20 World Championships. In the afternoon Serena Di Fabio won the 5000 metres walk, and later on came the gold medals of Daniele Inzoli and of the relay quartet made up of Fermin Galvan, Valensin, Pagliarini and Doualla. Three titles in a single day is a rare result for such a young team.\n\nCoaches explain that these victories do not arrive by chance. Behind them there are years of training, regional clubs that work with children, and a school system that increasingly makes room for sport. Many of these athletes are still studying, and now they will have to balance university and training. If they keep growing at this pace, some of them could be at the senior championships within a few seasons.",
+        "resumen_es": "È stato un sabato indimenticabile per l'atletica italiana ai Mondiali under 20. Nel pomeriggio Serena Di Fabio ha vinto la marcia sui 5000 metri, e più tardi sono arrivati gli ori di Daniele Inzoli e del quartetto della staffetta formato da Fermin Galvan, Valensin, Pagliarini e Doualla. Tre titoli in un giorno solo sono un risultato raro per una squadra così giovane.\n\nGli allenatori spiegano che queste vittorie non arrivano per caso. Dietro ci sono anni di allenamento, società sportive locali che lavorano con i bambini e una scuola che dà sempre più spazio allo sport. Molti di questi atleti studiano ancora e adesso dovranno mettere insieme università e allenamenti. Se continuano a crescere così, qualcuno di loro potrebbe essere ai campionati assoluti tra poche stagioni.",
+        "vocab": [
+          {
+            "front": "indimenticabile",
+            "pos": "adj",
+            "back": "unforgettable",
+            "example": "È stata una serata indimenticabile.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'atletica",
+            "pos": "noun",
+            "back": "athletics, track and field",
+            "example": "Mia sorella fa atletica da tre anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "la marcia",
+            "pos": "noun",
+            "back": "race walking",
+            "example": "La marcia è una disciplina molto dura.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'oro",
+            "pos": "noun",
+            "back": "gold, gold medal",
+            "example": "Ha vinto l'oro nei 100 metri.",
+            "tier": "A2"
+          },
+          {
+            "front": "la staffetta",
+            "pos": "noun",
+            "back": "relay race",
+            "example": "La staffetta è arrivata seconda.",
+            "tier": "B1"
+          },
+          {
+            "front": "il quartetto",
+            "pos": "noun",
+            "back": "quartet, foursome",
+            "example": "Il quartetto ha battuto il record italiano.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'allenatore",
+            "pos": "noun",
+            "back": "coach",
+            "example": "L'allenatore ha parlato ai giornalisti.",
+            "tier": "A2"
+          },
+          {
+            "front": "per caso",
+            "pos": "phrase",
+            "back": "by chance",
+            "example": "L'ho incontrato per caso in stazione.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'allenamento",
+            "pos": "noun",
+            "back": "training session",
+            "example": "Ho allenamento tre volte a settimana.",
+            "tier": "A2"
+          },
+          {
+            "front": "la società sportiva",
+            "pos": "phrase",
+            "back": "sports club",
+            "example": "La società sportiva del paese ha cento iscritti.",
+            "tier": "B1"
+          },
+          {
+            "front": "dare spazio a",
+            "pos": "phrase",
+            "back": "to make room for",
+            "example": "La scuola dà spazio anche alla musica.",
+            "tier": "B1"
+          },
+          {
+            "front": "mettere insieme",
+            "pos": "phrase",
+            "back": "to combine, juggle",
+            "example": "È difficile mettere insieme lavoro e famiglia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stagione",
+            "pos": "noun",
+            "back": "season",
+            "example": "La prossima stagione sarà più dura.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nel pomeriggio Serena Di Fabio ha vinto la marcia sui 5000 metri, e più tardi sono arrivati gli ori di Daniele Inzoli e del quartetto della staffetta formato da Fermin Galvan, Valensin, Pagliarini e Doualla.",
+            "point": "choosing 'avere' or 'essere' in the passato prossimo",
+            "explanation": "'Vincere' takes a direct object, so it uses 'avere': 'ha vinto'. 'Arrivare' is a verb of movement and uses 'essere', with the participle agreeing: 'sono arrivati gli ori'.",
+            "why_tricky": "Both are past tenses in English, so nothing in the meaning tells you which auxiliary Italian wants."
+          },
+          {
+            "sentence": "Gli allenatori spiegano che queste vittorie non arrivano per caso.",
+            "point": "negation with 'non' before the verb",
+            "explanation": "In Italian 'non' goes immediately before the conjugated verb, and no auxiliary like English 'do' is added.",
+            "why_tricky": "Learners coming from English try to insert an extra helping verb or place 'non' after the subject of the subordinate clause."
+          },
+          {
+            "sentence": "Se continuano a crescere così, qualcuno di loro potrebbe essere ai campionati assoluti tra poche stagioni.",
+            "point": "real conditional with present indicative plus conditional",
+            "explanation": "For a likely future situation Italian uses 'se' with the present indicative and a conditional in the main clause to soften the prediction.",
+            "why_tricky": "Learners often put a subjunctive after 'se', which belongs only to unreal or hypothetical conditions."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "salire sul podio",
+            "meaning": "to finish in the top three",
+            "example": "L'Italia è salita sul podio in tre gare."
+          },
+          {
+            "phrase": "dare il meglio di sé",
+            "meaning": "to give one's best",
+            "example": "In finale ha dato il meglio di sé."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali sono i tre ori vinti dall'Italia in quella giornata?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo gli allenatori, perché arrivano questi risultati?",
+            "type": "open"
+          },
+          {
+            "q": "Quale difficoltà hanno molti di questi giovani atleti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te la scuola deve dare più spazio allo sport? Scrivi un breve testo con due o tre motivi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-10-olivia-wilde-the-invite",
+      "title": "Olivia Wilde, in The Invite con Cruz, Norton e Rogen come un gruppo jazz",
+      "source": "ANSA",
+      "date": "2026-08-10",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-10-olivia-wilde-the-invite",
+        "revision": 1,
+        "meta": {
+          "title": "Olivia Wilde, in The Invite con Cruz, Norton e Rogen come un gruppo jazz",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/08/olivia-wilde-in-the-invite-con-cruz-norton-e-rogen-come-un-gruppo_5f2766a4-2ab2-417f-9c67-305759cf43c9.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-10",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Olivia Wilde is back behind the camera with a new film called The Invite, alongside Penelope Cruz, Edward Norton and Seth Rogen. The actress and director says it is a film that explores the complexity of relationships, and she compares the group of actors to a jazz band: everyone has a solo, but the music only works if they listen to one another.\n\nWilde began as an actress and then moved on to directing, a path that many people in Hollywood are following today. Films with a small cast and a lot of dialogue cost less than big action productions and often do well at festivals. For the audience it is a chance to see well known faces in more intimate stories. The release date has not been announced yet.",
+        "resumen_es": "Olivia Wilde torna dietro la macchina da presa con un nuovo film, The Invite, insieme a Penelope Cruz, Edward Norton e Seth Rogen. L'attrice e regista dice che è un film che esplora la complessità delle relazioni, e paragona il gruppo di attori a una band jazz: ognuno ha il suo assolo, ma la musica funziona solo se si ascoltano a vicenda.\n\nWilde ha cominciato come attrice e poi è passata alla regia, una strada che oggi seguono molte persone a Hollywood. I film con pochi attori e molti dialoghi costano meno delle grandi produzioni d'azione e spesso vanno bene ai festival. Per il pubblico è l'occasione di vedere volti famosi in storie più intime. La data di uscita non è ancora stata annunciata.",
+        "vocab": [
+          {
+            "front": "la macchina da presa",
+            "pos": "noun",
+            "back": "film camera",
+            "example": "La macchina da presa era molto vicina agli attori.",
+            "tier": "B1"
+          },
+          {
+            "front": "il regista / la regista",
+            "pos": "noun",
+            "back": "director",
+            "example": "La regista ha vinto un premio a Venezia.",
+            "tier": "A2"
+          },
+          {
+            "front": "esplorare",
+            "pos": "verb",
+            "back": "to explore",
+            "example": "Il libro esplora il tema della memoria.",
+            "tier": "B1"
+          },
+          {
+            "front": "paragonare a",
+            "pos": "verb",
+            "back": "to compare to",
+            "example": "Paragona la città a un grande giardino.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'assolo",
+            "pos": "noun",
+            "back": "solo (in music)",
+            "example": "L'assolo di tromba è bellissimo.",
+            "tier": "B1"
+          },
+          {
+            "front": "a vicenda",
+            "pos": "phrase",
+            "back": "one another, mutually",
+            "example": "Si aiutano a vicenda ogni giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "la regia",
+            "pos": "noun",
+            "back": "directing, direction",
+            "example": "È passato alla regia dopo dieci anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dialogo",
+            "pos": "noun",
+            "back": "dialogue",
+            "example": "I dialoghi del film sono molto naturali.",
+            "tier": "A2"
+          },
+          {
+            "front": "la produzione",
+            "pos": "noun",
+            "back": "production",
+            "example": "È una produzione italo francese.",
+            "tier": "B1"
+          },
+          {
+            "front": "andare bene",
+            "pos": "phrase",
+            "back": "to go well, do well",
+            "example": "Il film è andato bene al botteghino.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience",
+            "example": "Il pubblico ha applaudito a lungo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il volto",
+            "pos": "noun",
+            "back": "face",
+            "example": "È un volto molto noto in televisione.",
+            "tier": "B1"
+          },
+          {
+            "front": "la data di uscita",
+            "pos": "phrase",
+            "back": "release date",
+            "example": "La data di uscita è prevista in autunno.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'attrice e regista dice che è un film che esplora la complessità delle relazioni, e paragona il gruppo di attori a una band jazz: ognuno ha il suo assolo, ma la musica funziona solo se si ascoltano a vicenda.",
+            "point": "the relative pronoun 'che' as subject",
+            "explanation": "'Che' works for both people and things and for subject and object. Here 'che esplora' has 'un film' as its subject, so the verb is third person singular.",
+            "why_tricky": "Learners sometimes swap in 'chi' or 'cui', but 'chi' means 'the one who' and 'cui' only follows a preposition."
+          },
+          {
+            "sentence": "Wilde ha cominciato come attrice e poi è passata alla regia, una strada che oggi seguono molte persone a Hollywood.",
+            "point": "participle agreement with 'essere' verbs",
+            "explanation": "'Passare' in the sense of moving on takes 'essere', so the participle agrees with the female subject: 'è passata'. 'Cominciare' here takes 'avere' and stays invariable.",
+            "why_tricky": "Two verbs in the same sentence use two different auxiliaries, and only one of them changes its ending."
+          },
+          {
+            "sentence": "La data di uscita non è ancora stata annunciata.",
+            "point": "passive voice in the passato prossimo",
+            "explanation": "The passive is built with 'essere' plus the past participle, and in a compound tense you get 'è stata annunciata', with both participles agreeing with the feminine subject.",
+            "why_tricky": "The double participle looks like a mistake to learners, and the position of 'ancora' between the auxiliaries is easy to get wrong."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dietro le quinte",
+            "meaning": "behind the scenes",
+            "example": "Il documentario mostra la vita dietro le quinte."
+          },
+          {
+            "phrase": "fare il pieno di consensi",
+            "meaning": "to win widespread approval",
+            "example": "Il film ha fatto il pieno di consensi al festival."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi recita nel film The Invite insieme a Olivia Wilde?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la regista paragona il gruppo di attori a una band jazz?",
+            "type": "open"
+          },
+          {
+            "q": "Quali vantaggi hanno i film con pochi attori e molti dialoghi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci i film con molta azione o quelli con molti dialoghi? Scrivi un breve testo e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-08-09-assistente-google-gemini",
       "title": "L'IA manda in pensione l'Assistente Google, sostituito da Gemini dal 4 settembre",
@@ -6214,492 +6721,6 @@
           }
         ],
         "opinion_prompt": "Hai mai sentito un terremoto? Racconta la tua esperienza o di' che cosa faresti in caso di scossa."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-mostre-arte-weekend",
-      "title": "Le mostre del weekend, da Guttuso a Ligabue, Scipione e Zavattini",
-      "source": "ANSA",
-      "date": "2026-08-03",
-      "level": "A2-B1",
-      "topics": [
-        "arte",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-mostre-arte-weekend",
-        "revision": 1,
-        "meta": {
-          "title": "Le mostre del weekend, da Guttuso a Ligabue, Scipione e Zavattini",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/07/29/le-mostre-del-weekend-da-guttuso-a-ligabue-scipione-e-zavattini_c48f8a90-0f18-4495-84a2-09d662ab65c4.html",
-          "date_published": "2026-07-29",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "arte",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "This weekend in Italy there are many art exhibitions to visit. In Massa the public can admire the works of the great sculptors of the twentieth century. In Cannobio, on the other hand, the protagonists are the Neo Pop artists, with bright colours and modern shapes. There are options for every taste, from classic names to more recent authors.\n\nVisiting an exhibition is a pleasant way to spend time, especially when it is very hot. Museums are often cool and quiet, and they allow you to learn new things about the history of art. Many Italian cities organise cultural events during the summer to attract tourists and residents. If you like art, this is the right moment to discover an artist you do not know yet.",
-        "resumen_es": "Questo fine settimana in Italia ci sono molte mostre d'arte da visitare. A Massa il pubblico può ammirare le opere dei grandi scultori del Novecento. A Cannobio, invece, protagonisti sono gli artisti del Neo Pop, con colori vivaci e forme moderne. Ci sono proposte per tutti i gusti, dai nomi classici agli autori più recenti.\n\nVisitare una mostra è un modo piacevole di passare il tempo, soprattutto quando fa molto caldo. I musei sono spesso freschi e tranquilli, e permettono di imparare cose nuove sulla storia dell'arte. Molte città italiane organizzano eventi culturali durante l'estate per attirare turisti e cittadini. Se ti piace l'arte, questo è il momento giusto per scoprire un artista che non conosci ancora.",
-        "vocab": [
-          {
-            "front": "mostra",
-            "pos": "noun",
-            "back": "exhibition",
-            "example": "La mostra è aperta fino a settembre.",
-            "tier": "A2"
-          },
-          {
-            "front": "opera",
-            "pos": "noun",
-            "back": "work (of art)",
-            "example": "Questa opera è molto famosa.",
-            "tier": "A2"
-          },
-          {
-            "front": "scultore",
-            "pos": "noun",
-            "back": "sculptor",
-            "example": "Lo scultore lavora il marmo.",
-            "tier": "B1"
-          },
-          {
-            "front": "ammirare",
-            "pos": "verb",
-            "back": "to admire",
-            "example": "I turisti ammirano i quadri.",
-            "tier": "B1"
-          },
-          {
-            "front": "colori vivaci",
-            "pos": "phrase",
-            "back": "bright colours",
-            "example": "Il quadro ha colori vivaci.",
-            "tier": "A2"
-          },
-          {
-            "front": "forma",
-            "pos": "noun",
-            "back": "shape, form",
-            "example": "Le forme sono moderne e semplici.",
-            "tier": "A2"
-          },
-          {
-            "front": "gusto",
-            "pos": "noun",
-            "back": "taste",
-            "example": "C'è qualcosa per ogni gusto.",
-            "tier": "B1"
-          },
-          {
-            "front": "museo",
-            "pos": "noun",
-            "back": "museum",
-            "example": "Il museo è chiuso il lunedì.",
-            "tier": "A2"
-          },
-          {
-            "front": "fresco",
-            "pos": "adj",
-            "back": "cool, fresh",
-            "example": "Dentro il museo fa fresco.",
-            "tier": "A2"
-          },
-          {
-            "front": "imparare",
-            "pos": "verb",
-            "back": "to learn",
-            "example": "Al museo si imparano cose nuove.",
-            "tier": "A2"
-          },
-          {
-            "front": "evento culturale",
-            "pos": "phrase",
-            "back": "cultural event",
-            "example": "In estate ci sono molti eventi culturali.",
-            "tier": "B1"
-          },
-          {
-            "front": "scoprire",
-            "pos": "verb",
-            "back": "to discover",
-            "example": "Voglio scoprire un nuovo artista.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Massa il pubblico può ammirare le opere dei grandi scultori del Novecento.",
-            "point": "potere + infinito e preposizioni articolate",
-            "explanation": "Il verbo modale 'potere' è seguito dall'infinito; 'dei' e 'del' uniscono preposizione e articolo.",
-            "why_tricky": "Bisogna scegliere la preposizione articolata giusta secondo genere e numero del nome."
-          },
-          {
-            "sentence": "Visitare una mostra è un modo piacevole di passare il tempo, soprattutto quando fa molto caldo.",
-            "point": "infinito come soggetto e 'fa caldo'",
-            "explanation": "L'infinito 'visitare' funziona da soggetto della frase; per il tempo si dice 'fa caldo', non 'è caldo'.",
-            "why_tricky": "Lo studente tende a tradurre letteralmente 'it is hot' con 'è caldo'."
-          },
-          {
-            "sentence": "Se ti piace l'arte, questo è il momento giusto per scoprire un artista che non conosci ancora.",
-            "point": "verbo 'piacere' e periodo ipotetico reale",
-            "explanation": "'Piacere' concorda con la cosa che piace ('l'arte'); 'se + presente' introduce una condizione reale.",
-            "why_tricky": "'Piacere' funziona in modo diverso dall'inglese 'to like', con il soggetto rovesciato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per tutti i gusti",
-            "meaning": "something for everyone, for all tastes",
-            "example": "Il festival ha spettacoli per tutti i gusti."
-          },
-          {
-            "phrase": "il momento giusto",
-            "meaning": "the right moment",
-            "example": "Adesso è il momento giusto per partire."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quali mostre si possono visitare a Massa e a Cannobio?",
-            "type": "open"
-          },
-          {
-            "q": "Perché visitare un museo è piacevole quando fa caldo?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa organizzano molte città italiane durante l'estate?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace visitare le mostre? Descrivi un'opera d'arte o un museo che ti è piaciuto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-franco-baresi-milan",
-      "title": "Morto Franco Baresi, bandiera del Milan e della Nazionale",
-      "source": "ANSA",
-      "date": "2026-08-03",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "calcio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-franco-baresi-milan",
-        "revision": 1,
-        "meta": {
-          "title": "Morto Franco Baresi, bandiera del Milan e della Nazionale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/2026/07/31/morto-franco-baresi-bandiera-del-milan_1b73ea5b-b4e8-4a14-aaf4-12a756b6679b.html",
-          "date_published": "2026-07-31",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "sport",
-            "calcio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The world of football says goodbye to Franco Baresi, great captain of Milan and of the Italian national team. Baresi died at 66. He played for twenty years in the red-and-black shirt and became one of the strongest defenders in history. With Italy he won the 1982 World Cup, when he was still very young.\n\nBaresi was famous for his elegance and for his intelligence on the pitch. He knew how to read the game and to guide his teammates with calm and confidence. Many teams and many champions remembered him with affection on social media. For Milan fans he remains a 'bandiera', that is, a symbol of the club. His story teaches that talent and respect can always go together.",
-        "resumen_es": "Il mondo del calcio saluta Franco Baresi, grande capitano del Milan e della Nazionale italiana. Baresi è morto a 66 anni. Ha giocato per vent'anni con la maglia rossonera ed è diventato uno dei difensori più forti della storia. Con l'Italia ha vinto il Mondiale del 1982, quando era ancora molto giovane.\n\nBaresi era famoso per la sua eleganza e per la sua intelligenza in campo. Sapeva leggere il gioco e guidare i compagni con calma e sicurezza. Molte squadre e molti campioni lo hanno ricordato con affetto sui social. Per i tifosi del Milan resta una bandiera, cioè un simbolo della squadra. La sua storia insegna che il talento e il rispetto possono andare sempre insieme.",
-        "vocab": [
-          {
-            "front": "calcio",
-            "pos": "noun",
-            "back": "football",
-            "example": "Il calcio è lo sport più amato in Italia.",
-            "tier": "A2"
-          },
-          {
-            "front": "capitano",
-            "pos": "noun",
-            "back": "captain",
-            "example": "Il capitano guida la squadra.",
-            "tier": "A2"
-          },
-          {
-            "front": "maglia",
-            "pos": "noun",
-            "back": "shirt, jersey",
-            "example": "Indossa la maglia numero sei.",
-            "tier": "A2"
-          },
-          {
-            "front": "rossonero",
-            "pos": "adj",
-            "back": "red-and-black (Milan colours)",
-            "example": "I tifosi rossoneri sono tristi.",
-            "tier": "B1"
-          },
-          {
-            "front": "difensore",
-            "pos": "noun",
-            "back": "defender",
-            "example": "Era un difensore molto forte.",
-            "tier": "B1"
-          },
-          {
-            "front": "campo",
-            "pos": "noun",
-            "back": "field, pitch",
-            "example": "I giocatori entrano in campo.",
-            "tier": "A2"
-          },
-          {
-            "front": "compagno",
-            "pos": "noun",
-            "back": "teammate",
-            "example": "Aiutava sempre i suoi compagni.",
-            "tier": "A2"
-          },
-          {
-            "front": "tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "bandiera",
-            "pos": "noun",
-            "back": "flag; club legend (fig.)",
-            "example": "Per il club è una bandiera.",
-            "tier": "B1"
-          },
-          {
-            "front": "affetto",
-            "pos": "noun",
-            "back": "affection",
-            "example": "Tutti lo ricordano con affetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "eleganza",
-            "pos": "noun",
-            "back": "elegance",
-            "example": "Giocava con grande eleganza.",
-            "tier": "B1"
-          },
-          {
-            "front": "talento",
-            "pos": "noun",
-            "back": "talent",
-            "example": "Aveva un talento naturale.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Ha giocato per vent'anni con la maglia rossonera ed è diventato uno dei difensori più forti della storia.",
-            "point": "passato prossimo (avere/essere) e superlativo relativo",
-            "explanation": "'Giocare' usa 'avere', 'diventare' usa 'essere'; 'uno dei più forti' è un superlativo relativo.",
-            "why_tricky": "Bisogna scegliere l'ausiliare giusto e ricordare l'accordo del participio con 'essere'."
-          },
-          {
-            "sentence": "Sapeva leggere il gioco e guidare i compagni con calma e sicurezza.",
-            "point": "imperfetto 'sapeva' + sapere + infinito",
-            "explanation": "L'imperfetto descrive una capacità abituale nel passato; 'sapere + infinito' significa 'essere capace di'.",
-            "why_tricky": "'Sapeva' (capacità) è diverso da 'ha saputo' (ha scoperto qualcosa)."
-          },
-          {
-            "sentence": "Per i tifosi del Milan resta una bandiera, cioè un simbolo della squadra.",
-            "point": "'cioè' per spiegare e uso figurato di 'bandiera'",
-            "explanation": "'Cioè' introduce una spiegazione; qui 'bandiera' non è un oggetto ma un simbolo della squadra.",
-            "why_tricky": "Il significato figurato di 'bandiera' non si capisce dalla traduzione letterale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "leggere il gioco",
-            "meaning": "to read the game, anticipate the play",
-            "example": "Un bravo difensore sa leggere il gioco."
-          },
-          {
-            "phrase": "essere una bandiera",
-            "meaning": "to be a lifelong symbol of a club",
-            "example": "Totti è una bandiera della Roma."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi era Franco Baresi e per quale squadra ha giocato?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha vinto con la Nazionale italiana nel 1982?",
-            "type": "open"
-          },
-          {
-            "q": "Perché per i tifosi del Milan Baresi resta una bandiera?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Chi è il tuo sportivo preferito? Spiega perché lo ammiri e che cosa ti insegna."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-02-stelle-senza-eta",
-      "title": "Stelle senza età, dovrebbero essere antichissime ma sembrano giovani",
-      "source": "ANSA",
-      "date": "2026-08-02",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "spazio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-02-stelle-senza-eta",
-        "revision": 1,
-        "meta": {
-          "title": "Stelle senza età, dovrebbero essere antichissime ma sembrano giovani",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/07/28/stelle-senza-eta-dovrebbero-essere-antichissime-ma-sembrano-giovani-_9183f679-b9d6-48a3-859b-b3dea20b8412.html",
-          "date_published": "2026-08-02",
-          "date_processed": "2026-08-02",
-          "tags": [
-            "scienza",
-            "spazio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In the sky there are some very strange stars. According to scientists, these stars should be extremely old. In fact, they were born a very long time ago, at the beginning of the history of the universe. And yet, when astronomers observe them, they still seem young. This fact surprises many researchers. Their true origin, for the moment, remains a real puzzle.\n\nThe scholars are looking for an explanation for this mystery. Perhaps these stars received new energy from other nearby stars. Or perhaps, instead, they joined together and so became brighter. Understanding how they work is very important. In this way, scientists can study the universe and its long history better. For this reason, many telescopes keep observing the sky every night, and every new discovery opens other interesting questions.",
-        "resumen_es": "Nel cielo ci sono alcune stelle molto strane. Secondo gli scienziati, queste stelle dovrebbero essere antichissime. Sono nate infatti tanto tempo fa, all'inizio della storia dell'universo. Eppure, quando gli astronomi le osservano, sembrano ancora giovani. Questo fatto sorprende molti ricercatori. La loro vera origine, per il momento, resta un vero rompicapo.\n\nGli studiosi cercano una spiegazione per questo mistero. Forse queste stelle hanno ricevuto nuova energia da altre stelle vicine. Forse, invece, si sono unite tra loro e così sono diventate più luminose. Capire come funzionano è molto importante. In questo modo, gli scienziati possono studiare meglio l'universo e la sua lunga storia. Per questo motivo, molti telescopi continuano a osservare il cielo ogni notte, e ogni nuova scoperta apre altre domande interessanti.",
-        "vocab": [
-          {
-            "front": "la stella",
-            "pos": "noun",
-            "back": "star",
-            "example": "Di notte vedo tante stelle.",
-            "tier": "A2"
-          },
-          {
-            "front": "strano/a",
-            "pos": "adj",
-            "back": "strange",
-            "example": "Ho sentito un rumore strano.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo scienziato",
-            "pos": "noun",
-            "back": "scientist",
-            "example": "Lo scienziato studia il cielo.",
-            "tier": "A2"
-          },
-          {
-            "front": "antichissimo/a",
-            "pos": "adj",
-            "back": "very ancient, extremely old",
-            "example": "Questo castello è antichissimo.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascere",
-            "pos": "verb",
-            "back": "to be born",
-            "example": "Sono nata in Italia.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'universo",
-            "pos": "noun",
-            "back": "universe",
-            "example": "L'universo è molto grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "eppure",
-            "pos": "adv",
-            "back": "and yet, nevertheless",
-            "example": "È tardi, eppure non ho sonno.",
-            "tier": "B1"
-          },
-          {
-            "front": "osservare",
-            "pos": "verb",
-            "back": "to observe, watch",
-            "example": "Osservo gli uccelli dal balcone.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "Il ricercatore lavora in laboratorio.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rompicapo",
-            "pos": "noun",
-            "back": "puzzle, riddle",
-            "example": "Questo problema è un vero rompicapo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la spiegazione",
-            "pos": "noun",
-            "back": "explanation",
-            "example": "Cerco una spiegazione semplice.",
-            "tier": "A2"
-          },
-          {
-            "front": "luminoso/a",
-            "pos": "adj",
-            "back": "bright, luminous",
-            "example": "La luna è molto luminosa stanotte.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo gli scienziati, queste stelle dovrebbero essere antichissime.",
-            "point": "Il condizionale 'dovrebbero' per l'ipotesi",
-            "explanation": "'Dovrebbero' esprime una supposizione: qualcosa che ci si aspetta ma non è sicuro.",
-            "why_tricky": "Il condizionale qui non indica un consiglio, ma una probabilità o una previsione."
-          },
-          {
-            "sentence": "Eppure, quando gli astronomi le osservano, sembrano ancora giovani.",
-            "point": "Il pronome diretto 'le'",
-            "explanation": "'Le' sostituisce 'le stelle' ed evita di ripetere il nome.",
-            "why_tricky": "Il pronome va prima del verbo e deve concordare con il genere e il numero del nome."
-          },
-          {
-            "sentence": "La loro vera origine, per il momento, resta un vero rompicapo.",
-            "point": "L'aggettivo possessivo 'loro'",
-            "explanation": "'La loro' indica il possesso e non cambia mai forma, ma prende l'articolo.",
-            "why_tricky": "A differenza degli altri possessivi, 'loro' resta uguale al maschile e al femminile."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un vero rompicapo",
-            "meaning": "a real puzzle, something very hard to understand",
-            "example": "Montare questo mobile è stato un vero rompicapo."
-          },
-          {
-            "phrase": "tanto tempo fa",
-            "meaning": "a long time ago",
-            "example": "Ci siamo conosciuti tanto tempo fa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché queste stelle sorprendono gli scienziati?",
-            "type": "open"
-          },
-          {
-            "q": "Quali spiegazioni cercano gli studiosi?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è importante capire come funzionano le stelle?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi qualche frase sulle stelle e sullo spazio."
       }
     }
   ]
