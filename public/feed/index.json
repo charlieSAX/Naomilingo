@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-10T08:12:22Z",
+  "generated_at": "2026-08-11T08:17:59Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-11-eclissi-stelle-cadenti-agosto",
+      "title": "Eclissi di Sole e stelle cadenti accendono il cielo del 12 agosto",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "cielo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-eclissi-stelle-cadenti-agosto",
+        "revision": 1,
+        "meta": {
+          "title": "Eclissi di Sole e stelle cadenti accendono il cielo del 12 agosto",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/09/eclissi-di-sole-e-stelle-cadenti-accendono-il-cielo-del-12-agosto_f867d117-1dc2-428e-9326-357ec3bdeabb.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "scienza",
+            "cielo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "On 12 August the sky offers two shows in a single day. During the day there is an eclipse of the Sun: the Moon passes in front of our star and the light becomes weaker. At night, on the other hand, the shooting stars of August come back. The experts say that up to a hundred meteors an hour will be visible. It is one of the best events of the decade for anyone who loves looking at the sky.\n\nShooting stars are not real stars. They are small fragments left behind by a comet: when they enter the atmosphere they burn up and leave a bright trail. To see them properly you need a dark spot, far from the lights of the city, and a little patience. For the eclipse, on the other hand, the rule is different and very important: you never look at the Sun with the naked eye. Special glasses are needed, because ordinary sunglasses are not enough.",
+        "resumen_es": "Il 12 agosto il cielo offre due spettacoli in un giorno solo. Di giorno arriva un'eclissi di Sole: la Luna passa davanti alla nostra stella e la luce diventa più debole. Di notte, invece, tornano le stelle cadenti d'agosto. Gli esperti dicono che si potranno vedere fino a cento meteore all'ora. È uno degli appuntamenti migliori del decennio per chi ama guardare il cielo.\n\nLe stelle cadenti non sono vere stelle. Sono piccoli frammenti lasciati da una cometa: quando entrano nell'atmosfera bruciano e lasciano una scia luminosa. Per vederle bene servono un posto buio, lontano dalle luci della città, e un po' di pazienza. Per l'eclissi, invece, la regola è diversa e molto importante: non si guarda mai il Sole a occhi nudi. Servono occhiali speciali, perché i normali occhiali da sole non bastano.",
+        "vocab": [
+          {
+            "front": "l'eclissi",
+            "pos": "noun",
+            "back": "eclipse",
+            "example": "L'eclissi comincia poco dopo mezzogiorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stella cadente",
+            "pos": "noun",
+            "back": "shooting star",
+            "example": "Ho visto tre stelle cadenti in mezz'ora.",
+            "tier": "A2"
+          },
+          {
+            "front": "la meteora",
+            "pos": "noun",
+            "back": "meteor",
+            "example": "Questa notte si vedono molte meteore.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scia",
+            "pos": "noun",
+            "back": "trail, wake",
+            "example": "L'aereo lascia una scia bianca nel cielo.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cometa",
+            "pos": "noun",
+            "back": "comet",
+            "example": "La cometa passa vicino alla Terra molto raramente.",
+            "tier": "B1"
+          },
+          {
+            "front": "il frammento",
+            "pos": "noun",
+            "back": "fragment, piece",
+            "example": "Sul terreno c'erano piccoli frammenti di vetro.",
+            "tier": "B1"
+          },
+          {
+            "front": "bruciare",
+            "pos": "verb",
+            "back": "to burn",
+            "example": "Il legno brucia in fretta.",
+            "tier": "A2"
+          },
+          {
+            "front": "debole",
+            "pos": "adj",
+            "back": "weak, faint",
+            "example": "La luce era troppo debole per leggere.",
+            "tier": "A2"
+          },
+          {
+            "front": "a occhi nudi",
+            "pos": "phrase",
+            "back": "with the naked eye",
+            "example": "Questa stella si vede anche a occhi nudi.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "Un'ora non basta per finire il lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "servire",
+            "pos": "verb",
+            "back": "to be needed, to take (something)",
+            "example": "Per entrare serve il biglietto.",
+            "tier": "A2"
+          },
+          {
+            "front": "luminoso",
+            "pos": "adj",
+            "back": "bright, luminous",
+            "example": "La stanza è molto luminosa la mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "la pazienza",
+            "pos": "noun",
+            "back": "patience",
+            "example": "Ci vuole pazienza per imparare una lingua.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli esperti dicono che si potranno vedere fino a cento meteore all'ora.",
+            "point": "si passivante with a modal verb in the future",
+            "explanation": "Si potranno vedere means it will be possible to see, or literally they will be able to be seen. The verb agrees with meteore, which is plural, so it is potranno and not potrà.",
+            "why_tricky": "Learners keep the verb singular because si looks like a subject. In fact the real subject is the thing being seen, and it decides the ending."
+          },
+          {
+            "sentence": "Per vederle bene servono un posto buio, lontano dalle luci della città, e un po' di pazienza.",
+            "point": "servire in the sense of to be needed, plus a pronoun on the infinitive",
+            "explanation": "Servono is plural because two things are needed: un posto and un po' di pazienza. In vederle, the pronoun le refers to the stelle cadenti and attaches to the end of the infinitive.",
+            "why_tricky": "Servire looks like the English to serve, but here it works like occorrere. Also, with a bare infinitive the pronoun attaches to the end; only when there is a modal verb can it move in front instead, as in le posso vedere or posso vederle."
+          },
+          {
+            "sentence": "Per l'eclissi, invece, la regola è diversa e molto importante: non si guarda mai il Sole a occhi nudi.",
+            "point": "impersonal si with a double negative",
+            "explanation": "Non si guarda mai means one never looks. Italian needs both non before the verb and mai after it, and the impersonal si expresses a general rule that applies to everybody.",
+            "why_tricky": "In English one negative is enough, so learners write si guarda mai or non si guarda. Italian requires the pair."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "con il naso all'insù",
+            "meaning": "looking up, gazing skywards",
+            "example": "Tutti erano in piazza con il naso all'insù."
+          },
+          {
+            "phrase": "in un batter d'occhio",
+            "meaning": "in the blink of an eye",
+            "example": "La meteora è sparita in un batter d'occhio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali due spettacoli si possono vedere il 12 agosto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa sono in realtà le stelle cadenti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché non si deve guardare il Sole senza occhiali speciali?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace guardare il cielo di notte? Scrivi circa 80 parole: racconta dove andresti per vedere le stelle cadenti e con chi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-auto-caldo-danni-estate",
+      "title": "Pneumatici, batterie, interni e carrozzerie: l'auto si scioglie al sole",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "motori",
+        "vita quotidiana"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-auto-caldo-danni-estate",
+        "revision": 1,
+        "meta": {
+          "title": "Pneumatici, batterie, interni e carrozzerie: l'auto si scioglie al sole",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/08/10/pneumatici-batterie-interni-e-carrozzerie-lauto-si-sciogli-al-sole-_67c3c013-b3f9-42ce-a7be-f316d284cff5.html",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "motori",
+            "vita quotidiana"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Leaving the car in the sun for hours is not a good idea. According to a body shop association, the heat can damage the tyres, the battery, the seats and the paintwork, and in the worst cases the repairs cost thousands of euros. Inside the car the temperature rises very quickly, and the plastic and leather parts of the dashboard become dry and crack.\n\nThere are simple things that help. Parking in the shade or in a garage, using a sunshade on the windscreen and opening the windows for a minute before setting off is what really makes the difference. It is also worth checking the tyre pressure, because heat changes it, and never leaving bottles, lighters or electronic devices inside the car. And of course, children and animals must never be left in a parked car, not even for a few minutes.",
+        "resumen_es": "Lasciare l'auto al sole per ore non è una buona idea. Secondo un'associazione di carrozzieri, il caldo può rovinare le gomme, la batteria, i sedili e la vernice, e nei casi peggiori le riparazioni costano migliaia di euro. Dentro l'auto la temperatura sale molto in fretta, e le parti in plastica e in pelle del cruscotto diventano secche e si rompono.\n\nCi sono cose semplici che aiutano. Parcheggiare all'ombra o in garage, usare un parasole sul parabrezza e aprire i finestrini per un minuto prima di partire fa la differenza. Conviene anche controllare la pressione delle gomme, perché il caldo la cambia, e non lasciare mai bottiglie, accendini o apparecchi elettronici dentro l'auto. E naturalmente, bambini e animali non vanno mai lasciati in un'auto parcheggiata, neanche per pochi minuti.",
+        "vocab": [
+          {
+            "front": "le gomme",
+            "pos": "noun",
+            "back": "tyres (everyday word for pneumatici)",
+            "example": "Devo cambiare le gomme prima dell'inverno.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sedile",
+            "pos": "noun",
+            "back": "seat (in a vehicle)",
+            "example": "Il sedile di dietro è pieno di borse.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vernice",
+            "pos": "noun",
+            "back": "paint, paintwork",
+            "example": "Il sole ha rovinato la vernice del tetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cruscotto",
+            "pos": "noun",
+            "back": "dashboard",
+            "example": "Ho lasciato gli occhiali sul cruscotto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il parabrezza",
+            "pos": "noun",
+            "back": "windscreen",
+            "example": "Il parabrezza si è sporcato di insetti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il finestrino",
+            "pos": "noun",
+            "back": "car window",
+            "example": "Apri il finestrino, fa caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "parcheggiare",
+            "pos": "verb",
+            "back": "to park",
+            "example": "Ho parcheggiato all'ombra di un albero.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'ombra",
+            "pos": "phrase",
+            "back": "in the shade",
+            "example": "D'estate mangiamo sempre all'ombra.",
+            "tier": "A2"
+          },
+          {
+            "front": "rovinare",
+            "pos": "verb",
+            "back": "to ruin, to damage",
+            "example": "La pioggia ha rovinato la festa.",
+            "tier": "A2"
+          },
+          {
+            "front": "la riparazione",
+            "pos": "noun",
+            "back": "repair",
+            "example": "La riparazione costa più della macchina.",
+            "tier": "B1"
+          },
+          {
+            "front": "in fretta",
+            "pos": "phrase",
+            "back": "quickly, in a hurry",
+            "example": "Ho mangiato in fretta e sono uscito.",
+            "tier": "A2"
+          },
+          {
+            "front": "convenire",
+            "pos": "verb",
+            "back": "to be advisable, to be worth it",
+            "example": "Conviene partire presto per evitare il traffico.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'accendino",
+            "pos": "noun",
+            "back": "lighter",
+            "example": "Non lasciare l'accendino al sole.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Parcheggiare all'ombra o in garage, usare un parasole sul parabrezza e aprire i finestrini per un minuto prima di partire fa la differenza.",
+            "point": "infinitives used as the subject of a sentence",
+            "explanation": "Three infinitives, parcheggiare, usare and aprire, work together as one subject. Because they are taken as a single idea, the verb stays singular: fa la differenza, not fanno la differenza.",
+            "why_tricky": "English would use the -ing form here, and the singular verb after a list of three actions feels wrong until you see the whole group as one thing."
+          },
+          {
+            "sentence": "Conviene anche controllare la pressione delle gomme, perché il caldo la cambia, e non lasciare mai bottiglie, accendini o apparecchi elettronici dentro l'auto.",
+            "point": "conviene + infinitive, and the pronoun la",
+            "explanation": "Conviene here is impersonal and is followed by an infinitive: it is a good idea to check. The pronoun la stands for la pressione and goes before the conjugated verb cambia.",
+            "why_tricky": "Learners look for a subject for conviene and try to conjugate it. In this impersonal pattern it stays third person singular; it only agrees when a noun is the subject, as in ti convengono queste gomme."
+          },
+          {
+            "sentence": "E naturalmente, bambini e animali non vanno mai lasciati in un'auto parcheggiata, neanche per pochi minuti.",
+            "point": "andare + past participle as a passive with an obligation",
+            "explanation": "Non vanno lasciati means they must not be left. Using andare instead of essere in a passive adds the idea of a rule or a duty, and the participle lasciati agrees with the plural subject.",
+            "why_tricky": "With essere the sentence would just describe a fact. With andare it becomes an instruction, and that difference is invisible in the English translation."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare la differenza",
+            "meaning": "to be what really counts, to make the difference",
+            "example": "Un'ora di sonno in più fa la differenza."
+          },
+          {
+            "phrase": "avere le mani legate",
+            "meaning": "to have one's hands tied",
+            "example": "Il carrozziere ha le mani legate se il pezzo non arriva."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali parti dell'auto possono essere rovinate dal caldo?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli semplici dà il testo per proteggere la macchina?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è importante controllare la pressione delle gomme d'estate?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "In estate la tua città diventa molto calda? Scrivi circa 80 parole su come cambi le tue abitudini quando fa molto caldo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-itaca-turismo-odissea-nolan",
+      "title": "Itaca, l'isola greca pronta al boom turistico dopo il film \"Odissea\" di Nolan",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-itaca-turismo-odissea-nolan",
+        "revision": 1,
+        "meta": {
+          "title": "Itaca, l'isola greca pronta al boom turistico dopo il film \"Odissea\" di Nolan",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/08/10/itaca-lisola-greca-pronta-al-boom-turistico-dopo-il-film-odissea-di-nolan_c3c90cd2-f13c-4305-b42c-45d065c6a1c1.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "viaggi",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Ithaca is a small Greek island, famous above all for one reason: it is the island of Ulysses, the hero of the Odyssey. After Christopher Nolan's film based on Homer's poem, the island is getting ready to receive many more tourists. In the shops there are souvenirs that recall the journey of Ulysses, and the blue sea does the rest. For the local people it is an important opportunity.\n\nThe phenomenon is not new. When a film or a series is a success, the place where it was shot or where the story is set immediately becomes a fashionable destination. This brings work and money, but problems too: too many people, higher prices and little water in summer. Small islands are the most fragile. That is why many people are asking for slow tourism, spread across the whole year and not only in August.",
+        "resumen_es": "Itaca è una piccola isola greca, famosa soprattutto per un motivo: è l'isola di Ulisse, l'eroe dell'Odissea. Dopo il film di Christopher Nolan dedicato al poema di Omero, l'isola si prepara a ricevere molti più turisti. Nei negozi ci sono souvenir che ricordano il viaggio di Ulisse, e il mare blu fa il resto. Per gli abitanti è un'occasione importante.\n\nIl fenomeno non è nuovo. Quando un film o una serie ha successo, il luogo delle riprese o della storia diventa subito una meta di moda. Questo porta lavoro e soldi, ma anche problemi: troppa gente, prezzi più alti e poca acqua d'estate. Le isole piccole sono le più fragili. Per questo molti chiedono un turismo lento, distribuito su tutto l'anno e non solo in agosto.",
+        "vocab": [
+          {
+            "front": "l'isola",
+            "pos": "noun",
+            "back": "island",
+            "example": "D'estate andiamo sempre in un'isola piccola.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'eroe",
+            "pos": "noun",
+            "back": "hero",
+            "example": "Ulisse è l'eroe più famoso della letteratura greca.",
+            "tier": "A2"
+          },
+          {
+            "front": "il poema",
+            "pos": "noun",
+            "back": "long narrative poem, epic",
+            "example": "Il poema racconta un viaggio lunghissimo.",
+            "tier": "B1"
+          },
+          {
+            "front": "le riprese",
+            "pos": "noun",
+            "back": "filming, the shoot",
+            "example": "Le riprese sono durate due mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la meta",
+            "pos": "noun",
+            "back": "destination",
+            "example": "La Sicilia è una meta perfetta per settembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli abitanti",
+            "pos": "noun",
+            "back": "the inhabitants, the local people",
+            "example": "Gli abitanti del paese sono meno di trecento.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'occasione",
+            "pos": "noun",
+            "back": "opportunity, chance",
+            "example": "È un'occasione che non capita spesso.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere successo",
+            "pos": "phrase",
+            "back": "to be a success",
+            "example": "Il suo ristorante ha avuto molto successo.",
+            "tier": "A2"
+          },
+          {
+            "front": "di moda",
+            "pos": "phrase",
+            "back": "fashionable, in fashion",
+            "example": "Questo quartiere è molto di moda adesso.",
+            "tier": "A2"
+          },
+          {
+            "front": "fragile",
+            "pos": "adj",
+            "back": "fragile, delicate",
+            "example": "L'ambiente dell'isola è molto fragile.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fenomeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "È un fenomeno che vediamo in tutta Europa.",
+            "tier": "B1"
+          },
+          {
+            "front": "ricordare",
+            "pos": "verb",
+            "back": "to remind of, to recall",
+            "example": "Questo posto mi ricorda la mia infanzia.",
+            "tier": "A2"
+          },
+          {
+            "front": "troppa gente",
+            "pos": "phrase",
+            "back": "too many people",
+            "example": "In agosto c'è troppa gente in centro.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Quando un film o una serie ha successo, il luogo delle riprese o della storia diventa subito una meta di moda.",
+            "point": "quando + present tense for a general truth",
+            "explanation": "Both verbs stay in the present, ha and diventa, because the sentence describes something that happens every time, not one particular event. Note also the singular ha after un film o una serie, since only one of the two is meant.",
+            "why_tricky": "English uses the present here as well, but learners are tempted to put a future in the main clause, as they would after quando in a sentence about a single future event."
+          },
+          {
+            "sentence": "Itaca è una piccola isola greca, famosa soprattutto per un motivo: è l'isola di Ulisse, l'eroe dell'Odissea.",
+            "point": "articulated prepositions and the apostrophe before a vowel",
+            "explanation": "Dell'Odissea is di plus la, joined into one word and then shortened before a vowel. The same happens with l'isola and l'eroe, where lo and la lose their vowel.",
+            "why_tricky": "There are seven of these joined forms for di alone (del, dello, dell', della, dei, degli, delle), and choosing the right one means getting the gender and number of the noun right first."
+          },
+          {
+            "sentence": "Per questo molti chiedono un turismo lento, distribuito su tutto l'anno e non solo in agosto.",
+            "point": "past participle used as an adjective",
+            "explanation": "Distribuito is a past participle working as an adjective describing turismo, so it takes the masculine singular ending. If it described le vacanze it would become distribuite.",
+            "why_tricky": "It looks like part of a verb tense, so learners hunt for a missing essere or avere. Here it simply describes the noun and must agree with it."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare il tutto esaurito",
+            "meaning": "to sell out, to be fully booked",
+            "example": "Gli hotel dell'isola hanno fatto il tutto esaurito."
+          },
+          {
+            "phrase": "essere sulla bocca di tutti",
+            "meaning": "to be on everyone's lips",
+            "example": "Dopo il film, Itaca è sulla bocca di tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Itaca è un'isola famosa?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa succede a un luogo quando un film ha successo?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi porta il turismo di massa alle isole piccole?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Sei mai andato in un posto perché lo avevi visto in un film o in una serie? Scrivi circa 80 parole: dove ti piacerebbe andare e perché."
+      }
+    },
     {
       "pack_id": "feed-2026-08-10-los-angeles-cibo-decomposizione",
       "title": "Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca",
@@ -6214,513 +6721,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, la scuola deve vietare il telefono in classe? Scrivi circa 100 parole con almeno due motivi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-carta-identita-elettronica",
-      "title": "All'estero solo con la carta d'identità elettronica",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "documenti"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-carta-identita-elettronica",
-        "revision": 1,
-        "meta": {
-          "title": "All'estero solo con la carta d'identità elettronica",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/08/03/da-oggi-la-carta-didentita-cartacea-non-e-piu-valida-per-espatrio_99359be0-f8d3-4183-b00e-85b6514883f5.html",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "viaggi",
-            "documenti"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "From Monday the paper identity card is no longer valid for travelling abroad. To leave Italy you need the electronic identity card, the one with the microchip, or else a passport. The rule comes from the European Union and applies to all Italian citizens. Anyone who still has the old document has to ask their local council for a new one.\n\nIn many councils, however, there are long waiting lists. For this reason councils will be able to issue a temporary document to people with an urgent trip. The advice is simple: check the expiry date of your document straight away and book the appointment in advance, without waiting until the last moment. Anyone travelling with an invalid document risks being left behind at the airport. Airlines are also reminding passengers of these rules.",
-        "resumen_es": "Da lunedì la carta d'identità di carta non vale più per viaggiare all'estero. Per uscire dall'Italia serve la carta d'identità elettronica, quella con il microchip, oppure il passaporto. La regola arriva dall'Unione Europea e riguarda tutti i cittadini italiani. Chi ha ancora il vecchio documento deve chiederne uno nuovo al proprio Comune.\n\nIn molti Comuni, però, ci sono liste d'attesa lunghe. Per questo motivo i Comuni potranno rilasciare un documento provvisorio a chi ha un viaggio urgente. Il consiglio è semplice: controllare subito la scadenza del documento e prenotare l'appuntamento con anticipo, senza aspettare l'ultimo momento. Chi parte con un documento non valido rischia di restare a terra in aeroporto. Anche le compagnie aeree ricordano queste regole ai passeggeri.",
-        "vocab": [
-          {
-            "front": "la carta d'identità",
-            "pos": "noun",
-            "back": "identity card",
-            "example": "Ho perso la carta d'identità in vacanza.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'estero",
-            "pos": "adv",
-            "back": "abroad",
-            "example": "Mio fratello lavora all'estero da due anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "valere",
-            "pos": "verb",
-            "back": "to be valid, to count",
-            "example": "Questo biglietto vale solo oggi.",
-            "tier": "B1"
-          },
-          {
-            "front": "servire",
-            "pos": "verb",
-            "back": "to be needed",
-            "example": "Per entrare serve la prenotazione.",
-            "tier": "A2"
-          },
-          {
-            "front": "riguardare",
-            "pos": "verb",
-            "back": "to concern, to apply to",
-            "example": "La novità riguarda tutti gli studenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il Comune",
-            "pos": "noun",
-            "back": "local council, town hall",
-            "example": "Devo andare in Comune per un certificato.",
-            "tier": "B1"
-          },
-          {
-            "front": "la lista d'attesa",
-            "pos": "noun",
-            "back": "waiting list",
-            "example": "Siamo in lista d'attesa da tre mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "rilasciare",
-            "pos": "verb",
-            "back": "to issue (a document)",
-            "example": "Il Comune rilascia il documento in due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "provvisorio",
-            "pos": "adj",
-            "back": "temporary, provisional",
-            "example": "Mi hanno dato un permesso provvisorio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scadenza",
-            "pos": "noun",
-            "back": "expiry date, deadline",
-            "example": "Controlla sempre la scadenza del latte.",
-            "tier": "B1"
-          },
-          {
-            "front": "prenotare",
-            "pos": "verb",
-            "back": "to book",
-            "example": "Ho prenotato un tavolo per otto persone.",
-            "tier": "A2"
-          },
-          {
-            "front": "con anticipo",
-            "pos": "phrase",
-            "back": "in advance, early",
-            "example": "Compra i biglietti con anticipo, costano meno.",
-            "tier": "B1"
-          },
-          {
-            "front": "rischiare di",
-            "pos": "verb",
-            "back": "to risk doing something",
-            "example": "Rischi di perdere il treno.",
-            "tier": "B1"
-          },
-          {
-            "front": "il passeggero",
-            "pos": "noun",
-            "back": "passenger",
-            "example": "I passeggeri devono restare seduti.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Chi ha ancora il vecchio documento deve chiederne uno nuovo al proprio Comune.",
-            "point": "The particle ne replacing 'of it'",
-            "explanation": "'Ne' stands for 'di questo documento', so 'chiederne uno nuovo' means 'to ask for a new one of them'.",
-            "why_tricky": "English simply says 'a new one' with nothing extra, so learners drop 'ne' and the sentence sounds incomplete in Italian."
-          },
-          {
-            "sentence": "Per questo motivo i Comuni potranno rilasciare un documento provvisorio a chi ha un viaggio urgente.",
-            "point": "Simple future of potere",
-            "explanation": "'Potranno' is the future of 'potere' and expresses a permission that starts in the future, common in news about new rules.",
-            "why_tricky": "The stem changes to 'potr-', so learners who expect a regular form produce 'poteranno'."
-          },
-          {
-            "sentence": "Chi parte con un documento non valido rischia di restare a terra in aeroporto.",
-            "point": "rischiare di plus infinitive",
-            "explanation": "Verbs like rischiare, cercare and decidere need the preposition 'di' before a following infinitive.",
-            "why_tricky": "English uses an -ing form with no preposition, so learners write 'rischia restare'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "restare a terra",
-            "meaning": "to be left behind, not to be allowed to board",
-            "example": "Sono arrivati tardi al check-in e sono restati a terra."
-          },
-          {
-            "phrase": "all'ultimo momento",
-            "meaning": "at the very last minute",
-            "example": "Prepara sempre la valigia all'ultimo momento."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quali documenti servono adesso per uscire dall'Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i Comuni possono dare un documento provvisorio?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il consiglio principale dell'articolo per chi deve viaggiare?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti è mai capitato un problema con un documento o un viaggio? Racconta in circa 100 parole che cosa è successo e come hai risolto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-megacostellazioni-satelliti",
-      "title": "Dalle megacostellazioni di satelliti il rischio di un far west spaziale",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "spazio"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-megacostellazioni-satelliti",
-        "revision": 1,
-        "meta": {
-          "title": "Dalle megacostellazioni di satelliti il rischio di un far west spaziale",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/04/dalle-megacostellazioni-di-satelliti-il-rischio-di-un-far-west-spaziale_242ffe9d-e29a-4099-b623-643cb88a1d8f.html",
-          "date_published": "2026-08-04",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "scienza",
-            "spazio"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Florence a group of astronomers has made an appeal about satellites. Today there are thousands of satellites around the Earth, and the big companies want to launch many more. These enormous groups are called megaconstellations. They are used to bring internet to the whole world, but they also create serious problems.\n\nThe first problem is light: the satellites shine in the sky and disturb the observations made by telescopes. The second is space full of rubbish, because every old object can collide with the others. This is why scientists are asking for shared international rules. Without common rules, they say, space risks becoming a sort of wild west. The discussion has only just begun and it involves governments, companies and researchers all over the world.",
-        "resumen_es": "A Firenze un gruppo di astronomi ha lanciato un appello sui satelliti. Oggi intorno alla Terra ci sono migliaia di satelliti, e le grandi aziende vogliono lanciarne molti altri. Questi gruppi enormi si chiamano megacostellazioni. Servono per portare internet in tutto il mondo, ma creano anche problemi seri.\n\nIl primo problema è la luce: i satelliti brillano nel cielo e disturbano le osservazioni dei telescopi. Il secondo è lo spazio pieno di rifiuti, perché ogni oggetto vecchio può scontrarsi con gli altri. Per questo gli scienziati chiedono regole internazionali condivise. Senza regole comuni, dicono, lo spazio rischia di diventare una specie di far west. La discussione è appena cominciata e coinvolge governi, aziende e ricercatori di tutto il mondo.",
-        "vocab": [
-          {
-            "front": "lanciare un appello",
-            "pos": "phrase",
-            "back": "to make an appeal",
-            "example": "I medici hanno lanciato un appello ai giovani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il satellite",
-            "pos": "noun",
-            "back": "satellite",
-            "example": "Il satellite manda immagini ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "intorno a",
-            "pos": "prep",
-            "back": "around",
-            "example": "Abbiamo camminato intorno al lago.",
-            "tier": "A2"
-          },
-          {
-            "front": "migliaia di",
-            "pos": "noun",
-            "back": "thousands of",
-            "example": "Migliaia di persone erano in piazza.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'azienda",
-            "pos": "noun",
-            "back": "company, firm",
-            "example": "Lavoro in un'azienda piccola.",
-            "tier": "A2"
-          },
-          {
-            "front": "brillare",
-            "pos": "verb",
-            "back": "to shine",
-            "example": "Le stelle brillano più forte in montagna.",
-            "tier": "B1"
-          },
-          {
-            "front": "disturbare",
-            "pos": "verb",
-            "back": "to disturb, to interfere with",
-            "example": "Il rumore disturba i vicini.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rifiuto",
-            "pos": "noun",
-            "back": "waste, piece of rubbish",
-            "example": "In città i rifiuti sono un problema serio.",
-            "tier": "B1"
-          },
-          {
-            "front": "scontrarsi con",
-            "pos": "verb",
-            "back": "to collide with",
-            "example": "L'auto si è scontrata con un camion.",
-            "tier": "B1"
-          },
-          {
-            "front": "condiviso",
-            "pos": "adj",
-            "back": "shared",
-            "example": "Abbiamo un obiettivo condiviso.",
-            "tier": "B1"
-          },
-          {
-            "front": "una specie di",
-            "pos": "phrase",
-            "back": "a sort of, a kind of",
-            "example": "È una specie di museo all'aperto.",
-            "tier": "B1"
-          },
-          {
-            "front": "appena",
-            "pos": "adv",
-            "back": "just, only just",
-            "example": "Il film è appena finito.",
-            "tier": "A2"
-          },
-          {
-            "front": "coinvolgere",
-            "pos": "verb",
-            "back": "to involve",
-            "example": "Il progetto coinvolge cinque scuole.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Oggi intorno alla Terra ci sono migliaia di satelliti, e le grandi aziende vogliono lanciarne molti altri.",
-            "point": "ne attached to an infinitive",
-            "explanation": "'Ne' means 'of them' and joins the end of the infinitive after a modal verb, giving 'lanciarne'.",
-            "why_tricky": "Learners either forget 'ne' or place it before 'vogliono', which sounds unnatural here."
-          },
-          {
-            "sentence": "Il secondo è lo spazio pieno di rifiuti, perché ogni oggetto vecchio può scontrarsi con gli altri.",
-            "point": "Reflexive infinitive after a modal verb",
-            "explanation": "With modal verbs the reflexive pronoun can stay attached to the infinitive, so 'può scontrarsi' is the natural order.",
-            "why_tricky": "Learners drop the reflexive 'si' entirely, since English 'collide' is not reflexive."
-          },
-          {
-            "sentence": "La discussione è appena cominciata e coinvolge governi, aziende e ricercatori di tutto il mondo.",
-            "point": "Passato prossimo with essere and agreement",
-            "explanation": "'Cominciare' takes 'essere' when it has no object, so the participle agrees with the feminine subject 'la discussione'.",
-            "why_tricky": "The same verb takes 'avere' when it does have an object, so learners must watch the sentence structure, not just the verb."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "una specie di far west",
-            "meaning": "a lawless situation where anything goes",
-            "example": "Senza controlli il mercato diventa una specie di far west."
-          },
-          {
-            "phrase": "lanciare un appello",
-            "meaning": "to publicly call on others to act",
-            "example": "L'associazione ha lanciato un appello per trovare volontari."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa sono le megacostellazioni e a che cosa servono?",
-            "type": "open"
-          },
-          {
-            "q": "Quali due problemi principali indicano gli astronomi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa chiedono gli scienziati per evitare il far west spaziale?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te è più importante avere internet ovunque o proteggere il cielo notturno? Scrivi circa 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-03-terremoto-campi-flegrei",
-      "title": "Terremoto nei Campi Flegrei di magnitudo 4.7, il più forte degli ultimi tempi",
-      "source": "ANSA",
-      "date": "2026-08-03",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-03-terremoto-campi-flegrei",
-        "revision": 1,
-        "meta": {
-          "title": "Terremoto nei Campi Flegrei di magnitudo 4.7, il più forte degli ultimi tempi",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/terremoto-nei-campi-flegrei-di-magnitudo-4.7-il-piu-forte-degli-ultimi_c40469ed-2529-4076-956e-d61621f42b86.html",
-          "date_published": "2026-07-31",
-          "date_processed": "2026-08-03",
-          "tags": [
-            "cronaca",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A strong earthquake hit Naples and the area of the Campi Flegrei. The magnitude was 4.7. It is the strongest tremor of recent times. Many people went out into the street out of fear. In some neighbourhoods the power went out and some local trains stopped.\n\nThe Campi Flegrei are a large volcanic area near Naples. For years the ground has been moving and slowly rising. For this reason earthquakes in this area are quite frequent. Experts study the phenomenon every day and monitor the situation with many instruments. The authorities invite residents to stay calm and to know what to do in case of a new tremor.",
-        "resumen_es": "Una forte scossa di terremoto ha colpito Napoli e la zona dei Campi Flegrei. La magnitudo è stata di 4,7. È la scossa più forte degli ultimi tempi. Molte persone sono uscite in strada per la paura. In alcuni quartieri è mancata la corrente e alcuni treni locali si sono fermati.\n\nI Campi Flegrei sono una grande area vulcanica vicino a Napoli. Da anni il terreno si muove e sale lentamente. Per questo motivo i terremoti in questa zona sono abbastanza frequenti. Gli esperti studiano il fenomeno ogni giorno e controllano la situazione con molti strumenti. Le autorità invitano gli abitanti a restare calmi e a sapere che cosa fare in caso di nuova scossa.",
-        "vocab": [
-          {
-            "front": "scossa",
-            "pos": "noun",
-            "back": "tremor, shock",
-            "example": "La scossa è durata pochi secondi.",
-            "tier": "B1"
-          },
-          {
-            "front": "terremoto",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "Il terremoto ha fatto paura a tutti.",
-            "tier": "A2"
-          },
-          {
-            "front": "colpire",
-            "pos": "verb",
-            "back": "to hit, to strike",
-            "example": "Il terremoto ha colpito la città.",
-            "tier": "B1"
-          },
-          {
-            "front": "magnitudo",
-            "pos": "noun",
-            "back": "magnitude",
-            "example": "La magnitudo era di 4,7.",
-            "tier": "B1"
-          },
-          {
-            "front": "paura",
-            "pos": "noun",
-            "back": "fear",
-            "example": "Le persone avevano molta paura.",
-            "tier": "A2"
-          },
-          {
-            "front": "quartiere",
-            "pos": "noun",
-            "back": "neighbourhood",
-            "example": "Abito in un quartiere tranquillo.",
-            "tier": "A2"
-          },
-          {
-            "front": "mancare la corrente",
-            "pos": "phrase",
-            "back": "the power goes out",
-            "example": "Ieri sera è mancata la corrente.",
-            "tier": "B1"
-          },
-          {
-            "front": "vulcanico",
-            "pos": "adj",
-            "back": "volcanic",
-            "example": "È una zona vulcanica molto attiva.",
-            "tier": "B1"
-          },
-          {
-            "front": "terreno",
-            "pos": "noun",
-            "back": "ground, land",
-            "example": "Il terreno si muove lentamente.",
-            "tier": "A2"
-          },
-          {
-            "front": "frequente",
-            "pos": "adj",
-            "back": "frequent",
-            "example": "I terremoti qui sono frequenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "strumento",
-            "pos": "noun",
-            "back": "instrument, tool",
-            "example": "Gli esperti usano strumenti speciali.",
-            "tier": "B1"
-          },
-          {
-            "front": "abitante",
-            "pos": "noun",
-            "back": "inhabitant, resident",
-            "example": "Gli abitanti sono usciti di casa.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In alcuni quartieri è mancata la corrente e alcuni treni locali si sono fermati.",
-            "point": "passato prossimo con 'essere'",
-            "explanation": "Verbi come 'mancare' e 'fermarsi' formano il passato prossimo con 'essere'; il participio concorda con il soggetto ('fermati').",
-            "why_tricky": "Bisogna scegliere tra 'essere' e 'avere' e ricordare l'accordo del participio."
-          },
-          {
-            "sentence": "Da anni il terreno si muove e sale lentamente.",
-            "point": "'da + tempo' con il presente",
-            "explanation": "In italiano si usa il presente con 'da' per un'azione iniziata nel passato e ancora in corso.",
-            "why_tricky": "In inglese si userebbe il present perfect, quindi lo studente può sbagliare tempo verbale."
-          },
-          {
-            "sentence": "Le autorità invitano gli abitanti a restare calmi e a sapere che cosa fare in caso di nuova scossa.",
-            "point": "invitare qualcuno a + infinito",
-            "explanation": "Il verbo 'invitare' regge la preposizione 'a' prima dell'infinito.",
-            "why_tricky": "La preposizione 'a' si ripete davanti a ogni infinito ('a restare', 'a sapere')."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "uscire in strada",
-            "meaning": "to rush out into the street",
-            "example": "Dopo la scossa tutti sono usciti in strada."
-          },
-          {
-            "phrase": "restare calmi",
-            "meaning": "to stay calm",
-            "example": "In caso di terremoto è importante restare calmi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo a Napoli e nei Campi Flegrei?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i terremoti in questa zona sono frequenti?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa chiedono le autorità agli abitanti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Hai mai sentito un terremoto? Racconta la tua esperienza o di' che cosa faresti in caso di scossa."
       }
     }
   ]
