@@ -1,345 +1,7 @@
 {
-  "generated_at": "2026-08-11T20:17:32Z",
+  "generated_at": "2026-08-11T20:22:04Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
-    {
-      "pack_id": "feed-2026-08-11-terremoto-colombia-bilancio",
-      "title": "Terremoto in Colombia, sale a 132 il bilancio dei morti",
-      "source": "ANSA",
-      "date": "2026-08-11",
-      "level": "A2-B1",
-      "topics": [
-        "terremoto",
-        "Colombia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-11-terremoto-colombia-bilancio",
-        "revision": 1,
-        "meta": {
-          "title": "Terremoto in Colombia, sale a 132 il bilancio dei morti",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/terremoto-in-colombia-sale-a-132-il-bilancio-dei-morti-_85fd3444-081f-41b1-a3e5-9d4b7fcf35a5.html",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-11",
-          "tags": [
-            "terremoto",
-            "Colombia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The death toll of the earthquake in Colombia keeps rising. The authorities are talking about a hundred and thirty-two dead and over five hundred injured people. Five cities are on red alert. In Cali the government has decided on a curfew and has sent soldiers into the streets. Many houses have collapsed or are not safe. For this reason a lot of people are sleeping outside, in the parks and in the squares. The rescue workers are still looking for someone under the rubble.\n\nColombia is in a very seismic area, so earthquakes are not rare. This one, however, was one of the strongest of recent years. Now the main problem is helping the people who have lost their home. The government has opened reception centres and asks for caution, because other tremors can arrive. In the coming days the engineers have to check the buildings, one by one, before the families can go back home.",
-        "resumen_es": "Il bilancio del terremoto in Colombia continua a salire. Le autorità parlano di centotrentadue morti e di oltre cinquecento feriti. Cinque città sono in allerta rossa. A Cali il governo ha deciso il coprifuoco e ha mandato i militari nelle strade. Molte case sono crollate o non sono sicure. Per questo tante persone dormono fuori, nei parchi e nelle piazze. I soccorritori cercano ancora qualcuno sotto le macerie.\n\nLa Colombia si trova in una zona molto sismica, quindi i terremoti non sono rari. Questo però è stato uno dei più forti degli ultimi anni. Adesso il problema principale è aiutare le persone che hanno perso la casa. Il governo ha aperto centri di accoglienza e chiede prudenza, perché possono arrivare altre scosse. Nei prossimi giorni gli ingegneri devono controllare gli edifici, uno per uno, prima che le famiglie possano tornare a casa.",
-        "vocab": [
-          {
-            "front": "il bilancio",
-            "pos": "noun",
-            "back": "toll, final count (also balance sheet)",
-            "example": "Il bilancio dei feriti cambia ogni ora.",
-            "tier": "B1"
-          },
-          {
-            "front": "salire",
-            "pos": "verb",
-            "back": "to go up, to rise",
-            "example": "Il numero dei morti sale ancora.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ferito",
-            "pos": "noun",
-            "back": "injured person",
-            "example": "I feriti sono arrivati in ospedale in poche ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "allerta rossa",
-            "pos": "phrase",
-            "back": "red alert",
-            "example": "La città è in allerta rossa da due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il coprifuoco",
-            "pos": "noun",
-            "back": "curfew",
-            "example": "Con il coprifuoco nessuno può uscire di notte.",
-            "tier": "B2"
-          },
-          {
-            "front": "crollare",
-            "pos": "verb",
-            "back": "to collapse, to fall down",
-            "example": "Il muro è crollato durante la notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "le macerie",
-            "pos": "noun",
-            "back": "rubble, debris",
-            "example": "Cercano ancora persone sotto le macerie.",
-            "tier": "B1"
-          },
-          {
-            "front": "il soccorritore",
-            "pos": "noun",
-            "back": "rescue worker",
-            "example": "I soccorritori lavorano giorno e notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scossa",
-            "pos": "noun",
-            "back": "tremor, shock",
-            "example": "Dopo la prima scossa ne sono arrivate altre due.",
-            "tier": "B1"
-          },
-          {
-            "front": "il centro di accoglienza",
-            "pos": "noun",
-            "back": "reception centre, shelter",
-            "example": "Dormono in un centro di accoglienza vicino allo stadio.",
-            "tier": "B1"
-          },
-          {
-            "front": "sicuro",
-            "pos": "adj",
-            "back": "safe",
-            "example": "Quella casa non è sicura, meglio non entrare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prudenza",
-            "pos": "noun",
-            "back": "caution, care",
-            "example": "Le autorità chiedono prudenza a tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "uno per uno",
-            "pos": "phrase",
-            "back": "one by one",
-            "example": "Controllano gli edifici uno per uno.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nei prossimi giorni gli ingegneri devono controllare gli edifici, uno per uno, prima che le famiglie possano tornare a casa.",
-            "point": "prima che + congiuntivo",
-            "explanation": "After prima che Italian uses the subjunctive, so possano and not possono, because the two subjects are different: the engineers and the families.",
-            "why_tricky": "If the subject were the same, Italian would use prima di + infinito instead: prima di tornare a casa."
-          },
-          {
-            "sentence": "Molte case sono crollate o non sono sicure.",
-            "point": "essere as the auxiliary in the passato prossimo",
-            "explanation": "Crollare takes essere, so the participle agrees with the subject: molte case sono crollate, with a final e.",
-            "why_tricky": "English uses have collapsed, so learners write hanno crollato. Verbs of movement and change of state normally take essere and need agreement."
-          },
-          {
-            "sentence": "Per questo tante persone dormono fuori, nei parchi e nelle piazze.",
-            "point": "preposizioni articolate",
-            "explanation": "In plus the article merges into one word: in + i parchi becomes nei parchi, in + le piazze becomes nelle piazze.",
-            "why_tricky": "Each preposition merges differently, and the plural forms nei, nelle, negli are easy to mix up with the singular nel and nella."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "sotto le macerie",
-            "meaning": "under the rubble, trapped after a collapse",
-            "example": "Hanno trovato un bambino vivo sotto le macerie."
-          },
-          {
-            "phrase": "tornare a casa",
-            "meaning": "to go back home",
-            "example": "Speriamo di tornare a casa entro la settimana."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché molte persone dormono fuori dopo il terremoto?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha deciso il governo nella città di Cali?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa devono fare gli ingegneri nei prossimi giorni?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa dovrebbe fare un governo nei primi tre giorni dopo un terremoto? Scrivi circa 100 parole con le tue idee."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-11-cile-linea-elettrica-rana",
-      "title": "Si ferma il progetto di una maxi linea elettrica in Cile dopo l'appello di DiCaprio per la rana dal petto spinoso",
-      "source": "ANSA",
-      "date": "2026-08-11",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "Cile"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-11-cile-linea-elettrica-rana",
-        "revision": 1,
-        "meta": {
-          "title": "Si ferma il progetto di una maxi linea elettrica in Cile dopo l'appello di DiCaprio per la rana dal petto spinoso",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/cile-stop-a-progetto-elettrico-dopo-lallarme-di-dicaprio-per-rana-dal_515ac7b2-3f91-454d-8e67-0ed9a5a557d5.html",
-          "date_published": "2026-08-11",
-          "date_processed": "2026-08-11",
-          "tags": [
-            "ambiente",
-            "Cile"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Chile the project for a big power line is being stopped. The decision comes after an appeal by the actor Leonardo DiCaprio, who spoke about a very rare small animal: the spiny-chested frog. According to the environmentalists, the works would have destroyed the place where this frog lives. The case became famous and made many people discuss it.\n\nA power line of this kind serves to carry energy from one region to another and often crosses natural areas. That is why the subject is sensitive: on one side there is the need for energy, on the other there is the protection of nature. Now the authorities have to study a different route, one that does less damage. It is not the first time that a small and little known animal changes the plans of a big infrastructure project.",
-        "resumen_es": "In Cile si ferma il progetto di una grande linea elettrica. La decisione arriva dopo un appello dell'attore Leonardo DiCaprio, che ha parlato di un piccolo animale molto raro: la rana dal petto spinoso. Secondo gli ambientalisti, i lavori avrebbero distrutto il posto dove vive questa rana. Il caso è diventato famoso e ha fatto discutere molte persone.\n\nUna linea elettrica di questo tipo serve per portare energia da una regione all'altra e attraversa spesso zone naturali. Per questo il tema è delicato: da una parte c'è il bisogno di energia, dall'altra c'è la protezione della natura. Adesso le autorità devono studiare un percorso diverso, che faccia meno danni. Non è la prima volta che un animale piccolo e poco conosciuto cambia i piani di una grande opera.",
-        "vocab": [
-          {
-            "front": "fermare",
-            "pos": "verb",
-            "back": "to stop something",
-            "example": "Hanno deciso di fermare i lavori.",
-            "tier": "B1"
-          },
-          {
-            "front": "la linea elettrica",
-            "pos": "noun",
-            "back": "power line",
-            "example": "La nuova linea elettrica passa vicino al bosco.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'appello",
-            "pos": "noun",
-            "back": "appeal, public call",
-            "example": "Il suo appello ha convinto molte persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "la rana",
-            "pos": "noun",
-            "back": "frog",
-            "example": "Questa rana vive solo in una zona del paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "gli ambientalisti",
-            "pos": "noun",
-            "back": "environmentalists",
-            "example": "Gli ambientalisti chiedono di proteggere il fiume.",
-            "tier": "B1"
-          },
-          {
-            "front": "distruggere",
-            "pos": "verb",
-            "back": "to destroy",
-            "example": "Il fuoco ha distrutto molte case.",
-            "tier": "B1"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross, to pass through",
-            "example": "La strada attraversa tutto il parco naturale.",
-            "tier": "B1"
-          },
-          {
-            "front": "il percorso",
-            "pos": "noun",
-            "back": "route, path",
-            "example": "Stanno studiando un percorso diverso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il danno",
-            "pos": "noun",
-            "back": "damage, harm",
-            "example": "Il progetto fa troppi danni alla natura.",
-            "tier": "B1"
-          },
-          {
-            "front": "delicato",
-            "pos": "adj",
-            "back": "sensitive, tricky",
-            "example": "È un tema delicato per il governo.",
-            "tier": "B2"
-          },
-          {
-            "front": "il bisogno",
-            "pos": "noun",
-            "back": "need",
-            "example": "C'è bisogno di più energia pulita.",
-            "tier": "B1"
-          },
-          {
-            "front": "poco conosciuto",
-            "pos": "adj",
-            "back": "little known",
-            "example": "È un animale poco conosciuto anche in Cile.",
-            "tier": "B1"
-          },
-          {
-            "front": "la grande opera",
-            "pos": "phrase",
-            "back": "major infrastructure project",
-            "example": "Le grandi opere costano molto e durano anni.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo gli ambientalisti, i lavori avrebbero distrutto il posto dove vive questa rana.",
-            "point": "condizionale passato for something that did not happen",
-            "explanation": "Avrebbero distrutto means would have destroyed. The works were stopped, so the destruction never took place and Italian uses the condizionale passato.",
-            "why_tricky": "The condition is implicit, se i lavori fossero andati avanti, and is never written out, so learners look for a missing se clause."
-          },
-          {
-            "sentence": "Adesso le autorità devono studiare un percorso diverso, che faccia meno danni.",
-            "point": "congiuntivo in a relative clause",
-            "explanation": "Faccia is the subjunctive because the route does not exist yet; it is described as something wanted rather than something real.",
-            "why_tricky": "With a known, real route the indicative che fa meno danni would be correct, so the choice depends on meaning rather than on grammar words."
-          },
-          {
-            "sentence": "Il caso è diventato famoso e ha fatto discutere molte persone.",
-            "point": "two different auxiliaries, plus fare + infinito",
-            "explanation": "Diventare takes essere, so è diventato agrees with il caso, while fare takes avere: ha fatto. Fare + infinito means to make someone do something, here to make people argue.",
-            "why_tricky": "Two auxiliaries appear in one short sentence, and learners regularise both to avere, producing the wrong ha diventato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da una parte, dall'altra",
-            "meaning": "on one hand, on the other hand",
-            "example": "Da una parte serve lavoro, dall'altra serve natura."
-          },
-          {
-            "phrase": "non è la prima volta che",
-            "meaning": "it is not the first time that",
-            "example": "Non è la prima volta che un progetto si ferma così."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il progetto della linea elettrica si è fermato?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dicono gli ambientalisti sui lavori?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, perché il tema è delicato?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "È giusto fermare una grande opera per proteggere un animale raro? Scrivi circa 100 parole e spiega perché."
-      }
-    },
     {
       "pack_id": "feed-2026-08-11-bezos-quota-liverpool",
       "title": "Bezos punta al calcio, mr Amazon vuole una quota del Liverpool",
@@ -507,6 +169,344 @@
           }
         ],
         "opinion_prompt": "È un bene o un male quando un miliardario compra una squadra di calcio? Scrivi circa 100 parole con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-consumi-record-tecnologia",
+      "title": "I consumi oltre il record del 2007, più tecnologia e tempo libero",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "consumi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-consumi-record-tecnologia",
+        "revision": 1,
+        "meta": {
+          "title": "I consumi oltre il record del 2007, più tecnologia e tempo libero",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/08/10/i-consumi-oltre-il-record-2007-piu-tecnologia-e-tempo-libero_54e99b4f-854b-451d-b5ae-fcf1fe6b68d2.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "economia",
+            "consumi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy family spending has gone past the record of 2007. People are spending more on technology and on free time: phones, computers, trips, restaurants and shows. Clothes and products for the home are also doing well. In the fashion sector what is growing above all is fast fashion, that is, the garments that cost little and last a short time.\n\nThis figure, however, does not say everything. Prices have gone up in recent years, so with the same sum today you buy fewer things than before. Besides, not all families spend in the same way: those who have a low salary have to think first about fixed costs, like the house and the bills. The real test will arrive in autumn, when the holidays finish and families go back to their everyday spending.",
+        "resumen_es": "In Italia i consumi delle famiglie hanno superato il record del 2007. La gente spende di più per la tecnologia e per il tempo libero: telefoni, computer, viaggi, ristoranti e spettacoli. Anche i vestiti e i prodotti per la casa vanno bene. Nel settore della moda cresce soprattutto il fast fashion, cioè i capi che costano poco e durano poco.\n\nQuesto dato però non dice tutto. I prezzi sono saliti negli ultimi anni, quindi con la stessa cifra oggi si comprano meno cose di prima. Inoltre non tutte le famiglie spendono allo stesso modo: chi ha uno stipendio basso deve pensare prima alle spese fisse, come la casa e le bollette. Il vero test arriverà in autunno, quando finiranno le vacanze e le famiglie torneranno alle spese di ogni giorno.",
+        "vocab": [
+          {
+            "front": "i consumi",
+            "pos": "noun",
+            "back": "consumer spending",
+            "example": "I consumi sono cresciuti anche quest'anno.",
+            "tier": "B1"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to go beyond, to overtake",
+            "example": "Abbiamo superato il record dell'anno scorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "spendere",
+            "pos": "verb",
+            "back": "to spend money",
+            "example": "Spendo troppo per i ristoranti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tempo libero",
+            "pos": "noun",
+            "back": "free time, leisure",
+            "example": "Nel tempo libero vado in piscina.",
+            "tier": "B1"
+          },
+          {
+            "front": "il capo",
+            "pos": "noun",
+            "back": "item of clothing (also boss)",
+            "example": "Ho comprato tre capi in saldo.",
+            "tier": "B2"
+          },
+          {
+            "front": "durare",
+            "pos": "verb",
+            "back": "to last",
+            "example": "Queste scarpe non durano niente.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cifra",
+            "pos": "noun",
+            "back": "sum, amount of money",
+            "example": "Con questa cifra non compri molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo stipendio",
+            "pos": "noun",
+            "back": "salary, monthly pay",
+            "example": "Il suo stipendio è basso ma sicuro.",
+            "tier": "B1"
+          },
+          {
+            "front": "le spese fisse",
+            "pos": "noun",
+            "back": "fixed costs, regular bills",
+            "example": "Le spese fisse si pagano ogni mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "la bolletta",
+            "pos": "noun",
+            "back": "utility bill",
+            "example": "La bolletta della luce è arrivata ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "crescere",
+            "pos": "verb",
+            "back": "to grow, to increase",
+            "example": "Il settore cresce da due anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "allo stesso modo",
+            "pos": "phrase",
+            "back": "in the same way",
+            "example": "Non tutti reagiscono allo stesso modo.",
+            "tier": "B1"
+          },
+          {
+            "front": "soprattutto",
+            "pos": "adv",
+            "back": "above all, especially",
+            "example": "Compro soprattutto libri usati.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La gente spende di più per la tecnologia e per il tempo libero: telefoni, computer, viaggi, ristoranti e spettacoli.",
+            "point": "la gente takes a singular verb",
+            "explanation": "La gente is grammatically singular in Italian, so the verb is spende and not spendono, even though it refers to many people.",
+            "why_tricky": "English people takes a plural verb, so learners write la gente spendono. The same happens with la famiglia and la squadra."
+          },
+          {
+            "sentence": "I prezzi sono saliti negli ultimi anni, quindi con la stessa cifra oggi si comprano meno cose di prima.",
+            "point": "si passivante with a plural noun",
+            "explanation": "In si comprano meno cose the verb agrees with cose, the thing being bought, so it is plural. The meaning is you buy or one buys.",
+            "why_tricky": "Learners keep the verb singular, si compra meno cose, because they read si as an impersonal subject rather than as a passive marker."
+          },
+          {
+            "sentence": "Il vero test arriverà in autunno, quando finiranno le vacanze e le famiglie torneranno alle spese di ogni giorno.",
+            "point": "futuro after quando",
+            "explanation": "When the main clause is in the future, Italian also uses the future after quando: quando finiranno, quando torneranno.",
+            "why_tricky": "English switches to the present after when, so learners write quando finiscono, which sounds wrong in a clearly future sentence."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "arrivare a fine mese",
+            "meaning": "to make ends meet, to get to the end of the month with enough money",
+            "example": "Con un solo stipendio è difficile arrivare a fine mese."
+          },
+          {
+            "phrase": "andare bene",
+            "meaning": "to be doing well, to be going well",
+            "example": "Il negozio va bene anche in estate."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Per quali cose spendono di più le famiglie italiane?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il dato sui consumi non dice tutto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa succede alle famiglie con uno stipendio basso?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, spendere di più per il tempo libero è un segno positivo o negativo? Scrivi circa 100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-robbie-williams-costa-smeralda",
+      "title": "L'energia di Robbie Williams infiamma la Costa Smeralda",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "Sardegna"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-robbie-williams-costa-smeralda",
+        "revision": 1,
+        "meta": {
+          "title": "L'energia di Robbie Williams infiamma la Costa Smeralda",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/08/10/lenergia-di-robbie-williams-infiamma-la-costa-smeralda_6b4c6267-69c5-4434-8d45-f0a2784d7e62.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "musica",
+            "Sardegna"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Robbie Williams has come back to sing in Sardinia, on the Costa Smeralda. For the audience it was a special evening, because the English singer had not played on the island for eleven years. On stage he brought his usual energy: famous songs, jokes with the audience and a long moment of group singing. Many people had come from other regions just for the concert.\n\nIn the summer Sardinia becomes an important place for live music. The big concerts attract tourists, fill the hotels and give work to a lot of people in the area. Some, however, protest: they say that prices are going up too much and that the coast is now reserved for those who have a lot of money. The debate goes on, but for one evening the music and the wish to have fun won.",
+        "resumen_es": "Robbie Williams è tornato a cantare in Sardegna, sulla Costa Smeralda. Per il pubblico è stata una serata speciale, perché il cantante inglese non suonava sull'isola da undici anni. Sul palco ha portato la sua solita energia: canzoni famose, battute con il pubblico e un lungo momento di karaoke collettivo. Molte persone erano arrivate da altre regioni solo per il concerto.\n\nIn estate la Sardegna diventa un posto importante per la musica dal vivo. I grandi concerti attirano turisti, riempiono gli alberghi e danno lavoro a tante persone della zona. Qualcuno però protesta: dice che i prezzi salgono troppo e che la costa è ormai riservata a chi ha molti soldi. Il dibattito continua, ma per una sera hanno vinto la musica e la voglia di divertirsi.",
+        "vocab": [
+          {
+            "front": "il palco",
+            "pos": "noun",
+            "back": "stage",
+            "example": "È salito sul palco alle nove in punto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "the audience",
+            "example": "Il pubblico ha cantato tutte le canzoni.",
+            "tier": "B1"
+          },
+          {
+            "front": "la serata",
+            "pos": "noun",
+            "back": "evening (as an occasion)",
+            "example": "È stata una serata bellissima.",
+            "tier": "B1"
+          },
+          {
+            "front": "la battuta",
+            "pos": "noun",
+            "back": "joke, quip",
+            "example": "Fa sempre battute tra una canzone e l'altra.",
+            "tier": "B2"
+          },
+          {
+            "front": "dal vivo",
+            "pos": "phrase",
+            "back": "live, in person",
+            "example": "Preferisco la musica dal vivo.",
+            "tier": "B1"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "Il festival attira migliaia di persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "riempire",
+            "pos": "verb",
+            "back": "to fill",
+            "example": "I turisti riempiono gli alberghi ad agosto.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'albergo",
+            "pos": "noun",
+            "back": "hotel",
+            "example": "Gli alberghi sono tutti pieni.",
+            "tier": "B1"
+          },
+          {
+            "front": "protestare",
+            "pos": "verb",
+            "back": "to protest, to complain publicly",
+            "example": "Alcuni abitanti protestano per il rumore.",
+            "tier": "B1"
+          },
+          {
+            "front": "riservato a",
+            "pos": "adj",
+            "back": "reserved for",
+            "example": "Questa zona è riservata ai residenti.",
+            "tier": "B2"
+          },
+          {
+            "front": "il dibattito",
+            "pos": "noun",
+            "back": "debate",
+            "example": "Il dibattito sul turismo va avanti da anni.",
+            "tier": "B2"
+          },
+          {
+            "front": "divertirsi",
+            "pos": "verb",
+            "back": "to have fun, to enjoy oneself",
+            "example": "Ci siamo divertiti moltissimo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ormai",
+            "pos": "adv",
+            "back": "by now, at this point",
+            "example": "Ormai è troppo tardi per i biglietti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Per il pubblico è stata una serata speciale, perché il cantante inglese non suonava sull'isola da undici anni.",
+            "point": "imperfetto with da for duration up to a past moment",
+            "explanation": "Non suonava da undici anni means had not played for eleven years. Italian uses the imperfetto plus da where English uses a past perfect.",
+            "why_tricky": "Learners reach for non aveva suonato per undici anni, which is understandable but far less natural in Italian."
+          },
+          {
+            "sentence": "Molte persone erano arrivate da altre regioni solo per il concerto.",
+            "point": "trapassato prossimo with essere",
+            "explanation": "Erano arrivate describes an action finished before another past moment, the concert. Arrivare takes essere, so the participle agrees: persone, arrivate.",
+            "why_tricky": "Two things have to be right at once, the auxiliary essere and the feminine plural ending, and learners often produce avevano arrivato."
+          },
+          {
+            "sentence": "Qualcuno però protesta: dice che i prezzi salgono troppo e che la costa è ormai riservata a chi ha molti soldi.",
+            "point": "qualcuno and chi both take a singular verb",
+            "explanation": "Qualcuno protesta refers to several unnamed people but stays singular, and chi means the people who, also with a singular verb: chi ha.",
+            "why_tricky": "Both look plural in meaning, so learners write qualcuno protestano and chi hanno."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "musica dal vivo",
+            "meaning": "live music, played in front of an audience",
+            "example": "In quel locale c'è musica dal vivo ogni sabato."
+          },
+          {
+            "phrase": "avere voglia di",
+            "meaning": "to feel like doing something",
+            "example": "Non ho voglia di uscire stasera."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il concerto è stato speciale per il pubblico?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa portano i grandi concerti alla Sardegna in estate?",
+            "type": "open"
+          },
+          {
+            "q": "Di che cosa si lamenta qualcuno nella zona?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Il turismo dei grandi concerti aiuta davvero le persone del posto? Scrivi circa 100 parole con la tua opinione."
       }
     },
     {
