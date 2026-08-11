@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-11T08:17:59Z",
+  "generated_at": "2026-08-11T20:17:32Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-11-terremoto-colombia-bilancio",
+      "title": "Terremoto in Colombia, sale a 132 il bilancio dei morti",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "terremoto",
+        "Colombia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-terremoto-colombia-bilancio",
+        "revision": 1,
+        "meta": {
+          "title": "Terremoto in Colombia, sale a 132 il bilancio dei morti",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/terremoto-in-colombia-sale-a-132-il-bilancio-dei-morti-_85fd3444-081f-41b1-a3e5-9d4b7fcf35a5.html",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "terremoto",
+            "Colombia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The death toll of the earthquake in Colombia keeps rising. The authorities are talking about a hundred and thirty-two dead and over five hundred injured people. Five cities are on red alert. In Cali the government has decided on a curfew and has sent soldiers into the streets. Many houses have collapsed or are not safe. For this reason a lot of people are sleeping outside, in the parks and in the squares. The rescue workers are still looking for someone under the rubble.\n\nColombia is in a very seismic area, so earthquakes are not rare. This one, however, was one of the strongest of recent years. Now the main problem is helping the people who have lost their home. The government has opened reception centres and asks for caution, because other tremors can arrive. In the coming days the engineers have to check the buildings, one by one, before the families can go back home.",
+        "resumen_es": "Il bilancio del terremoto in Colombia continua a salire. Le autorità parlano di centotrentadue morti e di oltre cinquecento feriti. Cinque città sono in allerta rossa. A Cali il governo ha deciso il coprifuoco e ha mandato i militari nelle strade. Molte case sono crollate o non sono sicure. Per questo tante persone dormono fuori, nei parchi e nelle piazze. I soccorritori cercano ancora qualcuno sotto le macerie.\n\nLa Colombia si trova in una zona molto sismica, quindi i terremoti non sono rari. Questo però è stato uno dei più forti degli ultimi anni. Adesso il problema principale è aiutare le persone che hanno perso la casa. Il governo ha aperto centri di accoglienza e chiede prudenza, perché possono arrivare altre scosse. Nei prossimi giorni gli ingegneri devono controllare gli edifici, uno per uno, prima che le famiglie possano tornare a casa.",
+        "vocab": [
+          {
+            "front": "il bilancio",
+            "pos": "noun",
+            "back": "toll, final count (also balance sheet)",
+            "example": "Il bilancio dei feriti cambia ogni ora.",
+            "tier": "B1"
+          },
+          {
+            "front": "salire",
+            "pos": "verb",
+            "back": "to go up, to rise",
+            "example": "Il numero dei morti sale ancora.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ferito",
+            "pos": "noun",
+            "back": "injured person",
+            "example": "I feriti sono arrivati in ospedale in poche ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "allerta rossa",
+            "pos": "phrase",
+            "back": "red alert",
+            "example": "La città è in allerta rossa da due giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il coprifuoco",
+            "pos": "noun",
+            "back": "curfew",
+            "example": "Con il coprifuoco nessuno può uscire di notte.",
+            "tier": "B2"
+          },
+          {
+            "front": "crollare",
+            "pos": "verb",
+            "back": "to collapse, to fall down",
+            "example": "Il muro è crollato durante la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "le macerie",
+            "pos": "noun",
+            "back": "rubble, debris",
+            "example": "Cercano ancora persone sotto le macerie.",
+            "tier": "B1"
+          },
+          {
+            "front": "il soccorritore",
+            "pos": "noun",
+            "back": "rescue worker",
+            "example": "I soccorritori lavorano giorno e notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scossa",
+            "pos": "noun",
+            "back": "tremor, shock",
+            "example": "Dopo la prima scossa ne sono arrivate altre due.",
+            "tier": "B1"
+          },
+          {
+            "front": "il centro di accoglienza",
+            "pos": "noun",
+            "back": "reception centre, shelter",
+            "example": "Dormono in un centro di accoglienza vicino allo stadio.",
+            "tier": "B1"
+          },
+          {
+            "front": "sicuro",
+            "pos": "adj",
+            "back": "safe",
+            "example": "Quella casa non è sicura, meglio non entrare.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prudenza",
+            "pos": "noun",
+            "back": "caution, care",
+            "example": "Le autorità chiedono prudenza a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "uno per uno",
+            "pos": "phrase",
+            "back": "one by one",
+            "example": "Controllano gli edifici uno per uno.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nei prossimi giorni gli ingegneri devono controllare gli edifici, uno per uno, prima che le famiglie possano tornare a casa.",
+            "point": "prima che + congiuntivo",
+            "explanation": "After prima che Italian uses the subjunctive, so possano and not possono, because the two subjects are different: the engineers and the families.",
+            "why_tricky": "If the subject were the same, Italian would use prima di + infinito instead: prima di tornare a casa."
+          },
+          {
+            "sentence": "Molte case sono crollate o non sono sicure.",
+            "point": "essere as the auxiliary in the passato prossimo",
+            "explanation": "Crollare takes essere, so the participle agrees with the subject: molte case sono crollate, with a final e.",
+            "why_tricky": "English uses have collapsed, so learners write hanno crollato. Verbs of movement and change of state normally take essere and need agreement."
+          },
+          {
+            "sentence": "Per questo tante persone dormono fuori, nei parchi e nelle piazze.",
+            "point": "preposizioni articolate",
+            "explanation": "In plus the article merges into one word: in + i parchi becomes nei parchi, in + le piazze becomes nelle piazze.",
+            "why_tricky": "Each preposition merges differently, and the plural forms nei, nelle, negli are easy to mix up with the singular nel and nella."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "sotto le macerie",
+            "meaning": "under the rubble, trapped after a collapse",
+            "example": "Hanno trovato un bambino vivo sotto le macerie."
+          },
+          {
+            "phrase": "tornare a casa",
+            "meaning": "to go back home",
+            "example": "Speriamo di tornare a casa entro la settimana."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché molte persone dormono fuori dopo il terremoto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa ha deciso il governo nella città di Cali?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa devono fare gli ingegneri nei prossimi giorni?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa dovrebbe fare un governo nei primi tre giorni dopo un terremoto? Scrivi circa 100 parole con le tue idee."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-cile-linea-elettrica-rana",
+      "title": "Si ferma il progetto di una maxi linea elettrica in Cile dopo l'appello di DiCaprio per la rana dal petto spinoso",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "Cile"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-cile-linea-elettrica-rana",
+        "revision": 1,
+        "meta": {
+          "title": "Si ferma il progetto di una maxi linea elettrica in Cile dopo l'appello di DiCaprio per la rana dal petto spinoso",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/11/cile-stop-a-progetto-elettrico-dopo-lallarme-di-dicaprio-per-rana-dal_515ac7b2-3f91-454d-8e67-0ed9a5a557d5.html",
+          "date_published": "2026-08-11",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "ambiente",
+            "Cile"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Chile the project for a big power line is being stopped. The decision comes after an appeal by the actor Leonardo DiCaprio, who spoke about a very rare small animal: the spiny-chested frog. According to the environmentalists, the works would have destroyed the place where this frog lives. The case became famous and made many people discuss it.\n\nA power line of this kind serves to carry energy from one region to another and often crosses natural areas. That is why the subject is sensitive: on one side there is the need for energy, on the other there is the protection of nature. Now the authorities have to study a different route, one that does less damage. It is not the first time that a small and little known animal changes the plans of a big infrastructure project.",
+        "resumen_es": "In Cile si ferma il progetto di una grande linea elettrica. La decisione arriva dopo un appello dell'attore Leonardo DiCaprio, che ha parlato di un piccolo animale molto raro: la rana dal petto spinoso. Secondo gli ambientalisti, i lavori avrebbero distrutto il posto dove vive questa rana. Il caso è diventato famoso e ha fatto discutere molte persone.\n\nUna linea elettrica di questo tipo serve per portare energia da una regione all'altra e attraversa spesso zone naturali. Per questo il tema è delicato: da una parte c'è il bisogno di energia, dall'altra c'è la protezione della natura. Adesso le autorità devono studiare un percorso diverso, che faccia meno danni. Non è la prima volta che un animale piccolo e poco conosciuto cambia i piani di una grande opera.",
+        "vocab": [
+          {
+            "front": "fermare",
+            "pos": "verb",
+            "back": "to stop something",
+            "example": "Hanno deciso di fermare i lavori.",
+            "tier": "B1"
+          },
+          {
+            "front": "la linea elettrica",
+            "pos": "noun",
+            "back": "power line",
+            "example": "La nuova linea elettrica passa vicino al bosco.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'appello",
+            "pos": "noun",
+            "back": "appeal, public call",
+            "example": "Il suo appello ha convinto molte persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rana",
+            "pos": "noun",
+            "back": "frog",
+            "example": "Questa rana vive solo in una zona del paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli ambientalisti",
+            "pos": "noun",
+            "back": "environmentalists",
+            "example": "Gli ambientalisti chiedono di proteggere il fiume.",
+            "tier": "B1"
+          },
+          {
+            "front": "distruggere",
+            "pos": "verb",
+            "back": "to destroy",
+            "example": "Il fuoco ha distrutto molte case.",
+            "tier": "B1"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross, to pass through",
+            "example": "La strada attraversa tutto il parco naturale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "route, path",
+            "example": "Stanno studiando un percorso diverso.",
+            "tier": "B1"
+          },
+          {
+            "front": "il danno",
+            "pos": "noun",
+            "back": "damage, harm",
+            "example": "Il progetto fa troppi danni alla natura.",
+            "tier": "B1"
+          },
+          {
+            "front": "delicato",
+            "pos": "adj",
+            "back": "sensitive, tricky",
+            "example": "È un tema delicato per il governo.",
+            "tier": "B2"
+          },
+          {
+            "front": "il bisogno",
+            "pos": "noun",
+            "back": "need",
+            "example": "C'è bisogno di più energia pulita.",
+            "tier": "B1"
+          },
+          {
+            "front": "poco conosciuto",
+            "pos": "adj",
+            "back": "little known",
+            "example": "È un animale poco conosciuto anche in Cile.",
+            "tier": "B1"
+          },
+          {
+            "front": "la grande opera",
+            "pos": "phrase",
+            "back": "major infrastructure project",
+            "example": "Le grandi opere costano molto e durano anni.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo gli ambientalisti, i lavori avrebbero distrutto il posto dove vive questa rana.",
+            "point": "condizionale passato for something that did not happen",
+            "explanation": "Avrebbero distrutto means would have destroyed. The works were stopped, so the destruction never took place and Italian uses the condizionale passato.",
+            "why_tricky": "The condition is implicit, se i lavori fossero andati avanti, and is never written out, so learners look for a missing se clause."
+          },
+          {
+            "sentence": "Adesso le autorità devono studiare un percorso diverso, che faccia meno danni.",
+            "point": "congiuntivo in a relative clause",
+            "explanation": "Faccia is the subjunctive because the route does not exist yet; it is described as something wanted rather than something real.",
+            "why_tricky": "With a known, real route the indicative che fa meno danni would be correct, so the choice depends on meaning rather than on grammar words."
+          },
+          {
+            "sentence": "Il caso è diventato famoso e ha fatto discutere molte persone.",
+            "point": "two different auxiliaries, plus fare + infinito",
+            "explanation": "Diventare takes essere, so è diventato agrees with il caso, while fare takes avere: ha fatto. Fare + infinito means to make someone do something, here to make people argue.",
+            "why_tricky": "Two auxiliaries appear in one short sentence, and learners regularise both to avere, producing the wrong ha diventato."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da una parte, dall'altra",
+            "meaning": "on one hand, on the other hand",
+            "example": "Da una parte serve lavoro, dall'altra serve natura."
+          },
+          {
+            "phrase": "non è la prima volta che",
+            "meaning": "it is not the first time that",
+            "example": "Non è la prima volta che un progetto si ferma così."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il progetto della linea elettrica si è fermato?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dicono gli ambientalisti sui lavori?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perché il tema è delicato?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "È giusto fermare una grande opera per proteggere un animale raro? Scrivi circa 100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-11-bezos-quota-liverpool",
+      "title": "Bezos punta al calcio, mr Amazon vuole una quota del Liverpool",
+      "source": "ANSA",
+      "date": "2026-08-11",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-11-bezos-quota-liverpool",
+        "revision": 1,
+        "meta": {
+          "title": "Bezos punta al calcio, mr Amazon vuole una quota del Liverpool",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/10/jeff-bezos-vicino-ad-un-accordo-per-una-quota-del-liverpool_62390ee1-360e-476e-9363-b83f54b870d7.html",
+          "date_published": "2026-08-10",
+          "date_processed": "2026-08-11",
+          "tags": [
+            "calcio",
+            "economia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Jeff Bezos, the founder of Amazon, wants to enter the world of football. According to the English newspapers, he is close to a deal to buy a stake in Liverpool, one of the most famous clubs in the Premier League. People are talking about around thirty per cent of the company. For now there are no official confirmations, but the news immediately went round social media and surprised many fans.\n\nFor years the big American investors have been buying European teams, because football brings money, image and television rights. Some fans are happy, because they hope for new signings and a better stadium. Others instead are afraid: they fear that the club will become only a product and that the tickets will cost more and more. In the coming months we will understand whether the deal really goes through.",
+        "resumen_es": "Jeff Bezos, il fondatore di Amazon, vuole entrare nel mondo del calcio. Secondo i giornali inglesi, è vicino a un accordo per comprare una quota del Liverpool, uno dei club più famosi della Premier League. Si parla di circa il trenta per cento della società. Per ora non ci sono conferme ufficiali, ma la notizia ha fatto subito il giro dei social e ha sorpreso molti tifosi.\n\nDa anni i grandi investitori americani comprano squadre europee, perché il calcio porta soldi, immagine e diritti televisivi. Alcuni tifosi sono contenti, perché sperano in nuovi acquisti e in uno stadio migliore. Altri invece hanno paura: temono che il club diventi solo un prodotto e che i biglietti costino sempre di più. Nei prossimi mesi si capirà se l'accordo andrà davvero in porto.",
+        "vocab": [
+          {
+            "front": "il fondatore",
+            "pos": "noun",
+            "back": "founder",
+            "example": "Il fondatore dell'azienda ha parlato ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la quota",
+            "pos": "noun",
+            "back": "stake, share in a company",
+            "example": "Ha comprato una quota del venti per cento.",
+            "tier": "B2"
+          },
+          {
+            "front": "la società",
+            "pos": "noun",
+            "back": "company, club (as a business)",
+            "example": "La società ha annunciato nuovi investimenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "supporter, fan",
+            "example": "I tifosi aspettano notizie da settimane.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'accordo",
+            "pos": "noun",
+            "back": "deal, agreement",
+            "example": "L'accordo non è ancora firmato.",
+            "tier": "B1"
+          },
+          {
+            "front": "la conferma",
+            "pos": "noun",
+            "back": "confirmation",
+            "example": "Non abbiamo ancora una conferma ufficiale.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'investitore",
+            "pos": "noun",
+            "back": "investor",
+            "example": "Gli investitori stranieri comprano molti club.",
+            "tier": "B2"
+          },
+          {
+            "front": "i diritti televisivi",
+            "pos": "noun",
+            "back": "television rights",
+            "example": "I diritti televisivi valgono miliardi.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'acquisto",
+            "pos": "noun",
+            "back": "signing, purchase",
+            "example": "La squadra cerca due acquisti importanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid that",
+            "example": "Temo che il prezzo salga ancora.",
+            "tier": "B2"
+          },
+          {
+            "front": "sorprendere",
+            "pos": "verb",
+            "back": "to surprise",
+            "example": "La notizia ha sorpreso tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "andare in porto",
+            "pos": "phrase",
+            "back": "to go through, to be successfully completed",
+            "example": "Speriamo che la trattativa vada in porto.",
+            "tier": "B2"
+          },
+          {
+            "front": "sempre di più",
+            "pos": "phrase",
+            "back": "more and more",
+            "example": "I biglietti costano sempre di più.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Altri invece hanno paura: temono che il club diventi solo un prodotto e che i biglietti costino sempre di più.",
+            "point": "congiuntivo after verbs of fear and opinion",
+            "explanation": "Temere che is followed by the subjunctive, so diventi and costino rather than diventa and costano.",
+            "why_tricky": "The subjunctive of verbs in -are, diventi, looks exactly like the indicative tu diventi, and each new che needs the subjunctive again."
+          },
+          {
+            "sentence": "Nei prossimi mesi si capirà se l'accordo andrà davvero in porto.",
+            "point": "si impersonale with the future",
+            "explanation": "Si capirà means we will understand or it will become clear, with no named subject. The verb stays in the third person singular.",
+            "why_tricky": "Italian keeps the future in the se clause, andrà, where English switches to a present: whether the deal goes through."
+          },
+          {
+            "sentence": "Da anni i grandi investitori americani comprano squadre europee, perché il calcio porta soldi, immagine e diritti televisivi.",
+            "point": "da + time with the present tense",
+            "explanation": "Da anni comprano describes an action that started in the past and still continues, equivalent to have been buying for years.",
+            "why_tricky": "English uses a perfect tense here, so learners write hanno comprato da anni, which sounds wrong in Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare il giro dei social",
+            "meaning": "to go round social media, to spread fast online",
+            "example": "Il video ha fatto il giro dei social in poche ore."
+          },
+          {
+            "phrase": "puntare a",
+            "meaning": "to aim at, to set your sights on",
+            "example": "Punta a comprare un altro club in Europa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa vuole comprare Jeff Bezos, secondo i giornali inglesi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti investitori americani comprano squadre europee?",
+            "type": "open"
+          },
+          {
+            "q": "Di che cosa hanno paura alcuni tifosi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "È un bene o un male quando un miliardario compra una squadra di calcio? Scrivi circa 100 parole con la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-08-11-eclissi-stelle-cadenti-agosto",
       "title": "Eclissi di Sole e stelle cadenti accendono il cielo del 12 agosto",
@@ -6200,527 +6707,6 @@
           }
         ],
         "opinion_prompt": "Preferisci le vacanze in una grande città o in un posto tranquillo in mezzo alla natura? Scrivi 80 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-xbox-rincari-europa",
-      "title": "Dopo gli Usa scattano anche in Europa i rincari delle Xbox, fino a 200 euro",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-xbox-rincari-europa",
-        "revision": 1,
-        "meta": {
-          "title": "Dopo gli Usa scattano anche in Europa i rincari delle Xbox, fino a 200 euro",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/03/dopo-gli-usa-scattano-anche-in-europa-i-rincari-delle-xbox-fino_2a8b5ffc-95d6-4d83-b893-39be7274fd69.html",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "tecnologia",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The prices of Xbox consoles are going up in Europe too. The increase arrived first in the United States, now it is the turn of European customers. In some cases the price rise can reach up to two hundred euros. The company explains that the costs of memory and storage space have grown a lot in recent months. For this reason the final price of the product changes.\n\nThis news does not concern video games only. Many electronic products use the same components, so other increases are possible. For families it means spending more for the same object. Some gamers will wait for the offers or will buy second-hand consoles. Others will switch to subscription games, which cost less at the start. In the coming months we will understand whether sales really do fall.",
-        "resumen_es": "I prezzi delle console Xbox aumentano anche in Europa. Prima l'aumento è arrivato negli Stati Uniti, adesso tocca ai clienti europei. In alcuni casi il rincaro può arrivare fino a duecento euro. L'azienda spiega che i costi della memoria e dello spazio di archiviazione sono cresciuti molto negli ultimi mesi. Per questo il prezzo finale del prodotto cambia.\n\nQuesta notizia non riguarda solo i videogiochi. Molti prodotti elettronici usano gli stessi componenti, quindi altri aumenti sono possibili. Per le famiglie significa spendere di più per lo stesso oggetto. Alcuni giocatori aspetteranno le offerte o compreranno console usate. Altri passeranno ai giochi in abbonamento, che costano meno all'inizio. Nei prossimi mesi capiremo se le vendite scendono davvero.",
-        "vocab": [
-          {
-            "front": "il prezzo",
-            "pos": "noun",
-            "back": "price",
-            "example": "Il prezzo del pane è aumentato.",
-            "tier": "A2"
-          },
-          {
-            "front": "aumentare",
-            "pos": "verb",
-            "back": "to increase, to go up",
-            "example": "I costi aumentano ogni anno.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rincaro",
-            "pos": "noun",
-            "back": "price rise",
-            "example": "C'è stato un forte rincaro dell'energia.",
-            "tier": "B1"
-          },
-          {
-            "front": "toccare a qualcuno",
-            "pos": "phrase",
-            "back": "to be someone's turn",
-            "example": "Adesso tocca a te pagare.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'azienda",
-            "pos": "noun",
-            "back": "company, firm",
-            "example": "L'azienda ha spiegato la decisione.",
-            "tier": "A2"
-          },
-          {
-            "front": "il costo",
-            "pos": "noun",
-            "back": "cost",
-            "example": "I costi di produzione sono alti.",
-            "tier": "A2"
-          },
-          {
-            "front": "crescere",
-            "pos": "verb",
-            "back": "to grow, to rise",
-            "example": "Le vendite sono cresciute molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "riguardare",
-            "pos": "verb",
-            "back": "to concern, to be about",
-            "example": "Questo problema riguarda tutti noi.",
-            "tier": "B1"
-          },
-          {
-            "front": "quindi",
-            "pos": "adv",
-            "back": "so, therefore",
-            "example": "Piove, quindi restiamo a casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "spendere",
-            "pos": "verb",
-            "back": "to spend (money)",
-            "example": "Spendo troppo per il caffè.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'offerta",
-            "pos": "noun",
-            "back": "special offer, deal",
-            "example": "Aspetto le offerte di settembre.",
-            "tier": "A2"
-          },
-          {
-            "front": "usato",
-            "pos": "adj",
-            "back": "second-hand, used",
-            "example": "Ho comprato una bici usata.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abbonamento",
-            "pos": "noun",
-            "back": "subscription",
-            "example": "Pago un abbonamento mensile.",
-            "tier": "B1"
-          },
-          {
-            "front": "le vendite",
-            "pos": "noun",
-            "back": "sales",
-            "example": "Le vendite scendono in estate.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'azienda spiega che i costi della memoria e dello spazio di archiviazione sono cresciuti molto negli ultimi mesi.",
-            "point": "essere as the auxiliary with crescere in the passato prossimo",
-            "explanation": "'Sono cresciuti' uses essere, not avere, because crescere describes a change of state. With essere the participle must agree with the subject, so 'i costi' plural masculine gives the ending in i.",
-            "why_tricky": "Most action verbs take avere, and English 'have grown' pushes learners towards 'hanno cresciuto', which is wrong here."
-          },
-          {
-            "sentence": "Alcuni giocatori aspetteranno le offerte o compreranno console usate.",
-            "point": "simple future for predictions",
-            "explanation": "'Aspetteranno' and 'compreranno' are the futuro semplice, used for what will probably happen. Regular are verbs change the a to e before the future endings, so aspettare gives aspetteranno.",
-            "why_tricky": "The vowel change in are verbs is easy to forget, and learners produce 'aspettaranno' by mistake."
-          },
-          {
-            "sentence": "Per le famiglie significa spendere di più per lo stesso oggetto.",
-            "point": "impersonal significare followed by an infinitive",
-            "explanation": "'Significa spendere di più' means 'it means spending more'. Italian uses the infinitive where English uses the ing form, and 'di più' is the standard way to say 'more' after a verb.",
-            "why_tricky": "There is no gerund here, so learners write 'significa spendendo', copying the English structure."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "adesso tocca a te",
-            "meaning": "now it is your turn",
-            "example": "Ho lavato i piatti ieri, adesso tocca a te."
-          },
-          {
-            "phrase": "fino a",
-            "meaning": "up to, as far as",
-            "example": "Il prezzo può salire fino a cento euro."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è arrivato prima l'aumento dei prezzi?",
-            "type": "open"
-          },
-          {
-            "q": "Quale spiegazione dà l'azienda per i nuovi prezzi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa possono fare i giocatori che non vogliono spendere di più?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, quanto è giusto spendere per una console o per un telefono nuovo? Scrivi 80 parole e spiega la tua idea."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-centanni-solitudine-serie",
-      "title": "Cent'Anni di Solitudine, gran finale in tv per la saga dei Buendìa",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "libri"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-centanni-solitudine-serie",
-        "revision": 1,
-        "meta": {
-          "title": "Cent'Anni di Solitudine, gran finale in tv per la saga dei Buendìa",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/08/03/centanni-di-solitudine-gran-finale-in-tv-per-la-saga-dei-buendia_8973006b-de2c-4e2c-bcc3-72d5376072a0.html",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "cultura",
-            "libri"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "From 5 August the second part of the series One Hundred Years of Solitude arrives on Netflix. The story comes from the famous novel by Gabriel García Márquez, a Colombian writer. The tale follows the Buendía family in an imaginary town called Macondo. The last episode is as long as a film. Many people have been waiting for this ending for months.\n\nFor years many people thought this book was impossible to film. The novel is full of magic, of dreams and of memories, and time does not always move forward in a normal way. The series is shot in Colombia, with Colombian actors and in Spanish. For anyone studying Spanish it can be a good listening exercise. For anyone who loves reading, on the other hand, the simplest advice always stands: the book first, then the screen.",
-        "resumen_es": "Dal 5 agosto arriva su Netflix la seconda parte della serie Cent'anni di solitudine. La storia viene dal romanzo famoso di Gabriel García Márquez, uno scrittore colombiano. Il racconto segue la famiglia Buendía in un paese immaginario che si chiama Macondo. L'ultimo episodio è lungo come un film. Molte persone aspettano questo finale da mesi.\n\nPer anni molti pensavano che questo libro fosse impossibile da filmare. Il romanzo è pieno di magia, di sogni e di ricordi, e il tempo non va sempre avanti in modo normale. La serie è girata in Colombia, con attori colombiani e in lingua spagnola. Per chi studia lo spagnolo può essere un buon esercizio di ascolto. Per chi ama leggere, invece, resta sempre il consiglio più semplice: prima il libro, poi lo schermo.",
-        "vocab": [
-          {
-            "front": "il romanzo",
-            "pos": "noun",
-            "back": "novel",
-            "example": "Ho finito il romanzo in tre giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo scrittore",
-            "pos": "noun",
-            "back": "writer",
-            "example": "È uno scrittore molto famoso.",
-            "tier": "A2"
-          },
-          {
-            "front": "il racconto",
-            "pos": "noun",
-            "back": "story, tale, narrative",
-            "example": "Il racconto comincia in un piccolo paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "seguire",
-            "pos": "verb",
-            "back": "to follow",
-            "example": "La serie segue una famiglia per cento anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "immaginario",
-            "pos": "adj",
-            "back": "imaginary, fictional",
-            "example": "Macondo è un posto immaginario.",
-            "tier": "B1"
-          },
-          {
-            "front": "il finale",
-            "pos": "noun",
-            "back": "the ending (of a story or series)",
-            "example": "Il finale mi è piaciuto molto.",
-            "tier": "A2"
-          },
-          {
-            "front": "filmare",
-            "pos": "verb",
-            "back": "to film",
-            "example": "Non è facile filmare un libro così.",
-            "tier": "B1"
-          },
-          {
-            "front": "girare (un film)",
-            "pos": "verb",
-            "back": "to shoot (a film or series)",
-            "example": "Hanno girato la serie in Colombia.",
-            "tier": "B1"
-          },
-          {
-            "front": "pieno di",
-            "pos": "phrase",
-            "back": "full of",
-            "example": "La città è piena di turisti.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sogno",
-            "pos": "noun",
-            "back": "dream",
-            "example": "Stanotte ho fatto un sogno strano.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ricordo",
-            "pos": "noun",
-            "back": "memory, recollection",
-            "example": "Ho un bel ricordo di quell'estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare avanti",
-            "pos": "verb",
-            "back": "to go forward, to move on",
-            "example": "Il tempo va avanti e non torna.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ascolto",
-            "pos": "noun",
-            "back": "listening",
-            "example": "Faccio esercizi di ascolto ogni sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo schermo",
-            "pos": "noun",
-            "back": "screen",
-            "example": "Passo troppe ore davanti allo schermo.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Per anni molti pensavano che questo libro fosse impossibile da filmare.",
-            "point": "congiuntivo imperfetto after a past verb of opinion",
-            "explanation": "'Pensavano che questo libro fosse impossibile' needs the subjunctive because pensare che expresses an opinion, not a fact. Since the main verb 'pensavano' is in the past, the subjunctive also shifts to the past form 'fosse'.",
-            "why_tricky": "English simply says 'thought it was'. Learners write 'pensavano che era', which is common in casual speech but wrong in careful Italian."
-          },
-          {
-            "sentence": "La serie è girata in Colombia, con attori colombiani e in lingua spagnola.",
-            "point": "passive with essere and participle agreement",
-            "explanation": "'È girata' is a passive: the series is the thing being filmed, not the one doing the filming. With essere the participle agrees with the subject, so 'la serie' feminine singular gives 'girata'.",
-            "why_tricky": "The ending changes with the subject, so learners leave 'girato' by default and lose the agreement."
-          },
-          {
-            "sentence": "Dal 5 agosto arriva su Netflix la seconda parte della serie Cent'anni di solitudine.",
-            "point": "da + date for a starting point, with the subject after the verb",
-            "explanation": "'Dal 5 agosto' means 'from 5 August onwards', and the present tense 'arriva' is used for something scheduled in the near future. Italian happily puts the long subject after the verb to keep the sentence balanced.",
-            "why_tricky": "Learners use the future 'arriverà' where the present is more natural, and they force the English order with the subject first."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da mesi",
-            "meaning": "for months (and still going)",
-            "example": "Aspetto una risposta da mesi."
-          },
-          {
-            "phrase": "andare avanti",
-            "meaning": "to keep going, to move forward",
-            "example": "Dopo quel periodo difficile è andata avanti da sola."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Da dove viene la storia della serie?",
-            "type": "open"
-          },
-          {
-            "q": "Perché per molti anni il libro sembrava impossibile da filmare?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la serie può essere utile per chi studia lo spagnolo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci leggere un libro o guardare la serie tratta dal libro? Scrivi 80 parole e spiega la tua scelta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-social-voti-scuola",
-      "title": "L'uso dei social in adolescenza potrebbe incidere sui voti a scuola",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "scuola",
-        "salute"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-social-voti-scuola",
-        "revision": 1,
-        "meta": {
-          "title": "L'uso dei social in adolescenza potrebbe incidere sui voti a scuola",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/stili_di_vita/2026/08/03/luso-dei-social-in-adolescenza-potrebbe-incidere-sui-voti-a-scuola_443e6bf6-4d74-4c20-b164-67ce17d09a97.html",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "scuola",
-            "salute"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "An Italian study says that social networks can affect school marks. The researchers compared the results of the Invalsi tests in Italian and maths with the age at which young people opened their first social media profile. The finding is clear: those who start earlier get lower scores. The effect is not enormous, but it shows up consistently.\n\nExperts explain that the main problem is time. The hours spent on a screen are hours taken away from study, from reading and above all from sleep. A teenager who sleeps little struggles to concentrate the next day. Many teachers are asking for clearer rules on phone use in class. Others, though, prefer to work on digital education, because banning is not enough. The research continues and the results will also be useful to families.",
-        "resumen_es": "Uno studio italiano dice che i social network possono influire sui voti a scuola. I ricercatori hanno confrontato i risultati dei test Invalsi di italiano e matematica con l'età in cui i ragazzi hanno aperto il primo profilo social. Il dato è chiaro: chi comincia prima ottiene punteggi più bassi. L'effetto non è enorme, ma si vede in modo costante.\n\nGli esperti spiegano che il problema principale è il tempo. Le ore passate davanti allo schermo sono ore tolte allo studio, alla lettura e soprattutto al sonno. Un ragazzo che dorme poco fatica a concentrarsi il giorno dopo. Molti insegnanti chiedono regole più chiare sull'uso del telefono in classe. Altri, invece, preferiscono lavorare sull'educazione digitale, perché vietare non basta. La ricerca continua e i risultati saranno utili anche alle famiglie.",
-        "vocab": [
-          {
-            "front": "influire su",
-            "pos": "verb",
-            "back": "to affect, to have an influence on",
-            "example": "Il tempo libero influisce sul nostro umore.",
-            "tier": "B1"
-          },
-          {
-            "front": "il voto",
-            "pos": "noun",
-            "back": "mark, grade at school",
-            "example": "Ha preso un bel voto in matematica.",
-            "tier": "A2"
-          },
-          {
-            "front": "confrontare",
-            "pos": "verb",
-            "back": "to compare",
-            "example": "Ho confrontato i prezzi di tre negozi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il punteggio",
-            "pos": "noun",
-            "back": "score",
-            "example": "Il punteggio finale è stato molto alto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dato",
-            "pos": "noun",
-            "back": "figure, piece of data",
-            "example": "Questo dato è davvero interessante.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo schermo",
-            "pos": "noun",
-            "back": "screen",
-            "example": "Passo troppe ore davanti allo schermo.",
-            "tier": "A2"
-          },
-          {
-            "front": "togliere tempo a",
-            "pos": "phrase",
-            "back": "to take time away from",
-            "example": "Il lavoro mi toglie tempo alla famiglia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sonno",
-            "pos": "noun",
-            "back": "sleep",
-            "example": "Il sonno è importante quanto il cibo.",
-            "tier": "A2"
-          },
-          {
-            "front": "faticare a",
-            "pos": "verb",
-            "back": "to struggle to do something",
-            "example": "Fatico a svegliarmi presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "concentrarsi",
-            "pos": "verb",
-            "back": "to concentrate",
-            "example": "Non riesco a concentrarmi con la musica.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'insegnante",
-            "pos": "noun",
-            "back": "teacher",
-            "example": "La mia insegnante di storia è bravissima.",
-            "tier": "A2"
-          },
-          {
-            "front": "vietare",
-            "pos": "verb",
-            "back": "to ban, to forbid",
-            "example": "In questa scuola vietano il telefono.",
-            "tier": "B1"
-          },
-          {
-            "front": "bastare",
-            "pos": "verb",
-            "back": "to be enough",
-            "example": "Non basta studiare la sera prima.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il dato è chiaro: chi comincia prima ottiene punteggi più bassi.",
-            "point": "chi as 'those who' with a singular verb",
-            "explanation": "'Chi' introduces a general subject meaning 'the person who' or 'those who', and the verb after it always stays singular.",
-            "why_tricky": "The English meaning is plural, so learners write 'chi cominciano' or add 'le persone che'."
-          },
-          {
-            "sentence": "Le ore passate davanti allo schermo sono ore tolte allo studio, alla lettura e soprattutto al sonno.",
-            "point": "Past participle used as an adjective",
-            "explanation": "'Passate' and 'tolte' are participles working like adjectives, so they agree in gender and number with 'ore'.",
-            "why_tricky": "There is no auxiliary verb here, so learners do not expect agreement and leave the participle in the masculine singular."
-          },
-          {
-            "sentence": "Altri, invece, preferiscono lavorare sull'educazione digitale, perché vietare non basta.",
-            "point": "Infinitive as the subject of the sentence",
-            "explanation": "Italian uses the plain infinitive where English uses the -ing form, so 'vietare non basta' means 'banning is not enough'.",
-            "why_tricky": "Learners look for a gerund and produce 'vietando non basta', which is wrong in Italian."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non basta",
-            "meaning": "it is not enough, it does not solve the problem on its own",
-            "example": "Studiare la sera prima non basta."
-          },
-          {
-            "phrase": "il giorno dopo",
-            "meaning": "the following day",
-            "example": "Siamo tornati tardi e il giorno dopo ero stanchissimo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno confrontato i ricercatori nello studio?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il tempo è il problema principale, secondo gli esperti?",
-            "type": "open"
-          },
-          {
-            "q": "Quali due idee diverse hanno gli insegnanti sul telefono in classe?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, la scuola deve vietare il telefono in classe? Scrivi circa 100 parole con almeno due motivi."
       }
     }
   ]
