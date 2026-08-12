@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-12T08:22:28Z",
+  "generated_at": "2026-08-12T20:11:27Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-12-etna-eruzione-voli",
+      "title": "L'Etna in eruzione da sei giorni. Caos in Sicilia, 700 voli saltati",
+      "source": "ANSA",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "viaggi"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-etna-eruzione-voli",
+        "revision": 1,
+        "meta": {
+          "title": "L'Etna in eruzione da sei giorni. Caos in Sicilia, 700 voli saltati",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/letna-in-eruzione-da-sei-giorni.-caos-in-sicilia-700-voli-saltati_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "cronaca",
+            "viaggi"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Etna has been erupting for six days. The Sicilian volcano is throwing a lot of ash into the air. Ash is dangerous for aircraft engines. For that reason Catania airport has cancelled hundreds of flights. Tens of thousands of people have been left stranded, right in the middle of the summer holidays. Many tourists are looking for a train, a ferry or a bus to get home.\n\nIn Sicily an argument has broken out. Some politicians say the problem is not the volcano but the airport, which cannot cope with emergencies. Etna, after all, has always been active and eruptions are normal there. Others reply that safety comes before everything else. Over the coming days the situation will depend on the wind: if the ash goes out towards the sea, planes will be able to take off again. In the meantime many passengers are waiting for news inside the terminal.",
+        "resumen_es": "L'Etna erutta da sei giorni. Il vulcano siciliano manda in aria molta cenere. La cenere è pericolosa per i motori degli aerei. Per questo l'aeroporto di Catania ha cancellato centinaia di voli. Decine di migliaia di persone sono rimaste a terra, proprio nei giorni delle vacanze estive. Molti turisti cercano un treno, un traghetto o un autobus per tornare a casa.\n\nIn Sicilia è nata una polemica. Alcuni politici dicono che il problema non è il vulcano, ma l'aeroporto, che non riesce a gestire le emergenze. L'Etna, del resto, è sempre stato attivo e le eruzioni qui sono normali. Altri rispondono che la sicurezza viene prima di tutto. Nei prossimi giorni la situazione dipenderà dal vento: se la cenere va verso il mare, gli aerei potranno ripartire. Intanto molti passeggeri aspettano notizie dentro l'aeroporto.",
+        "vocab": [
+          {
+            "front": "l'eruzione",
+            "pos": "noun",
+            "back": "eruption",
+            "example": "L'eruzione è cominciata di notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vulcano",
+            "pos": "noun",
+            "back": "volcano",
+            "example": "Il vulcano si vede da lontano.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cenere",
+            "pos": "noun",
+            "back": "ash",
+            "example": "La cenere copre le strade del paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "il motore",
+            "pos": "noun",
+            "back": "engine",
+            "example": "Il motore dell'aereo fa molto rumore.",
+            "tier": "B1"
+          },
+          {
+            "front": "cancellare un volo",
+            "pos": "phrase",
+            "back": "to cancel a flight",
+            "example": "Hanno cancellato il mio volo per Roma.",
+            "tier": "B1"
+          },
+          {
+            "front": "rimanere a terra",
+            "pos": "phrase",
+            "back": "to be stranded, left on the ground",
+            "example": "Siamo rimasti a terra per due giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traghetto",
+            "pos": "noun",
+            "back": "ferry",
+            "example": "Prendiamo il traghetto per la Sicilia.",
+            "tier": "A2"
+          },
+          {
+            "front": "la polemica",
+            "pos": "noun",
+            "back": "row, controversy",
+            "example": "La decisione ha creato una polemica.",
+            "tier": "B1"
+          },
+          {
+            "front": "riuscire a",
+            "pos": "verb",
+            "back": "to manage to, to be able to",
+            "example": "Non riesco a dormire con questo caldo.",
+            "tier": "A2"
+          },
+          {
+            "front": "gestire",
+            "pos": "verb",
+            "back": "to manage, to handle",
+            "example": "È difficile gestire tanti passeggeri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sicurezza",
+            "pos": "noun",
+            "back": "safety, security",
+            "example": "La sicurezza dei viaggiatori viene prima.",
+            "tier": "A2"
+          },
+          {
+            "front": "dipendere da",
+            "pos": "verb",
+            "back": "to depend on",
+            "example": "Tutto dipende dal tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "ripartire",
+            "pos": "verb",
+            "back": "to set off again, to depart again",
+            "example": "Il treno riparte tra dieci minuti.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La cenere è pericolosa per i motori degli aerei.",
+            "point": "preposizioni articolate (di + i = degli)",
+            "explanation": "In italiano la preposizione si unisce all'articolo: di + i diventa 'degli'. Qui 'degli aerei' significa 'of the planes'.",
+            "why_tricky": "Lo studente inglese pensa in due parole separate ('of the') e scrive 'di i aerei', forma sempre sbagliata."
+          },
+          {
+            "sentence": "Alcuni politici dicono che il problema non è il vulcano, ma l'aeroporto, che non riesce a gestire le emergenze.",
+            "point": "riuscire a + infinito",
+            "explanation": "'Riuscire' regge sempre la preposizione 'a' davanti all'infinito: 'riesce a gestire'. Significa 'manage to do', non semplicemente 'can'.",
+            "why_tricky": "Si confonde con 'potere', che non vuole preposizione ('può gestire'), e la 'a' sparisce."
+          },
+          {
+            "sentence": "Nei prossimi giorni la situazione dipenderà dal vento: se la cenere va verso il mare, gli aerei potranno ripartire.",
+            "point": "futuro semplice e periodo ipotetico della realtà",
+            "explanation": "Nel periodo ipotetico reale si usa il presente dopo 'se' ('se la cenere va') e il futuro nella frase principale ('potranno ripartire').",
+            "why_tricky": "Molti studenti mettono il futuro anche dopo 'se', costruzione che in italiano suona pesante e di solito si evita."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere in alto mare",
+            "meaning": "to be nowhere near finished, still all up in the air",
+            "example": "L'organizzazione dei voli è ancora in alto mare."
+          },
+          {
+            "phrase": "prima di tutto",
+            "meaning": "first of all, above all",
+            "example": "Prima di tutto pensiamo alla sicurezza."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché l'aeroporto di Catania ha cancellato molti voli?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dicono alcuni politici siciliani sul problema?",
+            "type": "open"
+          },
+          {
+            "q": "Da che cosa dipende la situazione nei prossimi giorni?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Sei mai rimasto bloccato in un aeroporto o in una stazione? Scrivi circa 100 parole e racconta che cosa hai fatto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-ue-imballaggi-plastica",
+      "title": "Scatta la stretta Ue sugli imballaggi: dal 2030 stop agli involucri monouso di plastica",
+      "source": "Rai News",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-ue-imballaggi-plastica",
+        "revision": 1,
+        "meta": {
+          "title": "Scatta la stretta Ue sugli imballaggi: dal 2030 stop agli involucri monouso di plastica",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/scatta-la-stretta-ue-sugli-imballaggi-dal-2030-stop-agli-involucri-monouso-di-plastica-9d537f14-e0ff-4585-9aa4-5248c086b0b2.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "ambiente",
+            "Europa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The first new European rules on packaging come into force today. The aim is simple: to produce less waste. Every European citizen throws away about half a kilo of packaging a day. That means boxes, bags, bottles and plastic film. From 2030 many single-use plastic wrappings will be banned, for example those used for fruit and vegetables or the little single-portion sachets in cafes.\n\nCompanies will have a few years to get ready. They will have to use recyclable materials and cut down the empty space inside parcels. Shops will change too: there will be more loose products and more containers that you take back. According to the European Commission, these measures will help to save energy and raw materials. Some business associations, however, fear high costs and are asking for more time. Consumers, meanwhile, will notice the first differences when they do the shopping.",
+        "resumen_es": "Da oggi in Europa entrano in vigore le prime regole nuove sugli imballaggi. L'obiettivo è semplice: produrre meno rifiuti. Ogni cittadino europeo butta via circa mezzo chilo di imballaggi al giorno. Sono scatole, sacchetti, bottiglie e pellicole di plastica. Dal 2030 saranno vietati molti involucri di plastica usa e getta, per esempio quelli per la frutta e la verdura o le bustine monouso nei bar.\n\nLe aziende avranno alcuni anni per prepararsi. Dovranno usare materiali riciclabili e ridurre lo spazio vuoto dentro i pacchi. Anche i negozi cambieranno: ci saranno più prodotti sfusi e più contenitori da riportare indietro. Secondo la Commissione europea, queste misure aiuteranno a risparmiare energia e materie prime. Alcune associazioni di imprese, però, temono costi alti e chiedono più tempo. I consumatori, intanto, noteranno le prime differenze quando faranno la spesa.",
+        "vocab": [
+          {
+            "front": "l'imballaggio",
+            "pos": "noun",
+            "back": "packaging",
+            "example": "L'imballaggio di questo pacco è enorme.",
+            "tier": "B1"
+          },
+          {
+            "front": "entrare in vigore",
+            "pos": "phrase",
+            "back": "to come into force",
+            "example": "La legge entra in vigore a settembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "i rifiuti",
+            "pos": "noun",
+            "back": "waste, rubbish",
+            "example": "In estate ci sono più rifiuti in spiaggia.",
+            "tier": "A2"
+          },
+          {
+            "front": "buttare via",
+            "pos": "verb",
+            "back": "to throw away",
+            "example": "Non buttare via quella bottiglia.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sacchetto",
+            "pos": "noun",
+            "back": "bag (small, plastic or paper)",
+            "example": "Mi dà un sacchetto, per favore?",
+            "tier": "A2"
+          },
+          {
+            "front": "usa e getta",
+            "pos": "adj",
+            "back": "single-use, disposable",
+            "example": "Nel bar non usano più bicchieri usa e getta.",
+            "tier": "B1"
+          },
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to ban, to forbid",
+            "example": "Qui è vietato fumare.",
+            "tier": "B1"
+          },
+          {
+            "front": "riciclabile",
+            "pos": "adj",
+            "back": "recyclable",
+            "example": "Questa carta è riciclabile.",
+            "tier": "B1"
+          },
+          {
+            "front": "sfuso",
+            "pos": "adj",
+            "back": "loose, unpackaged",
+            "example": "Compro sempre la pasta sfusa.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (money, energy)",
+            "example": "Così risparmiamo molta energia.",
+            "tier": "A2"
+          },
+          {
+            "front": "le materie prime",
+            "pos": "phrase",
+            "back": "raw materials",
+            "example": "Le materie prime costano di più.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid of",
+            "example": "Le imprese temono nuove tasse.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare la spesa",
+            "pos": "phrase",
+            "back": "to do the grocery shopping",
+            "example": "Faccio la spesa il sabato mattina.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Dal 2030 saranno vietati molti involucri di plastica usa e getta, per esempio quelli per la frutta e la verdura o le bustine monouso nei bar.",
+            "point": "passivo con essere al futuro",
+            "explanation": "'Saranno vietati' è un passivo: essere al futuro più il participio, che concorda con il soggetto plurale maschile 'involucri'.",
+            "why_tricky": "Il participio deve concordare ('vietati', non 'vietato'), cosa che in inglese non succede mai."
+          },
+          {
+            "sentence": "Le aziende avranno alcuni anni per prepararsi.",
+            "point": "futuro di avere + infinito riflessivo",
+            "explanation": "Con un infinito riflessivo il pronome si attacca alla fine del verbo: 'prepararsi', non 'si preparare'.",
+            "why_tricky": "In inglese il riflessivo è una parola separata dopo il verbo, quindi si tende a staccarlo anche in italiano."
+          },
+          {
+            "sentence": "I consumatori, intanto, noteranno le prime differenze quando faranno la spesa.",
+            "point": "futuro dopo 'quando'",
+            "explanation": "Se l'azione è futura, l'italiano usa il futuro anche dopo 'quando': 'quando faranno la spesa'.",
+            "why_tricky": "L'inglese usa il presente dopo 'when' ('when they do the shopping'), quindi lo studente scrive 'quando fanno la spesa'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare i conti con",
+            "meaning": "to have to deal with something",
+            "example": "Le aziende devono fare i conti con le nuove regole."
+          },
+          {
+            "phrase": "a poco a poco",
+            "meaning": "little by little",
+            "example": "A poco a poco i negozi cambieranno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Qual è l'obiettivo principale delle nuove regole europee?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dovranno fare le aziende nei prossimi anni?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune imprese non sono contente di queste misure?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nel tuo paese si usa troppa plastica nei negozi? Scrivi circa 100 parole e proponi due idee per ridurla."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-record-auto-idrogeno",
+      "title": "Nuovo record di velocità per un'auto a idrogeno: Andy Green sfiora i 654 chilometri orari",
+      "source": "Rai News",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "motori"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-record-auto-idrogeno",
+        "revision": 1,
+        "meta": {
+          "title": "Nuovo record di velocità per un'auto a idrogeno: Andy Green sfiora i 654 chilometri orari",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/nuovo-record-di-velocita-per-unauto-a-idrogeno-andy-green-sfiora-i-654-chilometri-orari-6fd16d31-3b2f-42ed-a35e-58fde6536573.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "tecnologia",
+            "motori"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A hydrogen-powered car has set a new speed record in the Utah desert, in the United States. At the wheel was Andy Green, a retired English pilot from the Royal Air Force. The car is almost ten metres long and has two very powerful hydrogen engines. On the famous Bonneville salt flats the vehicle came close to 654 kilometres an hour. It is an important result, because speed records are usually set with petrol engines.\n\nHydrogen is of great interest to car makers. When it burns hydrogen, the engine does not produce carbon dioxide. The problem is the price: producing clean hydrogen still costs too much and there are very few filling stations. That is why, for now, hydrogen is used above all for lorries, trains and prototypes like this one. Records in the desert serve this purpose too: showing the public that a new technology can be fast, safe and exciting.",
+        "resumen_es": "Un'automobile a idrogeno ha stabilito un nuovo record di velocità nel deserto dello Utah, negli Stati Uniti. Al volante c'era Andy Green, un pilota inglese in pensione della Royal Air Force. La vettura è lunga quasi dieci metri e ha due motori a idrogeno molto potenti. Sul famoso lago salato di Bonneville la macchina ha sfiorato i 654 chilometri orari. È un risultato importante, perché di solito i record di velocità si fanno con motori a benzina.\n\nL'idrogeno interessa molto ai costruttori di auto. Bruciando idrogeno, infatti, il motore non produce anidride carbonica. Il problema è il prezzo: produrre idrogeno pulito costa ancora troppo e le stazioni di rifornimento sono poche. Per questo, per ora, l'idrogeno si usa soprattutto per camion, treni e prototipi come questo. I record nel deserto servono anche a questo: mostrare al pubblico che una tecnologia nuova può essere veloce e sicura.",
+        "vocab": [
+          {
+            "front": "stabilire un record",
+            "pos": "phrase",
+            "back": "to set a record",
+            "example": "Ha stabilito un record nei cento metri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la velocità",
+            "pos": "noun",
+            "back": "speed",
+            "example": "La velocità massima qui è 90 all'ora.",
+            "tier": "A2"
+          },
+          {
+            "front": "al volante",
+            "pos": "phrase",
+            "back": "at the wheel, driving",
+            "example": "Al volante c'era mio fratello.",
+            "tier": "B1"
+          },
+          {
+            "front": "in pensione",
+            "pos": "phrase",
+            "back": "retired",
+            "example": "Mio padre è in pensione da due anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vettura",
+            "pos": "noun",
+            "back": "car (more formal than 'macchina')",
+            "example": "La vettura è pronta per la gara.",
+            "tier": "B1"
+          },
+          {
+            "front": "potente",
+            "pos": "adj",
+            "back": "powerful",
+            "example": "È un motore molto potente.",
+            "tier": "A2"
+          },
+          {
+            "front": "sfiorare",
+            "pos": "verb",
+            "back": "to come close to, to just touch",
+            "example": "Il prezzo ha sfiorato i mille euro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il costruttore",
+            "pos": "noun",
+            "back": "manufacturer, maker",
+            "example": "I costruttori tedeschi investono molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "bruciare",
+            "pos": "verb",
+            "back": "to burn",
+            "example": "Questo motore brucia poco carburante.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rifornimento",
+            "pos": "noun",
+            "back": "refuelling",
+            "example": "Ci fermiamo per il rifornimento.",
+            "tier": "B1"
+          },
+          {
+            "front": "il camion",
+            "pos": "noun",
+            "back": "lorry, truck",
+            "example": "Sull'autostrada ci sono molti camion.",
+            "tier": "A2"
+          },
+          {
+            "front": "il prototipo",
+            "pos": "noun",
+            "back": "prototype",
+            "example": "Hanno presentato il primo prototipo.",
+            "tier": "B1"
+          },
+          {
+            "front": "di solito",
+            "pos": "adv",
+            "back": "usually",
+            "example": "Di solito vado al lavoro in bici.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La vettura è lunga quasi dieci metri e ha due motori a idrogeno molto potenti.",
+            "point": "accordo dell'aggettivo",
+            "explanation": "'Lunga' è femminile singolare perché descrive 'la vettura'; 'potenti' è plurale perché descrive 'due motori'.",
+            "why_tricky": "In inglese l'aggettivo non cambia mai, quindi è facile scrivere 'lungo' o 'potente' senza guardare il nome."
+          },
+          {
+            "sentence": "Bruciando idrogeno, infatti, il motore non produce anidride carbonica.",
+            "point": "gerundio con valore di 'quando / se'",
+            "explanation": "Il gerundio 'bruciando' sostituisce una frase come 'quando brucia idrogeno' e ha lo stesso soggetto del verbo principale.",
+            "why_tricky": "Il gerundio italiano assomiglia alla forma inglese in '-ing', ma non si usa mai per il presente progressivo senza 'stare'."
+          },
+          {
+            "sentence": "Il problema è il prezzo: produrre idrogeno pulito costa ancora troppo e le stazioni di rifornimento sono poche.",
+            "point": "infinito come soggetto della frase",
+            "explanation": "In italiano l'infinito può essere soggetto: 'produrre idrogeno pulito costa troppo'. Il verbo resta alla terza persona singolare.",
+            "why_tricky": "L'inglese preferisce la forma in '-ing' ('producing costs'), quindi si tende a cercare un equivalente con il gerundio."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a tutta velocità",
+            "meaning": "at full speed",
+            "example": "L'auto è passata a tutta velocità."
+          },
+          {
+            "phrase": "essere ancora lontano",
+            "meaning": "to be still a long way off",
+            "example": "Un'auto a idrogeno per tutti è ancora lontana."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi guidava l'auto durante il record e che lavoro faceva prima?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'idrogeno interessa ai costruttori di automobili?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono oggi i problemi principali dell'idrogeno?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, come saranno le automobili tra vent'anni? Scrivi circa 100 parole e spiega perché."
+      }
+    },
     {
       "pack_id": "feed-2026-08-12-mozzarella-bufala-mucca",
       "title": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
@@ -6182,520 +6689,6 @@
           }
         ],
         "opinion_prompt": "Ti piacerebbe incontrare una persona famosa? Scrivi circa 100 parole: chi vorresti incontrare e che cosa gli diresti."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-sanremo-giovani-regole",
-      "title": "Sanremo Giovani si cambia, un unico vincitore sarà all'Ariston tra i Big",
-      "source": "ANSA",
-      "date": "2026-08-05",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "televisione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-sanremo-giovani-regole",
-        "revision": 1,
-        "meta": {
-          "title": "Sanremo Giovani si cambia, un unico vincitore sarà all'Ariston tra i Big",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/08/05/sanremo-giovani-si-cambia-un-unico-vincitore-sara-allariston-tra-i-big_41e8a00f-daac-42b9-b9ee-87272c8b93a1.html",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "musica",
-            "televisione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Sanremo Giovani is changing its rules. From this year there will be a single winner, and that singer will go to the Ariston Theatre together with the Big names. Before, there were more young singers competing at the festival. The new rules will be online from Friday 7 August. Anyone who wants to take part will be able to read all the conditions.\n\nSanremo Giovani is an important competition for singers at the start of their career. Many famous artists in Italy started right here. With the new rule the competition becomes harder, because there is only one place available. Some think that this way the winner will get more space and a bigger audience. Others fear that fewer young people will be able to make themselves known. The answer will come in February, during the festival.",
-        "resumen_es": "Sanremo Giovani cambia le regole. Da quest'anno ci sarà un solo vincitore, e questo cantante andrà al Teatro Ariston insieme ai Big. Prima invece i giovani cantanti in gara al festival erano di più. Il nuovo regolamento sarà online da venerdì 7 agosto. Chi vuole partecipare potrà leggere tutte le condizioni.\n\nSanremo Giovani è una gara importante per i cantanti all'inizio della carriera. Molti artisti famosi in Italia sono partiti proprio da qui. Con la nuova regola la competizione diventa più dura, perché il posto disponibile è uno solo. Alcuni pensano che così il vincitore avrà più spazio e più pubblico. Altri temono che meno giovani potranno farsi conoscere. La risposta arriverà a febbraio, durante il festival.",
-        "vocab": [
-          {
-            "front": "la regola",
-            "pos": "noun",
-            "back": "the rule",
-            "example": "Le regole del gioco sono semplici.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vincitore",
-            "pos": "noun",
-            "back": "the winner",
-            "example": "Il vincitore riceve un premio in denaro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cantante",
-            "pos": "noun",
-            "back": "the singer",
-            "example": "Quel cantante ha una voce bellissima.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gara",
-            "pos": "noun",
-            "back": "the competition, the contest",
-            "example": "Ho partecipato a una gara di cucina.",
-            "tier": "B1"
-          },
-          {
-            "front": "il regolamento",
-            "pos": "noun",
-            "back": "the rules, the regulations (document)",
-            "example": "Il regolamento è sul sito della scuola.",
-            "tier": "B2"
-          },
-          {
-            "front": "partecipare a",
-            "pos": "verb",
-            "back": "to take part in",
-            "example": "Voglio partecipare al concorso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la carriera",
-            "pos": "noun",
-            "back": "the career",
-            "example": "Ha iniziato la carriera a vent'anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "disponibile",
-            "pos": "adj",
-            "back": "available",
-            "example": "Non c'è nessun posto disponibile.",
-            "tier": "B1"
-          },
-          {
-            "front": "duro",
-            "pos": "adj",
-            "back": "hard, tough",
-            "example": "È stato un anno molto duro per tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "temere",
-            "pos": "verb",
-            "back": "to fear, to be afraid that",
-            "example": "Temo di arrivare in ritardo.",
-            "tier": "B2"
-          },
-          {
-            "front": "farsi conoscere",
-            "pos": "phrase",
-            "back": "to make oneself known",
-            "example": "Usa i social per farsi conoscere.",
-            "tier": "B2"
-          },
-          {
-            "front": "proprio",
-            "pos": "adv",
-            "back": "exactly, right (for emphasis)",
-            "example": "Abito proprio qui, dietro l'angolo.",
-            "tier": "B1"
-          },
-          {
-            "front": "insieme a",
-            "pos": "phrase",
-            "back": "together with",
-            "example": "Viaggio insieme a mia sorella.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Da quest'anno ci sarà un solo vincitore, e questo cantante andrà al Teatro Ariston insieme ai Big.",
-            "point": "Futuro semplice",
-            "explanation": "'Sarà' e 'andrà' sono futuri semplici irregolari di 'essere' e 'andare'. Si usano per fatti programmati che devono ancora succedere.",
-            "why_tricky": "In italiano parlato spesso si usa il presente per il futuro, ma nei testi di notizie il futuro semplice resta normale."
-          },
-          {
-            "sentence": "Altri temono che meno giovani potranno farsi conoscere.",
-            "point": "'Temere che' e il verbo riflessivo 'farsi'",
-            "explanation": "'Farsi conoscere' unisce il verbo 'fare' riflessivo con un infinito: significa fare in modo che gli altri ti conoscano. La forma piu' curata dopo 'temere che' sarebbe il congiuntivo, ma la lingua dei giornali accetta anche l'indicativo futuro.",
-            "why_tricky": "La costruzione 'farsi + infinito' non esiste in inglese e va imparata come blocco unico."
-          },
-          {
-            "sentence": "Con la nuova regola la competizione diventa più dura, perché il posto disponibile è uno solo.",
-            "point": "Accordo dell'aggettivo con il nome femminile",
-            "explanation": "'Competizione' è femminile singolare, quindi l'aggettivo diventa 'dura' e non 'duro'. L'accordo vale anche dopo il verbo 'diventare'.",
-            "why_tricky": "Gli aggettivi in italiano cambiano anche quando stanno lontano dal nome, dopo verbi come essere, sembrare o diventare."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "farsi conoscere",
-            "meaning": "diventare noto al pubblico",
-            "example": "Con quella canzone si è fatto conoscere in tutta Italia."
-          },
-          {
-            "phrase": "partire da zero",
-            "meaning": "cominciare senza niente e senza aiuti",
-            "example": "È partita da zero e oggi ha il suo studio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa cambia quest'anno a Sanremo Giovani?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa gara è importante per i cantanti giovani?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono le opinioni diverse sulla nuova regola?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te i programmi televisivi sono un buon modo per scoprire nuovi cantanti? Scrivi circa 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-farfalle-clima-habitat",
-      "title": "Farfalle in fuga dal clima, l'80% delle specie cerca nuovi habitat",
-      "source": "Rai News",
-      "date": "2026-08-05",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-farfalle-clima-habitat",
-        "revision": 1,
-        "meta": {
-          "title": "Farfalle in fuga dal clima, l'80% delle specie cerca nuovi habitat",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/farfalle-in-fuga-dal-clima-l80-delle-specie-cerca-nuovi-habitat-8b2e6fb0-5336-41ef-824e-98e246ed85a7.html",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "ambiente",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Almost 80% of butterfly species in the world have changed their territory. The insects are looking for new habitats because the climate has become hotter. Many butterflies are moving up towards the mountains or going north, where temperatures are lower. Scientists have studied data collected in many countries and have seen the same movement almost everywhere.\n\nThis change is not good news. Butterflies are important because they carry the pollen of flowers and are food for birds. If they move, other species have to adapt too. What is more, not all of them manage to find a suitable place: some find only cities, farmed fields or roads. For researchers, butterflies are a useful signal: they show clearly how the climate is changing nature.",
-        "resumen_es": "Quasi l'80% delle specie di farfalle nel mondo ha cambiato il proprio territorio. Gli insetti cercano nuovi habitat perché il clima è diventato più caldo. Molte farfalle salgono verso le montagne o vanno verso nord, dove le temperature sono più basse. Gli scienziati hanno studiato dati raccolti in molti Paesi e hanno visto lo stesso movimento quasi ovunque.\n\nQuesto cambiamento non è una buona notizia. Le farfalle sono importanti perché trasportano il polline dei fiori e sono cibo per gli uccelli. Se si spostano, anche altre specie devono adattarsi. Inoltre non tutte riescono a trovare un posto adatto: alcune trovano solo città, campi coltivati o strade. Per gli studiosi le farfalle sono un segnale utile: mostrano in modo chiaro come il clima sta cambiando la natura.",
-        "vocab": [
-          {
-            "front": "la farfalla",
-            "pos": "noun",
-            "back": "the butterfly",
-            "example": "In giardino c'erano tante farfalle bianche.",
-            "tier": "B1"
-          },
-          {
-            "front": "la specie",
-            "pos": "noun",
-            "back": "the species",
-            "example": "Questa specie vive solo in montagna.",
-            "tier": "B1"
-          },
-          {
-            "front": "il territorio",
-            "pos": "noun",
-            "back": "the territory, the area",
-            "example": "L'animale difende il suo territorio.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'insetto",
-            "pos": "noun",
-            "back": "the insect",
-            "example": "Gli insetti sono utili per l'agricoltura.",
-            "tier": "B1"
-          },
-          {
-            "front": "diventare",
-            "pos": "verb",
-            "back": "to become",
-            "example": "L'estate è diventata più lunga.",
-            "tier": "B1"
-          },
-          {
-            "front": "raccogliere",
-            "pos": "verb",
-            "back": "to collect, to gather",
-            "example": "Abbiamo raccolto i dati in sei mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "ovunque",
-            "pos": "adv",
-            "back": "everywhere",
-            "example": "Trovi questo problema ovunque in Europa.",
-            "tier": "B2"
-          },
-          {
-            "front": "trasportare",
-            "pos": "verb",
-            "back": "to carry, to transport",
-            "example": "Il vento trasporta la sabbia lontano.",
-            "tier": "B1"
-          },
-          {
-            "front": "il polline",
-            "pos": "noun",
-            "back": "pollen",
-            "example": "In primavera c'è molto polline nell'aria.",
-            "tier": "B2"
-          },
-          {
-            "front": "spostarsi",
-            "pos": "verb",
-            "back": "to move, to shift position",
-            "example": "Mi sposto di due metri e ti faccio passare.",
-            "tier": "B1"
-          },
-          {
-            "front": "adattarsi",
-            "pos": "verb",
-            "back": "to adapt",
-            "example": "I bambini si adattano subito alle novità.",
-            "tier": "B2"
-          },
-          {
-            "front": "il campo coltivato",
-            "pos": "noun",
-            "back": "the farmed field",
-            "example": "Intorno al paese ci sono campi coltivati.",
-            "tier": "B2"
-          },
-          {
-            "front": "il segnale",
-            "pos": "noun",
-            "back": "the sign, the signal",
-            "example": "È un segnale chiaro che qualcosa non va.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli insetti cercano nuovi habitat perché il clima è diventato più caldo.",
-            "point": "Passato prossimo di 'diventare' con 'essere'",
-            "explanation": "'Diventare' vuole l'ausiliare 'essere', quindi si dice 'è diventato' e mai 'ha diventato'. L'aggettivo che segue concorda con il soggetto.",
-            "why_tricky": "In inglese 'become' usa sempre 'have', quindi l'ausiliare 'essere' sembra strano."
-          },
-          {
-            "sentence": "Se si spostano, anche altre specie devono adattarsi.",
-            "point": "Periodo ipotetico della realtà",
-            "explanation": "Con 'se' più presente indicativo si esprime una condizione considerata reale o molto probabile, e la conseguenza va anche lei al presente.",
-            "why_tricky": "Molti studenti mettono il congiuntivo dopo 'se', ma nel periodo ipotetico della realtà si usa l'indicativo."
-          },
-          {
-            "sentence": "Inoltre non tutte riescono a trovare un posto adatto: alcune trovano solo città, campi coltivati o strade.",
-            "point": "'Riuscire a' più infinito",
-            "explanation": "'Riuscire' regge sempre la preposizione 'a' davanti all'infinito e significa avere successo nel fare qualcosa.",
-            "why_tricky": "Si confonde con 'potere', che non vuole preposizione: 'possono trovare' ma 'riescono a trovare'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere un campanello d'allarme",
-            "meaning": "essere un segnale di pericolo",
-            "example": "Il caldo di luglio è un campanello d'allarme per gli agricoltori."
-          },
-          {
-            "phrase": "avere le ali",
-            "meaning": "sentirsi liberi e leggeri",
-            "example": "Dopo l'esame mi sembrava di avere le ali."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché le farfalle cercano nuovi habitat?",
-            "type": "open"
-          },
-          {
-            "q": "In quali direzioni si spostano gli insetti e perché?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi trovano le farfalle quando cambiano zona?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa possiamo fare nelle nostre città per aiutare gli insetti e gli animali piccoli? Scrivi circa 100 parole con due idee concrete."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-dicaprio-bezos-specie",
-      "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
-      "source": "ANSA",
-      "date": "2026-08-05",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "animali"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-dicaprio-bezos-specie",
-        "revision": 1,
-        "meta": {
-          "title": "Leonardo DiCaprio e Jeff Bezos lanciano progetto per salvare 100 specie a rischio",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/04/leonardo-dicaprio-e-jeff-bezos-lanciano-progetto-per-salvare-100-specie_12bcb1b2-2e8c-4e73-a7b9-32e11531cff2.html",
-          "date_published": "2026-08-04",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "ambiente",
-            "animali"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The actor Leonardo DiCaprio and the businessman Jeff Bezos have launched a new environmental project together. It is called the Phoenix Species Project and it is a fund of 200 million dollars. The aim is to save a hundred animal and plant species that risk disappearing. The money will be used to protect natural habitats and to support the work of researchers. The project is philanthropic: it is not looking for a profit, but wants to help nature.\n\nMany species are in danger because of human activity. The loss of habitats, pollution and climate change make life difficult for many animals. In recent years several celebrities have decided to fund similar projects. Some experts, however, say that private money is not enough. In their view stronger laws and clear political choices are also needed. The coming months will tell which species will receive the first help.",
-        "resumen_es": "L'attore Leonardo DiCaprio e l'imprenditore Jeff Bezos hanno lanciato insieme un nuovo progetto per l'ambiente. Si chiama Phoenix Species Project ed è un fondo da 200 milioni di dollari. L'obiettivo è salvare cento specie animali e vegetali che rischiano di scomparire. I soldi serviranno a proteggere gli habitat naturali e a sostenere il lavoro dei ricercatori. Il progetto è filantropico: non cerca un guadagno, ma vuole aiutare la natura.\n\nMolte specie sono in pericolo a causa dell'attività umana. La perdita degli habitat, l'inquinamento e il cambiamento climatico rendono la vita difficile a molti animali. Negli ultimi anni diverse celebrità hanno deciso di finanziare progetti simili. Alcuni esperti però dicono che il denaro privato non basta. Secondo loro servono anche leggi più forti e scelte politiche chiare. I prossimi mesi diranno quali specie riceveranno i primi aiuti.",
-        "vocab": [
-          {
-            "front": "lanciare un progetto",
-            "pos": "phrase",
-            "back": "to launch a project",
-            "example": "Il Comune ha lanciato un progetto per le scuole.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'imprenditore",
-            "pos": "noun",
-            "back": "businessman, entrepreneur",
-            "example": "Mio zio è un imprenditore agricolo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fondo",
-            "pos": "noun",
-            "back": "fund (of money)",
-            "example": "Hanno creato un fondo per gli studenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la specie",
-            "pos": "noun",
-            "back": "species",
-            "example": "Questa specie vive solo in Africa.",
-            "tier": "B1"
-          },
-          {
-            "front": "rischiare di",
-            "pos": "verb",
-            "back": "to risk (doing something)",
-            "example": "Rischio di arrivare tardi.",
-            "tier": "B1"
-          },
-          {
-            "front": "scomparire",
-            "pos": "verb",
-            "back": "to disappear",
-            "example": "Molti insetti stanno scomparendo.",
-            "tier": "B1"
-          },
-          {
-            "front": "servire a",
-            "pos": "verb",
-            "back": "to be used for, to serve to",
-            "example": "Questi soldi servono a comprare i libri.",
-            "tier": "A2"
-          },
-          {
-            "front": "sostenere",
-            "pos": "verb",
-            "back": "to support",
-            "example": "Vogliamo sostenere le famiglie giovani.",
-            "tier": "B1"
-          },
-          {
-            "front": "il guadagno",
-            "pos": "noun",
-            "back": "profit, earnings",
-            "example": "Il guadagno di quest'anno è basso.",
-            "tier": "B1"
-          },
-          {
-            "front": "essere in pericolo",
-            "pos": "phrase",
-            "back": "to be in danger",
-            "example": "Il panda non è più in pericolo come prima.",
-            "tier": "A2"
-          },
-          {
-            "front": "a causa di",
-            "pos": "phrase",
-            "back": "because of",
-            "example": "Il treno è in ritardo a causa del maltempo.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'inquinamento",
-            "pos": "noun",
-            "back": "pollution",
-            "example": "In città l'inquinamento è alto.",
-            "tier": "B1"
-          },
-          {
-            "front": "finanziare",
-            "pos": "verb",
-            "back": "to fund, to finance",
-            "example": "Chi finanzia questa ricerca?",
-            "tier": "B1"
-          },
-          {
-            "front": "non bastare",
-            "pos": "verb",
-            "back": "not to be enough",
-            "example": "Un giorno non basta per visitare Roma.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "I soldi serviranno a proteggere gli habitat naturali e a sostenere il lavoro dei ricercatori.",
-            "point": "Il futuro semplice e la preposizione 'a' dopo 'servire'",
-            "explanation": "'Serviranno' è il futuro di 'servire'. Dopo 'servire' si usa la preposizione 'a' più l'infinito, e la 'a' si ripete davanti a ogni infinito della lista.",
-            "why_tricky": "In inglese si dice 'will be used to protect and support', senza ripetere niente. In italiano la 'a' va ripetuta, altrimenti la frase suona incompleta."
-          },
-          {
-            "sentence": "La perdita degli habitat, l'inquinamento e il cambiamento climatico rendono la vita difficile a molti animali.",
-            "point": "'Rendere' + aggettivo per esprimere un cambiamento",
-            "explanation": "'Rendere qualcosa + aggettivo' significa 'far diventare'. Qui l'aggettivo 'difficile' descrive 'la vita', non i soggetti della frase.",
-            "why_tricky": "Molti studenti usano 'fare' al posto di 'rendere' e dicono 'fanno la vita difficile', che è possibile ma meno preciso. Inoltre l'aggettivo deve concordare con l'oggetto, non con il soggetto."
-          },
-          {
-            "sentence": "Negli ultimi anni diverse celebrità hanno deciso di finanziare progetti simili.",
-            "point": "Il passato prossimo con 'negli ultimi anni'",
-            "explanation": "Quando si parla di un periodo che arriva fino a oggi, l'italiano usa il passato prossimo con l'ausiliare 'avere' e il participio 'deciso'. Dopo 'decidere' serve la preposizione 'di'.",
-            "why_tricky": "'Celebrità' è invariabile al plurale, quindi solo l'articolo e l'aggettivo 'diverse' mostrano che si parla di più persone."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a causa di",
-            "meaning": "per colpa di qualcosa di negativo",
-            "example": "Abbiamo perso la partita a causa della pioggia."
-          },
-          {
-            "phrase": "secondo loro",
-            "meaning": "per la loro opinione",
-            "example": "Secondo loro il film era noioso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi ha lanciato il Phoenix Species Project e con quanti soldi?",
-            "type": "open"
-          },
-          {
-            "q": "Perché molte specie sono in pericolo oggi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dicono alcuni esperti del denaro privato?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te i personaggi famosi possono davvero aiutare l'ambiente? Scrivi 80 o 100 parole e spiega la tua opinione con due esempi."
       }
     }
   ]
