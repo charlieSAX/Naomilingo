@@ -1,7 +1,503 @@
 {
-  "generated_at": "2026-08-11T20:22:04Z",
+  "generated_at": "2026-08-12T08:22:28Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-12-mozzarella-bufala-mucca",
+      "title": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
+      "source": "ANSA",
+      "date": "2026-08-06",
+      "level": "A2-B1",
+      "topics": [
+        "cibo",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-mozzarella-bufala-mucca",
+        "revision": 1,
+        "meta": {
+          "title": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/podcast/ansa_verified/2026/08/06/e-vero-che-la-mozzarella-di-bufala-e-piu-grassa-della-mozzarella-di-mucca_56c87e1c-2750-408d-8ec5-2c4165063526.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "cibo",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Is it true that buffalo mozzarella is fattier than cow's mozzarella? It is a question a lot of people ask themselves in front of the supermarket counter. The short answer is yes. Buffalo milk is richer in fat and protein, so the mozzarella made from this milk is also denser and tastier. Mozzarella made with cow's milk, on the other hand, is lighter and has a more delicate flavour.\n\nThis does not mean, though, that one is healthy and the other is not. What matters above all is the amount we eat and what we put on the rest of the plate. Buffalo mozzarella has more calories, but it also has a stronger taste, so often a little is enough. In the kitchen it makes sense to choose according to taste and use: buffalo mozzarella is perfect on its own, with tomato and a drizzle of olive oil; fiordilatte works better on pizza, because it releases less water while it cooks.",
+        "resumen_es": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca? È una domanda che molte persone si fanno davanti al banco del supermercato. La risposta breve è sì. Il latte di bufala è più ricco di grassi e di proteine, quindi anche la mozzarella che si ottiene è più densa e saporita. La mozzarella di mucca, invece, è più leggera e ha un gusto più delicato.\n\nQuesto però non vuol dire che una sia sana e l'altra no. Contano soprattutto la quantità e quello che mettiamo nel resto del piatto. La bufala ha più calorie, ma ha anche un gusto più forte, quindi spesso ne basta poca. In cucina conviene scegliere secondo il gusto e l'uso: la bufala è perfetta da sola, con il pomodoro e un filo d'olio; il fiordilatte funziona meglio sulla pizza, perché rilascia meno acqua durante la cottura.",
+        "vocab": [
+          {
+            "front": "grasso",
+            "pos": "adj",
+            "back": "fatty, fat",
+            "example": "Questo formaggio è troppo grasso per me.",
+            "tier": "B1"
+          },
+          {
+            "front": "il banco",
+            "pos": "noun",
+            "back": "counter (in a shop)",
+            "example": "Al banco dei formaggi c'era molta gente.",
+            "tier": "B1"
+          },
+          {
+            "front": "ricco di",
+            "pos": "adj",
+            "back": "rich in",
+            "example": "La frutta secca è ricca di proteine.",
+            "tier": "B1"
+          },
+          {
+            "front": "saporito",
+            "pos": "adj",
+            "back": "tasty, full of flavour",
+            "example": "La pasta era semplice ma molto saporita.",
+            "tier": "B1"
+          },
+          {
+            "front": "leggero",
+            "pos": "adj",
+            "back": "light (food)",
+            "example": "Stasera voglio una cena leggera.",
+            "tier": "A2"
+          },
+          {
+            "front": "delicato",
+            "pos": "adj",
+            "back": "delicate, mild",
+            "example": "Ha un profumo delicato.",
+            "tier": "B1"
+          },
+          {
+            "front": "vuol dire",
+            "pos": "phrase",
+            "back": "it means",
+            "example": "Non parlare non vuol dire essere d'accordo.",
+            "tier": "A2"
+          },
+          {
+            "front": "la quantità",
+            "pos": "noun",
+            "back": "amount, quantity",
+            "example": "Conta la quantità, non solo la qualità.",
+            "tier": "A2"
+          },
+          {
+            "front": "il gusto",
+            "pos": "noun",
+            "back": "taste, flavour",
+            "example": "Questo formaggio ha un gusto molto forte.",
+            "tier": "A2"
+          },
+          {
+            "front": "il fiordilatte",
+            "pos": "noun",
+            "back": "fiordilatte, mozzarella made from cow's milk",
+            "example": "Sulla pizza uso il fiordilatte.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "Basta un cucchiaio di olio.",
+            "tier": "A2"
+          },
+          {
+            "front": "un filo d'olio",
+            "pos": "phrase",
+            "back": "a drizzle of olive oil",
+            "example": "Aggiungi un filo d'olio prima di servire.",
+            "tier": "B1"
+          },
+          {
+            "front": "rilasciare",
+            "pos": "verb",
+            "back": "to release, to give off",
+            "example": "La verdura rilascia acqua in padella.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cottura",
+            "pos": "noun",
+            "back": "cooking (process)",
+            "example": "La cottura dura venti minuti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
+            "point": "Il comparativo di maggioranza con più ... di",
+            "explanation": "Per confrontare due nomi si usa più + aggettivo + di; qui di si unisce all'articolo e diventa della mozzarella di mucca, che è il secondo termine di paragone.",
+            "why_tricky": "Davanti a due verbi o a due aggettivi il confronto si fa con che, non con di, e chi impara tende a usare sempre di."
+          },
+          {
+            "sentence": "Questo però non vuol dire che una sia sana e l'altra no.",
+            "point": "Il congiuntivo dopo non vuol dire che",
+            "explanation": "Le espressioni negative di opinione o di significato chiedono il congiuntivo: qui sia, e non è. Il congiuntivo presenta l'idea come qualcosa di non confermato.",
+            "why_tricky": "Nell'italiano parlato molti dicono non vuol dire che una è sana, ma la forma corretta e più comune nello scritto resta il congiuntivo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "farsi una domanda",
+            "meaning": "to wonder, to ask oneself a question",
+            "example": "Mi faccio sempre la stessa domanda al supermercato."
+          },
+          {
+            "phrase": "la risposta breve è...",
+            "meaning": "the short answer is..., used before a quick verdict",
+            "example": "La risposta breve è sì, ma dipende dal contesto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Qual è la differenza principale fra la mozzarella di bufala e quella di mucca?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il testo dice che non si può affermare che una mozzarella sia sana e l'altra no?",
+            "type": "open"
+          },
+          {
+            "q": "Quando conviene usare il fiordilatte invece della bufala?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è il tuo formaggio preferito e come lo mangi di solito? Scrivi circa 80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-addio-abbe-lane",
+      "title": "Addio ad Abbe Lane, da Brodway alla commedia italiana",
+      "source": "RaiNews",
+      "date": "2026-08-06",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-addio-abbe-lane",
+        "revision": 1,
+        "meta": {
+          "title": "Addio ad Abbe Lane, da Brodway alla commedia italiana",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/08/addio-ad-abbe-lane-da-brodway-al-cinema-e-alla-tv-in-italia-ebfe8d11-ab48-4e2a-bf4a-a1f0862da222.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "cultura",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Abbe Lane, an American singer and actress much loved in Italy, has died. She was 93 and passed away on 25 April, but the news has only been made public now. She was known as the queen of the cha cha cha, and her career had begun on Broadway. Then she came to Italy and acted in films with three great names of Italian comedy: Totò, Vittorio De Sica and Alberto Sordi.\n\nHer story says a lot about a period in which Italian cinema attracted artists from all over the world. Rome was full of international productions and many American stars came here to work. Abbe Lane brought to the screen a cheerful, modern image, made of music, colour and irony. Today her films can be watched again on television and online, and for many viewers they are a simple way to rediscover the Italy of those years.",
+        "resumen_es": "È morta Abbe Lane, cantante e attrice americana molto amata in Italia. Aveva 93 anni ed è scomparsa il 25 aprile, ma la notizia è stata diffusa solo adesso. Era conosciuta come la regina del cha cha cha e la sua carriera era cominciata a Broadway. Poi è arrivata in Italia e ha recitato al cinema con tre grandi nomi della commedia: Totò, Vittorio De Sica e Alberto Sordi.\n\nLa sua storia racconta bene un periodo in cui il cinema italiano attirava artisti da tutto il mondo. Roma era piena di produzioni internazionali e molte star americane venivano a lavorare qui. Abbe Lane portava sullo schermo un'immagine allegra e moderna, fatta di musica, di colori e di ironia. Oggi i suoi film si rivedono in televisione e in rete, e per molti spettatori sono un modo semplice per riscoprire l'Italia di quegli anni.",
+        "vocab": [
+          {
+            "front": "scomparire",
+            "pos": "verb",
+            "back": "to pass away, to disappear",
+            "example": "L'attrice è scomparsa in primavera.",
+            "tier": "B1"
+          },
+          {
+            "front": "la notizia",
+            "pos": "noun",
+            "back": "piece of news",
+            "example": "La notizia è arrivata solo ieri.",
+            "tier": "A2"
+          },
+          {
+            "front": "diffondere",
+            "pos": "verb",
+            "back": "to spread, to release (news)",
+            "example": "Hanno diffuso la notizia in serata.",
+            "tier": "B1"
+          },
+          {
+            "front": "conosciuto come",
+            "pos": "phrase",
+            "back": "known as",
+            "example": "Era conosciuto come il re del jazz.",
+            "tier": "A2"
+          },
+          {
+            "front": "la carriera",
+            "pos": "noun",
+            "back": "career",
+            "example": "La sua carriera è cominciata in teatro.",
+            "tier": "B1"
+          },
+          {
+            "front": "recitare",
+            "pos": "verb",
+            "back": "to act, to perform",
+            "example": "Ha recitato in dieci film italiani.",
+            "tier": "B1"
+          },
+          {
+            "front": "la commedia",
+            "pos": "noun",
+            "back": "comedy",
+            "example": "Amo la commedia italiana degli anni Sessanta.",
+            "tier": "A2"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract",
+            "example": "La città attira turisti tutto l'anno.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo schermo",
+            "pos": "noun",
+            "back": "screen",
+            "example": "Sullo schermo appariva sempre sorridente.",
+            "tier": "B1"
+          },
+          {
+            "front": "allegro",
+            "pos": "adj",
+            "back": "cheerful",
+            "example": "Era una persona allegra e generosa.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo spettatore",
+            "pos": "noun",
+            "back": "viewer, member of the audience",
+            "example": "Gli spettatori hanno applaudito a lungo.",
+            "tier": "B1"
+          },
+          {
+            "front": "riscoprire",
+            "pos": "verb",
+            "back": "to rediscover",
+            "example": "Molti giovani riscoprono i film in bianco e nero.",
+            "tier": "B1"
+          },
+          {
+            "front": "in rete",
+            "pos": "phrase",
+            "back": "online",
+            "example": "Il video si trova facilmente in rete.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Aveva 93 anni ed è scomparsa il 25 aprile, ma la notizia è stata diffusa solo adesso.",
+            "point": "Imperfetto, passato prossimo e passivo insieme",
+            "explanation": "Aveva descrive uno stato (l'età), è scomparsa racconta un fatto puntuale, è stata diffusa è un passivo con essere e concorda al femminile con notizia.",
+            "why_tricky": "Nel passivo con essere il participio deve concordare con il soggetto (diffusa), mentre con avere di solito resta invariato."
+          },
+          {
+            "sentence": "La sua storia racconta bene un periodo in cui il cinema italiano attirava artisti da tutto il mondo.",
+            "point": "in cui come pronome relativo di tempo",
+            "explanation": "Dopo un nome che indica tempo o luogo si usa preposizione + cui: un periodo in cui, la città in cui. Cui non cambia mai forma e in questa costruzione non prende l'articolo.",
+            "why_tricky": "In italiano non si può dire un periodo che il cinema attirava; serve in cui, dove l'inglese usa spesso solo when. L'articolo compare solo nel possessivo: la donna il cui libro..."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dire addio a qualcuno",
+            "meaning": "to say goodbye to someone, used in obituaries",
+            "example": "Il mondo del cinema dice addio a una grande attrice."
+          },
+          {
+            "phrase": "da tutto il mondo",
+            "meaning": "from all over the world",
+            "example": "Arrivano visitatori da tutto il mondo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché la notizia della morte di Abbe Lane è arrivata solo adesso?",
+            "type": "open"
+          },
+          {
+            "q": "Dove era cominciata la carriera di Abbe Lane prima dell'Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Come descrive il testo il cinema italiano di quegli anni?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacciono i film vecchi in bianco e nero o preferisci quelli nuovi? Scrivi circa 80 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-12-papa-assisi-giovani",
+      "title": "Il Papa: 'Nemici inventati per imporre il proprio potere'",
+      "source": "ANSA",
+      "date": "2026-08-06",
+      "level": "A2-B1",
+      "topics": [
+        "religione",
+        "società"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-12-papa-assisi-giovani",
+        "revision": 1,
+        "meta": {
+          "title": "Il Papa: 'Nemici inventati per imporre il proprio potere'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/vaticano/notizie/2026/08/06/il-papa-ad-assisi-bagno-di-folla-con-i-giovani.-i-cristiani-allopposto-del-fondamentalismo_40950051-203f-430a-a747-6b391e328d13.html",
+          "date_published": "2026-08-06",
+          "date_processed": "2026-08-12",
+          "tags": [
+            "religione",
+            "società"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Pope went to Assisi to meet young people and was welcomed by a huge crowd. In his speech he used very direct words: according to Leo, anyone who wants to impose their own power invents enemies. He told the young people that Christians stand at the opposite end from fundamentalism.\n\nThe choice of Assisi is not accidental. It is the city of Saint Francis, a symbol of poverty, of peace and of respect for nature, and for many years it has also been the place for meetings between different religions. Speaking to young people here therefore means linking today's message to a long tradition. It remains to be seen how far these words will enter everyday life, at a time when in many countries the language of politics is becoming harsher and harsher.",
+        "resumen_es": "Il Papa è andato ad Assisi per incontrare i giovani ed è stato accolto da un bagno di folla. Nel suo discorso ha usato parole molto dirette: secondo Leone, chi vuole imporre il proprio potere inventa dei nemici. Ai ragazzi ha detto che i cristiani sono all'opposto dei fondamentalismi.\n\nLa scelta di Assisi non è casuale. È la città di san Francesco, un simbolo di povertà, pace e rispetto per la natura, e da molti anni è anche il luogo degli incontri fra religioni. Parlare qui ai giovani significa quindi collegare il messaggio di oggi a una lunga tradizione. Resta da vedere quanto queste parole entreranno nella vita di tutti i giorni, in un momento in cui in molti Paesi il linguaggio della politica diventa sempre più duro.",
+        "vocab": [
+          {
+            "front": "il bagno di folla",
+            "pos": "phrase",
+            "back": "being surrounded by a big crowd",
+            "example": "Il cantante ha fatto un bagno di folla dopo il concerto.",
+            "tier": "B2"
+          },
+          {
+            "front": "il discorso",
+            "pos": "noun",
+            "back": "speech",
+            "example": "Il suo discorso è durato venti minuti.",
+            "tier": "A2"
+          },
+          {
+            "front": "diretto",
+            "pos": "adj",
+            "back": "direct, plain",
+            "example": "Mi piace la gente diretta.",
+            "tier": "B1"
+          },
+          {
+            "front": "imporre",
+            "pos": "verb",
+            "back": "to impose",
+            "example": "Non si può imporre un'idea con la forza.",
+            "tier": "B2"
+          },
+          {
+            "front": "il potere",
+            "pos": "noun",
+            "back": "power",
+            "example": "Il potere cambia le persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "il nemico",
+            "pos": "noun",
+            "back": "enemy",
+            "example": "Non ha nemici in ufficio.",
+            "tier": "A2"
+          },
+          {
+            "front": "inventare",
+            "pos": "verb",
+            "back": "to invent, to make up",
+            "example": "Ha inventato una scusa per non venire.",
+            "tier": "A2"
+          },
+          {
+            "front": "accogliere",
+            "pos": "verb",
+            "back": "to welcome, to take in",
+            "example": "Il paese ha accolto molte famiglie.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fondamentalismo",
+            "pos": "noun",
+            "back": "fundamentalism",
+            "example": "Il fondamentalismo rifiuta il dialogo.",
+            "tier": "B2"
+          },
+          {
+            "front": "casuale",
+            "pos": "adj",
+            "back": "random, accidental",
+            "example": "L'incontro non è stato casuale.",
+            "tier": "B1"
+          },
+          {
+            "front": "la povertà",
+            "pos": "noun",
+            "back": "poverty",
+            "example": "San Francesco scelse la povertà.",
+            "tier": "B1"
+          },
+          {
+            "front": "collegare",
+            "pos": "verb",
+            "back": "to link, to connect",
+            "example": "Il ponte collega le due isole.",
+            "tier": "B1"
+          },
+          {
+            "front": "duro",
+            "pos": "adj",
+            "back": "harsh, tough",
+            "example": "Ha usato parole molto dure.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nel suo discorso ha usato parole molto dirette: secondo Leone, chi vuole imporre il proprio potere inventa dei nemici.",
+            "point": "chi come pronome indefinito",
+            "explanation": "Chi qui non introduce una domanda: significa la persona che, e i verbi che seguono restano alla terza persona singolare (vuole, inventa). Dei nemici è invece un partitivo, cioè alcuni nemici.",
+            "why_tricky": "In inglese si dice those who want, quindi al plurale, mentre in italiano chi resta singolare anche quando parla di molte persone."
+          },
+          {
+            "sentence": "Resta da vedere quanto queste parole entreranno nella vita di tutti i giorni, in un momento in cui in molti Paesi il linguaggio della politica diventa sempre più duro.",
+            "point": "restare da + infinito e sempre più + aggettivo",
+            "explanation": "Restare da vedere significa che una cosa non è ancora decisa e si scoprirà in futuro. Sempre più + aggettivo indica un cambiamento che continua nel tempo.",
+            "why_tricky": "La costruzione con da + infinito ha senso passivo (una cosa da vedere, da fare), diverso dal semplice infinito dopo un verbo."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la vita di tutti i giorni",
+            "meaning": "everyday life",
+            "example": "Nella vita di tutti i giorni contano i piccoli gesti."
+          },
+          {
+            "phrase": "restare da vedere",
+            "meaning": "to remain to be seen",
+            "example": "Resta da vedere se il piano funzionerà."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha detto il Papa sul rapporto fra potere e nemici?",
+            "type": "open"
+          },
+          {
+            "q": "Perché Assisi è una città importante per questo messaggio?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il Papa, in che rapporto stanno i cristiani con i fondamentalismi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perché in politica si parla così spesso di nemici? Scrivi circa 80 parole."
+      }
+    },
     {
       "pack_id": "feed-2026-08-11-bezos-quota-liverpool",
       "title": "Bezos punta al calcio, mr Amazon vuole una quota del Liverpool",
@@ -6200,513 +6696,6 @@
           }
         ],
         "opinion_prompt": "Secondo te i personaggi famosi possono davvero aiutare l'ambiente? Scrivi 80 o 100 parole e spiega la tua opinione con due esempi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-panda-mongolia-rally",
-      "title": "Con la Panda verso la Mongolia, il viaggio di Mirko e Alessandro",
-      "source": "Rai News",
-      "date": "2026-08-05",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "avventura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-panda-mongolia-rally",
-        "revision": 1,
-        "meta": {
-          "title": "Con la Panda verso la Mongolia, il viaggio di Mirko e Alessandro",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/video/2026/08/il-viaggio-di-alessandro-e-mirko-in-panda-verso-la-mongolia-63d6c1a6-665d-428d-b0ab-5cf6c40952e7.html",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "viaggi",
-            "avventura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Mirko and Alessandro are two young men from Bolzano. They have set off from Italy on board an old Fiat Panda from 1999. Their aim is to reach Mongolia after a journey of about twenty thousand kilometres. They are taking part in the Mongol Rally, a very unusual race: the winner is not the one who arrives first, what counts is the adventure and the help you give to others. In fact the rules ask you to use a small car with little power.\n\nThe route crosses many countries in Eastern Europe and Central Asia. The two friends will often sleep in a tent and will have to repair the car themselves when it breaks down. Many teams also raise money for charities. The rally has existed for more than twenty years and every summer it attracts hundreds of participants from all over the world. For Mirko and Alessandro the hardest part will probably be the desert.",
-        "resumen_es": "Mirko e Alessandro sono due ragazzi di Bolzano. Sono partiti dall'Italia a bordo di una vecchia Fiat Panda del 1999. Il loro obiettivo è arrivare in Mongolia dopo un viaggio di circa ventimila chilometri. Partecipano al Mongol Rally, una gara molto particolare: non vince chi arriva prima, ma conta l'avventura e l'aiuto che si dà agli altri. Le regole chiedono infatti di usare un'auto piccola e poco potente.\n\nIl percorso attraversa molti paesi dell'Europa dell'Est e dell'Asia centrale. I due amici dormiranno spesso in tenda e dovranno riparare la macchina da soli quando si romperà. Molti equipaggi raccolgono anche soldi per associazioni di beneficenza. Il rally esiste da più di vent'anni e ogni estate attira centinaia di partecipanti da tutto il mondo. Per Mirko e Alessandro la parte più difficile sarà probabilmente il deserto.",
-        "vocab": [
-          {
-            "front": "partire da",
-            "pos": "verb",
-            "back": "to set off from, to leave from",
-            "example": "Siamo partiti da Milano alle sei.",
-            "tier": "A2"
-          },
-          {
-            "front": "a bordo di",
-            "pos": "phrase",
-            "back": "on board",
-            "example": "Erano a bordo di una barca piccola.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "aim, goal",
-            "example": "Il mio obiettivo è imparare l'italiano.",
-            "tier": "A2"
-          },
-          {
-            "front": "il percorso",
-            "pos": "noun",
-            "back": "route, path",
-            "example": "Il percorso è lungo dieci chilometri.",
-            "tier": "B1"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross",
-            "example": "Il fiume attraversa tutta la città.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gara",
-            "pos": "noun",
-            "back": "race, competition",
-            "example": "Domani c'è una gara di nuoto.",
-            "tier": "A2"
-          },
-          {
-            "front": "contare",
-            "pos": "verb",
-            "back": "to matter, to count",
-            "example": "Non conta vincere, conta partecipare.",
-            "tier": "B1"
-          },
-          {
-            "front": "riparare",
-            "pos": "verb",
-            "back": "to repair, to fix",
-            "example": "Devo riparare la bicicletta.",
-            "tier": "A2"
-          },
-          {
-            "front": "rompersi",
-            "pos": "verb",
-            "back": "to break down, to break",
-            "example": "La lavatrice si è rotta ieri.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'equipaggio",
-            "pos": "noun",
-            "back": "crew, team",
-            "example": "L'equipaggio della nave è di venti persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "raccogliere soldi",
-            "pos": "phrase",
-            "back": "to raise money",
-            "example": "La scuola raccoglie soldi per un viaggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la beneficenza",
-            "pos": "noun",
-            "back": "charity",
-            "example": "Il concerto è di beneficenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "La festa attira molti turisti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "I due amici dormiranno spesso in tenda e dovranno riparare la macchina da soli quando si romperà.",
-            "point": "Il futuro semplice anche dopo 'quando'",
-            "explanation": "In italiano, se la frase principale è al futuro, anche il verbo dopo 'quando' va al futuro: 'quando si romperà'. Notare i futuri irregolari 'dovranno' e 'romperà'.",
-            "why_tricky": "In inglese si usa il presente ('when it breaks down'), quindi molti studenti scrivono 'quando si rompe' e la frase perde il valore di previsione."
-          },
-          {
-            "sentence": "Partecipano al Mongol Rally, una gara molto particolare: non vince chi arriva prima, ma conta l'avventura e l'aiuto che si dà agli altri.",
-            "point": "'Chi' come pronome che significa 'la persona che'",
-            "explanation": "'Chi' qui non è una domanda: introduce un soggetto generico, 'la persona che arriva prima'. Il verbo dopo 'chi' resta sempre alla terza persona singolare.",
-            "why_tricky": "'Chi' si confonde facilmente con 'che' e con 'chi?' interrogativo, e in inglese si traduce con 'the one who', due parole invece di una."
-          },
-          {
-            "sentence": "Il rally esiste da più di vent'anni e ogni estate attira centinaia di partecipanti da tutto il mondo.",
-            "point": "'Da' + tempo con il presente per una durata",
-            "explanation": "Quando un'azione è cominciata nel passato e continua adesso, l'italiano usa il presente più 'da': 'esiste da vent'anni'.",
-            "why_tricky": "L'inglese usa il present perfect ('has existed for'), quindi è facile scrivere 'è esistito da', che in italiano è sbagliato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da soli",
-            "meaning": "senza l'aiuto di nessuno",
-            "example": "I bambini hanno preparato la cena da soli."
-          },
-          {
-            "phrase": "da tutto il mondo",
-            "meaning": "da ogni parte del pianeta",
-            "example": "Alla fiera arrivano visitatori da tutto il mondo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Con quale macchina viaggiano Mirko e Alessandro e da dove vengono?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il Mongol Rally è una gara particolare?",
-            "type": "open"
-          },
-          {
-            "q": "Quali difficoltà troveranno i due amici durante il viaggio?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe fare un viaggio lungo e difficile come questo? Scrivi 80 o 100 parole e spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-05-vino-cereali-cina",
-      "title": "L'antico vino di cereali: gli archeologi scoprono la ricetta cinese di duemila anni fa",
-      "source": "Rai News",
-      "date": "2026-08-05",
-      "level": "A2-B1",
-      "topics": [
-        "archeologia",
-        "storia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-05-vino-cereali-cina",
-        "revision": 1,
-        "meta": {
-          "title": "L'antico vino di cereali: gli archeologi scoprono la ricetta cinese di duemila anni fa",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/video/2026/08/scoperto-nel-nord-ovest-della-cina-un-vino-di-cereali-risalente-a-2300-anni-fa-38a2b190-c522-4fb1-96dc-f23c92ad0ce7.html",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-05",
-          "tags": [
-            "archeologia",
-            "storia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Some archaeologists have made an interesting discovery in north-west China. Inside a bronze vase they found an ancient liquid about two thousand three hundred years old. The analyses say that it is a wine made with cereals. The vase has a special shape, called garlic-head, typical of the Qin culture. It is very rare to find a liquid preserved so well after so many centuries.\n\nThis discovery helps us understand how people of that period lived. Wine often had a role in ceremonies and at important banquets. Scholars now want to work out which cereals were used and how the drink was prepared. The bronze, in fact, sealed the vase well and protected the liquid from the air. Similar analyses have also been carried out at other Chinese archaeological sites in recent years.",
-        "resumen_es": "Alcuni archeologi hanno fatto una scoperta interessante nel nord-ovest della Cina. Dentro un vaso di bronzo hanno trovato un liquido antico di circa duemilatrecento anni. Le analisi dicono che si tratta di un vino fatto con i cereali. Il vaso ha una forma speciale, chiamata a testa d'aglio, tipica della cultura Qin. È molto raro trovare un liquido conservato così bene dopo tanti secoli.\n\nQuesta scoperta aiuta a capire come vivevano le persone di quel periodo. Il vino aveva spesso un ruolo nelle cerimonie e nei banchetti importanti. Gli studiosi vogliono ora capire quali cereali sono stati usati e come veniva preparata la bevanda. Il bronzo, infatti, ha chiuso bene il vaso e ha protetto il liquido dall'aria. Analisi simili sono state fatte anche in altri siti archeologici cinesi negli ultimi anni.",
-        "vocab": [
-          {
-            "front": "la scoperta",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "È stata una scoperta importante.",
-            "tier": "A2"
-          },
-          {
-            "front": "il vaso",
-            "pos": "noun",
-            "back": "vase, pot",
-            "example": "Il vaso è pieno di fiori.",
-            "tier": "A2"
-          },
-          {
-            "front": "il bronzo",
-            "pos": "noun",
-            "back": "bronze",
-            "example": "La statua è di bronzo.",
-            "tier": "B1"
-          },
-          {
-            "front": "trattarsi di",
-            "pos": "verb",
-            "back": "to be a matter of, to be",
-            "example": "Si tratta di un errore semplice.",
-            "tier": "B1"
-          },
-          {
-            "front": "i cereali",
-            "pos": "noun",
-            "back": "cereals, grains",
-            "example": "Mangio i cereali a colazione.",
-            "tier": "A2"
-          },
-          {
-            "front": "conservare",
-            "pos": "verb",
-            "back": "to preserve, to keep",
-            "example": "Conservo le foto in una scatola.",
-            "tier": "B1"
-          },
-          {
-            "front": "il secolo",
-            "pos": "noun",
-            "back": "century",
-            "example": "La chiesa è del quindicesimo secolo.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo studioso",
-            "pos": "noun",
-            "back": "scholar, researcher",
-            "example": "Gli studiosi non sono d'accordo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ruolo",
-            "pos": "noun",
-            "back": "role",
-            "example": "Ha un ruolo importante nel gruppo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il banchetto",
-            "pos": "noun",
-            "back": "banquet, feast",
-            "example": "Dopo il matrimonio c'è il banchetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la bevanda",
-            "pos": "noun",
-            "back": "drink, beverage",
-            "example": "Che bevanda preferisci?",
-            "tier": "A2"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Il cappello protegge dal sole.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sito archeologico",
-            "pos": "noun",
-            "back": "archaeological site",
-            "example": "Abbiamo visitato un sito archeologico romano.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Questa scoperta aiuta a capire come vivevano le persone di quel periodo.",
-            "point": "L'imperfetto per abitudini nel passato",
-            "explanation": "'Vivevano' è imperfetto e descrive un modo di vivere abituale, che durava nel tempo. Non indica un fatto singolo e concluso.",
-            "why_tricky": "Con il passato prossimo ('come hanno vissuto') la frase parlerebbe di un evento finito, non di una abitudine, e il senso cambierebbe."
-          },
-          {
-            "sentence": "Gli studiosi vogliono ora capire quali cereali sono stati usati e come veniva preparata la bevanda.",
-            "point": "Due forme di passivo: 'essere' e 'venire'",
-            "explanation": "'Sono stati usati' è un passivo con 'essere' al passato prossimo. 'Veniva preparata' usa 'venire' all'imperfetto: si usa solo con azioni, mai con stati, e suona più dinamico.",
-            "why_tricky": "Le due forme si traducono in inglese allo stesso modo, ma 'venire' non si può usare nei tempi composti: 'è venuto preparato' è sbagliato."
-          },
-          {
-            "sentence": "È molto raro trovare un liquido conservato così bene dopo tanti secoli.",
-            "point": "'È + aggettivo + infinito' come costruzione impersonale",
-            "explanation": "Per dare un giudizio generale l'italiano usa 'è' più aggettivo più infinito, senza soggetto. L'aggettivo resta sempre al maschile singolare.",
-            "why_tricky": "In inglese serve un soggetto formale ('it is rare to find'), mentre in italiano non si mette nulla davanti a 'è'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "si tratta di",
-            "meaning": "è, riguarda (per spiegare di che cosa si parla)",
-            "example": "Non è un problema grave: si tratta solo di aspettare."
-          },
-          {
-            "phrase": "così bene",
-            "meaning": "in modo molto buono, meglio del previsto",
-            "example": "Non pensavo che parlassi italiano così bene."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno trovato gli archeologi e dove?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il vaso di bronzo è stato importante per la conservazione del liquido?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa vogliono ancora capire gli studiosi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te perché è utile studiare come mangiavano e bevevano le persone del passato? Scrivi 80 o 100 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-04-giappone-luoghi-silenzio",
-      "title": "In Giappone i luoghi del silenzio, tra montagne sacre e isole incontaminate",
-      "source": "ANSA",
-      "date": "2026-08-04",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "natura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-04-giappone-luoghi-silenzio",
-        "revision": 1,
-        "meta": {
-          "title": "In Giappone i luoghi del silenzio, tra montagne sacre e isole incontaminate",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/08/03/in-giappone-i-luoghi-del-silenzio-tra-montagne-sacre-e-isole-incontaminate_5e797c3c-6bb5-40b2-94be-729c18cc06eb.html",
-          "date_published": "2026-08-03",
-          "date_processed": "2026-08-04",
-          "tags": [
-            "viaggi",
-            "natura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A few hours from Tokyo there are very quiet places. They are the sacred mountains of Dewa, in the north of Japan. The three peaks are called Haguro, Gassan and Yudono. For centuries pilgrims have climbed these mountains on foot. They walk among very tall trees and small wooden temples. Here silence is the most important thing.\n\nThese places are different from the big Japanese cities. There are no lights, shops or noise. Many travellers are looking for exactly this: stopping, breathing and walking slowly. Some islands in the country offer the same calm too, with empty beaches and clean nature. Slow tourism grows every year, because more and more people want to really rest during their holidays. To visit these areas you need good shoes, time and a little patience.",
-        "resumen_es": "A poche ore da Tokyo ci sono luoghi molto tranquilli. Sono le montagne sacre di Dewa, nel nord del Giappone. I tre monti si chiamano Haguro, Gassan e Yudono. Da secoli i pellegrini salgono su questi monti a piedi. Camminano tra alberi altissimi e piccoli templi di legno. Qui il silenzio è la cosa più importante.\n\nQuesti posti sono diversi dalle grandi città giapponesi. Non ci sono luci, negozi o rumore. Molti viaggiatori cercano proprio questo: fermarsi, respirare e camminare piano. Anche alcune isole del paese offrono la stessa calma, con spiagge vuote e natura pulita. Il turismo lento cresce ogni anno, perché sempre più persone vogliono riposare davvero durante le vacanze. Per visitare queste zone servono buone scarpe, tempo e un po' di pazienza.",
-        "vocab": [
-          {
-            "front": "il luogo",
-            "pos": "noun",
-            "back": "place",
-            "example": "Questo è un luogo molto tranquillo.",
-            "tier": "B1"
-          },
-          {
-            "front": "sacro",
-            "pos": "adj",
-            "back": "sacred, holy",
-            "example": "Per molte persone questa montagna è sacra.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pellegrino",
-            "pos": "noun",
-            "back": "pilgrim",
-            "example": "I pellegrini arrivano ogni estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "salire",
-            "pos": "verb",
-            "back": "to go up, to climb",
-            "example": "Saliamo sul monte domani mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "a piedi",
-            "pos": "phrase",
-            "back": "on foot",
-            "example": "Vado al lavoro a piedi.",
-            "tier": "A2"
-          },
-          {
-            "front": "camminare",
-            "pos": "verb",
-            "back": "to walk",
-            "example": "Camminiamo per due ore nel bosco.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tempio",
-            "pos": "noun",
-            "back": "temple",
-            "example": "Nel bosco c'è un piccolo tempio di legno.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rumore",
-            "pos": "noun",
-            "back": "noise",
-            "example": "In città c'è troppo rumore la notte.",
-            "tier": "A2"
-          },
-          {
-            "front": "fermarsi",
-            "pos": "verb",
-            "back": "to stop, to pause",
-            "example": "Mi fermo un momento a bere acqua.",
-            "tier": "A2"
-          },
-          {
-            "front": "respirare",
-            "pos": "verb",
-            "back": "to breathe",
-            "example": "Qui si respira aria pulita.",
-            "tier": "B1"
-          },
-          {
-            "front": "vuoto",
-            "pos": "adj",
-            "back": "empty",
-            "example": "La spiaggia era completamente vuota.",
-            "tier": "A2"
-          },
-          {
-            "front": "riposare",
-            "pos": "verb",
-            "back": "to rest",
-            "example": "In vacanza voglio solo riposare.",
-            "tier": "A2"
-          },
-          {
-            "front": "servire",
-            "pos": "verb",
-            "back": "to be needed, to take (something)",
-            "example": "Per questo viaggio servono scarpe comode.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Da secoli i pellegrini salgono su questi monti a piedi.",
-            "point": "da + time with the present tense",
-            "explanation": "Italian says 'da secoli i pellegrini salgono' with the present tense for something that started long ago and still happens today. English switches to 'have climbed', but Italian keeps the simple present.",
-            "why_tricky": "English speakers reach for the passato prossimo, 'sono saliti', which would mean the action is finished. With 'da' the present is the correct choice."
-          },
-          {
-            "sentence": "Non ci sono luci, negozi o rumore.",
-            "point": "negation with non ci sono and a list joined by o",
-            "explanation": "'Ci sono' means 'there are', and its negative is simply 'non ci sono'. After a negative, Italian uses 'o' between the listed items, without adding another 'non' before each one.",
-            "why_tricky": "Learners try to copy English 'no lights, no shops', repeating the negative, or they wrongly use 'e' instead of 'o' in a negative list."
-          },
-          {
-            "sentence": "Per visitare queste zone servono buone scarpe, tempo e un po' di pazienza.",
-            "point": "servire used impersonally, agreeing with the thing needed",
-            "explanation": "In 'servono buone scarpe, tempo e un po' di pazienza', the verb agrees with what is needed, not with the person needing it. Because the list is plural, the verb is 'servono' rather than 'serve'.",
-            "why_tricky": "It works backwards compared to English 'you need'. The person disappears from the sentence and the object becomes the subject, exactly like 'piacere'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a poche ore da",
-            "meaning": "only a few hours away from",
-            "example": "Il mare è a poche ore da casa mia."
-          },
-          {
-            "phrase": "un po' di pazienza",
-            "meaning": "a bit of patience",
-            "example": "Ci vuole un po' di pazienza per imparare una lingua."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove si trovano le montagne sacre di Dewa?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa cercano molti viaggiatori in questi luoghi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa serve per visitare queste zone?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci le vacanze in una grande città o in un posto tranquillo in mezzo alla natura? Scrivi 80 parole e spiega perché."
       }
     }
   ]
