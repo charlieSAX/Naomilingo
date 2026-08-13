@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-13T08:19:03Z",
+  "generated_at": "2026-08-13T23:47:09Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-14-nas-acque-bar-ristoranti",
+      "title": "Controlli del Nas sulle acque vendute in bar e ristoranti: \"Irregolarità per il 54%\"",
+      "source": "ANSA",
+      "date": "2026-08-13",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "cibo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-nas-acque-bar-ristoranti",
+        "revision": 1,
+        "meta": {
+          "title": "Controlli del Nas sulle acque vendute in bar e ristoranti: \"Irregolarità per il 54%\"",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/controlli-nas-su-acque-vendute-nei-bar-e-ristoranti-irregolarita-per-il-54_1b4869a6-fead-4f0e-9945-a47a179c6ff1.html",
+          "date_published": "2026-08-13",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "salute",
+            "cibo"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "I carabinieri del Nas hanno controllato l'acqua servita nei bar e nei ristoranti italiani. Il risultato è preoccupante: nel 54 per cento dei casi ci sono irregolarità. I controlli hanno riguardato l'acqua che viene venduta e servita ai clienti. Il Codacons, un'associazione di consumatori, parla di dati gravissimi e chiede controlli a tappeto proprio durante il Ferragosto.\n\nOggi molti locali servono acqua alla spina, cioè filtrata e messa in caraffa. È una scelta comoda ed ecologica, perché riduce le bottiglie di plastica. In generale gli impianti hanno bisogno di pulizia e di manutenzione regolare, altrimenti la qualità dell'acqua peggiora. Ferragosto è il periodo con più turisti e più pasti fuori casa, quindi il tema diventa ancora più delicato. Il consiglio è semplice: se qualcosa non convince il cliente, si può sempre chiedere una bottiglia sigillata.",
+        "summary_en": "The Carabinieri of the Nas have inspected the water served in bars and restaurants across Italy. The result is worrying: in 54 per cent of cases there are irregularities. The checks covered the water that is sold and served to customers. Codacons, a consumer association, calls the figures extremely serious and is calling for blanket checks right over the Ferragosto holiday.\n\nToday many venues serve water on tap, that is, filtered water served in a jug. It is a convenient and environmentally friendly choice, because it cuts down on plastic bottles. In general these systems need cleaning and regular maintenance, otherwise the quality of the water gets worse. Ferragosto is the period with the most tourists and the most meals eaten out, so the issue becomes even more sensitive. The advice is simple: if something does not convince the customer, you can always ask for a sealed bottle.",
+        "vocab": [
+          {
+            "front": "il controllo",
+            "pos": "noun",
+            "back": "the check, the inspection",
+            "example": "La polizia ha fatto un controllo in tre negozi.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'irregolarità",
+            "pos": "noun",
+            "back": "the irregularity, the breach of the rules",
+            "example": "Gli ispettori hanno trovato molte irregolarità.",
+            "tier": "B1"
+          },
+          {
+            "front": "riguardare",
+            "pos": "verb",
+            "back": "to concern, to be about",
+            "example": "Il problema riguarda solo due locali.",
+            "tier": "B1"
+          },
+          {
+            "front": "a tappeto",
+            "pos": "phrase",
+            "back": "across the board, blanket (of checks or searches)",
+            "example": "Hanno fatto controlli a tappeto in tutta la zona.",
+            "tier": "B1"
+          },
+          {
+            "front": "il consumatore",
+            "pos": "noun",
+            "back": "the consumer",
+            "example": "L'associazione difende i diritti dei consumatori.",
+            "tier": "B1"
+          },
+          {
+            "front": "il locale",
+            "pos": "noun",
+            "back": "the venue, the bar or restaurant (a business premises)",
+            "example": "In centro hanno aperto tre locali nuovi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'acqua alla spina",
+            "pos": "phrase",
+            "back": "filtered water served on tap, from a dispenser (not bottled)",
+            "example": "In questo ristorante servono acqua alla spina.",
+            "tier": "B1"
+          },
+          {
+            "front": "la caraffa",
+            "pos": "noun",
+            "back": "the jug, the carafe",
+            "example": "Ci hanno portato una caraffa d'acqua fredda.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'impianto",
+            "pos": "noun",
+            "back": "the system, the installation (here: the water dispenser unit)",
+            "example": "L'impianto dell'acqua va pulito ogni mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "la manutenzione",
+            "pos": "noun",
+            "back": "maintenance, upkeep",
+            "example": "L'ascensore è fermo per manutenzione.",
+            "tier": "B1"
+          },
+          {
+            "front": "peggiorare",
+            "pos": "verb",
+            "back": "to get worse, to worsen",
+            "example": "Il tempo peggiora nel pomeriggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pasto",
+            "pos": "noun",
+            "back": "the meal",
+            "example": "Faccio tre pasti al giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "sigillato",
+            "pos": "adj",
+            "back": "sealed",
+            "example": "Preferisco una bottiglia sigillata.",
+            "tier": "B1"
+          },
+          {
+            "front": "delicato",
+            "pos": "adj",
+            "back": "delicate; (of a subject) sensitive",
+            "example": "È un tema delicato, meglio parlarne con calma.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I controlli hanno riguardato l'acqua che viene venduta e servita ai clienti.",
+            "point": "Passive with venire instead of essere",
+            "explanation": "In the passive, venire can replace essere in simple tenses: viene venduta means is sold. It presents the action as a process or a habit, while essere venduta can also describe a state. The participle agrees with the subject, so acqua gives venduta and servita.",
+            "why_tricky": "Venire normally means to come, so seeing it as a passive auxiliary feels strange. It also cannot be used in compound tenses: you say è stata venduta, never è venuta venduta."
+          },
+          {
+            "sentence": "In generale gli impianti hanno bisogno di pulizia e di manutenzione regolare, altrimenti la qualità dell'acqua peggiora.",
+            "point": "avere bisogno di, the standard way to say to need",
+            "explanation": "Italian expresses need with a noun phrase: avere bisogno di qualcosa. The di stays before a noun and before an infinitive: ho bisogno di dormire. It drops only with the pronoun ne (ne ho bisogno) and before a che clause (ho bisogno che tu venga).",
+            "why_tricky": "English uses a single verb, to need, so learners invent a verb or drop the di. Note also that the subject is the one who needs, not the thing needed."
+          },
+          {
+            "sentence": "Il consiglio è semplice: se qualcosa non convince il cliente, si può sempre chiedere una bottiglia sigillata.",
+            "point": "si with a modal verb, and the si passivante",
+            "explanation": "Si può chiedere means one can ask, you can ask. The si goes before the modal, not attached to the infinitive. With a direct object this si is really the si passivante, so the verb agrees with that object: si può chiedere una bottiglia, si possono chiedere due bottiglie.",
+            "why_tricky": "Attaching si to the infinitive gives può chiedersi, which means something else, he can ask himself. Learners also confuse this si with the reflexive si of verbs like lavarsi."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere acqua passata",
+            "meaning": "to be water under the bridge, to be over and forgotten",
+            "example": "Quella discussione è acqua passata, non ci penso più."
+          },
+          {
+            "phrase": "affogare in un bicchier d'acqua",
+            "meaning": "to make a mountain out of a molehill, to fall apart over something small",
+            "example": "Non affogare in un bicchier d'acqua, è solo un piccolo ritardo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno controllato i carabinieri del Nas e con quale risultato?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'acqua alla spina è considerata una scelta ecologica?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il periodo di Ferragosto rende il problema più importante?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Al ristorante preferisci l'acqua in bottiglia o l'acqua alla spina? Scrivi circa 100 parole e spiega i motivi della tua scelta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-14-bar-cimitero-recoleta",
+      "title": "Un bar nello storico cimitero dove riposa anche Evita, polemiche in Argentina",
+      "source": "ANSA",
+      "date": "2026-08-13",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "Argentina"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-bar-cimitero-recoleta",
+        "revision": 1,
+        "meta": {
+          "title": "Un bar nello storico cimitero dove riposa anche Evita, polemiche in Argentina",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/13/un-bar-nello-storico-cimitero-dove-riposa-anche-evita-polemiche-in-argentina_d83927f8-3b3d-452e-8d12-a9970dbe5614.html",
+          "date_published": "2026-08-13",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "cultura",
+            "Argentina"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "A Buenos Aires si discute molto di un progetto: aprire un bar dentro il cimitero della Recoleta, dove riposa anche Evita Perón. La notizia ha creato subito delle polemiche in Argentina. C'è chi pensa che un locale non sia adatto a un luogo di silenzio e di memoria. In casi simili, altri invece rispondono che un servizio del genere può aiutare i visitatori.\n\nLa Recoleta non è un cimitero come gli altri. È quasi un piccolo quartiere di marmo, con viali stretti e tombe monumentali, dove riposano molti nomi illustri della storia argentina. Ogni anno arrivano turisti da tutto il mondo per visitarlo. La discussione tocca una domanda comune a tante città: fino a che punto un monumento può diventare un'attrazione turistica? Per il momento il progetto resta al centro della discussione.",
+        "summary_en": "In Buenos Aires there is a lot of debate about one project: opening a cafe inside the Recoleta cemetery, where Evita Perón is also buried. The news immediately created controversy in Argentina. Some people think that a cafe is not right for a place of silence and remembrance. In similar cases, others reply that a service like this can help visitors.\n\nRecoleta is not like other cemeteries. It is almost a small district made of marble, with narrow lanes and monumental tombs, where many famous names from Argentine history rest. Every year tourists come from all over the world to visit it. The discussion touches on a question common to many cities: how far can a monument be turned into a tourist attraction? For now the project remains at the centre of the debate.",
+        "vocab": [
+          {
+            "front": "il cimitero",
+            "pos": "noun",
+            "back": "the cemetery",
+            "example": "Il cimitero si trova fuori dal centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "riposare",
+            "pos": "verb",
+            "back": "to rest; to lie buried (of the dead)",
+            "example": "Qui riposano i suoi genitori.",
+            "tier": "B1"
+          },
+          {
+            "front": "la polemica",
+            "pos": "noun",
+            "back": "the controversy, the row",
+            "example": "Le sue parole hanno creato una forte polemica.",
+            "tier": "B1"
+          },
+          {
+            "front": "adatto a",
+            "pos": "adj",
+            "back": "suitable for",
+            "example": "Questo film non è adatto ai bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "la memoria",
+            "pos": "noun",
+            "back": "memory, remembrance",
+            "example": "Il monumento conserva la memoria delle vittime.",
+            "tier": "B1"
+          },
+          {
+            "front": "del genere",
+            "pos": "phrase",
+            "back": "of this kind, like that",
+            "example": "Non ho mai visto una cosa del genere.",
+            "tier": "B1"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "the visitor",
+            "example": "I visitatori entrano dal cancello principale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il marmo",
+            "pos": "noun",
+            "back": "marble",
+            "example": "Il pavimento della chiesa è di marmo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il viale",
+            "pos": "noun",
+            "back": "the avenue; the wide walkway or path",
+            "example": "Il cimitero è pieno di viali stretti tra le tombe.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tomba",
+            "pos": "noun",
+            "back": "the tomb, the grave",
+            "example": "Hanno messo dei fiori sulla tomba.",
+            "tier": "A2"
+          },
+          {
+            "front": "illustre",
+            "pos": "adj",
+            "back": "illustrious, famous and respected",
+            "example": "È un nome illustre della medicina italiana.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'attrazione turistica",
+            "pos": "phrase",
+            "back": "the tourist attraction",
+            "example": "La torre è la principale attrazione turistica della zona.",
+            "tier": "B1"
+          },
+          {
+            "front": "fino a che punto",
+            "pos": "phrase",
+            "back": "how far, to what extent",
+            "example": "Fino a che punto possiamo fidarci di lui?",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "C'è chi pensa che un locale non sia adatto a un luogo di silenzio e di memoria.",
+            "point": "Congiuntivo after verbs of opinion",
+            "explanation": "Pensare che, credere che and sembrare che are followed by the congiuntivo: pensa che sia, not pensa che è. The congiuntivo presents the idea as an opinion rather than as a fact. Note the useful opener c'è chi, there are people who, which takes the indicative itself: c'è chi pensa.",
+            "why_tricky": "In everyday speech many Italians use the indicativo here, so learners hear both. In writing, and in exams, the congiuntivo is what is expected."
+          },
+          {
+            "sentence": "Ogni anno arrivano turisti da tutto il mondo per visitarlo.",
+            "point": "Verb before subject with verbs of arriving",
+            "explanation": "With verbs like arrivare, mancare, esistere and succedere, Italian often puts the subject after the verb when the subject is new information: arrivano turisti. The verb still agrees with it, so arrivano is plural. The final lo in visitarlo refers back to il cimitero.",
+            "why_tricky": "The fixed subject-verb order of English makes this inversion feel wrong, and learners often leave the verb singular because nothing precedes it."
+          },
+          {
+            "sentence": "In casi simili, altri invece rispondono che un servizio del genere può aiutare i visitatori.",
+            "point": "invece as a contrast marker inside the sentence",
+            "explanation": "Invece means instead or on the other hand. It sits comfortably in the middle of the clause, right after the subject, to mark a contrast with what was just said. English instead cannot usually stand there, though however can.",
+            "why_tricky": "Learners confuse it with invece di, instead of, which is followed by a noun, a pronoun or an infinitive: invece del caffè, invece di me, invece di parlare."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere sulla bocca di tutti",
+            "meaning": "to be the talk of the town",
+            "example": "Da una settimana quel progetto è sulla bocca di tutti."
+          },
+          {
+            "phrase": "riposare in pace",
+            "meaning": "to rest in peace",
+            "example": "Sulla lapide c'è scritto soltanto: riposa in pace."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il progetto del bar ha creato polemiche a Buenos Aires?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dicono invece le persone meno critiche verso il progetto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa rende speciale il cimitero della Recoleta, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te un cimitero storico può diventare un'attrazione turistica con bar e negozi? Scrivi circa 100 parole con la tua opinione e un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-14-amianto-concerto-jovanotti",
+      "title": "Amianto nell'area del concerto, annullato lo show di Jovanotti a Barletta",
+      "source": "ANSA",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-14-amianto-concerto-jovanotti",
+        "revision": 1,
+        "meta": {
+          "title": "Amianto nell'area del concerto, annullato lo show di Jovanotti a Barletta",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/12/amianto-nellarea-del-concerto-annullato-lo-show-di-jovanotti-a-barletta_fdbb49c8-795a-43b4-9f32-924342309807.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-14",
+          "tags": [
+            "musica",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "Il concerto di Jovanotti a Barletta, in Puglia, è stato annullato per motivi di sicurezza. Nell'area dello spettacolo è stato trovato dell'amianto, un materiale pericoloso per la salute. Gli organizzatori adesso cercano una nuova location a Bari per il 19 settembre, così il pubblico non perde del tutto il concerto.\n\nL'amianto è stato usato per molti anni nell'edilizia, perché costava poco e resisteva bene al calore. Poi si è scoperto che le sue fibre, se entrano nei polmoni, possono causare malattie molto gravi. Per questo in Italia è vietato dal 1992, ma si trova ancora in vecchi capannoni e sui tetti delle case più vecchie. Non si sa ancora che cosa succederà a chi ha già comprato il biglietto. Per i fan è una delusione, però in casi come questo la prudenza viene prima di tutto.",
+        "summary_en": "The Jovanotti concert in Barletta, in Puglia, has been cancelled for safety reasons. Asbestos, a material that is dangerous to health, was found in the area of the show. The organisers are now looking for a new venue in Bari for 19 September, so that the audience does not miss the concert altogether.\n\nAsbestos was used for many years in building work, because it was cheap and stood up well to heat. Then it was discovered that its fibres, if they get into the lungs, can cause very serious illnesses. For this reason it has been banned in Italy since 1992, but it is still found in old industrial sheds and on the roofs of older houses. It is not yet known what will happen to people who have already bought a ticket. For the fans it is a disappointment, but in cases like this caution comes first.",
+        "vocab": [
+          {
+            "front": "annullare",
+            "pos": "verb",
+            "back": "to cancel, to call off",
+            "example": "Hanno annullato il volo per il maltempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'amianto",
+            "pos": "noun",
+            "back": "asbestos",
+            "example": "Nel vecchio tetto c'era ancora amianto.",
+            "tier": "B1"
+          },
+          {
+            "front": "pericoloso",
+            "pos": "adj",
+            "back": "dangerous",
+            "example": "È pericoloso guidare con questa nebbia.",
+            "tier": "A2"
+          },
+          {
+            "front": "per motivi di sicurezza",
+            "pos": "phrase",
+            "back": "for safety reasons",
+            "example": "La strada è chiusa per motivi di sicurezza.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'edilizia",
+            "pos": "noun",
+            "back": "the building industry, construction",
+            "example": "Mio zio lavora nell'edilizia da trent'anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "resistere a",
+            "pos": "verb",
+            "back": "to withstand, to stand up to",
+            "example": "Questo materiale resiste al fuoco.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fibra",
+            "pos": "noun",
+            "back": "the fibre",
+            "example": "Le fibre sono piccolissime e non si vedono.",
+            "tier": "B1"
+          },
+          {
+            "front": "il polmone",
+            "pos": "noun",
+            "back": "the lung",
+            "example": "Il fumo fa male ai polmoni.",
+            "tier": "B1"
+          },
+          {
+            "front": "vietato",
+            "pos": "adj",
+            "back": "banned, forbidden",
+            "example": "Qui è vietato fumare.",
+            "tier": "A2"
+          },
+          {
+            "front": "il capannone",
+            "pos": "noun",
+            "back": "the warehouse, the industrial shed",
+            "example": "Hanno comprato un capannone in periferia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la delusione",
+            "pos": "noun",
+            "back": "the disappointment",
+            "example": "Che delusione, speravo in un finale diverso.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prudenza",
+            "pos": "noun",
+            "back": "caution, care",
+            "example": "Con la pioggia serve un po' di prudenza.",
+            "tier": "B1"
+          },
+          {
+            "front": "del tutto",
+            "pos": "phrase",
+            "back": "completely, entirely",
+            "example": "Non sono del tutto d'accordo con te.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Nell'area dello spettacolo è stato trovato dell'amianto, un materiale pericoloso per la salute.",
+            "point": "Passato prossimo passive plus the partitive del",
+            "explanation": "È stato trovato is a passive in the passato prossimo: essere conjugated, plus stato, plus the past participle. Both participles agree with the subject, so a feminine subject gives è stata trovata una sostanza pericolosa and a plural one gives sono state trovate tracce di amianto. Dell'amianto is a partitive: some asbestos, an unspecified quantity.",
+            "why_tricky": "The double auxiliary è stato feels heavy and learners forget the agreement. The partitive del also disappears in English, so it is easy to leave out."
+          },
+          {
+            "sentence": "Poi si è scoperto che le sue fibre, se entrano nei polmoni, possono causare malattie molto gravi.",
+            "point": "Impersonal si with essere in compound tenses",
+            "explanation": "Si è scoperto means it was discovered, people discovered. With the impersonal si the compound tense always takes essere as auxiliary, even when the verb normally takes avere, as scoprire does.",
+            "why_tricky": "Learners write si ha scoperto by analogy with ho scoperto. The auxiliary rule is mechanical, but watch the participle: with verbs that normally take avere it stays masculine singular (si è mangiato bene), while with essere verbs it goes masculine plural (si è andati a casa)."
+          },
+          {
+            "sentence": "Per questo in Italia è vietato dal 1992, ma si trova ancora in vecchi capannoni e sui tetti delle case più vecchie.",
+            "point": "Present tense with da to say since when",
+            "explanation": "Italian uses the present tense with da for a situation that started in the past and is still true: è vietato dal 1992, it has been banned since 1992. Da plus a date means since, da plus a length of time means for.",
+            "why_tricky": "The choice is between è vietato dal 1992, the ban is still in force, and è stato vietato nel 1992, the act of banning as a single event in that year. English uses the present perfect for both, so learners reach for the compound tense even when Italian wants the plain present."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare in fumo",
+            "meaning": "to go up in smoke, to come to nothing",
+            "example": "Con la pioggia il nostro piano è andato in fumo."
+          },
+          {
+            "phrase": "meglio prevenire che curare",
+            "meaning": "prevention is better than cure",
+            "example": "Fai il controllo adesso, meglio prevenire che curare."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché il concerto di Jovanotti a Barletta è stato annullato?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa vogliono fare adesso gli organizzatori?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'amianto è considerato pericoloso per la salute?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Un organizzatore deve annullare un evento appena c'è un dubbio sulla sicurezza, anche se il pubblico ha già comprato il biglietto? Scrivi circa 100 parole con la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-08-13-mappa-solletico",
       "title": "Pronta la mappa corporea del solletico, condivisa tra le culture",
@@ -6204,506 +6718,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, che cosa serve di più per vincere nello sport: il talento o l'allenamento? Scrivi 80 o 100 parole e spiega le tue ragioni."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-caldo-estremo-italia",
-      "title": "Altri 10 giorni di caldo estremo, l'Italia soffoca. A Napoli 48 gradi",
-      "source": "ANSA",
-      "date": "2026-08-06",
-      "level": "A2-B1",
-      "topics": [
-        "clima",
-        "salute"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-caldo-estremo-italia",
-        "revision": 1,
-        "meta": {
-          "title": "Altri 10 giorni di caldo estremo, l'Italia soffoca. A Napoli 48 gradi",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/caldo-e-afa-non-mollano-lallerta-fino-a-dopo-ferragosto_ff44348d-59a3-4e61-8200-a7cd8663c386.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "clima",
-            "salute"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The heat is not letting go of Italy. Many cities are marked with the red warning, the highest level, and in the south the temperatures have been extremely high for days. The forecasters say that the heat will continue for about ten more days, until after the middle of August. In the north, on the other hand, rain and storms are expected, and some mountain valleys have remained isolated.\n\nThe health ministry advises people not to go out in the hottest hours, to drink a lot of water and to keep an eye on elderly people who live alone. Hospitals report more calls than usual, above all from people with heart or breathing problems. Many town councils have opened air conditioned rooms open to everybody. Experts remind us that summers like this one are becoming more and more frequent because of climate change.",
-        "resumen_es": "Il caldo non molla l'Italia. Molte città sono segnate con il bollino rosso, il livello più alto, e al sud le temperature sono altissime da giorni. I meteorologi dicono che il caldo continuerà per circa dieci giorni, fino a dopo Ferragosto. Al nord, invece, sono attese pioggia e temporali, e alcune valli di montagna sono rimaste isolate.\n\nIl ministero della Salute consiglia di non uscire nelle ore più calde, di bere molta acqua e di controllare le persone anziane che vivono da sole. Gli ospedali segnalano più chiamate del solito, soprattutto da persone con problemi di cuore o di respiro. Molti comuni hanno aperto sale climatizzate aperte a tutti. Gli esperti ricordano che estati come questa diventano sempre più frequenti a causa del cambiamento climatico.",
-        "vocab": [
-          {
-            "front": "il caldo",
-            "pos": "noun",
-            "back": "the heat",
-            "example": "Il caldo di agosto è difficile da sopportare.",
-            "tier": "A2"
-          },
-          {
-            "front": "mollare",
-            "pos": "verb",
-            "back": "to let go, to give up",
-            "example": "La pioggia non molla da tre giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il bollino rosso",
-            "pos": "noun",
-            "back": "red warning level (heat alert)",
-            "example": "Domani ci sarà il bollino rosso in dieci città.",
-            "tier": "B1"
-          },
-          {
-            "front": "il meteorologo",
-            "pos": "noun",
-            "back": "weather forecaster",
-            "example": "I meteorologi prevedono altri temporali.",
-            "tier": "B1"
-          },
-          {
-            "front": "il temporale",
-            "pos": "noun",
-            "back": "thunderstorm",
-            "example": "Un forte temporale ha allagato le strade.",
-            "tier": "A2"
-          },
-          {
-            "front": "la valle",
-            "pos": "noun",
-            "back": "valley",
-            "example": "La valle è rimasta senza strade.",
-            "tier": "A2"
-          },
-          {
-            "front": "isolato",
-            "pos": "adj",
-            "back": "cut off, isolated",
-            "example": "Il paese è isolato da ieri sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare di",
-            "pos": "verb",
-            "back": "to advise to do something",
-            "example": "Il medico consiglia di riposare.",
-            "tier": "A2"
-          },
-          {
-            "front": "anziano",
-            "pos": "adj",
-            "back": "elderly",
-            "example": "Le persone anziane soffrono di più.",
-            "tier": "A2"
-          },
-          {
-            "front": "segnalare",
-            "pos": "verb",
-            "back": "to report, to flag up",
-            "example": "Gli ospedali segnalano molti casi.",
-            "tier": "B1"
-          },
-          {
-            "front": "climatizzato",
-            "pos": "adj",
-            "back": "air conditioned",
-            "example": "La biblioteca è climatizzata.",
-            "tier": "B2"
-          },
-          {
-            "front": "il cambiamento climatico",
-            "pos": "noun",
-            "back": "climate change",
-            "example": "Il cambiamento climatico cambia le nostre estati.",
-            "tier": "B1"
-          },
-          {
-            "front": "a causa di",
-            "pos": "phrase",
-            "back": "because of",
-            "example": "A causa del caldo, molti negozi chiudono presto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Molte città sono segnate con il bollino rosso, il livello più alto, e al sud le temperature sono altissime da giorni.",
-            "point": "Absolute superlative in issimo",
-            "explanation": "Altissime is formed from alto by removing the final vowel and adding issime, and it agrees in gender and number with temperature. It means extremely high, without comparing with anything.",
-            "why_tricky": "Learners confuse this absolute form with the relative superlative le più alte, which does compare, and they sometimes forget the agreement at the end."
-          },
-          {
-            "sentence": "Il ministero della Salute consiglia di non uscire nelle ore più calde, di bere molta acqua e di controllare le persone anziane che vivono da sole.",
-            "point": "Consigliare di plus infinitive, with a negative infinitive",
-            "explanation": "After consigliare Italian uses di plus the infinitive, and the di is repeated before each new instruction. In a negative infinitive, non goes immediately before the verb, giving di non uscire.",
-            "why_tricky": "English uses to plus verb with no preposition pattern to copy, and learners often place non after the verb or leave out the repeated di."
-          },
-          {
-            "sentence": "Gli esperti ricordano che estati come questa diventano sempre più frequenti a causa del cambiamento climatico.",
-            "point": "Sempre più plus adjective",
-            "explanation": "Sempre più means more and more, marking a trend that keeps growing, and the adjective frequenti agrees with the plural noun estati.",
-            "why_tricky": "The literal translation always more sounds odd in English, so the phrase must be learnt as a block, and its opposite is sempre meno."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare un caldo da morire",
-            "meaning": "to be boiling hot",
-            "example": "Oggi a Napoli fa un caldo da morire."
-          },
-          {
-            "phrase": "non dare tregua",
-            "meaning": "to give no respite",
-            "example": "L'afa non dà tregua da settimane."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quanto tempo continuerà il caldo, secondo i meteorologi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consiglia il ministero della Salute?",
-            "type": "open"
-          },
-          {
-            "q": "Che tempo fa al nord in questi giorni?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nella tua città, che cosa dovrebbero fare i comuni per aiutare le persone quando fa molto caldo? Scrivi 80 o 100 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-ia-nuovi-virus",
-      "title": "New York Times: Scienziati hanno usato l'IA per creare nuovi virus, è la prima volta",
-      "source": "Rai News",
-      "date": "2026-08-06",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-ia-nuovi-virus",
-        "revision": 1,
-        "meta": {
-          "title": "New York Times: Scienziati hanno usato l'IA per creare nuovi virus, è la prima volta",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/new-york-times-scienziati-usano-lia-per-creare-nuovi-virus-e-la-prima-volta--2246d4cc-78b0-4b9d-b456-fbbeebb97a28.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "scienza",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "For the first time, a group of scientists has used artificial intelligence to design new viruses. The study, published in the journal Science, is based on the reworking of DNA that already exists in nature. The programme proposes new sequences and the researchers then build them in the laboratory. According to the authors, these viruses only attack bacteria and are not dangerous to people.\n\nThe news, though, has opened a wide debate. Many experts say that the same method could, in the future, be used to create harmful organisms, and they are asking for clear rules and strict controls. Others reply that this technology can speed up the search for new medicines and new treatments against resistant infections. What almost everybody agrees on is that the laws are moving much more slowly than the laboratories.",
-        "resumen_es": "Per la prima volta un gruppo di scienziati ha usato l'intelligenza artificiale per progettare nuovi virus. Lo studio, pubblicato sulla rivista Science, si basa sulla rielaborazione del Dna che esiste già in natura. Il programma propone nuove sequenze e poi i ricercatori le costruiscono in laboratorio. Secondo gli autori, questi virus attaccano solo i batteri e non sono pericolosi per le persone.\n\nLa notizia, però, ha aperto un ampio dibattito. Molti esperti dicono che lo stesso metodo potrebbe servire in futuro a creare organismi dannosi, e chiedono regole chiare e controlli severi. Altri rispondono che questa tecnologia può accelerare la ricerca di nuovi farmaci e di nuove cure contro le infezioni resistenti. Su una cosa quasi tutti sono d'accordo: le leggi vanno molto più piano dei laboratori.",
-        "vocab": [
-          {
-            "front": "l'intelligenza artificiale",
-            "pos": "noun",
-            "back": "artificial intelligence",
-            "example": "L'intelligenza artificiale aiuta i medici.",
-            "tier": "B1"
-          },
-          {
-            "front": "progettare",
-            "pos": "verb",
-            "back": "to design, to plan",
-            "example": "Hanno progettato un nuovo programma.",
-            "tier": "B1"
-          },
-          {
-            "front": "la rivista",
-            "pos": "noun",
-            "back": "journal, magazine",
-            "example": "Lo studio è uscito su una rivista scientifica.",
-            "tier": "A2"
-          },
-          {
-            "front": "la rielaborazione",
-            "pos": "noun",
-            "back": "reworking, reprocessing",
-            "example": "È una rielaborazione di dati vecchi.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sequenza",
-            "pos": "noun",
-            "back": "sequence",
-            "example": "Il computer propone una nuova sequenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "il batterio",
-            "pos": "noun",
-            "back": "bacterium",
-            "example": "Questi batteri vivono nell'acqua.",
-            "tier": "B1"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "Il virus non è pericoloso per l'uomo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "Il dibattito continua da settimane.",
-            "tier": "B1"
-          },
-          {
-            "front": "dannoso",
-            "pos": "adj",
-            "back": "harmful",
-            "example": "Alcuni prodotti sono dannosi per la salute.",
-            "tier": "B1"
-          },
-          {
-            "front": "severo",
-            "pos": "adj",
-            "back": "strict",
-            "example": "Servono controlli severi.",
-            "tier": "B1"
-          },
-          {
-            "front": "accelerare",
-            "pos": "verb",
-            "back": "to speed up",
-            "example": "Il nuovo metodo accelera il lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il farmaco",
-            "pos": "noun",
-            "back": "medicine, drug",
-            "example": "Cercano un farmaco più efficace.",
-            "tier": "B1"
-          },
-          {
-            "front": "essere d'accordo",
-            "pos": "phrase",
-            "back": "to agree",
-            "example": "Non tutti sono d'accordo con questa idea.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il programma propone nuove sequenze e poi i ricercatori le costruiscono in laboratorio.",
-            "point": "Direct object pronoun le before the verb",
-            "explanation": "Le replaces nuove sequenze, a feminine plural noun, and in Italian the direct object pronoun goes before the conjugated verb. Costruiscono belongs to the isc group of third conjugation verbs.",
-            "why_tricky": "English puts the object after the verb, and learners must also remember that verbs like costruire and finire insert isc in most present tense forms."
-          },
-          {
-            "sentence": "Molti esperti dicono che lo stesso metodo potrebbe servire in futuro a creare organismi dannosi, e chiedono regole chiare e controlli severi.",
-            "point": "Condizionale presente potrebbe plus infinitive",
-            "explanation": "Potrebbe is the conditional of potere and expresses a possibility that is not certain. It is followed directly by the infinitive servire, and servire a introduces the purpose.",
-            "why_tricky": "The conditional and the future of potere look similar, potrebbe against potrà, and the preposition a after servire is easy to forget."
-          },
-          {
-            "sentence": "Su una cosa quasi tutti sono d'accordo: le leggi vanno molto più piano dei laboratori.",
-            "point": "Comparative with più and the contracted di",
-            "explanation": "Più piano di means more slowly than, and when the second term carries an article, di joins with it to form dei. Andare piano is the normal way to say to go slowly.",
-            "why_tricky": "Learners write più piano che dei laboratori, mixing the two comparative words, and forget that di plus i becomes dei."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare piano",
-            "meaning": "to go slowly, to take it easy",
-            "example": "Con queste tecnologie è meglio andare piano."
-          },
-          {
-            "phrase": "aprire un dibattito",
-            "meaning": "to spark a debate",
-            "example": "La ricerca ha aperto un dibattito in tutto il mondo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno fatto gli scienziati con l'intelligenza artificiale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcuni esperti sono preoccupati?",
-            "type": "open"
-          },
-          {
-            "q": "Quali vantaggi vedono gli altri ricercatori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è giusto usare l'intelligenza artificiale nella ricerca sui virus? Scrivi 80 o 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-cratere-panarea",
-      "title": "Un grande cratere sottomarino e nuovi camini idrotermali al largo di Panarea",
-      "source": "ANSA",
-      "date": "2026-08-06",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "mare"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-cratere-panarea",
-        "revision": 1,
-        "meta": {
-          "title": "Un grande cratere sottomarino e nuovi camini idrotermali al largo di Panarea",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/photogallery/primopiano/2026/08/05/un-grande-cratere-sottomarino-e-nuovi-camini-idrotermali-al-largo-di-panarea_bcb75882-4ec3-43f6-9681-54e9347e46c7.html",
-          "date_published": "2026-08-05",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "scienza",
-            "mare"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Researchers from Italy's national institute of geophysics and volcanology have discovered a large underwater crater near the island of Panarea, in the Aeolian islands. On the sea floor they also found new hydrothermal vents, that is, openings from which very hot water comes out. The discovery comes from a study carried out together with other Italian marine research centres. To study the sea bed, scientists use special ships and small robots that go down into the depths.\n\nThese areas are very interesting because they lie close to underwater volcanoes. The hot water that comes out of the sea floor carries minerals and allows the life of unusual organisms, which live without light. The studies also help us to understand the natural risks of the area better, since the ground there moves often. The researchers will go on observing the crater in the coming months and will publish new data.",
-        "resumen_es": "I ricercatori dell'Ingv hanno scoperto un grande cratere sottomarino vicino all'isola di Panarea, nelle Eolie. Sul fondo del mare hanno trovato anche nuovi camini idrotermali, cioè aperture da cui esce acqua molto calda. La scoperta arriva da uno studio fatto insieme ad altri centri di ricerca marina italiani. Per studiare il fondale, gli scienziati usano navi speciali e piccoli robot che scendono in profondità.\n\nQueste zone sono molto interessanti perché si trovano vicino a vulcani sottomarini. L'acqua calda che esce dal fondo porta minerali e permette la vita di organismi particolari, che vivono senza luce. Gli studi servono anche a capire meglio i rischi naturali dell'area, dove la terra si muove spesso. I ricercatori continueranno a osservare il cratere nei prossimi mesi e pubblicheranno nuovi dati.",
-        "vocab": [
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "I ricercatori lavorano su una nave da tre settimane.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scoperta",
-            "pos": "noun",
-            "back": "discovery",
-            "example": "La scoperta è molto importante per gli scienziati.",
-            "tier": "A2"
-          },
-          {
-            "front": "il fondale",
-            "pos": "noun",
-            "back": "sea bed, sea floor",
-            "example": "Il fondale qui è profondo più di mille metri.",
-            "tier": "B1"
-          },
-          {
-            "front": "sottomarino",
-            "pos": "adj",
-            "back": "underwater",
-            "example": "Hanno filmato un vulcano sottomarino.",
-            "tier": "B1"
-          },
-          {
-            "front": "il camino idrotermale",
-            "pos": "phrase",
-            "back": "hydrothermal vent",
-            "example": "Dal camino idrotermale esce acqua a duecento gradi.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'apertura",
-            "pos": "noun",
-            "back": "opening",
-            "example": "Nella roccia c'è una piccola apertura.",
-            "tier": "A2"
-          },
-          {
-            "front": "in profondità",
-            "pos": "phrase",
-            "back": "deep down, in depth",
-            "example": "Il robot scende in profondità per due ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "cioè",
-            "pos": "adv",
-            "back": "that is, in other words",
-            "example": "Studiano i vulcani sommersi, cioè quelli sotto il mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "permettere",
-            "pos": "verb",
-            "back": "to allow",
-            "example": "Il calore permette la vita di questi organismi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rischio naturale",
-            "pos": "phrase",
-            "back": "natural hazard",
-            "example": "In Italia i rischi naturali sono studiati con attenzione.",
-            "tier": "B1"
-          },
-          {
-            "front": "muoversi",
-            "pos": "verb",
-            "back": "to move",
-            "example": "In quella zona la terra si muove spesso.",
-            "tier": "A2"
-          },
-          {
-            "front": "pubblicare",
-            "pos": "verb",
-            "back": "to publish",
-            "example": "Pubblicheranno i risultati in autunno.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "I ricercatori dell'Ingv hanno scoperto un grande cratere sottomarino vicino all'isola di Panarea",
-            "point": "Passato prossimo with avere and an irregular participle",
-            "explanation": "Scoprire has the irregular past participle scoperto, and because the verb has a direct object it takes the auxiliary avere.",
-            "why_tricky": "Many common Italian verbs have irregular participles that must be learnt one by one, and choosing essere here would be a clear mistake."
-          },
-          {
-            "sentence": "Queste zone sono molto interessanti perché si trovano vicino a vulcani sottomarini.",
-            "point": "The reflexive verb trovarsi meaning to be located",
-            "explanation": "Trovarsi is used for position: si trovano means they are situated, not they find themselves.",
-            "why_tricky": "The literal translation of trovare, to find, sends learners looking for an object that is not there."
-          },
-          {
-            "sentence": "I ricercatori continueranno a osservare il cratere nei prossimi mesi",
-            "point": "Simple future plus continuare a + infinitive",
-            "explanation": "The future ending erranno is added to the stem, and continuare needs the preposition a before an infinitive.",
-            "why_tricky": "English says continue observing with no preposition, so learners often drop the a that Italian requires."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "toccare il fondo",
-            "meaning": "to hit rock bottom",
-            "example": "Dopo mesi difficili, l'azienda ha toccato il fondo."
-          },
-          {
-            "phrase": "in mare aperto",
-            "meaning": "out in the open sea",
-            "example": "La nave ha lavorato per giorni in mare aperto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno trovato i ricercatori vicino a Panarea?",
-            "type": "open"
-          },
-          {
-            "q": "Perché queste zone del mare sono interessanti per gli scienziati?",
-            "type": "open"
-          },
-          {
-            "q": "Come studiano gli scienziati il fondo del mare?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è giusto spendere molti soldi per studiare il fondo del mare? Scrivi 80 o 100 parole e spiega le tue ragioni."
       }
     }
   ]
