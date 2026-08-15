@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-13T23:47:09Z",
+  "generated_at": "2026-08-15T23:34:30Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-16-street-art-roma",
+      "title": "Street art a Roma, una storia antichissima tutta da raccontare",
+      "source": "ANSA",
+      "date": "2026-08-14",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "arte"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-16-street-art-roma",
+        "revision": 1,
+        "meta": {
+          "title": "Street art a Roma, una storia antichissima tutta da raccontare",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/08/14/street-art-a-roma-una-storia-antichissima-tutta-da-raccontare_d1bd471d-1ebe-46b7-8845-3f0f95de33f2.html",
+          "date_published": "2026-08-14",
+          "date_processed": "2026-08-16",
+          "tags": [
+            "cultura",
+            "arte"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Rome street art is not a recent fashion. In a new book, Stella Maresca tells us that the walls of the city have been speaking for centuries. The ancient Romans already wrote on walls: political messages, jokes, the names of lovers. Today that tradition continues with the murals of the outer districts, where whole buildings become pictures.\n\nThe book follows this thread across two thousand years and arrives at today's projects. Many murals come into being thanks to the district councils or to neighbourhood associations, and they often tell the story of the place or of the people who live there. For many visitors they have become one more reason to leave the historic centre. Opinions on the value of these drawings still differ: some people think they ruin the buildings, while others consider them real art. What is certain is that Rome goes on writing on its walls.",
+        "resumen_es": "A Roma la street art non è una moda recente. In un nuovo libro, Stella Maresca racconta che i muri della città parlano da secoli. Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati. Oggi quella tradizione continua con i murales dei quartieri di periferia, dove interi palazzi diventano quadri.\n\nIl libro segue questo filo lungo duemila anni e arriva ai progetti di oggi. Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive. Per molti visitatori sono diventati un motivo in più per uscire dal centro storico. Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte. Di sicuro Roma continua a scrivere sui suoi muri.",
+        "vocab": [
+          {
+            "front": "il muro",
+            "pos": "noun",
+            "back": "wall",
+            "example": "I muri della città raccontano molte storie.",
+            "tier": "A2"
+          },
+          {
+            "front": "il murale (i murales)",
+            "pos": "noun",
+            "back": "mural (the usual plural in Italian is the Spanish form murales)",
+            "example": "In periferia ci sono murales bellissimi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la moda",
+            "pos": "noun",
+            "back": "fashion, trend",
+            "example": "Non è solo una moda del momento.",
+            "tier": "A2"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell, to recount",
+            "example": "Il libro racconta duemila anni di storia.",
+            "tier": "A2"
+          },
+          {
+            "front": "la battuta",
+            "pos": "noun",
+            "back": "joke, witty remark",
+            "example": "Sul muro c'era una battuta divertente.",
+            "tier": "B1"
+          },
+          {
+            "front": "il palazzo",
+            "pos": "noun",
+            "back": "building, block of flats (NOT usually a palace)",
+            "example": "Hanno dipinto un palazzo intero.",
+            "tier": "A2"
+          },
+          {
+            "front": "il quartiere",
+            "pos": "noun",
+            "back": "neighbourhood, district",
+            "example": "Vivo in un quartiere tranquillo.",
+            "tier": "A2"
+          },
+          {
+            "front": "la periferia",
+            "pos": "noun",
+            "back": "outskirts, suburbs",
+            "example": "I murales più belli sono in periferia.",
+            "tier": "B1"
+          },
+          {
+            "front": "il filo",
+            "pos": "noun",
+            "back": "thread (also of a story)",
+            "example": "Il libro segue il filo della storia romana.",
+            "tier": "B1"
+          },
+          {
+            "front": "grazie a",
+            "pos": "phrase",
+            "back": "thanks to",
+            "example": "Il progetto è nato grazie al municipio.",
+            "tier": "A2"
+          },
+          {
+            "front": "rovinare",
+            "pos": "verb",
+            "back": "to ruin, to spoil",
+            "example": "Secondo alcuni i disegni rovinano i palazzi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il centro storico",
+            "pos": "phrase",
+            "back": "old town, historic centre",
+            "example": "Il centro storico è pieno di turisti.",
+            "tier": "A2"
+          },
+          {
+            "front": "di sicuro",
+            "pos": "adv",
+            "back": "certainly, for sure",
+            "example": "Di sicuro torneremo a Roma.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati.",
+            "point": "imperfetto per abitudini nel passato",
+            "explanation": "Scrivevano è imperfetto e indica un'abitudine ripetuta nel passato, non un fatto singolo. In inglese si direbbe used to write oppure would write.",
+            "why_tricky": "Con il passato prossimo, hanno scritto sui muri, la frase parlerebbe di una volta sola. Quando in italiano c'è un'abitudine antica o una descrizione di come si viveva, l'imperfetto è quasi sempre la scelta giusta."
+          },
+          {
+            "sentence": "Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte.",
+            "point": "c'è chi e il congiuntivo dopo pensare che",
+            "explanation": "C'è chi significa alcune persone e va sempre con il verbo alla terza persona singolare. Dopo pensare che si usa il congiuntivo, rovinino, perché si riporta un'opinione.",
+            "why_tricky": "La seconda parte, e chi invece li considera, torna all'indicativo perché dipende da c'è chi e non da pensare che. Notare anche che c'è chi resta singolare anche quando si parla di molte persone."
+          },
+          {
+            "sentence": "Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive.",
+            "point": "il pronome ci con valore di luogo",
+            "explanation": "Qui ci non è il pronome noi ma sostituisce un luogo già nominato: chi vive lì, in quel posto. Si mette prima del verbo.",
+            "why_tricky": "Ci ha molti valori diversi in italiano, quindi bisogna guardare il contesto. Confronta ci vive, vive lì, con ci hanno visto, hanno visto noi, e con ci vediamo domani, dove ci vuol dire l'uno con l'altro."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare scuola",
+            "meaning": "to set an example that others follow, to be influential",
+            "example": "Quel progetto di murales ha fatto scuola in tutta Italia."
+          },
+          {
+            "phrase": "andare per la maggiore",
+            "meaning": "to be very popular or in fashion",
+            "example": "In questo periodo i tour dei murales vanno per la maggiore."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa scrivevano gli antichi romani sui muri della città?",
+            "type": "open"
+          },
+          {
+            "q": "Chi aiuta oggi a realizzare molti murales nei quartieri?",
+            "type": "open"
+          },
+          {
+            "q": "Perché sul valore dei murales le opinioni restano diverse?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i murales migliorano o rovinano una città? Scrivi otto o dieci frasi con la tua opinione e almeno un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-16-wikipedia-notizia-falsa-google",
+      "title": "'Sam Altman è morto', falsa informazione Wikipedia finisce nella ricerca Google",
+      "source": "ANSA",
+      "date": "2026-08-14",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "informazione"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-16-wikipedia-notizia-falsa-google",
+        "revision": 1,
+        "meta": {
+          "title": "'Sam Altman è morto', falsa informazione Wikipedia finisce nella ricerca Google",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/13/sam-altman-e-morto-falsa-informazione-wikipedia-finisce-nella-ricerca-google_a3d05bd6-4609-405c-8d5b-66a7c077b3d3.html",
+          "date_published": "2026-08-14",
+          "date_processed": "2026-08-16",
+          "tags": [
+            "tecnologia",
+            "informazione"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A false piece of news appeared on Google: Sam Altman, the head of OpenAI, was reported dead. The information did not come from a newspaper, but from a wrong edit made to his Wikipedia page. Google often shows a box at the top with the main facts about a person, and that box takes a lot of its information from Wikipedia itself. Some users noticed the mistake and reported it online.\n\nGoogle spoke of sources of public information being vandalised. Wikipedia can indeed be edited by anyone, and this is both its strength and its weak point. Usually mistakes are corrected quickly by the other users; sometimes, though, a false edit has time to pass into search engines. The case is a reminder of something simple: before believing an important piece of news, it is worth checking at least two different sources.",
+        "resumen_es": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto. L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia. Google mostra spesso in alto un riquadro con i dati principali di una persona, e quel riquadro prende molte informazioni proprio da Wikipedia. Alcuni utenti hanno notato l'errore e lo hanno segnalato online.\n\nGoogle ha parlato di fonti di informazioni pubbliche vandalizzate. Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole. Di solito gli errori vengono corretti in fretta dagli altri utenti; a volte però una modifica falsa fa in tempo a passare nei motori di ricerca. Il caso ricorda una cosa semplice: prima di credere a una notizia importante, conviene controllare almeno due fonti diverse.",
+        "vocab": [
+          {
+            "front": "la notizia",
+            "pos": "noun",
+            "back": "piece of news",
+            "example": "La notizia era falsa ma sembrava vera.",
+            "tier": "A2"
+          },
+          {
+            "front": "falso",
+            "pos": "adj",
+            "back": "false, fake",
+            "example": "Online circolano molte notizie false.",
+            "tier": "A2"
+          },
+          {
+            "front": "la modifica",
+            "pos": "noun",
+            "back": "edit, change",
+            "example": "Qualcuno ha fatto una modifica sbagliata.",
+            "tier": "B1"
+          },
+          {
+            "front": "il giornale",
+            "pos": "noun",
+            "back": "newspaper",
+            "example": "La notizia non veniva da un giornale.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'utente",
+            "pos": "noun",
+            "back": "user",
+            "example": "Gli utenti hanno segnalato subito l'errore.",
+            "tier": "B1"
+          },
+          {
+            "front": "segnalare",
+            "pos": "verb",
+            "back": "to report, to flag up",
+            "example": "Ho segnalato il problema al sito.",
+            "tier": "B1"
+          },
+          {
+            "front": "vandalizzare",
+            "pos": "verb",
+            "back": "to vandalise, to deface",
+            "example": "Qualcuno ha vandalizzato la pagina.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fonte",
+            "pos": "noun",
+            "back": "source (of information)",
+            "example": "Controlla sempre la fonte di una notizia.",
+            "tier": "B1"
+          },
+          {
+            "front": "chiunque",
+            "pos": "pronoun",
+            "back": "anyone, whoever",
+            "example": "Chiunque può scrivere su quel sito.",
+            "tier": "B1"
+          },
+          {
+            "front": "il punto debole",
+            "pos": "phrase",
+            "back": "weak point",
+            "example": "La velocità è il suo punto debole.",
+            "tier": "B1"
+          },
+          {
+            "front": "il motore di ricerca",
+            "pos": "phrase",
+            "back": "search engine",
+            "example": "L'errore è finito nei motori di ricerca.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare in tempo a",
+            "pos": "phrase",
+            "back": "to manage to do something in time",
+            "example": "Non ho fatto in tempo a correggerlo.",
+            "tier": "B1"
+          },
+          {
+            "front": "credere a",
+            "pos": "verb",
+            "back": "to believe (something or someone)",
+            "example": "Non credo a tutto quello che leggo online.",
+            "tier": "A2"
+          },
+          {
+            "front": "conviene",
+            "pos": "verb",
+            "back": "it is worth, it is advisable",
+            "example": "Conviene controllare due fonti diverse.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto.",
+            "point": "condizionale passato per notizie non confermate",
+            "explanation": "Sarebbe morto non descrive un'ipotesi del passato, ma serve a riportare una notizia che chi scrive non conferma. È un uso tipico del linguaggio giornalistico: da riconoscere quando si legge, non da produrre a questo livello.",
+            "why_tricky": "In inglese si usa una formula diversa, reportedly oppure is said to have died. Chi impara l'italiano legge sarebbe morto e capisce he would have died, che qui sarebbe sbagliato."
+          },
+          {
+            "sentence": "L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia.",
+            "point": "participio passato che descrive un nome",
+            "explanation": "Fatta finisce in a perché si riferisce a una modifica, nome femminile singolare. È un participio usato come aggettivo, senza il verbo essere davanti.",
+            "why_tricky": "La concordanza del participio è il punto delicato dell'italiano. Qui è facile perché il nome è vicino, ma con avere e un pronome diventa più difficile: ho visto la pagina, però l'ho vista."
+          },
+          {
+            "sentence": "Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole.",
+            "point": "passivo con potere",
+            "explanation": "Il passivo si forma con essere più participio, e quando c'è potere l'ordine diventa può essere modificata. Da chiunque introduce chi compie l'azione.",
+            "why_tricky": "Il participio prende il genere e il numero dal soggetto, mentre può dipende solo dal numero: Wikipedia può essere modificata, ma i siti possono essere modificati."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "prendere per buono",
+            "meaning": "to accept something as true without checking it",
+            "example": "Ha preso per buona la prima notizia che ha letto."
+          },
+          {
+            "phrase": "fare acqua da tutte le parti",
+            "meaning": "to be full of holes, to not stand up at all",
+            "example": "La sua spiegazione faceva acqua da tutte le parti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Da dove veniva la notizia falsa apparsa su Google?",
+            "type": "open"
+          },
+          {
+            "q": "Perché Wikipedia può contenere errori di questo tipo?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa conviene fare prima di credere a una notizia importante?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Come fai a capire se una notizia online è vera? Scrivi otto o dieci frasi e spiega quali controlli fai di solito."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-16-turismo-famiglie-miliardi",
+      "title": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
+      "source": "ANSA",
+      "date": "2026-08-14",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "economia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-16-turismo-famiglie-miliardi",
+        "revision": 1,
+        "meta": {
+          "title": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/14/le-vacanze-estive-un-must-per-le-famiglie-il-turismo-family-vale-oltre-15-miliardi_ad824098-7421-49b6-9f0e-96fbfb4d9430.html",
+          "date_published": "2026-08-14",
+          "date_processed": "2026-08-16",
+          "tags": [
+            "viaggi",
+            "economia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "For Italian families the summer holiday is still almost an obligation. According to research by the Jfc company, tourism aimed at families is worth more than fifteen billion euros. Family tourism generally includes hotels with entertainment for children, flats near the sea, campsites and services designed for people travelling with small children.\n\nThe research also indicates which regions are most attentive to this kind of tourism: Emilia-Romagna, Trentino, Puglia and Abruzzo. These are regions that have been working with families for years, from the sea in Puglia to the mountains in Trentino. For many families the price remains the first problem, because in high season costs rise rapidly. Those who can, leave in June or September and spend less. In short, holidays remain an important moment of the year, even when money is tight.",
+        "resumen_es": "Per le famiglie italiane le vacanze estive restano quasi un obbligo. Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro. Il turismo per famiglie comprende in genere alberghi con animazione per i bambini, appartamenti vicino al mare, campeggi e servizi pensati per chi viaggia con figli piccoli.\n\nLa ricerca indica anche quali regioni sono più attente a questo tipo di turismo: Emilia-Romagna, Trentino, Puglia e Abruzzo. Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino. Per molte famiglie il prezzo resta il primo problema, perché in alta stagione i costi salgono rapidamente. Chi può, parte a giugno o a settembre e spende meno. Le vacanze, insomma, restano un momento importante dell'anno, anche quando i soldi sono pochi.",
+        "vocab": [
+          {
+            "front": "le vacanze estive",
+            "pos": "phrase",
+            "back": "summer holidays",
+            "example": "Le vacanze estive durano tre settimane.",
+            "tier": "A2"
+          },
+          {
+            "front": "la ricerca",
+            "pos": "noun",
+            "back": "study, piece of research",
+            "example": "Una ricerca indica quali regioni sono più attente.",
+            "tier": "B1"
+          },
+          {
+            "front": "valere",
+            "pos": "verb",
+            "back": "to be worth",
+            "example": "Il settore vale quindici miliardi di euro.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'obbligo",
+            "pos": "noun",
+            "back": "obligation, something you must do",
+            "example": "Per molti le ferie sono quasi un obbligo.",
+            "tier": "B1"
+          },
+          {
+            "front": "comprendere",
+            "pos": "verb",
+            "back": "to include (also: to understand)",
+            "example": "Il prezzo comprende la colazione.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'animazione",
+            "pos": "noun",
+            "back": "entertainment programme (at a hotel or resort)",
+            "example": "In albergo c'è l'animazione per i bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "il campeggio",
+            "pos": "noun",
+            "back": "campsite",
+            "example": "Dormiamo in campeggio vicino al mare.",
+            "tier": "A2"
+          },
+          {
+            "front": "attento a",
+            "pos": "adj",
+            "back": "attentive to, mindful of",
+            "example": "Sono alberghi molto attenti alle famiglie.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'alta stagione",
+            "pos": "phrase",
+            "back": "high season",
+            "example": "In alta stagione tutto costa di più.",
+            "tier": "B1"
+          },
+          {
+            "front": "salire",
+            "pos": "verb",
+            "back": "to go up, to rise (of prices)",
+            "example": "I costi salgono rapidamente ad agosto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il prezzo",
+            "pos": "noun",
+            "back": "price",
+            "example": "Il prezzo resta il primo problema.",
+            "tier": "A2"
+          },
+          {
+            "front": "spendere",
+            "pos": "verb",
+            "back": "to spend (money)",
+            "example": "Chi parte a settembre spende meno.",
+            "tier": "A2"
+          },
+          {
+            "front": "insomma",
+            "pos": "adv",
+            "back": "in short, all in all",
+            "example": "Insomma, resta un momento importante.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro.",
+            "point": "secondo per citare una fonte",
+            "explanation": "Secondo più un nome significa in base a quello che dice qualcuno. Si usa senza preposizione davanti alla persona o alla fonte.",
+            "why_tricky": "L'errore tipico è secondo di me o secondo a me: si dice sempre secondo me, secondo te, secondo la ricerca. Attenzione anche a dedicato, participio usato come aggettivo, che concorda con turismo, maschile singolare."
+          },
+          {
+            "sentence": "Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino.",
+            "point": "da più espressione di tempo con il presente",
+            "explanation": "Da anni lavorano significa che hanno cominciato anni fa e continuano ancora oggi. L'italiano usa il presente, mentre l'inglese usa have been working.",
+            "why_tricky": "Molti studenti scrivono hanno lavorato da anni, copiando l'inglese. Con da e un'azione ancora in corso il presente è la forma corretta."
+          },
+          {
+            "sentence": "Chi può, parte a giugno o a settembre e spende meno.",
+            "point": "chi come pronome indefinito",
+            "explanation": "Chi qui significa le persone che, chiunque possa. Regge sempre il verbo al singolare, anche se parla di tante persone.",
+            "why_tricky": "Non va confuso con il chi delle domande. Con i mesi la forma normale oggi è a giugno, a settembre; in giugno esiste ma suona più formale."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tirare la cinghia",
+            "meaning": "to tighten one's belt, to spend less than usual",
+            "example": "Quest'anno tiriamo la cinghia e restiamo in Italia."
+          },
+          {
+            "phrase": "fare il pieno",
+            "meaning": "to be packed out, to be fully booked (of a hotel or resort)",
+            "example": "In agosto gli alberghi della costa fanno il pieno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanto vale il turismo dedicato alle famiglie secondo la ricerca?",
+            "type": "open"
+          },
+          {
+            "q": "Quali regioni indica la ricerca come le più attente alle famiglie?",
+            "type": "open"
+          },
+          {
+            "q": "Perché chi può parte a giugno o a settembre?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è la vacanza estiva ideale per te? Scrivi otto o dieci frasi e spiega dove andresti, con chi e perché."
+      }
+    },
     {
       "pack_id": "feed-2026-08-14-nas-acque-bar-ristoranti",
       "title": "Controlli del Nas sulle acque vendute in bar e ristoranti: \"Irregolarità per il 54%\"",
@@ -6197,527 +6711,6 @@
           }
         ],
         "opinion_prompt": "Scrivi 100 parole su una canzone che è importante per te: quando l'hai sentita la prima volta e perché ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-07-lattuga-proteina-carne",
-      "title": "Ottenuta la prima lattuga che produce una proteina chiave della carne",
-      "source": "ANSA",
-      "date": "2026-08-07",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "alimentazione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-07-lattuga-proteina-carne",
-        "revision": 1,
-        "meta": {
-          "title": "Ottenuta la prima lattuga che produce una proteina chiave della carne",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/07/ottenuta-la-prima-lattuga-che-produce-una-proteina-chiave-della-carne_57570494-0f6b-4789-8531-8dd63fd0c125.html",
-          "date_published": "2026-08-07",
-          "date_processed": "2026-08-07",
-          "tags": [
-            "scienza",
-            "alimentazione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Some researchers have produced a lettuce able to make a protein typical of meat. The plant grows like an ordinary lettuce, but inside its leaves this protein forms as well. The idea is simple: to use plants as small natural factories, instead of raising more animals. For now this is a laboratory result and not a product we can find in the supermarket.\n\nIf the research goes well, this route could make our diet more sustainable, because growing plants uses less water and less land than livestock farming. Many questions remain, though: taste, cost and above all the European rules on food safety. Consumers, too, will have to get used to the idea. Scientists therefore urge caution, because more studies are needed before we can talk about a real change.",
-        "resumen_es": "Alcuni ricercatori hanno ottenuto una lattuga capace di produrre una proteina tipica della carne. La pianta cresce come una lattuga normale, ma dentro le sue foglie si forma anche questa proteina. L'idea è semplice: usare le piante come piccole fabbriche naturali, invece di allevare più animali. Per ora si tratta di un risultato di laboratorio e non di un prodotto che possiamo trovare al supermercato.\n\nSe la ricerca andrà avanti bene, questa strada potrebbe rendere l'alimentazione più sostenibile, perché coltivare piante consuma meno acqua e meno terra dell'allevamento. Restano però molte domande: il sapore, il costo e soprattutto le regole europee sulla sicurezza alimentare. Anche i consumatori dovranno abituarsi all'idea. Gli scienziati invitano quindi alla prudenza, perché servono altri studi prima di parlare di un vero cambiamento.",
-        "vocab": [
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "I ricercatori hanno pubblicato lo studio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la lattuga",
-            "pos": "noun",
-            "back": "lettuce",
-            "example": "Ho comprato una lattuga fresca.",
-            "tier": "B1"
-          },
-          {
-            "front": "la foglia",
-            "pos": "noun",
-            "back": "leaf",
-            "example": "Le foglie sono verdi e larghe.",
-            "tier": "B1"
-          },
-          {
-            "front": "allevare",
-            "pos": "verb",
-            "back": "to raise, to farm (animals)",
-            "example": "In questa zona allevano mucche.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'allevamento",
-            "pos": "noun",
-            "back": "livestock farming",
-            "example": "L'allevamento consuma molta acqua.",
-            "tier": "B2"
-          },
-          {
-            "front": "coltivare",
-            "pos": "verb",
-            "back": "to grow, to cultivate",
-            "example": "Coltivano pomodori nell'orto.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostenibile",
-            "pos": "adj",
-            "back": "sustainable",
-            "example": "Cercano un'agricoltura più sostenibile.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sapore",
-            "pos": "noun",
-            "back": "taste, flavour",
-            "example": "Il sapore è ancora da migliorare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sicurezza alimentare",
-            "pos": "phrase",
-            "back": "food safety",
-            "example": "Le regole sulla sicurezza alimentare sono severe.",
-            "tier": "B2"
-          },
-          {
-            "front": "abituarsi a",
-            "pos": "verb",
-            "back": "to get used to",
-            "example": "Ci si abitua presto al clima.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prudenza",
-            "pos": "noun",
-            "back": "caution",
-            "example": "Gli scienziati invitano alla prudenza.",
-            "tier": "B2"
-          },
-          {
-            "front": "si tratta di",
-            "pos": "phrase",
-            "back": "it is a matter of, this is",
-            "example": "Si tratta di un primo esperimento.",
-            "tier": "B1"
-          },
-          {
-            "front": "per ora",
-            "pos": "phrase",
-            "back": "for now",
-            "example": "Per ora non ci sono novità.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare avanti",
-            "pos": "phrase",
-            "back": "to go on, to continue",
-            "example": "Il progetto andrà avanti fino a dicembre.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Se la ricerca andrà avanti bene, questa strada potrebbe rendere l'alimentazione più sostenibile, perché coltivare piante consuma meno acqua e meno terra dell'allevamento.",
-            "point": "periodo ipotetico with the future in the se clause",
-            "explanation": "Italian, unlike English, uses the future tense after \"se\" when the condition is genuinely still open: \"se andrà avanti\", not \"se va avanti\". The main clause here uses the conditional \"potrebbe\".",
-            "why_tricky": "English says \"if the research goes well\" with a present tense, so learners transfer that. Both \"se andrà\" and \"se va\" exist in Italian, but the future makes the openness explicit."
-          },
-          {
-            "sentence": "Per ora si tratta di un risultato di laboratorio e non di un prodotto che possiamo trovare al supermercato.",
-            "point": "the fixed impersonal expression si tratta di",
-            "explanation": "\"si tratta di\" always stays in the third person singular and is always followed by \"di\". It means \"this is / it is a case of\" and has no expressed subject.",
-            "why_tricky": "Learners try to make it agree (\"si trattano di risultati\") or drop the \"di\". Neither is possible: the phrase is frozen."
-          },
-          {
-            "sentence": "Anche i consumatori dovranno abituarsi all'idea.",
-            "point": "reflexive infinitive after a modal verb",
-            "explanation": "With a modal verb like dovere, the reflexive pronoun can attach to the infinitive: \"dovranno abituarsi\". Italian also allows \"si dovranno abituare\", with the same meaning.",
-            "why_tricky": "What is not allowed is dropping the pronoun altogether. Abituarsi is reflexive in Italian even though \"get used to\" is not reflexive in English."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andarci piano",
-            "meaning": "to take it slowly, not to jump to conclusions",
-            "example": "Meglio andarci piano con gli entusiasmi."
-          },
-          {
-            "phrase": "essere ancora acqua passata",
-            "meaning": "something already over and no longer relevant",
-            "example": "Quel problema è ormai acqua passata."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno ottenuto i ricercatori?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa ricerca potrebbe essere utile per l'ambiente?",
-            "type": "open"
-          },
-          {
-            "q": "Quali dubbi restano prima di trovare questo prodotto nei negozi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Mangeresti un alimento creato in laboratorio? Scrivi 100 parole e spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-07-esodo-estivo-bollino-nero",
-      "title": "Bollino nero per l'esodo estivo, 25 milioni in viaggio: domani giornata clou, ecco dove",
-      "source": "Rai News",
-      "date": "2026-08-07",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "viaggi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-07-esodo-estivo-bollino-nero",
-        "revision": 1,
-        "meta": {
-          "title": "Bollino nero per l'esodo estivo, 25 milioni in viaggio: domani giornata clou, ecco dove",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/bollino-nero-per-lesodo-estivo-domani-sulle-strade-giornata-clou-ecco-dove-viabilita-00a53478-f498-4008-a12f-a1ad80c6bf00.html",
-          "date_published": "2026-08-07",
-          "date_processed": "2026-08-07",
-          "tags": [
-            "società",
-            "viaggi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "This weekend the great summer exodus begins: around 25 million Italians are setting off on holiday. The motorway companies have given Saturday morning a black rating, that is, the worst moment to leave. Traffic is already heavy today, above all towards the coast and towards the south. For anyone who can choose, it is better to leave late in the evening or very early in the morning.\n\nThe traffic police advise checking the car before setting off, drinking often and stopping every two hours, because in the heat tiredness comes on sooner. Trains and airports will also be full over these days. Anyone staying in the city will find clear roads instead, and many shops closed until September. The hardest journey back will be at the end of the month.",
-        "resumen_es": "Questo fine settimana comincia il grande esodo estivo: circa 25 milioni di italiani si mettono in viaggio per le vacanze. Le società delle autostrade hanno messo il bollino nero su sabato mattina, cioè il momento peggiore per partire. Il traffico è intenso già da oggi, soprattutto verso il mare e verso il sud. Chi può scegliere, è meglio che parta la sera tardi o la mattina molto presto.\n\nLa polizia stradale consiglia di controllare la macchina prima di partire, di bere spesso e di fermarsi ogni due ore, perché con il caldo la stanchezza arriva prima. Anche i treni e gli aeroporti saranno pieni in questi giorni. Chi resta in città troverà invece strade libere e molti negozi chiusi fino a settembre. Il rientro più difficile sarà alla fine del mese.",
-        "vocab": [
-          {
-            "front": "l'esodo estivo",
-            "pos": "phrase",
-            "back": "the summer getaway, mass holiday departure",
-            "example": "L'esodo estivo comincia ad agosto.",
-            "tier": "B2"
-          },
-          {
-            "front": "mettersi in viaggio",
-            "pos": "phrase",
-            "back": "to set off",
-            "example": "Ci mettiamo in viaggio alle sei.",
-            "tier": "B1"
-          },
-          {
-            "front": "il bollino nero",
-            "pos": "phrase",
-            "back": "black rating (worst traffic day)",
-            "example": "Sabato c'è il bollino nero.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'autostrada",
-            "pos": "noun",
-            "back": "motorway",
-            "example": "L'autostrada era piena di macchine.",
-            "tier": "B1"
-          },
-          {
-            "front": "il traffico",
-            "pos": "noun",
-            "back": "traffic",
-            "example": "Il traffico è intenso verso il mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "intenso",
-            "pos": "adj",
-            "back": "heavy, intense",
-            "example": "Il traffico sarà intenso da domani.",
-            "tier": "B1"
-          },
-          {
-            "front": "partire",
-            "pos": "verb",
-            "back": "to leave, to set off",
-            "example": "Partiamo domani mattina presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la polizia stradale",
-            "pos": "phrase",
-            "back": "traffic police",
-            "example": "La polizia stradale controlla le auto.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare di",
-            "pos": "verb",
-            "back": "to advise to",
-            "example": "Ti consiglio di partire presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "fermarsi",
-            "pos": "verb",
-            "back": "to stop",
-            "example": "Fermiamoci a bere qualcosa.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stanchezza",
-            "pos": "noun",
-            "back": "tiredness",
-            "example": "Con il caldo la stanchezza aumenta.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rientro",
-            "pos": "noun",
-            "back": "the return journey",
-            "example": "Il rientro sarà a fine mese.",
-            "tier": "B2"
-          },
-          {
-            "front": "chi può",
-            "pos": "phrase",
-            "back": "those who can, whoever can",
-            "example": "Chi può, parte di notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "fino a",
-            "pos": "phrase",
-            "back": "until, up to",
-            "example": "I negozi sono chiusi fino a settembre.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Chi può scegliere, è meglio che parta la sera tardi o la mattina molto presto.",
-            "point": "è meglio che + congiuntivo",
-            "explanation": "Impersonal expressions of opinion or advice, such as \"è meglio che\", \"bisogna che\", \"è importante che\", are followed by the subjunctive: parta, not parte.",
-            "why_tricky": "When there is no change of subject Italian prefers the infinitive instead: \"è meglio partire presto\". Learners often keep \"che\" and the indicative, which sounds wrong in both cases."
-          },
-          {
-            "sentence": "La polizia stradale consiglia di controllare la macchina prima di partire, di bere spesso e di fermarsi ogni due ore, perché con il caldo la stanchezza arriva prima.",
-            "point": "consigliare di + infinito, and prima di + infinito",
-            "explanation": "Many Italian verbs of advising and asking are followed by \"di\" plus the infinitive. Likewise \"prima di\" always takes the infinitive, never a conjugated verb.",
-            "why_tricky": "English uses the gerund (\"before leaving\"), so learners write \"prima di partendo\". Italian has no gerund after a preposition: it must be the plain infinitive."
-          },
-          {
-            "sentence": "Chi resta in città troverà invece strade libere e molti negozi chiusi fino a settembre.",
-            "point": "futuro semplice and the relative pronoun chi",
-            "explanation": "\"chi\" means \"the person who / whoever\" and always takes a singular verb, here \"resta\". The main verb \"troverà\" is in the simple future, used for a confident prediction.",
-            "why_tricky": "Learners confuse \"chi\" with the plural \"quelli che\" and put the verb in the plural. Also, spoken Italian often replaces the future with the present, but written news keeps the future."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "mettersi in strada",
-            "meaning": "to hit the road",
-            "example": "Domani ci mettiamo in strada all'alba."
-          },
-          {
-            "phrase": "essere agli sgoccioli",
-            "meaning": "to be nearly over, down to the last drop",
-            "example": "Le vacanze sono ormai agli sgoccioli."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando è il momento peggiore per partire questo fine settimana?",
-            "type": "open"
-          },
-          {
-            "q": "Quali consigli dà la polizia stradale?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa trova chi resta in città durante l'esodo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci partire in vacanza ad agosto con tutti gli altri o in un altro mese? Scrivi 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-06-pellacani-cinque-ori",
-      "title": "Parigi: Chiara Pellacani storico en plein, 5 ori su 5 agli Europei di tuffi",
-      "source": "ANSA",
-      "date": "2026-08-06",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "tuffi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-06-pellacani-cinque-ori",
-        "revision": 1,
-        "meta": {
-          "title": "Parigi: Chiara Pellacani storico en plein, 5 ori su 5 agli Europei di tuffi",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/06/europei-di-nuoto-chiara-pellacani-storico-en-plein-5-ori-su-5-agli-europei-di-tuffi_b68bad49-7310-48ee-adf8-a12c7062c1c0.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-06",
-          "tags": [
-            "sport",
-            "tuffi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Chiara Pellacani has won five gold medals at the European diving championships in Paris. She competed five times and won every time. The last gold came in the synchronised three metre event, together with Elisa Pizzini. It is a result that no Italian athlete had ever achieved before in this sport, and the public in the stands celebrated for a long time.\n\nAfter the final, the diver said that now she feels closer to the Chinese athletes, who have dominated this discipline for years. The Italian team finishes the European championships at the top of the medal table, with a very rich haul. For many young people this success is a strong encouragement, because diving requires many years of training and a lot of patience. The next goal will be to repeat the same result at the world championships.",
-        "resumen_es": "Chiara Pellacani ha vinto cinque medaglie d'oro agli Europei di tuffi di Parigi. Ha gareggiato cinque volte e ha vinto sempre. L'ultimo oro è arrivato nel sincro dai tre metri, insieme a Elisa Pizzini. È un risultato che nessuna atleta italiana aveva mai ottenuto prima in questo sport, e il pubblico sugli spalti ha festeggiato a lungo.\n\nDopo la finale, la tuffatrice ha detto che adesso si sente più vicina alle atlete cinesi, che da anni dominano questa disciplina. La squadra italiana chiude gli Europei in testa al medagliere, con un bottino molto ricco. Per molti ragazzi questo successo è un forte incoraggiamento, perché i tuffi richiedono tanti anni di allenamento e molta pazienza. Il prossimo obiettivo sarà ripetere lo stesso risultato ai campionati mondiali.",
-        "vocab": [
-          {
-            "front": "il tuffo",
-            "pos": "noun",
-            "back": "dive; (plural) diving as a sport",
-            "example": "Il suo ultimo tuffo è stato quasi perfetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tuffatrice",
-            "pos": "noun",
-            "back": "female diver",
-            "example": "La tuffatrice italiana ha vinto ancora.",
-            "tier": "B1"
-          },
-          {
-            "front": "gareggiare",
-            "pos": "verb",
-            "back": "to compete",
-            "example": "Domani gareggia anche nel sincro.",
-            "tier": "B1"
-          },
-          {
-            "front": "la medaglia d'oro",
-            "pos": "noun",
-            "back": "gold medal",
-            "example": "Ha ricevuto la medaglia d'oro sul podio.",
-            "tier": "A2"
-          },
-          {
-            "front": "il medagliere",
-            "pos": "noun",
-            "back": "medal table",
-            "example": "L'Italia è prima nel medagliere.",
-            "tier": "B2"
-          },
-          {
-            "front": "gli spalti",
-            "pos": "noun",
-            "back": "the stands (in a stadium)",
-            "example": "Gli spalti erano pieni di tifosi.",
-            "tier": "B2"
-          },
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "Hanno festeggiato con la famiglia.",
-            "tier": "A2"
-          },
-          {
-            "front": "la disciplina",
-            "pos": "noun",
-            "back": "discipline, sporting event",
-            "example": "È una disciplina molto tecnica.",
-            "tier": "B1"
-          },
-          {
-            "front": "il bottino",
-            "pos": "noun",
-            "back": "haul, take (of medals)",
-            "example": "Il bottino finale è di diciannove medaglie.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'allenamento",
-            "pos": "noun",
-            "back": "training",
-            "example": "Fa allenamento sei giorni su sette.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'incoraggiamento",
-            "pos": "noun",
-            "back": "encouragement",
-            "example": "Le sue parole sono un incoraggiamento per tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "goal, objective",
-            "example": "Il nostro obiettivo è migliorare.",
-            "tier": "B1"
-          },
-          {
-            "front": "in testa a",
-            "pos": "phrase",
-            "back": "at the top of, in the lead of",
-            "example": "La squadra è in testa alla classifica.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "È un risultato che nessuna atleta italiana aveva mai ottenuto prima in questo sport, e il pubblico sugli spalti ha festeggiato a lungo.",
-            "point": "Trapassato prossimo with nessuna and mai",
-            "explanation": "Aveva ottenuto is the trapassato prossimo, used for an action placed before another moment in the past. Nessuna and mai together give a strong negative, and in Italian this double negative is completely normal.",
-            "why_tricky": "English allows only one negative word, so learners often drop mai, and choosing the trapassato instead of the simple passato prossimo needs a clear reference point in the past."
-          },
-          {
-            "sentence": "Dopo la finale, la tuffatrice ha detto che adesso si sente più vicina alle atlete cinesi, che da anni dominano questa disciplina.",
-            "point": "Da plus time expression with the present tense",
-            "explanation": "Da anni dominano means they have dominated for years and are still doing so. Italian keeps the present tense with da, where English needs a present perfect.",
-            "why_tricky": "Learners translate literally and produce hanno dominato da anni, which sounds wrong to Italian ears."
-          },
-          {
-            "sentence": "Il prossimo obiettivo sarà ripetere lo stesso risultato ai campionati mondiali.",
-            "point": "Simple future of essere plus infinitive as subject complement",
-            "explanation": "Sarà is the future of essere, and the infinitive ripetere works like a noun here, naming what the goal is. The preposition a joined with i gives the contracted form ai.",
-            "why_tricky": "Article contractions such as ai, dai and dei must be learnt as a set, and using an infinitive where English might use a gerund feels unnatural at first."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare il pieno",
-            "meaning": "to take everything on offer, to sweep the board",
-            "example": "A Parigi l'Italia ha fatto il pieno di medaglie."
-          },
-          {
-            "phrase": "a lungo",
-            "meaning": "for a long time",
-            "example": "Il pubblico ha applaudito a lungo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quante medaglie ha vinto Chiara Pellacani a Parigi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha detto la tuffatrice dopo la finale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questo risultato è importante per lo sport italiano?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, che cosa serve di più per vincere nello sport: il talento o l'allenamento? Scrivi 80 o 100 parole e spiega le tue ragioni."
       }
     }
   ]
