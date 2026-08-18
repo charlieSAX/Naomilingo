@@ -1,7 +1,483 @@
 {
-  "generated_at": "2026-08-17T08:45:33Z",
+  "generated_at": "2026-08-18T09:11:45Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-18-eclissi-sole-europa",
+      "title": "L'Europa si ferma per l'eclissi, il Sole nero torna dopo 27 anni",
+      "source": "RaiNews",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "astronomia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-eclissi-sole-europa",
+        "revision": 1,
+        "meta": {
+          "title": "L'Europa si ferma per l'eclissi, il Sole nero torna dopo 27 anni",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/08/leuropa-si-ferma-per-leclissi-il-sole-nero-torna-dopo-27-anni-eb1efe9a-ef79-4f1a-9291-0d2e92213cfd.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "scienza",
+            "astronomia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Last Wednesday Europe stopped to look at the sky. After 27 years, a total solar eclipse returned to the continent. From Greenland to Spain, thousands of people followed the passage of the Moon's shadow. In Spain the phenomenon was total: for a few minutes, day became night. In Italy, instead, the eclipse was only partly visible, and many people watched the show with special glasses.\n\nA total eclipse happens when the Moon passes exactly between the Earth and the Sun and covers all its light. Experts remind us of an important rule: you must never look at the Sun without protection, because it can hurt your eyes. The next appointment with an eclipse in Europe is set for 2027. Many curious people are already waiting for this new show in the sky.",
+        "resumen_es": "Mercoledì scorso l'Europa si è fermata per guardare il cielo. Dopo 27 anni, un'eclissi totale di Sole è tornata sul continente. Dalla Groenlandia alla Spagna, migliaia di persone hanno seguito il passaggio dell'ombra della Luna. In Spagna il fenomeno è stato totale: per alcuni minuti il giorno è diventato notte. In Italia, invece, l'eclissi è stata visibile solo in parte, e molte persone hanno guardato lo spettacolo con occhiali speciali.\n\nUn'eclissi totale succede quando la Luna passa esattamente tra la Terra e il Sole e copre tutta la sua luce. Gli esperti ricordano una regola importante: non bisogna mai guardare il Sole senza protezione, perché può fare male agli occhi. Il prossimo appuntamento con un'eclissi in Europa è fissato per il 2027. Molti curiosi aspettano già questo nuovo spettacolo del cielo.",
+        "vocab": [
+          {
+            "front": "fermarsi",
+            "pos": "verb",
+            "back": "to stop (oneself)",
+            "example": "Il treno si ferma a tutte le stazioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'eclissi",
+            "pos": "noun",
+            "back": "eclipse",
+            "example": "L'eclissi di Sole è uno spettacolo raro.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ombra",
+            "pos": "noun",
+            "back": "shadow",
+            "example": "In estate cerchiamo sempre l'ombra degli alberi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fenomeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "L'arcobaleno è un fenomeno naturale.",
+            "tier": "B1"
+          },
+          {
+            "front": "diventare",
+            "pos": "verb",
+            "back": "to become",
+            "example": "Il cielo è diventato scuro prima del temporale.",
+            "tier": "B1"
+          },
+          {
+            "front": "visibile",
+            "pos": "adj",
+            "back": "visible",
+            "example": "La luna oggi è visibile anche di giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli occhiali",
+            "pos": "noun",
+            "back": "glasses",
+            "example": "Per leggere ho bisogno degli occhiali.",
+            "tier": "B1"
+          },
+          {
+            "front": "coprire",
+            "pos": "verb",
+            "back": "to cover",
+            "example": "Le nuvole coprono il sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "la regola",
+            "pos": "noun",
+            "back": "rule",
+            "example": "La prima regola è arrivare puntuali.",
+            "tier": "B1"
+          },
+          {
+            "front": "la protezione",
+            "pos": "noun",
+            "back": "protection",
+            "example": "In spiaggia serve una buona protezione solare.",
+            "tier": "B1"
+          },
+          {
+            "front": "fissato per",
+            "pos": "phrase",
+            "back": "scheduled for, set for",
+            "example": "L'esame è fissato per la prossima settimana.",
+            "tier": "B2"
+          },
+          {
+            "front": "lo spettacolo",
+            "pos": "noun",
+            "back": "show, spectacle",
+            "example": "Lo spettacolo comincia alle nove di sera.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Mercoledì scorso l'Europa si è fermata per guardare il cielo",
+            "point": "Passato prossimo of a reflexive verb (essere + agreement)",
+            "explanation": "Reflexive verbs like 'fermarsi' always use 'essere' in the passato prossimo, and the participle agrees with the subject: 'l'Europa si è fermata' (feminine).",
+            "why_tricky": "Learners often use 'avere' with reflexive verbs; with 'essere' the ending of the participle must change."
+          },
+          {
+            "sentence": "non bisogna mai guardare il Sole senza protezione, perché può fare male agli occhi",
+            "point": "Impersonal 'bisogna' + infinitive",
+            "explanation": "'Bisogna' means 'it is necessary' or 'you must' and is followed directly by the infinitive. With 'non ... mai' it means 'you must never'.",
+            "why_tricky": "'Bisogna' never changes form and never takes a subject; saying 'io bisogno' is a classic mistake."
+          },
+          {
+            "sentence": "In Italia, invece, l'eclissi è stata visibile solo in parte",
+            "point": "Passato prossimo with essere + 'invece' for contrast",
+            "explanation": "'È stata visibile' uses 'essere' as auxiliary and the participle 'stata' agrees with 'l'eclissi' (feminine). 'Invece' marks the contrast with Spain.",
+            "why_tricky": "The double agreement (è stata) and the position of 'invece' between commas are typical of natural written Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a occhio nudo",
+            "meaning": "with the naked eye",
+            "example": "Le stelle più luminose si vedono a occhio nudo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è stata totale l'eclissi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché non bisogna guardare il Sole senza protezione?",
+            "type": "open"
+          },
+          {
+            "q": "Quando ci sarà il prossimo appuntamento con un'eclissi in Europa?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai mai visto un'eclissi o un altro spettacolo del cielo? Scrivi qualche riga su questa esperienza o su un fenomeno naturale che vorresti vedere."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-18-curtis-record-nuoto",
+      "title": "Europei nuoto: Curtis fa il record del mondo, poi è argento con la staffetta donne",
+      "source": "ANSA",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "nuoto"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-curtis-record-nuoto",
+        "revision": 1,
+        "meta": {
+          "title": "Europei nuoto: Curtis fa il record del mondo, poi è argento con la staffetta donne",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-fa-il-record-del-mondo-poi-e-argento-con-la-staffetta_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "sport",
+            "nuoto"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A great day for Italian swimming at the European Championships in Paris. Young Sara Curtis set the world record in the 50 backstroke. With this extraordinary time, Curtis went through to the final. Then, together with her teammates, she also won the silver medal with the 4x100 relay. For the Italian women it was also a new national record.\n\nBut the good news did not end there. Thomas Ceccon won bronze in the 200 backstroke and beat the Italian record. Benedetta Pilato also climbed onto the podium: bronze in the 100 breaststroke. For Italian swimming it was a day full of medals and records. Fans are now dreaming of more successes in the coming days of competition.",
+        "resumen_es": "Grande giornata per il nuoto italiano agli Europei di Parigi. La giovane Sara Curtis ha fatto il record del mondo nei 50 dorso. Con questo tempo straordinario, Curtis è entrata in finale. Poi, insieme alle sue compagne, ha vinto anche la medaglia d'argento con la staffetta 4x100. Per le azzurre è stato anche un nuovo primato italiano.\n\nMa le buone notizie non sono finite. Thomas Ceccon ha vinto il bronzo nei 200 dorso e ha battuto il record italiano. Anche Benedetta Pilato è salita sul podio: bronzo nei 100 rana. Per l'Italia del nuoto è stata una giornata piena di medaglie e di record. I tifosi ora sognano altri successi nei prossimi giorni di gare.",
+        "vocab": [
+          {
+            "front": "il nuoto",
+            "pos": "noun",
+            "back": "swimming",
+            "example": "Il nuoto è uno sport completo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il record del mondo",
+            "pos": "phrase",
+            "back": "world record",
+            "example": "Ha battuto il record del mondo dei 100 metri.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dorso",
+            "pos": "noun",
+            "back": "backstroke",
+            "example": "Nel dorso si nuota guardando il cielo.",
+            "tier": "B2"
+          },
+          {
+            "front": "la staffetta",
+            "pos": "noun",
+            "back": "relay (race)",
+            "example": "La staffetta italiana ha vinto la medaglia.",
+            "tier": "B2"
+          },
+          {
+            "front": "la medaglia d'argento",
+            "pos": "phrase",
+            "back": "silver medal",
+            "example": "Ha vinto la medaglia d'argento alle Olimpiadi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il primato",
+            "pos": "noun",
+            "back": "record (synonym of record)",
+            "example": "Il primato italiano resiste da dieci anni.",
+            "tier": "B2"
+          },
+          {
+            "front": "il bronzo",
+            "pos": "noun",
+            "back": "bronze (medal)",
+            "example": "Il bronzo è comunque un grande risultato.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rana",
+            "pos": "noun",
+            "back": "breaststroke (also: frog)",
+            "example": "La rana è lo stile più difficile per molti nuotatori.",
+            "tier": "B2"
+          },
+          {
+            "front": "salire sul podio",
+            "pos": "phrase",
+            "back": "to get on the podium",
+            "example": "Il campione è salito sul podio con un grande sorriso.",
+            "tier": "B2"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano per la loro squadra.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "race, competition",
+            "example": "La gara comincia alle dieci.",
+            "tier": "B1"
+          },
+          {
+            "front": "sognare",
+            "pos": "verb",
+            "back": "to dream (of)",
+            "example": "Da bambino sognavo una medaglia olimpica.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Con questo tempo straordinario, Curtis è entrata in finale",
+            "point": "Passato prossimo with essere (verbs of movement) + agreement",
+            "explanation": "'Entrare' takes 'essere' as auxiliary, so the participle agrees with the subject: 'Curtis è entrata' (feminine). Movement and change verbs behave this way.",
+            "why_tricky": "Choosing between avere and essere is a core difficulty; the feminine ending '-a' is easy to forget."
+          },
+          {
+            "sentence": "Anche Benedetta Pilato è salita sul podio",
+            "point": "'Salire' with essere + preposition 'su'",
+            "explanation": "'Salire' (to go up) uses 'essere' here, and 'sul podio' combines 'su' + 'il'. 'Anche' before the name means 'also Benedetta Pilato'.",
+            "why_tricky": "The combined preposition 'sul' and the position of 'anche' directly before the word it modifies are typical traps."
+          },
+          {
+            "sentence": "I tifosi ora sognano altri successi nei prossimi giorni di gare",
+            "point": "'Sognare' + direct object (no preposition)",
+            "explanation": "In Italian you dream something directly: 'sognano altri successi'. There is no preposition, unlike English 'dream of/about'.",
+            "why_tricky": "English speakers often add 'di' after sognare when a noun follows; 'sognare di' is only used before a verb."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "le buone notizie non sono finite",
+            "meaning": "the good news does not end there",
+            "example": "E le buone notizie non sono finite: domani arriva un altro premio."
+          },
+          {
+            "phrase": "pieno di",
+            "meaning": "full of",
+            "example": "Era una settimana piena di sorprese."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha fatto Sara Curtis nei 50 dorso?",
+            "type": "open"
+          },
+          {
+            "q": "Quali medaglie hanno vinto Ceccon e Pilato?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è stata una grande giornata per il nuoto italiano?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è il tuo sport preferito da guardare o da fare? Scrivi qualche riga e spiega perché ti piace."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-18-86mila-euro-mobile",
+      "title": "Trovano 86mila euro in un mobile in strada, il denaro viene diviso con l'erede",
+      "source": "ANSA",
+      "date": "2026-08-12",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "curiosità"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-18-86mila-euro-mobile",
+        "revision": 1,
+        "meta": {
+          "title": "Trovano 86mila euro in un mobile in strada, il denaro viene diviso con l'erede",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/emiliaromagna/notizie/2026/08/12/trovano-86mila-euro-in-un-mobile-in-strada-denaro-diviso-con-lerede_53f6e08d-44b8-4cfa-a5bb-85d752a95f51.html",
+          "date_published": "2026-08-12",
+          "date_processed": "2026-08-18",
+          "tags": [
+            "società",
+            "curiosità"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A curious story comes from Bologna. Some people found 86 thousand euros inside an old piece of furniture left in the street. The money was hidden in the cabinet, probably for a long time. The people who found the money made an honest choice: they took everything to the lost property office of the city of Bologna, as Italian law says.\n\nAfter the searches, the solution arrived: the money was shared with the heir of the cabinet's former owner. In Italy, in fact, whoever finds a valuable object and hands it in to the city has the right to a part of its value. This story shows that honesty, in the end, is rewarded. A piece of good news in a summer full of hard headlines.",
+        "resumen_es": "Una storia curiosa arriva da Bologna. Alcune persone hanno trovato 86mila euro dentro un vecchio mobile lasciato in strada. I soldi erano nascosti nel mobile, probabilmente da molto tempo. Chi ha trovato il denaro ha fatto una scelta onesta: ha portato tutto all'ufficio oggetti smarriti del Comune di Bologna, come dice la legge italiana.\n\nDopo le ricerche, è arrivata la soluzione: il denaro è stato diviso con l'erede del vecchio proprietario del mobile. In Italia, infatti, chi trova un oggetto di valore e lo consegna al Comune ha diritto a una parte del suo valore. Questa storia mostra che l'onestà, alla fine, viene premiata. Una bella notizia in un'estate piena di cronaca difficile.",
+        "vocab": [
+          {
+            "front": "il mobile",
+            "pos": "noun",
+            "back": "piece of furniture (false friend: not 'mobile phone')",
+            "example": "Abbiamo comprato un mobile antico per il salotto.",
+            "tier": "B1"
+          },
+          {
+            "front": "nascosto",
+            "pos": "adj",
+            "back": "hidden",
+            "example": "La chiave era nascosta sotto il tappeto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scelta",
+            "pos": "noun",
+            "back": "choice",
+            "example": "È stata una scelta difficile ma giusta.",
+            "tier": "B1"
+          },
+          {
+            "front": "onesto",
+            "pos": "adj",
+            "back": "honest",
+            "example": "È una persona onesta e sincera.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ufficio oggetti smarriti",
+            "pos": "phrase",
+            "back": "lost property office",
+            "example": "Ho ritrovato il portafoglio all'ufficio oggetti smarriti.",
+            "tier": "B2"
+          },
+          {
+            "front": "consegnare",
+            "pos": "verb",
+            "back": "to hand in, to deliver",
+            "example": "Devi consegnare i documenti entro venerdì.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'erede",
+            "pos": "noun",
+            "back": "heir",
+            "example": "La casa è passata all'erede della famiglia.",
+            "tier": "B2"
+          },
+          {
+            "front": "il proprietario",
+            "pos": "noun",
+            "back": "owner",
+            "example": "Il proprietario del ristorante ci ha salutato.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere diritto a",
+            "pos": "phrase",
+            "back": "to have the right to",
+            "example": "Ogni cliente ha diritto a un rimborso.",
+            "tier": "B2"
+          },
+          {
+            "front": "il valore",
+            "pos": "noun",
+            "back": "value",
+            "example": "Questo quadro ha un grande valore.",
+            "tier": "B1"
+          },
+          {
+            "front": "premiare",
+            "pos": "verb",
+            "back": "to reward",
+            "example": "La maestra premia gli studenti più bravi.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cronaca",
+            "pos": "noun",
+            "back": "news reports, crime news",
+            "example": "La cronaca locale parla del nuovo ospedale.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "il denaro è stato diviso con l'erede del vecchio proprietario del mobile",
+            "point": "Passive with essere stato + past participle",
+            "explanation": "'È stato diviso' is a passive in the passato prossimo: 'was divided'. The participle 'diviso' agrees with 'il denaro' (masculine singular).",
+            "why_tricky": "Two participles in a row (stato diviso) confuse learners; both parts must agree with the subject."
+          },
+          {
+            "sentence": "chi trova un oggetto di valore e lo consegna al Comune ha diritto a una parte del suo valore",
+            "point": "'Chi' as subject + object pronoun 'lo'",
+            "explanation": "'Chi' means 'whoever' and takes a singular verb. The pronoun 'lo' replaces 'un oggetto di valore' to avoid repeating it: 'and hands it in'.",
+            "why_tricky": "'Chi' looks like a question word but works here as a relative pronoun; the little word 'lo' is easy to miss."
+          },
+          {
+            "sentence": "Questa storia mostra che l'onestà, alla fine, viene premiata",
+            "point": "Passive with venire",
+            "explanation": "'Viene premiata' means 'is rewarded'. Italian often uses 'venire' instead of 'essere' for passives that describe actions, and the participle agrees with 'l'onestà' (feminine).",
+            "why_tricky": "The venire-passive has no direct English equivalent; learners rarely produce it but it is very common in news Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un colpo di fortuna",
+            "meaning": "a stroke of luck",
+            "example": "Trovare quel lavoro è stato un vero colpo di fortuna."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno trovato alcune persone a Bologna?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa ha fatto con i soldi chi li ha trovati?",
+            "type": "open"
+          },
+          {
+            "q": "Come è finita la storia del denaro?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che cosa faresti se trovassi una grande somma di denaro per strada? Scrivi qualche riga e spiega la tua scelta."
+      }
+    },
     {
       "pack_id": "feed-2026-08-17-eurovision-paesi-in-guerra",
       "title": "Eurovision: i Paesi in guerra non potranno più ospitare la competizione",
@@ -6274,506 +6750,6 @@
           }
         ],
         "opinion_prompt": "Ti piacciono i film d'azione storici? Scrivi 80 parole e spiega perché sì o perché no, con almeno un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-09-tifone-dolphin-giappone",
-      "title": "Il Giappone chiude negozi e cancella voli nelle isole meridionali mentre arriva il tifone Dolphin",
-      "source": "Rai News",
-      "date": "2026-08-09",
-      "level": "A2-B1",
-      "topics": [
-        "meteo",
-        "Giappone"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-09-tifone-dolphin-giappone",
-        "revision": 1,
-        "meta": {
-          "title": "Il Giappone chiude negozi e cancella voli nelle isole meridionali mentre arriva il tifone Dolphin",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/video/2026/08/il-giappone-chiude-negozi-e-cancella-voli-nelle-isole-meridionali-mentre-arriva-il-tifone-dolphin-f848f591-43bb-4fbf-bd63-b434c54fb06b.html",
-          "date_published": "2026-08-07",
-          "date_processed": "2026-08-09",
-          "tags": [
-            "meteo",
-            "Giappone"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Japan is getting ready for the arrival of typhoon Dolphin. On the southern islands many shops have closed and several flights have been cancelled. The wind is very strong and the rain is falling without a break. The authorities have asked residents to stay at home and not to go near the sea. Public transport is also running on a reduced service.\n\nEvery summer Japan has to deal with several typhoons, above all between July and October. That is why the country has precise rules and very fast warning systems. Schools and companies know what to do when a storm arrives. In the coming days the typhoon should weaken, but the risk of flooding and landslides is still high. People will only be able to go back to normal life when the authorities give the green light.",
-        "resumen_es": "Il Giappone si prepara all'arrivo del tifone Dolphin. Nelle isole del sud molti negozi hanno chiuso e diversi voli sono stati cancellati. Il vento è molto forte e la pioggia cade senza sosta. Le autorità hanno chiesto agli abitanti di restare in casa e di non avvicinarsi al mare. Anche i trasporti pubblici funzionano in modo ridotto.\n\nOgni estate il Giappone deve affrontare diversi tifoni, soprattutto tra luglio e ottobre. Per questo il paese ha regole precise e sistemi di allerta molto rapidi. Le scuole e le aziende sanno che cosa fare quando arriva una tempesta. Nei prossimi giorni il tifone dovrebbe indebolirsi, ma il rischio di allagamenti e di frane resta alto. Le persone potranno tornare alla vita normale solo quando le autorità daranno il via libera.",
-        "vocab": [
-          {
-            "front": "il tifone",
-            "pos": "noun",
-            "back": "typhoon",
-            "example": "Il tifone è arrivato durante la notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "cancellare un volo",
-            "pos": "phrase",
-            "back": "to cancel a flight",
-            "example": "Hanno cancellato il volo per Tokyo.",
-            "tier": "B1"
-          },
-          {
-            "front": "senza sosta",
-            "pos": "phrase",
-            "back": "non stop, without a break",
-            "example": "Ha piovuto senza sosta per due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'allerta",
-            "pos": "noun",
-            "back": "alert, warning",
-            "example": "In città c'è l'allerta per il maltempo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tempesta",
-            "pos": "noun",
-            "back": "storm",
-            "example": "La tempesta ha rotto molti alberi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'allagamento",
-            "pos": "noun",
-            "back": "flooding",
-            "example": "Gli allagamenti hanno bloccato le strade.",
-            "tier": "B2"
-          },
-          {
-            "front": "la frana",
-            "pos": "noun",
-            "back": "landslide",
-            "example": "Una frana ha chiuso la strada di montagna.",
-            "tier": "B2"
-          },
-          {
-            "front": "indebolirsi",
-            "pos": "verb",
-            "back": "to get weaker",
-            "example": "Il vento si indebolisce verso sera.",
-            "tier": "B2"
-          },
-          {
-            "front": "restare in casa",
-            "pos": "phrase",
-            "back": "to stay at home",
-            "example": "Con questo tempo è meglio restare in casa.",
-            "tier": "B1"
-          },
-          {
-            "front": "avvicinarsi a",
-            "pos": "verb",
-            "back": "to go near, to approach",
-            "example": "Non avvicinarti al fuoco.",
-            "tier": "B1"
-          },
-          {
-            "front": "i trasporti pubblici",
-            "pos": "noun",
-            "back": "public transport",
-            "example": "I trasporti pubblici sono gratuiti oggi.",
-            "tier": "B1"
-          },
-          {
-            "front": "dare il via libera",
-            "pos": "phrase",
-            "back": "to give the green light",
-            "example": "Il sindaco ha dato il via libera alla festa.",
-            "tier": "B2"
-          },
-          {
-            "front": "affrontare",
-            "pos": "verb",
-            "back": "to face, to deal with",
-            "example": "Dobbiamo affrontare il problema subito.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nelle isole del sud molti negozi hanno chiuso e diversi voli sono stati cancellati.",
-            "point": "passato prossimo attivo e passivo",
-            "explanation": "Hanno chiuso è un passato prossimo attivo con avere. Sono stati cancellati è un passivo: essere al passato prossimo più il participio, accordato al plurale maschile.",
-            "why_tricky": "Lo studente confonde i due ausiliari. Nel passivo compaiono due participi vicini (stati, cancellati) e tutti e due devono accordarsi con il soggetto."
-          },
-          {
-            "sentence": "Le autorità hanno chiesto agli abitanti di restare in casa e di non avvicinarsi al mare.",
-            "point": "chiedere a qualcuno di + infinito, e infinito negativo",
-            "explanation": "Dopo chiedere la persona va introdotta da a e l'azione da di più infinito. La negazione si mette prima dell'infinito: di non avvicinarsi.",
-            "why_tricky": "In inglese si dice asked residents to stay, senza preposizione davanti alla persona. In italiano servono due elementi: a per la persona e di per l'azione. La negazione si mette tra di e l'infinito: di non avvicinarsi."
-          },
-          {
-            "sentence": "Nei prossimi giorni il tifone dovrebbe indebolirsi, ma il rischio di allagamenti e di frane resta alto.",
-            "point": "condizionale dovrebbe per esprimere probabilità",
-            "explanation": "Dovrebbe non indica un obbligo, ma una previsione: it should weaken, probabilmente si indebolirà.",
-            "why_tricky": "Dovere significa di solito must, quindi il valore di probabilità del condizionale sorprende chi impara."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dare il via libera",
-            "meaning": "to give permission, the green light",
-            "example": "La protezione civile ha dato il via libera al rientro."
-          },
-          {
-            "phrase": "con il fiato sospeso",
-            "meaning": "holding your breath, anxiously waiting",
-            "example": "Il paese ha aspettato la notizia con il fiato sospeso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno deciso le autorità giapponesi prima dell'arrivo del tifone?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il Giappone ha sistemi di allerta molto rapidi?",
-            "type": "open"
-          },
-          {
-            "q": "Quali rischi restano anche dopo il passaggio del tifone?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nel tuo paese ci sono fenomeni meteo pericolosi? Scrivi 80 parole e spiega come si preparano le persone."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-09-infantino-uefa-boicottaggio",
-      "title": "Fifa, Infantino ai suoi: 'Resto qui', la Uefa conferma il boicottaggio",
-      "source": "ANSA",
-      "date": "2026-08-09",
-      "level": "A2-B1",
-      "topics": [
-        "calcio",
-        "sport"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-09-infantino-uefa-boicottaggio",
-        "revision": 1,
-        "meta": {
-          "title": "Fifa, Infantino ai suoi: 'Resto qui', la Uefa conferma il boicottaggio",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/06/la-uefa-conferma-il-boicottaggio-alla-fifa-persa-fiducia-in-infantino_289a154b-5d33-45a8-929d-bcc53b7324ac.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-09",
-          "tags": [
-            "calcio",
-            "sport"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The president of FIFA, Gianni Infantino, has told his colleagues that he will not leave his post. I am staying here, he repeated during a meeting. UEFA, however, has confirmed the boycott: the European federations say they have lost confidence in him. The situation is different in Africa, where many federations continue to support the current president.\n\nFIFA is the organisation that governs world football, while UEFA looks after football in Europe. When the two sides do not agree, the problems become visible straight away. A boycott means that some federations do not take part in meetings and shared activities. Now we have to see whether there will be an agreement or whether the crisis will go on. The coming weeks will be decisive for the future of international football.",
-        "resumen_es": "Il presidente della Fifa, Gianni Infantino, ha detto ai suoi collaboratori che non lascerà il suo posto. 'Resto qui', ha ripetuto durante una riunione. La Uefa, però, ha confermato il boicottaggio: le federazioni europee dicono di aver perso la fiducia in lui. La situazione è diversa in Africa, dove molte federazioni continuano a sostenere il presidente in carica.\n\nLa Fifa è l'organizzazione che governa il calcio mondiale, mentre la Uefa si occupa del calcio in Europa. Quando le due parti non vanno d'accordo, i problemi diventano subito molto visibili. Un boicottaggio significa che alcune federazioni non partecipano alle riunioni e alle attività comuni. Ora bisogna capire se ci sarà un accordo o se la crisi continuerà. Le prossime settimane saranno decisive per il futuro del calcio internazionale.",
-        "vocab": [
-          {
-            "front": "il collaboratore",
-            "pos": "noun",
-            "back": "colleague, member of staff",
-            "example": "Ha parlato con i suoi collaboratori.",
-            "tier": "B1"
-          },
-          {
-            "front": "lasciare il posto",
-            "pos": "phrase",
-            "back": "to leave the job, to step down",
-            "example": "Il direttore non vuole lasciare il posto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la riunione",
-            "pos": "noun",
-            "back": "meeting",
-            "example": "La riunione comincia alle nove.",
-            "tier": "B1"
-          },
-          {
-            "front": "il boicottaggio",
-            "pos": "noun",
-            "back": "boycott",
-            "example": "Il boicottaggio è durato tre mesi.",
-            "tier": "B2"
-          },
-          {
-            "front": "la federazione",
-            "pos": "noun",
-            "back": "federation, governing body",
-            "example": "La federazione ha cambiato le regole.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fiducia",
-            "pos": "noun",
-            "back": "trust, confidence",
-            "example": "Ho perso la fiducia in quel giornale.",
-            "tier": "B1"
-          },
-          {
-            "front": "sostenere",
-            "pos": "verb",
-            "back": "to support",
-            "example": "Molti tifosi sostengono la squadra da anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "in carica",
-            "pos": "phrase",
-            "back": "in office, current",
-            "example": "Il sindaco in carica si ricandida.",
-            "tier": "B2"
-          },
-          {
-            "front": "occuparsi di",
-            "pos": "verb",
-            "back": "to deal with, to be in charge of",
-            "example": "Chi si occupa dei biglietti?",
-            "tier": "B1"
-          },
-          {
-            "front": "andare d'accordo",
-            "pos": "phrase",
-            "back": "to get on well",
-            "example": "I due fratelli non vanno d'accordo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'accordo",
-            "pos": "noun",
-            "back": "agreement, deal",
-            "example": "Hanno trovato un accordo dopo molte ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "decisivo",
-            "pos": "adj",
-            "back": "decisive, crucial",
-            "example": "È stata una partita decisiva.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "ha detto ai suoi collaboratori che non lascerà il suo posto",
-            "point": "discorso indiretto con il futuro",
-            "explanation": "Le parole originali erano non lascio o non lascerò. Nel discorso indiretto italiano il futuro resta futuro: ha detto che non lascerà.",
-            "why_tricky": "In inglese il tempo arretra (he said he would not leave). L'italiano moderno mantiene spesso il futuro semplice."
-          },
-          {
-            "sentence": "le federazioni europee dicono di aver perso la fiducia in lui",
-            "point": "dire di + infinito passato",
-            "explanation": "Quando il soggetto della frase principale e quello della subordinata sono gli stessi, si usa di più infinito: dicono di aver perso, non dicono che hanno perso.",
-            "why_tricky": "La forma con che non è sbagliata ma suona pesante, e l'infinito passato (aver perso) confonde perché perde spesso la e finale di avere."
-          },
-          {
-            "sentence": "Ora bisogna capire se ci sarà un accordo o se la crisi continuerà.",
-            "point": "bisogna + infinito e domanda indiretta con se",
-            "explanation": "Bisogna è impersonale e regge sempre l'infinito. Se introduce una domanda indiretta e permette il futuro: se ci sarà, se continuerà.",
-            "why_tricky": "Bisogna non ha soggetto e non si può dire io bisogno. Inoltre serve distinguere questo se dal se delle frasi condizionali, dove il futuro non si usa."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "perdere la fiducia in qualcuno",
-            "meaning": "to stop trusting someone",
-            "example": "I soci hanno perso la fiducia nel presidente."
-          },
-          {
-            "phrase": "avere le mani legate",
-            "meaning": "to have your hands tied, to be unable to act",
-            "example": "Senza i voti dell'assemblea, il consiglio ha le mani legate."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha deciso di fare Gianni Infantino?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è la posizione delle federazioni europee?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa significa, in pratica, un boicottaggio?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, un presidente sportivo deve dimettersi quando perde la fiducia di molte federazioni? Scrivi 80 parole e spiega la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-08-moda-online-second-hand",
-      "title": "Moda e-commerce, lo stato del mercato tra trend GenZ e second hand",
-      "source": "ANSA",
-      "date": "2026-08-08",
-      "level": "A2-B1",
-      "topics": [
-        "moda",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-08-moda-online-second-hand",
-        "revision": 1,
-        "meta": {
-          "title": "Moda e-commerce, lo stato del mercato tra trend GenZ e second hand",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/03/moda-e-commerce-lo-stato-del-mercato-tra-trend-genz-e-second-hand_d0c4a2a6-4025-4412-a930-8fcbabdb0f7d.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-08",
-          "tags": [
-            "moda",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A new report studies the online fashion market in ten European countries. The figures show that clothing accounts for around twenty per cent of household spending online. Buying clothes on the internet is by now a normal habit, above all for young people of Generation Z, who use their phone to search, compare prices and order in a few minutes.\n\nThe report also points to the growth of the second hand market. Many people sell the clothes they no longer wear and buy other second hand ones, in order to save money and to reduce waste. The big brands are watching this phenomenon closely and are opening sections devoted to used garments. Some problems remain, though: returns are expensive for companies and transporting the parcels causes pollution. The sector therefore has to find a balance between speed, price and respect for the environment.",
-        "resumen_es": "Un nuovo rapporto studia il mercato della moda online in dieci paesi europei. I dati mostrano che l'abbigliamento rappresenta circa il venti per cento della spesa online delle famiglie. Comprare vestiti su internet è ormai un'abitudine normale, soprattutto per i giovani della Generazione Z, che usano il telefono per cercare, confrontare i prezzi e ordinare in pochi minuti.\n\nIl rapporto segnala anche la crescita del mercato dell'usato, il cosiddetto second hand. Molte persone vendono i vestiti che non mettono più e ne comprano altri di seconda mano, per risparmiare e per ridurre gli sprechi. Le grandi marche guardano con attenzione a questo fenomeno e aprono sezioni dedicate ai capi usati. Restano però dei problemi: i resi costano cari alle aziende e il trasporto dei pacchi inquina. Il settore deve quindi trovare un equilibrio tra velocità, prezzo e rispetto dell'ambiente.",
-        "vocab": [
-          {
-            "front": "il rapporto",
-            "pos": "noun",
-            "back": "report",
-            "example": "Il rapporto annuale esce a settembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'abbigliamento",
-            "pos": "noun",
-            "back": "clothing",
-            "example": "Il negozio di abbigliamento è in centro.",
-            "tier": "A2"
-          },
-          {
-            "front": "la spesa",
-            "pos": "noun",
-            "back": "spending, shopping",
-            "example": "La spesa per la scuola aumenta ogni anno.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abitudine",
-            "pos": "noun",
-            "back": "habit",
-            "example": "Ho l'abitudine di leggere prima di dormire.",
-            "tier": "A2"
-          },
-          {
-            "front": "confrontare",
-            "pos": "verb",
-            "back": "to compare",
-            "example": "Confronto sempre i prezzi prima di comprare.",
-            "tier": "B1"
-          },
-          {
-            "front": "la crescita",
-            "pos": "noun",
-            "back": "growth",
-            "example": "La crescita del turismo aiuta i piccoli paesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'usato",
-            "pos": "noun",
-            "back": "second hand goods",
-            "example": "Ho comprato la bici nel mercato dell'usato.",
-            "tier": "B1"
-          },
-          {
-            "front": "risparmiare",
-            "pos": "verb",
-            "back": "to save money",
-            "example": "Risparmio un po' ogni mese.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo spreco",
-            "pos": "noun",
-            "back": "waste",
-            "example": "Buttare il cibo è uno spreco enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "il capo",
-            "pos": "noun",
-            "back": "item of clothing",
-            "example": "Questo capo di lana costa troppo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il reso",
-            "pos": "noun",
-            "back": "return of a product",
-            "example": "Il reso è gratuito entro trenta giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "inquinare",
-            "pos": "verb",
-            "back": "to pollute",
-            "example": "Le auto vecchie inquinano di più.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'equilibrio",
-            "pos": "noun",
-            "back": "balance",
-            "example": "Trovare un equilibrio tra lavoro e famiglia non è facile.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Comprare vestiti su internet è ormai un'abitudine normale, soprattutto per i giovani della Generazione Z, che usano il telefono per cercare, confrontare i prezzi e ordinare in pochi minuti.",
-            "point": "Infinitive as the subject of the sentence",
-            "explanation": "Comprare vestiti works as a noun here and is the subject of è. Italian uses the bare infinitive where English uses the ing form.",
-            "why_tricky": "Learners try to translate buying with a gerund, comprando, which is wrong as a subject in Italian."
-          },
-          {
-            "sentence": "Molte persone vendono i vestiti che non mettono più e ne comprano altri di seconda mano, per risparmiare e per ridurre gli sprechi.",
-            "point": "The pronoun ne",
-            "explanation": "Ne replaces di quelli, so ne comprano altri means they buy others of them. It goes before the conjugated verb.",
-            "why_tricky": "Ne has no English equivalent and is easy to leave out, but without it the sentence sounds incomplete in Italian."
-          },
-          {
-            "sentence": "Il settore deve quindi trovare un equilibrio tra velocità, prezzo e rispetto dell'ambiente.",
-            "point": "dovere plus infinitive",
-            "explanation": "Dovere expresses obligation and is always followed by the infinitive: deve trovare means it has to find.",
-            "why_tricky": "Learners add di after dovere, but unlike some other verbs dovere takes the infinitive directly."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "di seconda mano",
-            "meaning": "second hand",
-            "example": "Ho comprato un cappotto di seconda mano quasi nuovo."
-          },
-          {
-            "phrase": "costare caro",
-            "meaning": "to be expensive, to cost dearly",
-            "example": "Quell'errore ci è costato caro."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa dicono i dati sulla spesa online per l'abbigliamento?",
-            "type": "open"
-          },
-          {
-            "q": "Perché molte persone comprano vestiti di seconda mano?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi restano nel settore della moda online?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 100 parole: compri vestiti online o in negozio? Spiega perché e di' se compreresti abiti di seconda mano."
       }
     }
   ]
