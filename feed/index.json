@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-08-20T20:13:16Z",
+  "generated_at": "2026-08-21T09:01:26Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-21-francoprovenzale-puglia",
+      "title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
+      "source": "ANSA",
+      "date": "2026-08-20",
+      "level": "A2-B1",
+      "topics": [
+        "lingua",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-francoprovenzale-puglia",
+        "revision": 1,
+        "meta": {
+          "title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/puglia/notizie/2026/08/20/nel-piu-piccolo-borgo-della-puglia-si-insegna-ai-turisti-il-francoprovenzale_2246d4b2-220a-49d2-9659-a27a107c7118.html",
+          "date_published": "2026-08-20",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "lingua",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Celle San Vito, the smallest village in Puglia, the residents teach tourists a special language: Franco-Provencal. This ancient language arrived in the area many centuries ago, and today only a few people still speak it. For this reason, the villagers are working on a new dictionary, the second edition of a project that began some time ago.\n\nThe project aims to help young people avoid forgetting this language and to share it with visitors. Many tourists come specifically to discover this linguistic curiosity, unique in Italy. The residents hope the dictionary will also help future generations keep this tradition alive, one that makes Celle San Vito a special village, different from all the others.",
+        "resumen_es": "A Celle San Vito, il borgo più piccolo della Puglia, gli abitanti insegnano ai turisti una lingua speciale: il francoprovenzale. Questa lingua antica arrivò nella zona molti secoli fa e oggi la parlano solo poche persone. Per questo motivo, gli abitanti del paese lavorano a un nuovo vocabolario, la seconda edizione di un progetto già iniziato in passato.\n\nIl progetto vuole aiutare i giovani a non dimenticare questa lingua e a raccontarla ai visitatori. Molti turisti arrivano proprio per conoscere questa curiosità linguistica, unica in Italia. Gli abitanti sperano che il vocabolario aiuti anche le prossime generazioni a mantenere viva questa tradizione, che rende Celle San Vito un paese speciale e diverso da tutti gli altri.",
+        "vocab": [
+          {
+            "front": "borgo",
+            "pos": "noun",
+            "back": "small village",
+            "example": "Celle San Vito è un piccolo borgo.",
+            "tier": "A2"
+          },
+          {
+            "front": "abitante",
+            "pos": "noun",
+            "back": "inhabitant, resident",
+            "example": "Gli abitanti parlano una lingua antica.",
+            "tier": "A2"
+          },
+          {
+            "front": "lingua antica",
+            "pos": "noun",
+            "back": "ancient language",
+            "example": "Il francoprovenzale è una lingua antica.",
+            "tier": "A2"
+          },
+          {
+            "front": "secolo",
+            "pos": "noun",
+            "back": "century",
+            "example": "Arrivò molti secoli fa.",
+            "tier": "A2"
+          },
+          {
+            "front": "vocabolario",
+            "pos": "noun",
+            "back": "dictionary, vocabulary book",
+            "example": "Lavorano a un nuovo vocabolario.",
+            "tier": "A2"
+          },
+          {
+            "front": "edizione",
+            "pos": "noun",
+            "back": "edition",
+            "example": "È la seconda edizione del progetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "dimenticare",
+            "pos": "verb",
+            "back": "to forget",
+            "example": "Non vogliono dimenticare la lingua.",
+            "tier": "A2"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell, narrate",
+            "example": "Vogliono raccontarla ai turisti.",
+            "tier": "A2"
+          },
+          {
+            "front": "curiosità linguistica",
+            "pos": "noun",
+            "back": "linguistic curiosity",
+            "example": "È una curiosità linguistica unica.",
+            "tier": "B1"
+          },
+          {
+            "front": "generazione",
+            "pos": "noun",
+            "back": "generation",
+            "example": "Aiuta le prossime generazioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "tradizione",
+            "pos": "noun",
+            "back": "tradition",
+            "example": "Vogliono mantenere viva la tradizione.",
+            "tier": "A2"
+          },
+          {
+            "front": "mantenere vivo",
+            "pos": "phrase",
+            "back": "to keep alive",
+            "example": "Vogliono mantenere viva questa lingua.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Celle San Vito, il borgo più piccolo della Puglia, gli abitanti insegnano ai turisti una lingua speciale: il francoprovenzale.",
+            "point": "superlativo relativo \"il più piccolo\"",
+            "explanation": "\"Il borgo più piccolo della Puglia\" usa la struttura \"il più + aggettivo + di\" per esprimere il superlativo relativo.",
+            "why_tricky": "Gli studenti A2 spesso dimenticano l'articolo prima di \"più\" in questa costruzione."
+          },
+          {
+            "sentence": "Questa lingua antica arrivò nella zona molti secoli fa e oggi la parlano solo poche persone.",
+            "point": "passato remoto \"arrivò\"",
+            "explanation": "\"Arrivò\" è la terza persona singolare del passato remoto, spesso usato nei testi scritti per eventi storici lontani nel tempo.",
+            "why_tricky": "Gli studenti confondono spesso il passato remoto con il passato prossimo, soprattutto a livello A2-B1."
+          },
+          {
+            "sentence": "Gli abitanti sperano che il vocabolario aiuti anche le prossime generazioni a mantenere viva questa tradizione, che rende Celle San Vito un paese speciale e diverso da tutti gli altri.",
+            "point": "congiuntivo dopo \"sperare che\"",
+            "explanation": "Il verbo \"sperare che\" richiede il congiuntivo (\"aiuti\") perché esprime un desiderio non certo.",
+            "why_tricky": "Il congiuntivo dopo verbi di speranza è una delle difficoltà più comuni per chi studia l'italiano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "mantenere viva una tradizione",
+            "meaning": "continuare a praticare qualcosa del passato",
+            "example": "La famiglia mantiene viva la tradizione del pane fatto in casa."
+          },
+          {
+            "phrase": "molti secoli fa",
+            "meaning": "un tempo molto lontano nel passato",
+            "example": "Questo castello fu costruito molti secoli fa."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché pensi che sia importante proteggere lingue antiche come il francoprovenzale?",
+            "type": "open"
+          },
+          {
+            "q": "Cosa potrebbe fare un piccolo paese per attirare più turisti interessati alla cultura locale?",
+            "type": "open"
+          },
+          {
+            "q": "Conosci altre lingue o dialetti che rischiano di scomparire? Quali?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve paragrafo su una tradizione della tua famiglia o della tua città che vorresti mantenere viva."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-tonno-spiaggia-marbella",
+      "title": "Panico in spiaggia: uomo nuota credendo di scappare da uno squalo ma è un tonno",
+      "source": "ANSA",
+      "date": "2026-08-20",
+      "level": "A2-B1",
+      "topics": [
+        "curiosità",
+        "mare"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-tonno-spiaggia-marbella",
+        "revision": 1,
+        "meta": {
+          "title": "Panico in spiaggia: uomo nuota credendo di scappare da uno squalo ma è un tonno",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/videogallery/mondo/2026/08/20/panico-in-spiaggia-uomo-nuota-credendo-di-scappare-da-uno-squalo-ma-e-un-tonno_917f0a50-e3b8-4d29-8d4f-9a9ba0ba7ca7.html",
+          "date_published": "2026-08-20",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "curiosità",
+            "mare"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Spain, in Marbella on the Costa del Sol, a man caused a moment of panic on the beach. While swimming, he saw a large shadow under the water and immediately thought it was a shark. The man swam as fast as he could toward the shore, frightened, while other beachgoers watched the scene without understanding what was happening.\n\nAfter a few minutes of confusion, the explanation arrived: it was not a shark, but a large tuna swimming close to the coast. The story quickly went viral on social media, where many people laughed at the situation. The episode is a reminder that, in summer, fear of sharks can make even the most harmless fish look like dangerous animals.",
+        "resumen_es": "In Spagna, a Marbella, lungo la Costa del Sol, un uomo ha creato un momento di panico in spiaggia. Mentre nuotava, ha visto una grande ombra sotto l'acqua e ha pensato subito a uno squalo. L'uomo ha nuotato più veloce possibile verso la riva, spaventato, mentre altri bagnanti guardavano la scena senza capire cosa stesse succedendo.\n\nDopo qualche minuto di confusione, è arrivata la spiegazione: non era uno squalo, ma un grande tonno che nuotava vicino alla costa. La storia ha fatto subito il giro dei social media, dove molte persone hanno riso della situazione. L'episodio ricorda che, in estate, la paura degli squali può far scambiare anche i pesci più innocui per animali pericolosi.",
+        "vocab": [
+          {
+            "front": "spiaggia",
+            "pos": "noun",
+            "back": "beach",
+            "example": "L'uomo nuotava in spiaggia.",
+            "tier": "A2"
+          },
+          {
+            "front": "nuotare",
+            "pos": "verb",
+            "back": "to swim",
+            "example": "Nuotava vicino alla riva.",
+            "tier": "A2"
+          },
+          {
+            "front": "ombra",
+            "pos": "noun",
+            "back": "shadow",
+            "example": "Ha visto una grande ombra sotto l'acqua.",
+            "tier": "A2"
+          },
+          {
+            "front": "squalo",
+            "pos": "noun",
+            "back": "shark",
+            "example": "Ha pensato che fosse uno squalo.",
+            "tier": "A2"
+          },
+          {
+            "front": "spaventato",
+            "pos": "adj",
+            "back": "scared, frightened",
+            "example": "Era molto spaventato.",
+            "tier": "A2"
+          },
+          {
+            "front": "riva",
+            "pos": "noun",
+            "back": "shore",
+            "example": "È tornato verso la riva.",
+            "tier": "A2"
+          },
+          {
+            "front": "bagnante",
+            "pos": "noun",
+            "back": "beachgoer, bather",
+            "example": "Gli altri bagnanti guardavano la scena.",
+            "tier": "B1"
+          },
+          {
+            "front": "spiegazione",
+            "pos": "noun",
+            "back": "explanation",
+            "example": "Dopo pochi minuti è arrivata la spiegazione.",
+            "tier": "A2"
+          },
+          {
+            "front": "tonno",
+            "pos": "noun",
+            "back": "tuna",
+            "example": "Era solo un grande tonno.",
+            "tier": "A2"
+          },
+          {
+            "front": "fare il giro dei social",
+            "pos": "phrase",
+            "back": "to go viral",
+            "example": "La storia ha fatto il giro dei social media.",
+            "tier": "B1"
+          },
+          {
+            "front": "ridere di",
+            "pos": "phrase",
+            "back": "to laugh at",
+            "example": "Molte persone hanno riso della situazione.",
+            "tier": "A2"
+          },
+          {
+            "front": "innocuo/a",
+            "pos": "adj",
+            "back": "harmless",
+            "example": "Anche i pesci innocui possono spaventare.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Mentre nuotava, ha visto una grande ombra sotto l'acqua e ha pensato subito a uno squalo.",
+            "point": "imperfetto + passato prossimo",
+            "explanation": "\"Nuotava\" (imperfetto) descrive l'azione di sfondo, mentre \"ha visto\" e \"ha pensato\" (passato prossimo) indicano azioni improvvise che interrompono quella scena.",
+            "why_tricky": "Distinguere quando usare l'imperfetto e quando il passato prossimo è una delle difficoltà principali per chi studia l'italiano a livello A2-B1."
+          },
+          {
+            "sentence": "L'uomo ha nuotato più veloce possibile verso la riva, spaventato, mentre altri bagnanti guardavano la scena senza capire cosa stesse succedendo.",
+            "point": "congiuntivo imperfetto dopo \"capire\" negativo",
+            "explanation": "\"Cosa stesse succedendo\" usa il congiuntivo imperfetto perché esprime un'incertezza percepita nel passato.",
+            "why_tricky": "Il congiuntivo imperfetto è raro nel parlato quotidiano e quindi difficile da riconoscere per gli studenti."
+          },
+          {
+            "sentence": "L'episodio ricorda che, in estate, la paura degli squali può far scambiare anche i pesci più innocui per animali pericolosi.",
+            "point": "costruzione causativa \"far scambiare\"",
+            "explanation": "\"Far scambiare\" è una struttura causativa che indica che qualcosa (la paura) provoca un'azione (lo scambio) fatta da qualcun altro.",
+            "why_tricky": "Le costruzioni causative con \"fare\" + infinito sono spesso poco praticate a livello A2-B1 ma molto comuni in italiano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare il giro dei social",
+            "meaning": "diventare molto popolare e condiviso online",
+            "example": "Il video ha fatto il giro dei social in poche ore."
+          },
+          {
+            "phrase": "ridere di qualcosa",
+            "meaning": "trovare divertente una situazione",
+            "example": "Tutti hanno riso della sua reazione."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché pensi che l'uomo abbia avuto tanta paura, anche se non era un vero squalo?",
+            "type": "open"
+          },
+          {
+            "q": "Cosa faresti tu se vedessi un'ombra grande sotto l'acqua mentre nuoti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché pensi che questa storia sia diventata così popolare sui social media?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve paragrafo su una volta in cui hai avuto paura di qualcosa che poi si è rivelato innocuo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-21-motore-del-sonno-cervello",
+      "title": "Individuato nel cervello il motore del sonno",
+      "source": "ANSA",
+      "date": "2026-08-20",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-21-motore-del-sonno-cervello",
+        "revision": 1,
+        "meta": {
+          "title": "Individuato nel cervello il motore del sonno",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/20/individuato-nel-cervello-il-motore-del-sonno-_23f0460d-cf78-4e0a-afe0-f06fc55db7cf.html",
+          "date_published": "2026-08-20",
+          "date_processed": "2026-08-21",
+          "tags": [
+            "scienza",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A group of scientists has discovered what they call the true engine of sleep in the human brain. This mechanism is made up of two groups of neurons that activate when we are awake and that, little by little, lead us toward sleep. The discovery helps us better understand how the brain decides when to sleep and when to stay awake.\n\nAccording to the researchers, these neurons work like a real internal clock, regulating the switch between wakefulness and rest. Understanding how this mechanism works could help in the future to treat sleep disorders, such as insomnia, which affect millions of people worldwide. Experts hope this discovery will open the way to new, more effective and natural therapies.",
+        "resumen_es": "Un gruppo di scienziati ha scoperto quello che chiamano il vero e proprio motore del sonno nel cervello umano. Questo meccanismo è formato da due gruppi di neuroni che si attivano quando siamo svegli e che, pian piano, ci portano verso il sonno. La scoperta aiuta a capire meglio come il cervello decide quando dormire e quando restare svegli.\n\nSecondo i ricercatori, questi neuroni funzionano come un vero orologio interno, che regola il passaggio tra la veglia e il riposo. Capire come funziona questo meccanismo potrebbe aiutare in futuro a curare i disturbi del sonno, come l'insonnia, che colpiscono milioni di persone nel mondo. Gli esperti sperano che questa scoperta apra la strada a nuove terapie più efficaci e naturali.",
+        "vocab": [
+          {
+            "front": "scienziato",
+            "pos": "noun",
+            "back": "scientist",
+            "example": "Gli scienziati hanno fatto una scoperta importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "scoperta",
+            "pos": "noun",
+            "back": "discovery",
+            "example": "La scoperta aiuta a capire il cervello.",
+            "tier": "A2"
+          },
+          {
+            "front": "cervello",
+            "pos": "noun",
+            "back": "brain",
+            "example": "Il motore del sonno si trova nel cervello.",
+            "tier": "A2"
+          },
+          {
+            "front": "neurone",
+            "pos": "noun",
+            "back": "neuron",
+            "example": "Due gruppi di neuroni si attivano.",
+            "tier": "B1"
+          },
+          {
+            "front": "attivarsi",
+            "pos": "verb",
+            "back": "to activate, switch on",
+            "example": "I neuroni si attivano quando siamo svegli.",
+            "tier": "B1"
+          },
+          {
+            "front": "sonno",
+            "pos": "noun",
+            "back": "sleep",
+            "example": "Il sonno è importante per la salute.",
+            "tier": "A2"
+          },
+          {
+            "front": "veglia",
+            "pos": "noun",
+            "back": "wakefulness",
+            "example": "Il passaggio tra veglia e sonno.",
+            "tier": "B1"
+          },
+          {
+            "front": "orologio interno",
+            "pos": "noun",
+            "back": "internal clock",
+            "example": "Funzionano come un orologio interno.",
+            "tier": "B1"
+          },
+          {
+            "front": "regolare",
+            "pos": "verb",
+            "back": "to regulate",
+            "example": "Regola il passaggio tra veglia e riposo.",
+            "tier": "B1"
+          },
+          {
+            "front": "disturbo del sonno",
+            "pos": "noun",
+            "back": "sleep disorder",
+            "example": "L'insonnia è un disturbo del sonno.",
+            "tier": "B1"
+          },
+          {
+            "front": "insonnia",
+            "pos": "noun",
+            "back": "insomnia",
+            "example": "L'insonnia colpisce milioni di persone.",
+            "tier": "B1"
+          },
+          {
+            "front": "terapia",
+            "pos": "noun",
+            "back": "therapy, treatment",
+            "example": "Sperano in nuove terapie efficaci.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Un gruppo di scienziati ha scoperto quello che chiamano il vero e proprio motore del sonno nel cervello umano.",
+            "point": "pronome relativo \"quello che\"",
+            "explanation": "\"Quello che\" introduce una frase relativa senza antecedente esplicito, equivalente a \"ciò che\".",
+            "why_tricky": "Gli studenti spesso confondono \"quello che\" con \"che\" semplice, senza capire che serve quando manca un nome specifico."
+          },
+          {
+            "sentence": "Questo meccanismo è formato da due gruppi di neuroni che si attivano quando siamo svegli e che, pian piano, ci portano verso il sonno.",
+            "point": "verbo riflessivo \"attivarsi\"",
+            "explanation": "\"Si attivano\" usa la forma riflessiva per indicare che i neuroni compiono l'azione su se stessi, senza un agente esterno esplicito.",
+            "why_tricky": "Distinguere i verbi riflessivi da quelli transitivi normali è spesso complicato per chi studia l'italiano a livello A2-B1."
+          },
+          {
+            "sentence": "Gli esperti sperano che questa scoperta apra la strada a nuove terapie più efficaci e naturali.",
+            "point": "congiuntivo presente dopo \"sperare che\"",
+            "explanation": "\"Apra\" è il congiuntivo presente, richiesto dopo \"sperare che\" perché esprime un desiderio riguardo al futuro.",
+            "why_tricky": "Il congiuntivo dopo i verbi di speranza è una struttura difficile da automatizzare per gli studenti di livello intermedio."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "aprire la strada a",
+            "meaning": "rendere possibile qualcosa di nuovo",
+            "example": "La scoperta apre la strada a nuove cure."
+          },
+          {
+            "phrase": "pian piano",
+            "meaning": "lentamente, poco alla volta",
+            "example": "Pian piano, il bambino si addormenta."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché pensi che sia importante capire come funziona il sonno nel cervello?",
+            "type": "open"
+          },
+          {
+            "q": "Come pensi che questa scoperta potrebbe aiutare le persone con insonnia?",
+            "type": "open"
+          },
+          {
+            "q": "Cosa fai tu, di solito, per dormire meglio la notte?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve paragrafo su come dormi di solito e su cosa vorresti migliorare nel tuo sonno."
+      }
+    },
     {
       "pack_id": "feed-2026-08-20-moderna-vaccino-melanoma",
       "title": "Successo del farmaco antimelanoma, Moderna strappa a Wall Street",
@@ -6151,514 +6637,6 @@
           }
         ],
         "opinion_prompt": "Sei mai rimasto bloccato in un aeroporto o in una stazione? Scrivi circa 100 parole e racconta che cosa hai fatto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-ue-imballaggi-plastica",
-      "title": "Scatta la stretta Ue sugli imballaggi: dal 2030 stop agli involucri monouso di plastica",
-      "source": "Rai News",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-ue-imballaggi-plastica",
-        "revision": 1,
-        "meta": {
-          "title": "Scatta la stretta Ue sugli imballaggi: dal 2030 stop agli involucri monouso di plastica",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/video/2026/08/scatta-la-stretta-ue-sugli-imballaggi-dal-2030-stop-agli-involucri-monouso-di-plastica-9d537f14-e0ff-4585-9aa4-5248c086b0b2.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "ambiente",
-            "Europa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The first new European rules on packaging come into force today. The aim is simple: to produce less waste. Every European citizen throws away about half a kilo of packaging a day. That means boxes, bags, bottles and plastic film. From 2030 many single-use plastic wrappings will be banned, for example those used for fruit and vegetables or the little single-portion sachets in cafes.\n\nCompanies will have a few years to get ready. They will have to use recyclable materials and cut down the empty space inside parcels. Shops will change too: there will be more loose products and more containers that you take back. According to the European Commission, these measures will help to save energy and raw materials. Some business associations, however, fear high costs and are asking for more time. Consumers, meanwhile, will notice the first differences when they do the shopping.",
-        "resumen_es": "Da oggi in Europa entrano in vigore le prime regole nuove sugli imballaggi. L'obiettivo è semplice: produrre meno rifiuti. Ogni cittadino europeo butta via circa mezzo chilo di imballaggi al giorno. Sono scatole, sacchetti, bottiglie e pellicole di plastica. Dal 2030 saranno vietati molti involucri di plastica usa e getta, per esempio quelli per la frutta e la verdura o le bustine monouso nei bar.\n\nLe aziende avranno alcuni anni per prepararsi. Dovranno usare materiali riciclabili e ridurre lo spazio vuoto dentro i pacchi. Anche i negozi cambieranno: ci saranno più prodotti sfusi e più contenitori da riportare indietro. Secondo la Commissione europea, queste misure aiuteranno a risparmiare energia e materie prime. Alcune associazioni di imprese, però, temono costi alti e chiedono più tempo. I consumatori, intanto, noteranno le prime differenze quando faranno la spesa.",
-        "vocab": [
-          {
-            "front": "l'imballaggio",
-            "pos": "noun",
-            "back": "packaging",
-            "example": "L'imballaggio di questo pacco è enorme.",
-            "tier": "B1"
-          },
-          {
-            "front": "entrare in vigore",
-            "pos": "phrase",
-            "back": "to come into force",
-            "example": "La legge entra in vigore a settembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "i rifiuti",
-            "pos": "noun",
-            "back": "waste, rubbish",
-            "example": "In estate ci sono più rifiuti in spiaggia.",
-            "tier": "A2"
-          },
-          {
-            "front": "buttare via",
-            "pos": "verb",
-            "back": "to throw away",
-            "example": "Non buttare via quella bottiglia.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sacchetto",
-            "pos": "noun",
-            "back": "bag (small, plastic or paper)",
-            "example": "Mi dà un sacchetto, per favore?",
-            "tier": "A2"
-          },
-          {
-            "front": "usa e getta",
-            "pos": "adj",
-            "back": "single-use, disposable",
-            "example": "Nel bar non usano più bicchieri usa e getta.",
-            "tier": "B1"
-          },
-          {
-            "front": "vietare",
-            "pos": "verb",
-            "back": "to ban, to forbid",
-            "example": "Qui è vietato fumare.",
-            "tier": "B1"
-          },
-          {
-            "front": "riciclabile",
-            "pos": "adj",
-            "back": "recyclable",
-            "example": "Questa carta è riciclabile.",
-            "tier": "B1"
-          },
-          {
-            "front": "sfuso",
-            "pos": "adj",
-            "back": "loose, unpackaged",
-            "example": "Compro sempre la pasta sfusa.",
-            "tier": "B1"
-          },
-          {
-            "front": "risparmiare",
-            "pos": "verb",
-            "back": "to save (money, energy)",
-            "example": "Così risparmiamo molta energia.",
-            "tier": "A2"
-          },
-          {
-            "front": "le materie prime",
-            "pos": "phrase",
-            "back": "raw materials",
-            "example": "Le materie prime costano di più.",
-            "tier": "B1"
-          },
-          {
-            "front": "temere",
-            "pos": "verb",
-            "back": "to fear, to be afraid of",
-            "example": "Le imprese temono nuove tasse.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare la spesa",
-            "pos": "phrase",
-            "back": "to do the grocery shopping",
-            "example": "Faccio la spesa il sabato mattina.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Dal 2030 saranno vietati molti involucri di plastica usa e getta, per esempio quelli per la frutta e la verdura o le bustine monouso nei bar.",
-            "point": "passivo con essere al futuro",
-            "explanation": "'Saranno vietati' è un passivo: essere al futuro più il participio, che concorda con il soggetto plurale maschile 'involucri'.",
-            "why_tricky": "Il participio deve concordare ('vietati', non 'vietato'), cosa che in inglese non succede mai."
-          },
-          {
-            "sentence": "Le aziende avranno alcuni anni per prepararsi.",
-            "point": "futuro di avere + infinito riflessivo",
-            "explanation": "Con un infinito riflessivo il pronome si attacca alla fine del verbo: 'prepararsi', non 'si preparare'.",
-            "why_tricky": "In inglese il riflessivo è una parola separata dopo il verbo, quindi si tende a staccarlo anche in italiano."
-          },
-          {
-            "sentence": "I consumatori, intanto, noteranno le prime differenze quando faranno la spesa.",
-            "point": "futuro dopo 'quando'",
-            "explanation": "Se l'azione è futura, l'italiano usa il futuro anche dopo 'quando': 'quando faranno la spesa'.",
-            "why_tricky": "L'inglese usa il presente dopo 'when' ('when they do the shopping'), quindi lo studente scrive 'quando fanno la spesa'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare i conti con",
-            "meaning": "to have to deal with something",
-            "example": "Le aziende devono fare i conti con le nuove regole."
-          },
-          {
-            "phrase": "a poco a poco",
-            "meaning": "little by little",
-            "example": "A poco a poco i negozi cambieranno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Qual è l'obiettivo principale delle nuove regole europee?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dovranno fare le aziende nei prossimi anni?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcune imprese non sono contente di queste misure?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nel tuo paese si usa troppa plastica nei negozi? Scrivi circa 100 parole e proponi due idee per ridurla."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-record-auto-idrogeno",
-      "title": "Nuovo record di velocità per un'auto a idrogeno: Andy Green sfiora i 654 chilometri orari",
-      "source": "Rai News",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "motori"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-record-auto-idrogeno",
-        "revision": 1,
-        "meta": {
-          "title": "Nuovo record di velocità per un'auto a idrogeno: Andy Green sfiora i 654 chilometri orari",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/nuovo-record-di-velocita-per-unauto-a-idrogeno-andy-green-sfiora-i-654-chilometri-orari-6fd16d31-3b2f-42ed-a35e-58fde6536573.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "tecnologia",
-            "motori"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A hydrogen-powered car has set a new speed record in the Utah desert, in the United States. At the wheel was Andy Green, a retired English pilot from the Royal Air Force. The car is almost ten metres long and has two very powerful hydrogen engines. On the famous Bonneville salt flats the vehicle came close to 654 kilometres an hour. It is an important result, because speed records are usually set with petrol engines.\n\nHydrogen is of great interest to car makers. When it burns hydrogen, the engine does not produce carbon dioxide. The problem is the price: producing clean hydrogen still costs too much and there are very few filling stations. That is why, for now, hydrogen is used above all for lorries, trains and prototypes like this one. Records in the desert serve this purpose too: showing the public that a new technology can be fast, safe and exciting.",
-        "resumen_es": "Un'automobile a idrogeno ha stabilito un nuovo record di velocità nel deserto dello Utah, negli Stati Uniti. Al volante c'era Andy Green, un pilota inglese in pensione della Royal Air Force. La vettura è lunga quasi dieci metri e ha due motori a idrogeno molto potenti. Sul famoso lago salato di Bonneville la macchina ha sfiorato i 654 chilometri orari. È un risultato importante, perché di solito i record di velocità si fanno con motori a benzina.\n\nL'idrogeno interessa molto ai costruttori di auto. Bruciando idrogeno, infatti, il motore non produce anidride carbonica. Il problema è il prezzo: produrre idrogeno pulito costa ancora troppo e le stazioni di rifornimento sono poche. Per questo, per ora, l'idrogeno si usa soprattutto per camion, treni e prototipi come questo. I record nel deserto servono anche a questo: mostrare al pubblico che una tecnologia nuova può essere veloce e sicura.",
-        "vocab": [
-          {
-            "front": "stabilire un record",
-            "pos": "phrase",
-            "back": "to set a record",
-            "example": "Ha stabilito un record nei cento metri.",
-            "tier": "B1"
-          },
-          {
-            "front": "la velocità",
-            "pos": "noun",
-            "back": "speed",
-            "example": "La velocità massima qui è 90 all'ora.",
-            "tier": "A2"
-          },
-          {
-            "front": "al volante",
-            "pos": "phrase",
-            "back": "at the wheel, driving",
-            "example": "Al volante c'era mio fratello.",
-            "tier": "B1"
-          },
-          {
-            "front": "in pensione",
-            "pos": "phrase",
-            "back": "retired",
-            "example": "Mio padre è in pensione da due anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vettura",
-            "pos": "noun",
-            "back": "car (more formal than 'macchina')",
-            "example": "La vettura è pronta per la gara.",
-            "tier": "B1"
-          },
-          {
-            "front": "potente",
-            "pos": "adj",
-            "back": "powerful",
-            "example": "È un motore molto potente.",
-            "tier": "A2"
-          },
-          {
-            "front": "sfiorare",
-            "pos": "verb",
-            "back": "to come close to, to just touch",
-            "example": "Il prezzo ha sfiorato i mille euro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il costruttore",
-            "pos": "noun",
-            "back": "manufacturer, maker",
-            "example": "I costruttori tedeschi investono molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "bruciare",
-            "pos": "verb",
-            "back": "to burn",
-            "example": "Questo motore brucia poco carburante.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rifornimento",
-            "pos": "noun",
-            "back": "refuelling",
-            "example": "Ci fermiamo per il rifornimento.",
-            "tier": "B1"
-          },
-          {
-            "front": "il camion",
-            "pos": "noun",
-            "back": "lorry, truck",
-            "example": "Sull'autostrada ci sono molti camion.",
-            "tier": "A2"
-          },
-          {
-            "front": "il prototipo",
-            "pos": "noun",
-            "back": "prototype",
-            "example": "Hanno presentato il primo prototipo.",
-            "tier": "B1"
-          },
-          {
-            "front": "di solito",
-            "pos": "adv",
-            "back": "usually",
-            "example": "Di solito vado al lavoro in bici.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La vettura è lunga quasi dieci metri e ha due motori a idrogeno molto potenti.",
-            "point": "accordo dell'aggettivo",
-            "explanation": "'Lunga' è femminile singolare perché descrive 'la vettura'; 'potenti' è plurale perché descrive 'due motori'.",
-            "why_tricky": "In inglese l'aggettivo non cambia mai, quindi è facile scrivere 'lungo' o 'potente' senza guardare il nome."
-          },
-          {
-            "sentence": "Bruciando idrogeno, infatti, il motore non produce anidride carbonica.",
-            "point": "gerundio con valore di 'quando / se'",
-            "explanation": "Il gerundio 'bruciando' sostituisce una frase come 'quando brucia idrogeno' e ha lo stesso soggetto del verbo principale.",
-            "why_tricky": "Il gerundio italiano assomiglia alla forma inglese in '-ing', ma non si usa mai per il presente progressivo senza 'stare'."
-          },
-          {
-            "sentence": "Il problema è il prezzo: produrre idrogeno pulito costa ancora troppo e le stazioni di rifornimento sono poche.",
-            "point": "infinito come soggetto della frase",
-            "explanation": "In italiano l'infinito può essere soggetto: 'produrre idrogeno pulito costa troppo'. Il verbo resta alla terza persona singolare.",
-            "why_tricky": "L'inglese preferisce la forma in '-ing' ('producing costs'), quindi si tende a cercare un equivalente con il gerundio."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a tutta velocità",
-            "meaning": "at full speed",
-            "example": "L'auto è passata a tutta velocità."
-          },
-          {
-            "phrase": "essere ancora lontano",
-            "meaning": "to be still a long way off",
-            "example": "Un'auto a idrogeno per tutti è ancora lontana."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi guidava l'auto durante il record e che lavoro faceva prima?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'idrogeno interessa ai costruttori di automobili?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono oggi i problemi principali dell'idrogeno?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, come saranno le automobili tra vent'anni? Scrivi circa 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-12-mozzarella-bufala-mucca",
-      "title": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
-      "source": "ANSA",
-      "date": "2026-08-06",
-      "level": "A2-B1",
-      "topics": [
-        "cibo",
-        "salute"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-12-mozzarella-bufala-mucca",
-        "revision": 1,
-        "meta": {
-          "title": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/podcast/ansa_verified/2026/08/06/e-vero-che-la-mozzarella-di-bufala-e-piu-grassa-della-mozzarella-di-mucca_56c87e1c-2750-408d-8ec5-2c4165063526.html",
-          "date_published": "2026-08-06",
-          "date_processed": "2026-08-12",
-          "tags": [
-            "cibo",
-            "salute"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Is it true that buffalo mozzarella is fattier than cow's mozzarella? It is a question a lot of people ask themselves in front of the supermarket counter. The short answer is yes. Buffalo milk is richer in fat and protein, so the mozzarella made from this milk is also denser and tastier. Mozzarella made with cow's milk, on the other hand, is lighter and has a more delicate flavour.\n\nThis does not mean, though, that one is healthy and the other is not. What matters above all is the amount we eat and what we put on the rest of the plate. Buffalo mozzarella has more calories, but it also has a stronger taste, so often a little is enough. In the kitchen it makes sense to choose according to taste and use: buffalo mozzarella is perfect on its own, with tomato and a drizzle of olive oil; fiordilatte works better on pizza, because it releases less water while it cooks.",
-        "resumen_es": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca? È una domanda che molte persone si fanno davanti al banco del supermercato. La risposta breve è sì. Il latte di bufala è più ricco di grassi e di proteine, quindi anche la mozzarella che si ottiene è più densa e saporita. La mozzarella di mucca, invece, è più leggera e ha un gusto più delicato.\n\nQuesto però non vuol dire che una sia sana e l'altra no. Contano soprattutto la quantità e quello che mettiamo nel resto del piatto. La bufala ha più calorie, ma ha anche un gusto più forte, quindi spesso ne basta poca. In cucina conviene scegliere secondo il gusto e l'uso: la bufala è perfetta da sola, con il pomodoro e un filo d'olio; il fiordilatte funziona meglio sulla pizza, perché rilascia meno acqua durante la cottura.",
-        "vocab": [
-          {
-            "front": "grasso",
-            "pos": "adj",
-            "back": "fatty, fat",
-            "example": "Questo formaggio è troppo grasso per me.",
-            "tier": "B1"
-          },
-          {
-            "front": "il banco",
-            "pos": "noun",
-            "back": "counter (in a shop)",
-            "example": "Al banco dei formaggi c'era molta gente.",
-            "tier": "B1"
-          },
-          {
-            "front": "ricco di",
-            "pos": "adj",
-            "back": "rich in",
-            "example": "La frutta secca è ricca di proteine.",
-            "tier": "B1"
-          },
-          {
-            "front": "saporito",
-            "pos": "adj",
-            "back": "tasty, full of flavour",
-            "example": "La pasta era semplice ma molto saporita.",
-            "tier": "B1"
-          },
-          {
-            "front": "leggero",
-            "pos": "adj",
-            "back": "light (food)",
-            "example": "Stasera voglio una cena leggera.",
-            "tier": "A2"
-          },
-          {
-            "front": "delicato",
-            "pos": "adj",
-            "back": "delicate, mild",
-            "example": "Ha un profumo delicato.",
-            "tier": "B1"
-          },
-          {
-            "front": "vuol dire",
-            "pos": "phrase",
-            "back": "it means",
-            "example": "Non parlare non vuol dire essere d'accordo.",
-            "tier": "A2"
-          },
-          {
-            "front": "la quantità",
-            "pos": "noun",
-            "back": "amount, quantity",
-            "example": "Conta la quantità, non solo la qualità.",
-            "tier": "A2"
-          },
-          {
-            "front": "il gusto",
-            "pos": "noun",
-            "back": "taste, flavour",
-            "example": "Questo formaggio ha un gusto molto forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "il fiordilatte",
-            "pos": "noun",
-            "back": "fiordilatte, mozzarella made from cow's milk",
-            "example": "Sulla pizza uso il fiordilatte.",
-            "tier": "B1"
-          },
-          {
-            "front": "bastare",
-            "pos": "verb",
-            "back": "to be enough",
-            "example": "Basta un cucchiaio di olio.",
-            "tier": "A2"
-          },
-          {
-            "front": "un filo d'olio",
-            "pos": "phrase",
-            "back": "a drizzle of olive oil",
-            "example": "Aggiungi un filo d'olio prima di servire.",
-            "tier": "B1"
-          },
-          {
-            "front": "rilasciare",
-            "pos": "verb",
-            "back": "to release, to give off",
-            "example": "La verdura rilascia acqua in padella.",
-            "tier": "B2"
-          },
-          {
-            "front": "la cottura",
-            "pos": "noun",
-            "back": "cooking (process)",
-            "example": "La cottura dura venti minuti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "È vero che la mozzarella di bufala è più grassa della mozzarella di mucca?",
-            "point": "Il comparativo di maggioranza con più ... di",
-            "explanation": "Per confrontare due nomi si usa più + aggettivo + di; qui di si unisce all'articolo e diventa della mozzarella di mucca, che è il secondo termine di paragone.",
-            "why_tricky": "Davanti a due verbi o a due aggettivi il confronto si fa con che, non con di, e chi impara tende a usare sempre di."
-          },
-          {
-            "sentence": "Questo però non vuol dire che una sia sana e l'altra no.",
-            "point": "Il congiuntivo dopo non vuol dire che",
-            "explanation": "Le espressioni negative di opinione o di significato chiedono il congiuntivo: qui sia, e non è. Il congiuntivo presenta l'idea come qualcosa di non confermato.",
-            "why_tricky": "Nell'italiano parlato molti dicono non vuol dire che una è sana, ma la forma corretta e più comune nello scritto resta il congiuntivo."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "farsi una domanda",
-            "meaning": "to wonder, to ask oneself a question",
-            "example": "Mi faccio sempre la stessa domanda al supermercato."
-          },
-          {
-            "phrase": "la risposta breve è...",
-            "meaning": "the short answer is..., used before a quick verdict",
-            "example": "La risposta breve è sì, ma dipende dal contesto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Qual è la differenza principale fra la mozzarella di bufala e quella di mucca?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il testo dice che non si può affermare che una mozzarella sia sana e l'altra no?",
-            "type": "open"
-          },
-          {
-            "q": "Quando conviene usare il fiordilatte invece della bufala?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è il tuo formaggio preferito e come lo mangi di solito? Scrivi circa 80 parole."
       }
     }
   ]
