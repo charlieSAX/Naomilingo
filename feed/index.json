@@ -1,7 +1,509 @@
 {
-  "generated_at": "2026-08-22T08:10:47Z",
+  "generated_at": "2026-08-22T20:12:37Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-22-ridley-scott-dog-stars",
+      "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-ridley-scott-dog-stars",
+        "revision": 1,
+        "meta": {
+          "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/21/ridley-scott-nel-mondo-post-apocalittico-di-the-dog-stars-il-caos_1f164ac9-65bb-4297-a16a-4e88f367b231.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The director Ridley Scott is presenting his new film, The Dog Stars, which comes out on 26 August. In the cast there are Jacob Elordi, Josh Brolin and Margaret Qualley. The story is set in a post-apocalyptic world, but the director says that in that world you can clearly see the chaos of today. For him, the future told in the cinema is always a way of talking about the present.\n\nScott also speaks about his training. He says that French and Italian cinema were his school, because as a young man he watched those films with great attention. It is an interesting point for the Italian public, since one of the most famous directors in the world recognises the influence of European cinema. The film will now have to convince the audience, and we will see in the coming weeks what the critics think of it.",
+        "resumen_es": "Il regista Ridley Scott presenta il suo nuovo film, The Dog Stars, che esce il 26 agosto. Nel cast ci sono Jacob Elordi, Josh Brolin e Margaret Qualley. La storia si svolge in un mondo post-apocalittico, ma il regista dice che in quel mondo si vede bene il caos di oggi. Per lui il futuro raccontato al cinema è sempre un modo per parlare del presente.\n\nScott parla anche della sua formazione. Dice che il cinema francese e italiano sono stati la sua scuola, perché da giovane guardava quei film con molta attenzione. È un punto interessante per il pubblico italiano, perché uno dei registi più famosi del mondo riconosce l'influenza del cinema europeo. Adesso il film dovrà convincere gli spettatori, e vedremo nelle prossime settimane che cosa ne pensa la critica.",
+        "vocab": [
+          {
+            "front": "il regista",
+            "pos": "noun",
+            "back": "film director",
+            "example": "Il regista ha spiegato la sua idea ai giornalisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "uscire (di un film)",
+            "pos": "verb",
+            "back": "to come out, to be released",
+            "example": "Il film esce nei cinema la settimana prossima.",
+            "tier": "A2"
+          },
+          {
+            "front": "il cast",
+            "pos": "noun",
+            "back": "cast",
+            "example": "Nel cast ci sono tre attori molto conosciuti.",
+            "tier": "B1"
+          },
+          {
+            "front": "svolgersi",
+            "pos": "verb",
+            "back": "to take place, to be set",
+            "example": "La storia si svolge a Roma negli anni Sessanta.",
+            "tier": "B1"
+          },
+          {
+            "front": "il caos",
+            "pos": "noun",
+            "back": "chaos",
+            "example": "In centro c'era un caos incredibile.",
+            "tier": "B1"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell, to narrate",
+            "example": "Mi ha raccontato tutta la storia.",
+            "tier": "A2"
+          },
+          {
+            "front": "la formazione",
+            "pos": "noun",
+            "back": "training, education, background",
+            "example": "La sua formazione è molto tecnica.",
+            "tier": "B1"
+          },
+          {
+            "front": "da giovane",
+            "pos": "phrase",
+            "back": "as a young man, when he was young",
+            "example": "Da giovane lavorava in un ristorante.",
+            "tier": "A2"
+          },
+          {
+            "front": "riconoscere",
+            "pos": "verb",
+            "back": "to recognise, to acknowledge",
+            "example": "Ha riconosciuto il suo errore davanti a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'influenza",
+            "pos": "noun",
+            "back": "influence",
+            "example": "L'influenza della musica americana è evidente.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettatore",
+            "pos": "noun",
+            "back": "viewer, member of the audience",
+            "example": "Gli spettatori hanno applaudito alla fine.",
+            "tier": "B1"
+          },
+          {
+            "front": "la critica",
+            "pos": "noun",
+            "back": "the critics, criticism",
+            "example": "La critica ha accolto bene il suo ultimo lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "convincere",
+            "pos": "verb",
+            "back": "to convince",
+            "example": "Non è facile convincere mio padre.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La storia si svolge in un mondo post-apocalittico",
+            "point": "Verbo riflessivo con valore intransitivo",
+            "explanation": "Svolgersi è un verbo riflessivo che significa avere luogo. Non c'è un vero soggetto che agisce su se stesso: il si serve solo a rendere il verbo intransitivo.",
+            "why_tricky": "In inglese si dice is set, senza pronome. Chi impara l'italiano dimentica facilmente il si e scrive la storia svolge, che è sbagliato."
+          },
+          {
+            "sentence": "il cinema francese e italiano sono stati la sua scuola",
+            "point": "Passato prossimo di essere con accordo del participio",
+            "explanation": "Con il verbo essere il participio concorda con il soggetto. Qui il soggetto è doppio, cinema francese e italiano, quindi si usa il plurale sono stati.",
+            "why_tricky": "Con avere il participio non cambia, ma con essere sì. Bisogna anche notare che due soggetti singolari uniti da e chiedono il verbo plurale."
+          },
+          {
+            "sentence": "vedremo nelle prossime settimane che cosa ne pensa la critica",
+            "point": "Futuro semplice più la particella ne",
+            "explanation": "Vedremo è futuro semplice di vedere, con la doppia erre tipica di questo verbo. Ne sostituisce di questo film, cioè pensare qualcosa di qualcosa.",
+            "why_tricky": "La particella ne non ha un vero equivalente inglese e spesso viene omessa. Qui però pensarne è la forma naturale in italiano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fare scuola",
+            "meaning": "to set a trend, to be an example others follow",
+            "example": "Quel film ha fatto scuola per tutta una generazione di registi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando esce il nuovo film di Ridley Scott e chi c'è nel cast?",
+            "type": "open"
+          },
+          {
+            "q": "Perché, secondo il regista, il mondo post-apocalittico parla del presente?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dice Ridley Scott del cinema francese e italiano?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacciono i film ambientati nel futuro? Scrivi circa 100 parole e spiega perché sì o perché no, con un esempio concreto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-nuova-tecnica-dna",
+      "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
+      "source": "ANSA",
+      "date": "2026-08-22",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-nuova-tecnica-dna",
+        "revision": 1,
+        "meta": {
+          "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/22/diagnosi-piu-precise-da-una-nuova-tecnica-per-leggere-il-dna_1c713743-4de7-47fa-9ee2-5a072ce4033a.html",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "scienza",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A new technique for reading DNA promises more precise diagnoses. According to the researchers, the method makes it possible to sequence very long fragments and to identify complex structures that older systems could not see well. In practice, doctors can read a bigger piece of the genetic code in one go, instead of putting together many small pieces.\n\nThis matters above all for rare diseases, where the cause is often hidden in a difficult part of the genome. If the analysis is clearer, the diagnosis arrives sooner and the patient wastes less time. Naturally, there are still things to check: the technique has to be tested on many people and the cost has to fall before it can enter all hospitals. But the direction seems clear, and in the coming years genetic analysis is likely to become an ordinary tool.",
+        "resumen_es": "Una nuova tecnica per leggere il Dna promette diagnosi più precise. Secondo i ricercatori, il metodo permette di sequenziare frammenti molto lunghi e di individuare strutture complesse che i sistemi più vecchi non riuscivano a vedere bene. In pratica i medici possono leggere un pezzo più grande del codice genetico in una volta sola, invece di mettere insieme tanti piccoli pezzi.\n\nQuesto è importante soprattutto per le malattie rare, dove spesso la causa si nasconde in una zona difficile del genoma. Se l'analisi è più chiara, la diagnosi arriva prima e il paziente perde meno tempo. Naturalmente ci sono ancora cose da verificare: la tecnica deve essere provata su molte persone e il costo deve scendere prima di entrare in tutti gli ospedali. Ma la direzione sembra chiara e nei prossimi anni l'analisi genetica diventerà uno strumento normale.",
+        "vocab": [
+          {
+            "front": "la diagnosi",
+            "pos": "noun",
+            "back": "diagnosis",
+            "example": "La diagnosi è arrivata dopo due settimane.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ricercatore",
+            "pos": "noun",
+            "back": "researcher",
+            "example": "I ricercatori hanno pubblicato lo studio ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "permettere di",
+            "pos": "verb",
+            "back": "to make it possible to, to allow",
+            "example": "Questa app permette di risparmiare tempo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il frammento",
+            "pos": "noun",
+            "back": "fragment, piece",
+            "example": "Hanno trovato un frammento di ceramica antica.",
+            "tier": "B1"
+          },
+          {
+            "front": "individuare",
+            "pos": "verb",
+            "back": "to identify, to locate",
+            "example": "La polizia ha individuato il problema subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "in una volta sola",
+            "pos": "phrase",
+            "back": "in one go, all at once",
+            "example": "Ha pagato tutto in una volta sola.",
+            "tier": "A2"
+          },
+          {
+            "front": "mettere insieme",
+            "pos": "phrase",
+            "back": "to put together",
+            "example": "Abbiamo messo insieme i dati di tre anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "la malattia rara",
+            "pos": "noun",
+            "back": "rare disease",
+            "example": "Le malattie rare sono difficili da riconoscere.",
+            "tier": "B1"
+          },
+          {
+            "front": "nascondersi",
+            "pos": "verb",
+            "back": "to hide (oneself)",
+            "example": "Il gatto si nasconde sempre sotto il letto.",
+            "tier": "A2"
+          },
+          {
+            "front": "verificare",
+            "pos": "verb",
+            "back": "to check, to verify",
+            "example": "Devo verificare l'orario del treno.",
+            "tier": "B1"
+          },
+          {
+            "front": "scendere (di un prezzo)",
+            "pos": "verb",
+            "back": "to fall, to go down",
+            "example": "Il prezzo della benzina è sceso un poco.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Il telefono è ormai uno strumento di lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "soprattutto",
+            "pos": "adv",
+            "back": "above all, especially",
+            "example": "Mi piace il mare, soprattutto d'inverno.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "individuare strutture complesse che i sistemi più vecchi non riuscivano a vedere bene",
+            "point": "Imperfetto per una capacità abituale nel passato",
+            "explanation": "Riuscivano è imperfetto perché descrive una situazione che durava nel tempo, non un fatto singolo. Riuscire chiede sempre la preposizione a davanti all'infinito.",
+            "why_tricky": "Molti studenti usano il passato prossimo, non sono riusciti, che indica un momento preciso. Inoltre si dimentica la a di riuscire a fare."
+          },
+          {
+            "sentence": "la tecnica deve essere provata su molte persone",
+            "point": "Passivo con dovere più essere più participio",
+            "explanation": "Il passivo si forma con essere più participio, e il participio provata concorda con tecnica, femminile singolare. Dovere si mette prima e resta all'infinito il verbo essere.",
+            "why_tricky": "L'ordine dovere più essere più participio sembra lungo, e l'accordo del participio con il soggetto femminile viene spesso dimenticato."
+          },
+          {
+            "sentence": "nei prossimi anni l'analisi genetica diventerà uno strumento normale",
+            "point": "Futuro semplice dei verbi in -are che cambiano vocale",
+            "explanation": "Diventare fa diventerà al futuro: la a dell'infinito diventa e. Lo stesso accade con parlare, che fa parlerà.",
+            "why_tricky": "Chi impara scrive spesso diventarà, per analogia con l'infinito. Solo i verbi in -are cambiano quella vocale, mentre finire fa finirà."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare per il verso giusto",
+            "meaning": "to be going the right way, to be on track",
+            "example": "Se la ricerca va per il verso giusto, avremo risultati fra due anni."
+          },
+          {
+            "phrase": "a portata di mano",
+            "meaning": "within reach, close at hand",
+            "example": "Una diagnosi rapida sembra finalmente a portata di mano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa permette di fare la nuova tecnica per leggere il Dna?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa novità è importante per le malattie rare?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi restano da risolvere prima di usarla in tutti gli ospedali?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Faresti un test genetico per conoscere i tuoi rischi di salute? Scrivi circa 100 parole e spiega la tua scelta."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-flora-106-anni",
+      "title": "I 106 anni di Flora: \"Il mio consiglio ai giovani? Solo di essere felici\"",
+      "source": "Rai News",
+      "date": "2026-08-22",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "storie"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-flora-106-anni",
+        "revision": 1,
+        "meta": {
+          "title": "I 106 anni di Flora: \"Il mio consiglio ai giovani? Solo di essere felici\"",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/video/2026/08/i-106-anni-di-flora-il-mio-consiglio-ai-giovani-essere-felici-bergamo-verdello-compleanno-9b7c17bc-fbba-4951-9411-cc86c19ef88f.html",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "società",
+            "storie"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Verdello, in the province of Bergamo, they have celebrated the 106th birthday of Flora. The celebrations brought together family, neighbours and the local authorities. Flora still keeps up her passions, and among them there is one that surprises everybody: she loves funfairs. When they asked her for a piece of advice for young people, she answered simply that they should be happy.\n\nStories like this one are becoming more common in Italy, a country where life expectancy is among the highest in Europe. Many small towns now have residents over a hundred, and they often become a point of reference for the whole community. Behind these long lives there is usually a mix of things: family close by, an active routine and simple food. Flora's answer, in the end, sounds less like a secret and more like a decision.",
+        "resumen_es": "A Verdello, in provincia di Bergamo, hanno festeggiato i 106 anni di Flora. Ai festeggiamenti c'erano la famiglia, i vicini e le autorità del paese. Flora continua a coltivare le sue passioni e fra queste ce n'è una che sorprende tutti: le piacciono molto i luna park. Quando le hanno chiesto un consiglio per i giovani, ha risposto semplicemente di essere felici.\n\nStorie come questa sono sempre più comuni in Italia, un paese dove la vita media è fra le più alte d'Europa. Molti piccoli comuni hanno adesso abitanti che superano i cento anni e spesso queste persone diventano un punto di riferimento per tutta la comunità. Dietro queste vite lunghe di solito c'è un insieme di cose: la famiglia vicina, una routine attiva e un cibo semplice. La risposta di Flora, alla fine, sembra meno un segreto e più una decisione.",
+        "vocab": [
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Domani festeggiamo il compleanno di mia sorella.",
+            "tier": "A2"
+          },
+          {
+            "front": "i festeggiamenti",
+            "pos": "noun",
+            "back": "the celebrations",
+            "example": "I festeggiamenti sono durati tutto il giorno.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vicino",
+            "pos": "noun",
+            "back": "neighbour",
+            "example": "I nostri vicini sono molto gentili.",
+            "tier": "A2"
+          },
+          {
+            "front": "coltivare una passione",
+            "pos": "phrase",
+            "back": "to pursue an interest, to keep up a passion",
+            "example": "Da anni coltiva la passione per la fotografia.",
+            "tier": "B1"
+          },
+          {
+            "front": "sorprendere",
+            "pos": "verb",
+            "back": "to surprise",
+            "example": "La sua risposta ci ha sorpreso tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il luna park",
+            "pos": "noun",
+            "back": "funfair, amusement park",
+            "example": "Da bambino andavo al luna park ogni estate.",
+            "tier": "A2"
+          },
+          {
+            "front": "il consiglio",
+            "pos": "noun",
+            "back": "piece of advice",
+            "example": "Mi ha dato un consiglio molto utile.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vita media",
+            "pos": "phrase",
+            "back": "life expectancy, average lifespan",
+            "example": "La vita media è aumentata negli ultimi trent'anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il comune",
+            "pos": "noun",
+            "back": "municipality, town council",
+            "example": "Il comune ha organizzato la festa in piazza.",
+            "tier": "B1"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to exceed, to go beyond",
+            "example": "Il costo ha superato le nostre previsioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il punto di riferimento",
+            "pos": "phrase",
+            "back": "point of reference, landmark figure",
+            "example": "Per noi era un punto di riferimento importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "un insieme di",
+            "pos": "phrase",
+            "back": "a combination of, a set of",
+            "example": "Il successo è un insieme di lavoro e fortuna.",
+            "tier": "B1"
+          },
+          {
+            "front": "alla fine",
+            "pos": "phrase",
+            "back": "in the end",
+            "example": "Alla fine abbiamo deciso di restare a casa.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "fra queste ce n'è una che sorprende tutti",
+            "point": "Ci più ne nella forma ce n'è",
+            "explanation": "C'è diventa ce quando incontra ne, e ne sostituisce delle passioni. La forma completa sarebbe fra queste ci è una di esse, ma l'italiano dice sempre ce n'è.",
+            "why_tricky": "Il cambio da ci a ce prima di ne non è intuitivo, e l'apostrofo di n'è confonde chi scrive."
+          },
+          {
+            "sentence": "Quando le hanno chiesto un consiglio per i giovani, ha risposto semplicemente di essere felici",
+            "point": "Pronome indiretto le e discorso indiretto con di più infinito",
+            "explanation": "Le è il pronome indiretto femminile, cioè a Flora. Rispondere di più infinito riporta un consiglio senza usare che, ed è la forma più naturale in italiano.",
+            "why_tricky": "Le si confonde facilmente con la, che è il pronome diretto. Inoltre l'inglese userebbe una frase con that, mentre l'italiano preferisce di più infinito."
+          },
+          {
+            "sentence": "Molti piccoli comuni hanno adesso abitanti che superano i cento anni",
+            "point": "Articolo determinativo davanti ai numeri con superare",
+            "explanation": "In italiano si dice superare i cento anni, con l'articolo i davanti al numero. L'articolo indica una soglia, una quantità considerata nel suo insieme.",
+            "why_tricky": "In inglese non c'è articolo, over a hundred years. Chi impara scrive superano cento anni, che suona incompleto a un orecchio italiano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "portare bene gli anni",
+            "meaning": "to wear one's age well",
+            "example": "Flora porta benissimo i suoi anni."
+          },
+          {
+            "phrase": "avere il cuore giovane",
+            "meaning": "to be young at heart",
+            "example": "Ha più di cento anni ma ha il cuore giovane."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove e come hanno festeggiato i 106 anni di Flora?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è la passione di Flora che sorprende le persone?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, che cosa c'è spesso dietro queste vite molto lunghe?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Che consiglio daresti tu a una persona giovane? Scrivi circa 100 parole e spiega perché proprio quel consiglio."
+      }
+    },
     {
       "pack_id": "feed-2026-08-22-video-brevi-cervello",
       "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
@@ -6015,527 +6517,6 @@
           }
         ],
         "opinion_prompt": "Secondo te i murales migliorano o rovinano una città? Scrivi otto o dieci frasi con la tua opinione e almeno un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-wikipedia-notizia-falsa-google",
-      "title": "'Sam Altman è morto', falsa informazione Wikipedia finisce nella ricerca Google",
-      "source": "ANSA",
-      "date": "2026-08-14",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "informazione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-wikipedia-notizia-falsa-google",
-        "revision": 1,
-        "meta": {
-          "title": "'Sam Altman è morto', falsa informazione Wikipedia finisce nella ricerca Google",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/13/sam-altman-e-morto-falsa-informazione-wikipedia-finisce-nella-ricerca-google_a3d05bd6-4609-405c-8d5b-66a7c077b3d3.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "tecnologia",
-            "informazione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A false piece of news appeared on Google: Sam Altman, the head of OpenAI, was reported dead. The information did not come from a newspaper, but from a wrong edit made to his Wikipedia page. Google often shows a box at the top with the main facts about a person, and that box takes a lot of its information from Wikipedia itself. Some users noticed the mistake and reported it online.\n\nGoogle spoke of sources of public information being vandalised. Wikipedia can indeed be edited by anyone, and this is both its strength and its weak point. Usually mistakes are corrected quickly by the other users; sometimes, though, a false edit has time to pass into search engines. The case is a reminder of something simple: before believing an important piece of news, it is worth checking at least two different sources.",
-        "resumen_es": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto. L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia. Google mostra spesso in alto un riquadro con i dati principali di una persona, e quel riquadro prende molte informazioni proprio da Wikipedia. Alcuni utenti hanno notato l'errore e lo hanno segnalato online.\n\nGoogle ha parlato di fonti di informazioni pubbliche vandalizzate. Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole. Di solito gli errori vengono corretti in fretta dagli altri utenti; a volte però una modifica falsa fa in tempo a passare nei motori di ricerca. Il caso ricorda una cosa semplice: prima di credere a una notizia importante, conviene controllare almeno due fonti diverse.",
-        "vocab": [
-          {
-            "front": "la notizia",
-            "pos": "noun",
-            "back": "piece of news",
-            "example": "La notizia era falsa ma sembrava vera.",
-            "tier": "A2"
-          },
-          {
-            "front": "falso",
-            "pos": "adj",
-            "back": "false, fake",
-            "example": "Online circolano molte notizie false.",
-            "tier": "A2"
-          },
-          {
-            "front": "la modifica",
-            "pos": "noun",
-            "back": "edit, change",
-            "example": "Qualcuno ha fatto una modifica sbagliata.",
-            "tier": "B1"
-          },
-          {
-            "front": "il giornale",
-            "pos": "noun",
-            "back": "newspaper",
-            "example": "La notizia non veniva da un giornale.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'utente",
-            "pos": "noun",
-            "back": "user",
-            "example": "Gli utenti hanno segnalato subito l'errore.",
-            "tier": "B1"
-          },
-          {
-            "front": "segnalare",
-            "pos": "verb",
-            "back": "to report, to flag up",
-            "example": "Ho segnalato il problema al sito.",
-            "tier": "B1"
-          },
-          {
-            "front": "vandalizzare",
-            "pos": "verb",
-            "back": "to vandalise, to deface",
-            "example": "Qualcuno ha vandalizzato la pagina.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fonte",
-            "pos": "noun",
-            "back": "source (of information)",
-            "example": "Controlla sempre la fonte di una notizia.",
-            "tier": "B1"
-          },
-          {
-            "front": "chiunque",
-            "pos": "pronoun",
-            "back": "anyone, whoever",
-            "example": "Chiunque può scrivere su quel sito.",
-            "tier": "B1"
-          },
-          {
-            "front": "il punto debole",
-            "pos": "phrase",
-            "back": "weak point",
-            "example": "La velocità è il suo punto debole.",
-            "tier": "B1"
-          },
-          {
-            "front": "il motore di ricerca",
-            "pos": "phrase",
-            "back": "search engine",
-            "example": "L'errore è finito nei motori di ricerca.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare in tempo a",
-            "pos": "phrase",
-            "back": "to manage to do something in time",
-            "example": "Non ho fatto in tempo a correggerlo.",
-            "tier": "B1"
-          },
-          {
-            "front": "credere a",
-            "pos": "verb",
-            "back": "to believe (something or someone)",
-            "example": "Non credo a tutto quello che leggo online.",
-            "tier": "A2"
-          },
-          {
-            "front": "conviene",
-            "pos": "verb",
-            "back": "it is worth, it is advisable",
-            "example": "Conviene controllare due fonti diverse.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Su Google è apparsa una notizia falsa: Sam Altman, il capo di OpenAI, sarebbe morto.",
-            "point": "condizionale passato per notizie non confermate",
-            "explanation": "Sarebbe morto non descrive un'ipotesi del passato, ma serve a riportare una notizia che chi scrive non conferma. È un uso tipico del linguaggio giornalistico: da riconoscere quando si legge, non da produrre a questo livello.",
-            "why_tricky": "In inglese si usa una formula diversa, reportedly oppure is said to have died. Chi impara l'italiano legge sarebbe morto e capisce he would have died, che qui sarebbe sbagliato."
-          },
-          {
-            "sentence": "L'informazione non veniva da un giornale, ma da una modifica sbagliata fatta alla sua pagina di Wikipedia.",
-            "point": "participio passato che descrive un nome",
-            "explanation": "Fatta finisce in a perché si riferisce a una modifica, nome femminile singolare. È un participio usato come aggettivo, senza il verbo essere davanti.",
-            "why_tricky": "La concordanza del participio è il punto delicato dell'italiano. Qui è facile perché il nome è vicino, ma con avere e un pronome diventa più difficile: ho visto la pagina, però l'ho vista."
-          },
-          {
-            "sentence": "Wikipedia infatti può essere modificata da chiunque, ed è questa la sua forza ma anche il suo punto debole.",
-            "point": "passivo con potere",
-            "explanation": "Il passivo si forma con essere più participio, e quando c'è potere l'ordine diventa può essere modificata. Da chiunque introduce chi compie l'azione.",
-            "why_tricky": "Il participio prende il genere e il numero dal soggetto, mentre può dipende solo dal numero: Wikipedia può essere modificata, ma i siti possono essere modificati."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "prendere per buono",
-            "meaning": "to accept something as true without checking it",
-            "example": "Ha preso per buona la prima notizia che ha letto."
-          },
-          {
-            "phrase": "fare acqua da tutte le parti",
-            "meaning": "to be full of holes, to not stand up at all",
-            "example": "La sua spiegazione faceva acqua da tutte le parti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Da dove veniva la notizia falsa apparsa su Google?",
-            "type": "open"
-          },
-          {
-            "q": "Perché Wikipedia può contenere errori di questo tipo?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa conviene fare prima di credere a una notizia importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come fai a capire se una notizia online è vera? Scrivi otto o dieci frasi e spiega quali controlli fai di solito."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-turismo-famiglie-miliardi",
-      "title": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
-      "source": "ANSA",
-      "date": "2026-08-14",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-turismo-famiglie-miliardi",
-        "revision": 1,
-        "meta": {
-          "title": "Le vacanze estive un must per le famiglie, il turismo family 'vale oltre 15 miliardi'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/14/le-vacanze-estive-un-must-per-le-famiglie-il-turismo-family-vale-oltre-15-miliardi_ad824098-7421-49b6-9f0e-96fbfb4d9430.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "viaggi",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "For Italian families the summer holiday is still almost an obligation. According to research by the Jfc company, tourism aimed at families is worth more than fifteen billion euros. Family tourism generally includes hotels with entertainment for children, flats near the sea, campsites and services designed for people travelling with small children.\n\nThe research also indicates which regions are most attentive to this kind of tourism: Emilia-Romagna, Trentino, Puglia and Abruzzo. These are regions that have been working with families for years, from the sea in Puglia to the mountains in Trentino. For many families the price remains the first problem, because in high season costs rise rapidly. Those who can, leave in June or September and spend less. In short, holidays remain an important moment of the year, even when money is tight.",
-        "resumen_es": "Per le famiglie italiane le vacanze estive restano quasi un obbligo. Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro. Il turismo per famiglie comprende in genere alberghi con animazione per i bambini, appartamenti vicino al mare, campeggi e servizi pensati per chi viaggia con figli piccoli.\n\nLa ricerca indica anche quali regioni sono più attente a questo tipo di turismo: Emilia-Romagna, Trentino, Puglia e Abruzzo. Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino. Per molte famiglie il prezzo resta il primo problema, perché in alta stagione i costi salgono rapidamente. Chi può, parte a giugno o a settembre e spende meno. Le vacanze, insomma, restano un momento importante dell'anno, anche quando i soldi sono pochi.",
-        "vocab": [
-          {
-            "front": "le vacanze estive",
-            "pos": "phrase",
-            "back": "summer holidays",
-            "example": "Le vacanze estive durano tre settimane.",
-            "tier": "A2"
-          },
-          {
-            "front": "la ricerca",
-            "pos": "noun",
-            "back": "study, piece of research",
-            "example": "Una ricerca indica quali regioni sono più attente.",
-            "tier": "B1"
-          },
-          {
-            "front": "valere",
-            "pos": "verb",
-            "back": "to be worth",
-            "example": "Il settore vale quindici miliardi di euro.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'obbligo",
-            "pos": "noun",
-            "back": "obligation, something you must do",
-            "example": "Per molti le ferie sono quasi un obbligo.",
-            "tier": "B1"
-          },
-          {
-            "front": "comprendere",
-            "pos": "verb",
-            "back": "to include (also: to understand)",
-            "example": "Il prezzo comprende la colazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'animazione",
-            "pos": "noun",
-            "back": "entertainment programme (at a hotel or resort)",
-            "example": "In albergo c'è l'animazione per i bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "il campeggio",
-            "pos": "noun",
-            "back": "campsite",
-            "example": "Dormiamo in campeggio vicino al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "attento a",
-            "pos": "adj",
-            "back": "attentive to, mindful of",
-            "example": "Sono alberghi molto attenti alle famiglie.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'alta stagione",
-            "pos": "phrase",
-            "back": "high season",
-            "example": "In alta stagione tutto costa di più.",
-            "tier": "B1"
-          },
-          {
-            "front": "salire",
-            "pos": "verb",
-            "back": "to go up, to rise (of prices)",
-            "example": "I costi salgono rapidamente ad agosto.",
-            "tier": "A2"
-          },
-          {
-            "front": "il prezzo",
-            "pos": "noun",
-            "back": "price",
-            "example": "Il prezzo resta il primo problema.",
-            "tier": "A2"
-          },
-          {
-            "front": "spendere",
-            "pos": "verb",
-            "back": "to spend (money)",
-            "example": "Chi parte a settembre spende meno.",
-            "tier": "A2"
-          },
-          {
-            "front": "insomma",
-            "pos": "adv",
-            "back": "in short, all in all",
-            "example": "Insomma, resta un momento importante.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo una ricerca della società Jfc, il turismo dedicato alle famiglie vale oltre quindici miliardi di euro.",
-            "point": "secondo per citare una fonte",
-            "explanation": "Secondo più un nome significa in base a quello che dice qualcuno. Si usa senza preposizione davanti alla persona o alla fonte.",
-            "why_tricky": "L'errore tipico è secondo di me o secondo a me: si dice sempre secondo me, secondo te, secondo la ricerca. Attenzione anche a dedicato, participio usato come aggettivo, che concorda con turismo, maschile singolare."
-          },
-          {
-            "sentence": "Sono regioni che da anni lavorano con le famiglie, dal mare della Puglia alle montagne del Trentino.",
-            "point": "da più espressione di tempo con il presente",
-            "explanation": "Da anni lavorano significa che hanno cominciato anni fa e continuano ancora oggi. L'italiano usa il presente, mentre l'inglese usa have been working.",
-            "why_tricky": "Molti studenti scrivono hanno lavorato da anni, copiando l'inglese. Con da e un'azione ancora in corso il presente è la forma corretta."
-          },
-          {
-            "sentence": "Chi può, parte a giugno o a settembre e spende meno.",
-            "point": "chi come pronome indefinito",
-            "explanation": "Chi qui significa le persone che, chiunque possa. Regge sempre il verbo al singolare, anche se parla di tante persone.",
-            "why_tricky": "Non va confuso con il chi delle domande. Con i mesi la forma normale oggi è a giugno, a settembre; in giugno esiste ma suona più formale."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tirare la cinghia",
-            "meaning": "to tighten one's belt, to spend less than usual",
-            "example": "Quest'anno tiriamo la cinghia e restiamo in Italia."
-          },
-          {
-            "phrase": "fare il pieno",
-            "meaning": "to be packed out, to be fully booked (of a hotel or resort)",
-            "example": "In agosto gli alberghi della costa fanno il pieno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quanto vale il turismo dedicato alle famiglie secondo la ricerca?",
-            "type": "open"
-          },
-          {
-            "q": "Quali regioni indica la ricerca come le più attente alle famiglie?",
-            "type": "open"
-          },
-          {
-            "q": "Perché chi può parte a giugno o a settembre?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è la vacanza estiva ideale per te? Scrivi otto o dieci frasi e spiega dove andresti, con chi e perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-14-nas-acque-bar-ristoranti",
-      "title": "Controlli del Nas sulle acque vendute in bar e ristoranti: \"Irregolarità per il 54%\"",
-      "source": "ANSA",
-      "date": "2026-08-13",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "cibo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-14-nas-acque-bar-ristoranti",
-        "revision": 1,
-        "meta": {
-          "title": "Controlli del Nas sulle acque vendute in bar e ristoranti: \"Irregolarità per il 54%\"",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/controlli-nas-su-acque-vendute-nei-bar-e-ristoranti-irregolarita-per-il-54_1b4869a6-fead-4f0e-9945-a47a179c6ff1.html",
-          "date_published": "2026-08-13",
-          "date_processed": "2026-08-14",
-          "tags": [
-            "salute",
-            "cibo"
-          ],
-          "level": "A2-B1"
-        },
-        "resumen_es": "I carabinieri del Nas hanno controllato l'acqua servita nei bar e nei ristoranti italiani. Il risultato è preoccupante: nel 54 per cento dei casi ci sono irregolarità. I controlli hanno riguardato l'acqua che viene venduta e servita ai clienti. Il Codacons, un'associazione di consumatori, parla di dati gravissimi e chiede controlli a tappeto proprio durante il Ferragosto.\n\nOggi molti locali servono acqua alla spina, cioè filtrata e messa in caraffa. È una scelta comoda ed ecologica, perché riduce le bottiglie di plastica. In generale gli impianti hanno bisogno di pulizia e di manutenzione regolare, altrimenti la qualità dell'acqua peggiora. Ferragosto è il periodo con più turisti e più pasti fuori casa, quindi il tema diventa ancora più delicato. Il consiglio è semplice: se qualcosa non convince il cliente, si può sempre chiedere una bottiglia sigillata.",
-        "summary_en": "The Carabinieri of the Nas have inspected the water served in bars and restaurants across Italy. The result is worrying: in 54 per cent of cases there are irregularities. The checks covered the water that is sold and served to customers. Codacons, a consumer association, calls the figures extremely serious and is calling for blanket checks right over the Ferragosto holiday.\n\nToday many venues serve water on tap, that is, filtered water served in a jug. It is a convenient and environmentally friendly choice, because it cuts down on plastic bottles. In general these systems need cleaning and regular maintenance, otherwise the quality of the water gets worse. Ferragosto is the period with the most tourists and the most meals eaten out, so the issue becomes even more sensitive. The advice is simple: if something does not convince the customer, you can always ask for a sealed bottle.",
-        "vocab": [
-          {
-            "front": "il controllo",
-            "pos": "noun",
-            "back": "the check, the inspection",
-            "example": "La polizia ha fatto un controllo in tre negozi.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'irregolarità",
-            "pos": "noun",
-            "back": "the irregularity, the breach of the rules",
-            "example": "Gli ispettori hanno trovato molte irregolarità.",
-            "tier": "B1"
-          },
-          {
-            "front": "riguardare",
-            "pos": "verb",
-            "back": "to concern, to be about",
-            "example": "Il problema riguarda solo due locali.",
-            "tier": "B1"
-          },
-          {
-            "front": "a tappeto",
-            "pos": "phrase",
-            "back": "across the board, blanket (of checks or searches)",
-            "example": "Hanno fatto controlli a tappeto in tutta la zona.",
-            "tier": "B1"
-          },
-          {
-            "front": "il consumatore",
-            "pos": "noun",
-            "back": "the consumer",
-            "example": "L'associazione difende i diritti dei consumatori.",
-            "tier": "B1"
-          },
-          {
-            "front": "il locale",
-            "pos": "noun",
-            "back": "the venue, the bar or restaurant (a business premises)",
-            "example": "In centro hanno aperto tre locali nuovi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'acqua alla spina",
-            "pos": "phrase",
-            "back": "filtered water served on tap, from a dispenser (not bottled)",
-            "example": "In questo ristorante servono acqua alla spina.",
-            "tier": "B1"
-          },
-          {
-            "front": "la caraffa",
-            "pos": "noun",
-            "back": "the jug, the carafe",
-            "example": "Ci hanno portato una caraffa d'acqua fredda.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'impianto",
-            "pos": "noun",
-            "back": "the system, the installation (here: the water dispenser unit)",
-            "example": "L'impianto dell'acqua va pulito ogni mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "la manutenzione",
-            "pos": "noun",
-            "back": "maintenance, upkeep",
-            "example": "L'ascensore è fermo per manutenzione.",
-            "tier": "B1"
-          },
-          {
-            "front": "peggiorare",
-            "pos": "verb",
-            "back": "to get worse, to worsen",
-            "example": "Il tempo peggiora nel pomeriggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pasto",
-            "pos": "noun",
-            "back": "the meal",
-            "example": "Faccio tre pasti al giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "sigillato",
-            "pos": "adj",
-            "back": "sealed",
-            "example": "Preferisco una bottiglia sigillata.",
-            "tier": "B1"
-          },
-          {
-            "front": "delicato",
-            "pos": "adj",
-            "back": "delicate; (of a subject) sensitive",
-            "example": "È un tema delicato, meglio parlarne con calma.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "I controlli hanno riguardato l'acqua che viene venduta e servita ai clienti.",
-            "point": "Passive with venire instead of essere",
-            "explanation": "In the passive, venire can replace essere in simple tenses: viene venduta means is sold. It presents the action as a process or a habit, while essere venduta can also describe a state. The participle agrees with the subject, so acqua gives venduta and servita.",
-            "why_tricky": "Venire normally means to come, so seeing it as a passive auxiliary feels strange. It also cannot be used in compound tenses: you say è stata venduta, never è venuta venduta."
-          },
-          {
-            "sentence": "In generale gli impianti hanno bisogno di pulizia e di manutenzione regolare, altrimenti la qualità dell'acqua peggiora.",
-            "point": "avere bisogno di, the standard way to say to need",
-            "explanation": "Italian expresses need with a noun phrase: avere bisogno di qualcosa. The di stays before a noun and before an infinitive: ho bisogno di dormire. It drops only with the pronoun ne (ne ho bisogno) and before a che clause (ho bisogno che tu venga).",
-            "why_tricky": "English uses a single verb, to need, so learners invent a verb or drop the di. Note also that the subject is the one who needs, not the thing needed."
-          },
-          {
-            "sentence": "Il consiglio è semplice: se qualcosa non convince il cliente, si può sempre chiedere una bottiglia sigillata.",
-            "point": "si with a modal verb, and the si passivante",
-            "explanation": "Si può chiedere means one can ask, you can ask. The si goes before the modal, not attached to the infinitive. With a direct object this si is really the si passivante, so the verb agrees with that object: si può chiedere una bottiglia, si possono chiedere due bottiglie.",
-            "why_tricky": "Attaching si to the infinitive gives può chiedersi, which means something else, he can ask himself. Learners also confuse this si with the reflexive si of verbs like lavarsi."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere acqua passata",
-            "meaning": "to be water under the bridge, to be over and forgotten",
-            "example": "Quella discussione è acqua passata, non ci penso più."
-          },
-          {
-            "phrase": "affogare in un bicchier d'acqua",
-            "meaning": "to make a mountain out of a molehill, to fall apart over something small",
-            "example": "Non affogare in un bicchier d'acqua, è solo un piccolo ritardo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno controllato i carabinieri del Nas e con quale risultato?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'acqua alla spina è considerata una scelta ecologica?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il periodo di Ferragosto rende il problema più importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Al ristorante preferisci l'acqua in bottiglia o l'acqua alla spina? Scrivi circa 100 parole e spiega i motivi della tua scelta."
       }
     }
   ]
