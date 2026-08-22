@@ -1,7 +1,453 @@
 {
-  "generated_at": "2026-08-21T20:12:37Z",
+  "generated_at": "2026-08-22T08:10:47Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-22-video-brevi-cervello",
+      "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-video-brevi-cervello",
+        "revision": 1,
+        "meta": {
+          "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/21/secondo-la-scienza-guardare-video-brevi-riduce-lattivita-decisionale-del-cervello_6f080099-5a34-4520-8370-ad870bc3be32.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "scienza",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "Un nuovo studio scientifico mostra che guardare molti video brevi, come quelli dei social media, cambia il modo in cui lavora il cervello. Quando passiamo da un video all'altro senza pensare, il cervello riduce l'attività legata alle decisioni: non sceglie più con attenzione, ma reagisce in modo quasi automatico. Gli scienziati hanno osservato questo effetto soprattutto durante lunghe sessioni di scorrimento continuo sullo smartphone.\n\nGli esperti spiegano che questo tipo di consumo veloce di contenuti può abituare il cervello a preferire stimoli brevi e immediati, rendendo più difficile concentrarsi su compiti lunghi o complessi. Per questo motivo, alcuni ricercatori consigliano di alternare i video brevi con attività che richiedono più attenzione, come la lettura. Il dibattito sull'effetto reale dei social sul cervello resta comunque aperto tra gli scienziati.",
+        "summary_en": "A new scientific study shows that watching many short videos, like the ones on social media, changes the way the brain works. When we jump from one video to the next without thinking, the brain reduces the activity linked to decision-making: it no longer chooses carefully but reacts almost automatically. Scientists observed this effect especially during long sessions of continuous scrolling on smartphones.\n\nExperts explain that this fast way of consuming content can train the brain to prefer short, immediate stimuli, making it harder to concentrate on long or complex tasks. For this reason, some researchers recommend alternating short videos with activities that require more attention, such as reading. The debate over the real effect of social media on the brain remains open among scientists.",
+        "vocab": [
+          {
+            "front": "lo studio",
+            "pos": "noun",
+            "back": "study",
+            "example": "Un nuovo studio scientifico spiega il fenomeno.",
+            "tier": "A2"
+          },
+          {
+            "front": "il cervello",
+            "pos": "noun",
+            "back": "brain",
+            "example": "Il cervello reagisce in modo diverso.",
+            "tier": "A2"
+          },
+          {
+            "front": "ridurre",
+            "pos": "verb",
+            "back": "to reduce",
+            "example": "I video brevi riducono l'attenzione.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'attività",
+            "pos": "noun",
+            "back": "activity",
+            "example": "L'attività decisionale cambia.",
+            "tier": "B1"
+          },
+          {
+            "front": "decisionale",
+            "pos": "adj",
+            "back": "decision-making",
+            "example": "L'attività decisionale del cervello si riduce.",
+            "tier": "B1"
+          },
+          {
+            "front": "scorrere",
+            "pos": "verb",
+            "back": "to scroll",
+            "example": "Molte persone scorrono i video senza pensare.",
+            "tier": "B1"
+          },
+          {
+            "front": "automatico/a",
+            "pos": "adj",
+            "back": "automatic",
+            "example": "La reazione diventa quasi automatica.",
+            "tier": "B1"
+          },
+          {
+            "front": "abituare",
+            "pos": "verb",
+            "back": "to accustom, to get used to",
+            "example": "Il cervello si abitua agli stimoli brevi.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo stimolo",
+            "pos": "noun",
+            "back": "stimulus",
+            "example": "Preferisce stimoli brevi e immediati.",
+            "tier": "B1"
+          },
+          {
+            "front": "concentrarsi",
+            "pos": "verb",
+            "back": "to concentrate",
+            "example": "È più difficile concentrarsi su compiti lunghi.",
+            "tier": "A2"
+          },
+          {
+            "front": "alternare",
+            "pos": "verb",
+            "back": "to alternate",
+            "example": "Gli esperti consigliano di alternare le attività.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dibattito",
+            "pos": "noun",
+            "back": "debate",
+            "example": "Il dibattito tra scienziati resta aperto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Quando passiamo da un video all'altro senza pensare, il cervello riduce l'attività legata alle decisioni: non sceglie più con attenzione, ma reagisce in modo quasi automatico.",
+            "point": "\"quando\" + presente indicativo per le abitudini",
+            "explanation": "\"Quando\" con il presente indicativo (\"passiamo\") descrive un'azione abituale o generale, non un evento unico nel tempo.",
+            "why_tricky": "Gli studenti a volte usano il futuro dopo \"quando\" come in inglese, ma in italiano si usa il presente per parlare di abitudini."
+          },
+          {
+            "sentence": "Per questo motivo, alcuni ricercatori consigliano di alternare i video brevi con attività che richiedono più attenzione, come la lettura.",
+            "point": "\"consigliare di\" + infinito",
+            "explanation": "Il verbo \"consigliare\", seguito da un infinito, richiede la preposizione \"di\" (\"consigliano di alternare\"), non \"a\".",
+            "why_tricky": "Gli studenti confondono le preposizioni dopo i verbi di consiglio o richiesta, come \"consigliare di\" e \"invitare a\"."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "perdere il filo",
+            "meaning": "perdere la concentrazione o il senso di qualcosa",
+            "example": "Guardando troppi video brevi, si rischia di perdere il filo dei propri pensieri."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Secondo lo studio, cosa succede al cervello quando guardiamo molti video brevi?",
+            "type": "open"
+          },
+          {
+            "q": "Perché gli esperti consigliano di alternare i video brevi con altre attività?",
+            "type": "open"
+          },
+          {
+            "q": "Quanto tempo passi tu a guardare video brevi ogni giorno? Pensi che influisca sulla tua concentrazione?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo su come i video brevi hanno cambiato le tue abitudini quotidiane, in positivo o in negativo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-apple-music-ia-etichette",
+      "title": "Apple Music come Spotify, potrebbe etichettare i brani generati dall'IA",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "tecnologia",
+        "musica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-apple-music-ia-etichette",
+        "revision": 1,
+        "meta": {
+          "title": "Apple Music come Spotify, potrebbe etichettare i brani generati dall'IA",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/08/21/apple-music-come-spotify-potrebbe-etichettare-i-brani-generati-dallia_33fdf4dc-c479-4248-b5bc-38a013a9b188.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "tecnologia",
+            "musica"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "Apple Music starebbe per introdurre un'etichetta speciale per riconoscere i brani musicali creati con l'intelligenza artificiale, seguendo la strada già intrapresa da Spotify. L'obiettivo è aiutare gli ascoltatori a capire subito se una canzone è stata composta, in tutto o in parte, da un software invece che da un artista umano. La proposta arriva mentre sempre più etichette discografiche discutono su come gestire i contenuti creati con l'IA.\n\nLa musica generata dall'IA è sempre più diffusa nelle piattaforme di streaming e questo preoccupa molti musicisti, che temono una concorrenza sleale rispetto al lavoro creativo umano. Etichettare chiaramente i contenuti artificiali potrebbe aiutare gli utenti a scegliere con più consapevolezza cosa ascoltare e a sostenere gli artisti in carne e ossa. Resta da vedere come reagiranno le altre grandi piattaforme musicali a questa possibile novità.",
+        "summary_en": "Apple Music is reportedly about to introduce a special label to identify music tracks created with artificial intelligence, following the path already taken by Spotify. The goal is to help listeners immediately understand whether a song was composed, in whole or in part, by software rather than by a human artist. The move comes as more and more record labels debate how to handle AI-generated content.\n\nAI-generated music is becoming increasingly common on streaming platforms, and this worries many musicians, who fear unfair competition with human creative work. Clearly labeling artificial content could help users choose what to listen to more consciously and support flesh-and-blood artists. It remains to be seen how other major music platforms will respond to this possible change.",
+        "vocab": [
+          {
+            "front": "la piattaforma",
+            "pos": "noun",
+            "back": "platform",
+            "example": "La piattaforma di streaming cambia le regole.",
+            "tier": "B1"
+          },
+          {
+            "front": "etichettare",
+            "pos": "verb",
+            "back": "to label",
+            "example": "Vuole etichettare i brani creati dall'IA.",
+            "tier": "B1"
+          },
+          {
+            "front": "il brano",
+            "pos": "noun",
+            "back": "(music) track",
+            "example": "Ogni brano avrà un'etichetta chiara.",
+            "tier": "A2"
+          },
+          {
+            "front": "generato/a",
+            "pos": "adj",
+            "back": "generated",
+            "example": "I brani generati dall'IA sono sempre più diffusi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'intelligenza artificiale",
+            "pos": "noun",
+            "back": "artificial intelligence",
+            "example": "La musica creata con l'intelligenza artificiale cresce.",
+            "tier": "A2"
+          },
+          {
+            "front": "il software",
+            "pos": "noun",
+            "back": "software",
+            "example": "La canzone è stata composta da un software.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'artista",
+            "pos": "noun",
+            "back": "artist",
+            "example": "Non tutti i brani vengono da un artista umano.",
+            "tier": "A2"
+          },
+          {
+            "front": "la concorrenza sleale",
+            "pos": "phrase",
+            "back": "unfair competition",
+            "example": "I musicisti temono una concorrenza sleale.",
+            "tier": "B2"
+          },
+          {
+            "front": "lo streaming",
+            "pos": "noun",
+            "back": "streaming",
+            "example": "Le piattaforme di streaming cambiano rapidamente.",
+            "tier": "A2"
+          },
+          {
+            "front": "consapevole",
+            "pos": "adj",
+            "back": "aware",
+            "example": "Gli utenti vogliono scegliere in modo consapevole.",
+            "tier": "B1"
+          },
+          {
+            "front": "la novità",
+            "pos": "noun",
+            "back": "novelty, new development",
+            "example": "Resta da vedere come reagiranno a questa novità.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Apple Music starebbe per introdurre un'etichetta speciale per riconoscere i brani musicali creati con l'intelligenza artificiale, seguendo la strada già intrapresa da Spotify.",
+            "point": "condizionale per informazioni non confermate",
+            "explanation": "\"Starebbe per introdurre\" usa il condizionale per esprimere un'informazione non ancora confermata, tipico del linguaggio giornalistico.",
+            "why_tricky": "Gli studenti spesso traducono letteralmente dall'inglese usando il presente, perdendo la sfumatura di incertezza che il condizionale comunica in italiano."
+          },
+          {
+            "sentence": "La musica generata dall'IA è sempre più diffusa nelle piattaforme di streaming e questo preoccupa molti musicisti, che temono una concorrenza sleale rispetto al lavoro creativo umano.",
+            "point": "pronome relativo \"che\" con verbo al plurale",
+            "explanation": "Il pronome \"che\" si riferisce a \"molti musicisti\" e richiede il verbo al plurale (\"temono\"), concordando con il suo antecedente.",
+            "why_tricky": "Gli studenti a volte fanno concordare \"che\" con il soggetto della frase principale invece che con l'antecedente più vicino."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "seguire la strada di qualcuno",
+            "meaning": "fare la stessa cosa che ha già fatto un'altra persona o azienda",
+            "example": "Apple Music segue la strada già intrapresa da Spotify."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Apple Music vorrebbe etichettare i brani creati con l'intelligenza artificiale?",
+            "type": "open"
+          },
+          {
+            "q": "Quale preoccupazione hanno i musicisti riguardo alla musica generata dall'IA?",
+            "type": "open"
+          },
+          {
+            "q": "Pensi che sia importante sapere se una canzone è stata creata da un'IA? Perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi cosa pensi della musica creata dall'intelligenza artificiale: la ascolteresti allo stesso modo di quella creata da un artista umano?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-22-controesodo-vacanze-italia",
+      "title": "Rientro dalle vacanze, weekend da bollino rosso per il controesodo",
+      "source": "RaiNews",
+      "date": "2026-08-22",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-22-controesodo-vacanze-italia",
+        "revision": 1,
+        "meta": {
+          "title": "Rientro dalle vacanze, weekend da bollino rosso per il controesodo",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/08/rientro-dalle-vacanze-weekend-da-bollino-rosso-per-il-controesodo-previsioni-traffico-9d21aafc-6a9d-4068-9026-54f4ac76b29b.html",
+          "date_published": "2026-08-22",
+          "date_processed": "2026-08-22",
+          "tags": [
+            "viaggi",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "resumen_es": "Per milioni di italiani le vacanze estive stanno per finire e questo weekend segna l'inizio del grande rientro verso casa. Secondo Anas, sulle strade italiane sono previsti milioni di spostamenti, con lunghe code soprattutto sulle autostrade che collegano il mare e la montagna alle grandi città. Il weekend è stato classificato con il bollino rosso, il livello di traffico più intenso dell'estate.\n\nLe autorità consigliano di evitare le ore centrali della giornata e di controllare le previsioni del traffico prima di partire, per ridurre il rischio di code lunghe e incidenti. Per molte famiglie, questo weekend rappresenta anche la fine simbolica delle vacanze e il ritorno alla routine di scuola e lavoro. Ogni anno, il controesodo di fine agosto resta uno dei momenti di traffico più critici della stagione.",
+        "summary_en": "For millions of Italians, summer vacation is coming to an end, and this weekend marks the start of the great return home. According to Anas, Italy's roads are expected to see millions of trips, with long queues especially on the highways connecting the coast and the mountains to major cities. The weekend has been classified with the red alert level, the busiest traffic level of the summer.\n\nAuthorities recommend avoiding the middle hours of the day and checking traffic forecasts before setting off, to reduce the risk of long queues and accidents. For many families, this weekend also represents the symbolic end of the holidays and the return to the routine of school and work. Every year, the late-August return traffic remains one of the most critical moments of the season.",
+        "vocab": [
+          {
+            "front": "il rientro",
+            "pos": "noun",
+            "back": "return (from vacation)",
+            "example": "Il rientro dalle vacanze inizia questo weekend.",
+            "tier": "A2"
+          },
+          {
+            "front": "il controesodo",
+            "pos": "noun",
+            "back": "return traffic wave",
+            "example": "Il controesodo di fine agosto è sempre intenso.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spostamento",
+            "pos": "noun",
+            "back": "movement, trip",
+            "example": "Sono previsti milioni di spostamenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'autostrada",
+            "pos": "noun",
+            "back": "highway",
+            "example": "Le autostrade saranno molto trafficate.",
+            "tier": "A2"
+          },
+          {
+            "front": "il bollino rosso",
+            "pos": "phrase",
+            "back": "red-alert traffic day",
+            "example": "Il weekend è classificato con il bollino rosso.",
+            "tier": "B1"
+          },
+          {
+            "front": "la coda",
+            "pos": "noun",
+            "back": "(traffic) queue",
+            "example": "Si prevedono lunghe code sulle strade.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'incidente",
+            "pos": "noun",
+            "back": "accident",
+            "example": "Bisogna guidare con attenzione per evitare incidenti.",
+            "tier": "A2"
+          },
+          {
+            "front": "le previsioni del traffico",
+            "pos": "phrase",
+            "back": "traffic forecast",
+            "example": "Meglio controllare le previsioni del traffico prima di partire.",
+            "tier": "B1"
+          },
+          {
+            "front": "simbolico/a",
+            "pos": "adj",
+            "back": "symbolic",
+            "example": "Per molte famiglie è la fine simbolica delle vacanze.",
+            "tier": "B1"
+          },
+          {
+            "front": "la routine",
+            "pos": "noun",
+            "back": "routine",
+            "example": "Si torna alla routine di scuola e lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "evitare",
+            "pos": "verb",
+            "back": "to avoid",
+            "example": "Le autorità consigliano di evitare le ore centrali.",
+            "tier": "A2"
+          },
+          {
+            "front": "critico/a",
+            "pos": "adj",
+            "back": "critical",
+            "example": "È uno dei momenti di traffico più critici dell'estate.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo Anas, sulle strade italiane sono previsti milioni di spostamenti, con lunghe code soprattutto sulle autostrade che collegano il mare e la montagna alle grandi città.",
+            "point": "forma passiva con \"essere\" + participio passato",
+            "explanation": "\"Sono previsti\" è una forma passiva (essere + participio) che concorda in genere e numero con il soggetto \"milioni di spostamenti\" (maschile plurale).",
+            "why_tricky": "Gli studenti spesso dimenticano di far concordare il participio passato con il soggetto nella forma passiva."
+          },
+          {
+            "sentence": "Le autorità consigliano di evitare le ore centrali della giornata e di controllare le previsioni del traffico prima di partire, per ridurre il rischio di code lunghe e incidenti.",
+            "point": "\"per\" + infinito per esprimere lo scopo",
+            "explanation": "\"Per ridurre\" esprime lo scopo dell'azione descritta prima; \"per\" + infinito è la forma più comune per esprimere finalità in italiano quando il soggetto è lo stesso.",
+            "why_tricky": "Gli studenti a volte usano \"per che\" + congiuntivo quando, con lo stesso soggetto, basta \"per\" + infinito."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "tornare alla routine",
+            "meaning": "riprendere la vita normale dopo una pausa",
+            "example": "Dopo le vacanze, milioni di italiani tornano alla routine di scuola e lavoro."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché questo weekend è classificato con il bollino rosso?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli danno le autorità per affrontare meglio il rientro dalle vacanze?",
+            "type": "open"
+          },
+          {
+            "q": "Anche nel tuo paese esiste un momento dell'anno con molto traffico per i rientri? Quando succede?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi un breve testo su come organizzeresti tu il rientro da un lungo viaggio per evitare lo stress del traffico."
+      }
+    },
     {
       "pack_id": "feed-2026-08-21-libellula-biodiversita-concorso",
       "title": "Una libellula curiosa vince tra le foto che celebrano biodiversità e ricerca",
@@ -6090,513 +6536,6 @@
           }
         ],
         "opinion_prompt": "Al ristorante preferisci l'acqua in bottiglia o l'acqua alla spina? Scrivi circa 100 parole e spiega i motivi della tua scelta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-14-bar-cimitero-recoleta",
-      "title": "Un bar nello storico cimitero dove riposa anche Evita, polemiche in Argentina",
-      "source": "ANSA",
-      "date": "2026-08-13",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "Argentina"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-14-bar-cimitero-recoleta",
-        "revision": 1,
-        "meta": {
-          "title": "Un bar nello storico cimitero dove riposa anche Evita, polemiche in Argentina",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/13/un-bar-nello-storico-cimitero-dove-riposa-anche-evita-polemiche-in-argentina_d83927f8-3b3d-452e-8d12-a9970dbe5614.html",
-          "date_published": "2026-08-13",
-          "date_processed": "2026-08-14",
-          "tags": [
-            "cultura",
-            "Argentina"
-          ],
-          "level": "A2-B1"
-        },
-        "resumen_es": "A Buenos Aires si discute molto di un progetto: aprire un bar dentro il cimitero della Recoleta, dove riposa anche Evita Perón. La notizia ha creato subito delle polemiche in Argentina. C'è chi pensa che un locale non sia adatto a un luogo di silenzio e di memoria. In casi simili, altri invece rispondono che un servizio del genere può aiutare i visitatori.\n\nLa Recoleta non è un cimitero come gli altri. È quasi un piccolo quartiere di marmo, con viali stretti e tombe monumentali, dove riposano molti nomi illustri della storia argentina. Ogni anno arrivano turisti da tutto il mondo per visitarlo. La discussione tocca una domanda comune a tante città: fino a che punto un monumento può diventare un'attrazione turistica? Per il momento il progetto resta al centro della discussione.",
-        "summary_en": "In Buenos Aires there is a lot of debate about one project: opening a cafe inside the Recoleta cemetery, where Evita Perón is also buried. The news immediately created controversy in Argentina. Some people think that a cafe is not right for a place of silence and remembrance. In similar cases, others reply that a service like this can help visitors.\n\nRecoleta is not like other cemeteries. It is almost a small district made of marble, with narrow lanes and monumental tombs, where many famous names from Argentine history rest. Every year tourists come from all over the world to visit it. The discussion touches on a question common to many cities: how far can a monument be turned into a tourist attraction? For now the project remains at the centre of the debate.",
-        "vocab": [
-          {
-            "front": "il cimitero",
-            "pos": "noun",
-            "back": "the cemetery",
-            "example": "Il cimitero si trova fuori dal centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "riposare",
-            "pos": "verb",
-            "back": "to rest; to lie buried (of the dead)",
-            "example": "Qui riposano i suoi genitori.",
-            "tier": "B1"
-          },
-          {
-            "front": "la polemica",
-            "pos": "noun",
-            "back": "the controversy, the row",
-            "example": "Le sue parole hanno creato una forte polemica.",
-            "tier": "B1"
-          },
-          {
-            "front": "adatto a",
-            "pos": "adj",
-            "back": "suitable for",
-            "example": "Questo film non è adatto ai bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "la memoria",
-            "pos": "noun",
-            "back": "memory, remembrance",
-            "example": "Il monumento conserva la memoria delle vittime.",
-            "tier": "B1"
-          },
-          {
-            "front": "del genere",
-            "pos": "phrase",
-            "back": "of this kind, like that",
-            "example": "Non ho mai visto una cosa del genere.",
-            "tier": "B1"
-          },
-          {
-            "front": "il visitatore",
-            "pos": "noun",
-            "back": "the visitor",
-            "example": "I visitatori entrano dal cancello principale.",
-            "tier": "B1"
-          },
-          {
-            "front": "il marmo",
-            "pos": "noun",
-            "back": "marble",
-            "example": "Il pavimento della chiesa è di marmo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il viale",
-            "pos": "noun",
-            "back": "the avenue; the wide walkway or path",
-            "example": "Il cimitero è pieno di viali stretti tra le tombe.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tomba",
-            "pos": "noun",
-            "back": "the tomb, the grave",
-            "example": "Hanno messo dei fiori sulla tomba.",
-            "tier": "A2"
-          },
-          {
-            "front": "illustre",
-            "pos": "adj",
-            "back": "illustrious, famous and respected",
-            "example": "È un nome illustre della medicina italiana.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'attrazione turistica",
-            "pos": "phrase",
-            "back": "the tourist attraction",
-            "example": "La torre è la principale attrazione turistica della zona.",
-            "tier": "B1"
-          },
-          {
-            "front": "fino a che punto",
-            "pos": "phrase",
-            "back": "how far, to what extent",
-            "example": "Fino a che punto possiamo fidarci di lui?",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "C'è chi pensa che un locale non sia adatto a un luogo di silenzio e di memoria.",
-            "point": "Congiuntivo after verbs of opinion",
-            "explanation": "Pensare che, credere che and sembrare che are followed by the congiuntivo: pensa che sia, not pensa che è. The congiuntivo presents the idea as an opinion rather than as a fact. Note the useful opener c'è chi, there are people who, which takes the indicative itself: c'è chi pensa.",
-            "why_tricky": "In everyday speech many Italians use the indicativo here, so learners hear both. In writing, and in exams, the congiuntivo is what is expected."
-          },
-          {
-            "sentence": "Ogni anno arrivano turisti da tutto il mondo per visitarlo.",
-            "point": "Verb before subject with verbs of arriving",
-            "explanation": "With verbs like arrivare, mancare, esistere and succedere, Italian often puts the subject after the verb when the subject is new information: arrivano turisti. The verb still agrees with it, so arrivano is plural. The final lo in visitarlo refers back to il cimitero.",
-            "why_tricky": "The fixed subject-verb order of English makes this inversion feel wrong, and learners often leave the verb singular because nothing precedes it."
-          },
-          {
-            "sentence": "In casi simili, altri invece rispondono che un servizio del genere può aiutare i visitatori.",
-            "point": "invece as a contrast marker inside the sentence",
-            "explanation": "Invece means instead or on the other hand. It sits comfortably in the middle of the clause, right after the subject, to mark a contrast with what was just said. English instead cannot usually stand there, though however can.",
-            "why_tricky": "Learners confuse it with invece di, instead of, which is followed by a noun, a pronoun or an infinitive: invece del caffè, invece di me, invece di parlare."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere sulla bocca di tutti",
-            "meaning": "to be the talk of the town",
-            "example": "Da una settimana quel progetto è sulla bocca di tutti."
-          },
-          {
-            "phrase": "riposare in pace",
-            "meaning": "to rest in peace",
-            "example": "Sulla lapide c'è scritto soltanto: riposa in pace."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il progetto del bar ha creato polemiche a Buenos Aires?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dicono invece le persone meno critiche verso il progetto?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa rende speciale il cimitero della Recoleta, secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te un cimitero storico può diventare un'attrazione turistica con bar e negozi? Scrivi circa 100 parole con la tua opinione e un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-14-amianto-concerto-jovanotti",
-      "title": "Amianto nell'area del concerto, annullato lo show di Jovanotti a Barletta",
-      "source": "ANSA",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "ambiente"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-14-amianto-concerto-jovanotti",
-        "revision": 1,
-        "meta": {
-          "title": "Amianto nell'area del concerto, annullato lo show di Jovanotti a Barletta",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/12/amianto-nellarea-del-concerto-annullato-lo-show-di-jovanotti-a-barletta_fdbb49c8-795a-43b4-9f32-924342309807.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-14",
-          "tags": [
-            "musica",
-            "ambiente"
-          ],
-          "level": "A2-B1"
-        },
-        "resumen_es": "Il concerto di Jovanotti a Barletta, in Puglia, è stato annullato per motivi di sicurezza. Nell'area dello spettacolo è stato trovato dell'amianto, un materiale pericoloso per la salute. Gli organizzatori adesso cercano una nuova location a Bari per il 19 settembre, così il pubblico non perde del tutto il concerto.\n\nL'amianto è stato usato per molti anni nell'edilizia, perché costava poco e resisteva bene al calore. Poi si è scoperto che le sue fibre, se entrano nei polmoni, possono causare malattie molto gravi. Per questo in Italia è vietato dal 1992, ma si trova ancora in vecchi capannoni e sui tetti delle case più vecchie. Non si sa ancora che cosa succederà a chi ha già comprato il biglietto. Per i fan è una delusione, però in casi come questo la prudenza viene prima di tutto.",
-        "summary_en": "The Jovanotti concert in Barletta, in Puglia, has been cancelled for safety reasons. Asbestos, a material that is dangerous to health, was found in the area of the show. The organisers are now looking for a new venue in Bari for 19 September, so that the audience does not miss the concert altogether.\n\nAsbestos was used for many years in building work, because it was cheap and stood up well to heat. Then it was discovered that its fibres, if they get into the lungs, can cause very serious illnesses. For this reason it has been banned in Italy since 1992, but it is still found in old industrial sheds and on the roofs of older houses. It is not yet known what will happen to people who have already bought a ticket. For the fans it is a disappointment, but in cases like this caution comes first.",
-        "vocab": [
-          {
-            "front": "annullare",
-            "pos": "verb",
-            "back": "to cancel, to call off",
-            "example": "Hanno annullato il volo per il maltempo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'amianto",
-            "pos": "noun",
-            "back": "asbestos",
-            "example": "Nel vecchio tetto c'era ancora amianto.",
-            "tier": "B1"
-          },
-          {
-            "front": "pericoloso",
-            "pos": "adj",
-            "back": "dangerous",
-            "example": "È pericoloso guidare con questa nebbia.",
-            "tier": "A2"
-          },
-          {
-            "front": "per motivi di sicurezza",
-            "pos": "phrase",
-            "back": "for safety reasons",
-            "example": "La strada è chiusa per motivi di sicurezza.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'edilizia",
-            "pos": "noun",
-            "back": "the building industry, construction",
-            "example": "Mio zio lavora nell'edilizia da trent'anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "resistere a",
-            "pos": "verb",
-            "back": "to withstand, to stand up to",
-            "example": "Questo materiale resiste al fuoco.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fibra",
-            "pos": "noun",
-            "back": "the fibre",
-            "example": "Le fibre sono piccolissime e non si vedono.",
-            "tier": "B1"
-          },
-          {
-            "front": "il polmone",
-            "pos": "noun",
-            "back": "the lung",
-            "example": "Il fumo fa male ai polmoni.",
-            "tier": "B1"
-          },
-          {
-            "front": "vietato",
-            "pos": "adj",
-            "back": "banned, forbidden",
-            "example": "Qui è vietato fumare.",
-            "tier": "A2"
-          },
-          {
-            "front": "il capannone",
-            "pos": "noun",
-            "back": "the warehouse, the industrial shed",
-            "example": "Hanno comprato un capannone in periferia.",
-            "tier": "B1"
-          },
-          {
-            "front": "la delusione",
-            "pos": "noun",
-            "back": "the disappointment",
-            "example": "Che delusione, speravo in un finale diverso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la prudenza",
-            "pos": "noun",
-            "back": "caution, care",
-            "example": "Con la pioggia serve un po' di prudenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "del tutto",
-            "pos": "phrase",
-            "back": "completely, entirely",
-            "example": "Non sono del tutto d'accordo con te.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nell'area dello spettacolo è stato trovato dell'amianto, un materiale pericoloso per la salute.",
-            "point": "Passato prossimo passive plus the partitive del",
-            "explanation": "È stato trovato is a passive in the passato prossimo: essere conjugated, plus stato, plus the past participle. Both participles agree with the subject, so a feminine subject gives è stata trovata una sostanza pericolosa and a plural one gives sono state trovate tracce di amianto. Dell'amianto is a partitive: some asbestos, an unspecified quantity.",
-            "why_tricky": "The double auxiliary è stato feels heavy and learners forget the agreement. The partitive del also disappears in English, so it is easy to leave out."
-          },
-          {
-            "sentence": "Poi si è scoperto che le sue fibre, se entrano nei polmoni, possono causare malattie molto gravi.",
-            "point": "Impersonal si with essere in compound tenses",
-            "explanation": "Si è scoperto means it was discovered, people discovered. With the impersonal si the compound tense always takes essere as auxiliary, even when the verb normally takes avere, as scoprire does.",
-            "why_tricky": "Learners write si ha scoperto by analogy with ho scoperto. The auxiliary rule is mechanical, but watch the participle: with verbs that normally take avere it stays masculine singular (si è mangiato bene), while with essere verbs it goes masculine plural (si è andati a casa)."
-          },
-          {
-            "sentence": "Per questo in Italia è vietato dal 1992, ma si trova ancora in vecchi capannoni e sui tetti delle case più vecchie.",
-            "point": "Present tense with da to say since when",
-            "explanation": "Italian uses the present tense with da for a situation that started in the past and is still true: è vietato dal 1992, it has been banned since 1992. Da plus a date means since, da plus a length of time means for.",
-            "why_tricky": "The choice is between è vietato dal 1992, the ban is still in force, and è stato vietato nel 1992, the act of banning as a single event in that year. English uses the present perfect for both, so learners reach for the compound tense even when Italian wants the plain present."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare in fumo",
-            "meaning": "to go up in smoke, to come to nothing",
-            "example": "Con la pioggia il nostro piano è andato in fumo."
-          },
-          {
-            "phrase": "meglio prevenire che curare",
-            "meaning": "prevention is better than cure",
-            "example": "Fai il controllo adesso, meglio prevenire che curare."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il concerto di Jovanotti a Barletta è stato annullato?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa vogliono fare adesso gli organizzatori?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'amianto è considerato pericoloso per la salute?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Un organizzatore deve annullare un evento appena c'è un dubbio sulla sicurezza, anche se il pubblico ha già comprato il biglietto? Scrivi circa 100 parole con la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-13-mappa-solletico",
-      "title": "Pronta la mappa corporea del solletico, condivisa tra le culture",
-      "source": "ANSA",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "corpo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-13-mappa-solletico",
-        "revision": 1,
-        "meta": {
-          "title": "Pronta la mappa corporea del solletico, condivisa tra le culture",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/12/pronta-la-mappa-corporea-del-solletico-condivisa-tra-le-culture-_83348923-5ca8-4515-b2ba-c24676e334de.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-13",
-          "tags": [
-            "scienza",
-            "corpo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Researchers have drawn up a body map of tickling. The most sensitive areas are the armpits, the soles of the feet, the belly and the neck. The interesting part is that this map is very similar in different cultures: people who live far apart and speak different languages laugh when they are touched in more or less the same places.\n\nTickling, though, is not just a game. It is probably an ancient defence mechanism: the most sensitive parts of the body are also the most fragile ones, and the reaction serves to protect them. It is also a social signal, because we almost never manage to tickle ourselves. Studying it helps us to understand how the brain distinguishes our own touch from someone else's.",
-        "resumen_es": "I ricercatori hanno preparato una mappa del corpo dedicata al solletico. Le aree più sensibili sono le ascelle, le piante dei piedi, la pancia e il collo. La cosa interessante è che questa mappa è molto simile in culture diverse: persone che vivono lontano e parlano lingue diverse ridono quando le tocchi più o meno negli stessi punti.\n\nIl solletico, però, non è solo un gioco. Probabilmente è un antico meccanismo di difesa: le parti più sensibili del corpo sono anche le più fragili e la reazione serve a proteggerle. È anche un segnale sociale, perché non riusciamo quasi mai a farci il solletico da soli. Studiarlo aiuta a capire come il cervello distingue il nostro tocco da quello di un altro.",
-        "vocab": [
-          {
-            "front": "il solletico",
-            "pos": "noun",
-            "back": "tickling",
-            "example": "Mio fratello soffre molto il solletico.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare il solletico a qualcuno",
-            "pos": "phrase",
-            "back": "to tickle someone",
-            "example": "Non farmi il solletico, per favore.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ascella",
-            "pos": "noun",
-            "back": "armpit",
-            "example": "Ha un piccolo taglio sotto l'ascella.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pianta del piede",
-            "pos": "noun",
-            "back": "sole of the foot",
-            "example": "La pianta del piede mi fa male dopo la corsa.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pancia",
-            "pos": "noun",
-            "back": "belly, stomach",
-            "example": "Dormo sempre sulla pancia.",
-            "tier": "A2"
-          },
-          {
-            "front": "il collo",
-            "pos": "noun",
-            "back": "neck",
-            "example": "Ho freddo al collo, mi metto la sciarpa.",
-            "tier": "A2"
-          },
-          {
-            "front": "sensibile",
-            "pos": "adj",
-            "back": "sensitive",
-            "example": "Ho la pelle molto sensibile al sole.",
-            "tier": "A2"
-          },
-          {
-            "front": "fragile",
-            "pos": "adj",
-            "back": "fragile, delicate",
-            "example": "Attenzione, il pacco è fragile.",
-            "tier": "A2"
-          },
-          {
-            "front": "il meccanismo di difesa",
-            "pos": "noun",
-            "back": "defence mechanism",
-            "example": "La paura è un meccanismo di difesa naturale.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cervello",
-            "pos": "noun",
-            "back": "brain",
-            "example": "Il cervello lavora anche mentre dormiamo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tocco",
-            "pos": "noun",
-            "back": "touch",
-            "example": "Ha riconosciuto il tocco della madre.",
-            "tier": "B1"
-          },
-          {
-            "front": "riuscire a",
-            "pos": "verb",
-            "back": "to manage to, to be able to",
-            "example": "Non riesco a dormire con questo caldo.",
-            "tier": "A2"
-          },
-          {
-            "front": "distinguere",
-            "pos": "verb",
-            "back": "to distinguish, to tell apart",
-            "example": "Non riesco a distinguere i due gemelli.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La cosa interessante è che questa mappa è molto simile in culture diverse: persone che vivono lontano e parlano lingue diverse ridono quando le tocchi più o meno negli stessi punti.",
-            "point": "the impersonal tu, and the position of diverso",
-            "explanation": "Quando le tocchi uses the second person singular to mean people in general, exactly like English when you touch them. Note also that diverso after the noun means different from one another, while before the noun it usually means several.",
-            "why_tricky": "Learners look for si tocca and miss the very common impersonal tu; and they assume adjective position never changes the meaning."
-          },
-          {
-            "sentence": "È anche un segnale sociale, perché non riusciamo quasi mai a farci il solletico da soli.",
-            "point": "riuscire a plus infinitive, with a pronoun attached to the infinitive",
-            "explanation": "Riuscire always takes a before the infinitive. In farci, the pronoun ci is attached to the end of the infinitive, which loses its final e. Da soli means on our own, by ourselves.",
-            "why_tricky": "Learners often use potere where Italian needs riuscire a, and attaching the pronoun to the infinitive is the safe option here, even though colloquial Italian does allow climbing in other cases (non lo riesco a fare)."
-          },
-          {
-            "sentence": "Studiarlo aiuta a capire come il cervello distingue il nostro tocco da quello di un altro.",
-            "point": "infinitive as subject, and quello replacing a repeated noun",
-            "explanation": "Studiarlo, an infinitive with an attached object pronoun, works as the subject of aiuta, like English studying it. Quello di un altro avoids repeating tocco: someone else's.",
-            "why_tricky": "English uses an -ing form as subject, so learners write Studiando lo aiuta; and they tend to repeat the noun instead of using quello."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "soffrire il solletico",
-            "meaning": "to be ticklish",
-            "example": "Non posso stare fermo, soffro il solletico."
-          },
-          {
-            "phrase": "morire dal ridere",
-            "meaning": "to die laughing, to find something hilarious",
-            "example": "Quando l'ha visto cadere è morto dal ridere."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quali sono le parti del corpo più sensibili al solletico secondo il testo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il solletico potrebbe essere un meccanismo di difesa?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede quando proviamo a farci il solletico da soli?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Tu soffri il solletico? Scrivi circa 100 parole su una situazione in cui hai riso senza volerlo e spiega come ti sei sentito."
       }
     }
   ]
