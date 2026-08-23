@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-23T15:40:10Z",
+  "generated_at": "2026-08-23T20:13:17Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-23-sinner-salta-us-open",
+      "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "tennis"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-sinner-salta-us-open",
+        "revision": 1,
+        "meta": {
+          "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/2026/08/21/sinner-rinuncia-agli-us-open_67bbadec-06f1-4e64-8968-c1d3cdcd2728.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "sport",
+            "tennis"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Jannik Sinner will not play this year's US Open. The Italian tennis player has announced that he is withdrawing from the tournament because of a knee problem. I am disappointed, but I need time, he explained. Sinner also said that he could not wait to go back to New York, where he had played very well in the past. The news came a few days before the start of the tournament and surprised his fans.\n\nFor an athlete, stopping is never an easy decision. Many players prefer to compete even when they are in pain, but then they risk more serious injuries. Resting at the right moment can make a career several years longer. Sinner will now spend a few weeks recovering and working with his medical staff. His fans hope to see him back on court soon, perhaps already in the autumn tournaments.",
+        "resumen_es": "Jannik Sinner non giocherà gli Us Open di quest'anno. Il tennista italiano ha annunciato il suo ritiro dal torneo a causa di un problema al ginocchio. Sono deluso, ma ho bisogno di tempo, ha spiegato. Sinner ha detto anche che non vedeva l'ora di tornare a New York, dove aveva giocato molto bene in passato. La notizia è arrivata pochi giorni prima dell'inizio del torneo e ha sorpreso i suoi tifosi.\n\nPer uno sportivo, fermarsi non è mai una decisione facile. Molti atleti preferiscono giocare anche quando hanno dolore, ma poi rischiano infortuni più gravi. Riposare al momento giusto può allungare una carriera di diversi anni. Ora Sinner passerà alcune settimane a curarsi e a lavorare con il suo staff medico. I tifosi sperano di rivederlo presto in campo, magari già nei tornei dell'autunno.",
+        "vocab": [
+          {
+            "front": "saltare (un torneo)",
+            "pos": "verb",
+            "back": "to skip, to miss (a tournament)",
+            "example": "Ha saltato la partita per un problema alla schiena.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ritiro",
+            "pos": "noun",
+            "back": "withdrawal, pulling out",
+            "example": "Il suo ritiro ha sorpreso tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "deluso",
+            "pos": "adj",
+            "back": "disappointed",
+            "example": "Sono deluso dal risultato di ieri.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ginocchio",
+            "pos": "noun",
+            "back": "knee",
+            "example": "Mi fa male il ginocchio destro.",
+            "tier": "A2"
+          },
+          {
+            "front": "non vedere l'ora di",
+            "pos": "phrase",
+            "back": "to look forward to, to not be able to wait",
+            "example": "Non vedo l'ora di partire per il mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi hanno riempito lo stadio.",
+            "tier": "A2"
+          },
+          {
+            "front": "fermarsi",
+            "pos": "verb",
+            "back": "to stop, to take a break",
+            "example": "Dopo due ore ci siamo fermati a mangiare.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'infortunio",
+            "pos": "noun",
+            "back": "injury (sports or work)",
+            "example": "Ha avuto un infortunio serio l'anno scorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "riposare",
+            "pos": "verb",
+            "back": "to rest",
+            "example": "Devi riposare almeno una settimana.",
+            "tier": "A2"
+          },
+          {
+            "front": "allungare",
+            "pos": "verb",
+            "back": "to lengthen, to extend",
+            "example": "Vogliono allungare le vacanze di due giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "curarsi",
+            "pos": "verb",
+            "back": "to get treatment, to look after oneself",
+            "example": "Deve curarsi bene prima di tornare al lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "in campo",
+            "pos": "phrase",
+            "back": "on the pitch, on court",
+            "example": "Il capitano è entrato in campo nel secondo tempo.",
+            "tier": "A2"
+          },
+          {
+            "front": "magari",
+            "pos": "adv",
+            "back": "maybe, perhaps (hopeful)",
+            "example": "Magari ci vediamo domani sera.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sinner ha detto anche che non vedeva l'ora di tornare a New York, dove aveva giocato molto bene in passato.",
+            "point": "trapassato prossimo for an earlier past",
+            "explanation": "Aveva giocato is the trapassato prossimo, built with the imperfect of avere plus the past participle. It marks an action that happened before another past action, here before he spoke.",
+            "why_tricky": "English often uses a simple past (where he played well) even when the sequence is clear, so learners write dove ha giocato and lose the layering of time."
+          },
+          {
+            "sentence": "Per uno sportivo, fermarsi non è mai una decisione facile.",
+            "point": "non ... mai around the verb",
+            "explanation": "Italian double negation puts non before the verb and mai after it. Both parts are required when the negative word follows the verb, and together they mean never.",
+            "why_tricky": "Learners drop the non, copying English never is easy, and produce fermarsi è mai facile, which is not grammatical Italian."
+          },
+          {
+            "sentence": "Molti atleti preferiscono giocare anche quando hanno dolore, ma poi rischiano infortuni più gravi.",
+            "point": "preferire plus a bare infinitive",
+            "explanation": "Preferire takes a direct infinitive with no preposition: preferiscono giocare. Also note preferire is an isc verb, so the stem gains isc in most present forms.",
+            "why_tricky": "Learners insert di or a by analogy with cercare di or riuscire a, and often forget the isc, writing preferono."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non vedere l'ora",
+            "meaning": "to be really looking forward to something",
+            "example": "Non vedo l'ora di rivedere i miei amici."
+          },
+          {
+            "phrase": "scendere in campo",
+            "meaning": "to take the field, and by extension to get personally involved",
+            "example": "Il sindaco è sceso in campo per difendere il progetto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Sinner ha deciso di non giocare gli Us Open?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa rischiano gli atleti che giocano quando hanno dolore?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, che cosa farà Sinner nelle prossime settimane?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 120 parole: secondo te, è giusto che uno sportivo si fermi quando sta male, anche se delude i tifosi? Spiega la tua opinione con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-codice-strada-over-85",
+      "title": "Nuovo Codice della strada: zero divieti per gli over 85",
+      "source": "Rai News",
+      "date": "2026-08-23",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "trasporti"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-codice-strada-over-85",
+        "revision": 1,
+        "meta": {
+          "title": "Nuovo Codice della strada: zero divieti per gli over 85",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/mit-nuovo-codice-della-strada-zero-divieti-per-gli-over-85-e6f6fc2a-8b30-4c5b-821b-b1dda1698aa3.html",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "società",
+            "trasporti"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The new Italian highway code will not set an age limit for driving. People over eighty five will still be able to keep their licence. In exchange, however, medical checks for older drivers will become stricter and more frequent. The ministry wants to check eyesight, reflexes and general health, instead of deciding on the basis of age alone. The rule applies to everyone in the same way.\n\nThe text also includes tougher rules on phone use. Fines will go up for anyone driving with a mobile in their hand and, for the first time, pedestrians who cross the road while looking at a screen can also be fined. The aim is to reduce accidents caused by distraction, which are very numerous every year. Many drivers approve of the approach, while others think these rules will be hard to enforce in cities.",
+        "resumen_es": "Il nuovo Codice della strada italiano non metterà limiti di età per guidare. Anche le persone con più di ottantacinque anni potranno tenere la patente. In cambio, però, i controlli medici per gli anziani diventeranno più severi e più frequenti. Il ministero vuole verificare la vista, i riflessi e lo stato di salute generale, invece di decidere solo in base all'età.\n\nIl testo prevede anche norme più dure sull'uso del telefono. Le multe aumenteranno per chi guida con il cellulare in mano e, per la prima volta, anche i pedoni che attraversano la strada guardando lo schermo potranno essere sanzionati. L'obiettivo è ridurre gli incidenti causati dalla distrazione, che ogni anno sono moltissimi. Molti automobilisti approvano la linea, altri pensano che sarà difficile far rispettare queste regole nelle città.",
+        "vocab": [
+          {
+            "front": "il divieto",
+            "pos": "noun",
+            "back": "ban, prohibition",
+            "example": "C'è il divieto di sosta davanti alla scuola.",
+            "tier": "B1"
+          },
+          {
+            "front": "guidare",
+            "pos": "verb",
+            "back": "to drive",
+            "example": "Non mi piace guidare di notte.",
+            "tier": "A2"
+          },
+          {
+            "front": "la patente",
+            "pos": "noun",
+            "back": "driving licence",
+            "example": "Ho preso la patente a diciannove anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "il controllo medico",
+            "pos": "phrase",
+            "back": "medical check",
+            "example": "Ogni anno faccio un controllo medico completo.",
+            "tier": "A2"
+          },
+          {
+            "front": "severo",
+            "pos": "adj",
+            "back": "strict, severe",
+            "example": "La professoressa era molto severa con noi.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vista",
+            "pos": "noun",
+            "back": "eyesight",
+            "example": "Con gli occhiali la vista migliora subito.",
+            "tier": "A2"
+          },
+          {
+            "front": "in base a",
+            "pos": "phrase",
+            "back": "on the basis of",
+            "example": "Decidiamo in base ai risultati del test.",
+            "tier": "B1"
+          },
+          {
+            "front": "la multa",
+            "pos": "noun",
+            "back": "fine, penalty",
+            "example": "Ho preso una multa per eccesso di velocità.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pedone",
+            "pos": "noun",
+            "back": "pedestrian",
+            "example": "Il pedone ha la precedenza sulle strisce.",
+            "tier": "B1"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross (a street)",
+            "example": "Attraversa sempre con il semaforo verde.",
+            "tier": "A2"
+          },
+          {
+            "front": "la distrazione",
+            "pos": "noun",
+            "back": "distraction, lapse of attention",
+            "example": "Un attimo di distrazione e ho perso l'uscita.",
+            "tier": "B1"
+          },
+          {
+            "front": "far rispettare",
+            "pos": "phrase",
+            "back": "to enforce (a rule)",
+            "example": "Non è facile far rispettare l'orario a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'automobilista",
+            "pos": "noun",
+            "back": "motorist, driver",
+            "example": "Gli automobilisti protestano per i lavori in corso.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Anche le persone con più di ottantacinque anni potranno tenere la patente.",
+            "point": "futuro semplice of potere",
+            "explanation": "Potranno is the future of potere. Verbs like potere, dovere and volere drop the vowel of the infinitive ending before the future endings, giving potr, dovr and vorr as stems.",
+            "why_tricky": "The regular pattern would suggest poteranno, and the double r in potranno is easy to lose in writing and in speech."
+          },
+          {
+            "sentence": "Le multe aumenteranno per chi guida con il cellulare in mano e, per la prima volta, anche i pedoni che attraversano la strada guardando lo schermo potranno essere sanzionati.",
+            "point": "gerundio for a simultaneous action",
+            "explanation": "Guardando is the gerund and describes something happening at the same time as the main verb attraversano. Italian uses the gerund alone here, with no preposition, where English uses while plus an ing form.",
+            "why_tricky": "Learners add mentre or a preposition and write mentre guardando, which doubles the meaning and is not correct."
+          },
+          {
+            "sentence": "Molti automobilisti approvano la linea, altri pensano che sarà difficile far rispettare queste regole nelle città.",
+            "point": "far + infinito as a causative",
+            "explanation": "Fare plus an infinitive means to make or have something happen. Far rispettare le regole means to make the rules be respected, that is, to enforce them. Fare drops the final e before a following infinitive.",
+            "why_tricky": "There is no single verb for enforce in everyday Italian, so learners try rinforzare, which actually means to reinforce physically, and miss the causative structure."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in base a",
+            "meaning": "according to, on the basis of a given criterion",
+            "example": "Lo stipendio cambia in base agli anni di esperienza."
+          },
+          {
+            "phrase": "un attimo di distrazione",
+            "meaning": "a split second of inattention, usually with consequences",
+            "example": "Un attimo di distrazione e il caffè è finito per terra."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa cambia per le persone con più di ottantacinque anni?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il ministero preferisce i controlli medici ai limiti di età?",
+            "type": "open"
+          },
+          {
+            "q": "Quali nuove regole riguardano l'uso del telefono?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 120 parole: secondo te è giusto multare anche i pedoni che guardano il telefono mentre attraversano? Spiega perché sì o perché no."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-profumi-fiori-estinti",
+      "title": "Profumi, nuovi ingredienti hi-tech per le fragranze floreali",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-profumi-fiori-estinti",
+        "revision": 1,
+        "meta": {
+          "title": "Profumi, nuovi ingredienti hi-tech per le fragranze floreali",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/08/21/profumi-nuovi-ingredienti-hi-tech-per-le-fragranze-floreali_1c451287-0881-48bb-b348-c8005b15f35b.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "scienza",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Technology is changing the world of perfume. Thanks to new laboratory techniques, researchers are able to reconstruct the scent of flowers that no longer exist. In practice they study the molecules preserved in samples and then reproduce them. In this way perfumers have a far richer palette of smells than before, with floral notes that nobody has been able to smell for decades.\n\nThese hi-tech ingredients have another advantage as well: they make it possible to use fewer rare plants and therefore to protect the environment. Creating a perfume remains an artistic job, though, made of trials, mistakes and personal memory. The nose, as the person who creates fragrances is called, has to imagine an emotion and then translate it into a smell. Science offers new tools, but the final choice is always a human one.",
+        "resumen_es": "La tecnologia sta cambiando il mondo dei profumi. Grazie a nuove tecniche di laboratorio, i ricercatori riescono a ricostruire il profumo di fiori che non esistono più. In pratica studiano le molecole conservate nei campioni e poi le riproducono. Così i profumieri hanno a disposizione una tavolozza di odori molto più ricca di prima, con note floreali che nessuno poteva più annusare da decenni.\n\nQuesti ingredienti hi-tech hanno anche un altro vantaggio: permettono di usare meno piante rare e quindi di proteggere l'ambiente. Creare un profumo resta però un lavoro artistico, fatto di prove, errori e memoria personale. Il naso, come si chiama chi crea le fragranze, deve immaginare un'emozione e poi tradurla in odore. La scienza offre nuovi strumenti, ma la scelta finale resta sempre umana.",
+        "vocab": [
+          {
+            "front": "la fragranza",
+            "pos": "noun",
+            "back": "fragrance",
+            "example": "Questa fragranza mi ricorda l'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "riuscire a",
+            "pos": "verb",
+            "back": "to manage to, to succeed in",
+            "example": "Non riesco a ricordare il suo nome.",
+            "tier": "A2"
+          },
+          {
+            "front": "ricostruire",
+            "pos": "verb",
+            "back": "to reconstruct, to rebuild",
+            "example": "Hanno ricostruito il ponte in sei mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il campione",
+            "pos": "noun",
+            "back": "sample (also: champion)",
+            "example": "Il laboratorio ha analizzato dieci campioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere a disposizione",
+            "pos": "phrase",
+            "back": "to have available",
+            "example": "Abbiamo a disposizione solo due ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tavolozza",
+            "pos": "noun",
+            "back": "palette",
+            "example": "Il pittore pulisce la tavolozza dopo ogni quadro.",
+            "tier": "B1"
+          },
+          {
+            "front": "annusare",
+            "pos": "verb",
+            "back": "to smell, to sniff",
+            "example": "Il cane annusa tutto quello che trova.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vantaggio",
+            "pos": "noun",
+            "back": "advantage",
+            "example": "Vivere in centro ha molti vantaggi.",
+            "tier": "A2"
+          },
+          {
+            "front": "la pianta rara",
+            "pos": "phrase",
+            "back": "rare plant",
+            "example": "In quel giardino ci sono piante rare.",
+            "tier": "A2"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "trial, attempt, rehearsal",
+            "example": "Dopo tante prove, il risultato era perfetto.",
+            "tier": "A2"
+          },
+          {
+            "front": "immaginare",
+            "pos": "verb",
+            "back": "to imagine",
+            "example": "Immagina di essere in vacanza al mare.",
+            "tier": "A2"
+          },
+          {
+            "front": "tradurre",
+            "pos": "verb",
+            "back": "to translate",
+            "example": "Puoi tradurre questa frase in inglese?",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "Il computer è uno strumento di lavoro.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Grazie a nuove tecniche di laboratorio, i ricercatori riescono a ricostruire il profumo di fiori che non esistono più.",
+            "point": "riuscire a + infinito",
+            "explanation": "Riuscire always takes the preposition a before an infinitive. It expresses managing to do something after some effort, which is different from the plain ability expressed by potere.",
+            "why_tricky": "Learners either drop the a or replace riuscire with potere, which changes the meaning from they manage to to they are allowed to or they can."
+          },
+          {
+            "sentence": "In pratica studiano le molecole conservate nei campioni e poi le riproducono.",
+            "point": "unstressed direct object pronoun before the verb",
+            "explanation": "Le stands for le molecole and goes immediately before the conjugated verb riproducono. Italian places these atonic pronouns before a finite verb, unlike English which puts the object after.",
+            "why_tricky": "Learners write poi riproducono le, copying English word order, or confuse le (them, feminine plural) with li (them, masculine plural)."
+          },
+          {
+            "sentence": "Il naso, come si chiama chi crea le fragranze, deve immaginare un'emozione e poi tradurla in odore.",
+            "point": "pronoun attached to an infinitive",
+            "explanation": "When an infinitive follows a modal verb like dovere, the object pronoun can attach to the end of the infinitive, which drops its final e: tradurre plus la becomes tradurla.",
+            "why_tricky": "Both deve tradurla and la deve tradurre are correct, so learners hesitate, and the loss of the final e in the infinitive is often forgotten."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere a disposizione",
+            "meaning": "to have something available to use",
+            "example": "Per il progetto abbiamo a disposizione un piccolo budget."
+          },
+          {
+            "phrase": "il naso",
+            "meaning": "in the perfume world, the expert who creates fragrances",
+            "example": "È uno dei nasi più famosi della profumeria francese."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come fanno i ricercatori a ricostruire il profumo dei fiori estinti?",
+            "type": "open"
+          },
+          {
+            "q": "Quale vantaggio per l'ambiente offrono questi nuovi ingredienti?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il testo dice che creare un profumo resta un lavoro artistico?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Scrivi circa 120 parole: quale odore ti ricorda un momento importante della tua vita? Descrivi l'odore e la situazione."
+      }
+    },
     {
       "pack_id": "feed-2026-08-23-notte-taranta",
       "title": "La Notte della Taranta, pizzica tra tradizione e contaminazione",
@@ -5996,513 +6503,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, chi deve proteggere i nostri dati: le aziende o gli utenti? Scrivi 100 parole con due motivi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-selena-gomez-wondermind",
-      "title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
-      "source": "ANSA",
-      "date": "2026-08-16",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "spettacolo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-selena-gomez-wondermind",
-        "revision": 1,
-        "meta": {
-          "title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/14/selena-gomez-citata-per-frode-da-alcuni-investitori-nella-sua-startup_dfacdd95-c51c-4f3c-a24b-8e0745921444.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "economia",
-            "spettacolo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Some investors have taken Selena Gomez to court for fraud. The case concerns Wondermind, the startup the singer founded to talk about mental health. Her mother and her former business partner Daniella Pierson, who co-founded the company, are named in the complaint as well. The investors claim they did not receive clear information about the accounts. For now the people involved have not replied in public.\n\nThe story is causing discussion because Wondermind was born with a social aim: helping young people talk about anxiety and depression without shame. Many startups linked to famous names grow quickly thanks to their popularity, but then struggle to find a solid business model. The case will end up in court and the process will be a long one. In the meantime one question remains: how much does trust count when a brand talks about wellbeing?",
-        "resumen_es": "Alcuni investitori hanno citato in giudizio Selena Gomez per frode. La causa riguarda Wondermind, la startup che la cantante ha fondato per parlare di salute mentale. Nella denuncia compaiono anche sua madre e l'ex socia Daniella Pierson, cofondatrici dell'azienda. Gli investitori dicono di non aver ricevuto informazioni chiare sui conti. Per ora le persone coinvolte non hanno risposto in pubblico.\n\nLa vicenda fa discutere perché Wondermind è nata con uno scopo sociale: aiutare i giovani a parlare di ansia e depressione senza vergogna. Molte startup legate a personaggi famosi crescono in fretta grazie alla popolarità, ma poi faticano a trovare un modello economico solido. Il caso finirà in tribunale e i tempi saranno lunghi. Intanto resta una domanda: quanto conta la fiducia quando un marchio parla di benessere?",
-        "vocab": [
-          {
-            "front": "citare in giudizio",
-            "pos": "phrase",
-            "back": "to take someone to court",
-            "example": "Hanno citato in giudizio la società.",
-            "tier": "B1"
-          },
-          {
-            "front": "la frode",
-            "pos": "noun",
-            "back": "fraud",
-            "example": "Le accuse parlano di frode fiscale.",
-            "tier": "B1"
-          },
-          {
-            "front": "la causa",
-            "pos": "noun",
-            "back": "lawsuit, court case",
-            "example": "La causa è iniziata a giugno.",
-            "tier": "B1"
-          },
-          {
-            "front": "riguardare",
-            "pos": "verb",
-            "back": "to concern, to be about",
-            "example": "La notizia riguarda tutti noi.",
-            "tier": "A2"
-          },
-          {
-            "front": "la denuncia",
-            "pos": "noun",
-            "back": "formal complaint",
-            "example": "Ha presentato una denuncia in questura.",
-            "tier": "B1"
-          },
-          {
-            "front": "il socio",
-            "pos": "noun",
-            "back": "business partner",
-            "example": "Il suo ex socio vive a Milano.",
-            "tier": "B1"
-          },
-          {
-            "front": "i conti",
-            "pos": "noun",
-            "back": "the accounts, the books",
-            "example": "I conti dell'azienda non tornano.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vicenda",
-            "pos": "noun",
-            "back": "affair, story, matter",
-            "example": "La vicenda dura da mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo scopo",
-            "pos": "noun",
-            "back": "aim, purpose",
-            "example": "Lo scopo del progetto è chiaro.",
-            "tier": "A2"
-          },
-          {
-            "front": "in fretta",
-            "pos": "adv",
-            "back": "quickly, in a hurry",
-            "example": "Ha mangiato in fretta ed è uscito.",
-            "tier": "A2"
-          },
-          {
-            "front": "faticare a",
-            "pos": "verb",
-            "back": "to struggle to",
-            "example": "Fatico a capire questo testo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il marchio",
-            "pos": "noun",
-            "back": "brand",
-            "example": "È un marchio molto conosciuto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il benessere",
-            "pos": "noun",
-            "back": "wellbeing",
-            "example": "Il benessere mentale conta come quello fisico.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli investitori dicono di non aver ricevuto informazioni chiare sui conti.",
-            "point": "dire di + past infinitive with a negative",
-            "explanation": "When the subject of both verbs is the same, Italian uses 'dire di' plus an infinitive. For a past action it uses 'aver ricevuto', and 'non' goes before the auxiliary: 'di non aver ricevuto'.",
-            "why_tricky": "Learners build a full clause instead ('dicono che non hanno ricevuto') or place 'non' after 'aver'."
-          },
-          {
-            "sentence": "La vicenda fa discutere perché Wondermind è nata con uno scopo sociale: aiutare i giovani a parlare di ansia e depressione senza vergogna.",
-            "point": "essere nata, agreement of the past participle",
-            "explanation": "'Nascere' takes 'essere' in compound tenses, so the participle agrees with the subject. Wondermind is treated as a feminine noun (la startup), hence 'è nata' and not 'è nato'.",
-            "why_tricky": "Choosing between 'avere' and 'essere' and then making the participle agree are two separate decisions, and learners often get only one of them right."
-          },
-          {
-            "sentence": "Molte startup legate a personaggi famosi crescono in fretta grazie alla popolarità, ma poi faticano a trovare un modello economico solido.",
-            "point": "faticare a + infinitive and grazie a + article",
-            "explanation": "'Faticare' needs 'a' before the infinitive. 'Grazie a' combines with the article, giving 'grazie alla popolarità'.",
-            "why_tricky": "Both prepositions disappear in the English translation, so there is nothing in the learner's first language to remind them."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "i conti non tornano",
-            "meaning": "the figures do not add up, something does not make sense",
-            "example": "Guardando il bilancio, i conti non tornano."
-          },
-          {
-            "phrase": "finire in tribunale",
-            "meaning": "to end up in court",
-            "example": "Il disaccordo tra i soci è finito in tribunale."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché gli investitori hanno citato in giudizio la cantante?",
-            "type": "open"
-          },
-          {
-            "q": "Di che cosa si occupa la startup Wondermind?",
-            "type": "open"
-          },
-          {
-            "q": "Quale difficoltà hanno molte startup legate a personaggi famosi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Compreresti un prodotto solo perché è di una persona famosa? Scrivi 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-incendi-carnia",
-      "title": "Incendi in Carnia, spegnimento ancora in corso dopo una settimana di fiamme",
-      "source": "Rai News",
-      "date": "2026-08-16",
-      "level": "A2-B1",
-      "topics": [
-        "ambiente",
-        "cronaca"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-incendi-carnia",
-        "revision": 1,
-        "meta": {
-          "title": "Incendi in Carnia, spegnimento ancora in corso dopo una settimana di fiamme",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/incendi-in-carnia-spegnimento-ancora-in-corso-dopo-una-settimana-di-fiamme-93e07533-0a86-4991-a6ef-782b00c5b39a.html",
-          "date_published": "2026-08-16",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "ambiente",
-            "cronaca"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Carnia, in the north east of Italy, the fire has been burning for a week. It started on Friday 7 August on Mount Amariana, near Tolmezzo. Teams are working from the ground and from the air, with helicopters and water bombers. The ground is steep and covered in woodland, so reaching the flames is very difficult. The wind and the August heat make the work even slower.\n\nMountain fires leave long wounds. Without trees, the rain washes the soil away and the risk of landslides grows. That is why years of forest care are needed after the fire is out. Experts remind us that many blazes start from human behaviour, sometimes simply through carelessness. The rules are simple: do not light fires in summer, do not throw away cigarette ends, and call the emergency services at once if you see smoke.",
-        "resumen_es": "In Carnia, nel nord est dell'Italia, il fuoco brucia da una settimana. L'incendio è cominciato venerdì 7 agosto sul monte Amariana, vicino a Tolmezzo. Le squadre lavorano da terra e dal cielo, con elicotteri e canadair. Il terreno è ripido e coperto di bosco, quindi raggiungere le fiamme è molto difficile. Il vento e il caldo di agosto rendono il lavoro ancora più lento.\n\nGli incendi di montagna lasciano ferite lunghe. Senza alberi, la pioggia porta via la terra e cresce il rischio di frane. Per questo, dopo lo spegnimento, servono anni di cura del bosco. Gli esperti ricordano che molti roghi nascono da comportamenti umani, a volte solo per distrazione. Le regole sono semplici: non accendere fuochi d'estate, non buttare mozziconi e chiamare subito i soccorsi se si vede del fumo.",
-        "vocab": [
-          {
-            "front": "l'incendio",
-            "pos": "noun",
-            "back": "fire, blaze",
-            "example": "L'incendio è durato tutta la notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "bruciare",
-            "pos": "verb",
-            "back": "to burn",
-            "example": "Il bosco brucia da due giorni.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo spegnimento",
-            "pos": "noun",
-            "back": "putting out, extinguishing",
-            "example": "Lo spegnimento è finito all'alba.",
-            "tier": "B1"
-          },
-          {
-            "front": "la squadra",
-            "pos": "noun",
-            "back": "team, crew",
-            "example": "Le squadre arrivano da tutta la regione.",
-            "tier": "A2"
-          },
-          {
-            "front": "ripido",
-            "pos": "adj",
-            "back": "steep",
-            "example": "Il sentiero è troppo ripido per i bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "il bosco",
-            "pos": "noun",
-            "back": "wood, forest",
-            "example": "Andiamo a camminare nel bosco.",
-            "tier": "A2"
-          },
-          {
-            "front": "le fiamme",
-            "pos": "noun",
-            "back": "the flames",
-            "example": "Le fiamme sono alte dieci metri.",
-            "tier": "B1"
-          },
-          {
-            "front": "rendere più lento",
-            "pos": "phrase",
-            "back": "to make slower",
-            "example": "Il traffico rende più lento il viaggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la frana",
-            "pos": "noun",
-            "back": "landslide",
-            "example": "La strada è chiusa per una frana.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rogo",
-            "pos": "noun",
-            "back": "large fire, blaze",
-            "example": "Il rogo ha distrutto molti ettari.",
-            "tier": "B1"
-          },
-          {
-            "front": "la distrazione",
-            "pos": "noun",
-            "back": "carelessness, absent-mindedness",
-            "example": "L'incidente è nato da una distrazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "il mozzicone",
-            "pos": "noun",
-            "back": "cigarette end",
-            "example": "Non buttare il mozzicone per terra.",
-            "tier": "B1"
-          },
-          {
-            "front": "i soccorsi",
-            "pos": "noun",
-            "back": "the emergency services",
-            "example": "I soccorsi sono arrivati in venti minuti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Carnia, nel nord est dell'Italia, il fuoco brucia da una settimana.",
-            "point": "present tense + da for duration",
-            "explanation": "Italian uses the present tense with 'da' for an action that started in the past and is still going on. English needs the present perfect continuous: 'has been burning for a week'.",
-            "why_tricky": "Learners copy English and write 'ha bruciato da una settimana', which changes the meaning to a finished action."
-          },
-          {
-            "sentence": "Il terreno è ripido e coperto di bosco, quindi raggiungere le fiamme è molto difficile.",
-            "point": "infinitive as the subject of a sentence",
-            "explanation": "'Raggiungere le fiamme' works as the subject of 'è molto difficile'. Italian uses a bare infinitive where English often prefers an -ing form or 'it is difficult to'.",
-            "why_tricky": "Learners add an unnecessary 'di' or invert the order, writing 'è molto difficile di raggiungere'."
-          },
-          {
-            "sentence": "Gli esperti ricordano che molti roghi nascono da comportamenti umani, a volte solo per distrazione.",
-            "point": "nascere da to express origin",
-            "explanation": "Beyond 'to be born', 'nascere' is commonly used for causes: a problem, a fire or an idea 'nasce da' something. The preposition 'da' marks the source.",
-            "why_tricky": "Learners reach for 'venire da' or 'causare', losing the natural Italian collocation."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare in fumo",
-            "meaning": "to go up in smoke, to come to nothing",
-            "example": "Con la crisi il progetto è andato in fumo."
-          },
-          {
-            "phrase": "giocare col fuoco",
-            "meaning": "to play with fire, to take a dangerous risk",
-            "example": "Accendere un barbecue nel bosco significa giocare col fuoco."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando e dove è cominciato l'incendio?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è difficile spegnere le fiamme in montagna?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede al terreno quando gli alberi non ci sono più?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa possono fare le persone comuni per prevenire gli incendi in estate? Scrivi 100 parole con tre idee."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-spiaggia-ama-libro-cervia",
-      "title": "'La spiaggia ama il libro', a Ferragosto gli scrittori sbarcano a Cervia",
-      "source": "ANSA",
-      "date": "2026-08-14",
-      "level": "A2-B1",
-      "topics": [
-        "libri",
-        "estate"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-spiaggia-ama-libro-cervia",
-        "revision": 1,
-        "meta": {
-          "title": "'La spiaggia ama il libro', a Ferragosto gli scrittori sbarcano a Cervia",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/08/14/la-spiaggia-ama-il-libro-a-ferragosto-gli-scrittori-sbarcano-a-cervia_6b52e118-62ba-42f2-aeb7-7bdc623a6b0b.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "libri",
-            "estate"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Cervia, on the coast of Emilia-Romagna, books are arriving on the beach. During the Ferragosto holiday period, writers meet their readers close to the sea. The event is called 'The beach loves the book' and hosts journalists, writers and television personalities. People listen sitting on the sand, often at sunset.\n\nIt is a simple way to bring holidays and culture together. In summer many people have more time to read, and these meetings help them discover new books. For the town it is good news too: the events attract tourists and give work to bars, hotels and shops. Similar ideas are more and more common on Italian beaches, because they combine fun and reading in a natural way.",
-        "resumen_es": "A Cervia, sulla costa dell'Emilia-Romagna, i libri arrivano in spiaggia. Nel periodo di Ferragosto, alcuni scrittori incontrano i lettori vicino al mare. L'iniziativa si chiama 'La spiaggia ama il libro' e ospita giornalisti, scrittori e personaggi della televisione. Le persone ascoltano sedute sulla sabbia, spesso al tramonto.\n\nÈ un modo semplice per unire le vacanze e la cultura. In estate molte persone hanno più tempo per leggere, e questi incontri aiutano a scoprire libri nuovi. Per la città è anche una buona notizia: gli eventi attirano turisti e fanno lavorare bar, hotel e negozi. Iniziative simili sono sempre più comuni sulle spiagge italiane, perché uniscono il divertimento e la lettura in modo naturale.",
-        "vocab": [
-          {
-            "front": "la spiaggia",
-            "pos": "noun",
-            "back": "beach",
-            "example": "In agosto la spiaggia è piena di gente.",
-            "tier": "B1"
-          },
-          {
-            "front": "il lettore",
-            "pos": "noun",
-            "back": "reader",
-            "example": "L'autore ha risposto alle domande dei lettori.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'incontro",
-            "pos": "noun",
-            "back": "meeting, public event",
-            "example": "L'incontro comincia alle sei di sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sabbia",
-            "pos": "noun",
-            "back": "sand",
-            "example": "I bambini giocano sulla sabbia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tramonto",
-            "pos": "noun",
-            "back": "sunset",
-            "example": "Guardiamo il tramonto dal molo.",
-            "tier": "B1"
-          },
-          {
-            "front": "unire",
-            "pos": "verb",
-            "back": "to join, to bring together",
-            "example": "Questa festa unisce musica e cibo.",
-            "tier": "B1"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "Il festival attira molti giovani.",
-            "tier": "B1"
-          },
-          {
-            "front": "scoprire",
-            "pos": "verb",
-            "back": "to discover",
-            "example": "Ho scoperto un autore molto bravo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'iniziativa",
-            "pos": "noun",
-            "back": "initiative, project",
-            "example": "L'iniziativa è nata tre anni fa.",
-            "tier": "B1"
-          },
-          {
-            "front": "il negozio",
-            "pos": "noun",
-            "back": "shop",
-            "example": "I negozi restano aperti fino a mezzanotte.",
-            "tier": "A2"
-          },
-          {
-            "front": "la lettura",
-            "pos": "noun",
-            "back": "reading",
-            "example": "La lettura mi aiuta a rilassarmi.",
-            "tier": "B1"
-          },
-          {
-            "front": "sempre più",
-            "pos": "phrase",
-            "back": "more and more",
-            "example": "Sempre più persone vanno in bici.",
-            "tier": "B1"
-          },
-          {
-            "front": "seduto",
-            "pos": "adj",
-            "back": "sitting, seated",
-            "example": "Siamo rimasti seduti per due ore.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Cervia, sulla costa dell'Emilia-Romagna, i libri arrivano in spiaggia.",
-            "point": "Preposizioni articolate e 'in spiaggia' senza articolo",
-            "explanation": "'Su + la' diventa 'sulla' e 'di + l'' diventa 'dell''. Ma con molti luoghi si usa 'in' senza articolo: in spiaggia, in città, in montagna.",
-            "why_tricky": "Lo studente si aspetta 'nella spiaggia', ma l'italiano preferisce 'in spiaggia' quando parla del luogo in generale."
-          },
-          {
-            "sentence": "In estate molte persone hanno più tempo per leggere, e questi incontri aiutano a scoprire libri nuovi.",
-            "point": "'aiutare a + infinito' e 'per + infinito'",
-            "explanation": "Dopo 'aiutare' serve sempre la preposizione 'a' davanti all'infinito. 'Per' introduce invece lo scopo: tempo per leggere.",
-            "why_tricky": "In inglese si dice 'help discover' senza preposizione, quindi è facile dimenticare la 'a'."
-          },
-          {
-            "sentence": "Per la città è anche una buona notizia: gli eventi attirano turisti e fanno lavorare bar, hotel e negozi.",
-            "point": "Costruzione causativa 'fare + infinito'",
-            "explanation": "'Fare lavorare' significa dare lavoro a qualcuno, farlo lavorare. La struttura 'fare + infinito' indica che il soggetto provoca l'azione.",
-            "why_tricky": "L'italiano usa un solo verbo 'fare' dove l'inglese cambia verbo (make, have, get) secondo il contesto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare a ruba",
-            "meaning": "to sell out fast, to go like hot cakes",
-            "example": "In agosto i romanzi gialli vanno a ruba."
-          },
-          {
-            "phrase": "prendere il sole",
-            "meaning": "to sunbathe",
-            "example": "Dopo l'incontro molti restano a prendere il sole."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa succede a Cervia durante il periodo di Ferragosto?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questi incontri sono una buona notizia per la città?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo te, perché la gente legge di più in estate?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe ascoltare uno scrittore in spiaggia? Scrivi circa 100 parole e spiega perché sì o perché no."
       }
     }
   ]
