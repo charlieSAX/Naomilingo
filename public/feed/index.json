@@ -1,7 +1,500 @@
 {
-  "generated_at": "2026-08-22T20:12:37Z",
+  "generated_at": "2026-08-23T15:40:10Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-23-notte-taranta",
+      "title": "La Notte della Taranta, pizzica tra tradizione e contaminazione",
+      "source": "ANSA",
+      "date": "2026-08-23",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "musica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-notte-taranta",
+        "revision": 1,
+        "meta": {
+          "title": "La Notte della Taranta, pizzica tra tradizione e contaminazione",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/23/la-notte-della-taranta-pizzica-tra-tradizione-e-contaminazione_d6de9d68-2899-47a8-977e-aefb9b7de82a.html",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "cultura",
+            "musica"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Melpignano, in Puglia, the big concert of the Notte della Taranta took place. According to ANSA, about 150,000 people danced until late at night. The star of the music is the pizzica, a folk dance from Salento. On stage, tradition meets other, more modern styles, from rock to rap. This year the concert paid tribute to the 80 years of the Italian Republic. The audience was made up of young people, families and tourists who had arrived from all over Italy.\n\nThe Notte della Taranta began in 1998 and grows a little more every summer. In the past the pizzica was village music, played at local festivals and almost forgotten by young people. Today, on the other hand, it has become a cultural symbol of the South and brings many visitors to Salento. For the towns in the area, the festival is also an important economic opportunity. The challenge for the future is simple: to keep growing without losing the folk roots of this music.",
+        "resumen_es": "A Melpignano, in Puglia, si è tenuto il Concertone della Notte della Taranta. Secondo l'ANSA, circa 150 mila persone hanno ballato fino a tarda notte. La musica protagonista è la pizzica, un ballo popolare del Salento. Sul palco la tradizione incontra altri stili più moderni, dal rock al rap. Quest'anno il concerto ha reso omaggio agli 80 anni della Repubblica italiana. Il pubblico era formato da giovani, famiglie e turisti arrivati da tutta Italia.\n\nLa Notte della Taranta nasce nel 1998 e ogni estate cresce un po' di più. Prima la pizzica era una musica di paese, suonata nelle feste e quasi dimenticata dai giovani. Oggi invece è diventata un simbolo culturale del Sud e porta molti visitatori in Salento. Per i comuni della zona il festival è anche un'occasione economica importante. La sfida per il futuro è semplice: crescere ancora senza perdere le radici popolari di questa musica.",
+        "vocab": [
+          {
+            "front": "il ballo",
+            "pos": "noun",
+            "back": "dance",
+            "example": "La pizzica è un ballo veloce e allegro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il palco",
+            "pos": "noun",
+            "back": "stage",
+            "example": "I musicisti salgono sul palco alle dieci.",
+            "tier": "B1"
+          },
+          {
+            "front": "popolare",
+            "pos": "adj",
+            "back": "folk, of the people (also: popular)",
+            "example": "In paese cantano ancora le canzoni popolari.",
+            "tier": "B1"
+          },
+          {
+            "front": "rendere omaggio a",
+            "pos": "phrase",
+            "back": "to pay tribute to",
+            "example": "Il festival ha reso omaggio a un vecchio maestro.",
+            "tier": "B2"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "the audience",
+            "example": "Il pubblico ha applaudito per dieci minuti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il paese",
+            "pos": "noun",
+            "back": "village, small town (also: country)",
+            "example": "Sono cresciuto in un paese di mille abitanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la festa",
+            "pos": "noun",
+            "back": "festival, party, celebration",
+            "example": "Ad agosto c'è la festa del paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "dimenticare",
+            "pos": "verb",
+            "back": "to forget",
+            "example": "Ho dimenticato il nome della canzone.",
+            "tier": "B1"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "visitor",
+            "example": "I visitatori arrivano soprattutto in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "il comune",
+            "pos": "noun",
+            "back": "municipality, town council",
+            "example": "Il comune ha pagato una parte del concerto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sfida",
+            "pos": "noun",
+            "back": "challenge",
+            "example": "La vera sfida è trovare i soldi.",
+            "tier": "B1"
+          },
+          {
+            "front": "le radici",
+            "pos": "noun",
+            "back": "roots (also figurative)",
+            "example": "Non vuole perdere le sue radici.",
+            "tier": "B1"
+          },
+          {
+            "front": "invece",
+            "pos": "adv",
+            "back": "instead, on the other hand",
+            "example": "Io resto a casa, lui invece va al mare.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Melpignano, in Puglia, si è tenuto il Concertone della Notte della Taranta.",
+            "point": "si passivante con essere e accordo del participio",
+            "explanation": "Si tenere means to be held, to take place. In compound tenses the si construction always takes essere, and the participle agrees with the subject: il Concertone is masculine singular, so we write si e tenuto.",
+            "why_tricky": "In the present tense the verb would be avere-free anyway (si tiene), so learners keep avere in the past and write si ha tenuto. With si, essere is obligatory even when the verb normally takes avere."
+          },
+          {
+            "sentence": "Prima la pizzica era una musica di paese, suonata nelle feste e quasi dimenticata dai giovani.",
+            "point": "imperfetto descrittivo e participio passato con valore passivo",
+            "explanation": "Era describes how things used to be over a long period, which is the classic use of the imperfetto. Suonata and dimenticata are past participles used on their own, with a passive meaning, and they agree with musica, feminine singular.",
+            "why_tricky": "Learners reach for the passato prossimo (e stata) for anything in the past, which would turn a background description into a single completed event. The participle agreement is also easy to miss when the noun is several words away."
+          },
+          {
+            "sentence": "Oggi invece è diventata un simbolo culturale del Sud e porta molti visitatori in Salento.",
+            "point": "diventare con l'ausiliare essere",
+            "explanation": "Diventare is an intransitive verb of change and always forms its compound tenses with essere, so the participle agrees with the subject la pizzica: e diventata, feminine singular.",
+            "why_tricky": "English has become uses have, so learners write ha diventato. The agreement then disappears too, which makes the mistake doubly visible in writing."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "fino a tarda notte",
+            "meaning": "until late at night",
+            "example": "Abbiamo parlato fino a tarda notte."
+          },
+          {
+            "phrase": "un po' di più",
+            "meaning": "a little more, a bit more each time",
+            "example": "Ogni giorno capisco un po' di più."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove si è tenuto il concerto e quante persone c'erano?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa è la pizzica e come è cambiata nel tempo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il festival è importante per i comuni del Salento?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Esiste una musica o una festa tradizionale nella tua regione? Scrivi circa 100 parole e spiega se secondo te è giusto mescolare la tradizione con stili moderni."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-superman-incendi-indonesia",
+      "title": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
+      "source": "ANSA",
+      "date": "2026-08-23",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "mondo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-superman-incendi-indonesia",
+        "revision": 1,
+        "meta": {
+          "title": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "società",
+            "mondo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Indonesia a seventeen-year-old boy has become famous on social media. The young man, whose name is Rudiyansah, helps the firefighters put out fires dressed as Superman. A video showing his red and blue costume went viral. The government has called him a hero for his volunteer work. In an interview the boy said he was happy to help people. He also asked the firefighters to stay mobilised.\n\nIn the country fires are a serious problem, especially in the dry season. The smoke reaches the cities and causes health problems. Volunteers often work with the firefighters because there is never enough equipment. Stories like this one appeal because they show a positive side: a boy who uses his imagination to draw attention to a real problem. Many people hope the video will help bring more aid to the areas hit.",
+        "resumen_es": "In Indonesia un ragazzo di 17 anni è diventato famoso sui social. Il giovane, che si chiama Rudiyansah, aiuta i vigili del fuoco a spegnere gli incendi vestito da Superman. Un video con il suo costume rosso e blu è diventato virale. Il governo lo ha definito un eroe per il suo lavoro da volontario. In un'intervista il ragazzo ha detto di essere felice di aiutare la gente. Ha anche chiesto ai vigili del fuoco di restare mobilitati.\n\nNel Paese gli incendi sono un problema serio, soprattutto nella stagione secca. Il fumo arriva nelle città e crea problemi di salute. Spesso i volontari lavorano con i pompieri perché i mezzi non bastano mai. Storie come questa piacciono perché mostrano un lato positivo: un ragazzo che usa la fantasia per attirare l'attenzione su un problema vero. Molti sperano che il video serva a far arrivare più aiuti nelle zone colpite.",
+        "vocab": [
+          {
+            "front": "l'incendio",
+            "pos": "noun",
+            "back": "fire, blaze",
+            "example": "L'incendio è durato tutta la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "spegnere",
+            "pos": "verb",
+            "back": "to put out, to switch off",
+            "example": "Devo spegnere il telefono prima di entrare.",
+            "tier": "A2"
+          },
+          {
+            "front": "i vigili del fuoco",
+            "pos": "noun",
+            "back": "the fire brigade, firefighters",
+            "example": "I vigili del fuoco sono arrivati subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "vestito da",
+            "pos": "phrase",
+            "back": "dressed as, dressed up as",
+            "example": "È arrivato alla festa vestito da medico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il volontario",
+            "pos": "noun",
+            "back": "volunteer",
+            "example": "In estate lavora come volontario in montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'eroe",
+            "pos": "noun",
+            "back": "hero",
+            "example": "Per i vicini è diventato un eroe.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stagione secca",
+            "pos": "phrase",
+            "back": "the dry season",
+            "example": "Nella stagione secca non piove quasi mai.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fumo",
+            "pos": "noun",
+            "back": "smoke",
+            "example": "Il fumo entrava dalle finestre aperte.",
+            "tier": "A2"
+          },
+          {
+            "front": "i mezzi",
+            "pos": "noun",
+            "back": "resources, equipment, vehicles",
+            "example": "Con questi mezzi non possiamo fare di più.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "Un'ora non basta per finire tutto.",
+            "tier": "A2"
+          },
+          {
+            "front": "attirare l'attenzione",
+            "pos": "phrase",
+            "back": "to attract attention",
+            "example": "Il cartello rosso attira l'attenzione di tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "colpito",
+            "pos": "adj",
+            "back": "hit, affected, struck",
+            "example": "Le zone colpite aspettano ancora gli aiuti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il giovane, che si chiama Rudiyansah, aiuta i vigili del fuoco a spegnere gli incendi vestito da Superman.",
+            "point": "aiutare qualcuno a + infinito",
+            "explanation": "When aiutare is followed by a second verb, Italian always inserts the preposition a before the infinitive, and the person helped comes directly after aiutare with no preposition.",
+            "why_tricky": "English says help someone put out or help someone to put out, so learners either drop the a or add di. Only a is possible here, and it cannot be left out."
+          },
+          {
+            "sentence": "In un'intervista il ragazzo ha detto di essere felice di aiutare la gente.",
+            "point": "dire di + infinito quando il soggetto è lo stesso",
+            "explanation": "When the subject of dire and the subject of the reported action are the same person, Italian prefers dire di plus the infinitive instead of a che clause. Here the boy is both the one speaking and the one who is happy.",
+            "why_tricky": "Learners translate he said that he was happy word for word as ha detto che era felice. That is not wrong, but the infinitive construction is far more natural and is what the press actually writes."
+          },
+          {
+            "sentence": "Molti sperano che il video serva a far arrivare più aiuti nelle zone colpite.",
+            "point": "sperare che + congiuntivo",
+            "explanation": "Verbs of hope, wish and opinion take the congiuntivo in the subordinate clause when the two subjects differ. Serva is the present subjunctive of servire, used because many people hope, but it is the video that has the effect.",
+            "why_tricky": "Learners write sperano che il video serve, copying the indicative from English. Note also that with the same subject Italian would use sperare di plus the infinitive instead."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "diventare virale",
+            "meaning": "to go viral online",
+            "example": "Il suo video è diventato virale in una notte."
+          },
+          {
+            "phrase": "un lato positivo",
+            "meaning": "a silver lining, a positive side to something",
+            "example": "Anche in questa situazione c'è un lato positivo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa fa il ragazzo indonesiano e come è vestito?",
+            "type": "open"
+          },
+          {
+            "q": "Perché gli incendi sono un problema serio in Indonesia?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, perché questa storia piace a tante persone?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i video virali possono aiutare davvero a risolvere un problema? Scrivi circa 100 parole e dai un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-23-lanzarote-sapori",
+      "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "cibo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-23-lanzarote-sapori",
+        "revision": 1,
+        "meta": {
+          "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/gusto/2026/08/20/lanzarote-dove-vulcani-vento-e-oceano-diventano-sapori_a0dbc506-55e1-42fa-9d78-356a12587fbe.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-23",
+          "tags": [
+            "viaggi",
+            "cibo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Lanzarote is one of the Canary Islands, in Spain, and it has a landscape made of volcanoes, wind and ocean. According to ANSA, its cuisine comes precisely from this difficult land. Farmers grow vines inside small black hollows of volcanic gravel, protected by low stone walls against the wind. In this way grapes, potatoes and pulses grow even without much rain. This way of working is called the cuisine of ingenuity and it has been recognised by the FAO as an example of sustainable agriculture.\n\nToday many cooks on the island use only local products: fresh fish, goat's cheese, mojo sauce and white wines with a mineral taste. Tourism has grown a great deal and this brings money, but also risks for the environment and for water supplies. For this reason some restaurants choose short, seasonal menus with only a few dishes. Anyone visiting the island therefore finds a double journey: through the black landscape of the volcanoes and through the flavours born from that same soil.",
+        "resumen_es": "Lanzarote è una delle isole Canarie, in Spagna, e ha un paesaggio fatto di vulcani, vento e oceano. Secondo l'ANSA, la sua cucina nasce proprio da questa terra difficile. Gli agricoltori coltivano la vite dentro piccole buche nere di lapilli, protette da muretti di pietra contro il vento. Così crescono uva, patate e legumi anche senza molta pioggia. Questo modo di lavorare si chiama cucina dell'ingegno ed è stato riconosciuto dalla Fao come esempio di agricoltura sostenibile.\n\nOggi molti cuochi dell'isola usano soprattutto prodotti locali: pesce fresco, formaggi di capra, salse mojo e vini bianchi dal sapore minerale. Il turismo è cresciuto molto e questo porta soldi, ma anche rischi per l'ambiente e per l'acqua. Per questo alcuni ristoranti scelgono menù corti, con pochi piatti e di stagione. Chi visita l'isola trova quindi un viaggio doppio: nel paesaggio nero dei vulcani e nei sapori nati da quella stessa terra.",
+        "vocab": [
+          {
+            "front": "il paesaggio",
+            "pos": "noun",
+            "back": "landscape",
+            "example": "Il paesaggio cambia dopo pochi chilometri.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sapore",
+            "pos": "noun",
+            "back": "flavour, taste",
+            "example": "Questo formaggio ha un sapore forte.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'agricoltore",
+            "pos": "noun",
+            "back": "farmer",
+            "example": "Gli agricoltori aspettano la pioggia da mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "coltivare",
+            "pos": "verb",
+            "back": "to grow, to cultivate",
+            "example": "Mio nonno coltivava pomodori in giardino.",
+            "tier": "B1"
+          },
+          {
+            "front": "la vite",
+            "pos": "noun",
+            "back": "vine (the plant)",
+            "example": "Le viti crescono bene su questa collina.",
+            "tier": "B2"
+          },
+          {
+            "front": "la buca",
+            "pos": "noun",
+            "back": "hole, hollow in the ground",
+            "example": "Hanno scavato una buca per l'albero.",
+            "tier": "B1"
+          },
+          {
+            "front": "il muretto",
+            "pos": "noun",
+            "back": "low wall",
+            "example": "Ci siamo seduti sul muretto davanti al mare.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ingegno",
+            "pos": "noun",
+            "back": "ingenuity, inventiveness",
+            "example": "Ci vuole ingegno per lavorare con poca acqua.",
+            "tier": "B2"
+          },
+          {
+            "front": "sostenibile",
+            "pos": "adj",
+            "back": "sustainable",
+            "example": "Cercano un turismo più sostenibile.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cuoco",
+            "pos": "noun",
+            "back": "cook, chef",
+            "example": "Il cuoco compra il pesce ogni mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "di stagione",
+            "pos": "phrase",
+            "back": "seasonal, in season",
+            "example": "Compro solo frutta di stagione.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rischio",
+            "pos": "noun",
+            "back": "risk",
+            "example": "C'è il rischio di finire l'acqua.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli agricoltori coltivano la vite dentro piccole buche nere di lapilli, protette da muretti di pietra contro il vento.",
+            "point": "participio passato al posto di una relativa",
+            "explanation": "Protette replaces a full relative clause, che sono protette. The participle agrees with the noun it describes, buche, which is feminine plural, and da introduces the thing doing the protecting.",
+            "why_tricky": "Learners either leave the participle invariable or add che sono, which is correct but heavier. The agent marker is also a trap: with a passive it is da, not di."
+          },
+          {
+            "sentence": "Questo modo di lavorare si chiama cucina dell'ingegno ed è stato riconosciuto dalla Fao come esempio di agricoltura sostenibile.",
+            "point": "passivo con essere al passato prossimo",
+            "explanation": "E stato riconosciuto is a passive in the passato prossimo: essere is conjugated, then the participle of essere, then the main participle. Both agree with the masculine singular subject, questo modo.",
+            "why_tricky": "The double participle (stato plus riconosciuto) confuses learners, who often drop stato. Also note dalla Fao, where da plus the article marks who did the recognising."
+          },
+          {
+            "sentence": "Il turismo è cresciuto molto e questo porta soldi, ma anche rischi per l'ambiente e per l'acqua.",
+            "point": "crescere con l'ausiliare essere",
+            "explanation": "Crescere is intransitive here and describes a change of state, so it takes essere in compound tenses and the participle agrees with il turismo, masculine singular.",
+            "why_tricky": "English has grown uses have, so learners write ha cresciuto. Crescere can take avere when it is transitive and means to raise someone, as in ha cresciuto tre figli, which makes the choice less obvious."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un po' alla volta",
+            "meaning": "little by little, a bit at a time",
+            "example": "Ho imparato a cucinare un po' alla volta."
+          },
+          {
+            "phrase": "a chilometro zero",
+            "meaning": "locally sourced, from very close by",
+            "example": "Il ristorante usa solo verdure a chilometro zero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come fanno gli agricoltori di Lanzarote a coltivare con poca pioggia?",
+            "type": "open"
+          },
+          {
+            "q": "Quali prodotti locali usano i cuochi dell'isola?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi porta il turismo secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace mangiare i piatti tipici quando viaggi? Scrivi circa 100 parole e racconta un piatto locale che ti ha sorpreso."
+      }
+    },
     {
       "pack_id": "feed-2026-08-22-ridley-scott-dog-stars",
       "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
@@ -6010,513 +6503,6 @@
           }
         ],
         "opinion_prompt": "Ti piacerebbe ascoltare uno scrittore in spiaggia? Scrivi circa 100 parole e spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-el-nino-autunno-italia",
-      "title": "Arriva un potente El Niño: come cambierà il clima in Italia in autunno",
-      "source": "Rai News",
-      "date": "2026-08-16",
-      "level": "A2-B1",
-      "topics": [
-        "clima",
-        "scienza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-el-nino-autunno-italia",
-        "revision": 1,
-        "meta": {
-          "title": "Arriva un potente El Niño: come cambierà il clima in Italia in autunno",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/arriva-un-potente-el-nio-come-cambiera-il-clima-in-italia-in-autunno-lallerta-339b0c3b-3c4b-4f4a-9601-aa1378c03154.html",
-          "date_published": "2026-08-16",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "clima",
-            "scienza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "American experts say that El Nino is becoming stronger. It is a climate phenomenon that is born in the Pacific Ocean and changes the weather all over the world. According to the centre that studies the climate in the United States, there is a very high probability of a strong event in the autumn of 2026.\n\nWhat does it mean for Italy? When El Nino is strong, autumn can become warmer than usual and the rain can change: in some areas more water arrives, in others less. Experts advise caution, because every year is different and long-term forecasts are never certain. For farmers and for cities, though, it is useful to prepare in advance.",
-        "resumen_es": "Gli esperti americani dicono che El Niño sta diventando più forte. È un fenomeno climatico che nasce nell'oceano Pacifico e cambia il tempo in tutto il mondo. Secondo il centro che studia il clima negli Stati Uniti, c'è una probabilità molto alta di un evento forte nell'autunno del 2026.\n\nChe cosa significa per l'Italia? Quando El Niño è forte, l'autunno può diventare più caldo del solito e le piogge possono cambiare: in alcune zone arriva più acqua, in altre meno. Gli esperti invitano alla prudenza, perché ogni anno è diverso e le previsioni a lungo termine non sono mai sicure. Per gli agricoltori e per le città, però, è utile prepararsi in anticipo.",
-        "vocab": [
-          {
-            "front": "il fenomeno",
-            "pos": "noun",
-            "back": "phenomenon",
-            "example": "È un fenomeno naturale molto studiato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tempo",
-            "pos": "noun",
-            "back": "the weather",
-            "example": "Che tempo fa oggi a Milano?",
-            "tier": "A2"
-          },
-          {
-            "front": "la previsione",
-            "pos": "noun",
-            "back": "forecast",
-            "example": "Le previsioni dicono che domani piove.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pioggia",
-            "pos": "noun",
-            "back": "rain",
-            "example": "La pioggia è arrivata all'improvviso.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'autunno",
-            "pos": "noun",
-            "back": "autumn",
-            "example": "In autunno le giornate diventano corte.",
-            "tier": "A2"
-          },
-          {
-            "front": "la prudenza",
-            "pos": "noun",
-            "back": "caution",
-            "example": "I medici invitano alla prudenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'agricoltore",
-            "pos": "noun",
-            "back": "farmer",
-            "example": "Gli agricoltori aspettano la pioggia.",
-            "tier": "B1"
-          },
-          {
-            "front": "prepararsi",
-            "pos": "verb",
-            "back": "to get ready",
-            "example": "Dobbiamo prepararci per l'inverno.",
-            "tier": "B1"
-          },
-          {
-            "front": "in anticipo",
-            "pos": "phrase",
-            "back": "in advance, early",
-            "example": "Ho comprato i biglietti in anticipo.",
-            "tier": "B1"
-          },
-          {
-            "front": "del solito",
-            "pos": "phrase",
-            "back": "than usual",
-            "example": "Oggi sono arrivato più tardi del solito.",
-            "tier": "B1"
-          },
-          {
-            "front": "a lungo termine",
-            "pos": "phrase",
-            "back": "long-term",
-            "example": "È un piano a lungo termine.",
-            "tier": "B1"
-          },
-          {
-            "front": "diventare",
-            "pos": "verb",
-            "back": "to become",
-            "example": "Il cielo è diventato grigio in pochi minuti.",
-            "tier": "A2"
-          },
-          {
-            "front": "la zona",
-            "pos": "noun",
-            "back": "area, zone",
-            "example": "In questa zona piove poco.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Quando El Niño è forte, l'autunno può diventare più caldo del solito e le piogge possono cambiare: in alcune zone arriva più acqua, in altre meno.",
-            "point": "Comparativo con 'più... del solito' e 'potere + infinito'",
-            "explanation": "'Più caldo del solito' confronta con la norma. 'Può diventare' e 'possono cambiare' esprimono possibilità: il verbo 'potere' resta coniugato e il secondo verbo va all'infinito.",
-            "why_tricky": "Dopo 'potere' non si usa mai la preposizione, mentre dopo altri verbi come 'aiutare' o 'cominciare' serve 'a'."
-          },
-          {
-            "sentence": "Gli esperti invitano alla prudenza, perché ogni anno è diverso e le previsioni a lungo termine non sono mai sicure.",
-            "point": "Doppia negazione 'non... mai'",
-            "explanation": "In italiano la negazione si costruisce con due parole: 'non' prima del verbo e 'mai' dopo. Insieme danno un solo significato negativo.",
-            "why_tricky": "In inglese due negazioni si annullano, in italiano invece sono obbligatorie."
-          },
-          {
-            "sentence": "È un fenomeno climatico che nasce nell'oceano Pacifico e cambia il tempo in tutto il mondo.",
-            "point": "Pronome relativo 'che' e preposizione articolata 'nell''",
-            "explanation": "'Che' unisce le due frasi e vale sia per persone sia per cose. 'In + l'oceano' diventa 'nell'oceano'.",
-            "why_tricky": "Lo stesso 'che' serve da soggetto e da oggetto, mentre l'inglese sceglie tra 'that', 'which' e 'who'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "piovere a catinelle",
-            "meaning": "to rain very heavily, to pour",
-            "example": "Ieri sera pioveva a catinelle e siamo rimasti a casa."
-          },
-          {
-            "phrase": "fare un caldo da morire",
-            "meaning": "to be boiling hot",
-            "example": "In città fa un caldo da morire ad agosto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cos'è El Niño e dove nasce?",
-            "type": "open"
-          },
-          {
-            "q": "Come potrebbe cambiare l'autunno in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Perché gli esperti invitano alla prudenza?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nella tua città il clima è cambiato negli ultimi anni? Scrivi circa 100 parole con esempi concreti."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-robot-umanoidi-unitree-borsa",
-      "title": "Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree",
-      "source": "Rai News",
-      "date": "2026-08-16",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "economia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-robot-umanoidi-unitree-borsa",
-        "revision": 1,
-        "meta": {
-          "title": "Robot umanoidi cinesi sbarcano in borsa, debutto record da 1 miliardo per Unitree",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/robot-umanoidi-cinesi-sbarcano-in-borsa-debutto-record-da-1-miliardo-per-unitree-bf1c5936-8978-4377-ac6f-8b3f44076eb4.html",
-          "date_published": "2026-08-16",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "tecnologia",
-            "economia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In China a company that builds humanoid robots has gone onto the stock market. It is called Unitree and it is the first Chinese firm in this sector to take that step. The debut was a big success: small savers asked for many more shares than were available, and the amount raised passed a billion.\n\nThe case shows how much interest there is today around robots that walk and work like people. Other Chinese companies want to follow the same road in the coming months. The idea is to bring together artificial intelligence and physical machines, to use them in factories, in warehouses and perhaps one day in homes. Many experts stay cautious, because the market is growing fast and prices can change quickly.",
-        "resumen_es": "In Cina un'azienda che costruisce robot umanoidi è entrata in borsa. Si chiama Unitree ed è la prima società cinese di questo settore a fare questo passo. Il debutto ha avuto molto successo: i piccoli risparmiatori hanno chiesto molte più azioni di quelle disponibili, e la raccolta ha superato il miliardo.\n\nIl caso mostra quanto interesse c'è oggi intorno ai robot che camminano e lavorano come le persone. Altre aziende cinesi vogliono seguire la stessa strada nei prossimi mesi. L'idea è unire l'intelligenza artificiale e le macchine fisiche, per usarle nelle fabbriche, nei magazzini e forse un giorno nelle case. Molti esperti restano prudenti, perché il mercato cresce in fretta e i prezzi possono cambiare presto.",
-        "vocab": [
-          {
-            "front": "l'azienda",
-            "pos": "noun",
-            "back": "company, firm",
-            "example": "L'azienda ha assunto venti persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "la borsa",
-            "pos": "noun",
-            "back": "stock market",
-            "example": "Le azioni in borsa sono salite molto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il risparmiatore",
-            "pos": "noun",
-            "back": "saver, small investor",
-            "example": "I risparmiatori cercano investimenti sicuri.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'azione",
-            "pos": "noun",
-            "back": "share (in a company)",
-            "example": "Ho comprato dieci azioni della società.",
-            "tier": "B1"
-          },
-          {
-            "front": "il debutto",
-            "pos": "noun",
-            "back": "debut, first appearance",
-            "example": "Il debutto del film è previsto a ottobre.",
-            "tier": "B1"
-          },
-          {
-            "front": "il settore",
-            "pos": "noun",
-            "back": "sector, industry",
-            "example": "Lavora nel settore del turismo.",
-            "tier": "B1"
-          },
-          {
-            "front": "disponibile",
-            "pos": "adj",
-            "back": "available",
-            "example": "Non ci sono più posti disponibili.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fabbrica",
-            "pos": "noun",
-            "back": "factory",
-            "example": "La fabbrica produce mille pezzi al giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "il magazzino",
-            "pos": "noun",
-            "back": "warehouse",
-            "example": "I pacchi sono ancora in magazzino.",
-            "tier": "B1"
-          },
-          {
-            "front": "crescere",
-            "pos": "verb",
-            "back": "to grow",
-            "example": "Il numero di clienti cresce ogni mese.",
-            "tier": "A2"
-          },
-          {
-            "front": "in fretta",
-            "pos": "phrase",
-            "back": "quickly, in a hurry",
-            "example": "Abbiamo mangiato in fretta.",
-            "tier": "B1"
-          },
-          {
-            "front": "prudente",
-            "pos": "adj",
-            "back": "cautious",
-            "example": "È meglio essere prudenti con i soldi.",
-            "tier": "B1"
-          },
-          {
-            "front": "superare",
-            "pos": "verb",
-            "back": "to exceed, to go beyond",
-            "example": "Il costo ha superato le previsioni.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "In Cina un'azienda che costruisce robot umanoidi è entrata in borsa.",
-            "point": "Passato prossimo con 'essere' e accordo del participio",
-            "explanation": "Verbi di movimento come 'entrare' formano il passato prossimo con 'essere', e il participio concorda con il soggetto: azienda è femminile, quindi 'entrata'.",
-            "why_tricky": "Con 'avere' il participio non cambia, con 'essere' sì: è l'errore più comune a questo livello."
-          },
-          {
-            "sentence": "Il debutto ha avuto molto successo: i piccoli risparmiatori hanno chiesto molte più azioni di quelle disponibili, e la raccolta ha superato il miliardo.",
-            "point": "Comparativo di maggioranza 'più... di quelle'",
-            "explanation": "'Molte più azioni di quelle disponibili' confronta due quantità. 'Quelle' sostituisce 'le azioni' per non ripetere il sostantivo.",
-            "why_tricky": "Si sceglie 'di' o 'che' secondo il caso: qui si confrontano due gruppi di cose, quindi serve 'di'."
-          },
-          {
-            "sentence": "Molti esperti restano prudenti, perché il mercato cresce in fretta e i prezzi possono cambiare presto.",
-            "point": "Accordo dell'aggettivo con 'restare'",
-            "explanation": "Verbi come 'restare', 'rimanere' e 'diventare' funzionano come 'essere': l'aggettivo che segue concorda con il soggetto, qui 'esperti' maschile plurale.",
-            "why_tricky": "Sembra un avverbio in inglese ('stay cautious'), ma in italiano è un aggettivo e deve concordare."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare a gonfie vele",
-            "meaning": "to go very well, to be a great success",
-            "example": "Il progetto va a gonfie vele da mesi."
-          },
-          {
-            "phrase": "essere sulla bocca di tutti",
-            "meaning": "to be the talk of the town",
-            "example": "Questa azienda è sulla bocca di tutti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha fatto l'azienda Unitree?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il debutto in borsa è considerato un successo?",
-            "type": "open"
-          },
-          {
-            "q": "Dove potrebbero lavorare questi robot in futuro?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Vorresti un robot umanoide in casa tua? Scrivi circa 100 parole e spiega quali lavori gli daresti."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-street-art-roma",
-      "title": "Street art a Roma, una storia antichissima tutta da raccontare",
-      "source": "ANSA",
-      "date": "2026-08-14",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "arte"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-street-art-roma",
-        "revision": 1,
-        "meta": {
-          "title": "Street art a Roma, una storia antichissima tutta da raccontare",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/tempo_libero/2026/08/14/street-art-a-roma-una-storia-antichissima-tutta-da-raccontare_d1bd471d-1ebe-46b7-8845-3f0f95de33f2.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "cultura",
-            "arte"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Rome street art is not a recent fashion. In a new book, Stella Maresca tells us that the walls of the city have been speaking for centuries. The ancient Romans already wrote on walls: political messages, jokes, the names of lovers. Today that tradition continues with the murals of the outer districts, where whole buildings become pictures.\n\nThe book follows this thread across two thousand years and arrives at today's projects. Many murals come into being thanks to the district councils or to neighbourhood associations, and they often tell the story of the place or of the people who live there. For many visitors they have become one more reason to leave the historic centre. Opinions on the value of these drawings still differ: some people think they ruin the buildings, while others consider them real art. What is certain is that Rome goes on writing on its walls.",
-        "resumen_es": "A Roma la street art non è una moda recente. In un nuovo libro, Stella Maresca racconta che i muri della città parlano da secoli. Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati. Oggi quella tradizione continua con i murales dei quartieri di periferia, dove interi palazzi diventano quadri.\n\nIl libro segue questo filo lungo duemila anni e arriva ai progetti di oggi. Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive. Per molti visitatori sono diventati un motivo in più per uscire dal centro storico. Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte. Di sicuro Roma continua a scrivere sui suoi muri.",
-        "vocab": [
-          {
-            "front": "il muro",
-            "pos": "noun",
-            "back": "wall",
-            "example": "I muri della città raccontano molte storie.",
-            "tier": "A2"
-          },
-          {
-            "front": "il murale (i murales)",
-            "pos": "noun",
-            "back": "mural (the usual plural in Italian is the Spanish form murales)",
-            "example": "In periferia ci sono murales bellissimi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la moda",
-            "pos": "noun",
-            "back": "fashion, trend",
-            "example": "Non è solo una moda del momento.",
-            "tier": "A2"
-          },
-          {
-            "front": "raccontare",
-            "pos": "verb",
-            "back": "to tell, to recount",
-            "example": "Il libro racconta duemila anni di storia.",
-            "tier": "A2"
-          },
-          {
-            "front": "la battuta",
-            "pos": "noun",
-            "back": "joke, witty remark",
-            "example": "Sul muro c'era una battuta divertente.",
-            "tier": "B1"
-          },
-          {
-            "front": "il palazzo",
-            "pos": "noun",
-            "back": "building, block of flats (NOT usually a palace)",
-            "example": "Hanno dipinto un palazzo intero.",
-            "tier": "A2"
-          },
-          {
-            "front": "il quartiere",
-            "pos": "noun",
-            "back": "neighbourhood, district",
-            "example": "Vivo in un quartiere tranquillo.",
-            "tier": "A2"
-          },
-          {
-            "front": "la periferia",
-            "pos": "noun",
-            "back": "outskirts, suburbs",
-            "example": "I murales più belli sono in periferia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il filo",
-            "pos": "noun",
-            "back": "thread (also of a story)",
-            "example": "Il libro segue il filo della storia romana.",
-            "tier": "B1"
-          },
-          {
-            "front": "grazie a",
-            "pos": "phrase",
-            "back": "thanks to",
-            "example": "Il progetto è nato grazie al municipio.",
-            "tier": "A2"
-          },
-          {
-            "front": "rovinare",
-            "pos": "verb",
-            "back": "to ruin, to spoil",
-            "example": "Secondo alcuni i disegni rovinano i palazzi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il centro storico",
-            "pos": "phrase",
-            "back": "old town, historic centre",
-            "example": "Il centro storico è pieno di turisti.",
-            "tier": "A2"
-          },
-          {
-            "front": "di sicuro",
-            "pos": "adv",
-            "back": "certainly, for sure",
-            "example": "Di sicuro torneremo a Roma.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Già gli antichi romani scrivevano sui muri: messaggi politici, battute, nomi di innamorati.",
-            "point": "imperfetto per abitudini nel passato",
-            "explanation": "Scrivevano è imperfetto e indica un'abitudine ripetuta nel passato, non un fatto singolo. In inglese si direbbe used to write oppure would write.",
-            "why_tricky": "Con il passato prossimo, hanno scritto sui muri, la frase parlerebbe di una volta sola. Quando in italiano c'è un'abitudine antica o una descrizione di come si viveva, l'imperfetto è quasi sempre la scelta giusta."
-          },
-          {
-            "sentence": "Sul valore di questi disegni le opinioni restano diverse: c'è chi pensa che rovinino i palazzi, e chi invece li considera vera arte.",
-            "point": "c'è chi e il congiuntivo dopo pensare che",
-            "explanation": "C'è chi significa alcune persone e va sempre con il verbo alla terza persona singolare. Dopo pensare che si usa il congiuntivo, rovinino, perché si riporta un'opinione.",
-            "why_tricky": "La seconda parte, e chi invece li considera, torna all'indicativo perché dipende da c'è chi e non da pensare che. Notare anche che c'è chi resta singolare anche quando si parla di molte persone."
-          },
-          {
-            "sentence": "Molti murales nascono grazie ai municipi o alle associazioni del quartiere, e spesso raccontano la storia del posto o di chi ci vive.",
-            "point": "il pronome ci con valore di luogo",
-            "explanation": "Qui ci non è il pronome noi ma sostituisce un luogo già nominato: chi vive lì, in quel posto. Si mette prima del verbo.",
-            "why_tricky": "Ci ha molti valori diversi in italiano, quindi bisogna guardare il contesto. Confronta ci vive, vive lì, con ci hanno visto, hanno visto noi, e con ci vediamo domani, dove ci vuol dire l'uno con l'altro."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare scuola",
-            "meaning": "to set an example that others follow, to be influential",
-            "example": "Quel progetto di murales ha fatto scuola in tutta Italia."
-          },
-          {
-            "phrase": "andare per la maggiore",
-            "meaning": "to be very popular or in fashion",
-            "example": "In questo periodo i tour dei murales vanno per la maggiore."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa scrivevano gli antichi romani sui muri della città?",
-            "type": "open"
-          },
-          {
-            "q": "Chi aiuta oggi a realizzare molti murales nei quartieri?",
-            "type": "open"
-          },
-          {
-            "q": "Perché sul valore dei murales le opinioni restano diverse?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te i murales migliorano o rovinano una città? Scrivi otto o dieci frasi con la tua opinione e almeno un esempio."
       }
     }
   ]
