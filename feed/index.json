@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-08-23T20:13:17Z",
+  "generated_at": "2026-08-24T08:24:19Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-24-serie-tv-turche",
+      "title": "Dalle ville sul Bosforo all'Impero ottomano: così la Turchia ha conquistato l'immaginario globale",
+      "source": "Rai News",
+      "date": "2026-08-23",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "televisione"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-serie-tv-turche",
+        "revision": 1,
+        "meta": {
+          "title": "Dalle ville sul Bosforo all'Impero ottomano: così la Turchia ha conquistato l'immaginario globale",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/dalle-ville-sul-bosforo-allimpero-ottomano-cosi-la-turchia-ha-conquistato-limmaginario-globale-6d929138-fc8b-4298-b419-6b7f46398d9a.html",
+          "date_published": "2026-08-23",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "cultura",
+            "televisione"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Turkish television series have become a worldwide phenomenon. They tell stories of love and family, but also of the past of the Ottoman Empire and of life in Istanbul today, between the villas on the Bosphorus and the working-class neighbourhoods. Thanks to streaming platforms, millions of viewers watch them all over the world, from Latin America to the Middle East. Many people follow them dubbed or with subtitles, and they often become the favourite programme of whole families.\n\nFor Turkey this success is not only a piece of business. Experts talk about soft power, that is, the ability of a country to make itself known and liked through culture rather than through politics or force. The series bring tourists to Istanbul, they increase interest in the Turkish language and they improve the image of the country abroad. Not everyone agrees, though: some people think that they tell a version of reality that is too beautiful.",
+        "resumen_es": "Le serie televisive turche sono diventate un fenomeno mondiale. Raccontano storie d'amore e di famiglia, ma anche il passato dell'Impero ottomano e la vita di oggi a Istanbul, tra le ville sul Bosforo e i quartieri popolari. Grazie alle piattaforme di streaming, milioni di spettatori le guardano in tutto il mondo, dall'America Latina al Medio Oriente. Molti le seguono doppiate o con i sottotitoli, e spesso diventano il programma preferito di intere famiglie.\n\nPer la Turchia questo successo non è solo un affare. Gli esperti parlano di soft power, cioè della capacità di un Paese di farsi conoscere e apprezzare attraverso la cultura invece che con la politica o con la forza. Le serie portano turisti a Istanbul, fanno crescere l'interesse per la lingua turca e migliorano l'immagine del Paese all'estero. Non tutti però sono d'accordo: qualcuno pensa che raccontino una versione troppo bella della realtà.",
+        "vocab": [
+          {
+            "front": "la serie televisiva",
+            "pos": "noun",
+            "back": "TV series",
+            "example": "Guardiamo una serie televisiva ogni sera.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo spettatore",
+            "pos": "noun",
+            "back": "viewer, member of the audience",
+            "example": "Gli spettatori erano più di mille.",
+            "tier": "B1"
+          },
+          {
+            "front": "il quartiere",
+            "pos": "noun",
+            "back": "neighbourhood, district",
+            "example": "Abito in un quartiere tranquillo.",
+            "tier": "A2"
+          },
+          {
+            "front": "doppiato",
+            "pos": "adj",
+            "back": "dubbed",
+            "example": "Preferisco i film doppiati in italiano.",
+            "tier": "B1"
+          },
+          {
+            "front": "i sottotitoli",
+            "pos": "noun",
+            "back": "subtitles",
+            "example": "Guardo le serie con i sottotitoli per imparare.",
+            "tier": "A2"
+          },
+          {
+            "front": "il successo",
+            "pos": "noun",
+            "back": "success",
+            "example": "Il suo libro ha avuto molto successo.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'affare",
+            "pos": "noun",
+            "back": "deal, piece of business; bargain",
+            "example": "Per lui il turismo è soprattutto un affare.",
+            "tier": "B1"
+          },
+          {
+            "front": "la capacità",
+            "pos": "noun",
+            "back": "ability, capacity",
+            "example": "Ha una grande capacità di ascolto.",
+            "tier": "B1"
+          },
+          {
+            "front": "apprezzare",
+            "pos": "verb",
+            "back": "to appreciate, to value",
+            "example": "Apprezzo molto il tuo aiuto.",
+            "tier": "B1"
+          },
+          {
+            "front": "far crescere",
+            "pos": "phrase",
+            "back": "to make something grow, to increase",
+            "example": "La pubblicità ha fatto crescere le vendite.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'immagine",
+            "pos": "noun",
+            "back": "image, reputation",
+            "example": "La città vuole migliorare la sua immagine.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'estero",
+            "pos": "adv",
+            "back": "abroad",
+            "example": "Mio fratello lavora all'estero da due anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "essere d'accordo",
+            "pos": "phrase",
+            "back": "to agree",
+            "example": "Non sono d'accordo con te.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Grazie alle piattaforme di streaming, milioni di spettatori le guardano in tutto il mondo, dall'America Latina al Medio Oriente.",
+            "point": "The direct object pronoun le, and grazie a with articles",
+            "explanation": "Le here replaces le serie, a feminine plural direct object, and it goes before the verb: le guardano. Grazie a combines with the article of the following noun, so grazie a plus le gives grazie alle.",
+            "why_tricky": "Le can be either the feminine plural direct object pronoun or the indirect pronoun meaning to her, and learners also tend to leave grazie a unjoined, writing grazie a le piattaforme."
+          },
+          {
+            "sentence": "Gli esperti parlano di soft power, cioè della capacità di un Paese di farsi conoscere e apprezzare attraverso la cultura invece che con la politica o con la forza.",
+            "point": "farsi plus infinitive",
+            "explanation": "Fare plus an infinitive means to make something happen, and in the reflexive form farsi it means to get something done to oneself: farsi conoscere is to make oneself known, farsi capire is to make oneself understood.",
+            "why_tricky": "English uses a passive here, to be known, so learners write essere conosciuto, which loses the idea that the country is actively doing it."
+          },
+          {
+            "sentence": "Non tutti però sono d'accordo: qualcuno pensa che raccontino una versione troppo bella della realtà.",
+            "point": "Congiuntivo after pensare che",
+            "explanation": "Verbs of opinion such as pensare, credere and sembrare take the congiuntivo in the subordinate clause: qualcuno pensa che raccontino, not che raccontano. The subject qualcuno is grammatically singular, but the verb raccontino agrees with le serie.",
+            "why_tricky": "In casual speech Italians often use the indicative here, so learners hear che raccontano and assume it is the standard written form."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere successo",
+            "meaning": "to be successful",
+            "example": "Quella serie ha avuto successo in tutto il mondo."
+          },
+          {
+            "phrase": "essere d'accordo",
+            "meaning": "to agree with someone or something",
+            "example": "Su questo punto non siamo d'accordo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Di che cosa parlano le serie televisive turche?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa significa soft power secondo il testo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché non tutti sono d'accordo su questo successo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Guardi serie televisive straniere? Scrivi circa 80 parole e spiega che cosa ti fanno capire del Paese in cui sono girate."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-24-mps-offerte-banche",
+      "title": "La mossa di Mps, doppia offerta da 34 miliardi per Bpm e Banca Generali",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "banche"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-mps-offerte-banche",
+        "revision": 1,
+        "meta": {
+          "title": "La mossa di Mps, doppia offerta da 34 miliardi per Bpm e Banca Generali",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "economia",
+            "banche"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Monte dei Paschi di Siena, the oldest bank in the world, has made a surprise move: it has launched two offers to buy Banco Bpm and Banca Generali, for a total value of 34 billion euros. The chief executive Luigi Lovaglio explained that these are friendly offers and that the aim is to create value without dividing. Banca Generali, for now, has replied that it will assess the proposal.\n\nOn the stock exchange the news was received coldly, because investors want to understand the numbers and the timing of the operation better. For years European banks have been trying to join together in order to become bigger and to stand up to international competition. If the operation went through, a group that is very important for the savings of Italians would be born. For customers, though, the real changes usually arrive later, when the services and the branches change.",
+        "resumen_es": "Il Monte dei Paschi di Siena, la banca più antica del mondo, ha fatto una mossa a sorpresa: ha lanciato due offerte per comprare il Banco Bpm e Banca Generali, per un valore totale di 34 miliardi di euro. L'amministratore delegato Luigi Lovaglio ha spiegato che si tratta di offerte amichevoli e che l'obiettivo è creare valore senza dividere. Banca Generali, per ora, ha risposto che valuterà la proposta.\n\nIn Borsa la notizia è stata accolta con freddezza, perché gli investitori vogliono capire meglio i numeri e i tempi dell'operazione. Da anni le banche europee cercano di unirsi per diventare più grandi e resistere alla concorrenza internazionale. Se l'operazione andasse in porto, nascerebbe un gruppo molto importante per il risparmio degli italiani. Per i clienti, però, i cambiamenti veri di solito arrivano dopo, quando cambiano i servizi e le filiali.",
+        "vocab": [
+          {
+            "front": "la mossa",
+            "pos": "noun",
+            "back": "move (in a game or in business)",
+            "example": "È stata una mossa intelligente.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'offerta",
+            "pos": "noun",
+            "back": "offer, bid",
+            "example": "Ho ricevuto un'offerta di lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'amministratore delegato",
+            "pos": "noun",
+            "back": "chief executive, CEO",
+            "example": "L'amministratore delegato parlerà domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "si tratta di",
+            "pos": "phrase",
+            "back": "it is a question of, these are",
+            "example": "Si tratta di una decisione difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "valutare",
+            "pos": "verb",
+            "back": "to assess, to evaluate",
+            "example": "Devo valutare bene la situazione.",
+            "tier": "B1"
+          },
+          {
+            "front": "la Borsa",
+            "pos": "noun",
+            "back": "the stock exchange",
+            "example": "Oggi la Borsa di Milano è salita.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'investitore",
+            "pos": "noun",
+            "back": "investor",
+            "example": "Gli investitori aspettano i risultati.",
+            "tier": "B1"
+          },
+          {
+            "front": "la concorrenza",
+            "pos": "noun",
+            "back": "competition (in business)",
+            "example": "La concorrenza è molto forte in questo settore.",
+            "tier": "B1"
+          },
+          {
+            "front": "il risparmio",
+            "pos": "noun",
+            "back": "savings; saving",
+            "example": "Ha investito tutti i suoi risparmi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la filiale",
+            "pos": "noun",
+            "back": "branch (of a bank or company)",
+            "example": "Hanno chiuso la filiale del centro.",
+            "tier": "B1"
+          },
+          {
+            "front": "unirsi",
+            "pos": "verb",
+            "back": "to join together, to merge",
+            "example": "Le due squadre hanno deciso di unirsi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cliente",
+            "pos": "noun",
+            "back": "customer, client",
+            "example": "Il cliente ha ragione, dicono sempre.",
+            "tier": "A2"
+          },
+          {
+            "front": "con freddezza",
+            "pos": "phrase",
+            "back": "coldly, without enthusiasm",
+            "example": "Ha accolto la notizia con freddezza.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'amministratore delegato Luigi Lovaglio ha spiegato che si tratta di offerte amichevoli e che l'obiettivo è creare valore senza dividere.",
+            "point": "The impersonal si tratta di",
+            "explanation": "Si tratta di is always impersonal and always in the third person singular, even when what follows is plural: si tratta di offerte, never si trattano di offerte. It is followed by di plus a noun or an infinitive.",
+            "why_tricky": "Learners try to make the verb agree with the plural noun, and they also confuse it with trattare, which means to deal with or to treat and does take a normal subject."
+          },
+          {
+            "sentence": "Se l'operazione andasse in porto, nascerebbe un gruppo molto importante per il risparmio degli italiani.",
+            "point": "Periodo ipotetico della possibilità",
+            "explanation": "To talk about something possible but not certain, Italian uses se plus the congiuntivo imperfetto in the if clause and the condizionale presente in the main clause: se andasse, nascerebbe. Never put the conditional after se.",
+            "why_tricky": "English says if it went through, it would create, with a simple past, so learners write se andava or se andrebbe, and the second one is a classic mistake."
+          },
+          {
+            "sentence": "In Borsa la notizia è stata accolta con freddezza, perché gli investitori vogliono capire meglio i numeri e i tempi dell'operazione.",
+            "point": "Passive with essere and participle agreement",
+            "explanation": "The passive is formed with essere plus the past participle, and the participle agrees with the subject: la notizia is feminine singular, so it is stata accolta. In a compound passive both essere forms agree, giving è stata accolta.",
+            "why_tricky": "There are two agreements to get right at once, and learners often write è stato accolto by defaulting to the masculine."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare in porto",
+            "meaning": "to go through, to be completed successfully",
+            "example": "Speriamo che il progetto vada in porto."
+          },
+          {
+            "phrase": "accogliere con freddezza",
+            "meaning": "to receive something without enthusiasm",
+            "example": "La proposta è stata accolta con freddezza dai colleghi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa vuole comprare il Monte dei Paschi di Siena?",
+            "type": "open"
+          },
+          {
+            "q": "Perché in Borsa la notizia è stata accolta con freddezza?",
+            "type": "open"
+          },
+          {
+            "q": "Secondo il testo, quando arrivano i cambiamenti per i clienti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te è meglio avere poche banche grandi o molte banche piccole? Scrivi circa 80 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-24-cia-tagli-personale",
+      "title": "Stati Uniti, i tagli pesano sulla Cia, è fuga di spie",
+      "source": "ANSA",
+      "date": "2026-08-21",
+      "level": "A2-B1",
+      "topics": [
+        "mondo",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-24-cia-tagli-personale",
+        "revision": 1,
+        "meta": {
+          "title": "Stati Uniti, i tagli pesano sulla Cia, è fuga di spie",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/21/fuga-dalla-cia-lesodo-degli-agenti-manda-in-tilt-il-sistema-pensionistico_b56af825-cf33-4e10-9f14-0cac8dd8a3f5.html",
+          "date_published": "2026-08-21",
+          "date_processed": "2026-08-24",
+          "tags": [
+            "mondo",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In the United States the CIA is losing many employees. The cuts decided by the government have produced the biggest reduction in staff since the end of the Cold War: many agents have decided to leave or to ask for early retirement. There are so many applications that the pension system has seized up and the offices cannot answer everyone within the normal time.\n\nThe problem is not only a financial one. In a secret service, experience counts enormously: training a good analyst takes years of work and of trust. When a lot of experienced people leave at the same time, the country risks losing memory and skills that are hard to replace. There are also those who fear that some of these professionals will go and work for private companies. The government, for its part, defends the cuts and talks about a lighter administration.",
+        "resumen_es": "Negli Stati Uniti la Cia sta perdendo molti dipendenti. I tagli decisi dal governo hanno provocato la riduzione di personale più grande dalla fine della Guerra Fredda: molti agenti hanno deciso di andarsene o di chiedere la pensione in anticipo. Le domande sono così numerose che il sistema pensionistico è andato in tilt e gli uffici non riescono a rispondere a tutti nei tempi normali.\n\nIl problema non è solo economico. In un servizio segreto l'esperienza conta moltissimo: per formare un buon analista servono anni di lavoro e di fiducia. Quando molte persone esperte se ne vanno insieme, il Paese rischia di perdere memoria e competenze difficili da sostituire. C'è anche chi teme che alcuni di questi professionisti vadano a lavorare per aziende private. Il governo, dal canto suo, difende i tagli e parla di un'amministrazione più leggera.",
+        "vocab": [
+          {
+            "front": "il taglio",
+            "pos": "noun",
+            "back": "cut (to a budget or to staff)",
+            "example": "Il comune ha annunciato nuovi tagli alla spesa.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dipendente",
+            "pos": "noun",
+            "back": "employee",
+            "example": "L'azienda ha duecento dipendenti.",
+            "tier": "A2"
+          },
+          {
+            "front": "il personale",
+            "pos": "noun",
+            "back": "staff, personnel",
+            "example": "Manca il personale in ospedale d'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pensione",
+            "pos": "noun",
+            "back": "pension; retirement",
+            "example": "Mio padre va in pensione l'anno prossimo.",
+            "tier": "A2"
+          },
+          {
+            "front": "in anticipo",
+            "pos": "adv",
+            "back": "early, in advance",
+            "example": "Sono arrivato in anticipo di dieci minuti.",
+            "tier": "A2"
+          },
+          {
+            "front": "la domanda",
+            "pos": "noun",
+            "back": "application; question",
+            "example": "Ho presentato la domanda il mese scorso.",
+            "tier": "A2"
+          },
+          {
+            "front": "andare in tilt",
+            "pos": "phrase",
+            "back": "to seize up, to crash (a system)",
+            "example": "Il sito è andato in tilt per troppe richieste.",
+            "tier": "B1"
+          },
+          {
+            "front": "riuscire a",
+            "pos": "verb",
+            "back": "to manage to, to be able to",
+            "example": "Non riesco a finire il libro.",
+            "tier": "A2"
+          },
+          {
+            "front": "formare",
+            "pos": "verb",
+            "back": "to train, to educate",
+            "example": "La scuola forma giovani cuochi.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fiducia",
+            "pos": "noun",
+            "back": "trust, confidence",
+            "example": "Ho piena fiducia in lei.",
+            "tier": "B1"
+          },
+          {
+            "front": "le competenze",
+            "pos": "noun",
+            "back": "skills, expertise",
+            "example": "Cercano una persona con competenze informatiche.",
+            "tier": "B1"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Devo sostituire il telefono vecchio.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid",
+            "example": "Temo che piova domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "dal canto suo",
+            "pos": "phrase",
+            "back": "for its part, for his or her part",
+            "example": "Il sindaco, dal canto suo, non ha commentato.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Le domande sono così numerose che il sistema pensionistico è andato in tilt e gli uffici non riescono a rispondere a tutti nei tempi normali.",
+            "point": "così ... che for consequence",
+            "explanation": "Così plus an adjective plus che introduces a real consequence: so numerous that the system stopped working. With a noun instead of an adjective, Italian uses tanto or tanti: tante domande che.",
+            "why_tricky": "Learners mix it with the comparative così ... come, meaning as ... as, and they use molto instead of così, which cannot introduce a che clause."
+          },
+          {
+            "sentence": "Quando molte persone esperte se ne vanno insieme, il Paese rischia di perdere memoria e competenze difficili da sostituire.",
+            "point": "andarsene, and difficile da plus infinitive",
+            "explanation": "Andarsene means to leave, to go away, and it carries two particles: se ne vanno, me ne vado, te ne vai. The pattern difficile da sostituire uses da, not a, when an adjective is followed by an infinitive with a passive sense.",
+            "why_tricky": "The order of the two particles is fixed and learners write ne se vanno, and they often say difficile a sostituire on the model of other languages."
+          },
+          {
+            "sentence": "C'è anche chi teme che alcuni di questi professionisti vadano a lavorare per aziende private.",
+            "point": "c'è chi plus congiuntivo after temere",
+            "explanation": "C'è chi means there are people who and always takes a singular verb: c'è chi teme, c'è chi pensa. Temere che then requires the congiuntivo, so we get vadano rather than vanno.",
+            "why_tricky": "The idea is plural in English, which pushes learners to write ci sono chi, and the congiuntivo of andare is irregular, so vadano is easy to miss."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare in tilt",
+            "meaning": "to stop working properly, to be overwhelmed",
+            "example": "Dopo tre esami in un giorno vado in tilt."
+          },
+          {
+            "phrase": "dal canto suo",
+            "meaning": "for his, her or its part",
+            "example": "L'azienda, dal canto suo, promette nuove assunzioni."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché molti agenti della Cia hanno deciso di andarsene?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa è successo al sistema pensionistico?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'esperienza è così importante in un servizio segreto?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te è giusto tagliare il personale per risparmiare denaro pubblico? Scrivi circa 80 parole con le tue ragioni."
+      }
+    },
     {
       "pack_id": "feed-2026-08-23-sinner-salta-us-open",
       "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
@@ -5982,527 +6496,6 @@
           }
         ],
         "opinion_prompt": "Secondo te la musica e la politica possono restare separate? Scrivi circa 100 parole e spiega la tua opinione con un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-17-al-lavoro-con-il-cavallo",
-      "title": "'Troppo caro usare l'auto, vado al lavoro con il cavallo'",
-      "source": "ANSA",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "trasporti"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-17-al-lavoro-con-il-cavallo",
-        "revision": 1,
-        "meta": {
-          "title": "'Troppo caro usare l'auto, vado al lavoro con il cavallo'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/puglia/notizie/2026/08/12/troppo-caro-usare-lauto-vado-al-lavoro-col-cavallo_1ad8bd9a-c1f6-4ee2-9676-1330bae7a8e7.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-17",
-          "tags": [
-            "società",
-            "trasporti"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Massimiliano Accetturo lives in Rocchetta Sant'Antonio, a small town in the province of Foggia. To get to work he no longer uses the car: he goes on horseback. The reason is simple. In his view the car costs too much. In general, what with petrol, insurance and maintenance, running a car is a big expense. His story raises a smile, but it also makes you think.\n\nIn the small towns of southern Italy there are often few public transport services. People without a car find it hard to get around, and those who have one have to pay higher and higher costs. Massimiliano's choice is unusual, but it points to a real and widespread problem. The horse, obviously, is not a solution for everyone. It needs care, space and time. Even so, his gesture is an original way of saying that getting around every day has become expensive.",
-        "resumen_es": "Massimiliano Accetturo vive a Rocchetta Sant'Antonio, un piccolo comune in provincia di Foggia. Per andare al lavoro non usa più l'auto: va a cavallo. Il motivo è semplice. Secondo lui l'automobile costa troppo. In generale, tra benzina, assicurazione e manutenzione, avere un'auto è una spesa importante. La sua storia fa sorridere, ma fa anche riflettere.\n\nNei piccoli centri del Sud Italia ci sono spesso pochi mezzi pubblici. Chi non ha l'auto fa fatica a spostarsi, e chi ce l'ha deve pagare spese sempre più alte. La scelta di Massimiliano è insolita, però fa pensare a un problema reale e diffuso. Il cavallo, ovviamente, non è una soluzione per tutti. Ha bisogno di cure, di spazio e di tempo. Ma il suo gesto resta un modo originale per dire che muoversi ogni giorno è diventato caro.",
-        "vocab": [
-          {
-            "front": "il comune",
-            "pos": "noun",
-            "back": "municipality, town (as an administrative unit)",
-            "example": "Il comune ha meno di duemila abitanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare a cavallo",
-            "pos": "phrase",
-            "back": "to ride, to go on horseback",
-            "example": "Il sabato va a cavallo con gli amici.",
-            "tier": "A2"
-          },
-          {
-            "front": "la benzina",
-            "pos": "noun",
-            "back": "petrol",
-            "example": "La benzina costa sempre di più.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'assicurazione",
-            "pos": "noun",
-            "back": "insurance",
-            "example": "Ho pagato l'assicurazione dell'auto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la manutenzione",
-            "pos": "noun",
-            "back": "maintenance, upkeep",
-            "example": "La manutenzione della casa costa parecchio.",
-            "tier": "B1"
-          },
-          {
-            "front": "i mezzi pubblici",
-            "pos": "noun",
-            "back": "public transport",
-            "example": "In centro conviene usare i mezzi pubblici.",
-            "tier": "A2"
-          },
-          {
-            "front": "far sorridere",
-            "pos": "phrase",
-            "back": "to make someone smile",
-            "example": "La sua risposta mi ha fatto sorridere.",
-            "tier": "B1"
-          },
-          {
-            "front": "riflettere",
-            "pos": "verb",
-            "back": "to think, to reflect",
-            "example": "Devo riflettere prima di decidere.",
-            "tier": "B1"
-          },
-          {
-            "front": "spostarsi",
-            "pos": "verb",
-            "back": "to move around, to get about",
-            "example": "In città mi sposto in bici.",
-            "tier": "A2"
-          },
-          {
-            "front": "far fatica a",
-            "pos": "phrase",
-            "back": "to struggle to, to find it hard to",
-            "example": "Faccio fatica a svegliarmi presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "insolito",
-            "pos": "adj",
-            "back": "unusual",
-            "example": "È stata una giornata insolita.",
-            "tier": "B1"
-          },
-          {
-            "front": "diffuso",
-            "pos": "adj",
-            "back": "widespread, common",
-            "example": "È un problema molto diffuso.",
-            "tier": "B1"
-          },
-          {
-            "front": "le spese",
-            "pos": "noun",
-            "back": "costs, expenses",
-            "example": "Le spese di casa sono aumentate.",
-            "tier": "A2"
-          },
-          {
-            "front": "le cure",
-            "pos": "noun",
-            "back": "care, looking after (not 'cures')",
-            "example": "Un animale ha bisogno di cure quotidiane.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Per andare al lavoro non usa più l'auto: va a cavallo.",
-            "point": "per + infinito for purpose, and non ... più",
-            "explanation": "Per plus an infinitive expresses purpose, in order to go to work. Non ... più means not any more, with non before the verb and più straight after it.",
-            "why_tricky": "English uses a gerund after for (for going), so learners write per andando. And più on its own means more, so the negative sense only appears with non."
-          },
-          {
-            "sentence": "Chi non ha l'auto fa fatica a spostarsi, e chi ce l'ha deve pagare spese sempre più alte.",
-            "point": "chi as a free relative, plus ce l'ha",
-            "explanation": "Chi means whoever or those who and needs no antecedent, and it always takes a singular verb: chi non ha, chi ce l'ha. In ce l'ha, ci becomes ce in front of a direct object pronoun, and l' here is la, standing for l'auto, which is feminine.",
-            "why_tricky": "Chi looks plural in meaning but is singular in grammar. Ce l'ha is heard so often as a block that learners rarely notice it is really ci plus la plus ha."
-          },
-          {
-            "sentence": "Ha bisogno di cure, di spazio e di tempo.",
-            "point": "avere bisogno di",
-            "explanation": "To need something is avere bisogno di, with di in front of every item in the list. Repeating di, rather than saying di cure, spazio e tempo, gives each item a little more weight.",
-            "why_tricky": "There is no single verb for to need here, so learners produce bisogna, which is a different, impersonal structure meaning one must."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "costare un occhio della testa",
-            "meaning": "to cost an arm and a leg",
-            "example": "Ormai mantenere un'auto costa un occhio della testa."
-          },
-          {
-            "phrase": "fare di necessità virtù",
-            "meaning": "to make the best of a bad situation",
-            "example": "Ha fatto di necessità virtù e ha scelto il cavallo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché Massimiliano ha deciso di non usare più l'auto?",
-            "type": "open"
-          },
-          {
-            "q": "Quale problema dei piccoli centri del Sud Italia racconta il testo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il cavallo non è una soluzione per tutti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come ti sposti di solito e quanto ti costa? Scrivi circa 100 parole sui trasporti nella tua zona."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-17-batterie-a-bottone-allarme",
-      "title": "Batterie a bottone, allarme del Bambino Gesù: sei ricoveri in tre mesi per gravi lesioni all'esofago",
-      "source": "Rai News",
-      "date": "2026-08-12",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "famiglia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-17-batterie-a-bottone-allarme",
-        "revision": 1,
-        "meta": {
-          "title": "Batterie a bottone, allarme del Bambino Gesù: sei ricoveri in tre mesi per gravi lesioni all'esofago",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/batterie-a-bottone-allarme-del-bambino-gesu-sei-ricoveri-in-tre-mesi-per-gravi-lesioni-allesofago-1051a3fe-2ef4-486a-b15b-a10833e50e9c.html",
-          "date_published": "2026-08-12",
-          "date_processed": "2026-08-17",
-          "tags": [
-            "salute",
-            "famiglia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Bambino Gesù hospital in Rome is raising the alarm. In three months six children have been admitted with serious injuries to the oesophagus. The cause is always the same: they swallowed a button battery. These small round objects are found in many homes, inside remote controls, watches and toys. They are easy to lose and children can mistake them for sweets.\n\nThe specialists explain that this is a time-dependent emergency. It means that every minute counts and that you have to go to A and E straight away, even if you only suspect it. In contact with body tissue, the battery can cause very serious damage in a short time. The doctors' advice is clear: do not wait for symptoms. For parents, prevention remains the best defence, which means keeping these objects out of reach of small children.",
-        "resumen_es": "L'ospedale Bambino Gesù di Roma lancia l'allarme. In tre mesi sei bambini sono stati ricoverati con gravi lesioni all'esofago. La causa è sempre la stessa: hanno ingerito una batteria a bottone. Questi piccoli oggetti rotondi si trovano in molte case, dentro telecomandi, orologi e giocattoli. Sono facili da perdere e i bambini possono scambiarli per caramelle.\n\nGli specialisti spiegano che si tratta di un'emergenza tempo-dipendente. Significa che ogni minuto conta e che bisogna andare subito al pronto soccorso, anche solo in caso di sospetto. La batteria, a contatto con i tessuti, può provocare danni molto seri in poco tempo. Il consiglio dei medici è chiaro: non aspettare i sintomi. Per i genitori la prevenzione resta la difesa migliore, cioè tenere questi oggetti fuori dalla portata dei più piccoli.",
-        "vocab": [
-          {
-            "front": "l'esofago",
-            "pos": "noun",
-            "back": "oesophagus, gullet",
-            "example": "La batteria si è fermata nell'esofago.",
-            "tier": "B1"
-          },
-          {
-            "front": "la lesione",
-            "pos": "noun",
-            "back": "injury, lesion",
-            "example": "Ha riportato una lesione al ginocchio.",
-            "tier": "B1"
-          },
-          {
-            "front": "ricoverare",
-            "pos": "verb",
-            "back": "to admit to hospital",
-            "example": "L'hanno ricoverata per due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "ingerire",
-            "pos": "verb",
-            "back": "to swallow, to ingest",
-            "example": "Il bambino ha ingerito una moneta.",
-            "tier": "B1"
-          },
-          {
-            "front": "la batteria a bottone",
-            "pos": "noun",
-            "back": "button battery",
-            "example": "L'orologio usa una batteria a bottone.",
-            "tier": "B1"
-          },
-          {
-            "front": "il telecomando",
-            "pos": "noun",
-            "back": "remote control",
-            "example": "Dov'è il telecomando della tv?",
-            "tier": "A2"
-          },
-          {
-            "front": "il giocattolo",
-            "pos": "noun",
-            "back": "toy",
-            "example": "I giocattoli sono sparsi per terra.",
-            "tier": "A2"
-          },
-          {
-            "front": "scambiare per",
-            "pos": "verb",
-            "back": "to mistake for",
-            "example": "L'ho scambiato per suo fratello.",
-            "tier": "B1"
-          },
-          {
-            "front": "trattarsi di",
-            "pos": "verb",
-            "back": "to be a matter of, to be a case of",
-            "example": "Si tratta di un errore, niente di grave.",
-            "tier": "B1"
-          },
-          {
-            "front": "tempo-dipendente",
-            "pos": "adj",
-            "back": "time-dependent, where every minute counts",
-            "example": "L'ictus è un'emergenza tempo-dipendente.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pronto soccorso",
-            "pos": "noun",
-            "back": "accident and emergency, casualty",
-            "example": "L'hanno portata al pronto soccorso.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sospetto",
-            "pos": "noun",
-            "back": "suspicion",
-            "example": "Abbiamo solo un sospetto, non una prova.",
-            "tier": "B1"
-          },
-          {
-            "front": "provocare",
-            "pos": "verb",
-            "back": "to cause",
-            "example": "Il fumo provoca molte malattie.",
-            "tier": "B1"
-          },
-          {
-            "front": "fuori dalla portata di",
-            "pos": "phrase",
-            "back": "out of reach of",
-            "example": "Tieni i farmaci fuori dalla portata dei bambini.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Sono facili da perdere e i bambini possono scambiarli per caramelle.",
-            "point": "essere facile da + infinito",
-            "explanation": "After facile, difficile, bello and similar adjectives, da plus an infinitive gives a passive sense even though the infinitive looks active: facili da perdere means easy to lose, that is, easy to be lost.",
-            "why_tricky": "Learners often write facili a perdere or facili da essere persi. The plain active infinitive after da is the natural form. Note too that the object pronoun attaches to the end of the infinitive: scambiarli."
-          },
-          {
-            "sentence": "Significa che ogni minuto conta e che bisogna andare subito al pronto soccorso, anche solo in caso di sospetto.",
-            "point": "bisogna + infinito",
-            "explanation": "Bisogna is impersonal and only ever appears in the third person singular. It is normally followed by an infinitive (bisogna andare); when the person acting is named, it takes che plus the congiuntivo (bisogna che tu vada).",
-            "why_tricky": "It is easily confused with avere bisogno di, which is personal and is followed by a noun or an infinitive (ho bisogno di aiuto, ho bisogno di dormire). Ho bisogno andare and bisogna di andare are both wrong."
-          },
-          {
-            "sentence": "La batteria, a contatto con i tessuti, può provocare danni molto seri in poco tempo.",
-            "point": "potere + infinito for possibility",
-            "explanation": "Può provocare here does not mean is allowed to but may or can, expressing a real risk. The modal is conjugated and the second verb stays in the infinitive.",
-            "why_tricky": "Potere covers both permission and possibility, so context decides. Note too that the third person singular is written può, with the accent."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "correre contro il tempo",
-            "meaning": "to race against the clock",
-            "example": "In questi casi i medici corrono contro il tempo."
-          },
-          {
-            "phrase": "meglio prevenire che curare",
-            "meaning": "prevention is better than cure",
-            "example": "Meglio prevenire che curare, quindi tieni le batterie fuori dalla portata dei bambini."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno ingerito i bambini arrivati in ospedale?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i medici parlano di un'emergenza tempo-dipendente?",
-            "type": "open"
-          },
-          {
-            "q": "Quale consiglio danno i medici ai genitori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Quali oggetti pericolosi ci sono in una casa normale e come si possono tenere lontani dai bambini? Scrivi circa 100 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-16-apple-avvisi-cyber",
-      "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
-      "source": "ANSA",
-      "date": "2026-08-16",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "sicurezza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-16-apple-avvisi-cyber",
-        "revision": 1,
-        "meta": {
-          "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/08/14/utenti-iphone-possibili-vittime-di-attacchi-cyber-apple-manda-avvisi-in-110_d1d1f892-45b8-4f32-b631-f321af6112ff.html",
-          "date_published": "2026-08-14",
-          "date_processed": "2026-08-16",
-          "tags": [
-            "tecnologia",
-            "sicurezza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Apple has sent a warning to iPhone users in 110 countries. The message appears on the phone's lock screen and tells the person about a possible cyber attack. These are not ordinary viruses. They are complex and very expensive attacks, usually aimed at journalists, lawyers and activists. The company advises people to update their phone straight away and to switch on the special protections.\n\nThese warnings are not new, but the number of countries involved is causing discussion. Experts say that the risk for the ordinary user remains low. Still, the episode is a reminder that our phone holds our whole life: photos, messages, bank and documents. A few habits are enough to reduce the danger: update the system, use long and different passwords, and never open suspicious links. Anyone who receives a warning should ask an expert for help.",
-        "resumen_es": "Apple ha mandato un avviso agli utenti iPhone di 110 Paesi. Il messaggio appare sullo schermo di blocco del telefono e parla di un possibile attacco informatico. Non si tratta di virus comuni. Sono attacchi complessi e molto costosi, di solito rivolti a giornalisti, avvocati e attivisti. L'azienda consiglia di aggiornare subito il telefono e di attivare le protezioni speciali.\n\nQuesti avvisi non sono una novità, ma il numero di Paesi coinvolti fa discutere. Gli esperti dicono che il rischio per l'utente normale resta basso. Però l'episodio ricorda che il telefono contiene la nostra vita: foto, messaggi, banca e documenti. Bastano poche abitudini per ridurre i pericoli: aggiornare il sistema, usare password lunghe e diverse, non aprire link sospetti. Chi riceve un avviso deve chiedere aiuto a un esperto.",
-        "vocab": [
-          {
-            "front": "l'avviso",
-            "pos": "noun",
-            "back": "warning, notice",
-            "example": "Ho ricevuto un avviso sul telefono.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo schermo di blocco",
-            "pos": "noun",
-            "back": "lock screen",
-            "example": "Il messaggio appare sullo schermo di blocco.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'attacco informatico",
-            "pos": "noun",
-            "back": "cyber attack",
-            "example": "L'ospedale ha subito un attacco informatico.",
-            "tier": "B1"
-          },
-          {
-            "front": "trattarsi di",
-            "pos": "verb",
-            "back": "to be a matter of, to be about",
-            "example": "Non si tratta di un errore tecnico.",
-            "tier": "B1"
-          },
-          {
-            "front": "rivolto a",
-            "pos": "adj",
-            "back": "aimed at, directed at",
-            "example": "Il corso è rivolto ai principianti.",
-            "tier": "B1"
-          },
-          {
-            "front": "aggiornare",
-            "pos": "verb",
-            "back": "to update",
-            "example": "Devo aggiornare il computer stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "la novità",
-            "pos": "noun",
-            "back": "something new, piece of news",
-            "example": "Ci sono novità sul lavoro?",
-            "tier": "A2"
-          },
-          {
-            "front": "coinvolto",
-            "pos": "adj",
-            "back": "involved",
-            "example": "I Paesi coinvolti sono più di cento.",
-            "tier": "B1"
-          },
-          {
-            "front": "far discutere",
-            "pos": "phrase",
-            "back": "to cause debate",
-            "example": "La decisione fa discutere in tutta Italia.",
-            "tier": "B1"
-          },
-          {
-            "front": "restare basso",
-            "pos": "phrase",
-            "back": "to remain low",
-            "example": "Il rischio resta basso per tutti.",
-            "tier": "A2"
-          },
-          {
-            "front": "bastare",
-            "pos": "verb",
-            "back": "to be enough",
-            "example": "Bastano dieci minuti per finire.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'abitudine",
-            "pos": "noun",
-            "back": "habit",
-            "example": "Ha l'abitudine di leggere la sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "sospetto",
-            "pos": "adj",
-            "back": "suspicious",
-            "example": "Non aprire mai un messaggio sospetto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Non si tratta di virus comuni.",
-            "point": "si tratta di, impersonal and always singular",
-            "explanation": "'Si tratta di' means 'it is a case of' or 'these are'. The verb stays in the third person singular even when the thing described is plural, as here with 'virus comuni'.",
-            "why_tricky": "Learners write 'si trattano di virus comuni', making the verb agree with the plural noun, which is never correct."
-          },
-          {
-            "sentence": "L'azienda consiglia di aggiornare subito il telefono e di attivare le protezioni speciali.",
-            "point": "consigliare di + infinitive",
-            "explanation": "Verbs of advising and asking take 'di' before the infinitive, and the 'di' is repeated before each verb in a list: 'di aggiornare ... e di attivare'.",
-            "why_tricky": "English says 'advises to update', with no preposition pattern to copy, so learners forget the second 'di'."
-          },
-          {
-            "sentence": "Bastano poche abitudini per ridurre i pericoli: aggiornare il sistema, usare password lunghe e diverse, non aprire link sospetti.",
-            "point": "bastare agrees with what is sufficient",
-            "explanation": "'Bastare' works like 'piacere': the grammatical subject is the thing that is enough, so with the plural 'poche abitudini' the verb becomes 'bastano', not 'basta'.",
-            "why_tricky": "Learners treat 'basta' as a fixed expression and never make it agree."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "mettere in guardia",
-            "meaning": "to warn someone, to put them on their guard",
-            "example": "Gli esperti mettono in guardia contro i messaggi falsi."
-          },
-          {
-            "phrase": "prevenire è meglio che curare",
-            "meaning": "prevention is better than cure",
-            "example": "Aggiorna il telefono: prevenire è meglio che curare."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove appare il messaggio di Apple sul telefono?",
-            "type": "open"
-          },
-          {
-            "q": "Chi sono di solito le persone colpite da questi attacchi?",
-            "type": "open"
-          },
-          {
-            "q": "Quali abitudini consigliano gli esperti per essere più sicuri?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, chi deve proteggere i nostri dati: le aziende o gli utenti? Scrivi 100 parole con due motivi."
       }
     }
   ]
