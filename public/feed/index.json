@@ -1,7 +1,483 @@
 {
-  "generated_at": "2026-08-25T20:42:16Z",
+  "generated_at": "2026-08-26T07:11:39Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-26-eclissi-luna",
+      "title": "Dopo l'eclissi di Sole arriva quella di Luna, spettacolo all'alba del 28 agosto",
+      "source": "ANSA",
+      "date": "2026-08-25",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "astronomia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-eclissi-luna",
+        "revision": 1,
+        "meta": {
+          "title": "Dopo l'eclissi di Sole arriva quella di Luna, spettacolo all'alba del 28 agosto",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/25/dopo-leclissi-di-sole-arriva-quella-di-luna-spettacolo-allalba-del-28-agosto_b648a6f5-3bcb-498a-86ac-f3532d6c6a89.html",
+          "date_published": "2026-08-25",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "scienza",
+            "astronomia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "After the solar eclipse comes a lunar eclipse. The show is expected at dawn on 28 August. The Earth's shadow will cover about 90% of the Moon. Our satellite will turn red. It will be a special moment for anyone who loves watching the sky. No instruments are needed: it is enough to look towards the horizon, if the sky is clear.\n\nLunar eclipses happen when the Earth passes between the Sun and the Moon. Sunlight passes through the Earth's atmosphere and becomes red, like in a sunset. That is why the Moon looks red during the eclipse. Experts advise finding a dark place, far from the lights of the city. Even a simple camera can capture beautiful images of this natural phenomenon.",
+        "resumen_es": "Dopo l'eclissi di Sole, arriva l'eclissi di Luna. Lo spettacolo è previsto all'alba del 28 agosto. L'ombra della Terra coprirà circa il 90% della Luna. Il nostro satellite si colorerà di rosso. Sarà un momento speciale per chi ama guardare il cielo. Non servono strumenti: basta guardare verso l'orizzonte, se il cielo è sereno.\n\nLe eclissi di Luna succedono quando la Terra passa tra il Sole e la Luna. La luce del Sole attraversa l'atmosfera terrestre e diventa rossa, come in un tramonto. Per questo la Luna sembra rossa durante l'eclissi. Gli esperti consigliano di cercare un posto buio, lontano dalle luci della città. Anche una semplice macchina fotografica può catturare belle immagini di questo fenomeno naturale.",
+        "vocab": [
+          {
+            "front": "l'ombra",
+            "pos": "noun",
+            "back": "shadow",
+            "example": "L'ombra dell'albero copre il giardino.",
+            "tier": "B1"
+          },
+          {
+            "front": "coprire",
+            "pos": "verb",
+            "back": "to cover",
+            "example": "Le nuvole coprono il sole.",
+            "tier": "B1"
+          },
+          {
+            "front": "colorarsi",
+            "pos": "verb",
+            "back": "to turn (a colour)",
+            "example": "Il cielo si colora di rosso la sera.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'alba",
+            "pos": "noun",
+            "back": "dawn, sunrise",
+            "example": "Mi sveglio sempre prima dell'alba.",
+            "tier": "B1"
+          },
+          {
+            "front": "sereno",
+            "pos": "adj",
+            "back": "clear (sky), calm",
+            "example": "Domani il cielo sarà sereno.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'orizzonte",
+            "pos": "noun",
+            "back": "horizon",
+            "example": "Il sole scende sotto l'orizzonte.",
+            "tier": "B1"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross, to pass through",
+            "example": "La luce attraversa il vetro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tramonto",
+            "pos": "noun",
+            "back": "sunset",
+            "example": "Il tramonto al mare è bellissimo.",
+            "tier": "A2"
+          },
+          {
+            "front": "consigliare",
+            "pos": "verb",
+            "back": "to advise, to recommend",
+            "example": "Ti consiglio questo ristorante.",
+            "tier": "A2"
+          },
+          {
+            "front": "buio",
+            "pos": "adj",
+            "back": "dark",
+            "example": "La strada era molto buia.",
+            "tier": "A2"
+          },
+          {
+            "front": "catturare",
+            "pos": "verb",
+            "back": "to capture",
+            "example": "La foto cattura un momento speciale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fenomeno",
+            "pos": "noun",
+            "back": "phenomenon",
+            "example": "L'eclissi è un fenomeno naturale.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'ombra della Terra coprirà circa il 90% della Luna.",
+            "point": "futuro semplice for predictions",
+            "explanation": "Coprirà is the simple future of coprire: the shadow will cover. Italian uses the future for events that are certain to happen.",
+            "why_tricky": "Verbs ending in -ire like coprire form the future with -irò, -irai, -irà; learners often mix up the endings with -are verbs."
+          },
+          {
+            "sentence": "Non servono strumenti: basta guardare verso l'orizzonte, se il cielo è sereno.",
+            "point": "impersonal servire and bastare",
+            "explanation": "Servono agrees with strumenti (no instruments are needed). Basta + infinitive means 'it is enough to'.",
+            "why_tricky": "In Italian the thing needed is the grammatical subject, so the verb is plural: non servono strumenti, not 'non serve strumenti'."
+          },
+          {
+            "sentence": "Le eclissi di Luna succedono quando la Terra passa tra il Sole e la Luna.",
+            "point": "invariable nouns: l'eclissi / le eclissi",
+            "explanation": "Eclissi does not change in the plural; only the article shows the number: l'eclissi (singular), le eclissi (plural).",
+            "why_tricky": "Nouns ending in -i stay the same in the plural, so the article is the only clue to singular or plural."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a occhio nudo",
+            "meaning": "with the naked eye",
+            "example": "L'eclissi si può vedere a occhio nudo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando sarà possibile vedere l'eclissi di Luna?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la Luna diventa rossa durante l'eclissi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa consigliano gli esperti per vedere bene lo spettacolo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta un momento in cui hai visto qualcosa di speciale nel cielo, o che cosa vorresti vedere un giorno."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-26-missili-bari",
+      "title": "Tre missili da guerra nascosti nel furgone, arrestato un cittadino francese a Bari",
+      "source": "RaiNews",
+      "date": "2026-08-26",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "sicurezza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-missili-bari",
+        "revision": 1,
+        "meta": {
+          "title": "Tre missili da guerra nascosti nel furgone, arrestato un cittadino francese a Bari",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/08/tre-missili-da-guerra-nascosti-nel-furgone-arrestato-un-cittadino-francese-a-bari-dffdb9ba-493e-4855-9289-8fbb662dd998.html",
+          "date_published": "2026-08-26",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "cronaca",
+            "sicurezza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Italian police have arrested a French citizen in the port of Bari. In his van there were three war missiles, hidden in the cargo. Officers discovered the weapons during a routine check. The man had just arrived on a ferry from Patras, in Greece. They are Akeron-type missiles, very powerful weapons used by armies.\n\nInvestigators now want to understand where the missiles come from and where they were supposed to go. The port of Bari is an important hub for ferries between Italy and Greece. Every day many lorries and vans pass through. The checks exist precisely to stop illegal trafficking. The case shows that arms trafficking remains a serious problem in Europe.",
+        "resumen_es": "La polizia italiana ha arrestato un cittadino francese nel porto di Bari. Nel suo furgone c'erano tre missili da guerra, nascosti nel carico. Gli agenti hanno scoperto le armi durante un controllo di routine. L'uomo era appena arrivato con un traghetto da Patrasso, in Grecia. Si tratta di missili di tipo Akeron, armi molto potenti usate dagli eserciti.\n\nOra gli investigatori vogliono capire da dove vengono i missili e dove dovevano andare. Il porto di Bari è un punto importante per i traghetti tra l'Italia e la Grecia. Ogni giorno passano molti camion e furgoni. I controlli servono proprio a fermare i traffici illegali. Il caso mostra che il traffico di armi resta un problema serio in Europa.",
+        "vocab": [
+          {
+            "front": "arrestare",
+            "pos": "verb",
+            "back": "to arrest",
+            "example": "La polizia ha arrestato due persone.",
+            "tier": "A2"
+          },
+          {
+            "front": "il furgone",
+            "pos": "noun",
+            "back": "van",
+            "example": "Il furgone era pieno di scatole.",
+            "tier": "B1"
+          },
+          {
+            "front": "nascosto",
+            "pos": "adj",
+            "back": "hidden",
+            "example": "I soldi erano nascosti sotto il letto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il carico",
+            "pos": "noun",
+            "back": "load, cargo",
+            "example": "Il camion trasporta un carico pesante.",
+            "tier": "B1"
+          },
+          {
+            "front": "il controllo",
+            "pos": "noun",
+            "back": "check, inspection",
+            "example": "C'è un controllo dei documenti alla frontiera.",
+            "tier": "A2"
+          },
+          {
+            "front": "il traghetto",
+            "pos": "noun",
+            "back": "ferry",
+            "example": "Prendiamo il traghetto per la Sicilia.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'arma",
+            "pos": "noun",
+            "back": "weapon (plural: le armi)",
+            "example": "È vietato portare armi.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'esercito",
+            "pos": "noun",
+            "back": "army",
+            "example": "Suo fratello lavora nell'esercito.",
+            "tier": "B1"
+          },
+          {
+            "front": "gli investigatori",
+            "pos": "noun",
+            "back": "investigators",
+            "example": "Gli investigatori cercano nuove prove.",
+            "tier": "B1"
+          },
+          {
+            "front": "il traffico illegale",
+            "pos": "phrase",
+            "back": "illegal trafficking",
+            "example": "La polizia combatte il traffico illegale di armi.",
+            "tier": "B1"
+          },
+          {
+            "front": "appena",
+            "pos": "adv",
+            "back": "just (a moment ago)",
+            "example": "Sono appena arrivato a casa.",
+            "tier": "A2"
+          },
+          {
+            "front": "fermare",
+            "pos": "verb",
+            "back": "to stop (someone or something)",
+            "example": "Un poliziotto ha fermato la macchina.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'uomo era appena arrivato con un traghetto da Patrasso, in Grecia.",
+            "point": "trapassato prossimo + appena",
+            "explanation": "Era arrivato (imperfect of essere + past participle) describes an action completed before another past moment. Appena adds 'had just'.",
+            "why_tricky": "Arrivare takes essere, so the participle agrees with the subject: era arrivato for a man, era arrivata for a woman."
+          },
+          {
+            "sentence": "Nel suo furgone c'erano tre missili da guerra, nascosti nel carico.",
+            "point": "c'erano + da for purpose",
+            "explanation": "C'erano is the plural past of c'è (there were). Missili da guerra uses da to describe what something is for: war missiles.",
+            "why_tricky": "The da + noun structure (scarpe da tennis, missili da guerra) expresses purpose, not possession; 'di guerra' would sound wrong here."
+          },
+          {
+            "sentence": "Ora gli investigatori vogliono capire da dove vengono i missili e dove dovevano andare.",
+            "point": "indirect questions with da dove / dove",
+            "explanation": "After capire, the question words keep their normal order: da dove vengono (where they come from), dove dovevano andare (where they were supposed to go).",
+            "why_tricky": "Unlike English, Italian does not change the word order in indirect questions; the verb can stay before the subject."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "essere in regola",
+            "meaning": "to have everything in order (documents, papers)",
+            "example": "Il camionista era in regola con tutti i documenti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha trovato la polizia nel furgone?",
+            "type": "open"
+          },
+          {
+            "q": "Da dove arrivava l'uomo arrestato?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa vogliono capire ora gli investigatori?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i controlli nei porti e alle frontiere sono abbastanza severi? Scrivi la tua opinione con qualche esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-26-brignone-ginocchio",
+      "title": "Nuovo intervento al ginocchio per Federica Brignone: l'obiettivo è tornare in pista per i mondiali",
+      "source": "RaiNews",
+      "date": "2026-08-26",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "sci"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-26-brignone-ginocchio",
+        "revision": 1,
+        "meta": {
+          "title": "Nuovo intervento al ginocchio per Federica Brignone: l'obiettivo è tornare in pista per i mondiali",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/08/federica-brignone-torna-sotto-i-ferri-la-mia-gamba-migliora-ma-ho-ancora-dolore-cc58a697-a3ee-4d64-a771-20bcc1398967.html",
+          "date_published": "2026-08-26",
+          "date_processed": "2026-08-26",
+          "tags": [
+            "sport",
+            "sci"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Italian skier Federica Brignone has been operated on again on her knee. Doctors removed a plate and some screws from her leg. The plate and screws had been put in after her serious injury in 2025. The operation went well and the situation is better than expected. The champion will have to stop for about four to six weeks.\n\nBrignone said that her leg is improving, but that she still feels pain. Her goal is to return to skiing in time for the world championships. For an athlete, a long break is always difficult, physically and mentally. Italian fans hope to see her back on the slopes soon. Her story shows how hard the road back is after a major injury.",
+        "resumen_es": "La sciatrice italiana Federica Brignone è stata operata di nuovo al ginocchio. I medici hanno tolto una placca e alcune viti dalla gamba. Placca e viti erano state messe dopo il grave infortunio del 2025. L'operazione è andata bene e la situazione è migliore del previsto. La campionessa dovrà fermarsi per circa quattro o sei settimane.\n\nBrignone ha detto che la gamba migliora, ma che sente ancora dolore. Il suo obiettivo è tornare a sciare in tempo per i mondiali. Per un'atleta, un lungo stop è sempre difficile, fisicamente e mentalmente. I tifosi italiani sperano di rivederla presto in pista. La sua storia mostra quanto è dura la strada del ritorno dopo un grande infortunio.",
+        "vocab": [
+          {
+            "front": "la sciatrice",
+            "pos": "noun",
+            "back": "skier (female)",
+            "example": "La sciatrice ha vinto la gara.",
+            "tier": "B1"
+          },
+          {
+            "front": "operare",
+            "pos": "verb",
+            "back": "to operate on (surgery)",
+            "example": "I medici hanno operato il paziente.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ginocchio",
+            "pos": "noun",
+            "back": "knee",
+            "example": "Mi fa male il ginocchio destro.",
+            "tier": "A2"
+          },
+          {
+            "front": "togliere",
+            "pos": "verb",
+            "back": "to remove, to take away",
+            "example": "Il dentista mi ha tolto un dente.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vite",
+            "pos": "noun",
+            "back": "screw",
+            "example": "Serve un cacciavite per questa vite.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'infortunio",
+            "pos": "noun",
+            "back": "injury",
+            "example": "L'infortunio lo ha fermato per tre mesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "fermarsi",
+            "pos": "verb",
+            "back": "to stop (oneself), to take a break",
+            "example": "Devo fermarmi a riposare un momento.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'obiettivo",
+            "pos": "noun",
+            "back": "goal, objective",
+            "example": "Il mio obiettivo è imparare l'italiano.",
+            "tier": "A2"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano allo stadio.",
+            "tier": "A2"
+          },
+          {
+            "front": "la pista",
+            "pos": "noun",
+            "back": "slope, track",
+            "example": "La pista da sci era perfetta.",
+            "tier": "A2"
+          },
+          {
+            "front": "migliorare",
+            "pos": "verb",
+            "back": "to improve",
+            "example": "Il tempo migliora domani.",
+            "tier": "A2"
+          },
+          {
+            "front": "duro",
+            "pos": "adj",
+            "back": "hard, tough",
+            "example": "È stato un anno molto duro.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La sciatrice italiana Federica Brignone è stata operata di nuovo al ginocchio.",
+            "point": "passive voice with essere + past participle",
+            "explanation": "È stata operata = she has been operated on. The participle agrees with the feminine subject: stata operata.",
+            "why_tricky": "Both parts agree in gender and number (è stata operata, sono stati operati), which English does not show at all."
+          },
+          {
+            "sentence": "La campionessa dovrà fermarsi per circa quattro o sei settimane.",
+            "point": "future of dovere + reflexive infinitive",
+            "explanation": "Dovrà is the future of dovere (she will have to). The reflexive pronoun attaches to the infinitive: fermarsi.",
+            "why_tricky": "Dovere has an irregular future stem (dovr-), and the pronoun si moves to the end of the infinitive."
+          },
+          {
+            "sentence": "Brignone ha detto che la gamba migliora, ma che sente ancora dolore.",
+            "point": "reported speech with che",
+            "explanation": "After ha detto, each reported clause is introduced by che, repeated before every new verb: che la gamba migliora... ma che sente.",
+            "why_tricky": "English drops 'that' easily; Italian normally repeats che before each reported clause."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "rimettersi in piedi",
+            "meaning": "to get back on one's feet, to recover",
+            "example": "Dopo l'infortunio si è rimessa in piedi con pazienza."
+          },
+          {
+            "phrase": "essere sotto i ferri",
+            "meaning": "to be under the knife (having surgery)",
+            "example": "Il campione è tornato sotto i ferri per il ginocchio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché Federica Brignone è stata operata di nuovo?",
+            "type": "open"
+          },
+          {
+            "q": "Per quanto tempo dovrà fermarsi la sciatrice?",
+            "type": "open"
+          },
+          {
+            "q": "Qual è il suo obiettivo per i prossimi mesi?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Lo sport professionistico chiede molti sacrifici al corpo. Secondo te, vale la pena? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-08-25-dolly-parton-addio",
       "title": "Addio a Dolly Parton, la regina del country aveva 80 anni",
@@ -6084,509 +6560,6 @@
           }
         ],
         "opinion_prompt": "Come cambia la tua giornata quando fa molto caldo? Scrivi circa 100 parole e spiega che cosa fai per stare meglio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-19-film-brutto-cina",
-      "title": "Il film \"brutto\" che conquista inaspettatamente il box office cinese",
-      "source": "Rai News",
-      "date": "2026-08-19",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "Cina"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-19-film-brutto-cina",
-        "revision": 1,
-        "meta": {
-          "title": "Il film \"brutto\" che conquista inaspettatamente il box office cinese",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/il-film-brutto-che-conquista-il-box-office-cinese-753fd924-124a-43fb-9525-0490b4df59b6.html",
-          "date_published": "2026-08-18",
-          "date_processed": "2026-08-19",
-          "tags": [
-            "cinema",
-            "Cina"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In China a low-budget animated film has become an unexpected box office hit. At first the reviews were very negative: the film was called ugly. Those criticisms, however, went viral on social media and drove huge numbers of people to the cinema to see it with their own eyes.\n\nIt is a mechanism the public knows well: when something is panned in an entertaining way, curiosity grows. So a film that nobody was expecting found itself at the top of the charts. For producers it is a lesson that is hard to act on, because nobody can plan a viral panning. What remains true is that today online word of mouth often counts for more than advertising. The case comes from China, but the same thing happens everywhere, from books to television series.",
-        "resumen_es": "In Cina un film d'animazione a basso costo è diventato un successo inatteso al box office. All'inizio le recensioni erano molto negative: il film è stato definito brutto. Quelle critiche però sono diventate virali sui social e hanno spinto tantissime persone ad andare al cinema per vederlo con i propri occhi.\n\nÈ un meccanismo che il pubblico conosce bene: quando qualcosa viene stroncato in modo divertente, la curiosità cresce. Così un film che nessuno si aspettava si è ritrovato in cima alle classifiche. Per i produttori è una lezione difficile da sfruttare, perché nessuno può programmare una stroncatura virale. Resta il fatto che oggi il passaparola online conta spesso più della pubblicità. Il caso arriva dalla Cina, ma succede lo stesso in ogni settore, dai libri alle serie televisive.",
-        "vocab": [
-          {
-            "front": "il film d'animazione",
-            "pos": "noun",
-            "back": "animated film",
-            "example": "I bambini adorano quel film d'animazione.",
-            "tier": "A2"
-          },
-          {
-            "front": "a basso costo",
-            "pos": "phrase",
-            "back": "low-budget, cheap",
-            "example": "È una produzione a basso costo, girata in un mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il successo",
-            "pos": "noun",
-            "back": "success, hit",
-            "example": "La canzone è stata un successo enorme.",
-            "tier": "A2"
-          },
-          {
-            "front": "inatteso",
-            "pos": "adj",
-            "back": "unexpected",
-            "example": "È arrivato un risultato inatteso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la recensione",
-            "pos": "noun",
-            "back": "review",
-            "example": "Ho letto una recensione molto severa.",
-            "tier": "B1"
-          },
-          {
-            "front": "definire",
-            "pos": "verb",
-            "back": "to call, to describe as",
-            "example": "Lo hanno definito il peggior film dell'anno.",
-            "tier": "B1"
-          },
-          {
-            "front": "spingere",
-            "pos": "verb",
-            "back": "to push, to drive (someone to do something)",
-            "example": "La curiosità mi ha spinto a comprare il biglietto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la curiosità",
-            "pos": "noun",
-            "back": "curiosity",
-            "example": "La curiosità è più forte della paura.",
-            "tier": "A2"
-          },
-          {
-            "front": "stroncare",
-            "pos": "verb",
-            "back": "to pan, to slam (a film or book)",
-            "example": "I critici hanno stroncato lo spettacolo.",
-            "tier": "B2"
-          },
-          {
-            "front": "la stroncatura",
-            "pos": "noun",
-            "back": "a panning, a savage review",
-            "example": "La stroncatura sul giornale non ha fermato il pubblico.",
-            "tier": "B2"
-          },
-          {
-            "front": "la classifica",
-            "pos": "noun",
-            "back": "chart, ranking",
-            "example": "Il disco è primo in classifica da tre settimane.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the audience, the public",
-            "example": "Il pubblico rideva in continuazione.",
-            "tier": "A2"
-          },
-          {
-            "front": "il passaparola",
-            "pos": "noun",
-            "back": "word of mouth",
-            "example": "Il ristorante è pieno grazie al passaparola.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pubblicità",
-            "pos": "noun",
-            "back": "advertising, advert",
-            "example": "Hanno speso poco in pubblicità.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "il film è stato definito brutto",
-            "point": "passivo con essere e accordo del participio",
-            "explanation": "Nel passivo con essere il participio si accorda con il soggetto: il film è stato definito, i film sono stati definiti, la pellicola è stata definita.",
-            "why_tricky": "Ci sono due participi di fila, stato e definito, e in inglese si dice was called con una sola forma; inoltre l'aggettivo brutto si accorda anche lui con il soggetto."
-          },
-          {
-            "sentence": "quando qualcosa viene stroncato in modo divertente",
-            "point": "passivo con venire",
-            "explanation": "Nel passivo si può usare essere o venire; venire mette l'accento sull'azione che avviene o che si ripete, non sullo stato.",
-            "why_tricky": "Venire come ausiliare non si traduce con to come, e funziona solo nei tempi semplici: non si dice è venuto stroncato."
-          },
-          {
-            "sentence": "un film che nessuno si aspettava si è ritrovato in cima alle classifiche",
-            "point": "verbi pronominali con essere",
-            "explanation": "Ritrovarsi e aspettarsi sono pronominali e nei tempi composti vogliono essere, con il participio che si accorda con il soggetto: si è ritrovato, si sono ritrovati.",
-            "why_tricky": "Il verbo semplice ritrovare vuole avere, ho ritrovato le chiavi, mentre la forma pronominale ritrovarsi vuole essere. Attenzione anche ad aspettare, che significa to wait, contro aspettarsi, che significa to expect."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare il pieno di",
-            "meaning": "to rake in, to be packed with",
-            "example": "Il film ha fatto il pieno di spettatori nel fine settimana."
-          },
-          {
-            "phrase": "andare a ruba",
-            "meaning": "to sell like hot cakes",
-            "example": "I biglietti sono andati a ruba in due giorni."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché all'inizio il film sembrava destinato a non avere successo?",
-            "type": "open"
-          },
-          {
-            "q": "Che ruolo hanno avuto i social network in questa storia?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il testo dice che è una lezione difficile da sfruttare per i produttori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Sei mai andato a vedere un film o a leggere un libro proprio perché ne parlavano male? Scrivi circa 100 parole e racconta com'è andata."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-19-carburanti-accise",
-      "title": "Carburanti, il taglio delle accise non basta: rincari su benzina e diesel, protestano le imprese",
-      "source": "Rai News",
-      "date": "2026-08-19",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "trasporti"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-19-carburanti-accise",
-        "revision": 1,
-        "meta": {
-          "title": "Carburanti, il taglio delle accise non basta: rincari su benzina e diesel, protestano le imprese",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/carburanti-il-taglio-delle-accise-non-basta-rincari-su-benzina-e-diesel-protestano-le-imprese-9846bb1d-3a76-4b8e-b044-800f3f2def12.html",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-19",
-          "tags": [
-            "economia",
-            "trasporti"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Italy the prices of petrol and diesel have started rising again. The cut in fuel duty has not been enough: diesel on the motorway is back to the levels of 4 August, effectively wiping out the seventeen-cent discount. Trade and consumer associations are asking the government for new measures.\n\nThe problem does not only affect people going on holiday. For haulage firms fuel is an enormous cost item, and every increase sooner or later feeds through into shop prices. For now it is not known whether the government will act again on fuel taxes. In the meantime, anyone who drives for a living every day looks at the price board on the forecourt with a certain amount of worry.",
-        "resumen_es": "In Italia i prezzi della benzina e del gasolio sono tornati a salire. Il taglio delle accise non è bastato: il gasolio in autostrada è tornato ai livelli del 4 agosto, annullando di fatto lo sconto di diciassette centesimi. Le associazioni di categoria e dei consumatori chiedono nuove misure al Governo.\n\nIl problema non riguarda solo chi va in vacanza. Per i trasportatori il carburante è una voce di spesa enorme, e ogni aumento finisce prima o poi nel prezzo dei prodotti nei negozi. Per ora non si sa se il Governo interverrà di nuovo sulle tasse dei carburanti. Nel frattempo chi guida ogni giorno per lavoro guarda il cartello del distributore con una certa preoccupazione.",
-        "vocab": [
-          {
-            "front": "il carburante",
-            "pos": "noun",
-            "back": "fuel",
-            "example": "Il carburante costa di più in autostrada.",
-            "tier": "B1"
-          },
-          {
-            "front": "la benzina",
-            "pos": "noun",
-            "back": "petrol",
-            "example": "Devo mettere benzina prima di partire.",
-            "tier": "A2"
-          },
-          {
-            "front": "il gasolio",
-            "pos": "noun",
-            "back": "diesel fuel",
-            "example": "Il gasolio è aumentato di tre centesimi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'autostrada",
-            "pos": "noun",
-            "back": "motorway",
-            "example": "In autostrada il pieno costa di più.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'accisa",
-            "pos": "noun",
-            "back": "excise duty (tax on fuel)",
-            "example": "Le accise pesano molto sul prezzo finale.",
-            "tier": "B1"
-          },
-          {
-            "front": "il taglio",
-            "pos": "noun",
-            "back": "cut, reduction",
-            "example": "Hanno annunciato un taglio delle tasse.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rincaro",
-            "pos": "noun",
-            "back": "price increase",
-            "example": "I rincari colpiscono soprattutto le famiglie.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo sconto",
-            "pos": "noun",
-            "back": "discount",
-            "example": "Con lo sconto risparmio dieci euro.",
-            "tier": "A2"
-          },
-          {
-            "front": "il centesimo",
-            "pos": "noun",
-            "back": "cent",
-            "example": "Costa due euro e cinquanta centesimi.",
-            "tier": "A2"
-          },
-          {
-            "front": "il trasportatore",
-            "pos": "noun",
-            "back": "haulier, transport operator",
-            "example": "I trasportatori hanno organizzato una protesta.",
-            "tier": "B1"
-          },
-          {
-            "front": "la voce",
-            "pos": "noun",
-            "back": "item, entry (in a budget); hence voce di spesa, cost item",
-            "example": "L'affitto è la voce di spesa più alta.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'aumento",
-            "pos": "noun",
-            "back": "increase, rise",
-            "example": "C'è stato un aumento dei prezzi a luglio.",
-            "tier": "A2"
-          },
-          {
-            "front": "la misura",
-            "pos": "noun",
-            "back": "measure (policy)",
-            "example": "Il Governo studia nuove misure per le imprese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il distributore",
-            "pos": "noun",
-            "back": "petrol station, pump",
-            "example": "Mi fermo al distributore prima dell'uscita.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il taglio delle accise non è bastato",
-            "point": "bastare nei tempi composti vuole essere",
-            "explanation": "Bastare è un verbo intransitivo che nei tempi composti prende essere, e il participio si accorda con il soggetto: la misura non è bastata.",
-            "why_tricky": "In inglese si usa sempre have, quindi si scrive spesso non ha bastato; inoltre il soggetto di bastare è la cosa che non è sufficiente, non la persona."
-          },
-          {
-            "sentence": "Il problema non riguarda solo chi va in vacanza",
-            "point": "chi con valore di le persone che",
-            "explanation": "Chi qui non è una domanda: significa le persone che, ed è sempre singolare, quindi il verbo va alla terza persona singolare, va.",
-            "why_tricky": "Poiché il senso è plurale, molti studenti scrivono chi vanno; in inglese si direbbe those who go, con il verbo al plurale."
-          },
-          {
-            "sentence": "Per ora non si sa se il Governo interverrà di nuovo sulle tasse dei carburanti",
-            "point": "si impersonale e domanda indiretta con se",
-            "explanation": "Non si sa significa nobody knows, senza soggetto preciso, e se introduce una domanda indiretta con il verbo all'indicativo, qui il futuro interverrà.",
-            "why_tricky": "Se qui non significa if nel senso di condizione ma whether; e il futuro italiano interverrà è irregolare, da intervenire."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "costare un occhio della testa",
-            "meaning": "to cost an arm and a leg",
-            "example": "Un pieno di benzina oggi costa un occhio della testa."
-          },
-          {
-            "phrase": "tirare la cinghia",
-            "meaning": "to tighten one's belt",
-            "example": "Con questi prezzi molte famiglie tirano la cinghia."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché il taglio delle accise non ha aiutato gli automobilisti come si sperava?",
-            "type": "open"
-          },
-          {
-            "q": "Perché i prezzi del carburante interessano anche chi non ha l'auto?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa chiedono al Governo le associazioni, secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te il Governo deve abbassare le tasse sui carburanti o usare quei soldi per i trasporti pubblici? Scrivi circa 100 parole con la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-18-palio-nicchio",
-      "title": "La contrada del Nicchio vince il Palio dell'Assunta, trionfa Tittia che cade all'arrivo",
-      "source": "RaiNews",
-      "date": "2026-08-18",
-      "level": "A2-B1",
-      "topics": [
-        "tradizioni",
-        "sport"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-18-palio-nicchio",
-        "revision": 1,
-        "meta": {
-          "title": "La contrada del Nicchio vince il Palio dell'Assunta, trionfa Tittia che cade all'arrivo",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/08/la-contrada-del-nicchio-vince-il-palio-di-siena-tittia-trionfa-e-cade-dopo-arrivo-0a206c7f-524c-4a0f-8501-11c91259b943.html",
-          "date_published": "2026-08-18",
-          "date_processed": "2026-08-18",
-          "tags": [
-            "tradizioni",
-            "sport"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Nicchio district has won the Palio dell'Assunta in Siena. The jockey Tittia dominated the race, but fell off his horse just after the finish. Fortunately his condition is not serious. The Palio is run in Piazza del Campo, in the centre of the city, in front of thousands of people.\n\nThe Palio is a very old horse race that is very important for the city of Siena. The contrade are the city's historic districts, and each contrada has its own colours and symbols. There are two Palio races every summer: one in July and one in August, for the feast of the Assumption. For the people of Siena, victory is a moment of great joy that is celebrated for weeks.",
-        "resumen_es": "La contrada del Nicchio ha vinto il Palio dell'Assunta a Siena. Il fantino Tittia ha dominato la corsa, ma è caduto da cavallo subito dopo l'arrivo. Per fortuna le sue condizioni non sono gravi. Il Palio si corre in Piazza del Campo, nel centro della città, davanti a migliaia di persone.\n\nIl Palio è una corsa di cavalli molto antica e molto importante per la città di Siena. Le contrade sono i quartieri storici della città e ogni contrada ha i suoi colori e i suoi simboli. Ci sono due Palii ogni estate: uno a luglio e uno ad agosto, per la festa dell'Assunta. Per i senesi la vittoria è un momento di grande gioia che si festeggia per settimane.",
-        "vocab": [
-          {
-            "front": "la contrada",
-            "pos": "noun",
-            "back": "district (of Siena), city ward",
-            "example": "Ogni contrada di Siena ha una bandiera.",
-            "tier": "B2"
-          },
-          {
-            "front": "il fantino",
-            "pos": "noun",
-            "back": "jockey",
-            "example": "Il fantino monta il cavallo senza sella.",
-            "tier": "B1"
-          },
-          {
-            "front": "la corsa",
-            "pos": "noun",
-            "back": "race",
-            "example": "La corsa dura meno di due minuti.",
-            "tier": "B1"
-          },
-          {
-            "front": "cadere da cavallo",
-            "pos": "phrase",
-            "back": "to fall off a horse",
-            "example": "Il fantino è caduto da cavallo dopo l'arrivo.",
-            "tier": "B1"
-          },
-          {
-            "front": "per fortuna",
-            "pos": "phrase",
-            "back": "luckily, fortunately",
-            "example": "Per fortuna nessuno si è fatto male.",
-            "tier": "B1"
-          },
-          {
-            "front": "grave",
-            "pos": "adj",
-            "back": "serious, severe",
-            "example": "Le sue condizioni non sono gravi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il quartiere",
-            "pos": "noun",
-            "back": "neighbourhood",
-            "example": "Vivo in un quartiere storico della città.",
-            "tier": "B1"
-          },
-          {
-            "front": "antico",
-            "pos": "adj",
-            "back": "ancient, very old",
-            "example": "Il Palio è una tradizione molto antica.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vittoria",
-            "pos": "noun",
-            "back": "victory",
-            "example": "La vittoria è arrivata dopo molti anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "La contrada festeggia per settimane.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gioia",
-            "pos": "noun",
-            "back": "joy",
-            "example": "La gente piangeva di gioia.",
-            "tier": "B1"
-          },
-          {
-            "front": "migliaia di",
-            "pos": "phrase",
-            "back": "thousands of",
-            "example": "In piazza c'erano migliaia di persone.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il fantino Tittia ha dominato la corsa, ma è caduto da cavallo subito dopo l'arrivo.",
-            "point": "Passato prossimo: avere o essere",
-            "explanation": "'Ha dominato' usa avere perché 'dominare' ha un oggetto diretto. 'È caduto' usa essere perché 'cadere' è un verbo di movimento senza oggetto, e il participio concorda con il soggetto.",
-            "why_tricky": "Scegliere tra avere ed essere è una delle difficoltà principali del passato prossimo, e qui i due casi compaiono nella stessa frase."
-          },
-          {
-            "sentence": "Per i senesi la vittoria è un momento di grande gioia che si festeggia per settimane.",
-            "point": "'Si' passivante: 'si festeggia'",
-            "explanation": "'Che si festeggia per settimane' significa 'che viene festeggiato per settimane'. Il 'si' rende il verbo passivo o impersonale, senza dire chi compie l'azione.",
-            "why_tricky": "Lo stesso 'si' può essere riflessivo, impersonale o passivante: il contesto decide il significato."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per fortuna",
-            "meaning": "luckily, thank goodness",
-            "example": "Per fortuna il treno era in ritardo anche lui."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi ha vinto il Palio dell'Assunta e che cosa è successo al fantino?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa sono le contrade di Siena?",
-            "type": "open"
-          },
-          {
-            "q": "Quante volte si corre il Palio ogni estate e quando?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nel tuo paese esiste una festa o una tradizione antica come il Palio? Descrivila in poche frasi."
       }
     }
   ]
