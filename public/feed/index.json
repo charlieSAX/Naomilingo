@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-28T06:59:20Z",
+  "generated_at": "2026-08-28T07:12:07Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-28-islanda-referendum-ue",
+      "title": "L'Islanda guarda all'Ue, sabato il referendum per i negoziati",
+      "source": "ANSA",
+      "date": "2026-08-28",
+      "level": "A2-B1",
+      "topics": [
+        "politica",
+        "Europa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-islanda-referendum-ue",
+        "revision": 1,
+        "meta": {
+          "title": "L'Islanda guarda all'Ue, sabato il referendum per i negoziati",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/27/lislanda-guarda-allue-sabato-il-referendum-per-i-negoziati_05d93128-222c-4c73-af65-b13dd27495cc.html",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "politica",
+            "Europa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "On Saturday Iceland votes in a very important referendum. Citizens have to say whether the country should reopen negotiations to join the European Union. The polls put the yes vote slightly ahead, but the result is not certain. The issue has divided Icelandic politics for years. Many people think that Europe can give the country more economic stability. Others are worried about fishing, which is the island's most important resource.\n\nSaturday's vote does not decide membership. It only serves to open talks with Brussels. If there is then an agreement, Icelanders will vote a second time. This process can last several years. Iceland had already asked to join the Union after the financial crisis, but later it stopped everything. Today the international situation has changed and the debate has become topical again.",
+        "resumen_es": "Sabato l'Islanda vota in un referendum molto importante. I cittadini devono dire se il Paese deve aprire di nuovo i negoziati per entrare nell'Unione europea. I sondaggi danno il sì in leggero vantaggio, ma il risultato non è sicuro. Il tema divide da anni la politica islandese. Molti pensano che l'Europa possa dare più stabilità economica. Altri hanno paura per la pesca, che è la risorsa più importante dell'isola.\n\nIl voto di sabato non decide l'adesione. Serve solo ad aprire le trattative con Bruxelles. Se poi ci sarà un accordo, gli islandesi voteranno una seconda volta. Questo percorso può durare diversi anni. L'Islanda aveva già chiesto di entrare nell'Unione dopo la crisi finanziaria, ma poi aveva fermato tutto. Oggi la situazione internazionale è cambiata e il dibattito è tornato attuale.",
+        "vocab": [
+          {
+            "front": "il sondaggio",
+            "pos": "noun",
+            "back": "opinion poll, survey",
+            "example": "I sondaggi danno il sì in vantaggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "il negoziato",
+            "pos": "noun",
+            "back": "negotiation, talks",
+            "example": "I negoziati sono cominciati ieri mattina.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'adesione",
+            "pos": "noun",
+            "back": "membership, joining",
+            "example": "L'adesione all'Unione richiede molti anni.",
+            "tier": "B2"
+          },
+          {
+            "front": "la trattativa",
+            "pos": "noun",
+            "back": "negotiation, bargaining",
+            "example": "La trattativa è ancora aperta.",
+            "tier": "B2"
+          },
+          {
+            "front": "il vantaggio",
+            "pos": "noun",
+            "back": "advantage, lead",
+            "example": "La nostra squadra è in vantaggio di due gol.",
+            "tier": "B1"
+          },
+          {
+            "front": "dividere",
+            "pos": "verb",
+            "back": "to divide, to split",
+            "example": "Questo tema divide il Paese da molto tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere paura per",
+            "pos": "phrase",
+            "back": "to be worried about, to fear for",
+            "example": "Ho paura per il mio lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pesca",
+            "pos": "noun",
+            "back": "fishing",
+            "example": "La pesca dà lavoro a molte famiglie del posto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la risorsa",
+            "pos": "noun",
+            "back": "resource",
+            "example": "L'acqua è una risorsa preziosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "path, process, route",
+            "example": "Il percorso sarà lungo e difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "attuale",
+            "pos": "adj",
+            "back": "current, topical",
+            "example": "Il dibattito è di nuovo molto attuale.",
+            "tier": "B1"
+          },
+          {
+            "front": "durare",
+            "pos": "verb",
+            "back": "to last",
+            "example": "Il film dura più di due ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "di nuovo",
+            "pos": "adv",
+            "back": "again",
+            "example": "Devo leggere il testo di nuovo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I cittadini devono dire se il Paese deve aprire di nuovo i negoziati per entrare nell'Unione europea.",
+            "point": "Dovere + infinito e il se della domanda indiretta",
+            "explanation": "Dovere si usa due volte con l'infinito: devono dire, deve aprire. Il se qui non introduce una condizione ma una domanda indiretta, come whether in inglese.",
+            "why_tricky": "Molti studenti leggono se e pensano subito a una frase ipotetica, quindi cercano un congiuntivo che qui non serve."
+          },
+          {
+            "sentence": "Molti pensano che l'Europa possa dare più stabilità economica.",
+            "point": "Congiuntivo dopo i verbi di opinione",
+            "explanation": "Dopo pensare che, credere che e sembrare che si usa il congiuntivo. Possa è il congiuntivo presente di potere.",
+            "why_tricky": "In inglese si dice semplicemente many think that Europe can, quindi viene naturale scrivere può invece di possa."
+          },
+          {
+            "sentence": "Se poi ci sarà un accordo, gli islandesi voteranno una seconda volta.",
+            "point": "Periodo ipotetico della realtà con il futuro",
+            "explanation": "In italiano, dopo se, il futuro è possibile e anzi comune quando si parla di un fatto probabile: se ci sarà, voteranno.",
+            "why_tricky": "In inglese dopo if si usa il presente, non il futuro, quindi lo studente scrive se c'è invece di se ci sarà."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in leggero vantaggio",
+            "meaning": "slightly ahead, with a small lead",
+            "example": "Il candidato è in leggero vantaggio nei sondaggi."
+          },
+          {
+            "phrase": "tornare attuale",
+            "meaning": "to become relevant or talked about again",
+            "example": "Dopo la notizia, il tema è tornato attuale."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa devono decidere gli islandesi con questo referendum?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcuni cittadini hanno paura di entrare nell'Unione europea?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa succede se ci sarà un accordo con Bruxelles?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te è meglio decidere questi temi con un referendum o lasciare la scelta al governo? Scrivi circa 100 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-28-furto-museo-vienna",
+      "title": "Spaccano la teca e rubano un prezioso gioiello, furto al museo Mak di Vienna",
+      "source": "ANSA",
+      "date": "2026-08-28",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-furto-museo-vienna",
+        "revision": 1,
+        "meta": {
+          "title": "Spaccano la teca e rubano un prezioso gioiello, furto al museo Mak di Vienna",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/27/spaccano-la-teca-e-rubano-prezioso-gioiello-furto-al-museo-mak-di-vienna_c8995e2b-1159-4afc-be5a-1426e21bc26b.html",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "cronaca",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A group of thieves has stolen a very valuable jewel from the MAK museum in Vienna. The raid took place in broad daylight, while there were many visitors in the rooms. The thieves broke the glass display case and escaped in a few seconds. At that moment the museum was hosting an exhibition devoted to a famous French jewellery house. The Austrian police have opened an investigation and are examining the images from the cameras.\n\nThis is not the first theft of this kind in a large European museum. In recent years thieves have often chosen opening hours, because the night alarm systems are harder to get past. For this reason many museums are changing their security rules. Some use special glass, others increase the number of guards in the rooms. The problem is finding a balance between protecting the works and the pleasure of seeing them up close.",
+        "resumen_es": "Un gruppo di ladri ha rubato un gioiello di grande valore dal museo Mak di Vienna. Il colpo è avvenuto in pieno giorno, mentre nelle sale c'erano molti visitatori. I ladri hanno rotto la teca di vetro e sono scappati in pochi secondi. In quel momento il museo ospitava una mostra dedicata a una famosa casa di gioielli francese. La polizia austriaca ha aperto un'indagine e sta esaminando le immagini delle telecamere.\n\nNon è il primo furto di questo tipo in un grande museo europeo. Negli ultimi anni i ladri hanno scelto spesso gli orari di apertura, perché i sistemi di allarme notturni sono più difficili da superare. Per questo molti musei stanno cambiando le loro regole di sicurezza. Alcuni usano vetri speciali, altri aumentano il numero di guardie nelle sale. Il problema è trovare un equilibrio tra la protezione delle opere e il piacere di vederle da vicino.",
+        "vocab": [
+          {
+            "front": "il ladro",
+            "pos": "noun",
+            "back": "thief",
+            "example": "I ladri sono entrati durante la notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "rubare",
+            "pos": "verb",
+            "back": "to steal",
+            "example": "Qualcuno mi ha rubato la bicicletta.",
+            "tier": "B1"
+          },
+          {
+            "front": "il gioiello",
+            "pos": "noun",
+            "back": "jewel, piece of jewellery",
+            "example": "Questo gioiello vale moltissimo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il colpo",
+            "pos": "noun",
+            "back": "raid, heist",
+            "example": "Il colpo è durato solo pochi minuti.",
+            "tier": "B2"
+          },
+          {
+            "front": "in pieno giorno",
+            "pos": "phrase",
+            "back": "in broad daylight",
+            "example": "È successo tutto in pieno giorno.",
+            "tier": "B2"
+          },
+          {
+            "front": "la teca",
+            "pos": "noun",
+            "back": "display case",
+            "example": "La teca era di vetro molto spesso.",
+            "tier": "B2"
+          },
+          {
+            "front": "scappare",
+            "pos": "verb",
+            "back": "to run away, to escape",
+            "example": "Il gatto è scappato in giardino.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mostra",
+            "pos": "noun",
+            "back": "exhibition",
+            "example": "La mostra chiude domenica prossima.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'indagine",
+            "pos": "noun",
+            "back": "investigation",
+            "example": "La polizia ha aperto un'indagine sul caso.",
+            "tier": "B2"
+          },
+          {
+            "front": "la telecamera",
+            "pos": "noun",
+            "back": "camera, security camera",
+            "example": "Le telecamere hanno ripreso tutto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la sicurezza",
+            "pos": "noun",
+            "back": "security, safety",
+            "example": "La sicurezza del museo è aumentata.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'orario di apertura",
+            "pos": "noun",
+            "back": "opening hours",
+            "example": "L'orario di apertura va dalle nove alle diciotto.",
+            "tier": "B1"
+          },
+          {
+            "front": "da vicino",
+            "pos": "phrase",
+            "back": "up close, close up",
+            "example": "Voglio vedere il quadro da vicino.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "I ladri hanno rotto la teca di vetro e sono scappati in pochi secondi.",
+            "point": "Passato prossimo con avere e con essere",
+            "explanation": "Rompere prende avere perché ha un oggetto diretto, la teca. Scappare prende essere perché è un verbo di movimento, e il participio concorda con il soggetto: sono scappati.",
+            "why_tricky": "In inglese si usa sempre have, quindi lo studente scrive hanno scappati, che è sbagliato due volte."
+          },
+          {
+            "sentence": "Negli ultimi anni i ladri hanno scelto spesso gli orari di apertura, perché i sistemi di allarme notturni sono più difficili da superare.",
+            "point": "L'aggettivo seguito da da + infinito",
+            "explanation": "Difficile da superare, facile da capire, bello da vedere: dopo un aggettivo di questo tipo si usa da con l'infinito, mai a.",
+            "why_tricky": "L'inglese usa to, e la traduzione automatica difficili a superare suona sbagliata a un orecchio italiano."
+          },
+          {
+            "sentence": "Per questo molti musei stanno cambiando le loro regole di sicurezza.",
+            "point": "Stare + gerundio per l'azione in corso",
+            "explanation": "Stare al presente più il gerundio descrive qualcosa che succede proprio adesso o in questo periodo, come are changing in inglese.",
+            "why_tricky": "In italiano il presente semplice, cambiano, spesso basta, quindi lo studente non capisce quando serve davvero la forma progressiva."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in pieno giorno",
+            "meaning": "in broad daylight, in full view of everyone",
+            "example": "Hanno rubato la macchina in pieno giorno."
+          },
+          {
+            "phrase": "da vicino",
+            "meaning": "up close, at close range",
+            "example": "Da vicino il quadro sembra molto diverso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno rubato i ladri e in quale momento della giornata?",
+            "type": "open"
+          },
+          {
+            "q": "Perché oggi molti furti avvengono durante gli orari di apertura?",
+            "type": "open"
+          },
+          {
+            "q": "Quale equilibrio devono trovare i musei, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i musei devono proteggere di più le opere o lasciare che i visitatori le vedano da vicino? Scrivi circa 100 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-28-esami-riparazione-scuola",
+      "title": "Al via gli esami di riparazione, dal 7 gli studenti tornano in aula",
+      "source": "ANSA",
+      "date": "2026-08-28",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "societa"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-28-esami-riparazione-scuola",
+        "revision": 1,
+        "meta": {
+          "title": "Al via gli esami di riparazione, dal 7 gli studenti tornano in aula",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/08/27/esami-di-riparazione-per-1-studente-su-6-promozione-in-bilico_ed44d858-8af0-4361-8a69-d14c470d7be5.html",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-28",
+          "tags": [
+            "scuola",
+            "societa"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the resit exams have begun. These are the tests that students with a fail have to pass before lessons start. They involve about one student in six in secondary schools. Anyone who does not pass the exam risks repeating the year. From 7 September the classes then go back to normal work, and the return continues until the 17th in some regions.\n\nThe return to school brings the usual problems with it. In the south of the country, for example, seven schools out of ten have no canteen. This makes full-day schooling difficult for many families. Then there are the classes that are too big and the shortage of teachers in some subjects. The unions are asking for more funds, while the ministry talks about slow but steady improvements. For students, meanwhile, September remains the hardest month of the year.",
+        "resumen_es": "In Italia sono iniziati gli esami di riparazione. Sono le prove che gli studenti con un debito devono superare prima dell'inizio delle lezioni. Riguardano circa uno studente su sei delle scuole superiori. Chi non passa l'esame rischia di ripetere l'anno. Dal 7 settembre le classi tornano poi al lavoro normale, e in alcune regioni il rientro continua fino al 17.\n\nIl ritorno a scuola porta con sé i soliti problemi. Nel Sud del Paese, per esempio, sette scuole su dieci non hanno la mensa. Questo rende difficile il tempo pieno per molte famiglie. Ci sono poi le classi troppo numerose e la mancanza di insegnanti in alcune materie. I sindacati chiedono più fondi, mentre il ministero parla di miglioramenti lenti ma costanti. Per gli studenti, intanto, settembre resta il mese più difficile dell'anno.",
+        "vocab": [
+          {
+            "front": "l'esame di riparazione",
+            "pos": "noun",
+            "back": "resit exam, make-up exam",
+            "example": "Ha due esami di riparazione a settembre.",
+            "tier": "B2"
+          },
+          {
+            "front": "il debito",
+            "pos": "noun",
+            "back": "a failed subject to be made up (school)",
+            "example": "Mio fratello ha un debito in matematica.",
+            "tier": "B2"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "test, exam paper",
+            "example": "La prova di italiano dura tre ore.",
+            "tier": "B1"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to pass (an exam), to overcome",
+            "example": "Ha superato l'esame con un buon voto.",
+            "tier": "B1"
+          },
+          {
+            "front": "ripetere l'anno",
+            "pos": "phrase",
+            "back": "to repeat the school year",
+            "example": "Non vuole ripetere l'anno con i più piccoli.",
+            "tier": "B1"
+          },
+          {
+            "front": "il rientro",
+            "pos": "noun",
+            "back": "return (to school or work)",
+            "example": "Il rientro in ufficio è previsto per lunedì.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mensa",
+            "pos": "noun",
+            "back": "canteen, school dining hall",
+            "example": "In questa scuola non c'è la mensa.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tempo pieno",
+            "pos": "phrase",
+            "back": "full-day schooling",
+            "example": "Molte famiglie chiedono il tempo pieno.",
+            "tier": "B2"
+          },
+          {
+            "front": "numeroso",
+            "pos": "adj",
+            "back": "large, numerous",
+            "example": "La classe è troppo numerosa per un solo insegnante.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mancanza",
+            "pos": "noun",
+            "back": "lack, shortage",
+            "example": "C'è una grave mancanza di insegnanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la materia",
+            "pos": "noun",
+            "back": "school subject",
+            "example": "La mia materia preferita è la storia.",
+            "tier": "B1"
+          },
+          {
+            "front": "i fondi",
+            "pos": "noun",
+            "back": "funds, funding",
+            "example": "La scuola chiede più fondi al ministero.",
+            "tier": "B1"
+          },
+          {
+            "front": "intanto",
+            "pos": "adv",
+            "back": "meanwhile, in the meantime",
+            "example": "Intanto le lezioni continuano normalmente.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Sono le prove che gli studenti con un debito devono superare prima dell'inizio delle lezioni.",
+            "point": "Il pronome relativo che come oggetto diretto",
+            "explanation": "Qui che sostituisce le prove, che è l'oggetto di superare: gli studenti devono superare le prove. In italiano che serve sia per il soggetto sia per l'oggetto.",
+            "why_tricky": "In inglese si può togliere il relativo, the tests students must pass, mentre in italiano che non si può mai omettere."
+          },
+          {
+            "sentence": "Chi non passa l'esame rischia di ripetere l'anno.",
+            "point": "Il pronome chi e la costruzione rischiare di + infinito",
+            "explanation": "Chi vale come la persona che, ed è sempre singolare: rischia, non rischiano. Rischiare vuole la preposizione di davanti all'infinito.",
+            "why_tricky": "Chi assomiglia a who ma qui significa whoever, e il verbo singolare dopo un senso plurale confonde spesso."
+          },
+          {
+            "sentence": "Nel Sud del Paese, per esempio, sette scuole su dieci non hanno la mensa.",
+            "point": "Le proporzioni con la preposizione su",
+            "explanation": "Per esprimere una proporzione si usa su: sette scuole su dieci, uno studente su sei, nove volte su dieci.",
+            "why_tricky": "L'inglese usa out of, quindi lo studente prova con fuori di o di, che in italiano non funzionano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "portare con sé",
+            "meaning": "to bring something with it, to entail",
+            "example": "Ogni cambiamento porta con sé nuovi problemi."
+          },
+          {
+            "phrase": "avere un debito",
+            "meaning": "in Italian schools, to have failed a subject and have to sit a resit",
+            "example": "Quest'anno ha un debito in inglese."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa sono gli esami di riparazione e chi li deve fare?",
+            "type": "open"
+          },
+          {
+            "q": "Quali problemi trova il testo nelle scuole del Sud?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono i sindacati e che cosa risponde il ministero?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te gli esami di riparazione a settembre sono utili per gli studenti? Scrivi circa 100 parole con la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-08-28-gates-allarme-ia-lavoro",
       "title": "Gates lancia l'allarme sull'Ia, 'posti di lavoro a rischio'",
@@ -6099,502 +6606,6 @@
           }
         ],
         "opinion_prompt": "Scrivi un breve paragrafo su cosa pensi dell'uso della tecnologia a mRNA per curare malattie diverse dal Covid."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-alpinisti-belgi-ghiacciaio",
-      "title": "Ritrovati sulle Alpi svizzere i corpi di due alpinisti belgi scomparsi nel 1992",
-      "source": "ANSA",
-      "date": "2026-08-19",
-      "level": "A2-B1",
-      "topics": [
-        "natura",
-        "storia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-alpinisti-belgi-ghiacciaio",
-        "revision": 1,
-        "meta": {
-          "title": "Ritrovati sulle Alpi svizzere i corpi di due alpinisti belgi scomparsi nel 1992",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/ritrovati-sulle-alpi-svizzere-i-corpi-di-due-alpinisti-belgi-scomparsi-nel_df40c66e-7eaf-4aa0-b5e9-04b276fe38c8.html",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "natura",
-            "storia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In the Swiss Alps, the bodies of two Belgian mountaineers, missing for 34 years, have been found. The two men disappeared during a mountain expedition in 1992, and since then nothing more had been heard of them. The remains were only recovered now, after the ice of a glacier melted and exposed their bodies.\n\nIn recent years, global warming has caused many Alpine glaciers to melt, and this phenomenon has brought to light the remains of several people who went missing decades ago. For families, finding the bodies of their loved ones, even after so long, finally offers the chance to close a painful chapter of their lives and give them a proper burial.",
-        "resumen_es": "Sulle Alpi svizzere sono stati ritrovati i corpi di due alpinisti belgi, scomparsi ormai da 34 anni. I due uomini erano spariti durante un'escursione in montagna nel 1992 e da allora nessuno aveva più saputo nulla di loro. I resti sono stati recuperati solo ora, dopo che il ghiaccio di un ghiacciaio si è sciolto e ha lasciato scoperti i loro corpi.\n\nNegli ultimi anni, il riscaldamento globale ha fatto sciogliere molti ghiacciai delle Alpi, e questo fenomeno ha portato alla luce diversi resti di persone scomparse decenni fa. Per le famiglie, ritrovare i corpi dei propri cari, anche dopo tanto tempo, rappresenta finalmente la possibilità di chiudere un capitolo doloroso della loro vita e di dare loro una degna sepoltura.",
-        "vocab": [
-          {
-            "front": "ritrovare",
-            "pos": "verb",
-            "back": "to find again",
-            "example": "Hanno ritrovato i corpi sulle Alpi.",
-            "tier": "A2"
-          },
-          {
-            "front": "corpo",
-            "pos": "noun",
-            "back": "body",
-            "example": "I corpi sono stati recuperati dopo 34 anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "alpinista",
-            "pos": "noun",
-            "back": "mountaineer",
-            "example": "Erano due alpinisti belgi.",
-            "tier": "B1"
-          },
-          {
-            "front": "scomparire",
-            "pos": "verb",
-            "back": "to disappear, go missing",
-            "example": "Erano scomparsi nel 1992.",
-            "tier": "B1"
-          },
-          {
-            "front": "escursione",
-            "pos": "noun",
-            "back": "hike, excursion",
-            "example": "Sono spariti durante un'escursione.",
-            "tier": "A2"
-          },
-          {
-            "front": "sciogliersi",
-            "pos": "verb",
-            "back": "to melt",
-            "example": "Il ghiaccio del ghiacciaio si è sciolto.",
-            "tier": "B1"
-          },
-          {
-            "front": "ghiacciaio",
-            "pos": "noun",
-            "back": "glacier",
-            "example": "Molti ghiacciai delle Alpi si stanno sciogliendo.",
-            "tier": "B1"
-          },
-          {
-            "front": "riscaldamento globale",
-            "pos": "phrase",
-            "back": "global warming",
-            "example": "Il riscaldamento globale scioglie i ghiacciai.",
-            "tier": "B1"
-          },
-          {
-            "front": "portare alla luce",
-            "pos": "phrase",
-            "back": "to bring to light",
-            "example": "Il ghiaccio ha portato alla luce vecchi resti.",
-            "tier": "B1"
-          },
-          {
-            "front": "decenni",
-            "pos": "noun",
-            "back": "decades",
-            "example": "Erano scomparsi decenni fa.",
-            "tier": "B1"
-          },
-          {
-            "front": "i propri cari",
-            "pos": "phrase",
-            "back": "one's loved ones",
-            "example": "Le famiglie hanno ritrovato i propri cari.",
-            "tier": "B1"
-          },
-          {
-            "front": "capitolo",
-            "pos": "noun",
-            "back": "chapter",
-            "example": "Possono chiudere un capitolo doloroso.",
-            "tier": "A2"
-          },
-          {
-            "front": "doloroso/a",
-            "pos": "adj",
-            "back": "painful",
-            "example": "È stato un capitolo doloroso della loro vita.",
-            "tier": "B1"
-          },
-          {
-            "front": "sepoltura",
-            "pos": "noun",
-            "back": "burial",
-            "example": "Vogliono dare loro una degna sepoltura.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Sulle Alpi svizzere sono stati ritrovati i corpi di due alpinisti belgi, scomparsi ormai da 34 anni.",
-            "point": "forma passiva con 'essere'",
-            "explanation": "'Sono stati ritrovati' è un passivo formato da 'essere' + participio passato, usato quando l'azione è più importante di chi la compie.",
-            "why_tricky": "Il passivo con 'essere' richiede l'accordo del participio, spesso dimenticato dagli studenti."
-          },
-          {
-            "sentence": "I resti sono stati recuperati solo ora, dopo che il ghiaccio di un ghiacciaio si è sciolto e ha lasciato scoperti i loro corpi.",
-            "point": "passato prossimo del verbo riflessivo 'sciogliersi'",
-            "explanation": "'Si è sciolto' usa l'ausiliare 'essere' perché il verbo è riflessivo/pronominale.",
-            "why_tricky": "Scegliere tra 'essere' e 'avere' con i verbi pronominali è un errore frequente a livello A2-B1."
-          },
-          {
-            "sentence": "Per le famiglie, ritrovare i corpi dei propri cari, anche dopo tanto tempo, rappresenta finalmente la possibilità di chiudere un capitolo doloroso della loro vita e di dare loro una degna sepoltura.",
-            "point": "infinito come soggetto della frase",
-            "explanation": "'Ritrovare i corpi...' funziona come soggetto del verbo 'rappresenta', un uso comune dell'infinito in italiano.",
-            "why_tricky": "In molte lingue si userebbe un sostantivo invece dell'infinito come soggetto."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "portare alla luce",
-            "meaning": "far scoprire qualcosa che era nascosto o dimenticato",
-            "example": "Il ghiaccio sciolto ha portato alla luce vecchi resti."
-          },
-          {
-            "phrase": "chiudere un capitolo",
-            "meaning": "lasciarsi alle spalle un periodo difficile della vita",
-            "example": "Ritrovare il corpo li ha aiutati a chiudere un capitolo doloroso."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché pensi che ci siano voluti 34 anni per ritrovare i corpi dei due alpinisti?",
-            "type": "open"
-          },
-          {
-            "q": "Che ruolo ha avuto il riscaldamento globale in questa scoperta?",
-            "type": "open"
-          },
-          {
-            "q": "Come pensi che si siano sentite le famiglie quando hanno saputo la notizia?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi un breve paragrafo su come il cambiamento climatico sta portando alla luce eventi del passato, come nel caso dei ghiacciai che si sciolgono."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-furto-quadri-messina",
-      "title": "'Ci sono quadri per strada', l'audio della donna che avverte il 112 del furto a Messina",
-      "source": "ANSA",
-      "date": "2026-08-19",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "arte"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-furto-quadri-messina",
-        "revision": 1,
-        "meta": {
-          "title": "'Ci sono quadri per strada', l'audio della donna che avverte il 112 del furto a Messina",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/ci-sono-quadri-per-strada-la-telefonata-che-avverte-del-furto-a-messina_db46f538-b38d-4d3a-bfc4-d07e15792c6b.html",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "cronaca",
-            "arte"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Messina, a woman called the emergency number 112 to report a very strange theft: some paintings had been left out on the street by the thieves. In the call, the woman kept repeating in surprise: \"There are paintings on the street.\" Police are now investigating how the theft happened and how the culprits managed to escape.\n\nInvestigators have not ruled out that the thieves came from outside the city, perhaps used to carrying out similar heists in other parts of Italy. Art thefts are often linked to private collectors willing to pay large sums for rare works, even stolen ones. For this reason, police are working carefully to figure out where the missing paintings ended up and to recover them as soon as possible.",
-        "resumen_es": "A Messina, una donna ha chiamato il numero di emergenza 112 per segnalare un furto molto strano: alcuni quadri erano stati lasciati per strada dai ladri. Nella telefonata, la donna ripeteva sorpresa: \"Ci sono quadri per strada\". La polizia sta ora indagando su come sia avvenuto il furto e su come i responsabili siano riusciti a scappare.\n\nGli investigatori non escludono che i banditi arrivino da fuori città, abituati magari a colpi simili in altre zone d'Italia. I furti d'arte sono spesso legati a collezionisti privati disposti a pagare somme importanti per opere rare, anche se rubate. Per questo motivo, la polizia lavora con attenzione per capire dove siano finiti i quadri mancanti e per ritrovarli il prima possibile.",
-        "vocab": [
-          {
-            "front": "furto",
-            "pos": "noun",
-            "back": "theft",
-            "example": "Hanno segnalato un furto molto strano.",
-            "tier": "B1"
-          },
-          {
-            "front": "segnalare",
-            "pos": "verb",
-            "back": "to report",
-            "example": "La donna ha chiamato per segnalare il furto.",
-            "tier": "B1"
-          },
-          {
-            "front": "quadro",
-            "pos": "noun",
-            "back": "painting",
-            "example": "I quadri erano stati lasciati per strada.",
-            "tier": "A2"
-          },
-          {
-            "front": "ladro",
-            "pos": "noun",
-            "back": "thief",
-            "example": "I ladri sono scappati velocemente.",
-            "tier": "A2"
-          },
-          {
-            "front": "telefonata",
-            "pos": "noun",
-            "back": "phone call",
-            "example": "Nella telefonata la donna era sorpresa.",
-            "tier": "A2"
-          },
-          {
-            "front": "indagare",
-            "pos": "verb",
-            "back": "to investigate",
-            "example": "La polizia sta indagando sul furto.",
-            "tier": "B1"
-          },
-          {
-            "front": "riuscire a",
-            "pos": "phrase",
-            "back": "to manage to",
-            "example": "I ladri sono riusciti a scappare.",
-            "tier": "B1"
-          },
-          {
-            "front": "scappare",
-            "pos": "verb",
-            "back": "to escape, run away",
-            "example": "I responsabili sono riusciti a scappare.",
-            "tier": "A2"
-          },
-          {
-            "front": "escludere",
-            "pos": "verb",
-            "back": "to rule out",
-            "example": "Gli investigatori non escludono questa ipotesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "collezionista",
-            "pos": "noun",
-            "back": "collector",
-            "example": "I furti sono legati a collezionisti privati.",
-            "tier": "B1"
-          },
-          {
-            "front": "disposto/a a",
-            "pos": "phrase",
-            "back": "willing to",
-            "example": "Sono disposti a pagare somme importanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "somma",
-            "pos": "noun",
-            "back": "sum, amount",
-            "example": "Pagano somme importanti per opere rare.",
-            "tier": "B1"
-          },
-          {
-            "front": "rubato/a",
-            "pos": "adj",
-            "back": "stolen",
-            "example": "Comprano anche opere rubate.",
-            "tier": "A2"
-          },
-          {
-            "front": "il prima possibile",
-            "pos": "phrase",
-            "back": "as soon as possible",
-            "example": "Vogliono ritrovare i quadri il prima possibile.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Messina, una donna ha chiamato il numero di emergenza 112 per segnalare un furto molto strano: alcuni quadri erano stati lasciati per strada dai ladri.",
-            "point": "'per' + infinito per esprimere lo scopo",
-            "explanation": "'Per segnalare' indica il motivo della telefonata, un uso comune di 'per' + infinito.",
-            "why_tricky": "Gli studenti spesso usano 'perché' invece di 'per' davanti a un infinito."
-          },
-          {
-            "sentence": "La polizia sta ora indagando su come sia avvenuto il furto e su come i responsabili siano riusciti a scappare.",
-            "point": "congiuntivo nelle domande indirette",
-            "explanation": "'Sia avvenuto' e 'siano riusciti' sono al congiuntivo perché seguono un'espressione di incertezza ('come...').",
-            "why_tricky": "Il congiuntivo nelle interrogative indirette è raro nella lingua parlata e difficile da riconoscere per i livelli A2-B1."
-          },
-          {
-            "sentence": "Gli investigatori non escludono che i banditi arrivino da fuori città, abituati magari a colpi simili in altre zone d'Italia.",
-            "point": "congiuntivo presente dopo 'non escludere che'",
-            "explanation": "'Arrivino' è al congiuntivo perché il verbo principale esprime dubbio o possibilità.",
-            "why_tricky": "Distinguere quando usare l'indicativo o il congiuntivo dopo verbi di opinione è una delle sfide principali del B1."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "non escludere che",
-            "meaning": "considerare possibile qualcosa",
-            "example": "La polizia non esclude che i ladri siano professionisti."
-          },
-          {
-            "phrase": "il prima possibile",
-            "meaning": "nel minor tempo possibile",
-            "example": "Vogliono ritrovare i quadri il prima possibile."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché pensi che la donna fosse così sorpresa nella telefonata al 112?",
-            "type": "open"
-          },
-          {
-            "q": "Quali ipotesi hanno gli investigatori sulla fuga dei ladri?",
-            "type": "open"
-          },
-          {
-            "q": "Perché, secondo il testo, i furti d'arte sono spesso collegati ai collezionisti privati?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi un breve paragrafo su cosa faresti se trovassi un'opera d'arte rubata per strada vicino a casa tua."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-20-oasis-documentario",
-      "title": "Oasis: Don't Look Back In Anger, nel trailer i Gallagher tra dubbi e nuovi inizi",
-      "source": "ANSA",
-      "date": "2026-08-19",
-      "level": "A2-B1",
-      "topics": [
-        "musica",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-20-oasis-documentario",
-        "revision": 1,
-        "meta": {
-          "title": "Oasis: Don't Look Back In Anger, nel trailer i Gallagher tra dubbi e nuovi inizi",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/19/oasis-dont-look-back-in-anger-nel-trailer-i-gallagher-tra-dubbi_89e558ac-4563-4292-b112-bb412f154d3a.html",
-          "date_published": "2026-08-19",
-          "date_processed": "2026-08-20",
-          "tags": [
-            "musica",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The new documentary about the Oasis reunion tour is called \"Don't Look Back In Anger\". The film tells the story of the Gallagher brothers, Liam and Noel, returning to the stage after years of arguments and silence. The trailer shows rehearsals, doubts and the emotion of the two musicians before the concerts. The documentary will premiere at the Venice Film Festival and will arrive in cinemas on 10 September.\n\nThe Oasis reunion tour thrilled millions of fans around the world, who had waited for years to see the two brothers together again. The band was famous in the 1990s for songs like \"Wonderwall\" and also for the frequent arguments between Liam and Noel, often covered by the press. Now the documentary shows a more intimate side of the story: the fears, the hopes and the difficult relationship between the two brothers, who decided to set aside old quarrels to play together again.",
-        "resumen_es": "Il nuovo documentario sul tour di reunion degli Oasis si chiama \"Don't Look Back In Anger\". Il film racconta il ritorno sul palco dei fratelli Gallagher, Liam e Noel, dopo anni di litigi e silenzio. Nel trailer si vedono le prove, i dubbi e l'emozione dei due musicisti prima dei concerti. Il documentario debutterà al Festival di Venezia e arriverà nei cinema il 10 settembre.\n\nIl tour di reunion degli Oasis ha entusiasmato milioni di fan in tutto il mondo, che aspettavano da anni di rivederli insieme. La band è stata famosa negli anni Novanta per canzoni come \"Wonderwall\" e anche per i litigi tra Liam e Noel, raccontati dai giornali. Ora il documentario mostra un lato più intimo della storia: le paure, le speranze e il rapporto difficile tra i due fratelli, che hanno deciso di lasciare da parte le vecchie liti per tornare a suonare insieme.",
-        "vocab": [
-          {
-            "front": "il ritorno sul palco",
-            "pos": "phrase",
-            "back": "the return to the stage",
-            "example": "Il concerto segna il ritorno sul palco della band.",
-            "tier": "A2"
-          },
-          {
-            "front": "il litigio",
-            "pos": "noun",
-            "back": "argument, quarrel",
-            "example": "I due fratelli hanno avuto tanti litigi.",
-            "tier": "B1"
-          },
-          {
-            "front": "le prove",
-            "pos": "noun",
-            "back": "rehearsals",
-            "example": "Il gruppo ha fatto le prove per settimane.",
-            "tier": "B1"
-          },
-          {
-            "front": "debuttare",
-            "pos": "verb",
-            "back": "to debut, to premiere",
-            "example": "Il film debutta al festival questa settimana.",
-            "tier": "B1"
-          },
-          {
-            "front": "entusiasmare",
-            "pos": "verb",
-            "back": "to thrill, to excite",
-            "example": "Il concerto ha entusiasmato tutti i fan.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fan / i fan",
-            "pos": "noun",
-            "back": "fan(s)",
-            "example": "Milioni di fan aspettavano questo momento.",
-            "tier": "A2"
-          },
-          {
-            "front": "raccontare",
-            "pos": "verb",
-            "back": "to tell, to report",
-            "example": "I giornali hanno raccontato la storia del gruppo.",
-            "tier": "A2"
-          },
-          {
-            "front": "intimo",
-            "pos": "adj",
-            "back": "intimate, personal",
-            "example": "Il documentario mostra un lato intimo della band.",
-            "tier": "B1"
-          },
-          {
-            "front": "la paura",
-            "pos": "noun",
-            "back": "fear",
-            "example": "Il film racconta anche le paure dei due fratelli.",
-            "tier": "A2"
-          },
-          {
-            "front": "il rapporto",
-            "pos": "noun",
-            "back": "relationship",
-            "example": "Il loro rapporto è sempre stato difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "lasciare da parte",
-            "pos": "phrase",
-            "back": "to set aside, to leave behind",
-            "example": "Hanno deciso di lasciare da parte le vecchie liti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il documentario debutterà al Festival di Venezia e arriverà nei cinema il 10 settembre.",
-            "point": "futuro semplice per eventi programmati",
-            "explanation": "In italiano si usa spesso il futuro semplice per parlare di eventi futuri già programmati, come l'uscita di un film.",
-            "why_tricky": "Gli studenti a volte usano il presente ('debutta', 'arriva') copiando l'uso dell'inglese o dello spagnolo, ma in un testo giornalistico italiano il futuro è più naturale per date certe."
-          },
-          {
-            "sentence": "La band è stata famosa negli anni Novanta per canzoni come \"Wonderwall\" e anche per i litigi tra Liam e Noel, raccontati dai giornali.",
-            "point": "passato prossimo con essere + aggettivo (essere famoso)",
-            "explanation": "'È stata famosa' usa il passato prossimo di 'essere' per descrivere una condizione che è durata nel passato e che ora è considerata conclusa o cambiata.",
-            "why_tricky": "I principianti confondono spesso 'è stata famosa' con l'imperfetto 'era famosa'; qui il passato prossimo indica un periodo delimitato, gli anni Novanta."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "lasciare da parte qualcosa",
-            "meaning": "decidere di non pensare più a qualcosa, mettere da parte",
-            "example": "Hanno lasciato da parte le vecchie liti per suonare di nuovo insieme."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Di cosa parla il nuovo documentario sugli Oasis?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il tour di reunion ha entusiasmato tanti fan?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo te, perché è importante per una band raccontare anche i momenti difficili, non solo i successi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Conosci una band o un artista che si è riunito dopo anni di pausa? Racconta cosa ne pensi."
       }
     }
   ]
