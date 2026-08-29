@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T07:11:04Z",
+ "generated_at": "2026-08-29T07:19:04Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
   {
@@ -172,165 +172,172 @@
    }
   },
   {
-   "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
-   "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
+   "pack_id": "feed-2026-08-29-inflazione-tassi",
+   "title": "'Inflazione elevata', Warsh apre su rialzo tassi se non scende",
    "source": "ANSA",
-   "date": "2026-08-27",
+   "date": "2026-08-28",
    "level": "A2-B1",
    "topics": [
-    "società",
-    "monarchia"
+    "economia",
+    "inflazione"
    ],
    "pack": {
-    "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
+    "pack_id": "feed-2026-08-29-inflazione-tassi",
     "revision": 1,
     "meta": {
-     "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
+     "title": "'Inflazione elevata', Warsh apre su rialzo tassi se non scende",
      "source": "ANSA",
-     "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/27/harry-e-meghan-nuova-vita-in-inghilterra-tutto-quello-che-sappiamo_2b9af34e-4bec-43ff-aea1-b5e9c3b6c1d3.html",
-     "date_published": "2026-08-27",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/08/28/warsh-linflazione-e-elevata-e-preoccupante_256f97d0-77b8-4eac-9ab8-eda2685a23a1.html",
+     "date_published": "2026-08-28",
      "date_processed": "2026-08-29",
      "tags": [
-      "società",
-      "monarchia"
+      "economia",
+      "inflazione"
      ],
      "level": "A2-B1"
     },
-    "summary_en": "Harry and Meghan are coming back to live in England. The couple have chosen a house in the countryside, in the Cotswolds area, after a few years spent in the United States. The news immediately caught the interest of the British newspapers, which follow every move the two make very closely. It is not yet clear how much time the family will really spend in the United Kingdom.\n\nOne important problem remains, however: security. Since they gave up their official roles, Harry and Meghan no longer have a police escort paid for by the state, and the prince has taken the matter to the courts. Many observers think that this return could improve relations with the rest of the royal family, which have been very difficult in recent years. For now the couple have not made any official statements and are asking for respect for their private life.",
-    "resumen_es": "Harry e Meghan tornano a vivere in Inghilterra. La coppia ha scelto una casa in campagna, nella zona dei Cotswolds, dopo alcuni anni passati negli Stati Uniti. La notizia ha subito interessato i giornali britannici, che seguono con attenzione ogni movimento dei due. Non è ancora chiaro quanto tempo la famiglia passerà davvero nel Regno Unito.\n\nResta però un problema importante: la sicurezza. Da quando hanno lasciato i loro ruoli ufficiali, Harry e Meghan non hanno più la scorta pagata dallo Stato e il principe ha portato la questione davanti ai giudici. Molti osservatori pensano che questo ritorno possa migliorare i rapporti con il resto della famiglia reale, che negli ultimi anni sono stati molto difficili. Per ora la coppia non ha rilasciato dichiarazioni ufficiali e chiede rispetto per la propria vita privata.",
+    "summary_en": "The head of the American central bank has said that inflation is still too high. If prices do not come down in the coming months, the central bank could raise interest rates again. His words immediately had an effect on the financial markets, where many investors were hoping instead for a cut. The stated goal remains bringing inflation back to around two per cent.\n\nInterest rates matter to everyone, not just to banks. When they go up, loans and mortgages become more expensive and families spend less. When they come down, buying a house or starting a business costs less. This is why every statement from the central bank is followed very closely in Europe too, because American decisions influence the world economy. In the coming months the price figures will show which path is going to be chosen.",
+    "resumen_es": "Il capo della banca centrale americana ha detto che l'inflazione è ancora troppo alta. Se i prezzi non scendono nei prossimi mesi, la banca centrale potrebbe alzare di nuovo i tassi di interesse. Le sue parole hanno avuto subito un effetto sui mercati finanziari, dove molti investitori speravano invece in una riduzione. L'obiettivo dichiarato resta riportare l'inflazione intorno al due per cento.\n\nI tassi di interesse sono importanti per tutti, non solo per le banche. Quando salgono, i prestiti e i mutui diventano più cari e le famiglie spendono meno. Quando scendono, comprare una casa o aprire un'attività costa meno. Per questo ogni dichiarazione della banca centrale viene seguita con grande attenzione anche in Europa, perché le decisioni americane influenzano l'economia mondiale. Nei prossimi mesi i dati sui prezzi diranno quale strada sarà scelta.",
     "vocab": [
      {
-      "front": "la coppia",
+      "front": "l'inflazione",
       "pos": "noun",
-      "back": "couple",
-      "example": "La coppia vive a Roma da tre anni.",
-      "tier": "A2"
-     },
-     {
-      "front": "la campagna",
-      "pos": "noun",
-      "back": "countryside",
-      "example": "Il fine settimana andiamo in campagna.",
-      "tier": "A2"
-     },
-     {
-      "front": "la notizia",
-      "pos": "noun",
-      "back": "piece of news",
-      "example": "Ho letto la notizia sul giornale.",
-      "tier": "A2"
-     },
-     {
-      "front": "seguire con attenzione",
-      "pos": "phrase",
-      "back": "to follow closely",
-      "example": "Seguo con attenzione questa storia.",
+      "back": "inflation",
+      "example": "L'inflazione è scesa al tre per cento.",
       "tier": "B1"
      },
      {
-      "front": "il ruolo",
-      "pos": "noun",
-      "back": "role",
-      "example": "Ha lasciato il suo ruolo in azienda.",
-      "tier": "B1"
-     },
-     {
-      "front": "la scorta",
-      "pos": "noun",
-      "back": "security detail, bodyguards",
-      "example": "Il ministro viaggia sempre con la scorta.",
-      "tier": "B1"
-     },
-     {
-      "front": "il giudice",
-      "pos": "noun",
-      "back": "judge",
-      "example": "Il giudice deciderà il mese prossimo.",
-      "tier": "B1"
-     },
-     {
-      "front": "l'osservatore",
-      "pos": "noun",
-      "back": "observer, commentator",
-      "example": "Molti osservatori sono sorpresi.",
-      "tier": "B1"
-     },
-     {
-      "front": "il rapporto",
-      "pos": "noun",
-      "back": "relationship",
-      "example": "Ho un buon rapporto con i miei colleghi.",
-      "tier": "A2"
-     },
-     {
-      "front": "rilasciare una dichiarazione",
-      "pos": "phrase",
-      "back": "to make a statement",
-      "example": "Il sindaco ha rilasciato una dichiarazione stamattina.",
-      "tier": "B1"
-     },
-     {
-      "front": "il rispetto",
-      "pos": "noun",
-      "back": "respect",
-      "example": "Chiedono rispetto per la loro famiglia.",
-      "tier": "A2"
-     },
-     {
-      "front": "privato",
+      "front": "elevato",
       "pos": "adj",
-      "back": "private",
-      "example": "Non parla mai della sua vita privata.",
+      "back": "high",
+      "example": "Il costo della vita è molto elevato.",
+      "tier": "B1"
+     },
+     {
+      "front": "il tasso di interesse",
+      "pos": "noun",
+      "back": "interest rate",
+      "example": "I tassi di interesse sono cambiati due volte.",
+      "tier": "B1"
+     },
+     {
+      "front": "alzare",
+      "pos": "verb",
+      "back": "to raise",
+      "example": "Hanno alzato i prezzi del biglietto.",
       "tier": "A2"
+     },
+     {
+      "front": "scendere",
+      "pos": "verb",
+      "back": "to go down, to fall",
+      "example": "La temperatura scende di notte.",
+      "tier": "A2"
+     },
+     {
+      "front": "il mercato finanziario",
+      "pos": "noun",
+      "back": "financial market",
+      "example": "I mercati finanziari sono nervosi.",
+      "tier": "B2"
+     },
+     {
+      "front": "l'investitore",
+      "pos": "noun",
+      "back": "investor",
+      "example": "Gli investitori aspettano i nuovi dati.",
+      "tier": "B2"
+     },
+     {
+      "front": "la riduzione",
+      "pos": "noun",
+      "back": "cut, reduction",
+      "example": "Chiedono una riduzione delle tasse.",
+      "tier": "B1"
+     },
+     {
+      "front": "il prestito",
+      "pos": "noun",
+      "back": "loan",
+      "example": "Ha chiesto un prestito alla banca.",
+      "tier": "B1"
+     },
+     {
+      "front": "il mutuo",
+      "pos": "noun",
+      "back": "mortgage",
+      "example": "Paghiamo il mutuo da dieci anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "caro",
+      "pos": "adj",
+      "back": "expensive",
+      "example": "Questo ristorante è troppo caro.",
+      "tier": "A2"
+     },
+     {
+      "front": "aprire un'attività",
+      "pos": "phrase",
+      "back": "to start a business",
+      "example": "Vuole aprire un'attività in centro.",
+      "tier": "B1"
+     },
+     {
+      "front": "influenzare",
+      "pos": "verb",
+      "back": "to influence, to affect",
+      "example": "Il meteo influenza il turismo.",
+      "tier": "B1"
      }
     ],
     "grammar": [
      {
-      "sentence": "Molti osservatori pensano che questo ritorno possa migliorare i rapporti con il resto della famiglia reale, che negli ultimi anni sono stati molto difficili.",
-      "point": "Congiuntivo after pensare che",
-      "explanation": "Verbs of opinion such as pensare, credere and ritenere are followed by che plus the subjunctive: possa. The indicative appears only in the relative clause describing a fact: sono stati.",
-      "why_tricky": "Both clauses begin with che, but only the first one needs the subjunctive, so learners either use it twice or not at all."
+      "sentence": "Se i prezzi non scendono nei prossimi mesi, la banca centrale potrebbe alzare di nuovo i tassi di interesse.",
+      "point": "Periodo ipotetico della realtà with a conditional result",
+      "explanation": "After se, Italian keeps the present indicative scendono. The consequence can take the present, the future, or as here the conditional potrebbe when the outcome is presented as merely possible.",
+      "why_tricky": "Learners put the conditional in the se clause, writing se scenderebbero, which is a clear error in Italian."
      },
      {
-      "sentence": "Da quando hanno lasciato i loro ruoli ufficiali, Harry e Meghan non hanno più la scorta pagata dallo Stato e il principe ha portato la questione davanti ai giudici.",
-      "point": "non ... più and the agent with da",
-      "explanation": "Non piu wraps around the verb to mean 'no longer'. In the passive participle pagata dallo Stato, the agent is introduced by da plus the article, giving dallo before a masculine noun starting with s plus consonant.",
-      "why_tricky": "The articulated preposition dallo is rare, and learners default to dal or use dai for the agent."
+      "sentence": "Per questo ogni dichiarazione della banca centrale viene seguita con grande attenzione anche in Europa, perché le decisioni americane influenzano l'economia mondiale.",
+      "point": "Passive with venire",
+      "explanation": "Italian forms the passive with essere or with venire. Venire seguita stresses the ongoing process rather than the resulting state, and the participle still agrees with dichiarazione.",
+      "why_tricky": "Venire normally means 'to come', so learners do not recognise it as a passive auxiliary and mistranslate the sentence."
      },
      {
-      "sentence": "Non è ancora chiaro quanto tempo la famiglia passerà davvero nel Regno Unito.",
-      "point": "Future tense for something still undecided",
-      "explanation": "Italian uses the simple future passera for a fact placed in the future. After an impersonal expression like non e chiaro, an indirect question with quanto keeps the indicative when it reports a real future event.",
-      "why_tricky": "Learners often replace the future with the present, which is common in speech but weaker in written news."
+      "sentence": "Quando salgono, i prestiti e i mutui diventano più cari e le famiglie spendono meno.",
+      "point": "Comparatives with piu and meno",
+      "explanation": "Piu caro is the comparative of the adjective and agrees with the plural noun: piu cari. Meno after a verb is an adverb and never changes form.",
+      "why_tricky": "Learners either leave the adjective invariable or wrongly make the adverb agree with the subject."
      }
     ],
     "idioms": [
      {
-      "phrase": "tutto quello che sappiamo",
-      "meaning": "everything we know (so far)",
-      "example": "Ecco tutto quello che sappiamo sull'incidente."
+      "phrase": "di nuovo",
+      "meaning": "again",
+      "example": "Ha piovuto di nuovo tutto il giorno."
      },
      {
-      "phrase": "per ora",
-      "meaning": "for now, for the time being",
-      "example": "Per ora non ci sono altre notizie."
+      "phrase": "seguire con attenzione",
+      "meaning": "to follow closely",
+      "example": "Seguo con attenzione le notizie economiche."
      }
     ],
     "comprehension": [
      {
-      "q": "Dove hanno deciso di vivere Harry e Meghan?",
+      "q": "Che cosa ha detto il capo della banca centrale americana sull'inflazione?",
       "type": "open"
      },
      {
-      "q": "Qual è il problema principale che resta aperto per la coppia?",
+      "q": "Che cosa succede alle famiglie quando i tassi di interesse salgono?",
       "type": "open"
      },
      {
-      "q": "Perché secondo alcuni osservatori questo ritorno può essere positivo?",
+      "q": "Perché in Europa si seguono con attenzione le decisioni americane?",
       "type": "open"
      }
     ],
-    "opinion_prompt": "Secondo te, i giornali hanno il diritto di raccontare la vita privata delle persone famose? Scrivi circa 100 parole."
+    "opinion_prompt": "Come cambia la tua vita quotidiana quando i prezzi salgono? Scrivi circa 100 parole con esempi concreti."
    }
   },
   {
