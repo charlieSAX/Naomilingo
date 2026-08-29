@@ -1,7 +1,507 @@
 {
- "generated_at": "2026-08-28T19:12:30Z",
+ "generated_at": "2026-08-29T07:11:04Z",
  "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
  "packs": [
+  {
+   "pack_id": "feed-2026-08-29-aeroporti-hacker",
+   "title": "Hacker dietro il cyberattacco agli aeroporti britannici, chiesto un riscatto",
+   "source": "ANSA",
+   "date": "2026-08-28",
+   "level": "A2-B1",
+   "topics": [
+    "tecnologia",
+    "sicurezza"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-aeroporti-hacker",
+    "revision": 1,
+    "meta": {
+     "title": "Hacker dietro il cyberattacco agli aeroporti britannici, chiesto un riscatto",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/hacker-dietro-il-cyberattacco-agli-aeroporti-britannici-chiesto-un-riscatto-_bb985279-7c77-41e4-9d6e-8d9de677ea48.html",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "tecnologia",
+      "sicurezza"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "A cyberattack has hit three British airports. The hackers got into the systems of the company that runs the airports and stole the data of millions of customers. Among the information there are email addresses, telephone numbers, car number plates and home addresses. Now the criminals are asking for a ransom, that is, a sum of money not to publish the data.\n\nThe authorities say they already know the group responsible and have opened an investigation. Experts advise passengers to change their passwords and to be careful with suspicious emails, because the stolen data can be used for scams. This case shows how fragile the digital systems of airports are, since every day they handle a great deal of personal information. Many companies are now investing more money in computer security, but for customers the risk stays high for a long time yet.",
+    "resumen_es": "Un attacco informatico ha colpito tre aeroporti britannici. Gli hacker sono entrati nei sistemi della società che gestisce gli scali e hanno rubato i dati di milioni di clienti. Tra le informazioni ci sono indirizzi e-mail, numeri di telefono, targhe delle auto e indirizzi di casa. Adesso i criminali chiedono un riscatto, cioè una somma di denaro per non pubblicare i dati.\n\nLe autorità dicono di conoscere già il gruppo responsabile e hanno aperto un'indagine. Gli esperti consigliano ai passeggeri di cambiare le password e di fare attenzione alle e-mail sospette, perché i dati rubati possono servire per truffe. Questo caso mostra quanto siano fragili i sistemi digitali degli aeroporti, che ogni giorno gestiscono moltissime informazioni personali. Molte società adesso investono più soldi nella sicurezza informatica, ma per i clienti il rischio resta alto ancora per molto tempo.",
+    "vocab": [
+     {
+      "front": "l'attacco informatico",
+      "pos": "noun",
+      "back": "cyberattack",
+      "example": "L'attacco informatico ha bloccato il sito per due giorni.",
+      "tier": "B1"
+     },
+     {
+      "front": "rubare",
+      "pos": "verb",
+      "back": "to steal",
+      "example": "Qualcuno mi ha rubato la bicicletta.",
+      "tier": "B1"
+     },
+     {
+      "front": "i dati",
+      "pos": "noun",
+      "back": "data",
+      "example": "Non devi dare i tuoi dati a nessuno.",
+      "tier": "B1"
+     },
+     {
+      "front": "gestire",
+      "pos": "verb",
+      "back": "to manage, to run",
+      "example": "Mia sorella gestisce un piccolo hotel.",
+      "tier": "B1"
+     },
+     {
+      "front": "lo scalo",
+      "pos": "noun",
+      "back": "airport, stopover",
+      "example": "Il volo fa scalo a Monaco.",
+      "tier": "B2"
+     },
+     {
+      "front": "il riscatto",
+      "pos": "noun",
+      "back": "ransom",
+      "example": "Hanno chiesto un riscatto molto alto.",
+      "tier": "B2"
+     },
+     {
+      "front": "la somma",
+      "pos": "noun",
+      "back": "sum, amount of money",
+      "example": "Ha pagato una somma enorme per quella casa.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'indagine",
+      "pos": "noun",
+      "back": "investigation",
+      "example": "La polizia ha aperto un'indagine.",
+      "tier": "B1"
+     },
+     {
+      "front": "consigliare a qualcuno di",
+      "pos": "phrase",
+      "back": "to advise someone to do something",
+      "example": "Ti consiglio di partire presto.",
+      "tier": "B1"
+     },
+     {
+      "front": "sospetto",
+      "pos": "adj",
+      "back": "suspicious",
+      "example": "Ho ricevuto un messaggio sospetto.",
+      "tier": "B1"
+     },
+     {
+      "front": "la truffa",
+      "pos": "noun",
+      "back": "scam, fraud",
+      "example": "È stata una truffa online molto comune.",
+      "tier": "B1"
+     },
+     {
+      "front": "fragile",
+      "pos": "adj",
+      "back": "fragile, weak",
+      "example": "Il sistema è ancora troppo fragile.",
+      "tier": "B1"
+     },
+     {
+      "front": "investire",
+      "pos": "verb",
+      "back": "to invest",
+      "example": "L'azienda vuole investire nella formazione.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Gli esperti consigliano ai passeggeri di cambiare le password e di fare attenzione alle e-mail sospette, perché i dati rubati possono servire per truffe.",
+      "point": "consigliare a qualcuno di + infinito",
+      "explanation": "Consigliare takes an indirect object with a (ai passeggeri) and then di plus the infinitive. The second infinitive also needs its own di: e di fare.",
+      "why_tricky": "English says 'advise passengers to change', with no preposition before the person, so learners drop the a and write consigliano i passeggeri."
+     },
+     {
+      "sentence": "Questo caso mostra quanto siano fragili i sistemi digitali degli aeroporti, che ogni giorno gestiscono moltissime informazioni personali.",
+      "point": "Congiuntivo after quanto in an indirect exclamation",
+      "explanation": "After verbs like mostrare, capire or vedere, an indirect question or exclamation introduced by quanto normally takes the subjunctive in written Italian: quanto siano fragili.",
+      "why_tricky": "In speech many Italians say quanto sono fragili, so learners rarely meet the subjunctive form and are surprised by it in the press."
+     },
+     {
+      "sentence": "Adesso i criminali chiedono un riscatto, cioè una somma di denaro per non pubblicare i dati.",
+      "point": "per + non + infinito",
+      "explanation": "To express a negative purpose, Italian puts non directly between per and the infinitive: per non pubblicare. There is no auxiliary verb, unlike English 'so as not to publish'.",
+      "why_tricky": "Learners try to translate the English structure word by word and produce per non da pubblicare or per che non pubblicano."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "fare attenzione a",
+      "meaning": "to be careful with, to watch out for",
+      "example": "Fai attenzione ai messaggi che chiedono la password."
+     },
+     {
+      "phrase": "aprire un'indagine",
+      "meaning": "to open an investigation",
+      "example": "I magistrati hanno aperto un'indagine sull'incidente."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa hanno rubato gli hacker agli aeroporti britannici?",
+      "type": "open"
+     },
+     {
+      "q": "Che cosa consigliano gli esperti ai passeggeri, e perché?",
+      "type": "open"
+     },
+     {
+      "q": "Secondo il testo, perché i sistemi degli aeroporti sono fragili?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Che cosa fai tu per proteggere i tuoi dati personali online? Scrivi circa 100 parole con almeno tre esempi concreti."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
+   "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
+   "source": "ANSA",
+   "date": "2026-08-27",
+   "level": "A2-B1",
+   "topics": [
+    "società",
+    "monarchia"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
+    "revision": 1,
+    "meta": {
+     "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/27/harry-e-meghan-nuova-vita-in-inghilterra-tutto-quello-che-sappiamo_2b9af34e-4bec-43ff-aea1-b5e9c3b6c1d3.html",
+     "date_published": "2026-08-27",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "società",
+      "monarchia"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "Harry and Meghan are coming back to live in England. The couple have chosen a house in the countryside, in the Cotswolds area, after a few years spent in the United States. The news immediately caught the interest of the British newspapers, which follow every move the two make very closely. It is not yet clear how much time the family will really spend in the United Kingdom.\n\nOne important problem remains, however: security. Since they gave up their official roles, Harry and Meghan no longer have a police escort paid for by the state, and the prince has taken the matter to the courts. Many observers think that this return could improve relations with the rest of the royal family, which have been very difficult in recent years. For now the couple have not made any official statements and are asking for respect for their private life.",
+    "resumen_es": "Harry e Meghan tornano a vivere in Inghilterra. La coppia ha scelto una casa in campagna, nella zona dei Cotswolds, dopo alcuni anni passati negli Stati Uniti. La notizia ha subito interessato i giornali britannici, che seguono con attenzione ogni movimento dei due. Non è ancora chiaro quanto tempo la famiglia passerà davvero nel Regno Unito.\n\nResta però un problema importante: la sicurezza. Da quando hanno lasciato i loro ruoli ufficiali, Harry e Meghan non hanno più la scorta pagata dallo Stato e il principe ha portato la questione davanti ai giudici. Molti osservatori pensano che questo ritorno possa migliorare i rapporti con il resto della famiglia reale, che negli ultimi anni sono stati molto difficili. Per ora la coppia non ha rilasciato dichiarazioni ufficiali e chiede rispetto per la propria vita privata.",
+    "vocab": [
+     {
+      "front": "la coppia",
+      "pos": "noun",
+      "back": "couple",
+      "example": "La coppia vive a Roma da tre anni.",
+      "tier": "A2"
+     },
+     {
+      "front": "la campagna",
+      "pos": "noun",
+      "back": "countryside",
+      "example": "Il fine settimana andiamo in campagna.",
+      "tier": "A2"
+     },
+     {
+      "front": "la notizia",
+      "pos": "noun",
+      "back": "piece of news",
+      "example": "Ho letto la notizia sul giornale.",
+      "tier": "A2"
+     },
+     {
+      "front": "seguire con attenzione",
+      "pos": "phrase",
+      "back": "to follow closely",
+      "example": "Seguo con attenzione questa storia.",
+      "tier": "B1"
+     },
+     {
+      "front": "il ruolo",
+      "pos": "noun",
+      "back": "role",
+      "example": "Ha lasciato il suo ruolo in azienda.",
+      "tier": "B1"
+     },
+     {
+      "front": "la scorta",
+      "pos": "noun",
+      "back": "security detail, bodyguards",
+      "example": "Il ministro viaggia sempre con la scorta.",
+      "tier": "B1"
+     },
+     {
+      "front": "il giudice",
+      "pos": "noun",
+      "back": "judge",
+      "example": "Il giudice deciderà il mese prossimo.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'osservatore",
+      "pos": "noun",
+      "back": "observer, commentator",
+      "example": "Molti osservatori sono sorpresi.",
+      "tier": "B1"
+     },
+     {
+      "front": "il rapporto",
+      "pos": "noun",
+      "back": "relationship",
+      "example": "Ho un buon rapporto con i miei colleghi.",
+      "tier": "A2"
+     },
+     {
+      "front": "rilasciare una dichiarazione",
+      "pos": "phrase",
+      "back": "to make a statement",
+      "example": "Il sindaco ha rilasciato una dichiarazione stamattina.",
+      "tier": "B1"
+     },
+     {
+      "front": "il rispetto",
+      "pos": "noun",
+      "back": "respect",
+      "example": "Chiedono rispetto per la loro famiglia.",
+      "tier": "A2"
+     },
+     {
+      "front": "privato",
+      "pos": "adj",
+      "back": "private",
+      "example": "Non parla mai della sua vita privata.",
+      "tier": "A2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Molti osservatori pensano che questo ritorno possa migliorare i rapporti con il resto della famiglia reale, che negli ultimi anni sono stati molto difficili.",
+      "point": "Congiuntivo after pensare che",
+      "explanation": "Verbs of opinion such as pensare, credere and ritenere are followed by che plus the subjunctive: possa. The indicative appears only in the relative clause describing a fact: sono stati.",
+      "why_tricky": "Both clauses begin with che, but only the first one needs the subjunctive, so learners either use it twice or not at all."
+     },
+     {
+      "sentence": "Da quando hanno lasciato i loro ruoli ufficiali, Harry e Meghan non hanno più la scorta pagata dallo Stato e il principe ha portato la questione davanti ai giudici.",
+      "point": "non ... più and the agent with da",
+      "explanation": "Non piu wraps around the verb to mean 'no longer'. In the passive participle pagata dallo Stato, the agent is introduced by da plus the article, giving dallo before a masculine noun starting with s plus consonant.",
+      "why_tricky": "The articulated preposition dallo is rare, and learners default to dal or use dai for the agent."
+     },
+     {
+      "sentence": "Non è ancora chiaro quanto tempo la famiglia passerà davvero nel Regno Unito.",
+      "point": "Future tense for something still undecided",
+      "explanation": "Italian uses the simple future passera for a fact placed in the future. After an impersonal expression like non e chiaro, an indirect question with quanto keeps the indicative when it reports a real future event.",
+      "why_tricky": "Learners often replace the future with the present, which is common in speech but weaker in written news."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "tutto quello che sappiamo",
+      "meaning": "everything we know (so far)",
+      "example": "Ecco tutto quello che sappiamo sull'incidente."
+     },
+     {
+      "phrase": "per ora",
+      "meaning": "for now, for the time being",
+      "example": "Per ora non ci sono altre notizie."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Dove hanno deciso di vivere Harry e Meghan?",
+      "type": "open"
+     },
+     {
+      "q": "Qual è il problema principale che resta aperto per la coppia?",
+      "type": "open"
+     },
+     {
+      "q": "Perché secondo alcuni osservatori questo ritorno può essere positivo?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te, i giornali hanno il diritto di raccontare la vita privata delle persone famose? Scrivi circa 100 parole."
+   }
+  },
+  {
+   "pack_id": "feed-2026-08-29-us-space-academy",
+   "title": "Trump lancia la Us Space Academy, la West Point dello spazio",
+   "source": "ANSA",
+   "date": "2026-08-28",
+   "level": "A2-B1",
+   "topics": [
+    "spazio",
+    "istruzione"
+   ],
+   "pack": {
+    "pack_id": "feed-2026-08-29-us-space-academy",
+    "revision": 1,
+    "meta": {
+     "title": "Trump lancia la Us Space Academy, la West Point dello spazio",
+     "source": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/trump-lancia-la-us-space-academy-la-west-point-dello-spazio_1e05cdd7-5bda-4187-b8d0-f83ef58ca36a.html",
+     "date_published": "2026-08-28",
+     "date_processed": "2026-08-29",
+     "tags": [
+      "spazio",
+      "istruzione"
+     ],
+     "level": "A2-B1"
+    },
+    "summary_en": "The president of the United States has announced the creation of the US Space Academy, a new military school dedicated to space. The idea is to train the future officers of the Space Force, just as already happens at West Point for the army. Several astronauts were present at the launch ceremony, among them the Italian Luca Parmitano.\n\nThe project shows how important space has become from a military point of view as well. Today satellites are used for communications, for navigation and for monitoring territory, so protecting them is considered strategic. Some experts, however, fear a new space race between the great powers and are calling for clearer international rules. The school should open in the next few years, but a lot of funding and a decision by Congress are still needed before it can take in its first students.",
+    "resumen_es": "Il presidente degli Stati Uniti ha annunciato la nascita della Us Space Academy, una nuova scuola militare dedicata allo spazio. L'idea è di formare i futuri ufficiali della Space Force, come già succede a West Point per l'esercito. Alla cerimonia di presentazione erano presenti diversi astronauti, tra cui l'italiano Luca Parmitano.\n\nIl progetto mostra quanto lo spazio sia diventato importante anche dal punto di vista militare. Oggi i satelliti servono per le comunicazioni, per la navigazione e per il controllo del territorio, quindi proteggerli è considerato strategico. Alcuni esperti però temono una nuova corsa allo spazio tra le grandi potenze e chiedono regole internazionali più chiare. La scuola dovrebbe aprire nei prossimi anni, ma servono ancora molti fondi e una decisione del Congresso prima di poter accogliere i primi studenti.",
+    "vocab": [
+     {
+      "front": "la nascita",
+      "pos": "noun",
+      "back": "birth, creation",
+      "example": "La nascita del progetto risale al 2020.",
+      "tier": "B1"
+     },
+     {
+      "front": "dedicato a",
+      "pos": "adj",
+      "back": "dedicated to",
+      "example": "È un museo dedicato alla musica.",
+      "tier": "A2"
+     },
+     {
+      "front": "formare",
+      "pos": "verb",
+      "back": "to train, to educate",
+      "example": "La scuola forma giovani infermieri.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'ufficiale",
+      "pos": "noun",
+      "back": "officer",
+      "example": "Suo padre era un ufficiale della marina.",
+      "tier": "B1"
+     },
+     {
+      "front": "l'esercito",
+      "pos": "noun",
+      "back": "army",
+      "example": "Ha lavorato nell'esercito per dieci anni.",
+      "tier": "B1"
+     },
+     {
+      "front": "il satellite",
+      "pos": "noun",
+      "back": "satellite",
+      "example": "Il satellite invia immagini ogni ora.",
+      "tier": "B1"
+     },
+     {
+      "front": "servire per",
+      "pos": "verb",
+      "back": "to be used for",
+      "example": "Questa chiave serve per aprire il garage.",
+      "tier": "A2"
+     },
+     {
+      "front": "proteggere",
+      "pos": "verb",
+      "back": "to protect",
+      "example": "Dobbiamo proteggere i nostri dati.",
+      "tier": "B1"
+     },
+     {
+      "front": "temere",
+      "pos": "verb",
+      "back": "to fear",
+      "example": "Temo che sia troppo tardi.",
+      "tier": "B1"
+     },
+     {
+      "front": "la corsa allo spazio",
+      "pos": "phrase",
+      "back": "space race",
+      "example": "La corsa allo spazio è ricominciata.",
+      "tier": "B1"
+     },
+     {
+      "front": "la potenza",
+      "pos": "noun",
+      "back": "power (a powerful country)",
+      "example": "La Cina è una grande potenza economica.",
+      "tier": "B1"
+     },
+     {
+      "front": "i fondi",
+      "pos": "noun",
+      "back": "funds, funding",
+      "example": "Mancano i fondi per finire i lavori.",
+      "tier": "B1"
+     },
+     {
+      "front": "accogliere",
+      "pos": "verb",
+      "back": "to welcome, to take in",
+      "example": "La scuola accoglie duecento studenti.",
+      "tier": "B2"
+     }
+    ],
+    "grammar": [
+     {
+      "sentence": "Il progetto mostra quanto lo spazio sia diventato importante anche dal punto di vista militare.",
+      "point": "Congiuntivo passato with essere",
+      "explanation": "Sia diventato is the past subjunctive of diventare, which takes essere as its auxiliary, so the participle agrees with the subject lo spazio and stays masculine singular.",
+      "why_tricky": "Learners use avere with diventare, or forget the agreement, writing sia diventata after a masculine subject."
+     },
+     {
+      "sentence": "Alcuni esperti però temono una nuova corsa allo spazio tra le grandi potenze e chiedono regole internazionali più chiare.",
+      "point": "Position of però inside the sentence",
+      "explanation": "Unlike English 'however', pero often sits after the subject rather than at the head of the sentence. This gives a softer, more natural rhythm in written Italian.",
+      "why_tricky": "Learners always place it first, which is possible but sounds heavier and more repetitive across a text."
+     },
+     {
+      "sentence": "La scuola dovrebbe aprire nei prossimi anni, ma servono ancora molti fondi e una decisione del Congresso prima di poter accogliere i primi studenti.",
+      "point": "Condizionale dovrebbe for expectation, and prima di + infinito",
+      "explanation": "Dovrebbe here does not mean obligation but expectation: 'it is expected to open'. Prima di takes the infinitive when the subject is the same, and poter loses its final e before another infinitive.",
+      "why_tricky": "The two uses of dovere are easy to confuse, and learners write prima che with the subjunctive even when the subject does not change."
+     }
+    ],
+    "idioms": [
+     {
+      "phrase": "dal punto di vista",
+      "meaning": "from the point of view of",
+      "example": "Dal punto di vista economico, la scelta è rischiosa."
+     },
+     {
+      "phrase": "tra cui",
+      "meaning": "among them, including",
+      "example": "Sono venuti in venti, tra cui due colleghi tedeschi."
+     }
+    ],
+    "comprehension": [
+     {
+      "q": "Che cosa è la Us Space Academy e a che cosa serve?",
+      "type": "open"
+     },
+     {
+      "q": "Perché oggi i satelliti sono considerati strategici?",
+      "type": "open"
+     },
+     {
+      "q": "Quali dubbi esprimono alcuni esperti sul progetto?",
+      "type": "open"
+     }
+    ],
+    "opinion_prompt": "Secondo te è giusto spendere molti soldi per lo spazio quando ci sono problemi sulla Terra? Scrivi circa 100 parole."
+   }
+  },
   {
    "pack_id": "feed-2026-08-28-coyote-vs-acme",
    "title": "Arriva il redivivo Coyote vs Acme , tra commedia, ironia a Looney Tunes",
@@ -6118,480 +6618,6 @@
      }
     ],
     "opinion_prompt": "Scrivi un breve testo su un animale piccolo che ti sembra interessante e spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-porcini-raccolta-nord-italia",
-   "title": "Al Nord i primi porcini dopo la siccità, al via raccolta estiva dei funghi spontanei",
-   "source": "ANSA",
-   "date": "2026-08-20",
-   "level": "A2-B1",
-   "topics": [
-    "natura",
-    "cibo"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-porcini-raccolta-nord-italia",
-    "revision": 1,
-    "meta": {
-     "title": "Al Nord i primi porcini dopo la siccità, al via raccolta estiva dei funghi spontanei",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/08/20/al-nord-i-primi-porcini-dopo-la-siccita-al-via-raccolta-estiva-dei-funghi_e980dc91-817d-4e01-9ee0-515a372af23e.html",
-     "date_published": "2026-08-20",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "natura",
-      "cibo"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "After months of drought, the first porcini mushrooms of the season have finally appeared in Northern Italy. Recent rains soaked the woods and created the right conditions for wild mushrooms to grow. Many enthusiasts have already headed to the mountains with baskets and small knives, ready to begin the summer harvest, after weeks of waiting through woods too dry for any growth at all.\n\nExperts always repeat the same rules: only pick mushrooms you know well, have them checked by a mycologist if in doubt, and respect the woods while searching. The season's delay, caused by the lack of rain, made the wait longer than usual, but pickers now hope for weeks full of porcini until autumn. Local markets, too, are getting ready to welcome the first baskets of the new season.",
-    "resumen_es": "Dopo mesi di siccità, nel Nord Italia sono finalmente arrivati i primi porcini della stagione. Le piogge recenti hanno bagnato i boschi e creato le condizioni giuste per la crescita dei funghi spontanei. Molti appassionati sono già partiti verso le montagne con cestini e coltellini, pronti a iniziare la raccolta estiva, dopo settimane di attesa e di boschi troppo secchi per qualsiasi raccolto.\n\nGli esperti ricordano sempre le stesse regole: raccogliere solo funghi conosciuti, controllarli con un micologo in caso di dubbio, e rispettare il bosco durante la ricerca. Il ritardo della stagione, causato dalla scarsità di pioggia, ha reso l'attesa più lunga del solito, ma ora i raccoglitori sperano in settimane ricche di porcini fino all'autunno. Anche i mercati locali si preparano ad accogliere con entusiasmo i primi cesti della nuova stagione.",
-    "vocab": [
-     {
-      "front": "porcino",
-      "pos": "noun",
-      "back": "porcini mushroom",
-      "example": "Ha trovato un porcino grande sotto la quercia.",
-      "tier": "A2"
-     },
-     {
-      "front": "siccità",
-      "pos": "noun",
-      "back": "drought",
-      "example": "La siccità ha danneggiato i raccolti.",
-      "tier": "B1"
-     },
-     {
-      "front": "bosco",
-      "pos": "noun",
-      "back": "woods, forest",
-      "example": "I funghi crescono nel bosco.",
-      "tier": "A2"
-     },
-     {
-      "front": "raccolta",
-      "pos": "noun",
-      "back": "harvest, gathering",
-      "example": "La raccolta dei funghi inizia in autunno.",
-      "tier": "A2"
-     },
-     {
-      "front": "raccoglitore",
-      "pos": "noun",
-      "back": "picker, gatherer",
-      "example": "I raccoglitori conoscono bene il bosco.",
-      "tier": "B1"
-     },
-     {
-      "front": "cestino",
-      "pos": "noun",
-      "back": "basket",
-      "example": "Porta sempre un cestino per i funghi.",
-      "tier": "A2"
-     },
-     {
-      "front": "micologo",
-      "pos": "noun",
-      "back": "mycologist",
-      "example": "Il micologo controlla se il fungo è buono.",
-      "tier": "B1"
-     },
-     {
-      "front": "scarsità",
-      "pos": "noun",
-      "back": "scarcity",
-      "example": "La scarsità di pioggia ha ritardato la stagione.",
-      "tier": "B1"
-     },
-     {
-      "front": "appassionato",
-      "pos": "noun",
-      "back": "enthusiast",
-      "example": "Molti appassionati vanno in montagna a cercare funghi.",
-      "tier": "A2"
-     },
-     {
-      "front": "rispettare",
-      "pos": "verb",
-      "back": "to respect",
-      "example": "Bisogna rispettare il bosco quando si cerca.",
-      "tier": "A2"
-     },
-     {
-      "front": "in caso di dubbio",
-      "pos": "phrase",
-      "back": "in case of doubt",
-      "example": "In caso di dubbio, non mangiare il fungo.",
-      "tier": "B1"
-     },
-     {
-      "front": "stagione",
-      "pos": "noun",
-      "back": "season",
-      "example": "La stagione dei porcini è arrivata in ritardo.",
-      "tier": "A2"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "Le piogge recenti hanno bagnato i boschi e creato le condizioni giuste per la crescita dei funghi spontanei.",
-      "point": "Passato prossimo con un solo ausiliare per due participi",
-      "explanation": "'Hanno' serve sia per 'bagnato' sia per 'creato': non serve ripetere l'ausiliare quando i due verbi condividono lo stesso soggetto.",
-      "why_tricky": "I principianti spesso ripetono l'ausiliare inutilmente oppure dimenticano che serve comunque per il secondo verbo."
-     },
-     {
-      "sentence": "Gli esperti ricordano sempre le stesse regole: raccogliere solo funghi conosciuti, controllarli con un micologo in caso di dubbio, e rispettare il bosco durante la ricerca.",
-      "point": "Infinito con valore di istruzione generale",
-      "explanation": "L'italiano usa spesso l'infinito semplice (raccogliere, controllarli, rispettare) per dare regole generali, invece dell'imperativo diretto.",
-      "why_tricky": "Gli studenti si aspettano l'imperativo (raccogli, controlla) e trovano strano l'uso impersonale dell'infinito per le istruzioni."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "andare a caccia di",
-      "meaning": "to go looking for, to hunt for",
-      "example": "Ogni weekend andiamo a caccia di funghi nel bosco."
-     },
-     {
-      "phrase": "in men che non si dica",
-      "meaning": "in no time at all",
-      "example": "I porcini sono spariti dai cestini in men che non si dica."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché quest'anno i porcini sono arrivati in ritardo?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, perché è importante controllare i funghi con un esperto?",
-      "type": "open"
-     },
-     {
-      "q": "Ti piacerebbe andare a raccogliere funghi nel bosco? Perché?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo su un'attività all'aperto che ti piace fare in estate o in autunno."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-targhetta-oro-ginnastica-europei",
-   "title": "Europei di ginnastica artistica, Gabriele Targhetta è oro nel cavallo con maniglie",
-   "source": "RaiNews",
-   "date": "2026-08-21",
-   "level": "A2-B1",
-   "topics": [
-    "sport",
-    "ginnastica"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-targhetta-oro-ginnastica-europei",
-    "revision": 1,
-    "meta": {
-     "title": "Europei di ginnastica artistica, Gabriele Targhetta è oro nel cavallo con maniglie",
-     "source": "RaiNews",
-     "url": "https://www.rainews.it/articoli/2026/08/ginnastica-artistica-europei-croazia-zagabria-gabriele-targhetta-oro-cavallo-con-maniglie-b3754572-941b-4f3c-b40f-2b40c3f49e23.html",
-     "date_published": "2026-08-21",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "sport",
-      "ginnastica"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "Italian athlete Gabriele Targhetta won the gold medal on the pommel horse at the European Artistic Gymnastics Championships, held in Zagreb, Croatia. With a clean, well-executed routine, Targhetta won over the jury with his precision and beat opponents with great international experience, taking first place on the podium in front of the Croatian crowd.\n\nThe pommel horse is considered one of the most difficult apparatuses in artistic gymnastics, because it requires perfect balance, arm strength, and great precision in circular movements. This gold medal confirms the steady growth of Italian gymnastics in recent years and gives the team new confidence ahead of upcoming international events, including next season's World Championships.",
-    "resumen_es": "L'atleta italiano Gabriele Targhetta ha vinto la medaglia d'oro al cavallo con maniglie durante gli Europei di ginnastica artistica, disputati a Zagabria, in Croazia. Con un esercizio pulito e ben eseguito, Targhetta ha convinto la giuria con la sua precisione e ha superato avversari di grande esperienza internazionale, conquistando il primo posto sul podio davanti al pubblico croato.\n\nIl cavallo con maniglie è considerato uno degli attrezzi più difficili della ginnastica artistica, perché richiede equilibrio perfetto, forza nelle braccia e grande precisione nei movimenti circolari. Questo oro conferma la crescita costante della ginnastica italiana negli ultimi anni e regala nuova fiducia alla squadra, in vista dei prossimi appuntamenti internazionali, compresi i Mondiali della prossima stagione.",
-    "vocab": [
-     {
-      "front": "medaglia d'oro",
-      "pos": "noun",
-      "back": "gold medal",
-      "example": "Ha vinto la medaglia d'oro agli Europei.",
-      "tier": "A2"
-     },
-     {
-      "front": "cavallo con maniglie",
-      "pos": "noun",
-      "back": "pommel horse",
-      "example": "Il cavallo con maniglie è un attrezzo difficile.",
-      "tier": "B1"
-     },
-     {
-      "front": "attrezzo",
-      "pos": "noun",
-      "back": "apparatus, equipment",
-      "example": "Ogni attrezzo richiede abilità diverse.",
-      "tier": "A2"
-     },
-     {
-      "front": "equilibrio",
-      "pos": "noun",
-      "back": "balance",
-      "example": "Serve molto equilibrio per questo esercizio.",
-      "tier": "A2"
-     },
-     {
-      "front": "esercizio",
-      "pos": "noun",
-      "back": "routine, exercise",
-      "example": "Ha fatto un esercizio pulito e preciso.",
-      "tier": "A2"
-     },
-     {
-      "front": "avversario",
-      "pos": "noun",
-      "back": "opponent",
-      "example": "Ha superato avversari molto esperti.",
-      "tier": "A2"
-     },
-     {
-      "front": "podio",
-      "pos": "noun",
-      "back": "podium",
-      "example": "È salito sul podio come primo classificato.",
-      "tier": "A2"
-     },
-     {
-      "front": "squadra",
-      "pos": "noun",
-      "back": "team",
-      "example": "La squadra italiana è cresciuta molto.",
-      "tier": "A2"
-     },
-     {
-      "front": "fiducia",
-      "pos": "noun",
-      "back": "confidence",
-      "example": "La vittoria dà nuova fiducia alla squadra.",
-      "tier": "B1"
-     },
-     {
-      "front": "in vista di",
-      "pos": "phrase",
-      "back": "ahead of, looking towards",
-      "example": "Si allenano in vista dei Mondiali.",
-      "tier": "B1"
-     },
-     {
-      "front": "conquistare",
-      "pos": "verb",
-      "back": "to win, to achieve",
-      "example": "Ha conquistato il primo posto.",
-      "tier": "B1"
-     },
-     {
-      "front": "crescita",
-      "pos": "noun",
-      "back": "growth",
-      "example": "Conferma la crescita della ginnastica italiana.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "L'atleta italiano Gabriele Targhetta ha vinto la medaglia d'oro al cavallo con maniglie durante gli Europei di ginnastica artistica, disputati a Zagabria, in Croazia.",
-      "point": "Participio passato con valore di relativa ridotta: 'disputati'",
-      "explanation": "'Disputati' sostituisce 'che sono stati disputati' e concorda in genere e numero con 'Europei' (maschile plurale).",
-      "why_tricky": "Gli studenti dimenticano spesso che il participio passato usato come aggettivo deve comunque concordare con il nome a cui si riferisce."
-     },
-     {
-      "sentence": "Questo oro conferma la crescita costante della ginnastica italiana negli ultimi anni e regala nuova fiducia alla squadra, in vista dei prossimi appuntamenti internazionali, compresi i Mondiali della prossima stagione.",
-      "point": "'Compreso' con valore di 'including' e concordanza",
-      "explanation": "'Compreso/a/i/e' funziona come 'including' in inglese, ma a differenza dell'inglese deve concordare con il nome a cui si riferisce, qui 'compresi i Mondiali' (maschile plurale).",
-      "why_tricky": "In inglese 'including' è invariabile, quindi gli studenti dimenticano che in italiano serve la concordanza."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "salire sul podio",
-      "meaning": "to make it onto the podium",
-      "example": "È salito sul podio dopo un esercizio perfetto."
-     },
-     {
-      "phrase": "avere la meglio su",
-      "meaning": "to get the better of, to beat",
-      "example": "Ha avuto la meglio sugli avversari più esperti."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché il cavallo con maniglie è considerato un attrezzo difficile?",
-      "type": "open"
-     },
-     {
-      "q": "Secondo te, cosa serve per vincere una medaglia d'oro in uno sport così tecnico?",
-      "type": "open"
-     },
-     {
-      "q": "Hai mai praticato uno sport che richiede molto equilibrio? Quale?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve testo su uno sportivo o un'atleta che ammiri e spiega perché."
-   }
-  },
-  {
-   "pack_id": "feed-2026-08-21-francoprovenzale-puglia",
-   "title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
-   "source": "ANSA",
-   "date": "2026-08-20",
-   "level": "A2-B1",
-   "topics": [
-    "lingua",
-    "cultura"
-   ],
-   "pack": {
-    "pack_id": "feed-2026-08-21-francoprovenzale-puglia",
-    "revision": 1,
-    "meta": {
-     "title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
-     "source": "ANSA",
-     "url": "https://www.ansa.it/puglia/notizie/2026/08/20/nel-piu-piccolo-borgo-della-puglia-si-insegna-ai-turisti-il-francoprovenzale_2246d4b2-220a-49d2-9659-a27a107c7118.html",
-     "date_published": "2026-08-20",
-     "date_processed": "2026-08-21",
-     "tags": [
-      "lingua",
-      "cultura"
-     ],
-     "level": "A2-B1"
-    },
-    "summary_en": "In Celle San Vito, the smallest village in Puglia, the residents teach tourists a special language: Franco-Provencal. This ancient language arrived in the area many centuries ago, and today only a few people still speak it. For this reason, the villagers are working on a new dictionary, the second edition of a project that began some time ago.\n\nThe project aims to help young people avoid forgetting this language and to share it with visitors. Many tourists come specifically to discover this linguistic curiosity, unique in Italy. The residents hope the dictionary will also help future generations keep this tradition alive, one that makes Celle San Vito a special village, different from all the others.",
-    "resumen_es": "A Celle San Vito, il borgo più piccolo della Puglia, gli abitanti insegnano ai turisti una lingua speciale: il francoprovenzale. Questa lingua antica arrivò nella zona molti secoli fa e oggi la parlano solo poche persone. Per questo motivo, gli abitanti del paese lavorano a un nuovo vocabolario, la seconda edizione di un progetto già iniziato in passato.\n\nIl progetto vuole aiutare i giovani a non dimenticare questa lingua e a raccontarla ai visitatori. Molti turisti arrivano proprio per conoscere questa curiosità linguistica, unica in Italia. Gli abitanti sperano che il vocabolario aiuti anche le prossime generazioni a mantenere viva questa tradizione, che rende Celle San Vito un paese speciale e diverso da tutti gli altri.",
-    "vocab": [
-     {
-      "front": "borgo",
-      "pos": "noun",
-      "back": "small village",
-      "example": "Celle San Vito è un piccolo borgo.",
-      "tier": "A2"
-     },
-     {
-      "front": "abitante",
-      "pos": "noun",
-      "back": "inhabitant, resident",
-      "example": "Gli abitanti parlano una lingua antica.",
-      "tier": "A2"
-     },
-     {
-      "front": "lingua antica",
-      "pos": "noun",
-      "back": "ancient language",
-      "example": "Il francoprovenzale è una lingua antica.",
-      "tier": "A2"
-     },
-     {
-      "front": "secolo",
-      "pos": "noun",
-      "back": "century",
-      "example": "Arrivò molti secoli fa.",
-      "tier": "A2"
-     },
-     {
-      "front": "vocabolario",
-      "pos": "noun",
-      "back": "dictionary, vocabulary book",
-      "example": "Lavorano a un nuovo vocabolario.",
-      "tier": "A2"
-     },
-     {
-      "front": "edizione",
-      "pos": "noun",
-      "back": "edition",
-      "example": "È la seconda edizione del progetto.",
-      "tier": "B1"
-     },
-     {
-      "front": "dimenticare",
-      "pos": "verb",
-      "back": "to forget",
-      "example": "Non vogliono dimenticare la lingua.",
-      "tier": "A2"
-     },
-     {
-      "front": "raccontare",
-      "pos": "verb",
-      "back": "to tell, narrate",
-      "example": "Vogliono raccontarla ai turisti.",
-      "tier": "A2"
-     },
-     {
-      "front": "curiosità linguistica",
-      "pos": "noun",
-      "back": "linguistic curiosity",
-      "example": "È una curiosità linguistica unica.",
-      "tier": "B1"
-     },
-     {
-      "front": "generazione",
-      "pos": "noun",
-      "back": "generation",
-      "example": "Aiuta le prossime generazioni.",
-      "tier": "B1"
-     },
-     {
-      "front": "tradizione",
-      "pos": "noun",
-      "back": "tradition",
-      "example": "Vogliono mantenere viva la tradizione.",
-      "tier": "A2"
-     },
-     {
-      "front": "mantenere vivo",
-      "pos": "phrase",
-      "back": "to keep alive",
-      "example": "Vogliono mantenere viva questa lingua.",
-      "tier": "B1"
-     }
-    ],
-    "grammar": [
-     {
-      "sentence": "A Celle San Vito, il borgo più piccolo della Puglia, gli abitanti insegnano ai turisti una lingua speciale: il francoprovenzale.",
-      "point": "superlativo relativo \"il più piccolo\"",
-      "explanation": "\"Il borgo più piccolo della Puglia\" usa la struttura \"il più + aggettivo + di\" per esprimere il superlativo relativo.",
-      "why_tricky": "Gli studenti A2 spesso dimenticano l'articolo prima di \"più\" in questa costruzione."
-     },
-     {
-      "sentence": "Questa lingua antica arrivò nella zona molti secoli fa e oggi la parlano solo poche persone.",
-      "point": "passato remoto \"arrivò\"",
-      "explanation": "\"Arrivò\" è la terza persona singolare del passato remoto, spesso usato nei testi scritti per eventi storici lontani nel tempo.",
-      "why_tricky": "Gli studenti confondono spesso il passato remoto con il passato prossimo, soprattutto a livello A2-B1."
-     },
-     {
-      "sentence": "Gli abitanti sperano che il vocabolario aiuti anche le prossime generazioni a mantenere viva questa tradizione, che rende Celle San Vito un paese speciale e diverso da tutti gli altri.",
-      "point": "congiuntivo dopo \"sperare che\"",
-      "explanation": "Il verbo \"sperare che\" richiede il congiuntivo (\"aiuti\") perché esprime un desiderio non certo.",
-      "why_tricky": "Il congiuntivo dopo verbi di speranza è una delle difficoltà più comuni per chi studia l'italiano."
-     }
-    ],
-    "idioms": [
-     {
-      "phrase": "mantenere viva una tradizione",
-      "meaning": "continuare a praticare qualcosa del passato",
-      "example": "La famiglia mantiene viva la tradizione del pane fatto in casa."
-     },
-     {
-      "phrase": "molti secoli fa",
-      "meaning": "un tempo molto lontano nel passato",
-      "example": "Questo castello fu costruito molti secoli fa."
-     }
-    ],
-    "comprehension": [
-     {
-      "q": "Perché pensi che sia importante proteggere lingue antiche come il francoprovenzale?",
-      "type": "open"
-     },
-     {
-      "q": "Cosa potrebbe fare un piccolo paese per attirare più turisti interessati alla cultura locale?",
-      "type": "open"
-     },
-     {
-      "q": "Conosci altre lingue o dialetti che rischiano di scomparire? Quali?",
-      "type": "open"
-     }
-    ],
-    "opinion_prompt": "Scrivi un breve paragrafo su una tradizione della tua famiglia o della tua città che vorresti mantenere viva."
    }
   }
  ]
