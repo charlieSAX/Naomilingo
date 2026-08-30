@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-08-29T19:13:44Z",
+  "generated_at": "2026-08-30T07:10:42.622950Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-30-piramide-cestia",
+      "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "Roma",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-piramide-cestia",
+        "revision": 1,
+        "meta": {
+          "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/08/28/la-piramide-cestia-riapre-al-pubblico-con-un-percorso-che-coniuga-tutela-e-accessibilita_e0d2f750-7b3d-4a87-8b42-bc456179f796.html",
+          "date_published": "2026-08-28",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "Roma",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Pyramid of Cestius in Rome is reopening to the public. From 4 September to 31 October the visits are free, both during the day and in the evening. The new route makes it possible to go inside without damaging the monument. It has also been designed for people with mobility difficulties. The Pyramid is an ancient tomb, around two thousand years old, and it stands near Porta San Paolo.\n\nThe monument is famous because it has an unusual shape for an Italian city. Many tourists walk past it every day, but few can go inside, because the space within is small. For this reason it is necessary to book the visit. The authorities hope that the new route will attract more visitors and will help to protect the monument. Accessibility, they say, is not a detail but a right that belongs to everyone.",
+        "resumen_es": "La Piramide Cestia di Roma riapre al pubblico. Dal 4 settembre al 31 ottobre le visite sono gratuite, di giorno e anche di sera. Il nuovo percorso permette di entrare senza rovinare il monumento. È pensato anche per le persone con difficoltà motorie. La Piramide è una tomba antica di circa duemila anni e si trova vicino a Porta San Paolo.\n\nIl monumento è famoso perché ha una forma insolita per una città italiana. Molti turisti passano davanti ogni giorno, ma pochi possono entrare, perché lo spazio interno è piccolo. Per questo è necessario prenotare la visita. Le autorità sperano che il nuovo percorso attiri più visitatori e che aiuti a proteggere il monumento. L'accessibilità, dicono, non è un dettaglio ma un diritto di tutti.",
+        "vocab": [
+          {
+            "front": "riaprire",
+            "pos": "verb",
+            "back": "to reopen",
+            "example": "Il museo riapre dopo i lavori.",
+            "tier": "B1"
+          },
+          {
+            "front": "il percorso",
+            "pos": "noun",
+            "back": "route, path, itinerary",
+            "example": "Il percorso della visita dura un'ora.",
+            "tier": "B1"
+          },
+          {
+            "front": "gratuito",
+            "pos": "adj",
+            "back": "free of charge",
+            "example": "L'ingresso è gratuito per i bambini.",
+            "tier": "B1"
+          },
+          {
+            "front": "rovinare",
+            "pos": "verb",
+            "back": "to ruin, to damage",
+            "example": "La pioggia ha rovinato i libri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tomba",
+            "pos": "noun",
+            "back": "tomb, grave",
+            "example": "Abbiamo visitato la tomba di un antico re.",
+            "tier": "B1"
+          },
+          {
+            "front": "insolito",
+            "pos": "adj",
+            "back": "unusual, out of the ordinary",
+            "example": "Fa un caldo insolito per settembre.",
+            "tier": "B2"
+          },
+          {
+            "front": "prenotare",
+            "pos": "verb",
+            "back": "to book, to reserve",
+            "example": "Devo prenotare un tavolo per stasera.",
+            "tier": "A2"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "visitor",
+            "example": "I visitatori aspettano fuori dal museo.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "Dobbiamo proteggere i monumenti antichi.",
+            "tier": "B1"
+          },
+          {
+            "front": "le difficoltà motorie",
+            "pos": "phrase",
+            "back": "mobility difficulties",
+            "example": "L'entrata è adatta a chi ha difficoltà motorie.",
+            "tier": "B2"
+          },
+          {
+            "front": "il dettaglio",
+            "pos": "noun",
+            "back": "detail",
+            "example": "Mi ha raccontato tutto nei minimi dettagli.",
+            "tier": "B1"
+          },
+          {
+            "front": "il diritto",
+            "pos": "noun",
+            "back": "right (entitlement)",
+            "example": "Lo studio è un diritto di tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "passare davanti",
+            "pos": "phrase",
+            "back": "to walk or drive past",
+            "example": "Passo davanti alla stazione ogni mattina.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il nuovo percorso permette di entrare senza rovinare il monumento.",
+            "point": "permettere di + infinito e senza + infinito",
+            "explanation": "Molti verbi italiani chiedono di davanti all'infinito: permettere di, cercare di, decidere di. Senza si usa direttamente con l'infinito, mai con il gerundio.",
+            "why_tricky": "In inglese si dice without ruining, con la forma in -ing, e questo spinge lo studente a scrivere senza rovinando."
+          },
+          {
+            "sentence": "Le autorità sperano che il nuovo percorso attiri più visitatori e che aiuti a proteggere il monumento.",
+            "point": "Il congiuntivo dopo sperare che",
+            "explanation": "Dopo i verbi di speranza, desiderio e opinione si usa il congiuntivo: attiri e aiuti sono congiuntivi presenti di attirare e aiutare.",
+            "why_tricky": "Le forme del congiuntivo di terza persona sembrano uguali all'indicativo di prima persona, quindi è facile confondersi."
+          },
+          {
+            "sentence": "L'accessibilità, dicono, non è un dettaglio ma un diritto di tutti.",
+            "point": "La struttura non ... ma",
+            "explanation": "Non seguito da ma serve a correggere: prima si nega una cosa, poi si dà quella giusta. L'inciso dicono indica che la frase riporta le parole di altri.",
+            "why_tricky": "Lo studente aggiunge spesso però o invece dopo ma, creando una doppia opposizione che in italiano suona pesante."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "nei minimi dettagli",
+            "meaning": "in the smallest detail, very thoroughly",
+            "example": "Ha organizzato il viaggio nei minimi dettagli."
+          },
+          {
+            "phrase": "un diritto di tutti",
+            "meaning": "something everyone is entitled to",
+            "example": "La salute dovrebbe essere un diritto di tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando si può visitare la Piramide Cestia e quanto costa la visita?",
+            "type": "open"
+          },
+          {
+            "q": "Perché è necessario prenotare per entrare?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa sperano le autorità con il nuovo percorso?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "I monumenti antichi devono essere aperti a tutti o protetti con regole severe? Scrivi 100 parole con la tua opinione e un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-tasse-invisibili",
+      "title": "Tasse \"invisibili\", Cgia: il 95,7% del carico fiscale è pagato \"inconsapevolmente\"",
+      "source": "Rai News",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "fisco"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-tasse-invisibili",
+        "revision": 1,
+        "meta": {
+          "title": "Tasse \"invisibili\", Cgia: il 95,7% del carico fiscale è pagato \"inconsapevolmente\"",
+          "source": "Rai News",
+          "url": "https://www.rainews.it/articoli/2026/08/tasse-invisibili-cgia-il-957-del-carico-fiscale-e-pagato-inconsapevolmente-04a3e846-61e3-41a5-8551-d6a4c23be7ea.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "economia",
+            "fisco"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "According to the Cgia of Mestre, Italians pay almost all their taxes without noticing. The study says that 95.7 per cent of the tax burden is handed over automatically, for example through deductions in the pay slip or through VAT on products. Only a small part is paid with a deliberate bank transfer. This is why people talk about invisible taxes.\n\nItaly remains fifth in Europe for its tax burden and is worse off than Germany and Spain. Experts explain that when we do not see the money leaving, it is harder to understand how much we are really paying. Some think this makes citizens less attentive to public spending. Others reply that the automatic system is convenient and reduces tax evasion. The debate, in short, remains open.",
+        "resumen_es": "Secondo la Cgia di Mestre, gli italiani pagano quasi tutte le tasse senza accorgersene. Lo studio dice che il 95,7 per cento del carico fiscale è versato in modo automatico, per esempio con le trattenute in busta paga o con l'Iva sui prodotti. Solo una piccola parte viene pagata con un bonifico consapevole. Per questo si parla di tasse invisibili.\n\nL'Italia resta quinta in Europa per pressione fiscale e sta peggio della Germania e della Spagna. Gli esperti spiegano che, quando non vediamo il denaro uscire, è più difficile capire quanto paghiamo davvero. Alcuni pensano che questo renda i cittadini meno attenti alla spesa pubblica. Altri rispondono che il sistema automatico è comodo e riduce l'evasione. Il dibattito, insomma, resta aperto.",
+        "vocab": [
+          {
+            "front": "le tasse",
+            "pos": "noun",
+            "back": "taxes",
+            "example": "Ogni anno paghiamo le tasse a giugno.",
+            "tier": "A2"
+          },
+          {
+            "front": "accorgersi di",
+            "pos": "verb",
+            "back": "to notice, to realise",
+            "example": "Non mi sono accorto dell'errore.",
+            "tier": "B1"
+          },
+          {
+            "front": "il carico fiscale",
+            "pos": "phrase",
+            "back": "tax burden",
+            "example": "Il carico fiscale pesa molto sulle piccole imprese.",
+            "tier": "B2"
+          },
+          {
+            "front": "versare",
+            "pos": "verb",
+            "back": "to pay in, to deposit (money)",
+            "example": "Ho versato i soldi sul conto ieri.",
+            "tier": "B1"
+          },
+          {
+            "front": "la trattenuta",
+            "pos": "noun",
+            "back": "deduction (from wages)",
+            "example": "Sulla busta paga ci sono varie trattenute.",
+            "tier": "B2"
+          },
+          {
+            "front": "la busta paga",
+            "pos": "noun",
+            "back": "pay slip",
+            "example": "Controllo sempre la busta paga a fine mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "il bonifico",
+            "pos": "noun",
+            "back": "bank transfer",
+            "example": "Ti faccio un bonifico domani mattina.",
+            "tier": "B1"
+          },
+          {
+            "front": "consapevole",
+            "pos": "adj",
+            "back": "aware, conscious",
+            "example": "È consapevole dei rischi del viaggio.",
+            "tier": "B2"
+          },
+          {
+            "front": "la pressione fiscale",
+            "pos": "phrase",
+            "back": "tax pressure, overall level of taxation",
+            "example": "La pressione fiscale è cresciuta negli ultimi anni.",
+            "tier": "B2"
+          },
+          {
+            "front": "la spesa pubblica",
+            "pos": "phrase",
+            "back": "public spending",
+            "example": "Il governo vuole ridurre la spesa pubblica.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'evasione",
+            "pos": "noun",
+            "back": "tax evasion",
+            "example": "La lotta all'evasione è una priorità del governo.",
+            "tier": "B2"
+          },
+          {
+            "front": "comodo",
+            "pos": "adj",
+            "back": "convenient, comfortable",
+            "example": "Pagare con il telefono è molto comodo.",
+            "tier": "A2"
+          },
+          {
+            "front": "insomma",
+            "pos": "adv",
+            "back": "in short, all in all",
+            "example": "Insomma, alla fine abbiamo deciso di restare.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo la Cgia di Mestre, gli italiani pagano quasi tutte le tasse senza accorgersene.",
+            "point": "Infinito riflessivo con pronome ne",
+            "explanation": "Accorgersene unisce l'infinito riflessivo accorgersi e il pronome ne, che sostituisce di questo. I pronomi si attaccano sempre alla fine dell'infinito, che perde la e finale.",
+            "why_tricky": "Lo studente scrive senza si accorgere o senza accorgersi di questo, invece di unire i pronomi al verbo."
+          },
+          {
+            "sentence": "Solo una piccola parte viene pagata con un bonifico consapevole.",
+            "point": "Il passivo con venire",
+            "explanation": "Nei tempi semplici il passivo si può formare con venire al posto di essere: viene pagata equivale a è pagata, ma insiste di più sull'azione che sullo stato.",
+            "why_tricky": "Venire qui non significa to come, e il participio deve concordare con il soggetto femminile singolare: pagata."
+          },
+          {
+            "sentence": "Alcuni pensano che questo renda i cittadini meno attenti alla spesa pubblica.",
+            "point": "Congiuntivo dopo pensare che",
+            "explanation": "Dopo pensare che, credere che e sembrare che si usa il congiuntivo. Renda è il congiuntivo presente di rendere, qui nel senso di far diventare.",
+            "why_tricky": "Nella lingua parlata molti italiani usano l'indicativo, ma nella lingua scritta il congiuntivo resta la forma corretta."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "stare peggio di",
+            "meaning": "to be worse off than",
+            "example": "Dopo la crisi molte famiglie stanno peggio di prima."
+          },
+          {
+            "phrase": "il dibattito resta aperto",
+            "meaning": "the question is still unresolved",
+            "example": "Sul lavoro da casa il dibattito resta aperto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché si parla di tasse invisibili?",
+            "type": "open"
+          },
+          {
+            "q": "In che modo la maggior parte delle tasse viene pagata, secondo lo studio?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le due opinioni diverse sul sistema automatico?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te è meglio pagare le tasse in modo automatico o vedere ogni pagamento? Scrivi 100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-lapponia-olga",
+      "title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "storie"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-lapponia-olga",
+        "revision": 1,
+        "meta": {
+          "title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/marche/notizie/2026/08/29/da-fano-alla-lapponia-in-auto-a-83-anni-lavventura-di-olga-mancurti_99ede620-95ce-4cb3-8e3d-358347d513e3.html",
+          "date_published": "2026-08-29",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "viaggi",
+            "storie"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Olga Mancurti is 83 years old and lives in Fano, in the Marche region. This summer she set off by car and got all the way to Lapland, in the north of Europe. She drove for many days, crossing several countries. On her return her town gave her a scroll to celebrate the achievement. She, however, does not want to stop: I already have the next destination in mind, she said.\n\nHer story has been liked by a lot of people, because it breaks the idea that at a certain age you should stay at home. Travelling alone by car takes patience, good organisation and a bit of courage. Olga says that curiosity is the real engine. Perhaps this is the secret: to keep making plans, even small ones, instead of waiting for time to pass.",
+        "resumen_es": "Olga Mancurti ha 83 anni e vive a Fano, nelle Marche. Quest'estate è partita in auto ed è arrivata fino alla Lapponia, nel nord dell'Europa. Ha guidato per molti giorni e ha attraversato diversi paesi. Al ritorno la sua città le ha dato una pergamena per festeggiare l'impresa. Lei però non vuole fermarsi: 'Ho già in mente la prossima meta', ha detto.\n\nLa sua storia è piaciuta a molte persone, perché rompe l'idea che a una certa età si debba restare a casa. Viaggiare in auto da soli richiede pazienza, una buona organizzazione e un po' di coraggio. Olga dice che la curiosità è il vero motore. Forse è questo il segreto: continuare a fare progetti, anche piccoli, invece di aspettare che il tempo passi.",
+        "vocab": [
+          {
+            "front": "partire",
+            "pos": "verb",
+            "back": "to leave, to set off",
+            "example": "Partiamo domani alle sei.",
+            "tier": "A2"
+          },
+          {
+            "front": "guidare",
+            "pos": "verb",
+            "back": "to drive",
+            "example": "Non mi piace guidare di notte.",
+            "tier": "A2"
+          },
+          {
+            "front": "attraversare",
+            "pos": "verb",
+            "back": "to cross, to go through",
+            "example": "Abbiamo attraversato tutta la Francia in treno.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pergamena",
+            "pos": "noun",
+            "back": "scroll, certificate of honour",
+            "example": "Il sindaco le ha consegnato una pergamena.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'impresa",
+            "pos": "noun",
+            "back": "feat, achievement",
+            "example": "Finire la maratona è stata una vera impresa.",
+            "tier": "B1"
+          },
+          {
+            "front": "fermarsi",
+            "pos": "verb",
+            "back": "to stop, to halt",
+            "example": "Ci fermiamo un attimo a bere un caffè.",
+            "tier": "A2"
+          },
+          {
+            "front": "la meta",
+            "pos": "noun",
+            "back": "destination, goal",
+            "example": "La nostra meta era un piccolo paese di montagna.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere in mente",
+            "pos": "phrase",
+            "back": "to have in mind, to be planning",
+            "example": "Ho in mente un regalo per tua sorella.",
+            "tier": "B1"
+          },
+          {
+            "front": "rompere l'idea",
+            "pos": "phrase",
+            "back": "to break with the notion",
+            "example": "Il suo lavoro rompe l'idea che i musei siano noiosi.",
+            "tier": "B2"
+          },
+          {
+            "front": "richiedere",
+            "pos": "verb",
+            "back": "to require, to demand",
+            "example": "Questo lavoro richiede molta attenzione.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pazienza",
+            "pos": "noun",
+            "back": "patience",
+            "example": "Con i bambini ci vuole pazienza.",
+            "tier": "A2"
+          },
+          {
+            "front": "il coraggio",
+            "pos": "noun",
+            "back": "courage",
+            "example": "Non ho avuto il coraggio di dirglielo.",
+            "tier": "B1"
+          },
+          {
+            "front": "fare progetti",
+            "pos": "phrase",
+            "back": "to make plans",
+            "example": "Mi piace fare progetti per l'estate.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Quest'estate è partita in auto ed è arrivata fino alla Lapponia, nel nord dell'Europa.",
+            "point": "Passato prossimo con essere e accordo del participio",
+            "explanation": "I verbi di movimento come partire e arrivare formano il passato prossimo con essere, e il participio concorda con il soggetto: partita e arrivata sono femminili singolari.",
+            "why_tricky": "Con avere il participio non cambia, quindi lo studente dimentica la a finale quando il soggetto è una donna."
+          },
+          {
+            "sentence": "La sua storia è piaciuta a molte persone, perché rompe l'idea che a una certa età si debba restare a casa.",
+            "point": "Il verbo piacere e il si impersonale con il congiuntivo",
+            "explanation": "Piacere ha come soggetto la cosa che piace, mentre la persona va con a. Nella seconda parte, si debba unisce il si impersonale al congiuntivo richiesto dopo l'idea che.",
+            "why_tricky": "Lo studente costruisce piacere come to like, con la persona soggetto, e usa l'indicativo deve dopo un'espressione di opinione."
+          },
+          {
+            "sentence": "Forse è questo il segreto: continuare a fare progetti, anche piccoli, invece di aspettare che il tempo passi.",
+            "point": "continuare a + infinito e invece di + infinito",
+            "explanation": "Continuare chiede la preposizione a davanti all'infinito. Invece di introduce l'alternativa scartata e va sempre con l'infinito, non con il gerundio.",
+            "why_tricky": "L'inglese usa la forma in -ing in entrambi i casi, quindi è facile scrivere invece di aspettando."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "avere in mente",
+            "meaning": "to have something planned or in your thoughts",
+            "example": "Che cosa hai in mente per il fine settimana?"
+          },
+          {
+            "phrase": "ci vuole coraggio",
+            "meaning": "it takes courage",
+            "example": "Per cambiare lavoro a cinquant'anni ci vuole coraggio."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è andata Olga Mancurti e come ha viaggiato?",
+            "type": "open"
+          },
+          {
+            "q": "Come ha festeggiato la sua città il ritorno di Olga?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la sua storia piace a molte persone?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Esiste un'età giusta per fare grandi viaggi? Scrivi 100 parole con la tua opinione e un esempio dalla tua vita."
+      }
+    },
     {
       "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
       "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
@@ -6213,495 +6720,6 @@
           }
         ],
         "opinion_prompt": "Ti piacciono i film ambientati nel futuro? Scrivi circa 100 parole e spiega perché sì o perché no, con un esempio concreto."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-nuova-tecnica-dna",
-      "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
-      "source": "ANSA",
-      "date": "2026-08-22",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "salute"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-nuova-tecnica-dna",
-        "revision": 1,
-        "meta": {
-          "title": "Diagnosi più precise da una nuova tecnica per leggere il Dna",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/08/22/diagnosi-piu-precise-da-una-nuova-tecnica-per-leggere-il-dna_1c713743-4de7-47fa-9ee2-5a072ce4033a.html",
-          "date_published": "2026-08-22",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "scienza",
-            "salute"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A new technique for reading DNA promises more precise diagnoses. According to the researchers, the method makes it possible to sequence very long fragments and to identify complex structures that older systems could not see well. In practice, doctors can read a bigger piece of the genetic code in one go, instead of putting together many small pieces.\n\nThis matters above all for rare diseases, where the cause is often hidden in a difficult part of the genome. If the analysis is clearer, the diagnosis arrives sooner and the patient wastes less time. Naturally, there are still things to check: the technique has to be tested on many people and the cost has to fall before it can enter all hospitals. But the direction seems clear, and in the coming years genetic analysis is likely to become an ordinary tool.",
-        "resumen_es": "Una nuova tecnica per leggere il Dna promette diagnosi più precise. Secondo i ricercatori, il metodo permette di sequenziare frammenti molto lunghi e di individuare strutture complesse che i sistemi più vecchi non riuscivano a vedere bene. In pratica i medici possono leggere un pezzo più grande del codice genetico in una volta sola, invece di mettere insieme tanti piccoli pezzi.\n\nQuesto è importante soprattutto per le malattie rare, dove spesso la causa si nasconde in una zona difficile del genoma. Se l'analisi è più chiara, la diagnosi arriva prima e il paziente perde meno tempo. Naturalmente ci sono ancora cose da verificare: la tecnica deve essere provata su molte persone e il costo deve scendere prima di entrare in tutti gli ospedali. Ma la direzione sembra chiara e nei prossimi anni l'analisi genetica diventerà uno strumento normale.",
-        "vocab": [
-          {
-            "front": "la diagnosi",
-            "pos": "noun",
-            "back": "diagnosis",
-            "example": "La diagnosi è arrivata dopo due settimane.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ricercatore",
-            "pos": "noun",
-            "back": "researcher",
-            "example": "I ricercatori hanno pubblicato lo studio ieri.",
-            "tier": "B1"
-          },
-          {
-            "front": "permettere di",
-            "pos": "verb",
-            "back": "to make it possible to, to allow",
-            "example": "Questa app permette di risparmiare tempo.",
-            "tier": "A2"
-          },
-          {
-            "front": "il frammento",
-            "pos": "noun",
-            "back": "fragment, piece",
-            "example": "Hanno trovato un frammento di ceramica antica.",
-            "tier": "B1"
-          },
-          {
-            "front": "individuare",
-            "pos": "verb",
-            "back": "to identify, to locate",
-            "example": "La polizia ha individuato il problema subito.",
-            "tier": "B1"
-          },
-          {
-            "front": "in una volta sola",
-            "pos": "phrase",
-            "back": "in one go, all at once",
-            "example": "Ha pagato tutto in una volta sola.",
-            "tier": "A2"
-          },
-          {
-            "front": "mettere insieme",
-            "pos": "phrase",
-            "back": "to put together",
-            "example": "Abbiamo messo insieme i dati di tre anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "la malattia rara",
-            "pos": "noun",
-            "back": "rare disease",
-            "example": "Le malattie rare sono difficili da riconoscere.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascondersi",
-            "pos": "verb",
-            "back": "to hide (oneself)",
-            "example": "Il gatto si nasconde sempre sotto il letto.",
-            "tier": "A2"
-          },
-          {
-            "front": "verificare",
-            "pos": "verb",
-            "back": "to check, to verify",
-            "example": "Devo verificare l'orario del treno.",
-            "tier": "B1"
-          },
-          {
-            "front": "scendere (di un prezzo)",
-            "pos": "verb",
-            "back": "to fall, to go down",
-            "example": "Il prezzo della benzina è sceso un poco.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "Il telefono è ormai uno strumento di lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "soprattutto",
-            "pos": "adv",
-            "back": "above all, especially",
-            "example": "Mi piace il mare, soprattutto d'inverno.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "individuare strutture complesse che i sistemi più vecchi non riuscivano a vedere bene",
-            "point": "Imperfetto per una capacità abituale nel passato",
-            "explanation": "Riuscivano è imperfetto perché descrive una situazione che durava nel tempo, non un fatto singolo. Riuscire chiede sempre la preposizione a davanti all'infinito.",
-            "why_tricky": "Molti studenti usano il passato prossimo, non sono riusciti, che indica un momento preciso. Inoltre si dimentica la a di riuscire a fare."
-          },
-          {
-            "sentence": "la tecnica deve essere provata su molte persone",
-            "point": "Passivo con dovere più essere più participio",
-            "explanation": "Il passivo si forma con essere più participio, e il participio provata concorda con tecnica, femminile singolare. Dovere si mette prima e resta all'infinito il verbo essere.",
-            "why_tricky": "L'ordine dovere più essere più participio sembra lungo, e l'accordo del participio con il soggetto femminile viene spesso dimenticato."
-          },
-          {
-            "sentence": "nei prossimi anni l'analisi genetica diventerà uno strumento normale",
-            "point": "Futuro semplice dei verbi in -are che cambiano vocale",
-            "explanation": "Diventare fa diventerà al futuro: la a dell'infinito diventa e. Lo stesso accade con parlare, che fa parlerà.",
-            "why_tricky": "Chi impara scrive spesso diventarà, per analogia con l'infinito. Solo i verbi in -are cambiano quella vocale, mentre finire fa finirà."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "andare per il verso giusto",
-            "meaning": "to be going the right way, to be on track",
-            "example": "Se la ricerca va per il verso giusto, avremo risultati fra due anni."
-          },
-          {
-            "phrase": "a portata di mano",
-            "meaning": "within reach, close at hand",
-            "example": "Una diagnosi rapida sembra finalmente a portata di mano."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa permette di fare la nuova tecnica per leggere il Dna?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa novità è importante per le malattie rare?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi restano da risolvere prima di usarla in tutti gli ospedali?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Faresti un test genetico per conoscere i tuoi rischi di salute? Scrivi circa 100 parole e spiega la tua scelta."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-flora-106-anni",
-      "title": "I 106 anni di Flora: \"Il mio consiglio ai giovani? Solo di essere felici\"",
-      "source": "Rai News",
-      "date": "2026-08-22",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "storie"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-flora-106-anni",
-        "revision": 1,
-        "meta": {
-          "title": "I 106 anni di Flora: \"Il mio consiglio ai giovani? Solo di essere felici\"",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/video/2026/08/i-106-anni-di-flora-il-mio-consiglio-ai-giovani-essere-felici-bergamo-verdello-compleanno-9b7c17bc-fbba-4951-9411-cc86c19ef88f.html",
-          "date_published": "2026-08-22",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "società",
-            "storie"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Verdello, in the province of Bergamo, they have celebrated the 106th birthday of Flora. The celebrations brought together family, neighbours and the local authorities. Flora still keeps up her passions, and among them there is one that surprises everybody: she loves funfairs. When they asked her for a piece of advice for young people, she answered simply that they should be happy.\n\nStories like this one are becoming more common in Italy, a country where life expectancy is among the highest in Europe. Many small towns now have residents over a hundred, and they often become a point of reference for the whole community. Behind these long lives there is usually a mix of things: family close by, an active routine and simple food. Flora's answer, in the end, sounds less like a secret and more like a decision.",
-        "resumen_es": "A Verdello, in provincia di Bergamo, hanno festeggiato i 106 anni di Flora. Ai festeggiamenti c'erano la famiglia, i vicini e le autorità del paese. Flora continua a coltivare le sue passioni e fra queste ce n'è una che sorprende tutti: le piacciono molto i luna park. Quando le hanno chiesto un consiglio per i giovani, ha risposto semplicemente di essere felici.\n\nStorie come questa sono sempre più comuni in Italia, un paese dove la vita media è fra le più alte d'Europa. Molti piccoli comuni hanno adesso abitanti che superano i cento anni e spesso queste persone diventano un punto di riferimento per tutta la comunità. Dietro queste vite lunghe di solito c'è un insieme di cose: la famiglia vicina, una routine attiva e un cibo semplice. La risposta di Flora, alla fine, sembra meno un segreto e più una decisione.",
-        "vocab": [
-          {
-            "front": "festeggiare",
-            "pos": "verb",
-            "back": "to celebrate",
-            "example": "Domani festeggiamo il compleanno di mia sorella.",
-            "tier": "A2"
-          },
-          {
-            "front": "i festeggiamenti",
-            "pos": "noun",
-            "back": "the celebrations",
-            "example": "I festeggiamenti sono durati tutto il giorno.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vicino",
-            "pos": "noun",
-            "back": "neighbour",
-            "example": "I nostri vicini sono molto gentili.",
-            "tier": "A2"
-          },
-          {
-            "front": "coltivare una passione",
-            "pos": "phrase",
-            "back": "to pursue an interest, to keep up a passion",
-            "example": "Da anni coltiva la passione per la fotografia.",
-            "tier": "B1"
-          },
-          {
-            "front": "sorprendere",
-            "pos": "verb",
-            "back": "to surprise",
-            "example": "La sua risposta ci ha sorpreso tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il luna park",
-            "pos": "noun",
-            "back": "funfair, amusement park",
-            "example": "Da bambino andavo al luna park ogni estate.",
-            "tier": "A2"
-          },
-          {
-            "front": "il consiglio",
-            "pos": "noun",
-            "back": "piece of advice",
-            "example": "Mi ha dato un consiglio molto utile.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vita media",
-            "pos": "phrase",
-            "back": "life expectancy, average lifespan",
-            "example": "La vita media è aumentata negli ultimi trent'anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il comune",
-            "pos": "noun",
-            "back": "municipality, town council",
-            "example": "Il comune ha organizzato la festa in piazza.",
-            "tier": "B1"
-          },
-          {
-            "front": "superare",
-            "pos": "verb",
-            "back": "to exceed, to go beyond",
-            "example": "Il costo ha superato le nostre previsioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il punto di riferimento",
-            "pos": "phrase",
-            "back": "point of reference, landmark figure",
-            "example": "Per noi era un punto di riferimento importante.",
-            "tier": "B1"
-          },
-          {
-            "front": "un insieme di",
-            "pos": "phrase",
-            "back": "a combination of, a set of",
-            "example": "Il successo è un insieme di lavoro e fortuna.",
-            "tier": "B1"
-          },
-          {
-            "front": "alla fine",
-            "pos": "phrase",
-            "back": "in the end",
-            "example": "Alla fine abbiamo deciso di restare a casa.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "fra queste ce n'è una che sorprende tutti",
-            "point": "Ci più ne nella forma ce n'è",
-            "explanation": "C'è diventa ce quando incontra ne, e ne sostituisce delle passioni. La forma completa sarebbe fra queste ci è una di esse, ma l'italiano dice sempre ce n'è.",
-            "why_tricky": "Il cambio da ci a ce prima di ne non è intuitivo, e l'apostrofo di n'è confonde chi scrive."
-          },
-          {
-            "sentence": "Quando le hanno chiesto un consiglio per i giovani, ha risposto semplicemente di essere felici",
-            "point": "Pronome indiretto le e discorso indiretto con di più infinito",
-            "explanation": "Le è il pronome indiretto femminile, cioè a Flora. Rispondere di più infinito riporta un consiglio senza usare che, ed è la forma più naturale in italiano.",
-            "why_tricky": "Le si confonde facilmente con la, che è il pronome diretto. Inoltre l'inglese userebbe una frase con that, mentre l'italiano preferisce di più infinito."
-          },
-          {
-            "sentence": "Molti piccoli comuni hanno adesso abitanti che superano i cento anni",
-            "point": "Articolo determinativo davanti ai numeri con superare",
-            "explanation": "In italiano si dice superare i cento anni, con l'articolo i davanti al numero. L'articolo indica una soglia, una quantità considerata nel suo insieme.",
-            "why_tricky": "In inglese non c'è articolo, over a hundred years. Chi impara scrive superano cento anni, che suona incompleto a un orecchio italiano."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "portare bene gli anni",
-            "meaning": "to wear one's age well",
-            "example": "Flora porta benissimo i suoi anni."
-          },
-          {
-            "phrase": "avere il cuore giovane",
-            "meaning": "to be young at heart",
-            "example": "Ha più di cento anni ma ha il cuore giovane."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove e come hanno festeggiato i 106 anni di Flora?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è la passione di Flora che sorprende le persone?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, che cosa c'è spesso dietro queste vite molto lunghe?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che consiglio daresti tu a una persona giovane? Scrivi circa 100 parole e spiega perché proprio quel consiglio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-video-brevi-cervello",
-      "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
-      "source": "ANSA",
-      "date": "2026-08-21",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-video-brevi-cervello",
-        "revision": 1,
-        "meta": {
-          "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/21/secondo-la-scienza-guardare-video-brevi-riduce-lattivita-decisionale-del-cervello_6f080099-5a34-4520-8370-ad870bc3be32.html",
-          "date_published": "2026-08-21",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "scienza",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "resumen_es": "Un nuovo studio scientifico mostra che guardare molti video brevi, come quelli dei social media, cambia il modo in cui lavora il cervello. Quando passiamo da un video all'altro senza pensare, il cervello riduce l'attività legata alle decisioni: non sceglie più con attenzione, ma reagisce in modo quasi automatico. Gli scienziati hanno osservato questo effetto soprattutto durante lunghe sessioni di scorrimento continuo sullo smartphone.\n\nGli esperti spiegano che questo tipo di consumo veloce di contenuti può abituare il cervello a preferire stimoli brevi e immediati, rendendo più difficile concentrarsi su compiti lunghi o complessi. Per questo motivo, alcuni ricercatori consigliano di alternare i video brevi con attività che richiedono più attenzione, come la lettura. Il dibattito sull'effetto reale dei social sul cervello resta comunque aperto tra gli scienziati.",
-        "summary_en": "A new scientific study shows that watching many short videos, like the ones on social media, changes the way the brain works. When we jump from one video to the next without thinking, the brain reduces the activity linked to decision-making: it no longer chooses carefully but reacts almost automatically. Scientists observed this effect especially during long sessions of continuous scrolling on smartphones.\n\nExperts explain that this fast way of consuming content can train the brain to prefer short, immediate stimuli, making it harder to concentrate on long or complex tasks. For this reason, some researchers recommend alternating short videos with activities that require more attention, such as reading. The debate over the real effect of social media on the brain remains open among scientists.",
-        "vocab": [
-          {
-            "front": "lo studio",
-            "pos": "noun",
-            "back": "study",
-            "example": "Un nuovo studio scientifico spiega il fenomeno.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cervello",
-            "pos": "noun",
-            "back": "brain",
-            "example": "Il cervello reagisce in modo diverso.",
-            "tier": "A2"
-          },
-          {
-            "front": "ridurre",
-            "pos": "verb",
-            "back": "to reduce",
-            "example": "I video brevi riducono l'attenzione.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'attività",
-            "pos": "noun",
-            "back": "activity",
-            "example": "L'attività decisionale cambia.",
-            "tier": "B1"
-          },
-          {
-            "front": "decisionale",
-            "pos": "adj",
-            "back": "decision-making",
-            "example": "L'attività decisionale del cervello si riduce.",
-            "tier": "B1"
-          },
-          {
-            "front": "scorrere",
-            "pos": "verb",
-            "back": "to scroll",
-            "example": "Molte persone scorrono i video senza pensare.",
-            "tier": "B1"
-          },
-          {
-            "front": "automatico/a",
-            "pos": "adj",
-            "back": "automatic",
-            "example": "La reazione diventa quasi automatica.",
-            "tier": "B1"
-          },
-          {
-            "front": "abituare",
-            "pos": "verb",
-            "back": "to accustom, to get used to",
-            "example": "Il cervello si abitua agli stimoli brevi.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo stimolo",
-            "pos": "noun",
-            "back": "stimulus",
-            "example": "Preferisce stimoli brevi e immediati.",
-            "tier": "B1"
-          },
-          {
-            "front": "concentrarsi",
-            "pos": "verb",
-            "back": "to concentrate",
-            "example": "È più difficile concentrarsi su compiti lunghi.",
-            "tier": "A2"
-          },
-          {
-            "front": "alternare",
-            "pos": "verb",
-            "back": "to alternate",
-            "example": "Gli esperti consigliano di alternare le attività.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "Il dibattito tra scienziati resta aperto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Quando passiamo da un video all'altro senza pensare, il cervello riduce l'attività legata alle decisioni: non sceglie più con attenzione, ma reagisce in modo quasi automatico.",
-            "point": "\"quando\" + presente indicativo per le abitudini",
-            "explanation": "\"Quando\" con il presente indicativo (\"passiamo\") descrive un'azione abituale o generale, non un evento unico nel tempo.",
-            "why_tricky": "Gli studenti a volte usano il futuro dopo \"quando\" come in inglese, ma in italiano si usa il presente per parlare di abitudini."
-          },
-          {
-            "sentence": "Per questo motivo, alcuni ricercatori consigliano di alternare i video brevi con attività che richiedono più attenzione, come la lettura.",
-            "point": "\"consigliare di\" + infinito",
-            "explanation": "Il verbo \"consigliare\", seguito da un infinito, richiede la preposizione \"di\" (\"consigliano di alternare\"), non \"a\".",
-            "why_tricky": "Gli studenti confondono le preposizioni dopo i verbi di consiglio o richiesta, come \"consigliare di\" e \"invitare a\"."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "perdere il filo",
-            "meaning": "perdere la concentrazione o il senso di qualcosa",
-            "example": "Guardando troppi video brevi, si rischia di perdere il filo dei propri pensieri."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Secondo lo studio, cosa succede al cervello quando guardiamo molti video brevi?",
-            "type": "open"
-          },
-          {
-            "q": "Perché gli esperti consigliano di alternare i video brevi con altre attività?",
-            "type": "open"
-          },
-          {
-            "q": "Quanto tempo passi tu a guardare video brevi ogni giorno? Pensi che influisca sulla tua concentrazione?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi un breve testo su come i video brevi hanno cambiato le tue abitudini quotidiane, in positivo o in negativo."
       }
     }
   ]
