@@ -1,7 +1,1021 @@
 {
-  "generated_at": "2026-08-30T07:10:42.622950Z",
+  "generated_at": "2026-08-31T07:16:14Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-08-31-ia-volto-diabete",
+      "title": "Un video del volto e l'IA scopre in pochi secondi diabete e ipertensione",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "tecnologia"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-31-ia-volto-diabete",
+        "revision": 1,
+        "meta": {
+          "title": "Un video del volto e l'IA scopre in pochi secondi diabete e ipertensione",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/08/30/un-video-del-volto-e-lia-scopre-in-pochi-secondi-diabete-e-ipertensione_312cb1b9-7970-4d22-b860-8c56d3356e55.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-31",
+          "tags": [
+            "salute",
+            "tecnologia"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A short video of the face may be enough to detect certain illnesses. That is the result of a study presented at the European cardiology congress. The researchers used artificial intelligence to analyse small changes in the skin and in the colour of the face. In a few seconds the program can flag who might have diabetes or high blood pressure. The person only has to look at a phone camera and stay still.\n\nThis method does not replace blood tests or a visit to the doctor. It does, though, help to work out quickly who needs more precise checks. Diabetes and hypertension often give no symptoms for years, and many people discover the problem too late. A simple, fast tool could help above all in countries where there are few doctors. Before it is really used, however, further tests are needed on larger and more varied groups of patients.",
+        "resumen_es": "Un breve video del viso può bastare per scoprire alcune malattie. È il risultato di uno studio presentato al congresso europeo di cardiologia. I ricercatori hanno usato l'intelligenza artificiale per analizzare piccoli cambiamenti della pelle e del colore del volto. In pochi secondi il programma riesce a segnalare chi potrebbe avere il diabete o la pressione alta. La persona deve solo guardare la telecamera di un telefono e restare ferma.\n\nQuesto metodo non sostituisce le analisi del sangue né la visita dal medico. Serve però a capire in fretta chi ha bisogno di controlli più precisi. Il diabete e l'ipertensione, infatti, spesso non danno sintomi per anni, e molte persone scoprono il problema troppo tardi. Uno strumento semplice e veloce potrebbe aiutare soprattutto nei paesi dove i medici sono pochi. Prima di usarlo davvero, però, servono altre prove su gruppi di pazienti più grandi e diversi.",
+        "vocab": [
+          {
+            "front": "il volto",
+            "pos": "noun",
+            "back": "face (slightly formal,= il viso)",
+            "example": "Aveva il volto stanco dopo il viaggio.",
+            "tier": "B1"
+          },
+          {
+            "front": "bastare",
+            "pos": "verb",
+            "back": "to be enough",
+            "example": "Bastano dieci minuti per arrivare.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ricercatore",
+            "pos": "noun",
+            "back": "researcher",
+            "example": "I ricercatori hanno pubblicato lo studio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pelle",
+            "pos": "noun",
+            "back": "skin",
+            "example": "Il sole fa male alla pelle.",
+            "tier": "A2"
+          },
+          {
+            "front": "segnalare",
+            "pos": "verb",
+            "back": "to flag, to report, to point out",
+            "example": "Il sistema segnala subito gli errori.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pressione alta",
+            "pos": "phrase",
+            "back": "high blood pressure",
+            "example": "Mio nonno ha la pressione alta.",
+            "tier": "A2"
+          },
+          {
+            "front": "restare fermo",
+            "pos": "phrase",
+            "back": "to keep still",
+            "example": "Per la foto devi restare fermo.",
+            "tier": "A2"
+          },
+          {
+            "front": "sostituire",
+            "pos": "verb",
+            "back": "to replace",
+            "example": "Il computer non può sostituire un buon medico.",
+            "tier": "B1"
+          },
+          {
+            "front": "le analisi del sangue",
+            "pos": "phrase",
+            "back": "blood tests",
+            "example": "Domani faccio le analisi del sangue.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sintomo",
+            "pos": "noun",
+            "back": "symptom",
+            "example": "La malattia non dava nessun sintomo.",
+            "tier": "B1"
+          },
+          {
+            "front": "in fretta",
+            "pos": "adv",
+            "back": "quickly, in a hurry",
+            "example": "Ho mangiato in fretta e sono uscito.",
+            "tier": "A2"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "tool, instrument",
+            "example": "È uno strumento utile per il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la prova",
+            "pos": "noun",
+            "back": "test, trial, proof",
+            "example": "Servono altre prove prima di decidere.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere bisogno di",
+            "pos": "phrase",
+            "back": "to need",
+            "example": "Ho bisogno di un po' di riposo.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In pochi secondi il programma riesce a segnalare chi potrebbe avere il diabete o la pressione alta.",
+            "point": "Riuscire a + infinitive and the conditional of possibility",
+            "explanation": "Riuscire a + infinitive means to manage to or to be able to do something after some effort. Potrebbe is the present conditional of potere and softens the claim: might have, not certainly has.",
+            "why_tricky": "The a is obligatory: riesce segnalare is wrong. And chi here means the people who, so the verb stays singular even though several people are meant."
+          },
+          {
+            "sentence": "Questo metodo non sostituisce le analisi del sangue né la visita dal medico.",
+            "point": "Double negation with non and né",
+            "explanation": "Italian keeps non before the verb and adds né before the second element: not A nor B. Note also dal medico, where da before a person means at or to that person's place.",
+            "why_tricky": "English drops the first negative (does not replace either), but Italian must keep non. Learners also write al medico instead of dal medico."
+          },
+          {
+            "sentence": "Prima di usarlo davvero, però, servono altre prove su gruppi di pazienti più grandi e diversi.",
+            "point": "Prima di + infinitive with an attached pronoun, and impersonal servire",
+            "explanation": "Prima di is always followed by the infinitive when the subject is general, and the object pronoun lo attaches to the end: usarlo. Servono agrees with prove, the thing that is needed, not with the person who needs it.",
+            "why_tricky": "Learners write prima che si usa or lo usare. With servire, as with piacere, the grammatical subject is the thing needed, so the verb is plural here."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in fretta e furia",
+            "meaning": "in a great rush",
+            "example": "Siamo partiti in fretta e furia."
+          },
+          {
+            "phrase": "troppo tardi",
+            "meaning": "too late",
+            "example": "Se ne è accorto troppo tardi."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa analizza l'intelligenza artificiale nel video del volto?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il diabete e l'ipertensione sono spesso scoperti troppo tardi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa serve ancora prima di usare davvero questo metodo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti fideresti di un programma di intelligenza artificiale per un primo controllo della tua salute? Scrivi circa 100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-31-yosemite-vendita",
+      "title": "'Trump sta valutando la vendita di una parte dello Yosemite ad una società privata'",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "ambiente",
+        "Stati Uniti"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-31-yosemite-vendita",
+        "revision": 1,
+        "meta": {
+          "title": "'Trump sta valutando la vendita di una parte dello Yosemite ad una società privata'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/29/trump-sta-valutando-la-vendita-di-una-parte-dello-yosemite-ad-una-societa_afab2e42-6cdf-4181-a3bf-0e15034ce951.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-31",
+          "tags": [
+            "ambiente",
+            "Stati Uniti"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In the United States there is discussion about the possible sale of part of Yosemite park to a private company. According to some reports, President Trump is said to be considering the idea. Yosemite is in California and is one of the most famous national parks in the world, with granite mountains, very high waterfalls and giant trees. Every year millions of visitors come from all over the planet to see it.\n\nIt is not the first time a similar plan has been talked about: proposals of this kind had already been rejected in the past. American national parks belong to the state and are protected by law, precisely so that they stay open to everyone. Those who defend the project point to running costs and the lack of public money. Those who criticise it fear instead that the landscape will be exploited for profit and that entry will become too expensive for ordinary families.",
+        "resumen_es": "Negli Stati Uniti si discute della possibile vendita di una parte del parco di Yosemite a una società privata. Secondo alcune notizie, il presidente Trump starebbe valutando questa idea. Yosemite si trova in California ed è uno dei parchi nazionali più famosi del mondo, con montagne di granito, cascate altissime e alberi giganti. Ogni anno milioni di visitatori arrivano da tutto il pianeta per vederlo.\n\nNon è la prima volta che si parla di un piano simile: proposte di questo tipo erano già state bocciate in passato. I parchi nazionali americani, infatti, appartengono allo Stato e sono protetti per legge, proprio perché restino aperti a tutti. Chi difende il progetto pensa ai costi di gestione e alla mancanza di soldi pubblici. Chi lo critica teme invece che il paesaggio venga sfruttato per guadagnare e che l'ingresso diventi troppo caro per le famiglie normali.",
+        "vocab": [
+          {
+            "front": "la vendita",
+            "pos": "noun",
+            "back": "sale",
+            "example": "La vendita della casa è finita bene.",
+            "tier": "A2"
+          },
+          {
+            "front": "valutare",
+            "pos": "verb",
+            "back": "to consider, to assess",
+            "example": "Sto valutando due offerte di lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la cascata",
+            "pos": "noun",
+            "back": "waterfall",
+            "example": "Dietro la cascata c'è una grotta.",
+            "tier": "A2"
+          },
+          {
+            "front": "il visitatore",
+            "pos": "noun",
+            "back": "visitor",
+            "example": "Il museo ha molti visitatori stranieri.",
+            "tier": "A2"
+          },
+          {
+            "front": "bocciare",
+            "pos": "verb",
+            "back": "to reject, to turn down",
+            "example": "Il parlamento ha bocciato la proposta.",
+            "tier": "B1"
+          },
+          {
+            "front": "appartenere",
+            "pos": "verb",
+            "back": "to belong",
+            "example": "Questa terra appartiene al comune.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gestione",
+            "pos": "noun",
+            "back": "management, running",
+            "example": "La gestione del parco costa molto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la mancanza",
+            "pos": "noun",
+            "back": "lack, shortage",
+            "example": "C'è una mancanza di personale.",
+            "tier": "B1"
+          },
+          {
+            "front": "sfruttare",
+            "pos": "verb",
+            "back": "to exploit, to make use of",
+            "example": "Vogliono sfruttare il sole per l'energia.",
+            "tier": "B1"
+          },
+          {
+            "front": "guadagnare",
+            "pos": "verb",
+            "back": "to earn, to make money",
+            "example": "Guadagna poco ma lavora volentieri.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'ingresso",
+            "pos": "noun",
+            "back": "entrance, entry ticket",
+            "example": "L'ingresso costa dieci euro.",
+            "tier": "A2"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear, to be afraid",
+            "example": "Temo che piova domani.",
+            "tier": "B1"
+          },
+          {
+            "front": "il paesaggio",
+            "pos": "noun",
+            "back": "landscape, scenery",
+            "example": "Dalla finestra si vede un bel paesaggio.",
+            "tier": "A2"
+          },
+          {
+            "front": "per legge",
+            "pos": "phrase",
+            "back": "by law",
+            "example": "Per legge il casco è obbligatorio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo alcune notizie, il presidente Trump starebbe valutando questa idea.",
+            "point": "The conditional used for unconfirmed news",
+            "explanation": "Italian journalism uses the conditional (starebbe valutando) to report something not yet confirmed. It is the equivalent of English is said to be considering or would reportedly be considering.",
+            "why_tricky": "This is not a hypothetical if-sentence. Learners read starebbe as would be and look for a missing condition, when in fact the conditional alone signals that the source is second hand."
+          },
+          {
+            "sentence": "Non è la prima volta che si parla di un piano simile: proposte di questo tipo erano già state bocciate in passato.",
+            "point": "Impersonal si and the passive trapassato prossimo",
+            "explanation": "Si parla di means people talk about, with no named subject. Erano già state bocciate is a passive in the trapassato prossimo: something rejected before another moment in the past.",
+            "why_tricky": "The passive needs two participles, state and bocciate, and both must agree with proposte in the feminine plural. Learners often drop state or leave bocciato in the masculine singular."
+          },
+          {
+            "sentence": "Chi lo critica teme invece che il paesaggio venga sfruttato per guadagnare e che l'ingresso diventi troppo caro per le famiglie normali.",
+            "point": "Subjunctive after temere che",
+            "explanation": "Verbs of fear, hope, opinion and doubt take che + subjunctive: venga and diventi. Venga sfruttato is a passive built with venire, very common in Italian instead of essere.",
+            "why_tricky": "Learners write teme che viene sfruttato with the indicative. Also note chi lo critica takes a singular verb even though it means the people who criticise it."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "non è la prima volta che",
+            "meaning": "it is not the first time that",
+            "example": "Non è la prima volta che arriva in ritardo."
+          },
+          {
+            "phrase": "aperto a tutti",
+            "meaning": "open to everyone",
+            "example": "Il corso è gratuito e aperto a tutti."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa si discute negli Stati Uniti a proposito del parco di Yosemite?",
+            "type": "open"
+          },
+          {
+            "q": "Perché i parchi nazionali americani sono protetti per legge?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le ragioni di chi difende il progetto e di chi lo critica?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te i parchi naturali devono restare pubblici o possono essere gestiti da aziende private? Scrivi circa 100 parole con due argomenti."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-31-lidia-poet-rai",
+      "title": "Lidia Poet, la prima avvocata ora indaga su Rai1",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "storia",
+        "serie tv"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-31-lidia-poet-rai",
+        "revision": 1,
+        "meta": {
+          "title": "Lidia Poet, la prima avvocata ora indaga su Rai1",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/serietv/2026/08/30/lidia-poet-la-prima-avvocata-ora-indaga-su-rai1_58942010-a3f4-4518-96c6-0d76ddaab9f7.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-31",
+          "tags": [
+            "storia",
+            "serie tv"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "From Tuesday 1 September a series devoted to Lidia Poet arrives on Rai1 in prime time. Poet was the first woman lawyer in Italy: at the end of the nineteenth century she managed to graduate and to join the professional register, but shortly afterwards she was forbidden to practise because she was a woman. In the series the character does not give up and investigates difficult cases, among crimes, family secrets and prejudice.\n\nThe story works because it mixes two things: the rhythm of a detective tale and a piece of real history. Turin, with its elegant buildings and its foggy streets, almost becomes another character. Viewers can enjoy the investigations and, at the same time, get an idea of how difficult women's work was back then. Even today many professional women describe similar obstacles, even though the laws have changed.",
+        "resumen_es": "Da martedì primo settembre arriva su Rai1, in prima serata, una serie dedicata a Lidia Poët. Poët è stata la prima donna avvocato in Italia: alla fine dell'Ottocento riuscì a laurearsi e a iscriversi all'albo, ma poco dopo le fu vietato di esercitare perché era una donna. Nella serie il personaggio non si arrende e indaga su casi difficili, tra delitti, segreti di famiglia e pregiudizi.\n\nLa storia funziona perché mescola due cose: il ritmo del racconto poliziesco e un pezzo di storia vera. Torino, con i suoi palazzi eleganti e le sue strade nebbiose, diventa quasi un altro personaggio. Il pubblico può divertirsi con le indagini e, allo stesso tempo, farsi un'idea di quanto fosse difficile, allora, il lavoro delle donne. Anche oggi molte professioniste raccontano ostacoli simili, anche se le leggi sono cambiate.",
+        "vocab": [
+          {
+            "front": "l'avvocata",
+            "pos": "noun",
+            "back": "woman lawyer",
+            "example": "La nostra avvocata è molto brava.",
+            "tier": "B1"
+          },
+          {
+            "front": "iscriversi all'albo",
+            "pos": "phrase",
+            "back": "to join the professional register",
+            "example": "Dopo l'esame si è iscritta all'albo.",
+            "tier": "B1"
+          },
+          {
+            "front": "vietare",
+            "pos": "verb",
+            "back": "to forbid, to ban",
+            "example": "È vietato fumare in ufficio.",
+            "tier": "A2"
+          },
+          {
+            "front": "esercitare",
+            "pos": "verb",
+            "back": "to practise (a profession)",
+            "example": "Esercita la professione da vent'anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "arrendersi",
+            "pos": "verb",
+            "back": "to give up, to surrender",
+            "example": "Non si arrende mai davanti alle difficoltà.",
+            "tier": "B1"
+          },
+          {
+            "front": "indagare",
+            "pos": "verb",
+            "back": "to investigate",
+            "example": "La polizia indaga sul furto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il delitto",
+            "pos": "noun",
+            "back": "crime, murder",
+            "example": "Il delitto è avvenuto di notte.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pregiudizio",
+            "pos": "noun",
+            "back": "prejudice",
+            "example": "Ci sono ancora molti pregiudizi sul lavoro femminile.",
+            "tier": "B1"
+          },
+          {
+            "front": "mescolare",
+            "pos": "verb",
+            "back": "to mix, to blend",
+            "example": "Il film mescola commedia e dramma.",
+            "tier": "B1"
+          },
+          {
+            "front": "il racconto poliziesco",
+            "pos": "phrase",
+            "back": "detective story",
+            "example": "Mi piacciono i racconti polizieschi.",
+            "tier": "B1"
+          },
+          {
+            "front": "nebbioso",
+            "pos": "adj",
+            "back": "foggy, misty",
+            "example": "Torino d'inverno è spesso nebbiosa.",
+            "tier": "B1"
+          },
+          {
+            "front": "farsi un'idea",
+            "pos": "phrase",
+            "back": "to get an idea, to form a picture",
+            "example": "Leggi questo, così ti fai un'idea.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ostacolo",
+            "pos": "noun",
+            "back": "obstacle",
+            "example": "Ha superato molti ostacoli.",
+            "tier": "A2"
+          },
+          {
+            "front": "la prima serata",
+            "pos": "phrase",
+            "back": "prime time (evening TV)",
+            "example": "Il film va in onda in prima serata.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Poët è stata la prima donna avvocato in Italia: alla fine dell'Ottocento riuscì a laurearsi e a iscriversi all'albo, ma poco dopo le fu vietato di esercitare perché era una donna.",
+            "point": "Passato remoto and an impersonal passive with an indirect pronoun",
+            "explanation": "Riuscì and fu vietato are the passato remoto, the past tense used in Italian for events far away in time, especially in history and in writing. Le fu vietato means it was forbidden to her, so le is an indirect pronoun.",
+            "why_tricky": "In speech most of Italy uses the passato prossimo, so learners rarely meet the passato remoto until they read. Note also the mixture in one sentence: è stata for a lasting fact, riuscì for a historical event, era for a background state."
+          },
+          {
+            "sentence": "Torino, con i suoi palazzi eleganti e le sue strade nebbiose, diventa quasi un altro personaggio.",
+            "point": "Possessive adjectives with the definite article",
+            "explanation": "Italian normally keeps the article before a possessive: i suoi palazzi, le sue strade. Suoi and sue agree with the thing possessed, not with the owner, so a city can have suoi and sue.",
+            "why_tricky": "English never says the his buildings, so learners drop the article. And because Torino is feminine, learners wrongly expect all its possessives to be feminine."
+          },
+          {
+            "sentence": "Il pubblico può divertirsi con le indagini e, allo stesso tempo, farsi un'idea di quanto fosse difficile, allora, il lavoro delle donne.",
+            "point": "Reflexive infinitives after a modal, and the imperfect subjunctive in an indirect question",
+            "explanation": "After può, the reflexive pronoun attaches to the infinitive: divertirsi, farsi. Fosse is the imperfect subjunctive, normal after quanto, come and perché in an indirect question about the past.",
+            "why_tricky": "Learners write si può divertire, which is possible but changes the emphasis, or use era instead of fosse. The subjunctive here signals a reported, filtered perspective rather than a plain fact."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "allo stesso tempo",
+            "meaning": "at the same time",
+            "example": "È divertente e allo stesso tempo utile."
+          },
+          {
+            "phrase": "non arrendersi mai",
+            "meaning": "never to give up",
+            "example": "Ha imparato a non arrendersi mai."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi era Lidia Poët e che cosa le successe dopo l'iscrizione all'albo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la serie mescola il racconto poliziesco e la storia vera?",
+            "type": "open"
+          },
+          {
+            "q": "Che ruolo ha la città di Torino nella serie?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piacciono le serie storiche o preferisci le storie ambientate oggi? Scrivi circa 100 parole e spiega la tua scelta con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-traghetto-cipro",
+      "title": "Un traghetto affonda al largo di Cipro: 8 morti e 17 dispersi. Arrestati comandante ed equipaggio",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "cronaca",
+        "mare"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-traghetto-cipro",
+        "revision": 1,
+        "meta": {
+          "title": "Un traghetto affonda al largo di Cipro: 8 morti e 17 dispersi. Arrestati comandante ed equipaggio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/30/un-traghetto-affonda-al-largo-di-cipro-8-morti-e-17-dispersi.-arrestati-comandante-ed-equipaggio_f0c2bdf9-1180-4b26-b5e8-09ed14dbe584.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "cronaca",
+            "mare"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "A ferry sank off the coast of Cyprus shortly after leaving the port of Kyrenia. According to the first reports, eight people have died and seventeen are missing. The sea was very rough and the strong waves caused the vessel to capsize. Rescue operations began immediately and many passengers were saved by the boats that reached the scene.\n\nThe captain and the crew have been arrested. The authorities want to understand whether the ship should have sailed in that weather and whether the safety rules were respected. The search at sea continues, because the hope of finding more survivors is still alive. In the coming days investigators will examine the ferry's documents and listen to the passengers' accounts. Meanwhile the families are waiting for news at the port, together with doctors and volunteers.",
+        "resumen_es": "Un traghetto è affondato al largo di Cipro poco dopo la partenza dal porto di Kyrenia. Secondo le prime informazioni, otto persone sono morte e diciassette risultano disperse. Il mare era molto agitato e le onde forti hanno fatto ribaltare la nave. Le operazioni di soccorso sono cominciate subito e molti passeggeri sono stati salvati dalle barche arrivate sul posto.\n\nIl comandante e l'equipaggio sono stati arrestati. Le autorità vogliono capire se la nave poteva partire con quel tempo e se le regole di sicurezza sono state rispettate. Le ricerche in mare continuano, perché la speranza di trovare altri superstiti resta viva. Nei prossimi giorni gli investigatori esamineranno i documenti del traghetto e ascolteranno le testimonianze dei passeggeri. Intanto le famiglie aspettano notizie al porto, insieme ai medici e ai volontari.",
+        "vocab": [
+          {
+            "front": "il traghetto",
+            "pos": "noun",
+            "back": "ferry",
+            "example": "Prendiamo il traghetto per la Sardegna.",
+            "tier": "B1"
+          },
+          {
+            "front": "affondare",
+            "pos": "verb",
+            "back": "to sink",
+            "example": "La barca è affondata vicino alla costa.",
+            "tier": "B1"
+          },
+          {
+            "front": "al largo di",
+            "pos": "phrase",
+            "back": "off the coast of",
+            "example": "I pescatori erano al largo di Napoli.",
+            "tier": "B2"
+          },
+          {
+            "front": "disperso",
+            "pos": "adj",
+            "back": "missing",
+            "example": "Due persone risultano ancora disperse.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'onda",
+            "pos": "noun",
+            "back": "wave",
+            "example": "Le onde erano alte e il mare era mosso.",
+            "tier": "A2"
+          },
+          {
+            "front": "ribaltarsi",
+            "pos": "verb",
+            "back": "to overturn, to capsize",
+            "example": "Il camion si è ribaltato sull'autostrada.",
+            "tier": "B2"
+          },
+          {
+            "front": "i soccorsi",
+            "pos": "noun",
+            "back": "rescue services, rescue operations",
+            "example": "I soccorsi sono arrivati in dieci minuti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'equipaggio",
+            "pos": "noun",
+            "back": "crew",
+            "example": "L'equipaggio ha aiutato tutti i passeggeri.",
+            "tier": "B1"
+          },
+          {
+            "front": "il superstite",
+            "pos": "noun",
+            "back": "survivor",
+            "example": "I superstiti sono stati portati in ospedale.",
+            "tier": "B2"
+          },
+          {
+            "front": "la testimonianza",
+            "pos": "noun",
+            "back": "account, testimony",
+            "example": "La sua testimonianza è molto importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "rispettare le regole",
+            "pos": "phrase",
+            "back": "to follow the rules",
+            "example": "In mare bisogna rispettare le regole di sicurezza.",
+            "tier": "A2"
+          },
+          {
+            "front": "la speranza",
+            "pos": "noun",
+            "back": "hope",
+            "example": "C'è ancora la speranza di trovarli vivi.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il comandante e l'equipaggio sono stati arrestati.",
+            "point": "Passive voice in the passato prossimo with essere",
+            "explanation": "The passive is formed with essere plus the past participle, and in a compound tense essere itself appears as sono stati, with the participle agreeing in gender and number with the subject.",
+            "why_tricky": "Two participles in a row, stati and arrestati, look odd to English speakers, and both must agree with the plural masculine subject."
+          },
+          {
+            "sentence": "Il mare era molto agitato e le onde forti hanno fatto ribaltare la nave.",
+            "point": "Imperfetto for description versus passato prossimo for the event, plus fare plus infinitive",
+            "explanation": "Era describes the background situation, while hanno fatto reports a completed action. Fare plus infinitive means to make something happen, so fare ribaltare is to cause to capsize.",
+            "why_tricky": "Learners use the passato prossimo for descriptions too, and they add a preposition before the infinitive after fare, which Italian does not allow."
+          },
+          {
+            "sentence": "Le autorità vogliono capire se la nave poteva partire con quel tempo e se le regole di sicurezza sono state rispettate.",
+            "point": "Indirect question with se and the modal potere in the imperfetto",
+            "explanation": "Se introduces an indirect yes or no question, and poteva expresses what was allowed or possible in the past as an ongoing condition rather than a single completed act.",
+            "why_tricky": "Se also means if in conditional sentences, and choosing between poteva and ha potuto is a classic difficulty."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "restare a galla",
+            "meaning": "to stay afloat, also used figuratively for surviving a difficult time",
+            "example": "Con quel lavoro riesce appena a restare a galla."
+          },
+          {
+            "phrase": "correre in aiuto",
+            "meaning": "to rush to help",
+            "example": "I vicini sono corsi in aiuto della famiglia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa è successo al traghetto vicino a Cipro?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il comandante e l'equipaggio sono stati arrestati?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa faranno gli investigatori nei prossimi giorni?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, le regole di sicurezza sul mare sono abbastanza severe? Scrivi circa 100 parole e spiega la tua opinione con un esempio."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-vacanze-settembre",
+      "title": "Volano le vacanze a settembre, 10 milioni in viaggio",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "viaggi",
+        "turismo"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-vacanze-settembre",
+        "revision": 1,
+        "meta": {
+          "title": "Volano le vacanze a settembre, 10 milioni in viaggio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/29/volano-le-vacanze-a-settembre-10-milioni-in-viaggio_0ebc9651-cf36-4f62-a760-413fccc95e5f.html",
+          "date_published": "2026-08-29",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "viaggi",
+            "turismo"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In September Italians do not feel like giving up travelling. According to Confturismo, around ten million people will set off on a short holiday. Most of them are staying in Italy, and the favourite destinations are Tuscany, Campania and Emilia Romagna. Many choose this period because the beaches are emptier, prices are lower and the heat is less intense.\n\nFor hotel owners and restaurants this is good news, because the season gets longer and work continues after the summer as well. People leaving in these days are mainly looking for the sea, but also for art cities and hills. The long weekend is the most common formula: two or three nights, a trip to the countryside, a museum or two and a good lunch. For many families, in short, the real holiday starts now.",
+        "resumen_es": "A settembre gli italiani non hanno voglia di smettere di viaggiare. Secondo Confturismo, circa dieci milioni di persone partiranno per una vacanza breve. La maggior parte resta in Italia e le mete preferite sono la Toscana, la Campania e l'Emilia Romagna. Molti scelgono questo periodo perché le spiagge sono più libere, i prezzi sono più bassi e il caldo è meno forte.\n\nPer gli albergatori e per i ristoranti è una buona notizia, perché la stagione si allunga e il lavoro continua anche dopo l'estate. Chi parte in questi giorni cerca soprattutto il mare, ma anche le città d'arte e le colline. Il fine settimana lungo è la formula più comune: due o tre notti, una gita in campagna, qualche museo e un buon pranzo. Per molte famiglie, insomma, la vera vacanza comincia adesso.",
+        "vocab": [
+          {
+            "front": "la meta",
+            "pos": "noun",
+            "back": "destination",
+            "example": "La nostra meta preferita è il lago di Garda.",
+            "tier": "A2"
+          },
+          {
+            "front": "avere voglia di",
+            "pos": "phrase",
+            "back": "to feel like doing something",
+            "example": "Non ho voglia di cucinare stasera.",
+            "tier": "A2"
+          },
+          {
+            "front": "partire per",
+            "pos": "verb",
+            "back": "to leave for, to set off for",
+            "example": "Domani partiamo per la Sicilia.",
+            "tier": "A2"
+          },
+          {
+            "front": "la vacanza breve",
+            "pos": "phrase",
+            "back": "short break",
+            "example": "Preferisco tante vacanze brevi.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'albergatore",
+            "pos": "noun",
+            "back": "hotel owner",
+            "example": "Gli albergatori sono contenti di questa estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stagione",
+            "pos": "noun",
+            "back": "season",
+            "example": "La stagione turistica finisce a ottobre.",
+            "tier": "A2"
+          },
+          {
+            "front": "allungarsi",
+            "pos": "verb",
+            "back": "to get longer",
+            "example": "Le giornate si allungano in primavera.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gita",
+            "pos": "noun",
+            "back": "day trip, excursion",
+            "example": "Facciamo una gita in montagna domenica.",
+            "tier": "A2"
+          },
+          {
+            "front": "la città d'arte",
+            "pos": "phrase",
+            "back": "art city, historic city",
+            "example": "Firenze è la città d'arte più visitata.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fine settimana lungo",
+            "pos": "phrase",
+            "back": "long weekend",
+            "example": "Un fine settimana lungo basta per riposare.",
+            "tier": "A2"
+          },
+          {
+            "front": "la collina",
+            "pos": "noun",
+            "back": "hill",
+            "example": "La casa è su una collina vicino al paese.",
+            "tier": "A2"
+          },
+          {
+            "front": "soprattutto",
+            "pos": "adv",
+            "back": "above all, mainly",
+            "example": "Cerco soprattutto tranquillità.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Secondo Confturismo, circa dieci milioni di persone partiranno per una vacanza breve.",
+            "point": "Simple future of a regular verb in ire",
+            "explanation": "Partiranno is the third person plural future of partire, formed by dropping the final e of the infinitive and adding anno.",
+            "why_tricky": "Italian often uses the present for near future, so learners are unsure when the futuro semplice is required, and the double n is easy to forget."
+          },
+          {
+            "sentence": "Molti scelgono questo periodo perché le spiagge sono più libere, i prezzi sono più bassi e il caldo è meno forte.",
+            "point": "Comparatives with più and meno, with adjective agreement",
+            "explanation": "Più libere agrees with the feminine plural spiagge, più bassi with the masculine plural prezzi, and meno forte with the singular caldo.",
+            "why_tricky": "English adjectives never change, so learners write più libero or meno forti without checking the noun."
+          },
+          {
+            "sentence": "Chi parte in questi giorni cerca soprattutto il mare, ma anche le città d'arte e le colline.",
+            "point": "Chi as an indefinite pronoun meaning those who",
+            "explanation": "Chi here means the people who, and it always takes a singular verb, so parte and cerca are both third person singular.",
+            "why_tricky": "The meaning is plural in English, which tempts learners to write partono and cercano."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "staccare la spina",
+            "meaning": "to switch off, to take a real break",
+            "example": "Ad agosto ho bisogno di staccare la spina per una settimana."
+          },
+          {
+            "phrase": "in bassa stagione",
+            "meaning": "in the low season",
+            "example": "In bassa stagione gli alberghi costano molto meno."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quante persone partiranno a settembre e dove vanno soprattutto?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti italiani preferiscono viaggiare in questo periodo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questa notizia è positiva per gli albergatori e i ristoranti?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Preferisci le vacanze ad agosto o a settembre? Scrivi circa 100 parole e spiega i vantaggi del periodo che preferisci."
+      }
+    },
+    {
+      "pack_id": "feed-2026-08-30-scimmie-carne",
+      "title": "Anche alcune scimmie cacciano e consumano carne",
+      "source": "ANSA",
+      "date": "2026-08-30",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "natura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-08-30-scimmie-carne",
+        "revision": 1,
+        "meta": {
+          "title": "Anche alcune scimmie cacciano e consumano carne",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/natura/2026/08/30/anche-alcune-scimmie-cacciano-e-consumano-carne-video_4c5eb6a7-4de7-4c2f-a343-33302fba791a.html",
+          "date_published": "2026-08-30",
+          "date_processed": "2026-08-30",
+          "tags": [
+            "scienza",
+            "natura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Some monkeys do not eat only fruit and leaves: every now and then they hunt and eat meat. Researchers have observed this behaviour and find it very interesting. Meat, in fact, gives a lot of energy in a short time, but to get it you have to run, work together with the group and learn where the other animals hide. So it is not an easy or automatic choice.\n\nFor researchers this can help to understand how human feeding habits evolved. Our ancestors too, millions of years ago, began to eat meat, and that choice changed the body and perhaps the brain as well. Studying today's monkeys is therefore a bit like looking back in time. Scientists will go on observing these animals in order to understand when and why they decide to hunt.",
+        "resumen_es": "Alcune scimmie non mangiano soltanto frutta e foglie: ogni tanto cacciano e mangiano carne. Gli studiosi hanno osservato questo comportamento e lo trovano molto interessante. La carne, infatti, dà molta energia in poco tempo, ma per ottenerla bisogna correre, collaborare con il gruppo e imparare dove si nascondono gli altri animali. Non è quindi una scelta facile né automatica.\n\nPer i ricercatori questo può aiutare a capire come si è evoluta l'alimentazione dell'uomo. Anche i nostri antenati, milioni di anni fa, hanno cominciato a mangiare carne e questa scelta ha cambiato il corpo e forse anche il cervello. Studiare le scimmie di oggi è quindi come guardare indietro nel tempo. Gli scienziati continueranno a osservare questi animali per capire quando e perché decidono di cacciare.",
+        "vocab": [
+          {
+            "front": "la scimmia",
+            "pos": "noun",
+            "back": "monkey",
+            "example": "Al parco abbiamo visto due scimmie.",
+            "tier": "A2"
+          },
+          {
+            "front": "cacciare",
+            "pos": "verb",
+            "back": "to hunt",
+            "example": "In quella zona non si può cacciare.",
+            "tier": "B1"
+          },
+          {
+            "front": "il comportamento",
+            "pos": "noun",
+            "back": "behaviour",
+            "example": "Il comportamento del cane è cambiato.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo studioso",
+            "pos": "noun",
+            "back": "scholar, researcher",
+            "example": "Gli studiosi hanno pubblicato i risultati.",
+            "tier": "B1"
+          },
+          {
+            "front": "ogni tanto",
+            "pos": "phrase",
+            "back": "every now and then",
+            "example": "Ogni tanto vado a correre la mattina.",
+            "tier": "A2"
+          },
+          {
+            "front": "nascondersi",
+            "pos": "verb",
+            "back": "to hide (oneself)",
+            "example": "Il gatto si nasconde sotto il letto.",
+            "tier": "A2"
+          },
+          {
+            "front": "collaborare",
+            "pos": "verb",
+            "back": "to work together, to cooperate",
+            "example": "Dobbiamo collaborare per finire in tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'alimentazione",
+            "pos": "noun",
+            "back": "diet, feeding habits",
+            "example": "Una buona alimentazione aiuta la salute.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'antenato",
+            "pos": "noun",
+            "back": "ancestor",
+            "example": "I nostri antenati vivevano nelle caverne.",
+            "tier": "B1"
+          },
+          {
+            "front": "evolversi",
+            "pos": "verb",
+            "back": "to evolve",
+            "example": "La lingua si evolve con il tempo.",
+            "tier": "B2"
+          },
+          {
+            "front": "il cervello",
+            "pos": "noun",
+            "back": "brain",
+            "example": "Il cervello consuma molta energia.",
+            "tier": "B1"
+          },
+          {
+            "front": "guardare indietro",
+            "pos": "phrase",
+            "back": "to look back",
+            "example": "Non serve guardare indietro con rimpianto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La carne, infatti, dà molta energia in poco tempo, ma per ottenerla bisogna correre, collaborare con il gruppo e imparare dove si nascondono gli altri animali.",
+            "point": "bisogna plus infinitive and the attached object pronoun in ottenerla",
+            "explanation": "Bisogna is impersonal and is always followed by an infinitive, and the pronoun la attaches to the end of the infinitive, replacing la carne.",
+            "why_tricky": "Learners try to conjugate bisogna with a subject and place the pronoun before the verb, as in la ottenere."
+          },
+          {
+            "sentence": "Per i ricercatori questo può aiutare a capire come si è evoluta l'alimentazione dell'uomo.",
+            "point": "Reflexive verb in the passato prossimo with participle agreement",
+            "explanation": "Evolversi is reflexive, so it takes essere, and the participle evoluta agrees with the feminine singular subject alimentazione.",
+            "why_tricky": "Learners choose avere for these verbs and forget to change the participle ending."
+          },
+          {
+            "sentence": "Gli scienziati continueranno a osservare questi animali per capire quando e perché decidono di cacciare.",
+            "point": "Verbs followed by a fixed preposition before the infinitive",
+            "explanation": "Continuare takes a before an infinitive while decidere takes di, and these prepositions must simply be learned with each verb.",
+            "why_tricky": "There is no rule to predict a or di, and English uses no preposition at all in continue to watch."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "guardare indietro nel tempo",
+            "meaning": "to look back in time",
+            "example": "Con questi fossili possiamo guardare indietro nel tempo."
+          },
+          {
+            "phrase": "ogni tanto",
+            "meaning": "once in a while",
+            "example": "Ogni tanto ci vediamo per un caffè."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa mangiano queste scimmie oltre alla frutta e alle foglie?",
+            "type": "open"
+          },
+          {
+            "q": "Perché cacciare non è una scelta facile per gli animali?",
+            "type": "open"
+          },
+          {
+            "q": "Perché questo studio interessa a chi studia l'evoluzione dell'uomo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, è utile studiare gli animali per capire meglio l'uomo? Scrivi circa 100 parole con la tua opinione e un esempio."
+      }
+    },
     {
       "pack_id": "feed-2026-08-30-piramide-cestia",
       "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
@@ -5725,1001 +6739,6 @@
           }
         ],
         "opinion_prompt": "Scrivi circa 120 parole: secondo te, è giusto che uno sportivo si fermi quando sta male, anche se delude i tifosi? Spiega la tua opinione con un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-23-codice-strada-over-85",
-      "title": "Nuovo Codice della strada: zero divieti per gli over 85",
-      "source": "Rai News",
-      "date": "2026-08-23",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "trasporti"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-23-codice-strada-over-85",
-        "revision": 1,
-        "meta": {
-          "title": "Nuovo Codice della strada: zero divieti per gli over 85",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/mit-nuovo-codice-della-strada-zero-divieti-per-gli-over-85-e6f6fc2a-8b30-4c5b-821b-b1dda1698aa3.html",
-          "date_published": "2026-08-23",
-          "date_processed": "2026-08-23",
-          "tags": [
-            "società",
-            "trasporti"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The new Italian highway code will not set an age limit for driving. People over eighty five will still be able to keep their licence. In exchange, however, medical checks for older drivers will become stricter and more frequent. The ministry wants to check eyesight, reflexes and general health, instead of deciding on the basis of age alone. The rule applies to everyone in the same way.\n\nThe text also includes tougher rules on phone use. Fines will go up for anyone driving with a mobile in their hand and, for the first time, pedestrians who cross the road while looking at a screen can also be fined. The aim is to reduce accidents caused by distraction, which are very numerous every year. Many drivers approve of the approach, while others think these rules will be hard to enforce in cities.",
-        "resumen_es": "Il nuovo Codice della strada italiano non metterà limiti di età per guidare. Anche le persone con più di ottantacinque anni potranno tenere la patente. In cambio, però, i controlli medici per gli anziani diventeranno più severi e più frequenti. Il ministero vuole verificare la vista, i riflessi e lo stato di salute generale, invece di decidere solo in base all'età.\n\nIl testo prevede anche norme più dure sull'uso del telefono. Le multe aumenteranno per chi guida con il cellulare in mano e, per la prima volta, anche i pedoni che attraversano la strada guardando lo schermo potranno essere sanzionati. L'obiettivo è ridurre gli incidenti causati dalla distrazione, che ogni anno sono moltissimi. Molti automobilisti approvano la linea, altri pensano che sarà difficile far rispettare queste regole nelle città.",
-        "vocab": [
-          {
-            "front": "il divieto",
-            "pos": "noun",
-            "back": "ban, prohibition",
-            "example": "C'è il divieto di sosta davanti alla scuola.",
-            "tier": "B1"
-          },
-          {
-            "front": "guidare",
-            "pos": "verb",
-            "back": "to drive",
-            "example": "Non mi piace guidare di notte.",
-            "tier": "A2"
-          },
-          {
-            "front": "la patente",
-            "pos": "noun",
-            "back": "driving licence",
-            "example": "Ho preso la patente a diciannove anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "il controllo medico",
-            "pos": "phrase",
-            "back": "medical check",
-            "example": "Ogni anno faccio un controllo medico completo.",
-            "tier": "A2"
-          },
-          {
-            "front": "severo",
-            "pos": "adj",
-            "back": "strict, severe",
-            "example": "La professoressa era molto severa con noi.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vista",
-            "pos": "noun",
-            "back": "eyesight",
-            "example": "Con gli occhiali la vista migliora subito.",
-            "tier": "A2"
-          },
-          {
-            "front": "in base a",
-            "pos": "phrase",
-            "back": "on the basis of",
-            "example": "Decidiamo in base ai risultati del test.",
-            "tier": "B1"
-          },
-          {
-            "front": "la multa",
-            "pos": "noun",
-            "back": "fine, penalty",
-            "example": "Ho preso una multa per eccesso di velocità.",
-            "tier": "A2"
-          },
-          {
-            "front": "il pedone",
-            "pos": "noun",
-            "back": "pedestrian",
-            "example": "Il pedone ha la precedenza sulle strisce.",
-            "tier": "B1"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross (a street)",
-            "example": "Attraversa sempre con il semaforo verde.",
-            "tier": "A2"
-          },
-          {
-            "front": "la distrazione",
-            "pos": "noun",
-            "back": "distraction, lapse of attention",
-            "example": "Un attimo di distrazione e ho perso l'uscita.",
-            "tier": "B1"
-          },
-          {
-            "front": "far rispettare",
-            "pos": "phrase",
-            "back": "to enforce (a rule)",
-            "example": "Non è facile far rispettare l'orario a tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'automobilista",
-            "pos": "noun",
-            "back": "motorist, driver",
-            "example": "Gli automobilisti protestano per i lavori in corso.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Anche le persone con più di ottantacinque anni potranno tenere la patente.",
-            "point": "futuro semplice of potere",
-            "explanation": "Potranno is the future of potere. Verbs like potere, dovere and volere drop the vowel of the infinitive ending before the future endings, giving potr, dovr and vorr as stems.",
-            "why_tricky": "The regular pattern would suggest poteranno, and the double r in potranno is easy to lose in writing and in speech."
-          },
-          {
-            "sentence": "Le multe aumenteranno per chi guida con il cellulare in mano e, per la prima volta, anche i pedoni che attraversano la strada guardando lo schermo potranno essere sanzionati.",
-            "point": "gerundio for a simultaneous action",
-            "explanation": "Guardando is the gerund and describes something happening at the same time as the main verb attraversano. Italian uses the gerund alone here, with no preposition, where English uses while plus an ing form.",
-            "why_tricky": "Learners add mentre or a preposition and write mentre guardando, which doubles the meaning and is not correct."
-          },
-          {
-            "sentence": "Molti automobilisti approvano la linea, altri pensano che sarà difficile far rispettare queste regole nelle città.",
-            "point": "far + infinito as a causative",
-            "explanation": "Fare plus an infinitive means to make or have something happen. Far rispettare le regole means to make the rules be respected, that is, to enforce them. Fare drops the final e before a following infinitive.",
-            "why_tricky": "There is no single verb for enforce in everyday Italian, so learners try rinforzare, which actually means to reinforce physically, and miss the causative structure."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in base a",
-            "meaning": "according to, on the basis of a given criterion",
-            "example": "Lo stipendio cambia in base agli anni di esperienza."
-          },
-          {
-            "phrase": "un attimo di distrazione",
-            "meaning": "a split second of inattention, usually with consequences",
-            "example": "Un attimo di distrazione e il caffè è finito per terra."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa cambia per le persone con più di ottantacinque anni?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il ministero preferisce i controlli medici ai limiti di età?",
-            "type": "open"
-          },
-          {
-            "q": "Quali nuove regole riguardano l'uso del telefono?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 120 parole: secondo te è giusto multare anche i pedoni che guardano il telefono mentre attraversano? Spiega perché sì o perché no."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-23-profumi-fiori-estinti",
-      "title": "Profumi, nuovi ingredienti hi-tech per le fragranze floreali",
-      "source": "ANSA",
-      "date": "2026-08-21",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-23-profumi-fiori-estinti",
-        "revision": 1,
-        "meta": {
-          "title": "Profumi, nuovi ingredienti hi-tech per le fragranze floreali",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/08/21/profumi-nuovi-ingredienti-hi-tech-per-le-fragranze-floreali_1c451287-0881-48bb-b348-c8005b15f35b.html",
-          "date_published": "2026-08-21",
-          "date_processed": "2026-08-23",
-          "tags": [
-            "scienza",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Technology is changing the world of perfume. Thanks to new laboratory techniques, researchers are able to reconstruct the scent of flowers that no longer exist. In practice they study the molecules preserved in samples and then reproduce them. In this way perfumers have a far richer palette of smells than before, with floral notes that nobody has been able to smell for decades.\n\nThese hi-tech ingredients have another advantage as well: they make it possible to use fewer rare plants and therefore to protect the environment. Creating a perfume remains an artistic job, though, made of trials, mistakes and personal memory. The nose, as the person who creates fragrances is called, has to imagine an emotion and then translate it into a smell. Science offers new tools, but the final choice is always a human one.",
-        "resumen_es": "La tecnologia sta cambiando il mondo dei profumi. Grazie a nuove tecniche di laboratorio, i ricercatori riescono a ricostruire il profumo di fiori che non esistono più. In pratica studiano le molecole conservate nei campioni e poi le riproducono. Così i profumieri hanno a disposizione una tavolozza di odori molto più ricca di prima, con note floreali che nessuno poteva più annusare da decenni.\n\nQuesti ingredienti hi-tech hanno anche un altro vantaggio: permettono di usare meno piante rare e quindi di proteggere l'ambiente. Creare un profumo resta però un lavoro artistico, fatto di prove, errori e memoria personale. Il naso, come si chiama chi crea le fragranze, deve immaginare un'emozione e poi tradurla in odore. La scienza offre nuovi strumenti, ma la scelta finale resta sempre umana.",
-        "vocab": [
-          {
-            "front": "la fragranza",
-            "pos": "noun",
-            "back": "fragrance",
-            "example": "Questa fragranza mi ricorda l'estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "riuscire a",
-            "pos": "verb",
-            "back": "to manage to, to succeed in",
-            "example": "Non riesco a ricordare il suo nome.",
-            "tier": "A2"
-          },
-          {
-            "front": "ricostruire",
-            "pos": "verb",
-            "back": "to reconstruct, to rebuild",
-            "example": "Hanno ricostruito il ponte in sei mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il campione",
-            "pos": "noun",
-            "back": "sample (also: champion)",
-            "example": "Il laboratorio ha analizzato dieci campioni.",
-            "tier": "B1"
-          },
-          {
-            "front": "avere a disposizione",
-            "pos": "phrase",
-            "back": "to have available",
-            "example": "Abbiamo a disposizione solo due ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tavolozza",
-            "pos": "noun",
-            "back": "palette",
-            "example": "Il pittore pulisce la tavolozza dopo ogni quadro.",
-            "tier": "B1"
-          },
-          {
-            "front": "annusare",
-            "pos": "verb",
-            "back": "to smell, to sniff",
-            "example": "Il cane annusa tutto quello che trova.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vantaggio",
-            "pos": "noun",
-            "back": "advantage",
-            "example": "Vivere in centro ha molti vantaggi.",
-            "tier": "A2"
-          },
-          {
-            "front": "la pianta rara",
-            "pos": "phrase",
-            "back": "rare plant",
-            "example": "In quel giardino ci sono piante rare.",
-            "tier": "A2"
-          },
-          {
-            "front": "la prova",
-            "pos": "noun",
-            "back": "trial, attempt, rehearsal",
-            "example": "Dopo tante prove, il risultato era perfetto.",
-            "tier": "A2"
-          },
-          {
-            "front": "immaginare",
-            "pos": "verb",
-            "back": "to imagine",
-            "example": "Immagina di essere in vacanza al mare.",
-            "tier": "A2"
-          },
-          {
-            "front": "tradurre",
-            "pos": "verb",
-            "back": "to translate",
-            "example": "Puoi tradurre questa frase in inglese?",
-            "tier": "B1"
-          },
-          {
-            "front": "lo strumento",
-            "pos": "noun",
-            "back": "tool, instrument",
-            "example": "Il computer è uno strumento di lavoro.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Grazie a nuove tecniche di laboratorio, i ricercatori riescono a ricostruire il profumo di fiori che non esistono più.",
-            "point": "riuscire a + infinito",
-            "explanation": "Riuscire always takes the preposition a before an infinitive. It expresses managing to do something after some effort, which is different from the plain ability expressed by potere.",
-            "why_tricky": "Learners either drop the a or replace riuscire with potere, which changes the meaning from they manage to to they are allowed to or they can."
-          },
-          {
-            "sentence": "In pratica studiano le molecole conservate nei campioni e poi le riproducono.",
-            "point": "unstressed direct object pronoun before the verb",
-            "explanation": "Le stands for le molecole and goes immediately before the conjugated verb riproducono. Italian places these atonic pronouns before a finite verb, unlike English which puts the object after.",
-            "why_tricky": "Learners write poi riproducono le, copying English word order, or confuse le (them, feminine plural) with li (them, masculine plural)."
-          },
-          {
-            "sentence": "Il naso, come si chiama chi crea le fragranze, deve immaginare un'emozione e poi tradurla in odore.",
-            "point": "pronoun attached to an infinitive",
-            "explanation": "When an infinitive follows a modal verb like dovere, the object pronoun can attach to the end of the infinitive, which drops its final e: tradurre plus la becomes tradurla.",
-            "why_tricky": "Both deve tradurla and la deve tradurre are correct, so learners hesitate, and the loss of the final e in the infinitive is often forgotten."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere a disposizione",
-            "meaning": "to have something available to use",
-            "example": "Per il progetto abbiamo a disposizione un piccolo budget."
-          },
-          {
-            "phrase": "il naso",
-            "meaning": "in the perfume world, the expert who creates fragrances",
-            "example": "È uno dei nasi più famosi della profumeria francese."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come fanno i ricercatori a ricostruire il profumo dei fiori estinti?",
-            "type": "open"
-          },
-          {
-            "q": "Quale vantaggio per l'ambiente offrono questi nuovi ingredienti?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il testo dice che creare un profumo resta un lavoro artistico?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 120 parole: quale odore ti ricorda un momento importante della tua vita? Descrivi l'odore e la situazione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-23-notte-taranta",
-      "title": "La Notte della Taranta, pizzica tra tradizione e contaminazione",
-      "source": "ANSA",
-      "date": "2026-08-23",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "musica"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-23-notte-taranta",
-        "revision": 1,
-        "meta": {
-          "title": "La Notte della Taranta, pizzica tra tradizione e contaminazione",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/23/la-notte-della-taranta-pizzica-tra-tradizione-e-contaminazione_d6de9d68-2899-47a8-977e-aefb9b7de82a.html",
-          "date_published": "2026-08-23",
-          "date_processed": "2026-08-23",
-          "tags": [
-            "cultura",
-            "musica"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Melpignano, in Puglia, the big concert of the Notte della Taranta took place. According to ANSA, about 150,000 people danced until late at night. The star of the music is the pizzica, a folk dance from Salento. On stage, tradition meets other, more modern styles, from rock to rap. This year the concert paid tribute to the 80 years of the Italian Republic. The audience was made up of young people, families and tourists who had arrived from all over Italy.\n\nThe Notte della Taranta began in 1998 and grows a little more every summer. In the past the pizzica was village music, played at local festivals and almost forgotten by young people. Today, on the other hand, it has become a cultural symbol of the South and brings many visitors to Salento. For the towns in the area, the festival is also an important economic opportunity. The challenge for the future is simple: to keep growing without losing the folk roots of this music.",
-        "resumen_es": "A Melpignano, in Puglia, si è tenuto il Concertone della Notte della Taranta. Secondo l'ANSA, circa 150 mila persone hanno ballato fino a tarda notte. La musica protagonista è la pizzica, un ballo popolare del Salento. Sul palco la tradizione incontra altri stili più moderni, dal rock al rap. Quest'anno il concerto ha reso omaggio agli 80 anni della Repubblica italiana. Il pubblico era formato da giovani, famiglie e turisti arrivati da tutta Italia.\n\nLa Notte della Taranta nasce nel 1998 e ogni estate cresce un po' di più. Prima la pizzica era una musica di paese, suonata nelle feste e quasi dimenticata dai giovani. Oggi invece è diventata un simbolo culturale del Sud e porta molti visitatori in Salento. Per i comuni della zona il festival è anche un'occasione economica importante. La sfida per il futuro è semplice: crescere ancora senza perdere le radici popolari di questa musica.",
-        "vocab": [
-          {
-            "front": "il ballo",
-            "pos": "noun",
-            "back": "dance",
-            "example": "La pizzica è un ballo veloce e allegro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il palco",
-            "pos": "noun",
-            "back": "stage",
-            "example": "I musicisti salgono sul palco alle dieci.",
-            "tier": "B1"
-          },
-          {
-            "front": "popolare",
-            "pos": "adj",
-            "back": "folk, of the people (also: popular)",
-            "example": "In paese cantano ancora le canzoni popolari.",
-            "tier": "B1"
-          },
-          {
-            "front": "rendere omaggio a",
-            "pos": "phrase",
-            "back": "to pay tribute to",
-            "example": "Il festival ha reso omaggio a un vecchio maestro.",
-            "tier": "B2"
-          },
-          {
-            "front": "il pubblico",
-            "pos": "noun",
-            "back": "the audience",
-            "example": "Il pubblico ha applaudito per dieci minuti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il paese",
-            "pos": "noun",
-            "back": "village, small town (also: country)",
-            "example": "Sono cresciuto in un paese di mille abitanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la festa",
-            "pos": "noun",
-            "back": "festival, party, celebration",
-            "example": "Ad agosto c'è la festa del paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "dimenticare",
-            "pos": "verb",
-            "back": "to forget",
-            "example": "Ho dimenticato il nome della canzone.",
-            "tier": "B1"
-          },
-          {
-            "front": "il visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori arrivano soprattutto in estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "il comune",
-            "pos": "noun",
-            "back": "municipality, town council",
-            "example": "Il comune ha pagato una parte del concerto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sfida",
-            "pos": "noun",
-            "back": "challenge",
-            "example": "La vera sfida è trovare i soldi.",
-            "tier": "B1"
-          },
-          {
-            "front": "le radici",
-            "pos": "noun",
-            "back": "roots (also figurative)",
-            "example": "Non vuole perdere le sue radici.",
-            "tier": "B1"
-          },
-          {
-            "front": "invece",
-            "pos": "adv",
-            "back": "instead, on the other hand",
-            "example": "Io resto a casa, lui invece va al mare.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "A Melpignano, in Puglia, si è tenuto il Concertone della Notte della Taranta.",
-            "point": "si passivante con essere e accordo del participio",
-            "explanation": "Si tenere means to be held, to take place. In compound tenses the si construction always takes essere, and the participle agrees with the subject: il Concertone is masculine singular, so we write si e tenuto.",
-            "why_tricky": "In the present tense the verb would be avere-free anyway (si tiene), so learners keep avere in the past and write si ha tenuto. With si, essere is obligatory even when the verb normally takes avere."
-          },
-          {
-            "sentence": "Prima la pizzica era una musica di paese, suonata nelle feste e quasi dimenticata dai giovani.",
-            "point": "imperfetto descrittivo e participio passato con valore passivo",
-            "explanation": "Era describes how things used to be over a long period, which is the classic use of the imperfetto. Suonata and dimenticata are past participles used on their own, with a passive meaning, and they agree with musica, feminine singular.",
-            "why_tricky": "Learners reach for the passato prossimo (e stata) for anything in the past, which would turn a background description into a single completed event. The participle agreement is also easy to miss when the noun is several words away."
-          },
-          {
-            "sentence": "Oggi invece è diventata un simbolo culturale del Sud e porta molti visitatori in Salento.",
-            "point": "diventare con l'ausiliare essere",
-            "explanation": "Diventare is an intransitive verb of change and always forms its compound tenses with essere, so the participle agrees with the subject la pizzica: e diventata, feminine singular.",
-            "why_tricky": "English has become uses have, so learners write ha diventato. The agreement then disappears too, which makes the mistake doubly visible in writing."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fino a tarda notte",
-            "meaning": "until late at night",
-            "example": "Abbiamo parlato fino a tarda notte."
-          },
-          {
-            "phrase": "un po' di più",
-            "meaning": "a little more, a bit more each time",
-            "example": "Ogni giorno capisco un po' di più."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove si è tenuto il concerto e quante persone c'erano?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa è la pizzica e come è cambiata nel tempo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il festival è importante per i comuni del Salento?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Esiste una musica o una festa tradizionale nella tua regione? Scrivi circa 100 parole e spiega se secondo te è giusto mescolare la tradizione con stili moderni."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-23-superman-incendi-indonesia",
-      "title": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
-      "source": "ANSA",
-      "date": "2026-08-23",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "mondo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-23-superman-incendi-indonesia",
-        "revision": 1,
-        "meta": {
-          "title": "Spegne gli incendi vestito da Superman, 17enne indonesiano star del web",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/23/spegne-gli-incendi-vestito-da-superman-17enne-indonesiano-star-del-web_adef8dd9-83ea-45f2-b41f-5f804fe14d08.html",
-          "date_published": "2026-08-23",
-          "date_processed": "2026-08-23",
-          "tags": [
-            "società",
-            "mondo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Indonesia a seventeen-year-old boy has become famous on social media. The young man, whose name is Rudiyansah, helps the firefighters put out fires dressed as Superman. A video showing his red and blue costume went viral. The government has called him a hero for his volunteer work. In an interview the boy said he was happy to help people. He also asked the firefighters to stay mobilised.\n\nIn the country fires are a serious problem, especially in the dry season. The smoke reaches the cities and causes health problems. Volunteers often work with the firefighters because there is never enough equipment. Stories like this one appeal because they show a positive side: a boy who uses his imagination to draw attention to a real problem. Many people hope the video will help bring more aid to the areas hit.",
-        "resumen_es": "In Indonesia un ragazzo di 17 anni è diventato famoso sui social. Il giovane, che si chiama Rudiyansah, aiuta i vigili del fuoco a spegnere gli incendi vestito da Superman. Un video con il suo costume rosso e blu è diventato virale. Il governo lo ha definito un eroe per il suo lavoro da volontario. In un'intervista il ragazzo ha detto di essere felice di aiutare la gente. Ha anche chiesto ai vigili del fuoco di restare mobilitati.\n\nNel Paese gli incendi sono un problema serio, soprattutto nella stagione secca. Il fumo arriva nelle città e crea problemi di salute. Spesso i volontari lavorano con i pompieri perché i mezzi non bastano mai. Storie come questa piacciono perché mostrano un lato positivo: un ragazzo che usa la fantasia per attirare l'attenzione su un problema vero. Molti sperano che il video serva a far arrivare più aiuti nelle zone colpite.",
-        "vocab": [
-          {
-            "front": "l'incendio",
-            "pos": "noun",
-            "back": "fire, blaze",
-            "example": "L'incendio è durato tutta la notte.",
-            "tier": "B1"
-          },
-          {
-            "front": "spegnere",
-            "pos": "verb",
-            "back": "to put out, to switch off",
-            "example": "Devo spegnere il telefono prima di entrare.",
-            "tier": "A2"
-          },
-          {
-            "front": "i vigili del fuoco",
-            "pos": "noun",
-            "back": "the fire brigade, firefighters",
-            "example": "I vigili del fuoco sono arrivati subito.",
-            "tier": "B1"
-          },
-          {
-            "front": "vestito da",
-            "pos": "phrase",
-            "back": "dressed as, dressed up as",
-            "example": "È arrivato alla festa vestito da medico.",
-            "tier": "B1"
-          },
-          {
-            "front": "il volontario",
-            "pos": "noun",
-            "back": "volunteer",
-            "example": "In estate lavora come volontario in montagna.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'eroe",
-            "pos": "noun",
-            "back": "hero",
-            "example": "Per i vicini è diventato un eroe.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stagione secca",
-            "pos": "phrase",
-            "back": "the dry season",
-            "example": "Nella stagione secca non piove quasi mai.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fumo",
-            "pos": "noun",
-            "back": "smoke",
-            "example": "Il fumo entrava dalle finestre aperte.",
-            "tier": "A2"
-          },
-          {
-            "front": "i mezzi",
-            "pos": "noun",
-            "back": "resources, equipment, vehicles",
-            "example": "Con questi mezzi non possiamo fare di più.",
-            "tier": "B1"
-          },
-          {
-            "front": "bastare",
-            "pos": "verb",
-            "back": "to be enough",
-            "example": "Un'ora non basta per finire tutto.",
-            "tier": "A2"
-          },
-          {
-            "front": "attirare l'attenzione",
-            "pos": "phrase",
-            "back": "to attract attention",
-            "example": "Il cartello rosso attira l'attenzione di tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "colpito",
-            "pos": "adj",
-            "back": "hit, affected, struck",
-            "example": "Le zone colpite aspettano ancora gli aiuti.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il giovane, che si chiama Rudiyansah, aiuta i vigili del fuoco a spegnere gli incendi vestito da Superman.",
-            "point": "aiutare qualcuno a + infinito",
-            "explanation": "When aiutare is followed by a second verb, Italian always inserts the preposition a before the infinitive, and the person helped comes directly after aiutare with no preposition.",
-            "why_tricky": "English says help someone put out or help someone to put out, so learners either drop the a or add di. Only a is possible here, and it cannot be left out."
-          },
-          {
-            "sentence": "In un'intervista il ragazzo ha detto di essere felice di aiutare la gente.",
-            "point": "dire di + infinito quando il soggetto è lo stesso",
-            "explanation": "When the subject of dire and the subject of the reported action are the same person, Italian prefers dire di plus the infinitive instead of a che clause. Here the boy is both the one speaking and the one who is happy.",
-            "why_tricky": "Learners translate he said that he was happy word for word as ha detto che era felice. That is not wrong, but the infinitive construction is far more natural and is what the press actually writes."
-          },
-          {
-            "sentence": "Molti sperano che il video serva a far arrivare più aiuti nelle zone colpite.",
-            "point": "sperare che + congiuntivo",
-            "explanation": "Verbs of hope, wish and opinion take the congiuntivo in the subordinate clause when the two subjects differ. Serva is the present subjunctive of servire, used because many people hope, but it is the video that has the effect.",
-            "why_tricky": "Learners write sperano che il video serve, copying the indicative from English. Note also that with the same subject Italian would use sperare di plus the infinitive instead."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "diventare virale",
-            "meaning": "to go viral online",
-            "example": "Il suo video è diventato virale in una notte."
-          },
-          {
-            "phrase": "un lato positivo",
-            "meaning": "a silver lining, a positive side to something",
-            "example": "Anche in questa situazione c'è un lato positivo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa fa il ragazzo indonesiano e come è vestito?",
-            "type": "open"
-          },
-          {
-            "q": "Perché gli incendi sono un problema serio in Indonesia?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, perché questa storia piace a tante persone?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te i video virali possono aiutare davvero a risolvere un problema? Scrivi circa 100 parole e dai un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-23-lanzarote-sapori",
-      "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
-      "source": "ANSA",
-      "date": "2026-08-21",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "cibo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-23-lanzarote-sapori",
-        "revision": 1,
-        "meta": {
-          "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/gusto/2026/08/20/lanzarote-dove-vulcani-vento-e-oceano-diventano-sapori_a0dbc506-55e1-42fa-9d78-356a12587fbe.html",
-          "date_published": "2026-08-21",
-          "date_processed": "2026-08-23",
-          "tags": [
-            "viaggi",
-            "cibo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Lanzarote is one of the Canary Islands, in Spain, and it has a landscape made of volcanoes, wind and ocean. According to ANSA, its cuisine comes precisely from this difficult land. Farmers grow vines inside small black hollows of volcanic gravel, protected by low stone walls against the wind. In this way grapes, potatoes and pulses grow even without much rain. This way of working is called the cuisine of ingenuity and it has been recognised by the FAO as an example of sustainable agriculture.\n\nToday many cooks on the island use only local products: fresh fish, goat's cheese, mojo sauce and white wines with a mineral taste. Tourism has grown a great deal and this brings money, but also risks for the environment and for water supplies. For this reason some restaurants choose short, seasonal menus with only a few dishes. Anyone visiting the island therefore finds a double journey: through the black landscape of the volcanoes and through the flavours born from that same soil.",
-        "resumen_es": "Lanzarote è una delle isole Canarie, in Spagna, e ha un paesaggio fatto di vulcani, vento e oceano. Secondo l'ANSA, la sua cucina nasce proprio da questa terra difficile. Gli agricoltori coltivano la vite dentro piccole buche nere di lapilli, protette da muretti di pietra contro il vento. Così crescono uva, patate e legumi anche senza molta pioggia. Questo modo di lavorare si chiama cucina dell'ingegno ed è stato riconosciuto dalla Fao come esempio di agricoltura sostenibile.\n\nOggi molti cuochi dell'isola usano soprattutto prodotti locali: pesce fresco, formaggi di capra, salse mojo e vini bianchi dal sapore minerale. Il turismo è cresciuto molto e questo porta soldi, ma anche rischi per l'ambiente e per l'acqua. Per questo alcuni ristoranti scelgono menù corti, con pochi piatti e di stagione. Chi visita l'isola trova quindi un viaggio doppio: nel paesaggio nero dei vulcani e nei sapori nati da quella stessa terra.",
-        "vocab": [
-          {
-            "front": "il paesaggio",
-            "pos": "noun",
-            "back": "landscape",
-            "example": "Il paesaggio cambia dopo pochi chilometri.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sapore",
-            "pos": "noun",
-            "back": "flavour, taste",
-            "example": "Questo formaggio ha un sapore forte.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'agricoltore",
-            "pos": "noun",
-            "back": "farmer",
-            "example": "Gli agricoltori aspettano la pioggia da mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "coltivare",
-            "pos": "verb",
-            "back": "to grow, to cultivate",
-            "example": "Mio nonno coltivava pomodori in giardino.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vite",
-            "pos": "noun",
-            "back": "vine (the plant)",
-            "example": "Le viti crescono bene su questa collina.",
-            "tier": "B2"
-          },
-          {
-            "front": "la buca",
-            "pos": "noun",
-            "back": "hole, hollow in the ground",
-            "example": "Hanno scavato una buca per l'albero.",
-            "tier": "B1"
-          },
-          {
-            "front": "il muretto",
-            "pos": "noun",
-            "back": "low wall",
-            "example": "Ci siamo seduti sul muretto davanti al mare.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ingegno",
-            "pos": "noun",
-            "back": "ingenuity, inventiveness",
-            "example": "Ci vuole ingegno per lavorare con poca acqua.",
-            "tier": "B2"
-          },
-          {
-            "front": "sostenibile",
-            "pos": "adj",
-            "back": "sustainable",
-            "example": "Cercano un turismo più sostenibile.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cuoco",
-            "pos": "noun",
-            "back": "cook, chef",
-            "example": "Il cuoco compra il pesce ogni mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "di stagione",
-            "pos": "phrase",
-            "back": "seasonal, in season",
-            "example": "Compro solo frutta di stagione.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rischio",
-            "pos": "noun",
-            "back": "risk",
-            "example": "C'è il rischio di finire l'acqua.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli agricoltori coltivano la vite dentro piccole buche nere di lapilli, protette da muretti di pietra contro il vento.",
-            "point": "participio passato al posto di una relativa",
-            "explanation": "Protette replaces a full relative clause, che sono protette. The participle agrees with the noun it describes, buche, which is feminine plural, and da introduces the thing doing the protecting.",
-            "why_tricky": "Learners either leave the participle invariable or add che sono, which is correct but heavier. The agent marker is also a trap: with a passive it is da, not di."
-          },
-          {
-            "sentence": "Questo modo di lavorare si chiama cucina dell'ingegno ed è stato riconosciuto dalla Fao come esempio di agricoltura sostenibile.",
-            "point": "passivo con essere al passato prossimo",
-            "explanation": "E stato riconosciuto is a passive in the passato prossimo: essere is conjugated, then the participle of essere, then the main participle. Both agree with the masculine singular subject, questo modo.",
-            "why_tricky": "The double participle (stato plus riconosciuto) confuses learners, who often drop stato. Also note dalla Fao, where da plus the article marks who did the recognising."
-          },
-          {
-            "sentence": "Il turismo è cresciuto molto e questo porta soldi, ma anche rischi per l'ambiente e per l'acqua.",
-            "point": "crescere con l'ausiliare essere",
-            "explanation": "Crescere is intransitive here and describes a change of state, so it takes essere in compound tenses and the participle agrees with il turismo, masculine singular.",
-            "why_tricky": "English has grown uses have, so learners write ha cresciuto. Crescere can take avere when it is transitive and means to raise someone, as in ha cresciuto tre figli, which makes the choice less obvious."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un po' alla volta",
-            "meaning": "little by little, a bit at a time",
-            "example": "Ho imparato a cucinare un po' alla volta."
-          },
-          {
-            "phrase": "a chilometro zero",
-            "meaning": "locally sourced, from very close by",
-            "example": "Il ristorante usa solo verdure a chilometro zero."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come fanno gli agricoltori di Lanzarote a coltivare con poca pioggia?",
-            "type": "open"
-          },
-          {
-            "q": "Quali prodotti locali usano i cuochi dell'isola?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi porta il turismo secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace mangiare i piatti tipici quando viaggi? Scrivi circa 100 parole e racconta un piatto locale che ti ha sorpreso."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-22-ridley-scott-dog-stars",
-      "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
-      "source": "ANSA",
-      "date": "2026-08-21",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-22-ridley-scott-dog-stars",
-        "revision": 1,
-        "meta": {
-          "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/21/ridley-scott-nel-mondo-post-apocalittico-di-the-dog-stars-il-caos_1f164ac9-65bb-4297-a16a-4e88f367b231.html",
-          "date_published": "2026-08-21",
-          "date_processed": "2026-08-22",
-          "tags": [
-            "cinema",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The director Ridley Scott is presenting his new film, The Dog Stars, which comes out on 26 August. In the cast there are Jacob Elordi, Josh Brolin and Margaret Qualley. The story is set in a post-apocalyptic world, but the director says that in that world you can clearly see the chaos of today. For him, the future told in the cinema is always a way of talking about the present.\n\nScott also speaks about his training. He says that French and Italian cinema were his school, because as a young man he watched those films with great attention. It is an interesting point for the Italian public, since one of the most famous directors in the world recognises the influence of European cinema. The film will now have to convince the audience, and we will see in the coming weeks what the critics think of it.",
-        "resumen_es": "Il regista Ridley Scott presenta il suo nuovo film, The Dog Stars, che esce il 26 agosto. Nel cast ci sono Jacob Elordi, Josh Brolin e Margaret Qualley. La storia si svolge in un mondo post-apocalittico, ma il regista dice che in quel mondo si vede bene il caos di oggi. Per lui il futuro raccontato al cinema è sempre un modo per parlare del presente.\n\nScott parla anche della sua formazione. Dice che il cinema francese e italiano sono stati la sua scuola, perché da giovane guardava quei film con molta attenzione. È un punto interessante per il pubblico italiano, perché uno dei registi più famosi del mondo riconosce l'influenza del cinema europeo. Adesso il film dovrà convincere gli spettatori, e vedremo nelle prossime settimane che cosa ne pensa la critica.",
-        "vocab": [
-          {
-            "front": "il regista",
-            "pos": "noun",
-            "back": "film director",
-            "example": "Il regista ha spiegato la sua idea ai giornalisti.",
-            "tier": "B1"
-          },
-          {
-            "front": "uscire (di un film)",
-            "pos": "verb",
-            "back": "to come out, to be released",
-            "example": "Il film esce nei cinema la settimana prossima.",
-            "tier": "A2"
-          },
-          {
-            "front": "il cast",
-            "pos": "noun",
-            "back": "cast",
-            "example": "Nel cast ci sono tre attori molto conosciuti.",
-            "tier": "B1"
-          },
-          {
-            "front": "svolgersi",
-            "pos": "verb",
-            "back": "to take place, to be set",
-            "example": "La storia si svolge a Roma negli anni Sessanta.",
-            "tier": "B1"
-          },
-          {
-            "front": "il caos",
-            "pos": "noun",
-            "back": "chaos",
-            "example": "In centro c'era un caos incredibile.",
-            "tier": "B1"
-          },
-          {
-            "front": "raccontare",
-            "pos": "verb",
-            "back": "to tell, to narrate",
-            "example": "Mi ha raccontato tutta la storia.",
-            "tier": "A2"
-          },
-          {
-            "front": "la formazione",
-            "pos": "noun",
-            "back": "training, education, background",
-            "example": "La sua formazione è molto tecnica.",
-            "tier": "B1"
-          },
-          {
-            "front": "da giovane",
-            "pos": "phrase",
-            "back": "as a young man, when he was young",
-            "example": "Da giovane lavorava in un ristorante.",
-            "tier": "A2"
-          },
-          {
-            "front": "riconoscere",
-            "pos": "verb",
-            "back": "to recognise, to acknowledge",
-            "example": "Ha riconosciuto il suo errore davanti a tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'influenza",
-            "pos": "noun",
-            "back": "influence",
-            "example": "L'influenza della musica americana è evidente.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo spettatore",
-            "pos": "noun",
-            "back": "viewer, member of the audience",
-            "example": "Gli spettatori hanno applaudito alla fine.",
-            "tier": "B1"
-          },
-          {
-            "front": "la critica",
-            "pos": "noun",
-            "back": "the critics, criticism",
-            "example": "La critica ha accolto bene il suo ultimo lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "convincere",
-            "pos": "verb",
-            "back": "to convince",
-            "example": "Non è facile convincere mio padre.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La storia si svolge in un mondo post-apocalittico",
-            "point": "Verbo riflessivo con valore intransitivo",
-            "explanation": "Svolgersi è un verbo riflessivo che significa avere luogo. Non c'è un vero soggetto che agisce su se stesso: il si serve solo a rendere il verbo intransitivo.",
-            "why_tricky": "In inglese si dice is set, senza pronome. Chi impara l'italiano dimentica facilmente il si e scrive la storia svolge, che è sbagliato."
-          },
-          {
-            "sentence": "il cinema francese e italiano sono stati la sua scuola",
-            "point": "Passato prossimo di essere con accordo del participio",
-            "explanation": "Con il verbo essere il participio concorda con il soggetto. Qui il soggetto è doppio, cinema francese e italiano, quindi si usa il plurale sono stati.",
-            "why_tricky": "Con avere il participio non cambia, ma con essere sì. Bisogna anche notare che due soggetti singolari uniti da e chiedono il verbo plurale."
-          },
-          {
-            "sentence": "vedremo nelle prossime settimane che cosa ne pensa la critica",
-            "point": "Futuro semplice più la particella ne",
-            "explanation": "Vedremo è futuro semplice di vedere, con la doppia erre tipica di questo verbo. Ne sostituisce di questo film, cioè pensare qualcosa di qualcosa.",
-            "why_tricky": "La particella ne non ha un vero equivalente inglese e spesso viene omessa. Qui però pensarne è la forma naturale in italiano."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare scuola",
-            "meaning": "to set a trend, to be an example others follow",
-            "example": "Quel film ha fatto scuola per tutta una generazione di registi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando esce il nuovo film di Ridley Scott e chi c'è nel cast?",
-            "type": "open"
-          },
-          {
-            "q": "Perché, secondo il regista, il mondo post-apocalittico parla del presente?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa dice Ridley Scott del cinema francese e italiano?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacciono i film ambientati nel futuro? Scrivi circa 100 parole e spiega perché sì o perché no, con un esempio concreto."
       }
     }
   ]
