@@ -1,7 +1,493 @@
 {
-  "generated_at": "2026-09-02T06:46:39Z",
+  "generated_at": "2026-09-02T07:13:01Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-02-joshua-wong",
+      "title": "Hong Kong, il dissidente Joshua Wong si dichiara colpevole",
+      "source": "RaiNews",
+      "date": "2026-09-02",
+      "level": "A2-B1",
+      "topics": [
+        "mondo",
+        "Hong Kong"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-joshua-wong",
+        "revision": 1,
+        "meta": {
+          "title": "Hong Kong, il dissidente Joshua Wong si dichiara colpevole",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/09/hong-kong-il-dissidente-joshua-wong-si-dichiara-colpevole-604bbf5d-e673-4d35-abaf-7175d33a181a.html",
+          "date_published": "2026-09-02",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "mondo",
+            "Hong Kong"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Hong Kong, the dissident Joshua Wong has pleaded guilty in a trial based on the national security law imposed by Beijing. Wong is 29 years old and is one of the most famous faces of the city's democracy movement. He now risks a very heavy sentence, up to life imprisonment. The activist is already in prison: he is serving a sentence for another case, known as the 'Hong Kong 47' case.\n\nWong's story is tied to the big pro-democracy protests of 2019. After those demonstrations, Beijing introduced a tough national security law. Since then, many activists have ended up in prison or have left the city. For this reason, Wong's case is followed with attention all over the world: for many observers, it shows how much Hong Kong's political life has changed in just a few years.",
+        "resumen_es": "A Hong Kong, il dissidente Joshua Wong si è dichiarato colpevole in un processo basato sulla legge sulla sicurezza nazionale, imposta da Pechino. Wong ha 29 anni ed è uno dei volti più famosi del movimento democratico della città. Ora rischia una pena molto pesante, fino all'ergastolo. L'attivista è già in carcere: sta scontando una condanna per un altro caso, conosciuto come il caso degli 'Hong Kong 47'.\n\nLa storia di Wong è legata alle grandi proteste per la democrazia del 2019. Dopo quelle manifestazioni, Pechino ha introdotto una dura legge sulla sicurezza nazionale. Da allora, molti attivisti sono finiti in prigione o hanno lasciato la città. Per questo, il caso di Wong è seguito con attenzione in tutto il mondo: per molti osservatori, mostra quanto è cambiata la vita politica di Hong Kong in pochi anni.",
+        "vocab": [
+          {
+            "front": "dichiararsi colpevole",
+            "pos": "phrase",
+            "back": "to plead guilty",
+            "example": "L'uomo si è dichiarato colpevole davanti al giudice.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pena",
+            "pos": "noun",
+            "back": "sentence, punishment",
+            "example": "Il giudice ha deciso una pena di due anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ergastolo",
+            "pos": "noun",
+            "back": "life imprisonment",
+            "example": "Per quel reato si rischia l'ergastolo.",
+            "tier": "B2"
+          },
+          {
+            "front": "il carcere",
+            "pos": "noun",
+            "back": "prison, jail",
+            "example": "È rimasto in carcere per tre anni.",
+            "tier": "B1"
+          },
+          {
+            "front": "scontare una condanna",
+            "pos": "phrase",
+            "back": "to serve a sentence",
+            "example": "Sta scontando una condanna per furto.",
+            "tier": "B2"
+          },
+          {
+            "front": "la legge",
+            "pos": "noun",
+            "back": "law",
+            "example": "Il parlamento ha approvato una nuova legge.",
+            "tier": "A2"
+          },
+          {
+            "front": "rischiare",
+            "pos": "verb",
+            "back": "to risk",
+            "example": "Chi guida veloce rischia una multa.",
+            "tier": "A2"
+          },
+          {
+            "front": "la manifestazione",
+            "pos": "noun",
+            "back": "demonstration, protest",
+            "example": "Migliaia di persone hanno partecipato alla manifestazione.",
+            "tier": "B1"
+          },
+          {
+            "front": "finire in prigione",
+            "pos": "phrase",
+            "back": "to end up in prison",
+            "example": "Dopo il processo, è finito in prigione.",
+            "tier": "B1"
+          },
+          {
+            "front": "da allora",
+            "pos": "phrase",
+            "back": "since then",
+            "example": "Si sono conosciuti nel 2020 e da allora sono amici.",
+            "tier": "A2"
+          },
+          {
+            "front": "il volto",
+            "pos": "noun",
+            "back": "face (also: well-known figure)",
+            "example": "È uno dei volti più noti della televisione italiana.",
+            "tier": "B1"
+          },
+          {
+            "front": "pesante",
+            "pos": "adj",
+            "back": "heavy, harsh",
+            "example": "La squadra ha subito una sconfitta pesante.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "A Hong Kong, il dissidente Joshua Wong si è dichiarato colpevole in un processo basato sulla legge sulla sicurezza nazionale, imposta da Pechino.",
+            "point": "Reflexive verbs in the passato prossimo",
+            "explanation": "Reflexive verbs like 'dichiararsi' always use 'essere' in the passato prossimo: 'si è dichiarato'. The participle agrees with the subject, so a woman would say 'si è dichiarata'.",
+            "why_tricky": "English has no reflexive past like this, and learners often wrongly pick 'avere': 'si ha dichiarato' is a classic mistake."
+          },
+          {
+            "sentence": "L'attivista è già in carcere: sta scontando una condanna per un altro caso, conosciuto come il caso degli 'Hong Kong 47'.",
+            "point": "stare + gerund for actions in progress",
+            "explanation": "'Sta scontando' means 'he is serving (right now)'. Italian uses stare plus the gerund (-ando/-endo) to underline that an action is in progress.",
+            "why_tricky": "Italian uses this form less than English uses -ing: often the simple present is enough, so learners must decide when the progressive really adds something."
+          },
+          {
+            "sentence": "Da allora, molti attivisti sono finiti in prigione o hanno lasciato la città.",
+            "point": "Choosing between essere and avere in the passato prossimo",
+            "explanation": "'Finire' used like this takes 'essere' (sono finiti, with agreement), while 'lasciare' takes 'avere' (hanno lasciato, no agreement). The same sentence shows both auxiliaries.",
+            "why_tricky": "There is no single rule that covers every verb, so learners have to memorise which verbs of movement and change use essere."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "finire in prigione",
+            "meaning": "to end up in prison",
+            "example": "Se continua così, finirà in prigione."
+          },
+          {
+            "phrase": "uno dei volti più famosi di",
+            "meaning": "one of the most famous faces of",
+            "example": "È uno dei volti più famosi del cinema italiano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha deciso di fare Joshua Wong nel processo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché Wong è già in carcere?",
+            "type": "open"
+          },
+          {
+            "q": "Come è cambiata Hong Kong dopo le proteste del 2019, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perché il mondo segue con attenzione i processi contro gli attivisti? Scrivi la tua opinione in poche frasi semplici."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-g20-finanze",
+      "title": "Il G20 Finanze si spacca sulla crescita e sulle crisi geopolitiche",
+      "source": "RaiNews",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "G20"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-g20-finanze",
+        "revision": 1,
+        "meta": {
+          "title": "Il G20 Finanze si spacca sulla crescita e sulle crisi geopolitiche",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/09/g20-finanze-spaccatura-sulla-crescita-e-scontro-sulle-crisi-geopolitiche-82714eca-4bac-4e5d-b636-aaf97de0d47e.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "economia",
+            "G20"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The G20 of finance ministers met in Asheville, in the United States, but the summit ended with a split. The countries did not find an agreement on economic growth or on the big geopolitical crises. In the end, the joint communiqué was not published, that is, the common document that usually closes these meetings. The strongest tensions were between the United States and China.\n\nEurope also protested, because of the presence of the Russian delegation at the table. According to many observers, the summit shows an increasingly divided world, where the big countries struggle to find a common line on the economy. For the G20 this is a serious problem: the group was created precisely to coordinate responses to global crises. If its members can no longer talk to each other, its role becomes weaker.",
+        "resumen_es": "Il G20 dei ministri delle Finanze si è riunito ad Asheville, negli Stati Uniti, ma il vertice si è chiuso con una spaccatura. I Paesi non hanno trovato un accordo sulla crescita economica e sulle grandi crisi geopolitiche. Alla fine, non è stato pubblicato il comunicato congiunto, cioè il documento comune che di solito chiude questi incontri. Le tensioni più forti sono state tra Stati Uniti e Cina.\n\nAnche l'Europa ha protestato, per la presenza della delegazione russa al tavolo. Secondo molti osservatori, il vertice mostra un mondo sempre più diviso, dove i grandi Paesi trovano con difficoltà una linea comune sull'economia. Per il G20 questo è un problema serio: il gruppo è nato proprio per coordinare le risposte alle crisi globali. Se i membri non riescono più a parlarsi, il suo ruolo diventa più debole.",
+        "vocab": [
+          {
+            "front": "il vertice",
+            "pos": "noun",
+            "back": "summit (meeting)",
+            "example": "I leader europei si incontrano a un vertice a Bruxelles.",
+            "tier": "B1"
+          },
+          {
+            "front": "la spaccatura",
+            "pos": "noun",
+            "back": "split, rift",
+            "example": "Nel partito c'è una spaccatura profonda.",
+            "tier": "B2"
+          },
+          {
+            "front": "riunirsi",
+            "pos": "verb",
+            "back": "to meet, to gather",
+            "example": "Il consiglio si riunisce ogni lunedì.",
+            "tier": "B1"
+          },
+          {
+            "front": "la crescita",
+            "pos": "noun",
+            "back": "growth",
+            "example": "La crescita economica del Paese è lenta.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'accordo",
+            "pos": "noun",
+            "back": "agreement",
+            "example": "I due governi hanno firmato un accordo.",
+            "tier": "A2"
+          },
+          {
+            "front": "il comunicato congiunto",
+            "pos": "phrase",
+            "back": "joint statement",
+            "example": "Alla fine dell'incontro è uscito un comunicato congiunto.",
+            "tier": "B2"
+          },
+          {
+            "front": "la tensione",
+            "pos": "noun",
+            "back": "tension",
+            "example": "C'è molta tensione tra i due Paesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "al tavolo",
+            "pos": "phrase",
+            "back": "at the (negotiating) table",
+            "example": "Tutte le parti sono tornate al tavolo per trattare.",
+            "tier": "B1"
+          },
+          {
+            "front": "la linea comune",
+            "pos": "phrase",
+            "back": "common line, shared position",
+            "example": "I ministri cercano una linea comune sul clima.",
+            "tier": "B2"
+          },
+          {
+            "front": "coordinare",
+            "pos": "verb",
+            "back": "to coordinate",
+            "example": "Un ufficio centrale coordina tutti i progetti.",
+            "tier": "B1"
+          },
+          {
+            "front": "riuscire a",
+            "pos": "verb",
+            "back": "to manage to, to succeed in",
+            "example": "Non riesco a capire questa regola.",
+            "tier": "A2"
+          },
+          {
+            "front": "debole",
+            "pos": "adj",
+            "back": "weak",
+            "example": "Dopo la malattia si sentiva ancora debole.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Alla fine, non è stato pubblicato il comunicato congiunto, cioè il documento comune che di solito chiude questi incontri.",
+            "point": "Passive voice with essere",
+            "explanation": "'Non è stato pubblicato' means 'was not published'. The passive is formed with essere plus the past participle, which agrees with the subject (il comunicato, masculine singular).",
+            "why_tricky": "The word order puts the subject after the verb, so learners can miss what 'è stato pubblicato' refers to."
+          },
+          {
+            "sentence": "Il G20 dei ministri delle Finanze si è riunito ad Asheville, negli Stati Uniti, ma il vertice si è chiuso con una spaccatura.",
+            "point": "Reflexive verbs with events (riunirsi, chiudersi)",
+            "explanation": "Italian often uses reflexive forms for events: 'si è riunito' (met) and 'si è chiuso' (ended). Both use essere as auxiliary.",
+            "why_tricky": "In English nobody 'closes himself', so these reflexive event verbs feel strange and learners forget the 'si'."
+          },
+          {
+            "sentence": "Se i membri non riescono più a parlarsi, il suo ruolo diventa più debole.",
+            "point": "Se + present tense and non... più",
+            "explanation": "For real conditions, Italian uses the present in both parts: 'se non riescono... diventa'. 'Non... più' means 'no longer', and 'parlarsi' means 'to talk to each other'.",
+            "why_tricky": "The two words 'più' have different jobs here: the first means 'anymore', the second means 'more'. Context tells them apart."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "trovare una linea comune",
+            "meaning": "to find a common position",
+            "example": "Le due squadre di lavoro non trovano una linea comune."
+          },
+          {
+            "phrase": "sedersi al tavolo",
+            "meaning": "to sit down at the negotiating table",
+            "example": "I sindacati si sono seduti al tavolo con il governo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove si è riunito il G20 delle Finanze e come è finito il vertice?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'Europa ha protestato?",
+            "type": "open"
+          },
+          {
+            "q": "Perché una spaccatura è un problema serio per il G20, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i grandi Paesi devono lavorare insieme sull'economia o ogni Paese deve pensare prima a se stesso? Scrivi qualche frase per spiegare la tua idea."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-calciomercato",
+      "title": "Colpi last minute, la Roma tiene Koné, Gudmundsson alla Lazio",
+      "source": "ANSA",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "calcio"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-calciomercato",
+        "revision": 1,
+        "meta": {
+          "title": "Colpi last minute, la Roma tiene Koné, Gudmundsson alla Lazio",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/2026/09/01/colpi-last-minute-la-roma-tiene-kone-gudmundsson-alla-lazio_f7d8a1c4-3b1d-47b1-ba3e-b69ec19c977c.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "sport",
+            "calcio"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy the summer transfer market has closed, with the classic last-minute deals. Roma decided to keep Koné, a player many clubs wanted, while Gudmundsson moved to Lazio. Not all the negotiations ended well: Fofana's transfer to Lyon, for example, fell through at the last moment. As every year, fans followed the final hours of the market with great excitement.\n\nThe transfer market is a special moment of the Italian sporting season. For weeks, newspapers and television talk about negotiations, figures and possible surprises. The last day is the most intense: clubs must close their deals before a precise deadline, and everything can change in a few hours. For this reason, in Italy the market is almost a show, followed even by people who do not love football very much.",
+        "resumen_es": "In Italia si è chiuso il calciomercato estivo, con i classici colpi dell'ultimo minuto. La Roma ha deciso di tenere Koné, un giocatore che molte squadre volevano, mentre Gudmundsson è passato alla Lazio. Non tutte le trattative sono andate a buon fine: il trasferimento di Fofana al Lione, per esempio, è saltato all'ultimo momento. Come ogni anno, i tifosi hanno seguito le ultime ore del mercato con grande emozione.\n\nIl calciomercato è un momento speciale della stagione sportiva italiana. Per settimane, giornali e televisioni parlano di trattative, cifre e possibili sorprese. L'ultimo giorno è il più intenso: le società devono chiudere gli accordi entro una scadenza precisa, e tutto può cambiare in poche ore. Per questo, in Italia, il mercato è quasi uno spettacolo, seguito anche da chi non ama molto il calcio.",
+        "vocab": [
+          {
+            "front": "il calciomercato",
+            "pos": "noun",
+            "back": "football transfer market",
+            "example": "Il calciomercato estivo chiude a inizio settembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "il colpo",
+            "pos": "noun",
+            "back": "coup, big deal (here: transfer coup)",
+            "example": "L'acquisto del campione è stato il colpo dell'estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "la trattativa",
+            "pos": "noun",
+            "back": "negotiation",
+            "example": "La trattativa tra le due società è durata giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "il trasferimento",
+            "pos": "noun",
+            "back": "transfer, move",
+            "example": "Il trasferimento del giocatore è costato molti milioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "saltare",
+            "pos": "verb",
+            "back": "to fall through, to be called off",
+            "example": "L'accordo è saltato all'ultimo momento.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi hanno festeggiato tutta la notte.",
+            "tier": "A2"
+          },
+          {
+            "front": "la squadra",
+            "pos": "noun",
+            "back": "team",
+            "example": "La mia squadra ha vinto la partita.",
+            "tier": "A2"
+          },
+          {
+            "front": "la società",
+            "pos": "noun",
+            "back": "club (also: company)",
+            "example": "La società ha comprato due nuovi giocatori.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scadenza",
+            "pos": "noun",
+            "back": "deadline",
+            "example": "Devo finire il lavoro entro la scadenza.",
+            "tier": "B1"
+          },
+          {
+            "front": "andare a buon fine",
+            "pos": "phrase",
+            "back": "to end successfully, to go through",
+            "example": "Il pagamento non è andato a buon fine.",
+            "tier": "B2"
+          },
+          {
+            "front": "la cifra",
+            "pos": "noun",
+            "back": "figure, amount of money",
+            "example": "Ha pagato una cifra enorme per quella casa.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo spettacolo",
+            "pos": "noun",
+            "back": "show, spectacle",
+            "example": "Il concerto è stato uno spettacolo bellissimo.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Non tutte le trattative sono andate a buon fine: il trasferimento di Fofana al Lione, per esempio, è saltato all'ultimo momento.",
+            "point": "andare and saltare with essere in the passato prossimo",
+            "explanation": "'Sono andate' agrees with 'le trattative' (feminine plural) because andare takes essere. 'È saltato' (fell through) also takes essere and agrees with 'il trasferimento'.",
+            "why_tricky": "'Saltare' normally means 'to jump', so its idiomatic meaning 'to fall through' surprises learners, and both verbs need essere, not avere."
+          },
+          {
+            "sentence": "le società devono chiudere gli accordi entro una scadenza precisa, e tutto può cambiare in poche ore.",
+            "point": "Modal verbs dovere and potere + infinitive, and entro",
+            "explanation": "'Devono chiudere' (they must close) and 'può cambiare' (can change) show modal verbs followed directly by the infinitive. 'Entro' means 'by / within' a time limit.",
+            "why_tricky": "Learners confuse 'entro' (deadline) with 'dentro' (inside a place): 'entro venerdì' means by Friday, not inside Friday."
+          },
+          {
+            "sentence": "Come ogni anno, i tifosi hanno seguito le ultime ore del mercato con grande emozione.",
+            "point": "Passato prossimo with avere",
+            "explanation": "'Hanno seguito' uses avere because seguire is transitive; the participle does not agree with the subject. 'Come ogni anno' means 'as every year'.",
+            "why_tricky": "After learning agreement with essere, learners often wrongly write 'hanno seguiti' when the object comes after the verb."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "andare a buon fine",
+            "meaning": "to go through, to end successfully",
+            "example": "La trattativa alla fine è andata a buon fine."
+          },
+          {
+            "phrase": "il colpo dell'ultimo minuto",
+            "meaning": "last-minute deal or move",
+            "example": "La squadra ha chiuso un colpo dell'ultimo minuto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa hanno fatto la Roma e la Lazio nelle ultime ore del mercato?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa è successo al trasferimento di Fofana?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'ultimo giorno del calciomercato è così intenso, secondo il testo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace il calcio o un altro sport? Racconta in poche frasi quale sport segui e perché ti piace, oppure spiega perché non ami lo sport."
+      }
+    },
     {
       "pack_id": "feed-2026-09-02-venezia-83",
       "title": "Parte Venezia 83. Apre Ink di Boyle, Leone a Clooney",
@@ -6134,501 +6620,6 @@
           }
         ],
         "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta un momento in cui hai visto qualcosa di speciale nel cielo, o che cosa vorresti vedere un giorno."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-missili-bari",
-      "title": "Tre missili da guerra nascosti nel furgone, arrestato un cittadino francese a Bari",
-      "source": "RaiNews",
-      "date": "2026-08-26",
-      "level": "A2-B1",
-      "topics": [
-        "cronaca",
-        "sicurezza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-missili-bari",
-        "revision": 1,
-        "meta": {
-          "title": "Tre missili da guerra nascosti nel furgone, arrestato un cittadino francese a Bari",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/08/tre-missili-da-guerra-nascosti-nel-furgone-arrestato-un-cittadino-francese-a-bari-dffdb9ba-493e-4855-9289-8fbb662dd998.html",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "cronaca",
-            "sicurezza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Italian police have arrested a French citizen in the port of Bari. In his van there were three war missiles, hidden in the cargo. Officers discovered the weapons during a routine check. The man had just arrived on a ferry from Patras, in Greece. They are Akeron-type missiles, very powerful weapons used by armies.\n\nInvestigators now want to understand where the missiles come from and where they were supposed to go. The port of Bari is an important hub for ferries between Italy and Greece. Every day many lorries and vans pass through. The checks exist precisely to stop illegal trafficking. The case shows that arms trafficking remains a serious problem in Europe.",
-        "resumen_es": "La polizia italiana ha arrestato un cittadino francese nel porto di Bari. Nel suo furgone c'erano tre missili da guerra, nascosti nel carico. Gli agenti hanno scoperto le armi durante un controllo di routine. L'uomo era appena arrivato con un traghetto da Patrasso, in Grecia. Si tratta di missili di tipo Akeron, armi molto potenti usate dagli eserciti.\n\nOra gli investigatori vogliono capire da dove vengono i missili e dove dovevano andare. Il porto di Bari è un punto importante per i traghetti tra l'Italia e la Grecia. Ogni giorno passano molti camion e furgoni. I controlli servono proprio a fermare i traffici illegali. Il caso mostra che il traffico di armi resta un problema serio in Europa.",
-        "vocab": [
-          {
-            "front": "arrestare",
-            "pos": "verb",
-            "back": "to arrest",
-            "example": "La polizia ha arrestato due persone.",
-            "tier": "A2"
-          },
-          {
-            "front": "il furgone",
-            "pos": "noun",
-            "back": "van",
-            "example": "Il furgone era pieno di scatole.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascosto",
-            "pos": "adj",
-            "back": "hidden",
-            "example": "I soldi erano nascosti sotto il letto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il carico",
-            "pos": "noun",
-            "back": "load, cargo",
-            "example": "Il camion trasporta un carico pesante.",
-            "tier": "B1"
-          },
-          {
-            "front": "il controllo",
-            "pos": "noun",
-            "back": "check, inspection",
-            "example": "C'è un controllo dei documenti alla frontiera.",
-            "tier": "A2"
-          },
-          {
-            "front": "il traghetto",
-            "pos": "noun",
-            "back": "ferry",
-            "example": "Prendiamo il traghetto per la Sicilia.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'arma",
-            "pos": "noun",
-            "back": "weapon (plural: le armi)",
-            "example": "È vietato portare armi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'esercito",
-            "pos": "noun",
-            "back": "army",
-            "example": "Suo fratello lavora nell'esercito.",
-            "tier": "B1"
-          },
-          {
-            "front": "gli investigatori",
-            "pos": "noun",
-            "back": "investigators",
-            "example": "Gli investigatori cercano nuove prove.",
-            "tier": "B1"
-          },
-          {
-            "front": "il traffico illegale",
-            "pos": "phrase",
-            "back": "illegal trafficking",
-            "example": "La polizia combatte il traffico illegale di armi.",
-            "tier": "B1"
-          },
-          {
-            "front": "appena",
-            "pos": "adv",
-            "back": "just (a moment ago)",
-            "example": "Sono appena arrivato a casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "fermare",
-            "pos": "verb",
-            "back": "to stop (someone or something)",
-            "example": "Un poliziotto ha fermato la macchina.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'uomo era appena arrivato con un traghetto da Patrasso, in Grecia.",
-            "point": "trapassato prossimo + appena",
-            "explanation": "Era arrivato (imperfect of essere + past participle) describes an action completed before another past moment. Appena adds 'had just'.",
-            "why_tricky": "Arrivare takes essere, so the participle agrees with the subject: era arrivato for a man, era arrivata for a woman."
-          },
-          {
-            "sentence": "Nel suo furgone c'erano tre missili da guerra, nascosti nel carico.",
-            "point": "c'erano + da for purpose",
-            "explanation": "C'erano is the plural past of c'è (there were). Missili da guerra uses da to describe what something is for: war missiles.",
-            "why_tricky": "The da + noun structure (scarpe da tennis, missili da guerra) expresses purpose, not possession; 'di guerra' would sound wrong here."
-          },
-          {
-            "sentence": "Ora gli investigatori vogliono capire da dove vengono i missili e dove dovevano andare.",
-            "point": "indirect questions with da dove / dove",
-            "explanation": "After capire, the question words keep their normal order: da dove vengono (where they come from), dove dovevano andare (where they were supposed to go).",
-            "why_tricky": "Unlike English, Italian does not change the word order in indirect questions; the verb can stay before the subject."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere in regola",
-            "meaning": "to have everything in order (documents, papers)",
-            "example": "Il camionista era in regola con tutti i documenti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha trovato la polizia nel furgone?",
-            "type": "open"
-          },
-          {
-            "q": "Da dove arrivava l'uomo arrestato?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa vogliono capire ora gli investigatori?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, i controlli nei porti e alle frontiere sono abbastanza severi? Scrivi la tua opinione con qualche esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-brignone-ginocchio",
-      "title": "Nuovo intervento al ginocchio per Federica Brignone: l'obiettivo è tornare in pista per i mondiali",
-      "source": "RaiNews",
-      "date": "2026-08-26",
-      "level": "A2-B1",
-      "topics": [
-        "sport",
-        "sci"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-brignone-ginocchio",
-        "revision": 1,
-        "meta": {
-          "title": "Nuovo intervento al ginocchio per Federica Brignone: l'obiettivo è tornare in pista per i mondiali",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/08/federica-brignone-torna-sotto-i-ferri-la-mia-gamba-migliora-ma-ho-ancora-dolore-cc58a697-a3ee-4d64-a771-20bcc1398967.html",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "sport",
-            "sci"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Italian skier Federica Brignone has been operated on again on her knee. Doctors removed a plate and some screws from her leg. The plate and screws had been put in after her serious injury in 2025. The operation went well and the situation is better than expected. The champion will have to stop for about four to six weeks.\n\nBrignone said that her leg is improving, but that she still feels pain. Her goal is to return to skiing in time for the world championships. For an athlete, a long break is always difficult, physically and mentally. Italian fans hope to see her back on the slopes soon. Her story shows how hard the road back is after a major injury.",
-        "resumen_es": "La sciatrice italiana Federica Brignone è stata operata di nuovo al ginocchio. I medici hanno tolto una placca e alcune viti dalla gamba. Placca e viti erano state messe dopo il grave infortunio del 2025. L'operazione è andata bene e la situazione è migliore del previsto. La campionessa dovrà fermarsi per circa quattro o sei settimane.\n\nBrignone ha detto che la gamba migliora, ma che sente ancora dolore. Il suo obiettivo è tornare a sciare in tempo per i mondiali. Per un'atleta, un lungo stop è sempre difficile, fisicamente e mentalmente. I tifosi italiani sperano di rivederla presto in pista. La sua storia mostra quanto è dura la strada del ritorno dopo un grande infortunio.",
-        "vocab": [
-          {
-            "front": "la sciatrice",
-            "pos": "noun",
-            "back": "skier (female)",
-            "example": "La sciatrice ha vinto la gara.",
-            "tier": "B1"
-          },
-          {
-            "front": "operare",
-            "pos": "verb",
-            "back": "to operate on (surgery)",
-            "example": "I medici hanno operato il paziente.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ginocchio",
-            "pos": "noun",
-            "back": "knee",
-            "example": "Mi fa male il ginocchio destro.",
-            "tier": "A2"
-          },
-          {
-            "front": "togliere",
-            "pos": "verb",
-            "back": "to remove, to take away",
-            "example": "Il dentista mi ha tolto un dente.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vite",
-            "pos": "noun",
-            "back": "screw",
-            "example": "Serve un cacciavite per questa vite.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'infortunio",
-            "pos": "noun",
-            "back": "injury",
-            "example": "L'infortunio lo ha fermato per tre mesi.",
-            "tier": "B1"
-          },
-          {
-            "front": "fermarsi",
-            "pos": "verb",
-            "back": "to stop (oneself), to take a break",
-            "example": "Devo fermarmi a riposare un momento.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'obiettivo",
-            "pos": "noun",
-            "back": "goal, objective",
-            "example": "Il mio obiettivo è imparare l'italiano.",
-            "tier": "A2"
-          },
-          {
-            "front": "il tifoso",
-            "pos": "noun",
-            "back": "fan, supporter",
-            "example": "I tifosi cantano allo stadio.",
-            "tier": "A2"
-          },
-          {
-            "front": "la pista",
-            "pos": "noun",
-            "back": "slope, track",
-            "example": "La pista da sci era perfetta.",
-            "tier": "A2"
-          },
-          {
-            "front": "migliorare",
-            "pos": "verb",
-            "back": "to improve",
-            "example": "Il tempo migliora domani.",
-            "tier": "A2"
-          },
-          {
-            "front": "duro",
-            "pos": "adj",
-            "back": "hard, tough",
-            "example": "È stato un anno molto duro.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La sciatrice italiana Federica Brignone è stata operata di nuovo al ginocchio.",
-            "point": "passive voice with essere + past participle",
-            "explanation": "È stata operata = she has been operated on. The participle agrees with the feminine subject: stata operata.",
-            "why_tricky": "Both parts agree in gender and number (è stata operata, sono stati operati), which English does not show at all."
-          },
-          {
-            "sentence": "La campionessa dovrà fermarsi per circa quattro o sei settimane.",
-            "point": "future of dovere + reflexive infinitive",
-            "explanation": "Dovrà is the future of dovere (she will have to). The reflexive pronoun attaches to the infinitive: fermarsi.",
-            "why_tricky": "Dovere has an irregular future stem (dovr-), and the pronoun si moves to the end of the infinitive."
-          },
-          {
-            "sentence": "Brignone ha detto che la gamba migliora, ma che sente ancora dolore.",
-            "point": "reported speech with che",
-            "explanation": "After ha detto, each reported clause is introduced by che, repeated before every new verb: che la gamba migliora... ma che sente.",
-            "why_tricky": "English drops 'that' easily; Italian normally repeats che before each reported clause."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "rimettersi in piedi",
-            "meaning": "to get back on one's feet, to recover",
-            "example": "Dopo l'infortunio si è rimessa in piedi con pazienza."
-          },
-          {
-            "phrase": "essere sotto i ferri",
-            "meaning": "to be under the knife (having surgery)",
-            "example": "Il campione è tornato sotto i ferri per il ginocchio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché Federica Brignone è stata operata di nuovo?",
-            "type": "open"
-          },
-          {
-            "q": "Per quanto tempo dovrà fermarsi la sciatrice?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il suo obiettivo per i prossimi mesi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Lo sport professionistico chiede molti sacrifici al corpo. Secondo te, vale la pena? Scrivi la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-dolly-parton-addio",
-      "title": "Addio a Dolly Parton, la regina del country aveva 80 anni",
-      "source": "ANSA",
-      "date": "2026-08-25",
-      "level": "A2-B1",
-      "topics": [
-        "cultura",
-        "musica"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-dolly-parton-addio",
-        "revision": 1,
-        "meta": {
-          "title": "Addio a Dolly Parton, la regina del country aveva 80 anni",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/25/e-morta-dolly-parton-aveva-80-anni_c0c82179-d794-4e75-a070-40f289389160.html",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "cultura",
-            "musica"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Dolly Parton has died at the age of eighty. She was the queen of country music and one of the most famous voices in the world. She wrote very well known songs, such as '9 to 5' and 'Jolene', and she won eleven Grammy awards. The news came from her nephew Brian Seaver, in a video published on the singer's social media.\n\nParton was not only a singer. Over the years she also became a businesswoman and devoted a lot of time to charity, above all to projects for children and for reading. Born into a poor family in Tennessee, she always told the story of her origins in her songs. That is why, for many Americans, her music is a family story. Today radio, television and social media remember her with her best loved songs.",
-        "resumen_es": "Dolly Parton è morta all'età di ottant'anni. Era la regina della musica country e una delle voci più famose del mondo. Ha scritto canzoni molto conosciute, come '9 to 5' e 'Jolene', e ha vinto undici Grammy. La notizia è arrivata da suo nipote Brian Seaver, con un video pubblicato sui social della cantante.\n\nParton non era solo una cantante. Negli anni è diventata anche imprenditrice e ha dedicato molto tempo alla beneficenza, soprattutto ai progetti per i bambini e per la lettura. Nata in una famiglia povera del Tennessee, ha sempre raccontato le sue origini nelle canzoni. Per questo, per molti americani, la sua musica è una storia di famiglia. Oggi radio, televisioni e social la ricordano con le sue canzoni più amate.",
-        "vocab": [
-          {
-            "front": "l'addio",
-            "pos": "noun",
-            "back": "farewell, goodbye",
-            "example": "Il paese dà l'addio a un grande artista.",
-            "tier": "A2"
-          },
-          {
-            "front": "la cantante",
-            "pos": "noun",
-            "back": "singer (female)",
-            "example": "La cantante ha iniziato a quindici anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "all'età di",
-            "pos": "phrase",
-            "back": "at the age of",
-            "example": "È morto all'età di novant'anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "conosciuto",
-            "pos": "adj",
-            "back": "well known",
-            "example": "È una canzone molto conosciuta.",
-            "tier": "A2"
-          },
-          {
-            "front": "vincere",
-            "pos": "verb",
-            "back": "to win",
-            "example": "Ha vinto tre premi importanti.",
-            "tier": "A2"
-          },
-          {
-            "front": "la notizia",
-            "pos": "noun",
-            "back": "the news (item)",
-            "example": "La notizia è arrivata di sera.",
-            "tier": "A2"
-          },
-          {
-            "front": "il nipote",
-            "pos": "noun",
-            "back": "nephew, grandson",
-            "example": "Suo nipote ha parlato ai giornalisti.",
-            "tier": "A2"
-          },
-          {
-            "front": "pubblicare",
-            "pos": "verb",
-            "back": "to publish, to post",
-            "example": "Ha pubblicato un video sui social.",
-            "tier": "B1"
-          },
-          {
-            "front": "diventare",
-            "pos": "verb",
-            "back": "to become",
-            "example": "È diventata famosa in tutto il mondo.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'imprenditrice",
-            "pos": "noun",
-            "back": "businesswoman, entrepreneur",
-            "example": "È un'imprenditrice molto conosciuta.",
-            "tier": "B1"
-          },
-          {
-            "front": "la beneficenza",
-            "pos": "noun",
-            "back": "charity",
-            "example": "Il concerto è per beneficenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "le origini",
-            "pos": "noun",
-            "back": "origins, roots",
-            "example": "Parla spesso delle sue origini.",
-            "tier": "B1"
-          },
-          {
-            "front": "ricordare",
-            "pos": "verb",
-            "back": "to remember, to commemorate",
-            "example": "Oggi tutti la ricordano con affetto.",
-            "tier": "A2"
-          },
-          {
-            "front": "amato",
-            "pos": "adj",
-            "back": "beloved, much loved",
-            "example": "È la sua canzone più amata.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Dolly Parton è morta all'età di ottant'anni.",
-            "point": "passato prossimo con essere e accordo del participio",
-            "explanation": "Il verbo 'morire' usa l'ausiliare 'essere', quindi il participio si accorda con il soggetto: Dolly è morta, non 'è morto'.",
-            "why_tricky": "Molti studenti usano 'avere' per tutti i verbi. Con essere bisogna sempre controllare il genere e il numero del soggetto."
-          },
-          {
-            "sentence": "Negli anni è diventata anche imprenditrice e ha dedicato molto tempo alla beneficenza",
-            "point": "due ausiliari diversi nella stessa frase",
-            "explanation": "'Diventare' vuole essere ('è diventata'), mentre 'dedicare' vuole avere ('ha dedicato'), perché ha un oggetto diretto: molto tempo.",
-            "why_tricky": "Nella stessa frase si passa da un ausiliare all'altro, e solo il participio del primo verbo cambia forma."
-          },
-          {
-            "sentence": "La notizia è arrivata da suo nipote Brian Seaver, con un video pubblicato sui social della cantante.",
-            "point": "possessivo senza articolo con i nomi di parentela",
-            "explanation": "Con un nome di parentela singolare non si mette l'articolo: 'suo nipote', non 'il suo nipote'.",
-            "why_tricky": "La regola cambia al plurale ('i suoi nipoti') e con parole alterate o accompagnate da aggettivo ('il suo caro nipote')."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "lasciare un segno",
-            "meaning": "to leave a mark, to have a lasting impact",
-            "example": "La sua musica ha lasciato un segno in tutti."
-          },
-          {
-            "phrase": "di casa",
-            "meaning": "very familiar, like part of the family",
-            "example": "La sua voce era ormai di casa in America."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi era Dolly Parton e perché era famosa?",
-            "type": "open"
-          },
-          {
-            "q": "Come è arrivata la notizia della sua morte?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa faceva Dolly Parton oltre a cantare?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Qual è un artista che per te è importante? Scrivi circa 100 parole e spiega perché la sua musica ti piace."
       }
     }
   ]
