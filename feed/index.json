@@ -1,7 +1,491 @@
 {
-  "generated_at": "2026-09-01T07:28:47Z",
+  "generated_at": "2026-09-02T06:46:39Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-02-venezia-83",
+      "title": "Parte Venezia 83. Apre Ink di Boyle, Leone a Clooney",
+      "source": "ANSA",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "cinema",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-venezia-83",
+        "revision": 1,
+        "meta": {
+          "title": "Parte Venezia 83. Apre Ink di Boyle, Leone a Clooney",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/09/01/mostra-del-cinema-parte-venezia-83.-apre-ink-di-boyle-leone_2ce120a7-8bca-4f66-b3d0-1ace48a46123.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "cinema",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "At the Venice Lido, edition number 83 of the film festival is beginning. It is one of the most important festivals in the world and lasts about ten days. The first film in competition is called Ink and is by the British director Danny Boyle. The opening evening also has a special moment: the American actor George Clooney receives the Golden Lion for lifetime achievement, the prize for his whole life in cinema.\n\nFor Clooney it is a return to a city he knows well, because he has presented many films in Venice and also has a house in Italy, on Lake Como. In the coming days the public will be able to see films from all over the world, with famous directors and young authors. As always, at the end the jury chooses the winner of the Golden Lion, the festival's main prize.",
+        "resumen_es": "Al Lido di Venezia comincia la Mostra del cinema numero 83. È uno dei festival più importanti del mondo e dura circa dieci giorni. Il primo film in concorso si chiama Ink ed è del regista britannico Danny Boyle. Nella serata di apertura c'è anche un momento speciale: l'attore americano George Clooney riceve il Leone d'oro alla carriera, il premio per tutta la sua vita nel cinema.\n\nPer Clooney è un ritorno in una città che conosce bene, perché ha presentato molti film a Venezia e ha anche una casa in Italia, sul lago di Como. Nei prossimi giorni il pubblico potrà vedere film da tutto il mondo, con registi famosi e giovani autori. Come sempre, alla fine la giuria sceglie il vincitore del Leone d'oro, il premio principale del festival.",
+        "vocab": [
+          {
+            "front": "la mostra",
+            "pos": "noun",
+            "back": "exhibition, showcase",
+            "example": "La mostra del cinema si tiene a settembre.",
+            "tier": "B1"
+          },
+          {
+            "front": "il concorso",
+            "pos": "noun",
+            "back": "competition",
+            "example": "Ci sono venti film in concorso.",
+            "tier": "B1"
+          },
+          {
+            "front": "il regista",
+            "pos": "noun",
+            "back": "film director",
+            "example": "Il regista presenta il suo nuovo film.",
+            "tier": "B1"
+          },
+          {
+            "front": "la serata",
+            "pos": "noun",
+            "back": "evening, evening event",
+            "example": "La serata di apertura è stata bellissima.",
+            "tier": "B1"
+          },
+          {
+            "front": "la carriera",
+            "pos": "noun",
+            "back": "career",
+            "example": "Ha avuto una lunga carriera nel cinema.",
+            "tier": "B1"
+          },
+          {
+            "front": "il premio",
+            "pos": "noun",
+            "back": "prize",
+            "example": "Ha vinto un premio importante.",
+            "tier": "B1"
+          },
+          {
+            "front": "la giuria",
+            "pos": "noun",
+            "back": "jury",
+            "example": "La giuria sceglie il film migliore.",
+            "tier": "B1"
+          },
+          {
+            "front": "il vincitore",
+            "pos": "noun",
+            "back": "winner",
+            "example": "Il vincitore riceve il Leone d'oro.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'apertura",
+            "pos": "noun",
+            "back": "opening",
+            "example": "L'apertura del festival è stasera.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico ha applaudito a lungo.",
+            "tier": "B1"
+          },
+          {
+            "front": "durare",
+            "pos": "verb",
+            "back": "to last",
+            "example": "Il festival dura dieci giorni.",
+            "tier": "B1"
+          },
+          {
+            "front": "presentare",
+            "pos": "verb",
+            "back": "to present",
+            "example": "L'attore presenta il film a Venezia.",
+            "tier": "B1"
+          },
+          {
+            "front": "al via",
+            "pos": "phrase",
+            "back": "under way, starting",
+            "example": "La Mostra del cinema è al via.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il primo film in concorso si chiama Ink ed è del regista britannico Danny Boyle.",
+            "point": "reflexive chiamarsi and euphonic ed",
+            "explanation": "Si chiama literally means calls itself, the normal way to give a name. Ed replaces e before a word starting with a vowel to make it easier to say.",
+            "why_tricky": "English says is called with a passive; Italian uses a reflexive verb instead."
+          },
+          {
+            "sentence": "Per Clooney è un ritorno in una città che conosce bene, perché ha presentato molti film a Venezia e ha anche una casa in Italia, sul lago di Como.",
+            "point": "passato prossimo and relative che",
+            "explanation": "Ha presentato is the passato prossimo of presentare, used for completed past actions. Che introduces a relative clause: a city that he knows well.",
+            "why_tricky": "Che covers both who and that/which in English, so learners look for a word that does not exist."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "alla carriera",
+            "meaning": "for lifetime achievement (of a prize)",
+            "example": "L'attrice ha ricevuto un premio alla carriera."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come si chiama il primo film in concorso e chi è il regista?",
+            "type": "open"
+          },
+          {
+            "q": "Quale premio riceve George Clooney e perché?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa succede alla fine del festival?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i festival del cinema sono ancora importanti nell'epoca dello streaming? Scrivi la tua opinione in circa 80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-generazione-yolo",
+      "title": "Generazione Yolo: la rivoluzione del \"si vive una sola volta\" che riscrive il senso del lavoro",
+      "source": "ANSA",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-generazione-yolo",
+        "revision": 1,
+        "meta": {
+          "title": "Generazione Yolo: la rivoluzione del \"si vive una sola volta\" che riscrive il senso del lavoro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/magazine/numeri/2026/08/30/generazione-yolo-la-rivoluzione-del-si-vive-una-sola-volta-che-riscrive_5cbf48c2-4f6c-409c-a6ad-c8e9c1b61069.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "società",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy there is a lot of talk about the \"Yolo Generation\". Yolo is an English acronym that means \"you only live once\". For many young people this idea has become a philosophy of life: work is no longer the most important thing, but only one part of the day. Many young people do not want to sacrifice their health, their friends and their free time for a career.\n\nThis change worries some companies, which struggle to find people willing to work in the evening or at the weekend. Others instead think it is a positive revolution, because it forces businesses to offer more flexible hours and better salaries. The debate is open: what matters more, professional success or a balanced life? Every generation answers in its own way.",
+        "resumen_es": "In Italia si parla molto della \"Generazione Yolo\". Yolo è una sigla inglese che significa \"si vive una sola volta\". Per molti giovani questa idea è diventata una filosofia di vita: il lavoro non è più la cosa più importante, ma solo una parte della giornata. Molti ragazzi non vogliono sacrificare la salute, gli amici e il tempo libero per la carriera.\n\nQuesto cambiamento preoccupa alcune aziende, che fanno fatica a trovare persone disposte a lavorare la sera o nel fine settimana. Altri invece pensano che sia una rivoluzione positiva, perché obbliga le imprese a offrire orari più flessibili e stipendi migliori. Il dibattito è aperto: che cosa conta di più, il successo professionale o una vita equilibrata? Ogni generazione risponde in modo diverso.",
+        "vocab": [
+          {
+            "front": "la sigla",
+            "pos": "noun",
+            "back": "acronym, abbreviation",
+            "example": "Yolo è una sigla inglese.",
+            "tier": "B1"
+          },
+          {
+            "front": "la filosofia",
+            "pos": "noun",
+            "back": "philosophy",
+            "example": "La sua filosofia di vita è semplice.",
+            "tier": "B1"
+          },
+          {
+            "front": "sacrificare",
+            "pos": "verb",
+            "back": "to sacrifice",
+            "example": "Non voglio sacrificare il tempo con la famiglia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la salute",
+            "pos": "noun",
+            "back": "health",
+            "example": "La salute viene prima del lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tempo libero",
+            "pos": "phrase",
+            "back": "free time",
+            "example": "Nel tempo libero faccio sport.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'azienda",
+            "pos": "noun",
+            "back": "company",
+            "example": "Lavora in un'azienda di Milano.",
+            "tier": "B1"
+          },
+          {
+            "front": "disposto a",
+            "pos": "phrase",
+            "back": "willing to",
+            "example": "È disposto a lavorare la sera.",
+            "tier": "B2"
+          },
+          {
+            "front": "fare fatica a",
+            "pos": "phrase",
+            "back": "to struggle to",
+            "example": "Faccio fatica a trovare lavoro.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'impresa",
+            "pos": "noun",
+            "back": "business, firm",
+            "example": "Le imprese cercano nuovi lavoratori.",
+            "tier": "B1"
+          },
+          {
+            "front": "flessibile",
+            "pos": "adj",
+            "back": "flexible",
+            "example": "Ho un orario flessibile.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo stipendio",
+            "pos": "noun",
+            "back": "salary",
+            "example": "Lo stipendio arriva alla fine del mese.",
+            "tier": "B1"
+          },
+          {
+            "front": "equilibrato",
+            "pos": "adj",
+            "back": "balanced",
+            "example": "Cerca una vita equilibrata.",
+            "tier": "B2"
+          },
+          {
+            "front": "il dibattito",
+            "pos": "noun",
+            "back": "debate",
+            "example": "Il dibattito è ancora aperto.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Molti ragazzi non vogliono sacrificare la salute, gli amici e il tempo libero per la carriera.",
+            "point": "volere + infinitive and definite articles",
+            "explanation": "Volere is followed directly by the infinitive: non vogliono sacrificare. Italian uses the definite article with general nouns: la salute, gli amici, il tempo libero.",
+            "why_tricky": "English drops the article in general statements (health, friends), but Italian keeps it."
+          },
+          {
+            "sentence": "Altri invece pensano che sia una rivoluzione positiva, perché obbliga le imprese a offrire orari più flessibili e stipendi migliori.",
+            "point": "pensare che + congiuntivo",
+            "explanation": "After pensare che, Italian uses the subjunctive: sia instead of è, because it expresses an opinion, not a fact.",
+            "why_tricky": "English uses the normal indicative after think that, so the subjunctive here is easy to miss."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "si vive una sola volta",
+            "meaning": "you only live once",
+            "example": "Prendi quel treno e parti: si vive una sola volta!"
+          },
+          {
+            "phrase": "fare fatica a",
+            "meaning": "to have a hard time doing something",
+            "example": "Faccio fatica a svegliarmi presto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa significa la sigla Yolo?",
+            "type": "open"
+          },
+          {
+            "q": "Perché alcune aziende sono preoccupate?",
+            "type": "open"
+          },
+          {
+            "q": "Quali vantaggi vedono le persone che considerano positiva questa rivoluzione?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Per te il lavoro è la cosa più importante della vita? Scrivi che cosa conta di più per te e perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-02-amianto-giocattoli",
+      "title": "Amianto nei giocattoli, allerta dal ministero della Salute",
+      "source": "ANSA",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "consumatori"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-02-amianto-giocattoli",
+        "revision": 1,
+        "meta": {
+          "title": "Amianto nei giocattoli, allerta dal ministero della Salute",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/01/amianto-nei-giocattoli-allerta-dal-ministero-della-salute_fbdb3b83-6abd-4951-94ba-34255cb025b5.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-02",
+          "tags": [
+            "salute",
+            "consumatori"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Ministry of Health has issued an important alert: asbestos, a material dangerous to health, has been found in some toys. The ministry has sent a recall notice to all the Regions, with precise instructions on what to do. The goal is to remove the products at risk from the market and to inform families as soon as possible.\n\nAsbestos has been banned in Italy for many years, because its fibres can cause serious lung diseases. For this reason the news worries many parents. The authorities' advice is simple: check the official notices, do not use the toys that have been flagged, and take them back to the shop. Checks on products are continuing across the country, to understand where the dangerous toys come from.",
+        "resumen_es": "Il ministero della Salute ha lanciato un'allerta importante: in alcuni giocattoli è stato trovato l'amianto, un materiale pericoloso per la salute. Il ministero ha mandato un richiamo a tutte le Regioni, con indicazioni precise su come comportarsi. L'obiettivo è togliere dal mercato i prodotti a rischio e informare le famiglie il più presto possibile.\n\nL'amianto è vietato in Italia da molti anni, perché le sue fibre possono causare malattie gravi ai polmoni. Per questo la notizia preoccupa molti genitori. Il consiglio delle autorità è semplice: controllare gli avvisi ufficiali, non usare i giocattoli segnalati e riportarli al negozio. I controlli sui prodotti continuano in tutto il Paese, per capire da dove arrivano i giocattoli pericolosi.",
+        "vocab": [
+          {
+            "front": "l'amianto",
+            "pos": "noun",
+            "back": "asbestos",
+            "example": "L'amianto è un materiale vietato.",
+            "tier": "B2"
+          },
+          {
+            "front": "il giocattolo",
+            "pos": "noun",
+            "back": "toy",
+            "example": "Il bambino gioca con il suo giocattolo preferito.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'allerta",
+            "pos": "noun",
+            "back": "alert",
+            "example": "Il ministero ha lanciato un'allerta.",
+            "tier": "B2"
+          },
+          {
+            "front": "il richiamo",
+            "pos": "noun",
+            "back": "recall, warning notice",
+            "example": "Il richiamo riguarda alcuni prodotti.",
+            "tier": "B2"
+          },
+          {
+            "front": "comportarsi",
+            "pos": "verb",
+            "back": "to behave, to act",
+            "example": "Non so come comportarmi in questa situazione.",
+            "tier": "B1"
+          },
+          {
+            "front": "vietato",
+            "pos": "adj",
+            "back": "forbidden, banned",
+            "example": "È vietato fumare qui.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fibra",
+            "pos": "noun",
+            "back": "fibre",
+            "example": "Le fibre di questo materiale sono pericolose.",
+            "tier": "B2"
+          },
+          {
+            "front": "il polmone",
+            "pos": "noun",
+            "back": "lung",
+            "example": "Il fumo fa male ai polmoni.",
+            "tier": "B1"
+          },
+          {
+            "front": "segnalato",
+            "pos": "adj",
+            "back": "flagged, reported",
+            "example": "Non usare i prodotti segnalati.",
+            "tier": "B2"
+          },
+          {
+            "front": "riportare",
+            "pos": "verb",
+            "back": "to take back, to return",
+            "example": "Puoi riportare il giocattolo al negozio.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'avviso",
+            "pos": "noun",
+            "back": "notice",
+            "example": "Leggi gli avvisi ufficiali.",
+            "tier": "B1"
+          },
+          {
+            "front": "il controllo",
+            "pos": "noun",
+            "back": "check, inspection",
+            "example": "I controlli continuano in tutto il Paese.",
+            "tier": "B1"
+          },
+          {
+            "front": "a rischio",
+            "pos": "phrase",
+            "back": "at risk",
+            "example": "Hanno tolto dal mercato i prodotti a rischio.",
+            "tier": "B2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "in alcuni giocattoli è stato trovato l'amianto, un materiale pericoloso per la salute.",
+            "point": "passive with essere stato + past participle",
+            "explanation": "È stato trovato is the passato prossimo passive: has been found. The participle agrees with the subject, l'amianto (masculine singular).",
+            "why_tricky": "Two past participles in a row (stato trovato) look strange at first, but the pattern is regular."
+          },
+          {
+            "sentence": "Il consiglio delle autorità è semplice: controllare gli avvisi ufficiali, non usare i giocattoli segnalati e riportarli al negozio.",
+            "point": "infinitives as instructions and the clitic -li",
+            "explanation": "Italian often uses infinitives to give instructions: controllare, non usare, riportare. In riportarli, the pronoun li (them, the toys) attaches to the end of the infinitive.",
+            "why_tricky": "The attached pronoun changes the word's ending, so learners may not recognise riportare inside riportarli."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "il più presto possibile",
+            "meaning": "as soon as possible",
+            "example": "Chiamami il più presto possibile."
+          },
+          {
+            "phrase": "togliere dal mercato",
+            "meaning": "to take off the market",
+            "example": "Hanno tolto dal mercato il prodotto difettoso."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha trovato il ministero della Salute in alcuni giocattoli?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa devono fare le famiglie secondo le autorità?",
+            "type": "open"
+          },
+          {
+            "q": "Perché l'amianto è vietato in Italia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i controlli sui prodotti per bambini sono abbastanza severi? Scrivi la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-09-01-bardot-asta",
       "title": "All'asta a Parigi gli effetti personali di Brigitte Bardot, c'è anche la sua Olivetti",
@@ -6145,534 +6629,6 @@
           }
         ],
         "opinion_prompt": "Qual è un artista che per te è importante? Scrivi circa 100 parole e spiega perché la sua musica ti piace."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-venezia-isola-privata",
-      "title": "In vendita a Venezia un'isola privata con fortino napoleonico",
-      "source": "ANSA",
-      "date": "2026-08-25",
-      "level": "A2-B1",
-      "topics": [
-        "storia",
-        "luoghi"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-venezia-isola-privata",
-        "revision": 1,
-        "meta": {
-          "title": "In vendita a Venezia un'isola privata con fortino napoleonico",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/veneto/notizie/2026/08/25/in-vendita-a-venezia-unisola-privata-con-fortino-napoleonico_4707d4eb-d7ae-440b-bb0f-3569a0cfec60.html",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "storia",
-            "luoghi"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A small private island is for sale in the Venice lagoon. It measures about 5,700 square metres and it is home to an old fort from the Napoleonic period. It is a piece of lagoon where nature and history live together: water, trees, silence and ancient walls built to defend the city.\n\nIn the lagoon there are many islands like this one and almost all of them had a military or medical function in the past. Today some are abandoned, others become hotels, vegetable gardens or spaces for art. Anyone who buys an island, however, also has to think about the problems: high water, restoration costs and strict rules to protect the environment. That is why the sale attracts curious people from all over the world, but real buyers are few.",
-        "resumen_es": "Nella laguna di Venezia è in vendita una piccola isola privata. Misura circa 5.700 metri quadrati e ospita un vecchio fortino di epoca napoleonica. È un pezzo di laguna dove la natura e la storia vivono insieme: acqua, alberi, silenzio e mura antiche costruite per difendere la città.\n\nNella laguna ci sono molte isole come questa e quasi tutte hanno avuto una funzione militare o sanitaria nel passato. Oggi alcune sono abbandonate, altre diventano hotel, orti o spazi per l'arte. Chi compra un'isola deve però pensare anche ai problemi: l'acqua alta, i costi di restauro e le regole severe per proteggere l'ambiente. Per questo la vendita attira curiosi da tutto il mondo, ma i compratori veri sono pochi.",
-        "vocab": [
-          {
-            "front": "in vendita",
-            "pos": "phrase",
-            "back": "for sale",
-            "example": "La casa è in vendita da un anno.",
-            "tier": "A2"
-          },
-          {
-            "front": "la laguna",
-            "pos": "noun",
-            "back": "lagoon",
-            "example": "La laguna di Venezia è molto grande.",
-            "tier": "B1"
-          },
-          {
-            "front": "misurare",
-            "pos": "verb",
-            "back": "to measure",
-            "example": "Il giardino misura cento metri quadrati.",
-            "tier": "A2"
-          },
-          {
-            "front": "ospitare",
-            "pos": "verb",
-            "back": "to host, to be home to",
-            "example": "Il palazzo ospita un museo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fortino",
-            "pos": "noun",
-            "back": "small fort",
-            "example": "Sull'isola c'è un vecchio fortino.",
-            "tier": "B1"
-          },
-          {
-            "front": "le mura",
-            "pos": "noun",
-            "back": "city walls",
-            "example": "Le mura della città sono medievali.",
-            "tier": "B1"
-          },
-          {
-            "front": "difendere",
-            "pos": "verb",
-            "back": "to defend",
-            "example": "Il muro serviva a difendere il porto.",
-            "tier": "A2"
-          },
-          {
-            "front": "abbandonato",
-            "pos": "adj",
-            "back": "abandoned",
-            "example": "È una casa abbandonata da anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'orto",
-            "pos": "noun",
-            "back": "vegetable garden",
-            "example": "Ha un piccolo orto dietro casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'acqua alta",
-            "pos": "phrase",
-            "back": "high water, flooding in Venice",
-            "example": "Con l'acqua alta la piazza si allaga.",
-            "tier": "B1"
-          },
-          {
-            "front": "il restauro",
-            "pos": "noun",
-            "back": "restoration",
-            "example": "Il restauro costa molti soldi.",
-            "tier": "B1"
-          },
-          {
-            "front": "severo",
-            "pos": "adj",
-            "back": "strict",
-            "example": "Le regole sono molto severe.",
-            "tier": "B1"
-          },
-          {
-            "front": "attirare",
-            "pos": "verb",
-            "back": "to attract",
-            "example": "La mostra attira molti turisti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il compratore",
-            "pos": "noun",
-            "back": "buyer",
-            "example": "Il compratore arriva domani.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Nella laguna di Venezia è in vendita una piccola isola privata.",
-            "point": "preposizione articolata e ordine verbo-soggetto",
-            "explanation": "'Nella' unisce 'in' e 'la'. Il soggetto ('una piccola isola privata') arriva dopo il verbo perché è l'informazione nuova.",
-            "why_tricky": "In inglese il soggetto sta quasi sempre all'inizio. In italiano spostarlo alla fine è normale e serve a dare rilievo."
-          },
-          {
-            "sentence": "Oggi alcune sono abbandonate, altre diventano hotel, orti o spazi per l'arte.",
-            "point": "alcune... altre... come coppia di indefiniti",
-            "explanation": "'Alcune' e 'altre' dividono un gruppo in due parti e sono femminili plurali perché si riferiscono alle isole.",
-            "why_tricky": "Bisogna ricordare il genere del nome nominato prima: se parlassimo di 'posti' diremmo 'alcuni... altri'."
-          },
-          {
-            "sentence": "Chi compra un'isola deve però pensare anche ai problemi",
-            "point": "chi come pronome indefinito con il verbo al singolare",
-            "explanation": "'Chi' significa 'la persona che' e vuole sempre il verbo al singolare, anche quando parliamo di molte persone.",
-            "why_tricky": "Si confonde con 'che' e con 'quelli che'. Inoltre 'però' qui sta in mezzo alla frase, non all'inizio."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "un pezzo di storia",
-            "meaning": "a piece of history",
-            "example": "Comprare quel fortino è comprare un pezzo di storia."
-          },
-          {
-            "phrase": "costare un occhio della testa",
-            "meaning": "to cost an arm and a leg",
-            "example": "Il restauro costa un occhio della testa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa si trova sull'isola in vendita?",
-            "type": "open"
-          },
-          {
-            "q": "A che cosa servivano molte isole della laguna nel passato?",
-            "type": "open"
-          },
-          {
-            "q": "Quali problemi deve considerare chi compra un'isola?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacerebbe vivere su un'isola piccola e tranquilla? Scrivi circa 100 parole e spiega i lati positivi e negativi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-bolzano-cortili-musica",
-      "title": "A Bolzano i condomini organizzano la musica nei cortili, un'eredità del Covid",
-      "source": "ANSA",
-      "date": "2026-08-25",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "comunità"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-bolzano-cortili-musica",
-        "revision": 1,
-        "meta": {
-          "title": "A Bolzano i condomini organizzano la musica nei cortili, un'eredità del Covid",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/videogallery/italia/2026/08/25/a-bolzano-i-condomini-organizzano-la-musica-nei-cortili-un-eredita-del-covid_08deb527-072e-4c92-9f14-524adfead8e9.html",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "società",
-            "comunità"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In Bolzano some apartment blocks organise small concerts in the courtyards of their buildings. The idea was born during the pandemic, when people played and sang from their windows in order to feel less alone. Years later, that habit has not ended: the neighbours agree among themselves, invite musicians and turn an ordinary courtyard into a small theatre.\n\nPeople who take part say the best thing is not the music, but finally getting to know the neighbours. In the city, in fact, people often live in the same building for years without speaking to each other. These concerts are free and open to everyone who lives there, and they usually finish early, before dinner. The desire for community, in short, has remained even after the end of the emergency.",
-        "resumen_es": "A Bolzano alcuni condomini organizzano piccoli concerti nei cortili dei palazzi. L'idea è nata durante la pandemia, quando le persone suonavano e cantavano dalle finestre per sentirsi meno sole. Anni dopo, quell'abitudine non è finita: i vicini si mettono d'accordo, invitano musicisti e trasformano un cortile normale in un piccolo teatro.\n\nChi partecipa dice che la cosa più bella non è la musica, ma il fatto di conoscere finalmente i vicini di casa. In città, infatti, spesso si vive nello stesso palazzo per anni senza parlarsi. Questi concerti sono gratuiti e aperti a tutti gli abitanti, e di solito finiscono presto, prima di cena. Il desiderio di comunità, insomma, è rimasto anche dopo la fine dell'emergenza.",
-        "vocab": [
-          {
-            "front": "il condominio",
-            "pos": "noun",
-            "back": "block of flats, the residents of a building",
-            "example": "Il condominio si riunisce ogni mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cortile",
-            "pos": "noun",
-            "back": "courtyard, yard",
-            "example": "I bambini giocano nel cortile.",
-            "tier": "A2"
-          },
-          {
-            "front": "il palazzo",
-            "pos": "noun",
-            "back": "building, block",
-            "example": "Abito in un palazzo di sei piani.",
-            "tier": "A2"
-          },
-          {
-            "front": "la pandemia",
-            "pos": "noun",
-            "back": "pandemic",
-            "example": "Durante la pandemia siamo rimasti a casa.",
-            "tier": "B1"
-          },
-          {
-            "front": "suonare",
-            "pos": "verb",
-            "back": "to play (an instrument)",
-            "example": "Suona la chitarra da dieci anni.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abitudine",
-            "pos": "noun",
-            "back": "habit",
-            "example": "È una bella abitudine di famiglia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il vicino di casa",
-            "pos": "noun",
-            "back": "neighbour",
-            "example": "Il mio vicino di casa è molto gentile.",
-            "tier": "A2"
-          },
-          {
-            "front": "mettersi d'accordo",
-            "pos": "phrase",
-            "back": "to reach an agreement, to agree among themselves",
-            "example": "Ci mettiamo d'accordo per l'orario.",
-            "tier": "B1"
-          },
-          {
-            "front": "trasformare",
-            "pos": "verb",
-            "back": "to transform, to turn into",
-            "example": "Hanno trasformato la stanza in un ufficio.",
-            "tier": "B1"
-          },
-          {
-            "front": "partecipare",
-            "pos": "verb",
-            "back": "to take part",
-            "example": "Partecipano quasi tutti gli abitanti.",
-            "tier": "A2"
-          },
-          {
-            "front": "gratuito",
-            "pos": "adj",
-            "back": "free of charge",
-            "example": "L'ingresso è gratuito per i bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'abitante",
-            "pos": "noun",
-            "back": "inhabitant, resident",
-            "example": "Gli abitanti del quartiere sono contenti.",
-            "tier": "B1"
-          },
-          {
-            "front": "il desiderio",
-            "pos": "noun",
-            "back": "desire, wish",
-            "example": "Ha il desiderio di conoscere gente nuova.",
-            "tier": "B1"
-          },
-          {
-            "front": "insomma",
-            "pos": "adv",
-            "back": "in short, all in all",
-            "example": "Insomma, è stata una bella serata.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'idea è nata durante la pandemia, quando le persone suonavano e cantavano dalle finestre per sentirsi meno sole.",
-            "point": "imperfetto per azioni ripetute nel passato",
-            "explanation": "'Suonavano' e 'cantavano' sono all'imperfetto perché descrivono un'abitudine di quel periodo, senza inizio e fine precisi. 'È nata' invece è un fatto puntuale.",
-            "why_tricky": "Nella stessa frase convivono passato prossimo e imperfetto, e la scelta dipende dal tipo di azione, non dal tempo trascorso."
-          },
-          {
-            "sentence": "i vicini si mettono d'accordo, invitano musicisti e trasformano un cortile normale in un piccolo teatro",
-            "point": "verbo riflessivo idiomatico mettersi d'accordo",
-            "explanation": "'Mettersi d'accordo' è riflessivo reciproco: le persone si accordano fra loro. La particella 'si' non si può togliere.",
-            "why_tricky": "'Mettere' e 'mettersi' hanno significati diversi, e in inglese si traduce con un verbo semplice, 'to agree', senza pronome."
-          },
-          {
-            "sentence": "Chi partecipa dice che la cosa più bella non è la musica, ma il fatto di conoscere finalmente i vicini di casa.",
-            "point": "il fatto di + infinito",
-            "explanation": "'Il fatto di + infinito' trasforma un'azione in un sostantivo, come 'the fact of knowing' in inglese.",
-            "why_tricky": "Molti studenti usano 'che' con un verbo coniugato, ma dopo 'il fatto di' serve sempre l'infinito."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare comunità",
-            "meaning": "to build a sense of community",
-            "example": "Questi concerti servono a fare comunità."
-          },
-          {
-            "phrase": "rompere il ghiaccio",
-            "meaning": "to break the ice",
-            "example": "La musica aiuta a rompere il ghiaccio fra vicini."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa organizzano i condomini di Bolzano?",
-            "type": "open"
-          },
-          {
-            "q": "Come è nata questa idea durante la pandemia?",
-            "type": "open"
-          },
-          {
-            "q": "Perché per i partecipanti la musica non è la cosa più importante?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Conosci i tuoi vicini di casa? Scrivi circa 100 parole e racconta se secondo te è importante avere buoni rapporti con loro."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-25-amatrice-dieci-anni",
-      "title": "La lenta rinascita di Amatrice a dieci anni dal terremoto - IL REPORTAGE",
-      "source": "ANSA",
-      "date": "2026-08-20",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "terremoto"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-25-amatrice-dieci-anni",
-        "revision": 1,
-        "meta": {
-          "title": "La lenta rinascita di Amatrice a dieci anni dal terremoto - IL REPORTAGE",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html",
-          "date_published": "2026-08-20",
-          "date_processed": "2026-08-25",
-          "tags": [
-            "società",
-            "terremoto"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Ten years have passed since the earthquake that destroyed Amatrice, in central Italy. Today the town is slowly coming back to life, but the reconstruction is still very slow. Some houses have been rebuilt, others exist only on paper. Two residents out of ten have social and economic problems, and many young people have decided to leave.\n\nIn recent days the town has remembered the victims with a commemoration. Those who have stayed keep asking for essential services. The hospital, for example, will perhaps open in 2027. The residents say that without schools, shops and work the town risks disappearing. The memory of the earthquake remains strong, but it is not enough: to grow again, Amatrice needs people who choose to stay and families who decide to move here.",
-        "resumen_es": "Sono passati dieci anni dal terremoto che ha distrutto Amatrice, nel centro Italia. Oggi il paese torna lentamente a vivere, ma la ricostruzione è ancora molto lenta. Alcune case sono state rifatte, altre esistono solo sulla carta. Due abitanti su dieci hanno problemi sociali ed economici e molti giovani hanno deciso di andare via.\n\nIn questi giorni il paese ha ricordato le vittime con una commemorazione. Chi è rimasto continua a chiedere servizi essenziali. L'ospedale, per esempio, forse aprirà nel 2027. Gli abitanti dicono che senza scuole, negozi e lavoro il paese rischia di sparire. La memoria del terremoto resta forte, ma non basta: per crescere di nuovo, Amatrice ha bisogno di persone che scelgano di restare e di famiglie che decidano di trasferirsi qui.",
-        "vocab": [
-          {
-            "front": "il terremoto",
-            "pos": "noun",
-            "back": "earthquake",
-            "example": "Il terremoto ha danneggiato molte case del paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ricostruzione",
-            "pos": "noun",
-            "back": "reconstruction, rebuilding",
-            "example": "La ricostruzione del ponte durerà due anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "distruggere",
-            "pos": "verb",
-            "back": "to destroy",
-            "example": "Il fuoco ha distrutto tutto il bosco.",
-            "tier": "B1"
-          },
-          {
-            "front": "rifare",
-            "pos": "verb",
-            "back": "to redo, to rebuild",
-            "example": "Hanno rifatto il tetto della scuola.",
-            "tier": "B1"
-          },
-          {
-            "front": "sulla carta",
-            "pos": "phrase",
-            "back": "on paper, in theory only",
-            "example": "Il progetto esiste sulla carta, ma nessuno lo ha iniziato.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'abitante",
-            "pos": "noun",
-            "back": "inhabitant, resident",
-            "example": "Il paese ha solo trecento abitanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "andare via",
-            "pos": "verb",
-            "back": "to leave, to go away",
-            "example": "Molti giovani vanno via per trovare lavoro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il servizio",
-            "pos": "noun",
-            "back": "service (public amenity)",
-            "example": "In montagna i servizi pubblici sono pochi.",
-            "tier": "B1"
-          },
-          {
-            "front": "rischiare di",
-            "pos": "verb",
-            "back": "to risk doing something",
-            "example": "Rischiamo di arrivare tardi alla stazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "sparire",
-            "pos": "verb",
-            "back": "to disappear",
-            "example": "Molti negozi del centro sono spariti.",
-            "tier": "B1"
-          },
-          {
-            "front": "bastare",
-            "pos": "verb",
-            "back": "to be enough",
-            "example": "Un giorno non basta per visitare tutta la città.",
-            "tier": "B1"
-          },
-          {
-            "front": "trasferirsi",
-            "pos": "verb",
-            "back": "to move (to another place to live)",
-            "example": "Si sono trasferiti in campagna l'anno scorso.",
-            "tier": "B1"
-          },
-          {
-            "front": "la commemorazione",
-            "pos": "noun",
-            "back": "commemoration, memorial ceremony",
-            "example": "Alla commemorazione hanno partecipato molte famiglie.",
-            "tier": "B2"
-          },
-          {
-            "front": "la memoria",
-            "pos": "noun",
-            "back": "memory (collective remembrance)",
-            "example": "La memoria di quei giorni è ancora viva.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Alcune case sono state rifatte, altre esistono solo sulla carta.",
-            "point": "Passive with essere and past participle agreement",
-            "explanation": "Sono state rifatte is the passato prossimo of a passive: essere in the present, stato as a participle, then the main participle. Both participles agree with case, which is feminine plural, so both end in -e.",
-            "why_tricky": "There are two participles to make agree, and learners often change only the last one and write sono stato rifatte."
-          },
-          {
-            "sentence": "Chi è rimasto continua a chiedere servizi essenziali.",
-            "point": "chi as an indefinite relative pronoun",
-            "explanation": "Chi here means the people who or whoever, and it always takes a singular verb: chi è rimasto continua. It joins two clauses on its own, so no other noun or article is needed in front of it.",
-            "why_tricky": "The meaning is plural in English, so learners write chi sono rimasti continuano, or add a noun and write le persone chi."
-          },
-          {
-            "sentence": "La memoria del terremoto resta forte, ma non basta: per crescere di nuovo, Amatrice ha bisogno di persone che scelgano di restare e di famiglie che decidano di trasferirsi qui.",
-            "point": "Congiuntivo in a relative clause after an indefinite antecedent",
-            "explanation": "Persone and famiglie here are not specific people the writer knows; they are the kind of people the town needs. Italian marks that with the congiuntivo in the relative clause: che scelgano, che decidano, instead of scelgono and decidono.",
-            "why_tricky": "The indicative is not wrong-sounding to a learner, so the difference between people who do stay and people who would stay is easy to miss."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "tirare avanti",
-            "meaning": "to get by, to keep going with difficulty",
-            "example": "Con una pensione piccola tira avanti come può."
-          },
-          {
-            "phrase": "a poco a poco",
-            "meaning": "little by little",
-            "example": "A poco a poco il paese sta tornando alla normalità."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo ad Amatrice dieci anni fa?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il testo dice che la ricostruzione è lenta?",
-            "type": "open"
-          },
-          {
-            "q": "Di che cosa ha bisogno il paese per non sparire?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, dopo un disastro naturale è più importante ricostruire le case o i servizi pubblici come scuole e ospedali? Scrivi circa 100 parole e spiega perché."
       }
     }
   ]
