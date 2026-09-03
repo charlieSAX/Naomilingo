@@ -1,7 +1,458 @@
 {
-  "generated_at": "2026-09-03T07:14:22Z",
+  "generated_at": "2026-09-03T22:59:09Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-03-carenza-sangue",
+      "title": "Allarme carenza di sangue, manca soprattutto il gruppo 0+",
+      "source": "ANSA",
+      "date": "2026-09-03",
+      "level": "A2-B1",
+      "topics": [
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-carenza-sangue",
+        "revision": 1,
+        "meta": {
+          "title": "Allarme carenza di sangue, manca soprattutto il gruppo 0+",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/03/allarme-carenza-di-sangue-manca-soprattutto-il-gruppo-0_5472a631-5eea-4475-b229-8569ac0a05e1.html",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Italy there is not enough donated blood in the hospitals. The National Blood Centre has launched an alarm: the most requested type, group 0 positive, is especially scarce. The regions with the biggest problems are Lazio, Campania and Sicily. Blood is essential for operations, for accident victims and for people with serious illnesses, so the reserves must never run out.\n\nThe shortage often gets worse at the end of the summer. Many regular donors are on holiday and postpone their donation, while hospitals continue to work every day. The experts remind people that donating is simple and safe: it takes about half an hour and one donation can help more than one patient. The health authorities are inviting citizens, especially young people, to book an appointment at the nearest centre in the coming days.",
+        "resumen_es": "In Italia non c'è abbastanza sangue donato negli ospedali. Il Centro nazionale sangue ha lanciato un allarme: manca soprattutto il gruppo 0 positivo, il tipo più richiesto. Le regioni con i problemi più grandi sono Lazio, Campania e Sicilia. Il sangue è essenziale per le operazioni, per le vittime degli incidenti e per le persone con malattie gravi, quindi le riserve non devono mai finire.\n\nLa carenza spesso peggiora alla fine dell'estate. Molti donatori abituali sono in vacanza e rimandano la donazione, mentre gli ospedali continuano a lavorare ogni giorno. Gli esperti ricordano che donare è semplice e sicuro: serve circa mezz'ora e una donazione può aiutare più di un paziente. Le autorità sanitarie invitano i cittadini, soprattutto i giovani, a prenotare un appuntamento nel centro più vicino nei prossimi giorni.",
+        "vocab": [
+          {
+            "front": "la carenza",
+            "pos": "noun",
+            "back": "shortage, lack",
+            "example": "C'è una carenza di sangue negli ospedali.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sangue",
+            "pos": "noun",
+            "back": "blood",
+            "example": "Il sangue donato salva molte vite.",
+            "tier": "B1"
+          },
+          {
+            "front": "lanciare un allarme",
+            "pos": "phrase",
+            "back": "to raise an alarm",
+            "example": "I medici hanno lanciato un allarme.",
+            "tier": "B1"
+          },
+          {
+            "front": "richiesto",
+            "pos": "adj",
+            "back": "in demand, requested",
+            "example": "Il gruppo 0 positivo è il più richiesto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la riserva",
+            "pos": "noun",
+            "back": "reserve, stock",
+            "example": "Le riserve di sangue sono quasi finite.",
+            "tier": "B1"
+          },
+          {
+            "front": "peggiorare",
+            "pos": "verb",
+            "back": "to get worse",
+            "example": "La situazione peggiora in estate.",
+            "tier": "B1"
+          },
+          {
+            "front": "il donatore",
+            "pos": "noun",
+            "back": "donor",
+            "example": "Mio padre è un donatore abituale.",
+            "tier": "B1"
+          },
+          {
+            "front": "rimandare",
+            "pos": "verb",
+            "back": "to postpone",
+            "example": "Molti rimandano la donazione dopo le vacanze.",
+            "tier": "B1"
+          },
+          {
+            "front": "la donazione",
+            "pos": "noun",
+            "back": "donation",
+            "example": "Una donazione dura circa mezz'ora.",
+            "tier": "B1"
+          },
+          {
+            "front": "il paziente",
+            "pos": "noun",
+            "back": "patient",
+            "example": "Una donazione può aiutare più di un paziente.",
+            "tier": "A2"
+          },
+          {
+            "front": "prenotare",
+            "pos": "verb",
+            "back": "to book, reserve",
+            "example": "Puoi prenotare un appuntamento online.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'appuntamento",
+            "pos": "noun",
+            "back": "appointment",
+            "example": "Ho un appuntamento al centro donazioni.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "In Italia non c'è abbastanza sangue donato negli ospedali.",
+            "point": "Non c'è + abbastanza",
+            "explanation": "C'è means there is; with non it becomes there is not. Abbastanza (enough) comes before the noun and never changes form.",
+            "why_tricky": "English says there is not enough blood; Italian keeps the same order, but learners often try to make abbastanza agree with the noun."
+          },
+          {
+            "sentence": "Molti donatori abituali sono in vacanza e rimandano la donazione, mentre gli ospedali continuano a lavorare ogni giorno.",
+            "point": "Continuare a + infinitive",
+            "explanation": "Some Italian verbs need a preposition before an infinitive: continuare a lavorare, not continuare lavorare. Mentre (while) links two actions happening at the same time.",
+            "why_tricky": "English says continue working with no preposition, so the a is easy to forget."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dare una mano",
+            "meaning": "to lend a hand, to help",
+            "example": "Donare il sangue è un modo semplice di dare una mano."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quale gruppo sanguigno manca di più negli ospedali italiani?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la carenza di sangue peggiora alla fine dell'estate?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiedono le autorità sanitarie ai cittadini?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai mai donato il sangue o vorresti farlo? Scrivi un breve paragrafo: secondo te, come si possono convincere più giovani a donare?"
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-giovani-ricercatori",
+      "title": "Dall'ia al cosmo, 75 milioni a 50 giovani ricercatori italiani",
+      "source": "ANSA",
+      "date": "2026-09-03",
+      "level": "A2-B1",
+      "topics": [
+        "scienza",
+        "ricerca"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-giovani-ricercatori",
+        "revision": 1,
+        "meta": {
+          "title": "Dall'ia al cosmo, 75 milioni a 50 giovani ricercatori italiani",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/09/03/dallue-75-milioni-di-euro-per-50-giovani-ricercatori-italiani_42d7c417-f4e3-4dd0-b033-e4e1b67d1b34.html",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "scienza",
+            "ricerca"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Good news for Italian science: the European Union has assigned 75 million euros to 50 young Italian researchers. Their projects cover very different fields, from artificial intelligence to the study of the cosmos. With this money the researchers can form their own teams, buy instruments and work on their ideas for several years without having to leave research.\n\nOf all the winning projects, 22 will be carried out in Italy. In this European competition Italy is sixth, behind countries like Germany, the United Kingdom and France. The funds are important for a country that often loses its young talents, because many scientists move abroad to find better conditions. The universities hope that these grants will convince more researchers to build their future in Italy and to bring new discoveries to Europe.",
+        "resumen_es": "Buone notizie per la scienza italiana: l'Unione europea ha assegnato 75 milioni di euro a 50 giovani ricercatori italiani. I loro progetti riguardano campi molto diversi, dall'intelligenza artificiale allo studio del cosmo. Con questi soldi i ricercatori possono formare il proprio gruppo, comprare strumenti e lavorare sulle loro idee per diversi anni senza dover lasciare la ricerca.\n\nTra tutti i progetti vincitori, 22 si svolgeranno in Italia. In questa gara europea l'Italia è sesta, dietro Paesi come Germania, Regno Unito e Francia. I fondi sono importanti per un Paese che spesso perde i suoi giovani talenti, perché molti scienziati vanno all'estero per trovare condizioni migliori. Le università sperano che queste borse convincano più ricercatori a costruire il loro futuro in Italia e a portare nuove scoperte in Europa.",
+        "vocab": [
+          {
+            "front": "il ricercatore",
+            "pos": "noun",
+            "back": "researcher",
+            "example": "I giovani ricercatori hanno vinto i fondi europei.",
+            "tier": "B1"
+          },
+          {
+            "front": "assegnare",
+            "pos": "verb",
+            "back": "to assign, award",
+            "example": "L'UE ha assegnato 75 milioni di euro.",
+            "tier": "B1"
+          },
+          {
+            "front": "il progetto",
+            "pos": "noun",
+            "back": "project",
+            "example": "Il suo progetto studia l'intelligenza artificiale.",
+            "tier": "A2"
+          },
+          {
+            "front": "riguardare",
+            "pos": "verb",
+            "back": "to concern, be about",
+            "example": "I progetti riguardano campi molto diversi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il campo",
+            "pos": "noun",
+            "back": "field (of study)",
+            "example": "Lavora nel campo della medicina.",
+            "tier": "B1"
+          },
+          {
+            "front": "lo strumento",
+            "pos": "noun",
+            "back": "instrument, tool",
+            "example": "Il laboratorio ha comprato nuovi strumenti.",
+            "tier": "B1"
+          },
+          {
+            "front": "svolgersi",
+            "pos": "verb",
+            "back": "to take place",
+            "example": "Molti progetti si svolgeranno in Italia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "competition, contest",
+            "example": "L'Italia è sesta in questa gara europea.",
+            "tier": "B1"
+          },
+          {
+            "front": "il talento",
+            "pos": "noun",
+            "back": "talent",
+            "example": "L'Italia perde spesso i suoi giovani talenti.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'estero",
+            "pos": "adv",
+            "back": "abroad",
+            "example": "Molti scienziati vanno a lavorare all'estero.",
+            "tier": "A2"
+          },
+          {
+            "front": "la borsa",
+            "pos": "noun",
+            "back": "grant, scholarship",
+            "example": "Ha vinto una borsa di studio europea.",
+            "tier": "B1"
+          },
+          {
+            "front": "la scoperta",
+            "pos": "noun",
+            "back": "discovery",
+            "example": "La ricerca porta nuove scoperte.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Con questi soldi i ricercatori possono formare il proprio gruppo, comprare strumenti e lavorare sulle loro idee per diversi anni senza dover lasciare la ricerca.",
+            "point": "Senza + infinitive",
+            "explanation": "After senza (without), Italian uses the infinitive: senza dover lasciare, literally without having to leave. Note also proprio, which means their own.",
+            "why_tricky": "English uses the -ing form (without having to leave), so learners often look for a gerund instead of the infinitive."
+          },
+          {
+            "sentence": "Le università sperano che queste borse convincano più ricercatori a costruire il loro futuro in Italia e a portare nuove scoperte in Europa.",
+            "point": "Sperare che + subjunctive",
+            "explanation": "Sperare che (to hope that) needs the subjunctive: convincano, not convincono. Convincere then takes a before each infinitive: convincere a costruire, a portare.",
+            "why_tricky": "Two difficulties in one sentence: the subjunctive after sperare che and the repeated preposition a before both infinitives."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "una fuga di cervelli",
+            "meaning": "a brain drain",
+            "example": "L'Italia vuole fermare la fuga di cervelli verso l'estero."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanti soldi ha assegnato l'Unione europea e a chi?",
+            "type": "open"
+          },
+          {
+            "q": "Quanti progetti vincitori si svolgeranno in Italia?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti giovani scienziati italiani vanno all'estero?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, che cosa deve fare un Paese per convincere i giovani talenti a restare? Scrivi qualche idea in un breve paragrafo."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-lucas-museo",
+      "title": "George Lucas apre il suo museo a Los Angeles, 'impresa quasi impossibile'",
+      "source": "ANSA",
+      "date": "2026-09-03",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-lucas-museo",
+        "revision": 1,
+        "meta": {
+          "title": "George Lucas apre il suo museo a Los Angeles, 'impresa quasi impossibile'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/03/george-lucas-apre-il-suo-museo-a-los-angeles-impresa-quasi-impossibile_19c1349a-65bc-4076-ad1d-98a3b451e2c2.html",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "cultura",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "George Lucas, the creator of Star Wars, is opening his museum in Los Angeles. It is called the Lucas Museum of Narrative Art and it is dedicated to the art of telling stories. Inside there are very different works: paintings, comics, illustrations and objects from the history of cinema. The director has described the project as an almost impossible undertaking, because building a museum of this size takes many years and a lot of money.\n\nFor Lucas the museum is a personal dream. He wants to show that popular art, like comics and film images, deserves the same respect as classical art. The museum will also offer spaces for children and families, with activities to learn how a story is born. Los Angeles thus gains a new cultural attraction, and film lovers from all over the world already want to visit it.",
+        "resumen_es": "George Lucas, il creatore di Star Wars, apre il suo museo a Los Angeles. Si chiama Lucas Museum of Narrative Art ed è dedicato all'arte di raccontare storie. All'interno ci sono opere molto diverse: quadri, fumetti, illustrazioni e oggetti della storia del cinema. Il regista ha descritto il progetto come un'impresa quasi impossibile, perché costruire un museo così grande richiede molti anni e molti soldi.\n\nPer Lucas il museo è un sogno personale. Vuole mostrare che l'arte popolare, come i fumetti e le immagini del cinema, merita lo stesso rispetto dell'arte classica. Il museo offrirà anche spazi per bambini e famiglie, con attività per capire come nasce una storia. Los Angeles guadagna così una nuova attrazione culturale, e gli amanti del cinema di tutto il mondo vogliono già visitarla.",
+        "vocab": [
+          {
+            "front": "il museo",
+            "pos": "noun",
+            "back": "museum",
+            "example": "Il museo apre le sue porte al pubblico.",
+            "tier": "A2"
+          },
+          {
+            "front": "raccontare",
+            "pos": "verb",
+            "back": "to tell (a story)",
+            "example": "Il cinema serve a raccontare storie.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'opera",
+            "pos": "noun",
+            "back": "work (of art)",
+            "example": "Nel museo ci sono opere molto famose.",
+            "tier": "B1"
+          },
+          {
+            "front": "il quadro",
+            "pos": "noun",
+            "back": "painting",
+            "example": "Questo quadro è del secolo scorso.",
+            "tier": "A2"
+          },
+          {
+            "front": "il fumetto",
+            "pos": "noun",
+            "back": "comic, comic strip",
+            "example": "Da bambino leggeva molti fumetti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il regista",
+            "pos": "noun",
+            "back": "film director",
+            "example": "George Lucas è un regista famoso in tutto il mondo.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'impresa",
+            "pos": "noun",
+            "back": "undertaking, feat",
+            "example": "Costruire il museo è stata un'impresa difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "richiedere",
+            "pos": "verb",
+            "back": "to require",
+            "example": "Un progetto così richiede molto tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il sogno",
+            "pos": "noun",
+            "back": "dream",
+            "example": "Il museo è il sogno della sua vita.",
+            "tier": "A2"
+          },
+          {
+            "front": "meritare",
+            "pos": "verb",
+            "back": "to deserve",
+            "example": "L'arte popolare merita rispetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'attrazione",
+            "pos": "noun",
+            "back": "attraction",
+            "example": "La città ha una nuova attrazione culturale.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'amante di",
+            "pos": "phrase",
+            "back": "lover of, fan of",
+            "example": "Gli amanti del cinema visiteranno il museo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Si chiama Lucas Museum of Narrative Art ed è dedicato all'arte di raccontare storie.",
+            "point": "Reflexive chiamarsi + ed before a vowel",
+            "explanation": "Si chiama (it is called) uses the reflexive verb chiamarsi. Before a word starting with a vowel, e (and) often becomes ed: ed è.",
+            "why_tricky": "Learners translate it is called with è chiamato and forget the much more natural si chiama; the ed form is also easy to miss."
+          },
+          {
+            "sentence": "Il regista ha descritto il progetto come un'impresa quasi impossibile, perché costruire un museo così grande richiede molti anni e molti soldi.",
+            "point": "Infinitive as subject",
+            "explanation": "Costruire un museo (building a museum) works as the subject of richiede. Italian uses the plain infinitive where English uses the -ing form.",
+            "why_tricky": "English speakers want a gerund (building), but in Italian the infinitive fills that role naturally."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un sogno nel cassetto",
+            "meaning": "a secret dream, a long-held wish",
+            "example": "Per Lucas questo museo era un sogno nel cassetto da molti anni."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Come si chiama il museo di George Lucas e dove si trova?",
+            "type": "open"
+          },
+          {
+            "q": "Che tipo di opere ci sono all'interno del museo?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa vuole dimostrare Lucas con questo museo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, i fumetti e il cinema sono arte come la pittura classica? Scrivi la tua opinione in un breve paragrafo."
+      }
+    },
     {
       "pack_id": "feed-2026-09-03-onu-riscaldamento-15",
       "title": "Onu, 'riscaldamento globale sopra 1,5°C nei prossimi anni'",
@@ -6150,500 +6601,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, l'intelligenza artificiale creerà più lavoro di quello che toglie? Scrivi circa 100 parole con la tua opinione."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-malaria-aeroporto-francoforte",
-      "title": "Scatta l'allerta malaria all'aeroporto di Francoforte, due morti",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "salute",
-        "Europa"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-malaria-aeroporto-francoforte",
-        "revision": 1,
-        "meta": {
-          "title": "Scatta l'allerta malaria all'aeroporto di Francoforte, due morti",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "salute",
-            "Europa"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "At Frankfurt airport, in Germany, a malaria alert has been raised. Two airport employees have died and four other people have caught the disease. It is a rare case, because malaria does not normally circulate in Europe. Usually the mosquito that transmits the disease lives in tropical countries and reaches us only by chance, for example inside an aeroplane. The German authorities are checking the area around the airport.\n\nIn Italy too the health ministry has increased its checks, but for now it speaks of low risks for the population. Experts recall that malaria is treated well if it is recognised straight away. The problem is that the first symptoms, such as a high fever and a headache, look like those of the flu. For this reason doctors are urging people who work at airports to pay attention and to ask for help quickly.",
-        "resumen_es": "All'aeroporto di Francoforte, in Germania, è scattata l'allerta malaria. Due dipendenti dello scalo sono morti e altre quattro persone hanno contratto la malattia. È un caso raro, perché la malaria non circola normalmente in Europa. Di solito la zanzara che trasmette la malattia vive nei paesi tropicali e arriva da noi solo per caso, per esempio dentro un aereo. Le autorità tedesche stanno controllando l'area intorno all'aeroporto.\n\nAnche in Italia il ministero della Salute ha aumentato i controlli, ma per ora parla di rischi bassi per la popolazione. Gli esperti ricordano che la malaria si cura bene se viene riconosciuta subito. Il problema è che i primi sintomi, come la febbre alta e il mal di testa, sembrano quelli di un'influenza. Per questo i medici invitano chi lavora negli aeroporti a fare attenzione e a chiedere aiuto rapidamente.",
-        "vocab": [
-          {
-            "front": "scattare l'allerta",
-            "pos": "phrase",
-            "back": "for an alert to be triggered",
-            "example": "È scattata l'allerta meteo in tutta la regione.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dipendente",
-            "pos": "noun",
-            "back": "employee",
-            "example": "I dipendenti dell'ospedale hanno fatto sciopero.",
-            "tier": "A2"
-          },
-          {
-            "front": "lo scalo",
-            "pos": "noun",
-            "back": "airport, transport hub",
-            "example": "Lo scalo di Milano è molto trafficato d'estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "contrarre una malattia",
-            "pos": "phrase",
-            "back": "to catch a disease",
-            "example": "Ha contratto una malattia durante il viaggio.",
-            "tier": "B1"
-          },
-          {
-            "front": "la zanzara",
-            "pos": "noun",
-            "back": "mosquito",
-            "example": "D'estate le zanzare non mi fanno dormire.",
-            "tier": "A2"
-          },
-          {
-            "front": "trasmettere",
-            "pos": "verb",
-            "back": "to transmit, to pass on",
-            "example": "Questo virus si trasmette con un colpo di tosse.",
-            "tier": "B1"
-          },
-          {
-            "front": "per caso",
-            "pos": "phrase",
-            "back": "by chance",
-            "example": "L'ho incontrata per caso al mercato.",
-            "tier": "A2"
-          },
-          {
-            "front": "il controllo",
-            "pos": "noun",
-            "back": "check, inspection",
-            "example": "All'ingresso ci sono i controlli di sicurezza.",
-            "tier": "A2"
-          },
-          {
-            "front": "curare",
-            "pos": "verb",
-            "back": "to treat, to cure",
-            "example": "Il medico cura i pazienti con molta attenzione.",
-            "tier": "A2"
-          },
-          {
-            "front": "riconoscere",
-            "pos": "verb",
-            "back": "to recognise",
-            "example": "Non ho riconosciuto la sua voce al telefono.",
-            "tier": "B1"
-          },
-          {
-            "front": "il sintomo",
-            "pos": "noun",
-            "back": "symptom",
-            "example": "I primi sintomi sono arrivati dopo due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "la febbre",
-            "pos": "noun",
-            "back": "fever",
-            "example": "Ha la febbre e resta a casa.",
-            "tier": "A2"
-          },
-          {
-            "front": "fare attenzione",
-            "pos": "phrase",
-            "back": "to pay attention, to be careful",
-            "example": "Fai attenzione quando attraversi la strada.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Di solito la zanzara che trasmette la malattia vive nei paesi tropicali e arriva da noi solo per caso, per esempio dentro un aereo.",
-            "point": "relative pronoun 'che' as subject of its clause",
-            "explanation": "'Che' introduces the relative clause and is the subject of 'trasmette'. The main verbs 'vive' and 'arriva' both refer back to 'la zanzara', so they stay singular.",
-            "why_tricky": "With a long relative clause in the middle, learners lose the subject and make the main verb plural."
-          },
-          {
-            "sentence": "Gli esperti ricordano che la malaria si cura bene se viene riconosciuta subito.",
-            "point": "'si' passivante and the passive with 'venire'",
-            "explanation": "'Si cura' is an impersonal passive meaning 'is treated'. 'Viene riconosciuta' is a true passive built with 'venire' plus the participle, which agrees in gender with 'malaria'.",
-            "why_tricky": "Italian has three ways to build a passive, and 'venire' is common in the present but impossible in compound tenses."
-          },
-          {
-            "sentence": "Per questo i medici invitano chi lavora negli aeroporti a fare attenzione e a chiedere aiuto rapidamente.",
-            "point": "'invitare qualcuno a' + infinitive, and 'chi' meaning 'those who'",
-            "explanation": "'Invitare' needs the preposition 'a' before each infinitive. 'Chi' here means 'the people who' and always takes a singular verb: 'lavora'.",
-            "why_tricky": "'Chi' feels plural in meaning, so learners write 'lavorano'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "per caso",
-            "meaning": "by accident, unintentionally",
-            "example": "Ho trovato il documento per caso."
-          },
-          {
-            "phrase": "fare attenzione",
-            "meaning": "to watch out, to be careful",
-            "example": "Fate attenzione ai gradini, sono alti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo all'aeroporto di Francoforte?",
-            "type": "open"
-          },
-          {
-            "q": "Perché un caso di malaria in Europa è considerato raro?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la malaria può essere confusa con l'influenza?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, che cosa dovrebbero fare gli aeroporti per proteggere meglio i dipendenti? Scrivi circa 100 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-pantaloni-corti-ufficio",
-      "title": "Estate bollente, per gli uomini in ufficio sdoganati i pantaloni corti",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "moda",
-        "lavoro"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-pantaloni-corti-ufficio",
-        "revision": 1,
-        "meta": {
-          "title": "Estate bollente, per gli uomini in ufficio sdoganati i pantaloni corti",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/25/estate-bollente-per-gli-uomini-in-ufficio-sdoganati-i-pantaloni-corti_158d13dd-335f-4940-ac74-9e3e85f8cf2d.html",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "moda",
-            "lavoro"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The summer of 2026 has been very hot and in Italy the way people dress for work has changed too. More and more men go to the office in shorts, knee-length bermudas and a t-shirt. Until recently this look was accepted only at the weekend or on holiday. Now, with the high temperatures, many colleagues find it normal and nobody is surprised any more.\n\nNot everyone agrees, though. Some companies prefer more formal clothing, especially when employees meet clients. Fashion experts say the choice depends on the context: a smart pair of bermudas, with a light shirt, can work well in the city too. The subject touches on a bigger question: how the rules of work change when the climate keeps getting hotter. Perhaps in a few years this discussion will already seem old.",
-        "resumen_es": "L'estate 2026 è stata molto calda e in Italia è cambiato anche il modo di vestirsi al lavoro. Sempre più uomini vanno in ufficio con i pantaloni corti, i bermuda al ginocchio e la maglietta. Fino a poco tempo fa questo look era accettato solo nel fine settimana o in vacanza. Adesso, con le temperature alte, molti colleghi lo trovano normale e nessuno si stupisce più.\n\nNon tutti però sono d'accordo. Alcune aziende preferiscono un abbigliamento più formale, soprattutto quando i dipendenti incontrano i clienti. Gli esperti di moda dicono che la scelta dipende dal contesto: un bermuda elegante, con una camicia leggera, può funzionare bene anche in città. Il tema tocca una domanda più grande: come cambiano le regole del lavoro quando il clima diventa sempre più caldo. Forse tra qualche anno questa discussione sembrerà già vecchia.",
-        "vocab": [
-          {
-            "front": "bollente",
-            "pos": "adj",
-            "back": "boiling, scorching",
-            "example": "Attento, il caffè è bollente.",
-            "tier": "B1"
-          },
-          {
-            "front": "vestirsi",
-            "pos": "verb",
-            "back": "to get dressed",
-            "example": "La mattina si veste in cinque minuti.",
-            "tier": "A2"
-          },
-          {
-            "front": "i pantaloni corti",
-            "pos": "noun",
-            "back": "shorts",
-            "example": "In spiaggia porta sempre i pantaloni corti.",
-            "tier": "A2"
-          },
-          {
-            "front": "il ginocchio",
-            "pos": "noun",
-            "back": "knee",
-            "example": "La gonna arriva al ginocchio.",
-            "tier": "A2"
-          },
-          {
-            "front": "fino a poco tempo fa",
-            "pos": "phrase",
-            "back": "until recently",
-            "example": "Fino a poco tempo fa qui non c'era il supermercato.",
-            "tier": "B1"
-          },
-          {
-            "front": "stupirsi",
-            "pos": "verb",
-            "back": "to be surprised",
-            "example": "Non mi stupisco più di niente.",
-            "tier": "B1"
-          },
-          {
-            "front": "essere d'accordo",
-            "pos": "phrase",
-            "back": "to agree",
-            "example": "Non sono d'accordo con questa decisione.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'abbigliamento",
-            "pos": "noun",
-            "back": "clothing, attire",
-            "example": "In palestra serve un abbigliamento comodo.",
-            "tier": "B1"
-          },
-          {
-            "front": "formale",
-            "pos": "adj",
-            "back": "formal",
-            "example": "Per il colloquio ha scelto un vestito formale.",
-            "tier": "A2"
-          },
-          {
-            "front": "la scelta",
-            "pos": "noun",
-            "back": "choice",
-            "example": "È stata una scelta difficile.",
-            "tier": "A2"
-          },
-          {
-            "front": "dipendere da",
-            "pos": "verb",
-            "back": "to depend on",
-            "example": "Tutto dipende dal tempo che avremo.",
-            "tier": "B1"
-          },
-          {
-            "front": "leggero",
-            "pos": "adj",
-            "back": "light (not heavy)",
-            "example": "D'estate preferisco una cena leggera.",
-            "tier": "A2"
-          },
-          {
-            "front": "tra qualche anno",
-            "pos": "phrase",
-            "back": "in a few years' time",
-            "example": "Tra qualche anno vorrei cambiare città.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Fino a poco tempo fa questo look era accettato solo nel fine settimana o in vacanza.",
-            "point": "imperfetto passive for a situation that lasted in the past",
-            "explanation": "'Era accettato' combines the imperfect of 'essere' with a participle. The imperfect is right because it describes how things generally were, not a single finished event.",
-            "why_tricky": "With the passato prossimo ('è stato accettato') the sentence would describe one completed moment instead of a long habit."
-          },
-          {
-            "sentence": "Gli esperti di moda dicono che la scelta dipende dal contesto: un bermuda elegante, con una camicia leggera, può funzionare bene anche in città.",
-            "point": "'dipendere da' with a contracted preposition",
-            "explanation": "'Dipendere' always needs 'da', which merges with the article: da + il becomes 'dal'. After 'dicono che' the indicative is used because a fact is reported.",
-            "why_tricky": "English says 'depends on', so learners write 'dipende su' or forget the contraction."
-          },
-          {
-            "sentence": "Forse tra qualche anno questa discussione sembrerà già vecchia.",
-            "point": "futuro semplice with 'tra' for future time",
-            "explanation": "'Tra qualche anno' means 'in a few years from now' and pairs naturally with the simple future 'sembrerà'. 'Fra' would be an equally correct spelling.",
-            "why_tricky": "Learners confuse 'tra' (time from now) with 'in' (duration needed to complete something)."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere d'accordo",
-            "meaning": "to agree with someone",
-            "example": "Siamo tutti d'accordo sulla data."
-          },
-          {
-            "phrase": "fino a poco tempo fa",
-            "meaning": "until not long ago",
-            "example": "Fino a poco tempo fa lavorava in banca."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come è cambiato l'abbigliamento degli uomini in ufficio quest'estate?",
-            "type": "open"
-          },
-          {
-            "q": "Perché alcune aziende preferiscono ancora un abbigliamento formale?",
-            "type": "open"
-          },
-          {
-            "q": "Quale domanda più grande pone questo tema, secondo il testo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Nel tuo lavoro o nella tua scuola, quanto conta il modo di vestirsi? Scrivi circa 100 parole con qualche esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-27-alluvione-nepal-tibet",
-      "title": "Alluvione tra Tibet e Nepal: Kathmandu: 'Recuperati 165 corpi, oltre 800 persone ancora irrintracciabili'",
-      "source": "ANSA",
-      "date": "2026-08-27",
-      "level": "A2-B1",
-      "topics": [
-        "disastri",
-        "asia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-27-alluvione-nepal-tibet",
-        "revision": 1,
-        "meta": {
-          "title": "Alluvione tra Tibet e Nepal: Kathmandu: 'Recuperati 165 corpi, oltre 800 persone ancora irrintracciabili'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/27/alluvione-tra-tibet-e-nepal-kathmandu-recuperati-165-corpi-oltre-800_3c7cb959-ccfa-44f4-8080-9b92adc8e68e.html",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-27",
-          "tags": [
-            "disastri",
-            "asia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A huge flood has hit the border area between Tibet and Nepal. The authorities in Kathmandu speak of around 165 dead and more than 800 people who still cannot be found. The water arrived suddenly and with great force. Many mountain villages are isolated. Rescuers are working day and night to search for the missing, but the roads are damaged and the work is very difficult.\n\nAccording to the authorities, the cause of the disaster is the collapse of a glacier high in the mountains. When the ice breaks, the water rushes down into the valley at enormous speed. Experts say that climate change is making these events more frequent in the Himalayan region. In the coming days international aid will arrive for the affected families. Sadly, the number of victims may still grow.",
-        "resumen_es": "Una grande alluvione ha colpito la zona di confine tra il Tibet e il Nepal. Le autorità di Kathmandu parlano di circa 165 morti e di oltre 800 persone che non si trovano ancora. L'acqua è arrivata all'improvviso e con grande forza. Molti villaggi di montagna sono isolati. I soccorritori lavorano giorno e notte per cercare i dispersi, ma le strade sono danneggiate e il lavoro è molto difficile.\n\nSecondo le autorità, la causa del disastro è il crollo di un ghiacciaio in alta montagna. Quando il ghiaccio si rompe, l'acqua scende a valle con una velocità enorme. Gli esperti dicono che il cambiamento climatico rende questi eventi più frequenti nella regione dell'Himalaya. Nei prossimi giorni arriveranno aiuti internazionali per le famiglie colpite. Il numero delle vittime, purtroppo, può ancora crescere.",
-        "vocab": [
-          {
-            "front": "l'alluvione",
-            "pos": "noun",
-            "back": "flood",
-            "example": "L'alluvione ha distrutto molte case.",
-            "tier": "B1"
-          },
-          {
-            "front": "il confine",
-            "pos": "noun",
-            "back": "border",
-            "example": "Il paese si trova vicino al confine con la Francia.",
-            "tier": "B1"
-          },
-          {
-            "front": "il disperso",
-            "pos": "noun",
-            "back": "missing person",
-            "example": "I soccorritori cercano ancora i dispersi.",
-            "tier": "B1"
-          },
-          {
-            "front": "il soccorritore",
-            "pos": "noun",
-            "back": "rescuer",
-            "example": "I soccorritori sono arrivati con gli elicotteri.",
-            "tier": "B1"
-          },
-          {
-            "front": "il crollo",
-            "pos": "noun",
-            "back": "collapse",
-            "example": "Il crollo del ponte ha bloccato la strada.",
-            "tier": "B1"
-          },
-          {
-            "front": "il ghiacciaio",
-            "pos": "noun",
-            "back": "glacier",
-            "example": "Il ghiacciaio diventa più piccolo ogni anno.",
-            "tier": "B1"
-          },
-          {
-            "front": "la valle",
-            "pos": "noun",
-            "back": "valley",
-            "example": "Il fiume passa in mezzo alla valle.",
-            "tier": "B1"
-          },
-          {
-            "front": "all'improvviso",
-            "pos": "adv",
-            "back": "suddenly",
-            "example": "All'improvviso è iniziato a piovere.",
-            "tier": "B1"
-          },
-          {
-            "front": "colpire",
-            "pos": "verb",
-            "back": "to hit, to strike",
-            "example": "Il terremoto ha colpito il centro del paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "isolato",
-            "pos": "adj",
-            "back": "isolated, cut off",
-            "example": "Dopo la tempesta il villaggio è rimasto isolato.",
-            "tier": "B1"
-          },
-          {
-            "front": "la vittima",
-            "pos": "noun",
-            "back": "victim",
-            "example": "Il numero delle vittime è ancora incerto.",
-            "tier": "B1"
-          },
-          {
-            "front": "danneggiato",
-            "pos": "adj",
-            "back": "damaged",
-            "example": "Molte strade sono danneggiate dopo l'alluvione.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Le autorità di Kathmandu parlano di circa 165 morti e di oltre 800 persone che non si trovano ancora.",
-            "point": "'Parlare di' + noun; reflexive 'trovarsi'",
-            "explanation": "'Parlare di' means 'to speak of'. 'Non si trovano' literally means 'they do not find themselves', an Italian way to say that people cannot be found.",
-            "why_tricky": "The reflexive 'trovarsi' has no direct English equivalent here; learners often try 'non sono trovate' instead, which sounds unnatural."
-          },
-          {
-            "sentence": "Quando il ghiaccio si rompe, l'acqua scende a valle con una velocità enorme.",
-            "point": "'Quando' + present tense for general truths; reflexive 'rompersi'",
-            "explanation": "Italian uses the present tense after 'quando' to describe things that happen in general. 'Si rompe' is reflexive: the ice breaks by itself, nobody breaks it.",
-            "why_tricky": "English speakers may expect a future tense after 'when'. Also, 'rompere' needs 'si' when the subject breaks on its own."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "giorno e notte",
-            "meaning": "day and night, without stopping",
-            "example": "Hanno lavorato giorno e notte per aiutare la gente."
-          },
-          {
-            "phrase": "scendere a valle",
-            "meaning": "to come down into the valley",
-            "example": "In inverno i pastori scendono a valle con gli animali."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è successo al confine tra il Tibet e il Nepal?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il lavoro dei soccorritori è così difficile?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è la causa del disastro secondo le autorità?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Il cambiamento climatico rende i disastri naturali più frequenti. Secondo te, cosa possono fare i paesi per proteggere le persone che vivono in montagna? Scrivi la tua opinione in circa 80 parole."
       }
     }
   ]
