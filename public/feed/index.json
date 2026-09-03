@@ -1,7 +1,500 @@
 {
-  "generated_at": "2026-09-02T07:13:01Z",
+  "generated_at": "2026-09-03T07:14:22Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-03-onu-riscaldamento-15",
+      "title": "Onu, 'riscaldamento globale sopra 1,5°C nei prossimi anni'",
+      "source": "ANSA",
+      "date": "2026-09-02",
+      "level": "A2-B1",
+      "topics": [
+        "clima",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-onu-riscaldamento-15",
+        "revision": 1,
+        "meta": {
+          "title": "Onu, 'riscaldamento globale sopra 1,5°C nei prossimi anni'",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/09/02/onu-riscaldamento-globale-sopra-15c-nei-prossimi-anni_a4b889bd-bbd8-4e91-ad1a-1340b6844c2e.html",
+          "date_published": "2026-09-02",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "clima",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The UN is sounding a new alarm about the climate: according to the experts, in the coming years the average temperature of the planet will rise above the limit of 1.5 degrees. That number is not random. With the Paris agreement of 2015, almost all the countries of the world promised to keep global warming below that threshold. Now the scientists say the limit will be exceeded, at least for a period.\n\nThe news does not mean that all is lost. According to the UN, it is still possible to limit the duration of this overshoot, but two things are needed: mitigation, that is, reducing greenhouse gas emissions, and adaptation, that is, preparing cities and people for a hotter climate. Every fraction of a degree counts: less warming means fewer heat waves, less drought and fewer extreme events.",
+        "resumen_es": "L'Onu lancia un nuovo allarme sul clima: secondo gli esperti, nei prossimi anni la temperatura media del pianeta salirà sopra il limite di 1,5 gradi. Questo numero non è casuale. Con l'accordo di Parigi del 2015, quasi tutti i paesi del mondo hanno promesso di mantenere il riscaldamento globale sotto quella soglia. Ora gli scienziati dicono che il limite sarà superato, almeno per un periodo.\n\nLa notizia non significa che tutto è perduto. Secondo l'Onu, è ancora possibile limitare la durata di questo superamento, ma servono due cose: la mitigazione, cioè ridurre le emissioni di gas serra, e l'adattamento, cioè preparare le città e le persone a un clima più caldo. Ogni frazione di grado conta: meno riscaldamento significa meno ondate di calore, meno siccità e meno eventi estremi.",
+        "vocab": [
+          {
+            "front": "il riscaldamento globale",
+            "pos": "phrase",
+            "back": "global warming",
+            "example": "Il riscaldamento globale è un problema per tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "la soglia",
+            "pos": "noun",
+            "back": "threshold",
+            "example": "La temperatura ha superato una soglia importante.",
+            "tier": "B2"
+          },
+          {
+            "front": "lanciare l'allarme",
+            "pos": "phrase",
+            "back": "to raise the alarm",
+            "example": "Gli scienziati lanciano l'allarme sul clima.",
+            "tier": "B1"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to exceed, to go beyond",
+            "example": "Non dobbiamo superare il limite.",
+            "tier": "B1"
+          },
+          {
+            "front": "la siccità",
+            "pos": "noun",
+            "back": "drought",
+            "example": "La siccità distrugge i raccolti.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'ondata di calore",
+            "pos": "phrase",
+            "back": "heat wave",
+            "example": "In estate arrivano le ondate di calore.",
+            "tier": "B1"
+          },
+          {
+            "front": "le emissioni",
+            "pos": "noun",
+            "back": "emissions",
+            "example": "Dobbiamo ridurre le emissioni delle auto.",
+            "tier": "B1"
+          },
+          {
+            "front": "i gas serra",
+            "pos": "phrase",
+            "back": "greenhouse gases",
+            "example": "I gas serra riscaldano il pianeta.",
+            "tier": "B2"
+          },
+          {
+            "front": "la mitigazione",
+            "pos": "noun",
+            "back": "mitigation",
+            "example": "La mitigazione riduce le cause del problema.",
+            "tier": "C1"
+          },
+          {
+            "front": "l'adattamento",
+            "pos": "noun",
+            "back": "adaptation",
+            "example": "L'adattamento aiuta le città a resistere al caldo.",
+            "tier": "B2"
+          },
+          {
+            "front": "promettere",
+            "pos": "verb",
+            "back": "to promise",
+            "example": "I paesi hanno promesso di agire subito.",
+            "tier": "B1"
+          },
+          {
+            "front": "casuale",
+            "pos": "adj",
+            "back": "random, by chance",
+            "example": "La scelta della data non è casuale.",
+            "tier": "B2"
+          },
+          {
+            "front": "contare",
+            "pos": "verb",
+            "back": "to count, to matter",
+            "example": "Ogni voto conta in un'elezione.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Con l'accordo di Parigi del 2015, quasi tutti i paesi del mondo hanno promesso di mantenere il riscaldamento globale sotto quella soglia.",
+            "point": "promettere di + infinitive (passato prossimo)",
+            "explanation": "Verbs like promettere, decidere and cercare link to a following verb with di + infinitive: hanno promesso di mantenere. The passato prossimo uses avere plus the past participle promesso.",
+            "why_tricky": "English says 'promised to keep' with to, so learners often write 'hanno promesso a mantenere'. Each Italian verb has its own preposition, and promettere takes di."
+          },
+          {
+            "sentence": "La notizia non significa che tutto è perduto.",
+            "point": "significare che + indicative",
+            "explanation": "After significare che, Italian normally uses the indicative (è) because the clause states a fact being denied or affirmed as content, not a wish or doubt.",
+            "why_tricky": "Learners at this level often overuse the subjunctive after any 'che'. Here 'non significa che' reports the content of the news, and everyday Italian keeps the indicative."
+          },
+          {
+            "sentence": "Ogni frazione di grado conta: meno riscaldamento significa meno ondate di calore, meno siccità e meno eventi estremi.",
+            "point": "ogni + singular noun; invariable meno",
+            "explanation": "Ogni always takes a singular noun (ogni frazione), even though the meaning is plural. Meno is invariable: it never changes form before masculine, feminine, singular or plural nouns.",
+            "why_tricky": "English 'every' also takes a singular, but learners still write 'ogni frazioni'. And because molto changes (molti, molte), they expect meno to agree too; it never does."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "lanciare l'allarme",
+            "meaning": "to raise the alarm, to warn publicly about a danger",
+            "example": "I medici hanno lanciato l'allarme sull'influenza."
+          },
+          {
+            "phrase": "tutto è perduto",
+            "meaning": "all is lost (usually in the negative: not all is lost)",
+            "example": "Non tutto è perduto: possiamo ancora vincere."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quale limite di temperatura sarà superato nei prossimi anni, secondo l'Onu?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa hanno promesso quasi tutti i paesi con l'accordo di Parigi del 2015?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le due cose necessarie, secondo l'Onu, per rispondere al problema?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, che cosa possono fare le persone comuni contro il cambiamento climatico? Scrivi la tua opinione in cinque o sei frasi."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-veneto-mappe-tattili",
+      "title": "In Veneto luoghi storici 'visitabili' da ipovedenti grazie a mappe tattili e modellini 3D",
+      "source": "ANSA",
+      "date": "2026-09-01",
+      "level": "A2-B1",
+      "topics": [
+        "società",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-veneto-mappe-tattili",
+        "revision": 1,
+        "meta": {
+          "title": "In Veneto luoghi storici 'visitabili' da ipovedenti grazie a mappe tattili e modellini 3D",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/responsabilmente/notizie/territori_virtuosi/2026/09/01/in-veneto-luoghi-storici-visitabili-da-ipovedenti-grazie-a-mappe-tattili-e-modellini-3d_2070fc0f-fc5f-45f4-9030-b04d5740f5bb.html",
+          "date_published": "2026-09-01",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "società",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Veneto some historic places are becoming accessible to visually impaired people too, that is, to those who see little or cannot see. Thanks to tactile maps and 3D models, visitors can touch with their hands the shape of a monument or a square. In this way even those who cannot see manage to get a precise idea of the places and their history.\n\nThe project has been welcomed with enthusiasm. From Rome came a positive comment: initiatives like this one show the great social value of inclusion. In Italy the artistic heritage is enormous, but often it is not accessible to everyone. New technologies, such as 3D printing, offer simple and inexpensive solutions. The goal is clear: culture must be a right for everyone, not a privilege for a few.",
+        "resumen_es": "In Veneto alcuni luoghi storici diventano accessibili anche alle persone ipovedenti, cioè a chi vede poco o non vede. Grazie a mappe tattili e a modellini in 3D, i visitatori possono toccare con le mani la forma di un monumento o di una piazza. Così anche chi non può vedere riesce a farsi un'idea precisa dei luoghi e della loro storia.\n\nIl progetto è stato accolto con entusiasmo. Da Roma è arrivato un commento positivo: iniziative come questa dimostrano il grande valore sociale dell'inclusione. In Italia il patrimonio artistico è enorme, ma spesso non è accessibile a tutti. Le nuove tecnologie, come la stampa 3D, offrono soluzioni semplici ed economiche. L'obiettivo è chiaro: la cultura deve essere un diritto di tutti, non un privilegio di pochi.",
+        "vocab": [
+          {
+            "front": "ipovedente",
+            "pos": "adj",
+            "back": "visually impaired",
+            "example": "Il museo organizza visite per persone ipovedenti.",
+            "tier": "C1"
+          },
+          {
+            "front": "la mappa tattile",
+            "pos": "phrase",
+            "back": "tactile map",
+            "example": "La mappa tattile si legge con le dita.",
+            "tier": "B2"
+          },
+          {
+            "front": "il modellino",
+            "pos": "noun",
+            "back": "scale model",
+            "example": "Il modellino mostra la chiesa in miniatura.",
+            "tier": "B1"
+          },
+          {
+            "front": "toccare",
+            "pos": "verb",
+            "back": "to touch",
+            "example": "I visitatori possono toccare il modellino.",
+            "tier": "B1"
+          },
+          {
+            "front": "accessibile",
+            "pos": "adj",
+            "back": "accessible",
+            "example": "La stazione è accessibile a tutti.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'inclusione",
+            "pos": "noun",
+            "back": "inclusion",
+            "example": "L'inclusione è un valore importante nella scuola.",
+            "tier": "B1"
+          },
+          {
+            "front": "il patrimonio",
+            "pos": "noun",
+            "back": "heritage, patrimony",
+            "example": "L'Italia ha un patrimonio artistico enorme.",
+            "tier": "B2"
+          },
+          {
+            "front": "accogliere",
+            "pos": "verb",
+            "back": "to welcome, to receive",
+            "example": "Il pubblico ha accolto bene il progetto.",
+            "tier": "B2"
+          },
+          {
+            "front": "farsi un'idea",
+            "pos": "phrase",
+            "back": "to get an idea, to form a picture",
+            "example": "Voglio farmi un'idea della situazione prima di decidere.",
+            "tier": "B2"
+          },
+          {
+            "front": "il privilegio",
+            "pos": "noun",
+            "back": "privilege",
+            "example": "Studiare non deve essere un privilegio.",
+            "tier": "B1"
+          },
+          {
+            "front": "la stampa 3D",
+            "pos": "phrase",
+            "back": "3D printing",
+            "example": "Con la stampa 3D si creano oggetti di ogni forma.",
+            "tier": "B2"
+          },
+          {
+            "front": "economico",
+            "pos": "adj",
+            "back": "cheap, inexpensive",
+            "example": "È una soluzione semplice ed economica.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Così anche chi non può vedere riesce a farsi un'idea precisa dei luoghi e della loro storia.",
+            "point": "chi = 'those who'; riuscire a + infinitive",
+            "explanation": "Chi with a singular verb means 'anyone who' or 'those who': chi non può vedere. Riuscire a + infinitive means to manage to do something: riesce a farsi un'idea.",
+            "why_tricky": "English uses a plural ('those who cannot see'), so learners want a plural verb after chi. Chi always takes the third person singular. Riuscire also takes a, not di."
+          },
+          {
+            "sentence": "Il progetto è stato accolto con entusiasmo.",
+            "point": "passive with essere (passato prossimo)",
+            "explanation": "The passive uses essere plus the past participle, which agrees with the subject: il progetto è stato accolto. The doer can be left out entirely.",
+            "why_tricky": "Two participles in a row (stato accolto) look strange to learners, and remembering that accolto must agree in gender and number with il progetto takes practice."
+          },
+          {
+            "sentence": "L'obiettivo è chiaro: la cultura deve essere un diritto di tutti, non un privilegio di pochi.",
+            "point": "dovere + infinitive; di tutti / di pochi",
+            "explanation": "Dovere combines directly with an infinitive with no preposition: deve essere. Di tutti and di pochi express possession or belonging: a right of everyone, a privilege of few.",
+            "why_tricky": "Learners sometimes insert a preposition after dovere ('deve di essere') by analogy with other verbs. Tutti and pochi work as pronouns here, with no noun after them."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "toccare con mano",
+            "meaning": "to experience something directly, to see for oneself",
+            "example": "Ho toccato con mano la generosità degli italiani."
+          },
+          {
+            "phrase": "farsi un'idea",
+            "meaning": "to form a picture or opinion of something",
+            "example": "Leggi l'articolo per farti un'idea del problema."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quali strumenti aiutano le persone ipovedenti a visitare i luoghi storici del Veneto?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa dimostrano queste iniziative, secondo il commento arrivato da Roma?",
+            "type": "open"
+          },
+          {
+            "q": "Perché tecnologie come la stampa 3D sono utili per progetti di questo tipo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nel tuo paese i musei e i monumenti sono accessibili a tutti? Descrivi la situazione e proponi un miglioramento concreto."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-03-nestle-vitamine",
+      "title": "Nestlè cede la divisione vitamine per un miliardo di dollari",
+      "source": "ANSA",
+      "date": "2026-09-02",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "aziende"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-03-nestle-vitamine",
+        "revision": 1,
+        "meta": {
+          "title": "Nestlè cede la divisione vitamine per un miliardo di dollari",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/09/02/nestle-cede-la-divisione-vitamine-per-un-miliardo-di-dollari_0c5ab65b-62c0-463d-b01e-27e5854846cf.html",
+          "date_published": "2026-09-02",
+          "date_processed": "2026-09-03",
+          "tags": [
+            "economia",
+            "aziende"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Swiss multinational Nestlé has decided to sell its vitamins and supplements division. The deal is worth about one billion dollars and the buyer is Yellow Wood Partners, an investment firm. In 2025 this business had revenue of 1.2 billion dollars, but for the group it is no longer a central sector.\n\nThe sale is part of a broader strategy. Like many large companies, Nestlé wants to concentrate on the products that earn the most, for example coffee and pet food. Selling the less important activities serves to obtain fresh cash and to simplify the group. For consumers not much changes: the products will remain in the shops, but with a different owner.",
+        "resumen_es": "La multinazionale svizzera Nestlé ha deciso di vendere la sua divisione di vitamine e integratori. L'accordo vale circa un miliardo di dollari e il compratore è Yellow Wood Partners, una società di investimento. Nel 2025 questa attività ha avuto un fatturato di 1,2 miliardi di dollari, ma per il gruppo non è più un settore centrale.\n\nLa vendita fa parte di una strategia più ampia. Come molte grandi aziende, Nestlé vuole concentrarsi sui prodotti che rendono di più, per esempio il caffè e il cibo per animali. Vendere le attività meno importanti serve a ottenere denaro fresco e a semplificare il gruppo. Per i consumatori non cambia molto: i prodotti resteranno nei negozi, ma con un proprietario diverso.",
+        "vocab": [
+          {
+            "front": "la multinazionale",
+            "pos": "noun",
+            "back": "multinational company",
+            "example": "La multinazionale ha sedi in molti paesi.",
+            "tier": "B1"
+          },
+          {
+            "front": "cedere",
+            "pos": "verb",
+            "back": "to sell off, to give up",
+            "example": "L'azienda ha ceduto una parte del gruppo.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'accordo",
+            "pos": "noun",
+            "back": "agreement, deal",
+            "example": "Le due società hanno firmato un accordo.",
+            "tier": "B1"
+          },
+          {
+            "front": "valere",
+            "pos": "verb",
+            "back": "to be worth",
+            "example": "Questa casa vale molto oggi.",
+            "tier": "B1"
+          },
+          {
+            "front": "il fatturato",
+            "pos": "noun",
+            "back": "revenue, turnover",
+            "example": "Il fatturato dell'azienda è cresciuto quest'anno.",
+            "tier": "B2"
+          },
+          {
+            "front": "l'integratore",
+            "pos": "noun",
+            "back": "dietary supplement",
+            "example": "Molte persone prendono integratori di vitamine.",
+            "tier": "B2"
+          },
+          {
+            "front": "il compratore",
+            "pos": "noun",
+            "back": "buyer",
+            "example": "Il compratore è una società americana.",
+            "tier": "B1"
+          },
+          {
+            "front": "concentrarsi su",
+            "pos": "phrase",
+            "back": "to focus on",
+            "example": "L'azienda si concentra sul mercato europeo.",
+            "tier": "B1"
+          },
+          {
+            "front": "rendere",
+            "pos": "verb",
+            "back": "to yield, to be profitable",
+            "example": "Questo settore rende poco.",
+            "tier": "B2"
+          },
+          {
+            "front": "il proprietario",
+            "pos": "noun",
+            "back": "owner",
+            "example": "Il negozio ha un nuovo proprietario.",
+            "tier": "B1"
+          },
+          {
+            "front": "la strategia",
+            "pos": "noun",
+            "back": "strategy",
+            "example": "La vendita fa parte di una strategia chiara.",
+            "tier": "B1"
+          },
+          {
+            "front": "semplificare",
+            "pos": "verb",
+            "back": "to simplify",
+            "example": "Vogliono semplificare le regole del gruppo.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La multinazionale svizzera Nestlé ha deciso di vendere la sua divisione di vitamine e integratori.",
+            "point": "decidere di + infinitive",
+            "explanation": "Decidere links to a following verb with di + infinitive: ha deciso di vendere. Many common verbs of choice and intention work this way (decidere di, cercare di, finire di).",
+            "why_tricky": "English 'decided to sell' pushes learners toward 'ha deciso a vendere'. The preposition depends on the first verb, and decidere always takes di."
+          },
+          {
+            "sentence": "Vendere le attività meno importanti serve a ottenere denaro fresco e a semplificare il gruppo.",
+            "point": "infinitive as subject; servire a + infinitive",
+            "explanation": "An infinitive can be the subject of the sentence: Vendere le attività serve a... Servire a + infinitive means to be useful for doing something, and the a is repeated before each infinitive.",
+            "why_tricky": "English would use the -ing form ('selling serves to...'), so learners look for a gerund. Italian uses the plain infinitive, and forgetting the second a before semplificare is a common slip."
+          },
+          {
+            "sentence": "Per i consumatori non cambia molto: i prodotti resteranno nei negozi, ma con un proprietario diverso.",
+            "point": "impersonal cambiare; simple future",
+            "explanation": "Non cambia molto works impersonally, with no explicit subject: not much changes. Resteranno is the simple future of restare, used for a confident prediction.",
+            "why_tricky": "Learners want to add a subject ('non cambia niente cosa'). The future ending -anno on regular -are verbs (resteranno) is also easy to confuse with the conditional -ebbero."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "denaro fresco",
+            "meaning": "fresh cash, newly available money",
+            "example": "La società cerca denaro fresco per crescere."
+          },
+          {
+            "phrase": "fare parte di",
+            "meaning": "to be part of something",
+            "example": "Questo progetto fa parte di un piano più grande."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha deciso di vendere Nestlé e chi è il compratore?",
+            "type": "open"
+          },
+          {
+            "q": "Quanto vale l'accordo e quanto era il fatturato della divisione nel 2025?",
+            "type": "open"
+          },
+          {
+            "q": "Su quali prodotti vuole concentrarsi Nestlé, secondo l'articolo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Compri vitamine o integratori? Secondo te sono davvero utili o è meglio una buona alimentazione? Spiega la tua opinione."
+      }
+    },
     {
       "pack_id": "feed-2026-09-02-joshua-wong",
       "title": "Hong Kong, il dissidente Joshua Wong si dichiara colpevole",
@@ -6151,475 +6644,6 @@
           }
         ],
         "opinion_prompt": "Il cambiamento climatico rende i disastri naturali più frequenti. Secondo te, cosa possono fare i paesi per proteggere le persone che vivono in montagna? Scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-27-yayoi-kusama",
-      "title": "Morta a 97 anni l'artista Yayoi Kusama, la \"regina dei pois\"",
-      "source": "RaiNews",
-      "date": "2026-08-27",
-      "level": "A2-B1",
-      "topics": [
-        "arte",
-        "giappone"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-27-yayoi-kusama",
-        "revision": 1,
-        "meta": {
-          "title": "Morta a 97 anni l'artista Yayoi Kusama, la \"regina dei pois\"",
-          "source": "RaiNews",
-          "url": "https://www.rainews.it/articoli/2026/08/giappone-morta-a-97-anni-artista-yayoi-kusama-regina-dei-poi-tokyo-allucinazioni-55135057-6b55-4d2d-ab8f-59b0af691902.html",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-27",
-          "tags": [
-            "arte",
-            "giappone"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Japanese artist Yayoi Kusama has died at the age of 97 in a Tokyo hospital. She was famous all over the world as the queen of polka dots: her paintings, her giant pumpkins and her rooms full of mirrors are covered in coloured dots. From a young age, Kusama had hallucinations. Instead of hiding this problem, she transformed it into art.\n\nKusama is one of the most important artists of the twentieth century. Her works can be found in the most famous museums in the world, and millions of people have visited her installations. For many, her story is also a message of hope: art can help people live with mental suffering. Japan and the world of culture remember her today as a free and original woman.",
-        "resumen_es": "L'artista giapponese Yayoi Kusama è morta a 97 anni in un ospedale di Tokyo. Era famosa in tutto il mondo come la regina dei pois: i suoi quadri, le sue zucche giganti e le sue stanze piene di specchi sono coperti di punti colorati. Fin da giovane, Kusama aveva delle allucinazioni. Invece di nascondere questo problema, lo ha trasformato in arte.\n\nKusama è una delle artiste più importanti del Novecento. Le sue opere si trovano nei musei più famosi del mondo e milioni di persone hanno visitato le sue installazioni. Per molti, la sua storia è anche un messaggio di speranza: l'arte può aiutare a vivere con la sofferenza mentale. Il Giappone e il mondo della cultura la ricordano oggi come una donna libera e originale.",
-        "vocab": [
-          {
-            "front": "il quadro",
-            "pos": "noun",
-            "back": "painting, picture",
-            "example": "Nel museo ci sono quadri molto famosi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la zucca",
-            "pos": "noun",
-            "back": "pumpkin",
-            "example": "La zucca gigante è la sua opera più conosciuta.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo specchio",
-            "pos": "noun",
-            "back": "mirror",
-            "example": "La stanza è piena di specchi.",
-            "tier": "B1"
-          },
-          {
-            "front": "a pois",
-            "pos": "phrase",
-            "back": "polka-dotted, with dots",
-            "example": "Porta un vestito bianco a pois rossi.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'opera",
-            "pos": "noun",
-            "back": "work (of art)",
-            "example": "Le sue opere sono in tutto il mondo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la speranza",
-            "pos": "noun",
-            "back": "hope",
-            "example": "La sua storia dà speranza a molte persone.",
-            "tier": "B1"
-          },
-          {
-            "front": "nascondere",
-            "pos": "verb",
-            "back": "to hide",
-            "example": "Non devi nascondere i tuoi problemi.",
-            "tier": "B1"
-          },
-          {
-            "front": "trasformare",
-            "pos": "verb",
-            "back": "to transform, to turn into",
-            "example": "Ha trasformato la sua casa in un piccolo museo.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sofferenza",
-            "pos": "noun",
-            "back": "suffering",
-            "example": "L'arte può aiutare nella sofferenza.",
-            "tier": "B1"
-          },
-          {
-            "front": "ricordare",
-            "pos": "verb",
-            "back": "to remember",
-            "example": "Tutti la ricordano come una grande artista.",
-            "tier": "B1"
-          },
-          {
-            "front": "fin da giovane",
-            "pos": "phrase",
-            "back": "from a young age",
-            "example": "Fin da giovane amava disegnare.",
-            "tier": "B1"
-          },
-          {
-            "front": "il Novecento",
-            "pos": "noun",
-            "back": "the twentieth century",
-            "example": "È uno degli scrittori più importanti del Novecento.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Invece di nascondere questo problema, lo ha trasformato in arte.",
-            "point": "'Invece di' + infinitive; direct object pronoun 'lo'",
-            "explanation": "'Invece di' means 'instead of' and is followed by the infinitive. 'Lo' is a direct object pronoun that refers back to 'questo problema'.",
-            "why_tricky": "In English we say 'instead of hiding' with the -ing form; in Italian you must use the infinitive. Finding what 'lo' refers to takes attention."
-          },
-          {
-            "sentence": "Le sue opere si trovano nei musei più famosi del mondo e milioni di persone hanno visitato le sue installazioni.",
-            "point": "'Si trovano' (can be found); relative superlative 'i più famosi del mondo'",
-            "explanation": "'Si trovano' is a common way to say where things are located. 'I musei più famosi del mondo' is the superlative: article + noun + più + adjective + di.",
-            "why_tricky": "Italian uses 'di' after superlatives where English uses 'in': the most famous museums IN the world = 'del mondo'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "in tutto il mondo",
-            "meaning": "all over the world",
-            "example": "I suoi libri sono famosi in tutto il mondo."
-          },
-          {
-            "phrase": "fin da giovane",
-            "meaning": "from a young age, ever since youth",
-            "example": "Fin da giovane voleva diventare artista."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Chi era Yayoi Kusama e perché era chiamata la regina dei pois?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa ha fatto Kusama con le sue allucinazioni?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la sua storia è un messaggio di speranza per molte persone?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "L'arte può aiutare le persone che soffrono? Pensa a un esempio dalla tua vita o dalla cultura e scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-27-biscotti-plastica",
-      "title": "Biscotti commestibili a partire dalla plastica delle bottiglie",
-      "source": "ANSA",
-      "date": "2026-08-26",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "ambiente"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-27-biscotti-plastica",
-        "revision": 1,
-        "meta": {
-          "title": "Biscotti commestibili a partire dalla plastica delle bottiglie",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/08/26/biscotti-commestibili-a-partire-dalla-plastica-delle-bottiglie_3bbed19e-a84e-4605-ae21-f6b403fd8bbb.html",
-          "date_published": "2026-08-26",
-          "date_processed": "2026-08-27",
-          "tags": [
-            "scienza",
-            "ambiente"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "It sounds like science fiction, but it is a real news story: some scientists have created edible biscuits starting from the plastic of bottles. The researchers use special microorganisms that eat PET plastic. From this process come proteins and vitamins. With these substances it is possible to prepare a safe food, similar to a normal biscuit.\n\nWhy is this research important? Every year the world produces millions of tonnes of plastic waste. Turning waste into food can help the environment and also the people who do not have enough to eat. Before arriving in the shops, however, the product must pass many safety checks. Scientists must show that these foods are not harmful to health. If all goes well, in the future this technology could become very useful.",
-        "resumen_es": "Sembra fantascienza, ma è una notizia vera: alcuni scienziati hanno creato biscotti commestibili a partire dalla plastica delle bottiglie. I ricercatori usano microrganismi speciali che mangiano la plastica PET. Da questo processo nascono proteine e vitamine. Con queste sostanze è possibile preparare un alimento sicuro, simile a un normale biscotto.\n\nPerché è importante questa ricerca? Ogni anno il mondo produce milioni di tonnellate di rifiuti di plastica. Trasformare i rifiuti in cibo può aiutare l'ambiente e anche le persone che non hanno abbastanza da mangiare. Prima di arrivare nei negozi, però, il prodotto deve superare molti controlli di sicurezza. Gli scienziati devono dimostrare che questi alimenti non fanno male alla salute. Se tutto va bene, in futuro questa tecnologia può diventare molto utile.",
-        "vocab": [
-          {
-            "front": "commestibile",
-            "pos": "adj",
-            "back": "edible",
-            "example": "Non tutti i funghi sono commestibili.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rifiuto",
-            "pos": "noun",
-            "back": "waste, rubbish",
-            "example": "Dobbiamo produrre meno rifiuti di plastica.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ambiente",
-            "pos": "noun",
-            "back": "environment",
-            "example": "Riciclare aiuta l'ambiente.",
-            "tier": "B1"
-          },
-          {
-            "front": "la ricerca",
-            "pos": "noun",
-            "back": "research",
-            "example": "La ricerca scientifica ha bisogno di tempo e soldi.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo scienziato",
-            "pos": "noun",
-            "back": "scientist",
-            "example": "Gli scienziati studiano il problema della plastica.",
-            "tier": "B1"
-          },
-          {
-            "front": "superare",
-            "pos": "verb",
-            "back": "to pass (a test), to overcome",
-            "example": "Il prodotto deve superare tutti i controlli.",
-            "tier": "B1"
-          },
-          {
-            "front": "dimostrare",
-            "pos": "verb",
-            "back": "to prove, to show",
-            "example": "Devono dimostrare che il cibo è sicuro.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare male a",
-            "pos": "phrase",
-            "back": "to be bad for, to harm",
-            "example": "Fumare fa male alla salute.",
-            "tier": "B1"
-          },
-          {
-            "front": "la salute",
-            "pos": "noun",
-            "back": "health",
-            "example": "Mangiare bene è importante per la salute.",
-            "tier": "B1"
-          },
-          {
-            "front": "a partire da",
-            "pos": "phrase",
-            "back": "starting from",
-            "example": "Fanno vestiti a partire da bottiglie riciclate.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sostanza",
-            "pos": "noun",
-            "back": "substance",
-            "example": "Queste sostanze sono naturali e sicure.",
-            "tier": "B1"
-          },
-          {
-            "front": "la fantascienza",
-            "pos": "noun",
-            "back": "science fiction",
-            "example": "Mi piacciono i film di fantascienza.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Sembra fantascienza, ma è una notizia vera: alcuni scienziati hanno creato biscotti commestibili a partire dalla plastica delle bottiglie.",
-            "point": "'Sembrare' + noun; passato prossimo with 'avere'",
-            "explanation": "'Sembra fantascienza' means 'it seems like science fiction'; no article is needed. 'Hanno creato' is the passato prossimo of 'creare', formed with 'avere' + past participle.",
-            "why_tricky": "English needs 'like' after 'seems' ('seems like science fiction'), but Italian goes directly from 'sembra' to the noun."
-          },
-          {
-            "sentence": "Prima di arrivare nei negozi, però, il prodotto deve superare molti controlli di sicurezza.",
-            "point": "'Prima di' + infinitive; modal 'dovere' + infinitive",
-            "explanation": "'Prima di' is followed by the infinitive: 'prima di arrivare' = 'before arriving'. 'Deve superare' uses the modal verb 'dovere' plus the infinitive to express obligation.",
-            "why_tricky": "Learners often try 'prima di arriva' or a full clause; with the same subject, Italian prefers 'prima di' + infinitive. 'Però' can move around in the sentence, unlike English 'but'."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare male alla salute",
-            "meaning": "to be bad for your health",
-            "example": "Troppo zucchero fa male alla salute."
-          },
-          {
-            "phrase": "se tutto va bene",
-            "meaning": "if all goes well",
-            "example": "Se tutto va bene, finiamo il progetto domani."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Come è possibile creare biscotti dalla plastica delle bottiglie?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa ricerca può essere importante per l'ambiente e per le persone?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa deve succedere prima che questi biscotti arrivino nei negozi?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Mangeresti un biscotto fatto a partire dalla plastica riciclata? Perché sì o perché no? Scrivi la tua opinione in circa 80 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-26-eclissi-luna",
-      "title": "Dopo l'eclissi di Sole arriva quella di Luna, spettacolo all'alba del 28 agosto",
-      "source": "ANSA",
-      "date": "2026-08-25",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "astronomia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-26-eclissi-luna",
-        "revision": 1,
-        "meta": {
-          "title": "Dopo l'eclissi di Sole arriva quella di Luna, spettacolo all'alba del 28 agosto",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/25/dopo-leclissi-di-sole-arriva-quella-di-luna-spettacolo-allalba-del-28-agosto_b648a6f5-3bcb-498a-86ac-f3532d6c6a89.html",
-          "date_published": "2026-08-25",
-          "date_processed": "2026-08-26",
-          "tags": [
-            "scienza",
-            "astronomia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "After the solar eclipse comes a lunar eclipse. The show is expected at dawn on 28 August. The Earth's shadow will cover about 90% of the Moon. Our satellite will turn red. It will be a special moment for anyone who loves watching the sky. No instruments are needed: it is enough to look towards the horizon, if the sky is clear.\n\nLunar eclipses happen when the Earth passes between the Sun and the Moon. Sunlight passes through the Earth's atmosphere and becomes red, like in a sunset. That is why the Moon looks red during the eclipse. Experts advise finding a dark place, far from the lights of the city. Even a simple camera can capture beautiful images of this natural phenomenon.",
-        "resumen_es": "Dopo l'eclissi di Sole, arriva l'eclissi di Luna. Lo spettacolo è previsto all'alba del 28 agosto. L'ombra della Terra coprirà circa il 90% della Luna. Il nostro satellite si colorerà di rosso. Sarà un momento speciale per chi ama guardare il cielo. Non servono strumenti: basta guardare verso l'orizzonte, se il cielo è sereno.\n\nLe eclissi di Luna succedono quando la Terra passa tra il Sole e la Luna. La luce del Sole attraversa l'atmosfera terrestre e diventa rossa, come in un tramonto. Per questo la Luna sembra rossa durante l'eclissi. Gli esperti consigliano di cercare un posto buio, lontano dalle luci della città. Anche una semplice macchina fotografica può catturare belle immagini di questo fenomeno naturale.",
-        "vocab": [
-          {
-            "front": "l'ombra",
-            "pos": "noun",
-            "back": "shadow",
-            "example": "L'ombra dell'albero copre il giardino.",
-            "tier": "B1"
-          },
-          {
-            "front": "coprire",
-            "pos": "verb",
-            "back": "to cover",
-            "example": "Le nuvole coprono il sole.",
-            "tier": "B1"
-          },
-          {
-            "front": "colorarsi",
-            "pos": "verb",
-            "back": "to turn (a colour)",
-            "example": "Il cielo si colora di rosso la sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'alba",
-            "pos": "noun",
-            "back": "dawn, sunrise",
-            "example": "Mi sveglio sempre prima dell'alba.",
-            "tier": "B1"
-          },
-          {
-            "front": "sereno",
-            "pos": "adj",
-            "back": "clear (sky), calm",
-            "example": "Domani il cielo sarà sereno.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'orizzonte",
-            "pos": "noun",
-            "back": "horizon",
-            "example": "Il sole scende sotto l'orizzonte.",
-            "tier": "B1"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross, to pass through",
-            "example": "La luce attraversa il vetro.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tramonto",
-            "pos": "noun",
-            "back": "sunset",
-            "example": "Il tramonto al mare è bellissimo.",
-            "tier": "A2"
-          },
-          {
-            "front": "consigliare",
-            "pos": "verb",
-            "back": "to advise, to recommend",
-            "example": "Ti consiglio questo ristorante.",
-            "tier": "A2"
-          },
-          {
-            "front": "buio",
-            "pos": "adj",
-            "back": "dark",
-            "example": "La strada era molto buia.",
-            "tier": "A2"
-          },
-          {
-            "front": "catturare",
-            "pos": "verb",
-            "back": "to capture",
-            "example": "La foto cattura un momento speciale.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fenomeno",
-            "pos": "noun",
-            "back": "phenomenon",
-            "example": "L'eclissi è un fenomeno naturale.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "L'ombra della Terra coprirà circa il 90% della Luna.",
-            "point": "futuro semplice for predictions",
-            "explanation": "Coprirà is the simple future of coprire: the shadow will cover. Italian uses the future for events that are certain to happen.",
-            "why_tricky": "Verbs ending in -ire like coprire form the future with -irò, -irai, -irà; learners often mix up the endings with -are verbs."
-          },
-          {
-            "sentence": "Non servono strumenti: basta guardare verso l'orizzonte, se il cielo è sereno.",
-            "point": "impersonal servire and bastare",
-            "explanation": "Servono agrees with strumenti (no instruments are needed). Basta + infinitive means 'it is enough to'.",
-            "why_tricky": "In Italian the thing needed is the grammatical subject, so the verb is plural: non servono strumenti, not 'non serve strumenti'."
-          },
-          {
-            "sentence": "Le eclissi di Luna succedono quando la Terra passa tra il Sole e la Luna.",
-            "point": "invariable nouns: l'eclissi / le eclissi",
-            "explanation": "Eclissi does not change in the plural; only the article shows the number: l'eclissi (singular), le eclissi (plural).",
-            "why_tricky": "Nouns ending in -i stay the same in the plural, so the article is the only clue to singular or plural."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "a occhio nudo",
-            "meaning": "with the naked eye",
-            "example": "L'eclissi si può vedere a occhio nudo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando sarà possibile vedere l'eclissi di Luna?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la Luna diventa rossa durante l'eclissi?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano gli esperti per vedere bene lo spettacolo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piace guardare il cielo di notte? Racconta un momento in cui hai visto qualcosa di speciale nel cielo, o che cosa vorresti vedere un giorno."
       }
     }
   ]
