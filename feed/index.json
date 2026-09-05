@@ -1,7 +1,504 @@
 {
-  "generated_at": "2026-09-04T19:09:23Z",
+  "generated_at": "2026-09-05T07:12:45Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-05-volkswagen-tagli",
+      "title": "Svolta Volkswagen: via libera al piano di risanamento del CdA, tagliati 50 mila posti di lavoro",
+      "source": "RaiNews",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "economia",
+        "lavoro"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-volkswagen-tagli",
+        "revision": 1,
+        "meta": {
+          "title": "Svolta Volkswagen: via libera al piano di risanamento del CdA, tagliati 50 mila posti di lavoro",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/09/svolta-volkswagen-via-libera-al-piano-di-risanamento-del-cda-tagliati-50-mila-posti-di-lavoro-14f354cd-f89f-472b-b573-a3e5c183b426.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "economia",
+            "lavoro"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Volkswagen has approved a big plan to save money. The supervisory board voted unanimously in favour of the reorganisation signed by the CEO, Oliver Blume. The plan cuts 50,000 jobs. It is a hard decision for the German company, one of the largest car makers in the world. In recent years Volkswagen has sold fewer cars and has spent a lot of money on electric models.\n\nThe agreement avoids an open conflict with the German government and the trade unions, who feared even more drastic decisions. However, the future of four historic factories remains uncertain. Workers are worried, because in some cities Volkswagen is the main employer. The company says it needs these changes to compete with Chinese producers. In the coming months, unions and managers will discuss how to apply the plan and how to help the people who will lose their jobs.",
+        "resumen_es": "Volkswagen ha approvato un grande piano per risparmiare soldi. Il Consiglio di Sorveglianza ha votato all'unanimità a favore della riorganizzazione firmata dal CEO, Oliver Blume. Il piano taglia 50 mila posti di lavoro. È una decisione dura per l'azienda tedesca, uno dei produttori di auto più grandi del mondo. Negli ultimi anni Volkswagen ha venduto meno auto e ha speso molti soldi per i modelli elettrici.\n\nL'accordo evita un conflitto aperto con il governo tedesco e con i sindacati, che temevano decisioni ancora più drastiche. Però il futuro di quattro fabbriche storiche resta incerto. I lavoratori sono preoccupati, perché in alcune città Volkswagen è il datore di lavoro principale. L'azienda dice che ha bisogno di questi cambiamenti per competere con i produttori cinesi. Nei prossimi mesi, sindacati e dirigenti discuteranno come applicare il piano e come aiutare le persone che perderanno il lavoro.",
+        "vocab": [
+          {
+            "front": "la svolta",
+            "pos": "noun",
+            "back": "turning point, breakthrough",
+            "example": "Questa decisione è una svolta per l'azienda.",
+            "tier": "B1"
+          },
+          {
+            "front": "il via libera",
+            "pos": "noun",
+            "back": "green light, go-ahead",
+            "example": "Il consiglio ha dato il via libera al piano.",
+            "tier": "B1"
+          },
+          {
+            "front": "risparmiare",
+            "pos": "verb",
+            "back": "to save (money)",
+            "example": "Vogliamo risparmiare soldi ogni mese.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'unanimità",
+            "pos": "phrase",
+            "back": "unanimously",
+            "example": "Hanno votato all'unanimità.",
+            "tier": "B1"
+          },
+          {
+            "front": "il posto di lavoro",
+            "pos": "noun",
+            "back": "job, position",
+            "example": "Ha trovato un nuovo posto di lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "tagliare",
+            "pos": "verb",
+            "back": "to cut",
+            "example": "L'azienda taglia molti posti di lavoro.",
+            "tier": "A2"
+          },
+          {
+            "front": "il sindacato",
+            "pos": "noun",
+            "back": "trade union",
+            "example": "I sindacati protestano contro i tagli.",
+            "tier": "B1"
+          },
+          {
+            "front": "temere",
+            "pos": "verb",
+            "back": "to fear",
+            "example": "I lavoratori temono di perdere il lavoro.",
+            "tier": "B1"
+          },
+          {
+            "front": "la fabbrica",
+            "pos": "noun",
+            "back": "factory",
+            "example": "La fabbrica è aperta da cento anni.",
+            "tier": "A2"
+          },
+          {
+            "front": "incerto",
+            "pos": "adj",
+            "back": "uncertain",
+            "example": "Il futuro della fabbrica è incerto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il datore di lavoro",
+            "pos": "noun",
+            "back": "employer",
+            "example": "Volkswagen è il datore di lavoro principale della città.",
+            "tier": "B1"
+          },
+          {
+            "front": "affrontare",
+            "pos": "verb",
+            "back": "to face, to deal with",
+            "example": "Dobbiamo affrontare questo problema insieme.",
+            "tier": "B1"
+          },
+          {
+            "front": "il dirigente",
+            "pos": "noun",
+            "back": "manager, executive",
+            "example": "I dirigenti parlano con i sindacati.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il piano taglia 50 mila posti di lavoro.",
+            "point": "Present tense for news facts",
+            "explanation": "Italian news often uses the simple present (taglia) to describe a decision that has just been taken. The verb tagliare is regular: taglio, tagli, taglia.",
+            "why_tricky": "English would say the plan cuts or will cut; learners sometimes overuse the future tense in Italian."
+          },
+          {
+            "sentence": "L'accordo evita un conflitto aperto con il governo tedesco e con i sindacati, che temevano decisioni ancora più drastiche.",
+            "point": "Imperfetto for a past state: temevano",
+            "explanation": "Temevano (imperfetto) describes what the unions were feeling over a period of time, not a single completed action. The imperfetto is used for feelings, states and background.",
+            "why_tricky": "English uses a simple past (feared) for both, so learners must choose between passato prossimo and imperfetto."
+          },
+          {
+            "sentence": "Nei prossimi mesi, sindacati e dirigenti discuteranno come applicare il piano e come aiutare le persone che perderanno il lavoro.",
+            "point": "Simple future: discuteranno, perderanno",
+            "explanation": "Regular future endings for -ere verbs: discutere becomes discuteranno, perdere becomes perderanno. The future is natural here because of the time phrase nei prossimi mesi.",
+            "why_tricky": "The double r and the stress on the ending (perderANNo) are easy to get wrong in speech and spelling."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "dare il via libera",
+            "meaning": "to give the green light",
+            "example": "Il direttore ha dato il via libera al progetto."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanti posti di lavoro taglia il piano di Volkswagen?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il governo e i sindacati sono più tranquilli dopo l'accordo?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa resta incerto per le quattro fabbriche storiche?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, un'azienda può tagliare molti posti di lavoro per restare competitiva? Scrivi 80-100 parole con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-como-genoa",
+      "title": "È un Como da sogno, 4-1 al Genoa e capolista per una notte",
+      "source": "ANSA",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "calcio",
+        "sport"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-como-genoa",
+        "revision": 1,
+        "meta": {
+          "title": "È un Como da sogno, 4-1 al Genoa e capolista per una notte",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/05/e-un-como-da-sogno-4-1-al-genoa-e-capolista-per-una-notte_e2438f13-e0c0-4a89-807e-fbe2c2887964.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "calcio",
+            "sport"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Como won 4-1 against Genoa on Friday evening in Serie A. The match was played in Genoa, at the Marassi stadium. Genoa scored first with a goal from Osmajic, but Como reacted immediately. Baturina equalised, then Paz scored the second goal and Diao scored twice. So Como is top of the table, at least for one night, because the other teams play on Saturday and Sunday.\n\nFor the fans of Como it is a dream start to the season. The club spent many years in the lower divisions and returned to Serie A recently. Now it has a young team and a coach who loves attacking football. Nobody knows if Como can stay at the top for a long time, because the big teams like Inter, Milan, Juventus and Napoli are very strong. But now the fans are celebrating.",
+        "resumen_es": "Il Como ha vinto 4-1 contro il Genoa venerdì sera in Serie A. La partita si è giocata a Genova, allo stadio di Marassi. Il Genoa ha segnato per primo con un gol di Osmajic, ma il Como ha reagito subito. Baturina ha pareggiato, poi Paz ha segnato il secondo gol e Diao ha fatto una doppietta. Così il Como è in testa alla classifica, almeno per una notte, perché le altre squadre giocano sabato e domenica.\n\nPer i tifosi del Como è un inizio di stagione da sogno. Il club ha passato molti anni nelle serie minori ed è tornato in Serie A di recente. Adesso ha una squadra giovane e un allenatore che ama il calcio offensivo. Nessuno sa se il Como può restare in alto per molto tempo, perché le grandi squadre come Inter, Milan, Juventus e Napoli sono molto forti. Ma ora i tifosi festeggiano.",
+        "vocab": [
+          {
+            "front": "da sogno",
+            "pos": "phrase",
+            "back": "dream (as adjective), fantastic",
+            "example": "È stata una serata da sogno.",
+            "tier": "A2"
+          },
+          {
+            "front": "il capolista",
+            "pos": "noun",
+            "back": "league leader, team at the top",
+            "example": "Il Como è capolista dopo la vittoria.",
+            "tier": "B1"
+          },
+          {
+            "front": "la partita",
+            "pos": "noun",
+            "back": "match, game",
+            "example": "La partita comincia alle 20:45.",
+            "tier": "A2"
+          },
+          {
+            "front": "segnare",
+            "pos": "verb",
+            "back": "to score",
+            "example": "Chi ha segnato il primo gol?",
+            "tier": "A2"
+          },
+          {
+            "front": "pareggiare",
+            "pos": "verb",
+            "back": "to equalise, to draw",
+            "example": "La squadra ha pareggiato al 30esimo minuto.",
+            "tier": "B1"
+          },
+          {
+            "front": "la doppietta",
+            "pos": "noun",
+            "back": "brace, two goals by the same player",
+            "example": "Diao ha fatto una doppietta.",
+            "tier": "B1"
+          },
+          {
+            "front": "in testa alla classifica",
+            "pos": "phrase",
+            "back": "top of the table",
+            "example": "Dopo tre partite siamo in testa alla classifica.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano tutta la partita.",
+            "tier": "A2"
+          },
+          {
+            "front": "la stagione",
+            "pos": "noun",
+            "back": "season",
+            "example": "La stagione è appena iniziata.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'allenatore",
+            "pos": "noun",
+            "back": "coach, manager",
+            "example": "L'allenatore parla con i giocatori.",
+            "tier": "A2"
+          },
+          {
+            "front": "di recente",
+            "pos": "phrase",
+            "back": "recently",
+            "example": "Il club è tornato in Serie A di recente.",
+            "tier": "B1"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Stasera festeggiamo la vittoria.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La partita si è giocata a Genova, allo stadio di Marassi.",
+            "point": "Passive si with essere in the passato prossimo",
+            "explanation": "Si è giocata means was played. With si passivante the auxiliary is always essere, and the participle agrees with the subject: la partita, so giocata.",
+            "why_tricky": "Learners often use avere (si ha giocato) or forget the feminine ending of the participle."
+          },
+          {
+            "sentence": "Il Genoa ha segnato per primo con un gol di Osmajic, ma il Como ha reagito subito.",
+            "point": "Definite article with football clubs",
+            "explanation": "Italian puts the article before team names: il Genoa, il Como, la Juventus, l'Inter. The gender follows the name or the word squadra.",
+            "why_tricky": "English never uses an article with club names, so learners drop it."
+          },
+          {
+            "sentence": "Nessuno sa se il Como può restare in alto per molto tempo, perché le grandi squadre come Inter, Milan, Juventus e Napoli sono molto forti.",
+            "point": "nessuno as subject: no double negative",
+            "explanation": "When nessuno comes before the verb, you do not add non: nessuno sa, not nessuno non sa. If it comes after, you need non: non lo sa nessuno.",
+            "why_tricky": "The rule about non depends on word order, which is different from English."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "da sogno",
+            "meaning": "like a dream, wonderful",
+            "example": "Abbiamo passato una vacanza da sogno in Sicilia."
+          },
+          {
+            "phrase": "per una notte",
+            "meaning": "for one night only, temporarily",
+            "example": "Il Como è primo per una notte."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Chi ha segnato il primo gol della partita?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il Como è primo solo per una notte?",
+            "type": "open"
+          },
+          {
+            "q": "Com'è la squadra del Como secondo l'articolo?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è la tua squadra del cuore, o quale sport ti piace guardare? Scrivi 80-100 parole e spiega perché."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-uruguay-aviaria",
+      "title": "Uruguay, nuova emergenza sanitaria per l'influenza aviaria",
+      "source": "RaiNews",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "salute",
+        "animali"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-uruguay-aviaria",
+        "revision": 1,
+        "meta": {
+          "title": "Uruguay, nuova emergenza sanitaria per l'influenza aviaria",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/09/uruguay-nuova-emergenza-sanitaria-per-linfluenza-aviaria-75d8cb38-f523-4db0-b892-c343b4406def.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "salute",
+            "animali"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Uruguay has declared a new health emergency because of avian flu. The authorities found an outbreak on small family farms in the department of Colonia, in the south-west of the country. To stop the virus, the government has introduced restrictive measures: limits on the transport of birds, a stop to fairs in the poultry sector and new rules for animals that live outdoors, such as free-range hens.\n\nAvian flu is a disease that spreads among birds, especially wild birds and farm animals. It is very dangerous for chickens and can cause big economic losses, because sick animals must be culled. Cases in humans are rare. Uruguay had already had an emergency some years ago, and now it wants to act quickly to protect its farms and its exports. Experts recommend keeping animals indoors and reporting any sick bird.",
+        "resumen_es": "L'Uruguay ha dichiarato una nuova emergenza sanitaria per l'influenza aviaria. Le autorità hanno trovato un focolaio in piccoli allevamenti familiari nel dipartimento di Colonia, nel sud-ovest del paese. Per fermare il virus, il governo ha introdotto misure restrittive: limiti al trasporto degli uccelli, stop alle fiere del settore e nuove regole per gli animali che vivono all'aperto, come le galline libere.\n\nL'influenza aviaria è una malattia che si diffonde tra gli uccelli, soprattutto uccelli selvatici e animali da allevamento. È molto pericolosa per i polli e può causare grandi perdite economiche, perché gli animali malati devono essere abbattuti. I casi negli esseri umani sono rari. L'Uruguay aveva già avuto un'emergenza alcuni anni fa, e adesso vuole agire in fretta per proteggere i suoi allevamenti e le sue esportazioni. Gli esperti consigliano di tenere gli animali al chiuso e di segnalare ogni uccello malato.",
+        "vocab": [
+          {
+            "front": "l'emergenza sanitaria",
+            "pos": "noun",
+            "back": "health emergency",
+            "example": "Il governo ha dichiarato un'emergenza sanitaria.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'influenza aviaria",
+            "pos": "noun",
+            "back": "avian flu, bird flu",
+            "example": "L'influenza aviaria colpisce soprattutto i polli.",
+            "tier": "B1"
+          },
+          {
+            "front": "il focolaio",
+            "pos": "noun",
+            "back": "outbreak (of disease)",
+            "example": "Hanno trovato un focolaio in una fattoria.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'allevamento",
+            "pos": "noun",
+            "back": "farm (for animals), livestock breeding",
+            "example": "In questo allevamento ci sono mille galline.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'uccello",
+            "pos": "noun",
+            "back": "bird",
+            "example": "Gli uccelli selvatici possono portare il virus.",
+            "tier": "A2"
+          },
+          {
+            "front": "la fiera",
+            "pos": "noun",
+            "back": "fair, trade show",
+            "example": "La fiera degli animali è stata cancellata.",
+            "tier": "A2"
+          },
+          {
+            "front": "all'aperto",
+            "pos": "phrase",
+            "back": "outdoors, in the open air",
+            "example": "Le galline vivono all'aperto.",
+            "tier": "A2"
+          },
+          {
+            "front": "la gallina",
+            "pos": "noun",
+            "back": "hen",
+            "example": "La gallina fa un uovo al giorno.",
+            "tier": "A2"
+          },
+          {
+            "front": "diffondersi",
+            "pos": "verb",
+            "back": "to spread",
+            "example": "Il virus si diffonde velocemente.",
+            "tier": "B1"
+          },
+          {
+            "front": "selvatico",
+            "pos": "adj",
+            "back": "wild (animal)",
+            "example": "Ho visto un animale selvatico nel bosco.",
+            "tier": "B1"
+          },
+          {
+            "front": "la perdita",
+            "pos": "noun",
+            "back": "loss",
+            "example": "La malattia causa grandi perdite agli allevatori.",
+            "tier": "B1"
+          },
+          {
+            "front": "in fretta",
+            "pos": "phrase",
+            "back": "quickly, in a hurry",
+            "example": "Dobbiamo agire in fretta.",
+            "tier": "A2"
+          },
+          {
+            "front": "al chiuso",
+            "pos": "phrase",
+            "back": "indoors",
+            "example": "Quando piove, i bambini giocano al chiuso.",
+            "tier": "A2"
+          },
+          {
+            "front": "segnalare",
+            "pos": "verb",
+            "back": "to report, to flag",
+            "example": "Bisogna segnalare ogni animale malato.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'influenza aviaria è una malattia che si diffonde tra gli uccelli, soprattutto uccelli selvatici e animali da allevamento.",
+            "point": "Reflexive verb diffondersi",
+            "explanation": "Diffondersi (to spread) is reflexive in Italian: il virus si diffonde. Without si, diffondere means to spread something (diffondere una notizia).",
+            "why_tricky": "English spread is the same word for both meanings, so learners forget the si."
+          },
+          {
+            "sentence": "È molto pericolosa per i polli e può causare grandi perdite economiche, perché gli animali malati devono essere abbattuti.",
+            "point": "dovere + essere + participle (passive with a modal)",
+            "explanation": "Devono essere abbattuti means must be culled. The modal dovere is followed by essere and the past participle, which agrees with the subject (gli animali, so abbattuti).",
+            "why_tricky": "The participle agreement is easy to forget, and abbattere is an irregular verb (abbattuto)."
+          },
+          {
+            "sentence": "L'Uruguay aveva già avuto un'emergenza alcuni anni fa, e adesso vuole agire in fretta per proteggere i suoi allevamenti e le sue esportazioni.",
+            "point": "Trapassato prossimo: aveva già avuto",
+            "explanation": "Aveva avuto (imperfetto of avere + participle) describes something that happened before another past moment. Già (already) often appears with this tense.",
+            "why_tricky": "English uses had already had, which sounds strange, so learners avoid the tense and use the passato prossimo instead."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in fretta",
+            "meaning": "quickly, in a rush",
+            "example": "Ho fatto colazione in fretta perché ero in ritardo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove hanno trovato il focolaio di influenza aviaria?",
+            "type": "open"
+          },
+          {
+            "q": "Quali misure ha introdotto il governo dell'Uruguay?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa consigliano gli esperti agli allevatori?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai mai vissuto in campagna o conosci qualcuno che ha animali? Scrivi 80-100 parole su come si vive vicino agli animali."
+      }
+    },
     {
       "pack_id": "feed-2026-09-04-parole-perse",
       "title": "Nel mondo si parla sempre meno, 338 parole in media perse ogni anno",
@@ -6091,506 +6588,6 @@
           }
         ],
         "opinion_prompt": "Che cosa fai tu per proteggere i tuoi dati personali online? Scrivi circa 100 parole con almeno tre esempi concreti."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-inflazione-tassi",
-      "title": "'Inflazione elevata', Warsh apre su rialzo tassi se non scende",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "inflazione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-inflazione-tassi",
-        "revision": 1,
-        "meta": {
-          "title": "'Inflazione elevata', Warsh apre su rialzo tassi se non scende",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/08/28/warsh-linflazione-e-elevata-e-preoccupante_256f97d0-77b8-4eac-9ab8-eda2685a23a1.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "economia",
-            "inflazione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The head of the American central bank has said that inflation is still too high. If prices do not come down in the coming months, the central bank could raise interest rates again. His words immediately had an effect on the financial markets, where many investors were hoping instead for a cut. The stated goal remains bringing inflation back to around two per cent.\n\nInterest rates matter to everyone, not just to banks. When they go up, loans and mortgages become more expensive and families spend less. When they come down, buying a house or starting a business costs less. This is why every statement from the central bank is followed very closely in Europe too, because American decisions influence the world economy. In the coming months the price figures will show which path is going to be chosen.",
-        "resumen_es": "Il capo della banca centrale americana ha detto che l'inflazione è ancora troppo alta. Se i prezzi non scendono nei prossimi mesi, la banca centrale potrebbe alzare di nuovo i tassi di interesse. Le sue parole hanno avuto subito un effetto sui mercati finanziari, dove molti investitori speravano invece in una riduzione. L'obiettivo dichiarato resta riportare l'inflazione intorno al due per cento.\n\nI tassi di interesse sono importanti per tutti, non solo per le banche. Quando salgono, i prestiti e i mutui diventano più cari e le famiglie spendono meno. Quando scendono, comprare una casa o aprire un'attività costa meno. Per questo ogni dichiarazione della banca centrale viene seguita con grande attenzione anche in Europa, perché le decisioni americane influenzano l'economia mondiale. Nei prossimi mesi i dati sui prezzi diranno quale strada sarà scelta.",
-        "vocab": [
-          {
-            "front": "l'inflazione",
-            "pos": "noun",
-            "back": "inflation",
-            "example": "L'inflazione è scesa al tre per cento.",
-            "tier": "B1"
-          },
-          {
-            "front": "elevato",
-            "pos": "adj",
-            "back": "high",
-            "example": "Il costo della vita è molto elevato.",
-            "tier": "B1"
-          },
-          {
-            "front": "il tasso di interesse",
-            "pos": "noun",
-            "back": "interest rate",
-            "example": "I tassi di interesse sono cambiati due volte.",
-            "tier": "B1"
-          },
-          {
-            "front": "alzare",
-            "pos": "verb",
-            "back": "to raise",
-            "example": "Hanno alzato i prezzi del biglietto.",
-            "tier": "A2"
-          },
-          {
-            "front": "scendere",
-            "pos": "verb",
-            "back": "to go down, to fall",
-            "example": "La temperatura scende di notte.",
-            "tier": "A2"
-          },
-          {
-            "front": "il mercato finanziario",
-            "pos": "noun",
-            "back": "financial market",
-            "example": "I mercati finanziari sono nervosi.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'investitore",
-            "pos": "noun",
-            "back": "investor",
-            "example": "Gli investitori aspettano i nuovi dati.",
-            "tier": "B2"
-          },
-          {
-            "front": "la riduzione",
-            "pos": "noun",
-            "back": "cut, reduction",
-            "example": "Chiedono una riduzione delle tasse.",
-            "tier": "B1"
-          },
-          {
-            "front": "il prestito",
-            "pos": "noun",
-            "back": "loan",
-            "example": "Ha chiesto un prestito alla banca.",
-            "tier": "B1"
-          },
-          {
-            "front": "il mutuo",
-            "pos": "noun",
-            "back": "mortgage",
-            "example": "Paghiamo il mutuo da dieci anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "caro",
-            "pos": "adj",
-            "back": "expensive",
-            "example": "Questo ristorante è troppo caro.",
-            "tier": "A2"
-          },
-          {
-            "front": "aprire un'attività",
-            "pos": "phrase",
-            "back": "to start a business",
-            "example": "Vuole aprire un'attività in centro.",
-            "tier": "B1"
-          },
-          {
-            "front": "influenzare",
-            "pos": "verb",
-            "back": "to influence, to affect",
-            "example": "Il meteo influenza il turismo.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Se i prezzi non scendono nei prossimi mesi, la banca centrale potrebbe alzare di nuovo i tassi di interesse.",
-            "point": "Periodo ipotetico della realtà with a conditional result",
-            "explanation": "After se, Italian keeps the present indicative scendono. The consequence can take the present, the future, or as here the conditional potrebbe when the outcome is presented as merely possible.",
-            "why_tricky": "Learners put the conditional in the se clause, writing se scenderebbero, which is a clear error in Italian."
-          },
-          {
-            "sentence": "Per questo ogni dichiarazione della banca centrale viene seguita con grande attenzione anche in Europa, perché le decisioni americane influenzano l'economia mondiale.",
-            "point": "Passive with venire",
-            "explanation": "Italian forms the passive with essere or with venire. Venire seguita stresses the ongoing process rather than the resulting state, and the participle still agrees with dichiarazione.",
-            "why_tricky": "Venire normally means 'to come', so learners do not recognise it as a passive auxiliary and mistranslate the sentence."
-          },
-          {
-            "sentence": "Quando salgono, i prestiti e i mutui diventano più cari e le famiglie spendono meno.",
-            "point": "Comparatives with piu and meno",
-            "explanation": "Piu caro is the comparative of the adjective and agrees with the plural noun: piu cari. Meno after a verb is an adverb and never changes form.",
-            "why_tricky": "Learners either leave the adjective invariable or wrongly make the adverb agree with the subject."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "di nuovo",
-            "meaning": "again",
-            "example": "Ha piovuto di nuovo tutto il giorno."
-          },
-          {
-            "phrase": "seguire con attenzione",
-            "meaning": "to follow closely",
-            "example": "Seguo con attenzione le notizie economiche."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha detto il capo della banca centrale americana sull'inflazione?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa succede alle famiglie quando i tassi di interesse salgono?",
-            "type": "open"
-          },
-          {
-            "q": "Perché in Europa si seguono con attenzione le decisioni americane?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Come cambia la tua vita quotidiana quando i prezzi salgono? Scrivi circa 100 parole con esempi concreti."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-us-space-academy",
-      "title": "Trump lancia la Us Space Academy, la West Point dello spazio",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "spazio",
-        "istruzione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-us-space-academy",
-        "revision": 1,
-        "meta": {
-          "title": "Trump lancia la Us Space Academy, la West Point dello spazio",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/trump-lancia-la-us-space-academy-la-west-point-dello-spazio_1e05cdd7-5bda-4187-b8d0-f83ef58ca36a.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "spazio",
-            "istruzione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The president of the United States has announced the creation of the US Space Academy, a new military school dedicated to space. The idea is to train the future officers of the Space Force, just as already happens at West Point for the army. Several astronauts were present at the launch ceremony, among them the Italian Luca Parmitano.\n\nThe project shows how important space has become from a military point of view as well. Today satellites are used for communications, for navigation and for monitoring territory, so protecting them is considered strategic. Some experts, however, fear a new space race between the great powers and are calling for clearer international rules. The school should open in the next few years, but a lot of funding and a decision by Congress are still needed before it can take in its first students.",
-        "resumen_es": "Il presidente degli Stati Uniti ha annunciato la nascita della Us Space Academy, una nuova scuola militare dedicata allo spazio. L'idea è di formare i futuri ufficiali della Space Force, come già succede a West Point per l'esercito. Alla cerimonia di presentazione erano presenti diversi astronauti, tra cui l'italiano Luca Parmitano.\n\nIl progetto mostra quanto lo spazio sia diventato importante anche dal punto di vista militare. Oggi i satelliti servono per le comunicazioni, per la navigazione e per il controllo del territorio, quindi proteggerli è considerato strategico. Alcuni esperti però temono una nuova corsa allo spazio tra le grandi potenze e chiedono regole internazionali più chiare. La scuola dovrebbe aprire nei prossimi anni, ma servono ancora molti fondi e una decisione del Congresso prima di poter accogliere i primi studenti.",
-        "vocab": [
-          {
-            "front": "la nascita",
-            "pos": "noun",
-            "back": "birth, creation",
-            "example": "La nascita del progetto risale al 2020.",
-            "tier": "B1"
-          },
-          {
-            "front": "dedicato a",
-            "pos": "adj",
-            "back": "dedicated to",
-            "example": "È un museo dedicato alla musica.",
-            "tier": "A2"
-          },
-          {
-            "front": "formare",
-            "pos": "verb",
-            "back": "to train, to educate",
-            "example": "La scuola forma giovani infermieri.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'ufficiale",
-            "pos": "noun",
-            "back": "officer",
-            "example": "Suo padre era un ufficiale della marina.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'esercito",
-            "pos": "noun",
-            "back": "army",
-            "example": "Ha lavorato nell'esercito per dieci anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "il satellite",
-            "pos": "noun",
-            "back": "satellite",
-            "example": "Il satellite invia immagini ogni ora.",
-            "tier": "B1"
-          },
-          {
-            "front": "servire per",
-            "pos": "verb",
-            "back": "to be used for",
-            "example": "Questa chiave serve per aprire il garage.",
-            "tier": "A2"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Dobbiamo proteggere i nostri dati.",
-            "tier": "B1"
-          },
-          {
-            "front": "temere",
-            "pos": "verb",
-            "back": "to fear",
-            "example": "Temo che sia troppo tardi.",
-            "tier": "B1"
-          },
-          {
-            "front": "la corsa allo spazio",
-            "pos": "phrase",
-            "back": "space race",
-            "example": "La corsa allo spazio è ricominciata.",
-            "tier": "B1"
-          },
-          {
-            "front": "la potenza",
-            "pos": "noun",
-            "back": "power (a powerful country)",
-            "example": "La Cina è una grande potenza economica.",
-            "tier": "B1"
-          },
-          {
-            "front": "i fondi",
-            "pos": "noun",
-            "back": "funds, funding",
-            "example": "Mancano i fondi per finire i lavori.",
-            "tier": "B1"
-          },
-          {
-            "front": "accogliere",
-            "pos": "verb",
-            "back": "to welcome, to take in",
-            "example": "La scuola accoglie duecento studenti.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il progetto mostra quanto lo spazio sia diventato importante anche dal punto di vista militare.",
-            "point": "Congiuntivo passato with essere",
-            "explanation": "Sia diventato is the past subjunctive of diventare, which takes essere as its auxiliary, so the participle agrees with the subject lo spazio and stays masculine singular.",
-            "why_tricky": "Learners use avere with diventare, or forget the agreement, writing sia diventata after a masculine subject."
-          },
-          {
-            "sentence": "Alcuni esperti però temono una nuova corsa allo spazio tra le grandi potenze e chiedono regole internazionali più chiare.",
-            "point": "Position of però inside the sentence",
-            "explanation": "Unlike English 'however', pero often sits after the subject rather than at the head of the sentence. This gives a softer, more natural rhythm in written Italian.",
-            "why_tricky": "Learners always place it first, which is possible but sounds heavier and more repetitive across a text."
-          },
-          {
-            "sentence": "La scuola dovrebbe aprire nei prossimi anni, ma servono ancora molti fondi e una decisione del Congresso prima di poter accogliere i primi studenti.",
-            "point": "Condizionale dovrebbe for expectation, and prima di + infinito",
-            "explanation": "Dovrebbe here does not mean obligation but expectation: 'it is expected to open'. Prima di takes the infinitive when the subject is the same, and poter loses its final e before another infinitive.",
-            "why_tricky": "The two uses of dovere are easy to confuse, and learners write prima che with the subjunctive even when the subject does not change."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "dal punto di vista",
-            "meaning": "from the point of view of",
-            "example": "Dal punto di vista economico, la scelta è rischiosa."
-          },
-          {
-            "phrase": "tra cui",
-            "meaning": "among them, including",
-            "example": "Sono venuti in venti, tra cui due colleghi tedeschi."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa è la Us Space Academy e a che cosa serve?",
-            "type": "open"
-          },
-          {
-            "q": "Perché oggi i satelliti sono considerati strategici?",
-            "type": "open"
-          },
-          {
-            "q": "Quali dubbi esprimono alcuni esperti sul progetto?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te è giusto spendere molti soldi per lo spazio quando ci sono problemi sulla Terra? Scrivi circa 100 parole."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-28-coyote-vs-acme",
-      "title": "Arriva il redivivo Coyote vs Acme , tra commedia, ironia a Looney Tunes",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "cinema",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-28-coyote-vs-acme",
-        "revision": 1,
-        "meta": {
-          "title": "Arriva il redivivo Coyote vs Acme , tra commedia, ironia a Looney Tunes",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/27/arriva-il-redivivo-coyote-vs-acme-tra-commedia-ironia-a-looney-tunes_30c4aeb1-1823-4174-9058-50cd805ff386.html",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-28",
-          "tags": [
-            "cinema",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "After years of waiting, Coyote vs Acme is arriving in Italian cinemas, the film devoted to the famous coyote from the Looney Tunes. The director is Dave Green and the Italian release is set for 2 September. The film combines animation and live action. The story is simple and funny: the coyote decides to take the Acme company to court, the one that has always sold him traps that do not work.\n\nThe project has had a complicated history. The film had been finished, but for a long time it had not reached cinemas, and many people thought it would never come out. In the end it was saved and now audiences will be able to see it. For fans of cartoons this is a small victory. The tone is still the classic one: irony, quick gags and a character who never gives up, not even in front of a judge.",
-        "resumen_es": "Dopo anni di attesa arriva nei cinema italiani Coyote vs Acme, il film dedicato al celebre coyote dei Looney Tunes. Il regista è Dave Green e l'uscita in Italia è fissata per il 2 settembre. Il film unisce animazione e riprese dal vero. La storia è semplice e divertente: il coyote decide di portare in tribunale l'azienda Acme, quella che gli vende da sempre trappole che non funzionano.\n\nIl progetto ha avuto una storia complicata. Il film era stato completato, ma per molto tempo non era arrivato nelle sale, e molti pensavano che non sarebbe mai uscito. Alla fine è stato salvato e ora il pubblico potrà vederlo. Per gli appassionati dei cartoni animati è una piccola vittoria. Il tono resta quello classico: ironia, gag rapide e un personaggio che non si arrende mai, nemmeno davanti a un giudice.",
-        "vocab": [
-          {
-            "front": "l'attesa",
-            "pos": "noun",
-            "back": "the wait",
-            "example": "Dopo una lunga attesa il film è uscito.",
-            "tier": "B1"
-          },
-          {
-            "front": "il regista",
-            "pos": "noun",
-            "back": "film director",
-            "example": "Il regista ha presentato il film a Roma.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'uscita",
-            "pos": "noun",
-            "back": "release (of a film), exit",
-            "example": "L'uscita del film è prevista per settembre.",
-            "tier": "B1"
-          },
-          {
-            "front": "le riprese dal vero",
-            "pos": "phrase",
-            "back": "live action footage",
-            "example": "Il film alterna disegni e riprese dal vero.",
-            "tier": "B1"
-          },
-          {
-            "front": "portare in tribunale",
-            "pos": "phrase",
-            "back": "to take to court",
-            "example": "Ha deciso di portare in tribunale l'azienda.",
-            "tier": "B1"
-          },
-          {
-            "front": "la trappola",
-            "pos": "noun",
-            "back": "trap",
-            "example": "La trappola non funziona mai come dovrebbe.",
-            "tier": "B1"
-          },
-          {
-            "front": "la sala (cinematografica)",
-            "pos": "noun",
-            "back": "cinema screen, auditorium",
-            "example": "Il film è arrivato in sala il mese scorso.",
-            "tier": "B1"
-          },
-          {
-            "front": "il cartone animato",
-            "pos": "noun",
-            "back": "cartoon",
-            "example": "Da bambino guardavo i cartoni animati ogni giorno.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'appassionato",
-            "pos": "noun",
-            "back": "fan, enthusiast",
-            "example": "Gli appassionati aspettavano questo film da anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "arrendersi",
-            "pos": "verb",
-            "back": "to give up, to surrender",
-            "example": "Non si arrende mai, anche quando perde.",
-            "tier": "B1"
-          },
-          {
-            "front": "nemmeno",
-            "pos": "adv",
-            "back": "not even",
-            "example": "Non ha detto nemmeno una parola.",
-            "tier": "A2"
-          },
-          {
-            "front": "divertente",
-            "pos": "adj",
-            "back": "funny, entertaining",
-            "example": "È una storia semplice ma molto divertente.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il regista è Dave Green e l'uscita in Italia è fissata per il 2 settembre.",
-            "point": "passive with essere plus past participle",
-            "explanation": "È fissata is a passive form: someone has fixed the date. The participle agrees with the subject, so uscita (feminine singular) gives fissata.",
-            "why_tricky": "Learners forget the agreement and write è fissato, or they use viene fissata when the focus is on the state, not the action."
-          },
-          {
-            "sentence": "La storia è semplice e divertente: il coyote decide di portare in tribunale l'azienda Acme, quella che gli vende da sempre trappole che non funzionano.",
-            "point": "decidere di + infinito, and the indirect pronoun gli",
-            "explanation": "Decidere always takes di before an infinitive. Gli here means to him, referring to the coyote, and it goes before the conjugated verb vende.",
-            "why_tricky": "Learners drop the di or use a, and they confuse gli (to him) with lo (him as direct object)."
-          },
-          {
-            "sentence": "Il film era stato completato, ma per molto tempo non era arrivato nelle sale, e molti pensavano che non sarebbe mai uscito.",
-            "point": "trapassato prossimo and the future in the past",
-            "explanation": "Era stato completato and era arrivato describe events earlier than another past moment. After a past verb like pensavano, Italian expresses a future idea with the condizionale passato: sarebbe uscito.",
-            "why_tricky": "English uses would come out, so learners try sarebbe esce or the simple conditional uscirebbe, which is wrong after a past main verb."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "da sempre",
-            "meaning": "always, from the very beginning",
-            "example": "Abitano in questo quartiere da sempre."
-          },
-          {
-            "phrase": "alla fine",
-            "meaning": "in the end, eventually",
-            "example": "Alla fine abbiamo deciso di restare a casa."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando esce il film in Italia e chi lo ha diretto?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il coyote decide di portare in tribunale l'azienda Acme?",
-            "type": "open"
-          },
-          {
-            "q": "Perché il progetto del film ha avuto una storia complicata?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Ti piacciono i cartoni animati classici come i Looney Tunes? Scrivi otto o dieci frasi e spiega quale personaggio preferisci e perché."
       }
     }
   ]
