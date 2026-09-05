@@ -1,7 +1,521 @@
 {
-  "generated_at": "2026-09-05T07:12:45Z",
+  "generated_at": "2026-09-05T19:11:58Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-05-barbie-whitney-marilyn",
+      "title": "Barbie rende omaggio a Whitney Houston e a Marylin Monroe",
+      "source": "ANSA",
+      "date": "2026-09-03",
+      "level": "A2-B1",
+      "topics": [
+        "cultura",
+        "giocattoli"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-barbie-whitney-marilyn",
+        "revision": 1,
+        "meta": {
+          "title": "Barbie rende omaggio a Whitney Houston e a Marylin Monroe",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/09/03/barbie-rende-omaggio-a-whitney-houston-e-a-marylin-monroe_75543e68-6f18-43ad-92c2-551fe26eaab7.html",
+          "date_published": "2026-09-03",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "cultura",
+            "giocattoli"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Barbie pays tribute to two great American icons: the singer Whitney Houston and the actress Marilyn Monroe. Mattel has presented two new dolls from the Signature series, the line dedicated to collectors. The dolls reproduce the two stars' most famous outfits and hairstyles. Whitney Houston is remembered for her extraordinary voice and for songs such as \"I Will Always Love You\". Marilyn Monroe is still today the symbol of Hollywood in the 1950s.\n\nIt is not the first time that Barbie has celebrated famous people. Mattel has already created dolls inspired by singers, actresses, scientists and sportswomen. The aim is to tell the stories of women who have left a mark on culture. These special editions are much sought after and sometimes cost a lot. For Mattel they are also a way of speaking to an adult audience, which buys Barbie not to play but to remember a piece of its own history.",
+        "resumen_es": "Barbie rende omaggio a due grandi icone americane: la cantante Whitney Houston e l'attrice Marilyn Monroe. Mattel ha presentato due nuove bambole della serie Signature, la linea dedicata ai collezionisti. Le bambole riproducono i vestiti e le acconciature più famose delle due star. Whitney Houston è ricordata per la sua voce straordinaria e per canzoni come \"I Will Always Love You\". Marilyn Monroe è ancora oggi il simbolo di Hollywood negli anni Cinquanta.\n\nNon è la prima volta che Barbie celebra personaggi famosi. Mattel ha già creato bambole ispirate a cantanti, attrici, scienziate e sportive. L'obiettivo è raccontare storie di donne che hanno lasciato un segno nella cultura. Queste edizioni speciali sono molto ricercate e a volte costano molto. Per Mattel sono anche un modo per parlare a un pubblico adulto, che compra Barbie non per giocare ma per ricordare un pezzo della propria storia.",
+        "vocab": [
+          {
+            "front": "rendere omaggio a",
+            "pos": "phrase",
+            "back": "to pay tribute to",
+            "example": "Il concerto rende omaggio a un grande musicista.",
+            "tier": "B1"
+          },
+          {
+            "front": "la bambola",
+            "pos": "noun",
+            "back": "doll",
+            "example": "Mia figlia gioca con la bambola.",
+            "tier": "A2"
+          },
+          {
+            "front": "il collezionista",
+            "pos": "noun",
+            "back": "collector",
+            "example": "I collezionisti cercano pezzi rari.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'acconciatura",
+            "pos": "noun",
+            "back": "hairstyle",
+            "example": "Ha cambiato acconciatura per la festa.",
+            "tier": "B1"
+          },
+          {
+            "front": "riprodurre",
+            "pos": "verb",
+            "back": "to reproduce, to copy",
+            "example": "La bambola riproduce il vestito del film.",
+            "tier": "B1"
+          },
+          {
+            "front": "ricordare",
+            "pos": "verb",
+            "back": "to remember",
+            "example": "Ricordo bene quella canzone.",
+            "tier": "A2"
+          },
+          {
+            "front": "il simbolo",
+            "pos": "noun",
+            "back": "symbol",
+            "example": "La Vespa è un simbolo dell'Italia.",
+            "tier": "A2"
+          },
+          {
+            "front": "gli anni Cinquanta",
+            "pos": "phrase",
+            "back": "the fifties",
+            "example": "Questa musica viene dagli anni Cinquanta.",
+            "tier": "A2"
+          },
+          {
+            "front": "ispirato a",
+            "pos": "adj",
+            "back": "inspired by",
+            "example": "Un film ispirato a una storia vera.",
+            "tier": "B1"
+          },
+          {
+            "front": "lasciare un segno",
+            "pos": "phrase",
+            "back": "to leave a mark",
+            "example": "Quel professore ha lasciato un segno nella mia vita.",
+            "tier": "B1"
+          },
+          {
+            "front": "ricercato",
+            "pos": "adj",
+            "back": "sought after, in demand",
+            "example": "È un modello molto ricercato.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico ha applaudito a lungo.",
+            "tier": "A2"
+          },
+          {
+            "front": "proprio",
+            "pos": "adj",
+            "back": "one's own",
+            "example": "Ognuno racconta la propria storia.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Whitney Houston è ricordata per la sua voce straordinaria e per canzoni come \"I Will Always Love You\".",
+            "point": "Passivo con 'essere' + participio",
+            "explanation": "'È ricordata' is a passive form: essere + past participle. The participle agrees with the subject (Whitney, feminine): ricordata.",
+            "why_tricky": "English 'is remembered' does not change form; in Italian the participle must agree in gender and number with the subject."
+          },
+          {
+            "sentence": "Non è la prima volta che Barbie celebra personaggi famosi.",
+            "point": "'Non è la prima volta che' + indicativo",
+            "explanation": "This common expression introduces a clause in the present indicative: 'it is not the first time that Barbie celebrates'.",
+            "why_tricky": "In English the present perfect is natural ('has celebrated'); in Italian the simple present is used after 'la prima volta che' when the action is a habit."
+          },
+          {
+            "sentence": "Per Mattel sono anche un modo per parlare a un pubblico adulto, che compra Barbie non per giocare ma per ricordare un pezzo della propria storia.",
+            "point": "'Non per ... ma per' e 'proprio'",
+            "explanation": "'Non per giocare ma per ricordare' contrasts two purposes. 'Proprio' means 'one's own' and agrees with the noun: la propria storia.",
+            "why_tricky": "'Proprio' is used instead of 'suo' when the owner is the subject of the sentence (il pubblico), which makes the meaning clearer."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un pezzo della propria storia",
+            "meaning": "a piece of one's own history or past",
+            "example": "Quel disco è un pezzo della mia storia."
+          },
+          {
+            "phrase": "ancora oggi",
+            "meaning": "still today, even now",
+            "example": "Ancora oggi molte persone guardano i suoi film."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "A chi rende omaggio Barbie con le due nuove bambole?",
+            "type": "open"
+          },
+          {
+            "q": "Perché Whitney Houston e Marilyn Monroe sono famose?",
+            "type": "open"
+          },
+          {
+            "q": "Chi compra queste edizioni speciali e perché?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Se potessi creare una Barbie ispirata a una persona famosa, chi sceglieresti e perché? Scrivi circa 80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-multa-rfi-chiodo",
+      "title": "Multa da 1,75 milioni a Rfi per 'il chiodo' a Roma Termini",
+      "source": "ANSA",
+      "date": "2026-09-04",
+      "level": "A2-B1",
+      "topics": [
+        "trasporti",
+        "treni"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-multa-rfi-chiodo",
+        "revision": 1,
+        "meta": {
+          "title": "Multa da 1,75 milioni a Rfi per 'il chiodo' a Roma Termini",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/04/autorita-trasporti-multa-da-175-milioni-a-rfi-per-il-caos-dei-treni_101f5722-be7c-4e31-b9e1-a7c33ba1ca8f.html",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "trasporti",
+            "treni"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "The Transport Regulation Authority has fined Rfi, the company that manages the Italian railway network, 1.75 million euros. The reason is the train chaos caused by \"a nail\" at Rome Termini. During some works, a nail had damaged a cable and traffic stopped for hours, with delays across Italy. For the Authority it was serious negligence that harmed the right to mobility.\n\nRfi does not agree. The company says the damage was caused by an external firm that was working on its behalf, and so the fault is not its own. The case is famous because it shows how fragile the railway system is: a small mistake is enough to stop thousands of people. Delays are a hot topic, especially for commuters. The fine is a signal: whoever runs a public service must check the works more carefully.",
+        "resumen_es": "L'Autorità di regolazione dei trasporti ha multato per 1,75 milioni di euro Rfi, la società che gestisce la rete ferroviaria italiana. Il motivo è il caos dei treni causato da \"un chiodo\" a Roma Termini. Durante alcuni lavori, un chiodo aveva danneggiato un cavo e la circolazione si era fermata per ore, con ritardi in tutta Italia. Per l'Autorità è stata una negligenza grave che ha leso il diritto alla mobilità.\n\nRfi non è d'accordo. La società dice che il danno è stato causato da un'azienda esterna che lavorava per conto suo, e quindi la colpa non è sua. Il caso è famoso perché mostra quanto è fragile il sistema ferroviario: basta un piccolo errore per fermare migliaia di persone. I ritardi sono un tema caldo, soprattutto per i pendolari. La multa è un segnale: chi gestisce un servizio pubblico deve controllare meglio i lavori.",
+        "vocab": [
+          {
+            "front": "la multa",
+            "pos": "noun",
+            "back": "fine",
+            "example": "Ho preso una multa per divieto di sosta.",
+            "tier": "A2"
+          },
+          {
+            "front": "gestire",
+            "pos": "verb",
+            "back": "to manage, to run",
+            "example": "Mia zia gestisce un piccolo hotel.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rete ferroviaria",
+            "pos": "noun",
+            "back": "railway network",
+            "example": "La rete ferroviaria italiana è molto grande.",
+            "tier": "B1"
+          },
+          {
+            "front": "il chiodo",
+            "pos": "noun",
+            "back": "nail (metal)",
+            "example": "Ho messo un chiodo nel muro per il quadro.",
+            "tier": "A2"
+          },
+          {
+            "front": "danneggiare",
+            "pos": "verb",
+            "back": "to damage",
+            "example": "La pioggia ha danneggiato il tetto.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cavo",
+            "pos": "noun",
+            "back": "cable",
+            "example": "Il cavo del telefono è rotto.",
+            "tier": "A2"
+          },
+          {
+            "front": "la circolazione",
+            "pos": "noun",
+            "back": "traffic, circulation",
+            "example": "La circolazione dei treni è ferma.",
+            "tier": "B1"
+          },
+          {
+            "front": "il ritardo",
+            "pos": "noun",
+            "back": "delay",
+            "example": "Il treno ha venti minuti di ritardo.",
+            "tier": "A2"
+          },
+          {
+            "front": "la negligenza",
+            "pos": "noun",
+            "back": "negligence, carelessness",
+            "example": "L'incidente è stato causato da negligenza.",
+            "tier": "B1"
+          },
+          {
+            "front": "la colpa",
+            "pos": "noun",
+            "back": "fault, blame",
+            "example": "Non è colpa mia!",
+            "tier": "A2"
+          },
+          {
+            "front": "fragile",
+            "pos": "adj",
+            "back": "fragile",
+            "example": "Attenzione, il pacco è fragile.",
+            "tier": "A2"
+          },
+          {
+            "front": "il pendolare",
+            "pos": "noun",
+            "back": "commuter",
+            "example": "Ogni mattina i pendolari prendono il treno per Milano.",
+            "tier": "B1"
+          },
+          {
+            "front": "il segnale",
+            "pos": "noun",
+            "back": "signal, sign",
+            "example": "La multa è un segnale chiaro.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Durante alcuni lavori, un chiodo aveva danneggiato un cavo e la circolazione si era fermata per ore, con ritardi in tutta Italia.",
+            "point": "Trapassato prossimo",
+            "explanation": "'Aveva danneggiato' and 'si era fermata' describe actions that happened before the fine, so Italian uses the trapassato prossimo: imperfetto of avere/essere + past participle.",
+            "why_tricky": "'Fermarsi' is reflexive, so it takes 'essere' and the participle agrees with 'la circolazione': si era fermata."
+          },
+          {
+            "sentence": "La società dice che il danno è stato causato da un'azienda esterna che lavorava per conto suo, e quindi la colpa non è sua.",
+            "point": "Passivo al passato prossimo e 'per conto di'",
+            "explanation": "'È stato causato da' is a passive in the passato prossimo: essere + stato + participle. 'Per conto suo' means 'on its behalf'.",
+            "why_tricky": "In the passive, 'da' introduces the agent (by): causato da un'azienda. Learners often write 'per' or 'di' instead."
+          },
+          {
+            "sentence": "Il caso è famoso perché mostra quanto è fragile il sistema ferroviario: basta un piccolo errore per fermare migliaia di persone.",
+            "point": "'Basta ... per' + infinito",
+            "explanation": "'Basta un piccolo errore per fermare' means 'a small mistake is enough to stop'. 'Basta' is impersonal and is followed by 'per' + infinitive.",
+            "why_tricky": "'Basta' does not take a subject like English 'it'; the thing that is enough comes after the verb (basta un errore)."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "per conto di",
+            "meaning": "on behalf of",
+            "example": "Lavoro per conto di una ditta straniera."
+          },
+          {
+            "phrase": "essere d'accordo con",
+            "meaning": "to agree with",
+            "example": "Non sono d'accordo con te."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Perché l'Autorità dei trasporti ha dato una multa a Rfi?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa era successo alla stazione di Roma Termini?",
+            "type": "open"
+          },
+          {
+            "q": "Come risponde Rfi alla multa?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Prendi spesso il treno? Racconta un viaggio in treno con un problema (ritardo, cancellazione) e come hai reagito. Scrivi circa 80 parole."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-05-back-to-school-blues",
+      "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+      "source": "ANSA",
+      "date": "2026-09-04",
+      "level": "A2-B1",
+      "topics": [
+        "scuola",
+        "salute"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-05-back-to-school-blues",
+        "revision": 1,
+        "meta": {
+          "title": "Con la prima campanella rischio 'back to school blues', la malinconia da rientro",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/04/con-la-prima-campanella-rischio-back-to-school-blues-la-malinconia-da-rientro_f0ce6d4a-6df1-4643-a195-bad04580e6cb.html",
+          "date_published": "2026-09-04",
+          "date_processed": "2026-09-05",
+          "tags": [
+            "scuola",
+            "salute"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In a few days the first bell will ring and millions of students go back to class. But for many kids the return also brings a little sadness. The experts of the Italian National Institute of Health call it the \"back to school blues\", the melancholy of going back. After the long summer holidays, changing rhythm is not easy: you sleep less, you sit for hours and you find homework and oral tests again. Some children become nervous, others sleep badly or do not feel like eating.\n\nThe Institute gives some simple advice. Rest is needed: better to return to regular hours a few days before lessons. Then diet matters: balanced meals and a good breakfast. Finally, parents must not pass their own anxieties on to their children: if mum or dad are worried, the child feels it immediately. Talking calmly about school and classmates helps to experience the return as a normal thing.",
+        "resumen_es": "Tra pochi giorni suona la prima campanella e milioni di studenti tornano in classe. Ma per molti ragazzi il rientro porta anche un po' di tristezza. Gli esperti dell'Istituto superiore di sanità la chiamano \"back to school blues\", la malinconia da rientro. Dopo le lunghe vacanze estive, cambiare ritmo non è facile: si dorme meno, si sta seduti per ore e si ritrovano compiti e interrogazioni. Alcuni bambini diventano nervosi, altri dormono male o non hanno voglia di mangiare.\n\nL'Istituto dà alcuni consigli semplici. Serve riposo: meglio tornare a orari regolari qualche giorno prima delle lezioni. Poi conta la dieta: pasti equilibrati e una buona colazione. Infine, i genitori non devono trasmettere le proprie ansie ai figli: se la mamma o il papà sono preoccupati, il bambino lo sente subito. Parlare con calma della scuola e dei compagni aiuta a vivere il rientro come una cosa normale.",
+        "vocab": [
+          {
+            "front": "la campanella",
+            "pos": "noun",
+            "back": "school bell",
+            "example": "La campanella suona alle otto.",
+            "tier": "A2"
+          },
+          {
+            "front": "il rientro",
+            "pos": "noun",
+            "back": "return (to school, to work)",
+            "example": "Il rientro dalle vacanze è sempre difficile.",
+            "tier": "B1"
+          },
+          {
+            "front": "la malinconia",
+            "pos": "noun",
+            "back": "melancholy, sadness",
+            "example": "La domenica sera sento un po' di malinconia.",
+            "tier": "B1"
+          },
+          {
+            "front": "la tristezza",
+            "pos": "noun",
+            "back": "sadness",
+            "example": "La fine dell'estate porta un po' di tristezza.",
+            "tier": "A2"
+          },
+          {
+            "front": "il ritmo",
+            "pos": "noun",
+            "back": "rhythm, pace",
+            "example": "Devo cambiare ritmo di vita.",
+            "tier": "B1"
+          },
+          {
+            "front": "i compiti",
+            "pos": "noun",
+            "back": "homework",
+            "example": "Ho fatto i compiti di matematica.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'interrogazione",
+            "pos": "noun",
+            "back": "oral test (at school)",
+            "example": "Domani ho un'interrogazione di storia.",
+            "tier": "B1"
+          },
+          {
+            "front": "avere voglia di",
+            "pos": "phrase",
+            "back": "to feel like (doing something)",
+            "example": "Non ho voglia di studiare.",
+            "tier": "A2"
+          },
+          {
+            "front": "affrontare",
+            "pos": "verb",
+            "back": "to face, to deal with",
+            "example": "Dobbiamo affrontare il problema insieme.",
+            "tier": "B1"
+          },
+          {
+            "front": "il riposo",
+            "pos": "noun",
+            "back": "rest",
+            "example": "Dopo il lavoro ho bisogno di riposo.",
+            "tier": "A2"
+          },
+          {
+            "front": "equilibrato",
+            "pos": "adj",
+            "back": "balanced",
+            "example": "Una dieta equilibrata fa bene alla salute.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'ansia",
+            "pos": "noun",
+            "back": "anxiety",
+            "example": "Prima dell'esame ho molta ansia.",
+            "tier": "B1"
+          },
+          {
+            "front": "trasmettere",
+            "pos": "verb",
+            "back": "to pass on, to transmit",
+            "example": "I genitori trasmettono le loro paure ai figli.",
+            "tier": "B1"
+          },
+          {
+            "front": "il compagno di classe",
+            "pos": "noun",
+            "back": "classmate",
+            "example": "I miei compagni di classe sono simpatici.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Dopo le lunghe vacanze estive, cambiare ritmo non è facile: si dorme meno, si sta seduti per ore e si ritrovano compiti e interrogazioni.",
+            "point": "'Si' impersonale",
+            "explanation": "'Si dorme', 'si sta', 'si ritrovano' describe what people in general do. The verb is singular, but it becomes plural when the object is plural: si ritrovano compiti.",
+            "why_tricky": "With 'si' impersonale, adjectives and participles go in the plural: 'si sta seduti', not 'si sta seduto'."
+          },
+          {
+            "sentence": "Alcuni bambini diventano nervosi, altri dormono male o non hanno voglia di mangiare.",
+            "point": "'Alcuni ... altri'",
+            "explanation": "'Alcuni ... altri' means 'some ... others'. Both words agree with the noun (bambini, masculine plural).",
+            "why_tricky": "English 'some' can be followed by 'others' without repeating the noun; Italian works the same way, but the agreement must be kept: alcune ragazze, altre."
+          },
+          {
+            "sentence": "Infine, i genitori non devono trasmettere le proprie ansie ai figli: se la mamma o il papà sono preoccupati, il bambino lo sente subito.",
+            "point": "'Proprio' e il pronome 'lo'",
+            "explanation": "'Le proprie ansie' means 'their own anxieties'. 'Lo sente' uses 'lo' to mean 'it', referring to the whole idea (the fact that they are worried).",
+            "why_tricky": "'Lo' here does not replace a masculine noun but a whole sentence, like English 'the child feels it'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un po' di",
+            "meaning": "a bit of, a little",
+            "example": "Ho un po' di fame."
+          },
+          {
+            "phrase": "non avere voglia di",
+            "meaning": "not to feel like",
+            "example": "Oggi non ho voglia di uscire."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cos'è il \"back to school blues\" e chi lo sente?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sintomi possono avere i bambini al rientro a scuola?",
+            "type": "open"
+          },
+          {
+            "q": "Quali consigli dà l'Istituto superiore di sanità ai genitori?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti ricordi il primo giorno di scuola dopo le vacanze? Eri contento o triste? Racconta in circa 80 parole."
+      }
+    },
     {
       "pack_id": "feed-2026-09-05-volkswagen-tagli",
       "title": "Svolta Volkswagen: via libera al piano di risanamento del CdA, tagliati 50 mila posti di lavoro",
@@ -6067,527 +6581,6 @@
           }
         ],
         "opinion_prompt": "Scrivi circa 100 parole: secondo te, chi dovrebbe pagare la sicurezza dei membri della famiglia reale che non lavorano più per la Corona? Spiega la tua opinione con due motivi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-report-ranucci",
-      "title": "Rai, a Report Giulia Presutti e Daniele Piervincenzi al posto di Sigfrido Ranucci",
-      "source": "Rai News",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "media",
-        "televisione"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-report-ranucci",
-        "revision": 1,
-        "meta": {
-          "title": "Rai, a Report Giulia Presutti e Daniele Piervincenzi al posto di Sigfrido Ranucci",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/rai-a-report-giulia-presutti-e-daniele-piervincenzi-al-posto-di-sigfrido-ranucci-00f099a1-67d0-4b43-851f-42625c182460.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "media",
-            "televisione"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Rai has decided to change who leads Report. The programme will be presented by Giulia Presutti and Daniele Piervincenzi in place of Sigfrido Ranucci. In a statement the company explains that the choice opens a new phase for one of the most important programmes of the public broadcaster. The news arrived on Friday and immediately set off a debate.\n\nReport is a widely watched investigative journalism programme: it tells stories about money, power and politics, often with uncomfortable investigations. Ranucci had been presenting it for years and had become the face of the show. That is why the change is not seen only as a technical decision: many people are talking about freedom of information, while others say that renewing a programme is normal. Over the coming months it will become clear whether the show keeps the same style.",
-        "resumen_es": "La Rai ha deciso di cambiare la guida di Report. Il programma sarà condotto da Giulia Presutti e Daniele Piervincenzi al posto di Sigfrido Ranucci. In una nota l'azienda spiega che la scelta apre una nuova fase per uno dei programmi più importanti del servizio pubblico. La notizia è arrivata venerdì e ha subito acceso il dibattito.\n\nReport è un programma di giornalismo d'inchiesta molto seguito: racconta storie di soldi, di potere e di politica, spesso con inchieste scomode. Ranucci lo conduceva da anni ed era diventato il volto della trasmissione. Per questo il cambio non è visto solo come una decisione tecnica: molti parlano di libertà di informazione, altri dicono che rinnovare è normale. Nei prossimi mesi si capirà se il programma mantiene lo stesso stile.",
-        "vocab": [
-          {
-            "front": "la guida",
-            "pos": "noun",
-            "back": "leadership, the person in charge",
-            "example": "Il partito ha cambiato la sua guida a marzo.",
-            "tier": "B1"
-          },
-          {
-            "front": "condurre",
-            "pos": "verb",
-            "back": "to present, to host (a programme)",
-            "example": "Conduce il telegiornale della sera da tre anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "la nota",
-            "pos": "noun",
-            "back": "official statement, press note",
-            "example": "L'azienda ha risposto con una nota molto breve.",
-            "tier": "B2"
-          },
-          {
-            "front": "la scelta",
-            "pos": "noun",
-            "back": "choice, decision",
-            "example": "È stata una scelta difficile per tutti.",
-            "tier": "A2"
-          },
-          {
-            "front": "il servizio pubblico",
-            "pos": "noun",
-            "back": "public service broadcasting",
-            "example": "Il servizio pubblico deve informare tutti i cittadini.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dibattito",
-            "pos": "noun",
-            "back": "debate",
-            "example": "Il dibattito in televisione è durato due ore.",
-            "tier": "B1"
-          },
-          {
-            "front": "il giornalismo d'inchiesta",
-            "pos": "noun",
-            "back": "investigative journalism",
-            "example": "Il giornalismo d'inchiesta richiede molto tempo.",
-            "tier": "B2"
-          },
-          {
-            "front": "seguito",
-            "pos": "adj",
-            "back": "watched, followed (as in molto seguito, very popular)",
-            "example": "È il programma più seguito del lunedì sera.",
-            "tier": "B1"
-          },
-          {
-            "front": "il potere",
-            "pos": "noun",
-            "back": "power",
-            "example": "Il libro parla del potere e del denaro.",
-            "tier": "B1"
-          },
-          {
-            "front": "scomodo",
-            "pos": "adj",
-            "back": "uncomfortable, inconvenient, awkward",
-            "example": "Ha fatto una domanda scomoda al ministro.",
-            "tier": "B2"
-          },
-          {
-            "front": "il volto",
-            "pos": "noun",
-            "back": "face (also the public face of something)",
-            "example": "È il volto della squadra da dieci anni.",
-            "tier": "B2"
-          },
-          {
-            "front": "la libertà di informazione",
-            "pos": "noun",
-            "back": "freedom of information",
-            "example": "La libertà di informazione è protetta dalla legge.",
-            "tier": "B2"
-          },
-          {
-            "front": "rinnovare",
-            "pos": "verb",
-            "back": "to renew, to refresh",
-            "example": "La scuola vuole rinnovare i suoi laboratori.",
-            "tier": "B1"
-          },
-          {
-            "front": "mantenere",
-            "pos": "verb",
-            "back": "to keep, to maintain",
-            "example": "Speriamo di mantenere lo stesso orario.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il programma sarà condotto da Giulia Presutti e Daniele Piervincenzi al posto di Sigfrido Ranucci.",
-            "point": "Il passivo al futuro con essere più participio e la preposizione da",
-            "explanation": "Sarà condotto è un passivo: essere al futuro più il participio passato. Chi compie l'azione si introduce con da, non con di. Il participio si accorda con il soggetto: il programma sarà condotto, la trasmissione sarà condotta.",
-            "why_tricky": "Da significa anche from e since, quindi qui sembra fuori posto a chi traduce parola per parola."
-          },
-          {
-            "sentence": "Ranucci lo conduceva da anni ed era diventato il volto della trasmissione.",
-            "point": "Imperfetto con da più tempo, e trapassato prossimo",
-            "explanation": "Conduceva da anni significa he had been presenting it for years: l'italiano usa l'imperfetto con da dove l'inglese usa un tempo perfetto. Era diventato è trapassato prossimo, cioè un passato anteriore a un altro passato.",
-            "why_tricky": "Lo studente traduce con il passato prossimo, ha condotto da anni, che in italiano suona sbagliato."
-          },
-          {
-            "sentence": "Nei prossimi mesi si capirà se il programma mantiene lo stesso stile.",
-            "point": "Il si impersonale con il verbo al futuro",
-            "explanation": "Si capirà vuol dire it will become clear, senza dire chi capisce. Il si impersonale si usa moltissimo nei giornali italiani, spesso dove l'inglese preferisce il passivo.",
-            "why_tricky": "Questo si non è riflessivo e non ha niente a che vedere con capirsi, cioè capire l'uno l'altro."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "essere il volto di qualcosa",
-            "meaning": "to be the public face of something",
-            "example": "Da anni è il volto della campagna contro il fumo."
-          },
-          {
-            "phrase": "accendere il dibattito",
-            "meaning": "to spark a debate",
-            "example": "La proposta ha acceso il dibattito in tutto il paese."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa ha deciso la Rai sul programma Report?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questo cambio ha fatto discutere molte persone?",
-            "type": "open"
-          },
-          {
-            "q": "Di che cosa parla di solito il programma Report?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 100 parole: secondo te, un programma televisivo cambia molto quando cambia il conduttore? Spiega la tua idea e fai un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-fedorov-droni",
-      "title": "L'ex ministro ucraino Fedorov consulente per la Difesa, 'focus sui droni'",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "difesa",
-        "tecnologia"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-fedorov-droni",
-        "revision": 1,
-        "meta": {
-          "title": "L'ex ministro ucraino Fedorov consulente per la Difesa, 'focus sui droni'",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/politica/2026/08/28/lex-ministro-ucraino-fedorov-sara-consulente-della-difesa-italiana_992ed9d2-0d65-420b-af66-170aee3be177.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "difesa",
-            "tecnologia"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The former Ukrainian minister Mykhailo Fedorov will become a consultant for the Italian defence ministry. His work will focus above all on drones, that is, on the pilotless aircraft used today in war and for surveillance. According to ANSA, Fedorov said that the experience of Kyiv can help Europe. Minister Guido Crosetto added that rapid changes are needed.\n\nIn recent years Ukraine has learned to build and use low-cost drones, often in a short time and with simple parts. Many European countries are looking at this experience because their own military systems are slower and more expensive. The cooperation can therefore help to change the way of working, and not just to buy new weapons. Many questions still remain, however, about costs, about rules and about the control of these technologies.",
-        "resumen_es": "L'ex ministro ucraino Mykhailo Fedorov diventerà consulente della Difesa italiana. Il suo lavoro sarà concentrato soprattutto sui droni, cioè sugli aerei senza pilota usati oggi in guerra e per la sorveglianza. Secondo l'ANSA, Fedorov ha detto che l'esperienza di Kiev può aiutare l'Europa. Il ministro Guido Crosetto ha aggiunto che servono trasformazioni rapide.\n\nNegli ultimi anni l'Ucraina ha imparato a costruire e a usare droni a basso costo, spesso in poco tempo e con pezzi semplici. Molti paesi europei guardano a questa esperienza perché i loro sistemi militari sono più lenti e più cari. La collaborazione può quindi servire a cambiare il modo di lavorare, non solo a comprare nuove armi. Restano però molte domande sui costi, sulle regole e sul controllo di queste tecnologie.",
-        "vocab": [
-          {
-            "front": "il consulente",
-            "pos": "noun",
-            "back": "consultant, adviser",
-            "example": "Lavora come consulente per una banca.",
-            "tier": "B1"
-          },
-          {
-            "front": "la Difesa",
-            "pos": "noun",
-            "back": "the defence ministry",
-            "example": "Il ministero della Difesa ha pubblicato il piano.",
-            "tier": "B1"
-          },
-          {
-            "front": "il drone",
-            "pos": "noun",
-            "back": "drone",
-            "example": "Il drone ha filmato tutta la valle.",
-            "tier": "B1"
-          },
-          {
-            "front": "senza pilota",
-            "pos": "phrase",
-            "back": "pilotless, unmanned",
-            "example": "Usano aerei senza pilota per controllare i boschi.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sorveglianza",
-            "pos": "noun",
-            "back": "surveillance, monitoring",
-            "example": "La sorveglianza del confine è aumentata.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'esperienza",
-            "pos": "noun",
-            "back": "experience",
-            "example": "La sua esperienza è utile per tutto il gruppo.",
-            "tier": "A2"
-          },
-          {
-            "front": "la trasformazione",
-            "pos": "noun",
-            "back": "transformation, change",
-            "example": "La trasformazione dell'azienda è iniziata a gennaio.",
-            "tier": "B1"
-          },
-          {
-            "front": "a basso costo",
-            "pos": "phrase",
-            "back": "low-cost, cheap",
-            "example": "Viaggiamo con voli a basso costo.",
-            "tier": "B1"
-          },
-          {
-            "front": "il pezzo",
-            "pos": "noun",
-            "back": "part, component, piece",
-            "example": "Manca un pezzo della bicicletta.",
-            "tier": "A2"
-          },
-          {
-            "front": "il sistema militare",
-            "pos": "noun",
-            "back": "military system",
-            "example": "Il sistema militare del paese è molto vecchio.",
-            "tier": "B1"
-          },
-          {
-            "front": "caro",
-            "pos": "adj",
-            "back": "expensive (also: dear)",
-            "example": "Questo modello è troppo caro per noi.",
-            "tier": "A2"
-          },
-          {
-            "front": "la collaborazione",
-            "pos": "noun",
-            "back": "cooperation, collaboration",
-            "example": "La collaborazione tra le due scuole funziona bene.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'arma",
-            "pos": "noun",
-            "back": "weapon (plural: le armi)",
-            "example": "Il trattato limita le armi nucleari.",
-            "tier": "B1"
-          },
-          {
-            "front": "la regola",
-            "pos": "noun",
-            "back": "rule",
-            "example": "Le regole del gioco sono cambiate.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il suo lavoro sarà concentrato soprattutto sui droni, cioè sugli aerei senza pilota usati oggi in guerra e per la sorveglianza.",
-            "point": "Le preposizioni articolate sui e sugli",
-            "explanation": "Sui è su più i, davanti a nomi maschili plurali normali: sui droni. Sugli è su più gli, davanti a nomi maschili plurali che cominciano per vocale o per s più consonante: sugli aerei, sugli studenti.",
-            "why_tricky": "La scelta dipende dalla prima lettera del nome che segue, non dal significato, quindi va imparata insieme agli articoli il, lo, gli."
-          },
-          {
-            "sentence": "Negli ultimi anni l'Ucraina ha imparato a costruire e a usare droni a basso costo, spesso in poco tempo e con pezzi semplici.",
-            "point": "Imparare a più infinito, con la preposizione ripetuta",
-            "explanation": "Imparare regge sempre la preposizione a davanti all'infinito: imparare a leggere, imparare a guidare. Quando ci sono due infiniti, l'italiano preferisce ripetere la a: a costruire e a usare.",
-            "why_tricky": "Ogni verbo italiano ha la sua preposizione fissa, a o di, e non c'è una regola generale: va memorizzata verbo per verbo."
-          },
-          {
-            "sentence": "Molti paesi europei guardano a questa esperienza perché i loro sistemi militari sono più lenti e più cari.",
-            "point": "Il comparativo con più e il possessivo loro con l'articolo",
-            "explanation": "Più lenti e più cari sono comparativi: il più va ripetuto davanti a ogni aggettivo. Loro è invariabile ma vuole sempre l'articolo davanti: i loro sistemi, la loro casa.",
-            "why_tricky": "Loro non cambia mai forma, quindi è l'articolo a segnalare il genere e il numero del nome che segue."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "servire a qualcosa",
-            "meaning": "to be useful for something, to be good for something",
-            "example": "Questo corso serve a trovare lavoro più in fretta."
-          },
-          {
-            "phrase": "in poco tempo",
-            "meaning": "in a short time, quickly",
-            "example": "Hanno finito tutto il lavoro in poco tempo."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che ruolo avrà Fedorov in Italia?",
-            "type": "open"
-          },
-          {
-            "q": "Perché l'esperienza ucraina interessa ai paesi europei?",
-            "type": "open"
-          },
-          {
-            "q": "Quali dubbi restano su questa collaborazione?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 100 parole: secondo te, è giusto che l'Europa investa molti soldi nei droni militari? Spiega la tua opinione con due motivi."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-aeroporti-hacker",
-      "title": "Hacker dietro il cyberattacco agli aeroporti britannici, chiesto un riscatto",
-      "source": "ANSA",
-      "date": "2026-08-28",
-      "level": "A2-B1",
-      "topics": [
-        "tecnologia",
-        "sicurezza"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-aeroporti-hacker",
-        "revision": 1,
-        "meta": {
-          "title": "Hacker dietro il cyberattacco agli aeroporti britannici, chiesto un riscatto",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/28/hacker-dietro-il-cyberattacco-agli-aeroporti-britannici-chiesto-un-riscatto-_bb985279-7c77-41e4-9d6e-8d9de677ea48.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "tecnologia",
-            "sicurezza"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "A cyberattack has hit three British airports. The hackers got into the systems of the company that runs the airports and stole the data of millions of customers. Among the information there are email addresses, telephone numbers, car number plates and home addresses. Now the criminals are asking for a ransom, that is, a sum of money not to publish the data.\n\nThe authorities say they already know the group responsible and have opened an investigation. Experts advise passengers to change their passwords and to be careful with suspicious emails, because the stolen data can be used for scams. This case shows how fragile the digital systems of airports are, since every day they handle a great deal of personal information. Many companies are now investing more money in computer security, but for customers the risk stays high for a long time yet.",
-        "resumen_es": "Un attacco informatico ha colpito tre aeroporti britannici. Gli hacker sono entrati nei sistemi della società che gestisce gli scali e hanno rubato i dati di milioni di clienti. Tra le informazioni ci sono indirizzi e-mail, numeri di telefono, targhe delle auto e indirizzi di casa. Adesso i criminali chiedono un riscatto, cioè una somma di denaro per non pubblicare i dati.\n\nLe autorità dicono di conoscere già il gruppo responsabile e hanno aperto un'indagine. Gli esperti consigliano ai passeggeri di cambiare le password e di fare attenzione alle e-mail sospette, perché i dati rubati possono servire per truffe. Questo caso mostra quanto siano fragili i sistemi digitali degli aeroporti, che ogni giorno gestiscono moltissime informazioni personali. Molte società adesso investono più soldi nella sicurezza informatica, ma per i clienti il rischio resta alto ancora per molto tempo.",
-        "vocab": [
-          {
-            "front": "l'attacco informatico",
-            "pos": "noun",
-            "back": "cyberattack",
-            "example": "L'attacco informatico ha bloccato il sito per due giorni.",
-            "tier": "B1"
-          },
-          {
-            "front": "rubare",
-            "pos": "verb",
-            "back": "to steal",
-            "example": "Qualcuno mi ha rubato la bicicletta.",
-            "tier": "B1"
-          },
-          {
-            "front": "i dati",
-            "pos": "noun",
-            "back": "data",
-            "example": "Non devi dare i tuoi dati a nessuno.",
-            "tier": "B1"
-          },
-          {
-            "front": "gestire",
-            "pos": "verb",
-            "back": "to manage, to run",
-            "example": "Mia sorella gestisce un piccolo hotel.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo scalo",
-            "pos": "noun",
-            "back": "airport, stopover",
-            "example": "Il volo fa scalo a Monaco.",
-            "tier": "B2"
-          },
-          {
-            "front": "il riscatto",
-            "pos": "noun",
-            "back": "ransom",
-            "example": "Hanno chiesto un riscatto molto alto.",
-            "tier": "B2"
-          },
-          {
-            "front": "la somma",
-            "pos": "noun",
-            "back": "sum, amount of money",
-            "example": "Ha pagato una somma enorme per quella casa.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'indagine",
-            "pos": "noun",
-            "back": "investigation",
-            "example": "La polizia ha aperto un'indagine.",
-            "tier": "B1"
-          },
-          {
-            "front": "consigliare a qualcuno di",
-            "pos": "phrase",
-            "back": "to advise someone to do something",
-            "example": "Ti consiglio di partire presto.",
-            "tier": "B1"
-          },
-          {
-            "front": "sospetto",
-            "pos": "adj",
-            "back": "suspicious",
-            "example": "Ho ricevuto un messaggio sospetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "la truffa",
-            "pos": "noun",
-            "back": "scam, fraud",
-            "example": "È stata una truffa online molto comune.",
-            "tier": "B1"
-          },
-          {
-            "front": "fragile",
-            "pos": "adj",
-            "back": "fragile, weak",
-            "example": "Il sistema è ancora troppo fragile.",
-            "tier": "B1"
-          },
-          {
-            "front": "investire",
-            "pos": "verb",
-            "back": "to invest",
-            "example": "L'azienda vuole investire nella formazione.",
-            "tier": "B2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Gli esperti consigliano ai passeggeri di cambiare le password e di fare attenzione alle e-mail sospette, perché i dati rubati possono servire per truffe.",
-            "point": "consigliare a qualcuno di + infinito",
-            "explanation": "Consigliare takes an indirect object with a (ai passeggeri) and then di plus the infinitive. The second infinitive also needs its own di: e di fare.",
-            "why_tricky": "English says 'advise passengers to change', with no preposition before the person, so learners drop the a and write consigliano i passeggeri."
-          },
-          {
-            "sentence": "Questo caso mostra quanto siano fragili i sistemi digitali degli aeroporti, che ogni giorno gestiscono moltissime informazioni personali.",
-            "point": "Congiuntivo after quanto in an indirect exclamation",
-            "explanation": "After verbs like mostrare, capire or vedere, an indirect question or exclamation introduced by quanto normally takes the subjunctive in written Italian: quanto siano fragili.",
-            "why_tricky": "In speech many Italians say quanto sono fragili, so learners rarely meet the subjunctive form and are surprised by it in the press."
-          },
-          {
-            "sentence": "Adesso i criminali chiedono un riscatto, cioè una somma di denaro per non pubblicare i dati.",
-            "point": "per + non + infinito",
-            "explanation": "To express a negative purpose, Italian puts non directly between per and the infinitive: per non pubblicare. There is no auxiliary verb, unlike English 'so as not to publish'.",
-            "why_tricky": "Learners try to translate the English structure word by word and produce per non da pubblicare or per che non pubblicano."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "fare attenzione a",
-            "meaning": "to be careful with, to watch out for",
-            "example": "Fai attenzione ai messaggi che chiedono la password."
-          },
-          {
-            "phrase": "aprire un'indagine",
-            "meaning": "to open an investigation",
-            "example": "I magistrati hanno aperto un'indagine sull'incidente."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa hanno rubato gli hacker agli aeroporti britannici?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa consigliano gli esperti ai passeggeri, e perché?",
-            "type": "open"
-          },
-          {
-            "q": "Secondo il testo, perché i sistemi degli aeroporti sono fragili?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Che cosa fai tu per proteggere i tuoi dati personali online? Scrivi circa 100 parole con almeno tre esempi concreti."
       }
     }
   ]
