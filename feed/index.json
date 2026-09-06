@@ -1,7 +1,497 @@
 {
-  "generated_at": "2026-09-06T07:22:31Z",
+  "generated_at": "2026-09-06T20:08:05Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-06-antonelli-monza",
+      "title": "Andrea Kimi Antonelli fa la storia: dopo 60 anni un pilota italiano torna a vincere a Monza",
+      "source": "RaiNews",
+      "date": "2026-09-06",
+      "level": "A2-B1",
+      "topics": [
+        "Formula 1",
+        "sport"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-antonelli-monza",
+        "revision": 1,
+        "meta": {
+          "title": "Andrea Kimi Antonelli fa la storia: dopo 60 anni un pilota italiano torna a vincere a Monza",
+          "source": "RaiNews",
+          "url": "https://www.rainews.it/articoli/2026/09/kimi-antonelli-fa-la-storia-a-monza-vince-dalla-19-dopo-60-anni-ed-e-leader-f1-5c947cf6-2896-441b-b45b-3c74f254e72b.html",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "Formula 1",
+            "sport"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "Andrea Kimi Antonelli has won the Italian Grand Prix at Monza. The twenty-year-old Mercedes driver from Bologna started nineteenth because of a penalty. Then he made an epic comeback, overtook many cars and crossed the finish line first. After the race he said it was a dream come true. The Italian fans in the grandstands went crazy with joy.\n\nIt is a historic victory. The last Italian to win at Monza was Ludovico Scarfiotti in 1966, sixty years ago. With this success Antonelli is also at the top of the Formula 1 world championship. Many people already see him as the new hero of Italian motorsport. The season is not over yet and the next races will be decisive, but today Italy is celebrating a young champion.",
+        "resumen_es": "Andrea Kimi Antonelli ha vinto il Gran Premio d'Italia a Monza. Il pilota della Mercedes ha vent'anni ed è di Bologna. È partito diciannovesimo per una penalità. Poi ha fatto una rimonta epica, ha superato molte macchine e ha tagliato il traguardo per primo. Dopo la gara ha detto che è un sogno che si realizza. I tifosi italiani sulle tribune sono impazziti di gioia.\n\nÈ una vittoria storica. L'ultimo italiano a vincere a Monza è stato Ludovico Scarfiotti nel 1966, sessant'anni fa. Con questo successo Antonelli è anche in testa al mondiale di Formula 1. Molte persone lo vedono già come il nuovo eroe dell'automobilismo italiano. La stagione non è ancora finita e le prossime gare saranno decisive, ma oggi l'Italia festeggia un giovane campione.",
+        "vocab": [
+          {
+            "front": "il pilota",
+            "pos": "noun",
+            "back": "driver (racing), pilot",
+            "example": "Il pilota italiano ha vinto la gara.",
+            "tier": "B1"
+          },
+          {
+            "front": "la gara",
+            "pos": "noun",
+            "back": "race, competition",
+            "example": "La gara comincia alle tre.",
+            "tier": "B1"
+          },
+          {
+            "front": "la penalità",
+            "pos": "noun",
+            "back": "penalty",
+            "example": "Ha ricevuto una penalità di cinque posizioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "la rimonta",
+            "pos": "noun",
+            "back": "comeback",
+            "example": "Che rimonta! Dal fondo alla vittoria.",
+            "tier": "B2"
+          },
+          {
+            "front": "superare",
+            "pos": "verb",
+            "back": "to overtake, to pass",
+            "example": "Ha superato tre macchine in una curva.",
+            "tier": "B1"
+          },
+          {
+            "front": "tagliare il traguardo",
+            "pos": "phrase",
+            "back": "to cross the finish line",
+            "example": "Ha tagliato il traguardo per primo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi cantano sulle tribune.",
+            "tier": "A2"
+          },
+          {
+            "front": "la tribuna",
+            "pos": "noun",
+            "back": "grandstand, stand",
+            "example": "Le tribune di Monza erano piene.",
+            "tier": "B1"
+          },
+          {
+            "front": "impazzire di gioia",
+            "pos": "phrase",
+            "back": "to go crazy with joy",
+            "example": "Il pubblico è impazzito di gioia.",
+            "tier": "B1"
+          },
+          {
+            "front": "in testa a",
+            "pos": "phrase",
+            "back": "at the top of, leading",
+            "example": "Antonelli è in testa al mondiale.",
+            "tier": "B1"
+          },
+          {
+            "front": "il mondiale",
+            "pos": "noun",
+            "back": "world championship",
+            "example": "Chi vincerà il mondiale quest'anno?",
+            "tier": "A2"
+          },
+          {
+            "front": "l'eroe",
+            "pos": "noun",
+            "back": "hero",
+            "example": "Per i bambini è un vero eroe.",
+            "tier": "A2"
+          },
+          {
+            "front": "festeggiare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Stasera festeggiamo la vittoria.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "È partito diciannovesimo per una penalità.",
+            "point": "Passato prossimo with essere (partire)",
+            "explanation": "Partire is a verb of movement, so it takes essere in the passato prossimo: è partito. The participle agrees with the subject (partito, partita).",
+            "why_tricky": "English uses only 'has'; in Italian you must choose essere or avere, and movement and change verbs take essere."
+          },
+          {
+            "sentence": "L'ultimo italiano a vincere a Monza è stato Ludovico Scarfiotti nel 1966, sessant'anni fa.",
+            "point": "fa for ago",
+            "explanation": "To say 'ago', Italian puts fa after the time expression: sessant'anni fa, due giorni fa, un'ora fa.",
+            "why_tricky": "Learners try to put fa before the number, as in English 'ago', but it always comes at the end."
+          },
+          {
+            "sentence": "La stagione non è ancora finita e le prossime gare saranno decisive, ma oggi l'Italia festeggia un giovane campione.",
+            "point": "non ... ancora for not yet",
+            "explanation": "Non goes before the verb and ancora after it: non è ancora finita means it is not over yet.",
+            "why_tricky": "The two words are separated by the verb, which feels strange coming from English 'not yet'."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "un sogno che si realizza",
+            "meaning": "a dream come true",
+            "example": "Vincere a Monza è un sogno che si realizza."
+          },
+          {
+            "phrase": "fare la storia",
+            "meaning": "to make history",
+            "example": "Con questa vittoria ha fatto la storia."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Da quale posizione è partito Antonelli e perché?",
+            "type": "open"
+          },
+          {
+            "q": "Chi è stato l'ultimo italiano a vincere a Monza e quando?",
+            "type": "open"
+          },
+          {
+            "q": "Perché la vittoria è importante anche per il mondiale?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Hai mai visto una gara o una partita dal vivo? Scrivi 80-100 parole: dove eri, con chi, e che emozioni hai provato."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-afd-sassonia-anhalt",
+      "title": "Elezioni in Germania, Afd trionfa con il 44,2% in Sassonia-Anhalt. Cdu al 18%",
+      "source": "ANSA",
+      "date": "2026-09-06",
+      "level": "A2-B1",
+      "topics": [
+        "Germania",
+        "politica"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-afd-sassonia-anhalt",
+        "revision": 1,
+        "meta": {
+          "title": "Elezioni in Germania, Afd trionfa con il 44,2% in Sassonia-Anhalt. Cdu al 18%",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/06/elezioni-in-germania-exit-poll-ard-in-sassonia-anhalt-afd-trionfa-con_243aead0-87e3-4c0c-aebc-18a1cdcd76be.html",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "Germania",
+            "politica"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Germany the AfD party has won the regional elections in Saxony-Anhalt with 44.2 percent of the votes. It is a huge result. The CDU, the party of the Chancellor, stopped at 18 percent. The CDU leader in the region admitted defeat and said that this is democracy. The AfD is now by far the strongest party in that region of eastern Germany.\n\nThe AfD is a nationalist right-wing party and it is very critical of immigration and of the European Union. Many politicians in Berlin and Brussels are worried about this victory. In Germany the other parties have always refused to govern together with the AfD. Now the big question is: who will govern the region? Forming a new government could be very difficult. Experts say this vote is also a warning for the whole of Europe.",
+        "resumen_es": "In Germania il partito Afd ha vinto le elezioni regionali in Sassonia-Anhalt con il 44,2 per cento dei voti. È un risultato enorme. La Cdu, il partito del Cancelliere, si è fermata al 18 per cento. Il leader della Cdu nella regione ha ammesso la sconfitta e ha detto che questa è la democrazia. L'Afd ora è di gran lunga il partito più forte in quella regione della Germania dell'est.\n\nL'Afd è un partito di destra nazionalista ed è molto critico verso l'immigrazione e l'Unione Europea. Molti politici a Berlino e a Bruxelles sono preoccupati per questa vittoria. In Germania gli altri partiti hanno sempre rifiutato di governare insieme all'Afd. Adesso la grande domanda è: chi governerà la regione? Formare un nuovo governo potrebbe essere molto difficile. Gli esperti dicono che questo voto è anche un avvertimento per tutta l'Europa.",
+        "vocab": [
+          {
+            "front": "le elezioni",
+            "pos": "noun",
+            "back": "elections (always plural in this sense)",
+            "example": "Le elezioni sono domenica.",
+            "tier": "A2"
+          },
+          {
+            "front": "il voto",
+            "pos": "noun",
+            "back": "vote",
+            "example": "Ogni voto è importante.",
+            "tier": "A2"
+          },
+          {
+            "front": "vincere",
+            "pos": "verb",
+            "back": "to win",
+            "example": "Chi ha vinto le elezioni?",
+            "tier": "A2"
+          },
+          {
+            "front": "il risultato",
+            "pos": "noun",
+            "back": "result",
+            "example": "Il risultato è una sorpresa per tutti.",
+            "tier": "A2"
+          },
+          {
+            "front": "fermarsi a",
+            "pos": "verb",
+            "back": "to stop at (a figure)",
+            "example": "Il partito si è fermato al dieci per cento.",
+            "tier": "B1"
+          },
+          {
+            "front": "ammettere la sconfitta",
+            "pos": "phrase",
+            "back": "to admit defeat",
+            "example": "Il candidato ha ammesso la sconfitta.",
+            "tier": "B1"
+          },
+          {
+            "front": "di gran lunga",
+            "pos": "phrase",
+            "back": "by far",
+            "example": "È di gran lunga il partito più grande.",
+            "tier": "B1"
+          },
+          {
+            "front": "la destra",
+            "pos": "noun",
+            "back": "the right (politics)",
+            "example": "La destra ha vinto in molte regioni.",
+            "tier": "B1"
+          },
+          {
+            "front": "preoccupato per",
+            "pos": "adj",
+            "back": "worried about",
+            "example": "Sono preoccupato per il futuro.",
+            "tier": "A2"
+          },
+          {
+            "front": "rifiutare di",
+            "pos": "verb",
+            "back": "to refuse to",
+            "example": "Hanno rifiutato di firmare l'accordo.",
+            "tier": "B1"
+          },
+          {
+            "front": "governare",
+            "pos": "verb",
+            "back": "to govern",
+            "example": "Chi governerà il paese?",
+            "tier": "B1"
+          },
+          {
+            "front": "l'avvertimento",
+            "pos": "noun",
+            "back": "warning",
+            "example": "Questo voto è un avvertimento per tutti.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La Cdu, il partito del Cancelliere, si è fermata al 18 per cento.",
+            "point": "Reflexive verb in the passato prossimo (fermarsi)",
+            "explanation": "Reflexive verbs always take essere: si è fermata. The participle agrees with the subject, here feminine (la Cdu), so fermata.",
+            "why_tricky": "Learners forget the agreement and write si è fermato; with a feminine subject the ending must be -a."
+          },
+          {
+            "sentence": "Formare un nuovo governo potrebbe essere molto difficile.",
+            "point": "Conditional potrebbe for possibility",
+            "explanation": "Potrebbe is the conditional of potere and means 'could' or 'might'. It softens a statement about the future.",
+            "why_tricky": "Learners often use può (can) where Italian prefers the conditional to express something uncertain."
+          },
+          {
+            "sentence": "In Germania gli altri partiti hanno sempre rifiutato di governare insieme all'Afd.",
+            "point": "rifiutare di + infinitive",
+            "explanation": "Rifiutare needs di before an infinitive: rifiutare di governare, rifiutare di parlare.",
+            "why_tricky": "Some verbs take di, others take a, and some take nothing; English gives no clue about which preposition to use."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "la grande domanda è",
+            "meaning": "the big question is",
+            "example": "La grande domanda è: chi pagherà?"
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quanti voti ha preso l'Afd e quanti la Cdu?",
+            "type": "open"
+          },
+          {
+            "q": "Perché molti politici a Berlino e a Bruxelles sono preoccupati?",
+            "type": "open"
+          },
+          {
+            "q": "Perché formare un nuovo governo potrebbe essere difficile?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Secondo te, perché molte persone in Europa votano per partiti nuovi o di protesta? Scrivi 80-100 parole con la tua opinione."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-stelle-nascite",
+      "title": "Crollo delle nascite anche per le stelle, ma il carburante c'è",
+      "source": "ANSA",
+      "date": "2026-09-06",
+      "level": "A2-B1",
+      "topics": [
+        "spazio",
+        "scienza"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-stelle-nascite",
+        "revision": 1,
+        "meta": {
+          "title": "Crollo delle nascite anche per le stelle, ma il carburante c'è",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/06/crollo-delle-nascite-anche-per-le-stelle-ma-il-carburante-ce_21f0e95f-0706-4ed5-a7c3-1d870b0ec801.html",
+          "date_published": "2026-09-06",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "spazio",
+            "scienza"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In the universe fewer and fewer stars are being born. It is a bit like the fall in births on Earth, but on a cosmic scale. Astronomers have known for some time that star formation reached a peak billions of years ago and has been slowing down ever since. The surprising thing is that the fuel is still there: cosmic hydrogen, the gas from which stars are born, has decreased only a little.\n\nSo why are fewer stars being born? The reason remains a mystery. One idea is that the gas is there but is too hot or too spread out to form new stars. Another idea is that the biggest galaxies have become 'lazy' and no longer pull in enough fresh gas. Scientists will continue to study the problem with the new space telescopes. In the meantime, the universe is slowly getting older and quieter.",
+        "resumen_es": "Nell'universo nascono sempre meno stelle. È un po' come il calo delle nascite sulla Terra, ma su scala cosmica. Gli astronomi sanno da tempo che la formazione delle stelle ha raggiunto un picco miliardi di anni fa e da allora sta rallentando. La cosa sorprendente è che il carburante c'è ancora: l'idrogeno cosmico, il gas da cui nascono le stelle, è diminuito solo di poco.\n\nAllora perché nascono meno stelle? Il motivo rimane un mistero. Un'idea è che il gas c'è, ma è troppo caldo o troppo sparso per formare nuove stelle. Un'altra idea è che le galassie più grandi sono diventate 'pigre' e non attirano più abbastanza gas fresco. Gli scienziati continueranno a studiare il problema con i nuovi telescopi spaziali. Nel frattempo l'universo diventa lentamente più vecchio e più tranquillo.",
+        "vocab": [
+          {
+            "front": "la stella",
+            "pos": "noun",
+            "back": "star",
+            "example": "Di notte vediamo tante stelle.",
+            "tier": "A2"
+          },
+          {
+            "front": "nascere",
+            "pos": "verb",
+            "back": "to be born",
+            "example": "Le stelle nascono dal gas.",
+            "tier": "A2"
+          },
+          {
+            "front": "il calo",
+            "pos": "noun",
+            "back": "drop, fall, decline",
+            "example": "C'è un calo delle nascite in Italia.",
+            "tier": "B1"
+          },
+          {
+            "front": "sempre meno",
+            "pos": "phrase",
+            "back": "fewer and fewer, less and less",
+            "example": "Nascono sempre meno bambini.",
+            "tier": "A2"
+          },
+          {
+            "front": "da tempo",
+            "pos": "phrase",
+            "back": "for some time, for a long time",
+            "example": "Lo sappiamo da tempo.",
+            "tier": "B1"
+          },
+          {
+            "front": "il picco",
+            "pos": "noun",
+            "back": "peak",
+            "example": "Il traffico raggiunge il picco alle otto.",
+            "tier": "B1"
+          },
+          {
+            "front": "rallentare",
+            "pos": "verb",
+            "back": "to slow down",
+            "example": "La macchina rallenta prima della curva.",
+            "tier": "B1"
+          },
+          {
+            "front": "il carburante",
+            "pos": "noun",
+            "back": "fuel",
+            "example": "Il carburante costa sempre di più.",
+            "tier": "B1"
+          },
+          {
+            "front": "diminuire",
+            "pos": "verb",
+            "back": "to decrease",
+            "example": "Il gas è diminuito solo di poco.",
+            "tier": "A2"
+          },
+          {
+            "front": "sparso",
+            "pos": "adj",
+            "back": "scattered, spread out",
+            "example": "Ci sono case sparse sulla collina.",
+            "tier": "B1"
+          },
+          {
+            "front": "pigro",
+            "pos": "adj",
+            "back": "lazy",
+            "example": "La domenica sono molto pigro.",
+            "tier": "A2"
+          },
+          {
+            "front": "attirare",
+            "pos": "verb",
+            "back": "to attract, to pull in",
+            "example": "La città attira molti turisti.",
+            "tier": "B1"
+          },
+          {
+            "front": "nel frattempo",
+            "pos": "phrase",
+            "back": "in the meantime",
+            "example": "Tu cucina, nel frattempo io apparecchio.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Gli astronomi sanno da tempo che la formazione delle stelle ha raggiunto un picco miliardi di anni fa e da allora sta rallentando.",
+            "point": "stare + gerund for an action in progress",
+            "explanation": "Sta rallentando (stare + gerundio) describes something happening right now or continuing at the moment: it is slowing down.",
+            "why_tricky": "Italian uses this form less than English uses -ing; here it is right because the process is still going on."
+          },
+          {
+            "sentence": "Un'idea è che il gas c'è, ma è troppo caldo o troppo sparso per formare nuove stelle.",
+            "point": "troppo + adjective + per + infinitive",
+            "explanation": "Troppo caldo per formare means too hot to form. The structure is troppo + adjective + per + infinitive.",
+            "why_tricky": "English uses 'to' after 'too hot'; Italian needs per, not a or di."
+          },
+          {
+            "sentence": "Gli scienziati continueranno a studiare il problema con i nuovi telescopi spaziali.",
+            "point": "continuare a + infinitive, future tense",
+            "explanation": "Continuare takes a before an infinitive: continuare a studiare. Continueranno is the future of continuare.",
+            "why_tricky": "The preposition a is easy to forget, and the future ending -anno is regular but must be learned."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "su scala cosmica",
+            "meaning": "on a cosmic scale, on a huge scale",
+            "example": "È un problema piccolo per noi, ma enorme su scala cosmica."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Quando la formazione delle stelle ha raggiunto il picco?",
+            "type": "open"
+          },
+          {
+            "q": "Perché il risultato sull'idrogeno è sorprendente?",
+            "type": "open"
+          },
+          {
+            "q": "Quali sono le due idee per spiegare il mistero?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Ti piace guardare le stelle? Scrivi 80-100 parole su un posto dove hai visto un bel cielo notturno e cosa hai pensato."
+      }
+    },
     {
       "pack_id": "feed-2026-09-06-freddie-mercury-80",
       "title": "Freddie Mercury, 80 anni fa nasceva il leggendario performer dei Queen",
@@ -6081,499 +6571,6 @@
           }
         ],
         "opinion_prompt": "Secondo te, le regole di sicurezza sul mare sono abbastanza severe? Scrivi circa 100 parole e spiega la tua opinione con un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-vacanze-settembre",
-      "title": "Volano le vacanze a settembre, 10 milioni in viaggio",
-      "source": "ANSA",
-      "date": "2026-08-30",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "turismo"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-vacanze-settembre",
-        "revision": 1,
-        "meta": {
-          "title": "Volano le vacanze a settembre, 10 milioni in viaggio",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/08/29/volano-le-vacanze-a-settembre-10-milioni-in-viaggio_0ebc9651-cf36-4f62-a760-413fccc95e5f.html",
-          "date_published": "2026-08-29",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "viaggi",
-            "turismo"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "In September Italians do not feel like giving up travelling. According to Confturismo, around ten million people will set off on a short holiday. Most of them are staying in Italy, and the favourite destinations are Tuscany, Campania and Emilia Romagna. Many choose this period because the beaches are emptier, prices are lower and the heat is less intense.\n\nFor hotel owners and restaurants this is good news, because the season gets longer and work continues after the summer as well. People leaving in these days are mainly looking for the sea, but also for art cities and hills. The long weekend is the most common formula: two or three nights, a trip to the countryside, a museum or two and a good lunch. For many families, in short, the real holiday starts now.",
-        "resumen_es": "A settembre gli italiani non hanno voglia di smettere di viaggiare. Secondo Confturismo, circa dieci milioni di persone partiranno per una vacanza breve. La maggior parte resta in Italia e le mete preferite sono la Toscana, la Campania e l'Emilia Romagna. Molti scelgono questo periodo perché le spiagge sono più libere, i prezzi sono più bassi e il caldo è meno forte.\n\nPer gli albergatori e per i ristoranti è una buona notizia, perché la stagione si allunga e il lavoro continua anche dopo l'estate. Chi parte in questi giorni cerca soprattutto il mare, ma anche le città d'arte e le colline. Il fine settimana lungo è la formula più comune: due o tre notti, una gita in campagna, qualche museo e un buon pranzo. Per molte famiglie, insomma, la vera vacanza comincia adesso.",
-        "vocab": [
-          {
-            "front": "la meta",
-            "pos": "noun",
-            "back": "destination",
-            "example": "La nostra meta preferita è il lago di Garda.",
-            "tier": "A2"
-          },
-          {
-            "front": "avere voglia di",
-            "pos": "phrase",
-            "back": "to feel like doing something",
-            "example": "Non ho voglia di cucinare stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "partire per",
-            "pos": "verb",
-            "back": "to leave for, to set off for",
-            "example": "Domani partiamo per la Sicilia.",
-            "tier": "A2"
-          },
-          {
-            "front": "la vacanza breve",
-            "pos": "phrase",
-            "back": "short break",
-            "example": "Preferisco tante vacanze brevi.",
-            "tier": "A2"
-          },
-          {
-            "front": "l'albergatore",
-            "pos": "noun",
-            "back": "hotel owner",
-            "example": "Gli albergatori sono contenti di questa estate.",
-            "tier": "B1"
-          },
-          {
-            "front": "la stagione",
-            "pos": "noun",
-            "back": "season",
-            "example": "La stagione turistica finisce a ottobre.",
-            "tier": "A2"
-          },
-          {
-            "front": "allungarsi",
-            "pos": "verb",
-            "back": "to get longer",
-            "example": "Le giornate si allungano in primavera.",
-            "tier": "B1"
-          },
-          {
-            "front": "la gita",
-            "pos": "noun",
-            "back": "day trip, excursion",
-            "example": "Facciamo una gita in montagna domenica.",
-            "tier": "A2"
-          },
-          {
-            "front": "la città d'arte",
-            "pos": "phrase",
-            "back": "art city, historic city",
-            "example": "Firenze è la città d'arte più visitata.",
-            "tier": "B1"
-          },
-          {
-            "front": "il fine settimana lungo",
-            "pos": "phrase",
-            "back": "long weekend",
-            "example": "Un fine settimana lungo basta per riposare.",
-            "tier": "A2"
-          },
-          {
-            "front": "la collina",
-            "pos": "noun",
-            "back": "hill",
-            "example": "La casa è su una collina vicino al paese.",
-            "tier": "A2"
-          },
-          {
-            "front": "soprattutto",
-            "pos": "adv",
-            "back": "above all, mainly",
-            "example": "Cerco soprattutto tranquillità.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo Confturismo, circa dieci milioni di persone partiranno per una vacanza breve.",
-            "point": "Simple future of a regular verb in ire",
-            "explanation": "Partiranno is the third person plural future of partire, formed by dropping the final e of the infinitive and adding anno.",
-            "why_tricky": "Italian often uses the present for near future, so learners are unsure when the futuro semplice is required, and the double n is easy to forget."
-          },
-          {
-            "sentence": "Molti scelgono questo periodo perché le spiagge sono più libere, i prezzi sono più bassi e il caldo è meno forte.",
-            "point": "Comparatives with più and meno, with adjective agreement",
-            "explanation": "Più libere agrees with the feminine plural spiagge, più bassi with the masculine plural prezzi, and meno forte with the singular caldo.",
-            "why_tricky": "English adjectives never change, so learners write più libero or meno forti without checking the noun."
-          },
-          {
-            "sentence": "Chi parte in questi giorni cerca soprattutto il mare, ma anche le città d'arte e le colline.",
-            "point": "Chi as an indefinite pronoun meaning those who",
-            "explanation": "Chi here means the people who, and it always takes a singular verb, so parte and cerca are both third person singular.",
-            "why_tricky": "The meaning is plural in English, which tempts learners to write partono and cercano."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "staccare la spina",
-            "meaning": "to switch off, to take a real break",
-            "example": "Ad agosto ho bisogno di staccare la spina per una settimana."
-          },
-          {
-            "phrase": "in bassa stagione",
-            "meaning": "in the low season",
-            "example": "In bassa stagione gli alberghi costano molto meno."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quante persone partiranno a settembre e dove vanno soprattutto?",
-            "type": "open"
-          },
-          {
-            "q": "Perché molti italiani preferiscono viaggiare in questo periodo?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questa notizia è positiva per gli albergatori e i ristoranti?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Preferisci le vacanze ad agosto o a settembre? Scrivi circa 100 parole e spiega i vantaggi del periodo che preferisci."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-scimmie-carne",
-      "title": "Anche alcune scimmie cacciano e consumano carne",
-      "source": "ANSA",
-      "date": "2026-08-30",
-      "level": "A2-B1",
-      "topics": [
-        "scienza",
-        "natura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-scimmie-carne",
-        "revision": 1,
-        "meta": {
-          "title": "Anche alcune scimmie cacciano e consumano carne",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_scienza/notizie/natura/2026/08/30/anche-alcune-scimmie-cacciano-e-consumano-carne-video_4c5eb6a7-4de7-4c2f-a343-33302fba791a.html",
-          "date_published": "2026-08-30",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "scienza",
-            "natura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Some monkeys do not eat only fruit and leaves: every now and then they hunt and eat meat. Researchers have observed this behaviour and find it very interesting. Meat, in fact, gives a lot of energy in a short time, but to get it you have to run, work together with the group and learn where the other animals hide. So it is not an easy or automatic choice.\n\nFor researchers this can help to understand how human feeding habits evolved. Our ancestors too, millions of years ago, began to eat meat, and that choice changed the body and perhaps the brain as well. Studying today's monkeys is therefore a bit like looking back in time. Scientists will go on observing these animals in order to understand when and why they decide to hunt.",
-        "resumen_es": "Alcune scimmie non mangiano soltanto frutta e foglie: ogni tanto cacciano e mangiano carne. Gli studiosi hanno osservato questo comportamento e lo trovano molto interessante. La carne, infatti, dà molta energia in poco tempo, ma per ottenerla bisogna correre, collaborare con il gruppo e imparare dove si nascondono gli altri animali. Non è quindi una scelta facile né automatica.\n\nPer i ricercatori questo può aiutare a capire come si è evoluta l'alimentazione dell'uomo. Anche i nostri antenati, milioni di anni fa, hanno cominciato a mangiare carne e questa scelta ha cambiato il corpo e forse anche il cervello. Studiare le scimmie di oggi è quindi come guardare indietro nel tempo. Gli scienziati continueranno a osservare questi animali per capire quando e perché decidono di cacciare.",
-        "vocab": [
-          {
-            "front": "la scimmia",
-            "pos": "noun",
-            "back": "monkey",
-            "example": "Al parco abbiamo visto due scimmie.",
-            "tier": "A2"
-          },
-          {
-            "front": "cacciare",
-            "pos": "verb",
-            "back": "to hunt",
-            "example": "In quella zona non si può cacciare.",
-            "tier": "B1"
-          },
-          {
-            "front": "il comportamento",
-            "pos": "noun",
-            "back": "behaviour",
-            "example": "Il comportamento del cane è cambiato.",
-            "tier": "B1"
-          },
-          {
-            "front": "lo studioso",
-            "pos": "noun",
-            "back": "scholar, researcher",
-            "example": "Gli studiosi hanno pubblicato i risultati.",
-            "tier": "B1"
-          },
-          {
-            "front": "ogni tanto",
-            "pos": "phrase",
-            "back": "every now and then",
-            "example": "Ogni tanto vado a correre la mattina.",
-            "tier": "A2"
-          },
-          {
-            "front": "nascondersi",
-            "pos": "verb",
-            "back": "to hide (oneself)",
-            "example": "Il gatto si nasconde sotto il letto.",
-            "tier": "A2"
-          },
-          {
-            "front": "collaborare",
-            "pos": "verb",
-            "back": "to work together, to cooperate",
-            "example": "Dobbiamo collaborare per finire in tempo.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'alimentazione",
-            "pos": "noun",
-            "back": "diet, feeding habits",
-            "example": "Una buona alimentazione aiuta la salute.",
-            "tier": "B1"
-          },
-          {
-            "front": "l'antenato",
-            "pos": "noun",
-            "back": "ancestor",
-            "example": "I nostri antenati vivevano nelle caverne.",
-            "tier": "B1"
-          },
-          {
-            "front": "evolversi",
-            "pos": "verb",
-            "back": "to evolve",
-            "example": "La lingua si evolve con il tempo.",
-            "tier": "B2"
-          },
-          {
-            "front": "il cervello",
-            "pos": "noun",
-            "back": "brain",
-            "example": "Il cervello consuma molta energia.",
-            "tier": "B1"
-          },
-          {
-            "front": "guardare indietro",
-            "pos": "phrase",
-            "back": "to look back",
-            "example": "Non serve guardare indietro con rimpianto.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "La carne, infatti, dà molta energia in poco tempo, ma per ottenerla bisogna correre, collaborare con il gruppo e imparare dove si nascondono gli altri animali.",
-            "point": "bisogna plus infinitive and the attached object pronoun in ottenerla",
-            "explanation": "Bisogna is impersonal and is always followed by an infinitive, and the pronoun la attaches to the end of the infinitive, replacing la carne.",
-            "why_tricky": "Learners try to conjugate bisogna with a subject and place the pronoun before the verb, as in la ottenere."
-          },
-          {
-            "sentence": "Per i ricercatori questo può aiutare a capire come si è evoluta l'alimentazione dell'uomo.",
-            "point": "Reflexive verb in the passato prossimo with participle agreement",
-            "explanation": "Evolversi is reflexive, so it takes essere, and the participle evoluta agrees with the feminine singular subject alimentazione.",
-            "why_tricky": "Learners choose avere for these verbs and forget to change the participle ending."
-          },
-          {
-            "sentence": "Gli scienziati continueranno a osservare questi animali per capire quando e perché decidono di cacciare.",
-            "point": "Verbs followed by a fixed preposition before the infinitive",
-            "explanation": "Continuare takes a before an infinitive while decidere takes di, and these prepositions must simply be learned with each verb.",
-            "why_tricky": "There is no rule to predict a or di, and English uses no preposition at all in continue to watch."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "guardare indietro nel tempo",
-            "meaning": "to look back in time",
-            "example": "Con questi fossili possiamo guardare indietro nel tempo."
-          },
-          {
-            "phrase": "ogni tanto",
-            "meaning": "once in a while",
-            "example": "Ogni tanto ci vediamo per un caffè."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Che cosa mangiano queste scimmie oltre alla frutta e alle foglie?",
-            "type": "open"
-          },
-          {
-            "q": "Perché cacciare non è una scelta facile per gli animali?",
-            "type": "open"
-          },
-          {
-            "q": "Perché questo studio interessa a chi studia l'evoluzione dell'uomo?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te, è utile studiare gli animali per capire meglio l'uomo? Scrivi circa 100 parole con la tua opinione e un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-piramide-cestia",
-      "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
-      "source": "ANSA",
-      "date": "2026-08-30",
-      "level": "A2-B1",
-      "topics": [
-        "Roma",
-        "cultura"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-piramide-cestia",
-        "revision": 1,
-        "meta": {
-          "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/08/28/la-piramide-cestia-riapre-al-pubblico-con-un-percorso-che-coniuga-tutela-e-accessibilita_e0d2f750-7b3d-4a87-8b42-bc456179f796.html",
-          "date_published": "2026-08-28",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "Roma",
-            "cultura"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "The Pyramid of Cestius in Rome is reopening to the public. From 4 September to 31 October the visits are free, both during the day and in the evening. The new route makes it possible to go inside without damaging the monument. It has also been designed for people with mobility difficulties. The Pyramid is an ancient tomb, around two thousand years old, and it stands near Porta San Paolo.\n\nThe monument is famous because it has an unusual shape for an Italian city. Many tourists walk past it every day, but few can go inside, because the space within is small. For this reason it is necessary to book the visit. The authorities hope that the new route will attract more visitors and will help to protect the monument. Accessibility, they say, is not a detail but a right that belongs to everyone.",
-        "resumen_es": "La Piramide Cestia di Roma riapre al pubblico. Dal 4 settembre al 31 ottobre le visite sono gratuite, di giorno e anche di sera. Il nuovo percorso permette di entrare senza rovinare il monumento. È pensato anche per le persone con difficoltà motorie. La Piramide è una tomba antica di circa duemila anni e si trova vicino a Porta San Paolo.\n\nIl monumento è famoso perché ha una forma insolita per una città italiana. Molti turisti passano davanti ogni giorno, ma pochi possono entrare, perché lo spazio interno è piccolo. Per questo è necessario prenotare la visita. Le autorità sperano che il nuovo percorso attiri più visitatori e che aiuti a proteggere il monumento. L'accessibilità, dicono, non è un dettaglio ma un diritto di tutti.",
-        "vocab": [
-          {
-            "front": "riaprire",
-            "pos": "verb",
-            "back": "to reopen",
-            "example": "Il museo riapre dopo i lavori.",
-            "tier": "B1"
-          },
-          {
-            "front": "il percorso",
-            "pos": "noun",
-            "back": "route, path, itinerary",
-            "example": "Il percorso della visita dura un'ora.",
-            "tier": "B1"
-          },
-          {
-            "front": "gratuito",
-            "pos": "adj",
-            "back": "free of charge",
-            "example": "L'ingresso è gratuito per i bambini.",
-            "tier": "B1"
-          },
-          {
-            "front": "rovinare",
-            "pos": "verb",
-            "back": "to ruin, to damage",
-            "example": "La pioggia ha rovinato i libri.",
-            "tier": "B1"
-          },
-          {
-            "front": "la tomba",
-            "pos": "noun",
-            "back": "tomb, grave",
-            "example": "Abbiamo visitato la tomba di un antico re.",
-            "tier": "B1"
-          },
-          {
-            "front": "insolito",
-            "pos": "adj",
-            "back": "unusual, out of the ordinary",
-            "example": "Fa un caldo insolito per settembre.",
-            "tier": "B2"
-          },
-          {
-            "front": "prenotare",
-            "pos": "verb",
-            "back": "to book, to reserve",
-            "example": "Devo prenotare un tavolo per stasera.",
-            "tier": "A2"
-          },
-          {
-            "front": "il visitatore",
-            "pos": "noun",
-            "back": "visitor",
-            "example": "I visitatori aspettano fuori dal museo.",
-            "tier": "B1"
-          },
-          {
-            "front": "proteggere",
-            "pos": "verb",
-            "back": "to protect",
-            "example": "Dobbiamo proteggere i monumenti antichi.",
-            "tier": "B1"
-          },
-          {
-            "front": "le difficoltà motorie",
-            "pos": "phrase",
-            "back": "mobility difficulties",
-            "example": "L'entrata è adatta a chi ha difficoltà motorie.",
-            "tier": "B2"
-          },
-          {
-            "front": "il dettaglio",
-            "pos": "noun",
-            "back": "detail",
-            "example": "Mi ha raccontato tutto nei minimi dettagli.",
-            "tier": "B1"
-          },
-          {
-            "front": "il diritto",
-            "pos": "noun",
-            "back": "right (entitlement)",
-            "example": "Lo studio è un diritto di tutti.",
-            "tier": "B1"
-          },
-          {
-            "front": "passare davanti",
-            "pos": "phrase",
-            "back": "to walk or drive past",
-            "example": "Passo davanti alla stazione ogni mattina.",
-            "tier": "A2"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Il nuovo percorso permette di entrare senza rovinare il monumento.",
-            "point": "permettere di + infinito e senza + infinito",
-            "explanation": "Molti verbi italiani chiedono di davanti all'infinito: permettere di, cercare di, decidere di. Senza si usa direttamente con l'infinito, mai con il gerundio.",
-            "why_tricky": "In inglese si dice without ruining, con la forma in -ing, e questo spinge lo studente a scrivere senza rovinando."
-          },
-          {
-            "sentence": "Le autorità sperano che il nuovo percorso attiri più visitatori e che aiuti a proteggere il monumento.",
-            "point": "Il congiuntivo dopo sperare che",
-            "explanation": "Dopo i verbi di speranza, desiderio e opinione si usa il congiuntivo: attiri e aiuti sono congiuntivi presenti di attirare e aiutare.",
-            "why_tricky": "Le forme del congiuntivo di terza persona sembrano uguali all'indicativo di prima persona, quindi è facile confondersi."
-          },
-          {
-            "sentence": "L'accessibilità, dicono, non è un dettaglio ma un diritto di tutti.",
-            "point": "La struttura non ... ma",
-            "explanation": "Non seguito da ma serve a correggere: prima si nega una cosa, poi si dà quella giusta. L'inciso dicono indica che la frase riporta le parole di altri.",
-            "why_tricky": "Lo studente aggiunge spesso però o invece dopo ma, creando una doppia opposizione che in italiano suona pesante."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "nei minimi dettagli",
-            "meaning": "in the smallest detail, very thoroughly",
-            "example": "Ha organizzato il viaggio nei minimi dettagli."
-          },
-          {
-            "phrase": "un diritto di tutti",
-            "meaning": "something everyone is entitled to",
-            "example": "La salute dovrebbe essere un diritto di tutti."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Quando si può visitare la Piramide Cestia e quanto costa la visita?",
-            "type": "open"
-          },
-          {
-            "q": "Perché è necessario prenotare per entrare?",
-            "type": "open"
-          },
-          {
-            "q": "Che cosa sperano le autorità con il nuovo percorso?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "I monumenti antichi devono essere aperti a tutti o protetti con regole severe? Scrivi 100 parole con la tua opinione e un esempio."
       }
     }
   ]
