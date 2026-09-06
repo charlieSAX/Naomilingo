@@ -1,7 +1,514 @@
 {
-  "generated_at": "2026-09-05T19:11:58Z",
+  "generated_at": "2026-09-06T07:22:31Z",
   "note": "Naomilingo article feed. The daily generator appends new packs here; the app imports any it doesn't already have and keeps the rest. Packs are study aids built from real ANSA headlines, open the original via each article's link for the full text.",
   "packs": [
+    {
+      "pack_id": "feed-2026-09-06-freddie-mercury-80",
+      "title": "Freddie Mercury, 80 anni fa nasceva il leggendario performer dei Queen",
+      "source": "ANSA",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "musica",
+        "cultura"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-freddie-mercury-80",
+        "revision": 1,
+        "meta": {
+          "title": "Freddie Mercury, 80 anni fa nasceva il leggendario performer dei Queen",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/09/05/freddie-mercury-80-anni-fa-nasceva-il-leggendario-performer-dei-queen_b8c05db8-bc0a-4827-a195-384d0ea564a7.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "musica",
+            "cultura"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "On 5 September 1946 Freddie Mercury was born, the legendary singer of Queen. Eighty years later, Italy and the world remember a unique artist. On stage he was theatrical, full of energy and always ready to surprise the audience. In his private life, however, he was a reserved person and spoke little about himself. With Queen he wrote songs that are famous all over the world, such as \"Bohemian Rhapsody\" and \"We Are the Champions\".\n\nFreddie Mercury died in 1991, at only 45, from an illness linked to Aids. His death affected millions of fans and brought more attention to this disease. Even today his voice and his concerts are a model for many singers. The film \"Bohemian Rhapsody\", released in 2018, made his story known to younger people too. For his birthday, radio stations, newspapers and social networks are remembering his songs and his talent.",
+        "resumen_es": "Il 5 settembre 1946 nasceva Freddie Mercury, il leggendario cantante dei Queen. Ottant'anni dopo, l'Italia e il mondo ricordano un artista unico. Sul palco era teatrale, pieno di energia e sempre pronto a sorprendere il pubblico. Nella vita privata, invece, era una persona riservata e parlava poco di sé. Con i Queen ha scritto canzoni famose in tutto il mondo, come \"Bohemian Rhapsody\" e \"We Are the Champions\".\n\nFreddie Mercury è morto nel 1991, a soli 45 anni, per una malattia legata all'Aids. La sua morte ha colpito milioni di fan e ha portato più attenzione su questa malattia. Ancora oggi la sua voce e i suoi concerti sono un modello per molti cantanti. Il film \"Bohemian Rhapsody\", uscito nel 2018, ha fatto conoscere la sua storia anche ai più giovani. Per il suo compleanno, radio, giornali e social network ricordano le sue canzoni e il suo talento.",
+        "vocab": [
+          {
+            "front": "nascere",
+            "pos": "verb",
+            "back": "to be born",
+            "example": "Freddie Mercury è nato nel 1946.",
+            "tier": "B1"
+          },
+          {
+            "front": "il cantante",
+            "pos": "noun",
+            "back": "singer",
+            "example": "Il cantante dei Queen aveva una voce unica.",
+            "tier": "B1"
+          },
+          {
+            "front": "leggendario",
+            "pos": "adj",
+            "back": "legendary",
+            "example": "È stato un concerto leggendario.",
+            "tier": "B2"
+          },
+          {
+            "front": "il palco",
+            "pos": "noun",
+            "back": "stage",
+            "example": "Sul palco era pieno di energia.",
+            "tier": "B1"
+          },
+          {
+            "front": "sorprendere",
+            "pos": "verb",
+            "back": "to surprise",
+            "example": "Amava sorprendere il pubblico.",
+            "tier": "B1"
+          },
+          {
+            "front": "il pubblico",
+            "pos": "noun",
+            "back": "audience, public",
+            "example": "Il pubblico cantava con lui.",
+            "tier": "B1"
+          },
+          {
+            "front": "riservato",
+            "pos": "adj",
+            "back": "reserved, private",
+            "example": "Era una persona riservata.",
+            "tier": "B1"
+          },
+          {
+            "front": "la malattia",
+            "pos": "noun",
+            "back": "illness, disease",
+            "example": "È morto per una malattia grave.",
+            "tier": "B1"
+          },
+          {
+            "front": "colpire",
+            "pos": "verb",
+            "back": "to strike, to affect deeply",
+            "example": "La notizia ha colpito tutti i fan.",
+            "tier": "B1"
+          },
+          {
+            "front": "il modello",
+            "pos": "noun",
+            "back": "model, example",
+            "example": "La sua voce è un modello per molti cantanti.",
+            "tier": "B1"
+          },
+          {
+            "front": "uscire (un film)",
+            "pos": "verb",
+            "back": "to come out, to be released",
+            "example": "Il film è uscito nel 2018.",
+            "tier": "B1"
+          },
+          {
+            "front": "far conoscere",
+            "pos": "phrase",
+            "back": "to make known, to introduce",
+            "example": "Il film ha fatto conoscere la sua storia ai giovani.",
+            "tier": "B2"
+          },
+          {
+            "front": "il compleanno",
+            "pos": "noun",
+            "back": "birthday",
+            "example": "Per il suo compleanno la radio passa le sue canzoni.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "Il 5 settembre 1946 nasceva Freddie Mercury, il leggendario cantante dei Queen.",
+            "point": "Imperfetto for a historical date (journalistic style)",
+            "explanation": "Italian news often uses the imperfetto (nasceva) for a past event tied to a date, especially in anniversaries. In everyday speech you would say è nato. Note also the date pattern: il + number + month + year.",
+            "why_tricky": "Learners expect the passato prossimo for a single completed event; this imperfetto is a stylistic choice, not a rule change."
+          },
+          {
+            "sentence": "Nella vita privata, invece, era una persona riservata e parlava poco di sé.",
+            "point": "Invece for contrast and the reflexive pronoun sé",
+            "explanation": "Invece marks a contrast with the previous sentence (on stage vs. in private). Sé is the stressed reflexive pronoun, used after a preposition: parlava di sé means he talked about himself.",
+            "why_tricky": "Sé with an accent (himself) is different from se without one (if)."
+          },
+          {
+            "sentence": "Il film \"Bohemian Rhapsody\", uscito nel 2018, ha fatto conoscere la sua storia anche ai più giovani.",
+            "point": "Fare + infinitive (causative) and past participle as adjective",
+            "explanation": "Ha fatto conoscere means made known: fare + infinitive expresses causing something to happen. Uscito nel 2018 is a past participle used like an adjective to describe the film.",
+            "why_tricky": "English uses different structures (made his story known, released in 2018), so learners often add extra words in Italian."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "a soli 45 anni",
+            "meaning": "at only 45 (soli emphasises how young)",
+            "example": "È morto a soli 45 anni."
+          },
+          {
+            "phrase": "in tutto il mondo",
+            "meaning": "all over the world",
+            "example": "Le sue canzoni sono famose in tutto il mondo."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Com'era Freddie Mercury sul palco e com'era nella vita privata?",
+            "type": "open"
+          },
+          {
+            "q": "Quando e perché è morto Freddie Mercury?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa ha fatto il film \"Bohemian Rhapsody\" per la sua storia?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è il tuo cantante o gruppo preferito? Scrivi cinque o sei frasi e spiega perché ti piace."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-cigno-naviglio",
+      "title": "Lipu, un cigno reale imbrattato nel Naviglio in situazione critica",
+      "source": "ANSA",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "animali",
+        "ambiente"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-cigno-naviglio",
+        "revision": 1,
+        "meta": {
+          "title": "Lipu, un cigno reale imbrattato nel Naviglio in situazione critica",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/lipu-un-cigno-reale-imbrattato-nel-naviglio-in-situazione-critica_73cb713d-663a-4eb2-a4f9-2097cb113dc2.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "animali",
+            "ambiente"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "In Milan a mute swan is in critical condition after being found covered in a dark substance in the Naviglio, one of the city's historic canals. The animal was rescued by volunteers from Lipu, the Italian association that protects birds. \"It was covered in that substance, our staff stabilised it,\" the rescuers explain. Now the swan is being treated in a specialised centre, where vets clean it and check it every day.\n\nIt is not yet clear where the substance that dirtied the swan came from. It could be oil or another product dumped into the canal. Lipu is asking for more care for nature in the city: many animals live in the Navigli, such as ducks, fish and swans, and pollution can put them in danger. The volunteers invite citizens to report animals in difficulty straight away. In the coming days it will become clear whether the swan can go free again.",
+        "resumen_es": "A Milano un cigno reale è in condizioni critiche dopo essere stato trovato coperto da una sostanza scura nel Naviglio, uno dei canali storici della città. L'animale è stato salvato dai volontari della Lipu, l'associazione italiana che protegge gli uccelli. \"Era ricoperto da quella sostanza, il nostro staff lo ha stabilizzato\", spiegano i soccorritori. Ora il cigno è curato in un centro specializzato, dove i veterinari lo puliscono e lo controllano ogni giorno.\n\nNon è ancora chiaro da dove venga la sostanza che ha sporcato il cigno. Potrebbe essere olio o un altro prodotto scaricato nel canale. La Lipu chiede più attenzione per la natura in città: nei Navigli vivono molti animali, come anatre, pesci e cigni, e l'inquinamento può metterli in pericolo. I volontari invitano i cittadini a segnalare subito gli animali in difficoltà. Nei prossimi giorni si capirà se il cigno potrà tornare libero.",
+        "vocab": [
+          {
+            "front": "il cigno",
+            "pos": "noun",
+            "back": "swan",
+            "example": "Nel canale vive un cigno bianco.",
+            "tier": "A2"
+          },
+          {
+            "front": "il canale",
+            "pos": "noun",
+            "back": "canal",
+            "example": "I Navigli sono i canali storici di Milano.",
+            "tier": "A2"
+          },
+          {
+            "front": "la sostanza",
+            "pos": "noun",
+            "back": "substance",
+            "example": "Una sostanza scura copriva le piume.",
+            "tier": "B1"
+          },
+          {
+            "front": "il volontario",
+            "pos": "noun",
+            "back": "volunteer",
+            "example": "I volontari hanno salvato l'animale.",
+            "tier": "B1"
+          },
+          {
+            "front": "proteggere",
+            "pos": "verb",
+            "back": "to protect",
+            "example": "La Lipu protegge gli uccelli.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'uccello",
+            "pos": "noun",
+            "back": "bird",
+            "example": "In città vivono molti uccelli.",
+            "tier": "A2"
+          },
+          {
+            "front": "curare",
+            "pos": "verb",
+            "back": "to treat, to care for",
+            "example": "I veterinari curano il cigno.",
+            "tier": "B1"
+          },
+          {
+            "front": "sporcare",
+            "pos": "verb",
+            "back": "to dirty, to soil",
+            "example": "L'olio ha sporcato le piume.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'inquinamento",
+            "pos": "noun",
+            "back": "pollution",
+            "example": "L'inquinamento è pericoloso per gli animali.",
+            "tier": "B1"
+          },
+          {
+            "front": "mettere in pericolo",
+            "pos": "phrase",
+            "back": "to put in danger",
+            "example": "Lo smog mette in pericolo gli uccelli.",
+            "tier": "B1"
+          },
+          {
+            "front": "segnalare",
+            "pos": "verb",
+            "back": "to report, to flag",
+            "example": "Puoi segnalare un animale ferito alla Lipu.",
+            "tier": "B1"
+          },
+          {
+            "front": "in difficoltà",
+            "pos": "phrase",
+            "back": "in difficulty, in trouble",
+            "example": "Il cigno era in difficoltà.",
+            "tier": "B1"
+          },
+          {
+            "front": "libero",
+            "pos": "adj",
+            "back": "free",
+            "example": "Il cigno tornerà libero nel canale.",
+            "tier": "A2"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "L'animale è stato salvato dai volontari della Lipu, l'associazione italiana che protegge gli uccelli.",
+            "point": "Passive with essere + past participle and da for the agent",
+            "explanation": "È stato salvato is a passive form in the passato prossimo: essere + stato + participle. The agent (who did it) is introduced by da: dai volontari (da + i).",
+            "why_tricky": "The participle agrees with the subject (l'animale, masculine singular), and da combines with the article: da + i = dai."
+          },
+          {
+            "sentence": "Non è ancora chiaro da dove venga la sostanza che ha sporcato il cigno.",
+            "point": "Subjunctive after an expression of uncertainty",
+            "explanation": "Non è chiaro (it is not clear) expresses doubt, so the following verb goes in the congiuntivo: venga instead of viene. Da dove means from where.",
+            "why_tricky": "Beginners tend to keep the indicative; the negative form non è chiaro is what triggers the subjunctive here."
+          },
+          {
+            "sentence": "Nei prossimi giorni si capirà se il cigno potrà tornare libero.",
+            "point": "Impersonal si with the future",
+            "explanation": "Si capirà means it will become clear, literally one will understand: si + third person verb creates an impersonal sentence. Potrà is the future of potere.",
+            "why_tricky": "English needs a subject (it, people, we); Italian uses si without any subject at all."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "in condizioni critiche",
+            "meaning": "in critical condition",
+            "example": "Il cigno è arrivato al centro in condizioni critiche."
+          },
+          {
+            "phrase": "mettere in pericolo",
+            "meaning": "to put at risk",
+            "example": "L'inquinamento mette in pericolo gli animali del canale."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Dove è stato trovato il cigno e in che condizioni era?",
+            "type": "open"
+          },
+          {
+            "q": "Chi ha salvato l'animale e che cosa fanno ora i veterinari?",
+            "type": "open"
+          },
+          {
+            "q": "Che cosa chiede la Lipu ai cittadini?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Nella tua città ci sono animali che vivono vicino alle persone? Scrivi cinque frasi su come possiamo proteggerli."
+      }
+    },
+    {
+      "pack_id": "feed-2026-09-06-saetta-mcqueen-monza",
+      "title": "F1: Saetta McQueen compie un giro d'onore a Monza, la Safety Car si veste \"Cars\"",
+      "source": "ANSA",
+      "date": "2026-09-05",
+      "level": "A2-B1",
+      "topics": [
+        "sport",
+        "cinema"
+      ],
+      "pack": {
+        "pack_id": "feed-2026-09-06-saetta-mcqueen-monza",
+        "revision": 1,
+        "meta": {
+          "title": "F1: Saetta McQueen compie un giro d'onore a Monza, la Safety Car si veste \"Cars\"",
+          "source": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/05/f1-saetta-mcqueen-compie-un-giro-donore-a-monza-la-safety-car-si-veste-cars_404f70a1-85aa-4a5d-ba0e-82c3e4db8caa.html",
+          "date_published": "2026-09-05",
+          "date_processed": "2026-09-06",
+          "tags": [
+            "sport",
+            "cinema"
+          ],
+          "level": "A2-B1"
+        },
+        "summary_en": "At Monza, Formula 1 has a special safety car. On Saturday, during the Italian Grand Prix weekend, Lightning McQueen, the famous character from the film \"Cars\", did a lap of honour on the track. The official safety car was decorated with the colours of the Pixar hero. In this way Disney and Formula 1 are celebrating, at the Monza racetrack, the anniversary of the famous Pixar franchise, loved by adults and children.\n\nThe initiative is a way to bring families and the youngest fans closer to the world of racing. The film \"Cars\", released in 2006, tells the story of a racing car that learns the value of friendship. Twenty years later, its characters are still very popular. The Monza crowd applauded the lap of honour and many fans took photos. Today, Sunday, the Grand Prix is being run, one of the most eagerly awaited races of the season.",
+        "resumen_es": "A Monza la Formula 1 ha una safety car speciale. Sabato, durante il weekend del Gran Premio d'Italia, Saetta McQueen, il famoso personaggio del film \"Cars\", ha fatto un giro d'onore sulla pista. La safety car ufficiale è stata decorata con i colori dell'eroe della Pixar. Così Disney e Formula 1 celebrano, all'Autodromo di Monza, l'anniversario del celebre franchise della Pixar, amato da grandi e bambini.\n\nL'iniziativa è un modo per avvicinare le famiglie e i più piccoli al mondo delle corse. Il film \"Cars\", uscito nel 2006, racconta la storia di una macchina da corsa che impara il valore dell'amicizia. Vent'anni dopo, i suoi personaggi sono ancora molto popolari. Il pubblico di Monza ha applaudito il giro d'onore e molti tifosi hanno fatto foto. Oggi, domenica, si corre il Gran Premio, una delle gare più attese della stagione.",
+        "vocab": [
+          {
+            "front": "il giro d'onore",
+            "pos": "phrase",
+            "back": "lap of honour",
+            "example": "La macchina ha fatto un giro d'onore.",
+            "tier": "B1"
+          },
+          {
+            "front": "la pista",
+            "pos": "noun",
+            "back": "track, circuit",
+            "example": "La pista di Monza è molto veloce.",
+            "tier": "A2"
+          },
+          {
+            "front": "il personaggio",
+            "pos": "noun",
+            "back": "character (in a film)",
+            "example": "Saetta McQueen è un personaggio famoso.",
+            "tier": "B1"
+          },
+          {
+            "front": "decorare",
+            "pos": "verb",
+            "back": "to decorate",
+            "example": "Hanno decorato la macchina con i colori del film.",
+            "tier": "A2"
+          },
+          {
+            "front": "celebrare",
+            "pos": "verb",
+            "back": "to celebrate",
+            "example": "Celebrano vent'anni del film.",
+            "tier": "B1"
+          },
+          {
+            "front": "l'anniversario",
+            "pos": "noun",
+            "back": "anniversary",
+            "example": "È l'anniversario del primo film.",
+            "tier": "A2"
+          },
+          {
+            "front": "avvicinare",
+            "pos": "verb",
+            "back": "to bring closer",
+            "example": "Vogliono avvicinare i bambini allo sport.",
+            "tier": "B1"
+          },
+          {
+            "front": "la corsa",
+            "pos": "noun",
+            "back": "race",
+            "example": "Le corse di Formula 1 sono molto veloci.",
+            "tier": "A2"
+          },
+          {
+            "front": "la macchina da corsa",
+            "pos": "phrase",
+            "back": "racing car",
+            "example": "Saetta è una macchina da corsa rossa.",
+            "tier": "A2"
+          },
+          {
+            "front": "l'amicizia",
+            "pos": "noun",
+            "back": "friendship",
+            "example": "Il film parla dell'amicizia.",
+            "tier": "A2"
+          },
+          {
+            "front": "applaudire",
+            "pos": "verb",
+            "back": "to applaud",
+            "example": "Il pubblico ha applaudito per due minuti.",
+            "tier": "B1"
+          },
+          {
+            "front": "il tifoso",
+            "pos": "noun",
+            "back": "fan, supporter",
+            "example": "I tifosi hanno fatto molte foto.",
+            "tier": "A2"
+          },
+          {
+            "front": "atteso",
+            "pos": "adj",
+            "back": "awaited, eagerly expected",
+            "example": "È la gara più attesa dell'anno.",
+            "tier": "B1"
+          }
+        ],
+        "grammar": [
+          {
+            "sentence": "La safety car ufficiale è stata decorata con i colori dell'eroe della Pixar.",
+            "point": "Passive in the passato prossimo with feminine agreement",
+            "explanation": "È stata decorata is passive: essere + stata + decorata. Both participles agree with the feminine subject la safety car. Dell'eroe is di + l' before a vowel.",
+            "why_tricky": "Foreign words like safety car still take an Italian gender (feminine, like la macchina), and the agreement must follow it."
+          },
+          {
+            "sentence": "L'iniziativa è un modo per avvicinare le famiglie e i più piccoli al mondo delle corse.",
+            "point": "Per + infinitive to express purpose",
+            "explanation": "Un modo per avvicinare means a way to bring closer. Per + infinitive says what something is for. I più piccoli (the youngest) uses the adjective as a noun.",
+            "why_tricky": "English uses to + verb; learners sometimes write un modo di avvicinare or add a subject."
+          },
+          {
+            "sentence": "Oggi, domenica, si corre il Gran Premio, una delle gare più attese della stagione.",
+            "point": "Impersonal si and the relative superlative",
+            "explanation": "Si corre means the race is run, without saying who runs it. Una delle gare più attese della stagione is a relative superlative: one of the most awaited races of the season, with di (della) after the superlative.",
+            "why_tricky": "After a superlative Italian uses di, not in: della stagione, not nella stagione."
+          }
+        ],
+        "idioms": [
+          {
+            "phrase": "grandi e bambini",
+            "meaning": "adults and children, everyone",
+            "example": "Il film piace a grandi e bambini."
+          },
+          {
+            "phrase": "fare foto",
+            "meaning": "to take photos",
+            "example": "I tifosi hanno fatto tante foto alla macchina."
+          }
+        ],
+        "comprehension": [
+          {
+            "q": "Che cosa ha fatto Saetta McQueen a Monza sabato?",
+            "type": "open"
+          },
+          {
+            "q": "Perché Disney e Formula 1 hanno organizzato questa iniziativa?",
+            "type": "open"
+          },
+          {
+            "q": "Di che cosa parla il film \"Cars\" e quando è uscito?",
+            "type": "open"
+          }
+        ],
+        "opinion_prompt": "Qual è il tuo film di animazione preferito? Scrivi cinque o sei frasi sulla storia e sui personaggi."
+      }
+    },
     {
       "pack_id": "feed-2026-09-05-barbie-whitney-marilyn",
       "title": "Barbie rende omaggio a Whitney Houston e a Marylin Monroe",
@@ -6067,520 +6574,6 @@
           }
         ],
         "opinion_prompt": "I monumenti antichi devono essere aperti a tutti o protetti con regole severe? Scrivi 100 parole con la tua opinione e un esempio."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-tasse-invisibili",
-      "title": "Tasse \"invisibili\", Cgia: il 95,7% del carico fiscale è pagato \"inconsapevolmente\"",
-      "source": "Rai News",
-      "date": "2026-08-30",
-      "level": "A2-B1",
-      "topics": [
-        "economia",
-        "fisco"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-tasse-invisibili",
-        "revision": 1,
-        "meta": {
-          "title": "Tasse \"invisibili\", Cgia: il 95,7% del carico fiscale è pagato \"inconsapevolmente\"",
-          "source": "Rai News",
-          "url": "https://www.rainews.it/articoli/2026/08/tasse-invisibili-cgia-il-957-del-carico-fiscale-e-pagato-inconsapevolmente-04a3e846-61e3-41a5-8551-d6a4c23be7ea.html",
-          "date_published": "2026-08-30",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "economia",
-            "fisco"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "According to the Cgia of Mestre, Italians pay almost all their taxes without noticing. The study says that 95.7 per cent of the tax burden is handed over automatically, for example through deductions in the pay slip or through VAT on products. Only a small part is paid with a deliberate bank transfer. This is why people talk about invisible taxes.\n\nItaly remains fifth in Europe for its tax burden and is worse off than Germany and Spain. Experts explain that when we do not see the money leaving, it is harder to understand how much we are really paying. Some think this makes citizens less attentive to public spending. Others reply that the automatic system is convenient and reduces tax evasion. The debate, in short, remains open.",
-        "resumen_es": "Secondo la Cgia di Mestre, gli italiani pagano quasi tutte le tasse senza accorgersene. Lo studio dice che il 95,7 per cento del carico fiscale è versato in modo automatico, per esempio con le trattenute in busta paga o con l'Iva sui prodotti. Solo una piccola parte viene pagata con un bonifico consapevole. Per questo si parla di tasse invisibili.\n\nL'Italia resta quinta in Europa per pressione fiscale e sta peggio della Germania e della Spagna. Gli esperti spiegano che, quando non vediamo il denaro uscire, è più difficile capire quanto paghiamo davvero. Alcuni pensano che questo renda i cittadini meno attenti alla spesa pubblica. Altri rispondono che il sistema automatico è comodo e riduce l'evasione. Il dibattito, insomma, resta aperto.",
-        "vocab": [
-          {
-            "front": "le tasse",
-            "pos": "noun",
-            "back": "taxes",
-            "example": "Ogni anno paghiamo le tasse a giugno.",
-            "tier": "A2"
-          },
-          {
-            "front": "accorgersi di",
-            "pos": "verb",
-            "back": "to notice, to realise",
-            "example": "Non mi sono accorto dell'errore.",
-            "tier": "B1"
-          },
-          {
-            "front": "il carico fiscale",
-            "pos": "phrase",
-            "back": "tax burden",
-            "example": "Il carico fiscale pesa molto sulle piccole imprese.",
-            "tier": "B2"
-          },
-          {
-            "front": "versare",
-            "pos": "verb",
-            "back": "to pay in, to deposit (money)",
-            "example": "Ho versato i soldi sul conto ieri.",
-            "tier": "B1"
-          },
-          {
-            "front": "la trattenuta",
-            "pos": "noun",
-            "back": "deduction (from wages)",
-            "example": "Sulla busta paga ci sono varie trattenute.",
-            "tier": "B2"
-          },
-          {
-            "front": "la busta paga",
-            "pos": "noun",
-            "back": "pay slip",
-            "example": "Controllo sempre la busta paga a fine mese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il bonifico",
-            "pos": "noun",
-            "back": "bank transfer",
-            "example": "Ti faccio un bonifico domani mattina.",
-            "tier": "B1"
-          },
-          {
-            "front": "consapevole",
-            "pos": "adj",
-            "back": "aware, conscious",
-            "example": "È consapevole dei rischi del viaggio.",
-            "tier": "B2"
-          },
-          {
-            "front": "la pressione fiscale",
-            "pos": "phrase",
-            "back": "tax pressure, overall level of taxation",
-            "example": "La pressione fiscale è cresciuta negli ultimi anni.",
-            "tier": "B2"
-          },
-          {
-            "front": "la spesa pubblica",
-            "pos": "phrase",
-            "back": "public spending",
-            "example": "Il governo vuole ridurre la spesa pubblica.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'evasione",
-            "pos": "noun",
-            "back": "tax evasion",
-            "example": "La lotta all'evasione è una priorità del governo.",
-            "tier": "B2"
-          },
-          {
-            "front": "comodo",
-            "pos": "adj",
-            "back": "convenient, comfortable",
-            "example": "Pagare con il telefono è molto comodo.",
-            "tier": "A2"
-          },
-          {
-            "front": "insomma",
-            "pos": "adv",
-            "back": "in short, all in all",
-            "example": "Insomma, alla fine abbiamo deciso di restare.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo la Cgia di Mestre, gli italiani pagano quasi tutte le tasse senza accorgersene.",
-            "point": "Infinito riflessivo con pronome ne",
-            "explanation": "Accorgersene unisce l'infinito riflessivo accorgersi e il pronome ne, che sostituisce di questo. I pronomi si attaccano sempre alla fine dell'infinito, che perde la e finale.",
-            "why_tricky": "Lo studente scrive senza si accorgere o senza accorgersi di questo, invece di unire i pronomi al verbo."
-          },
-          {
-            "sentence": "Solo una piccola parte viene pagata con un bonifico consapevole.",
-            "point": "Il passivo con venire",
-            "explanation": "Nei tempi semplici il passivo si può formare con venire al posto di essere: viene pagata equivale a è pagata, ma insiste di più sull'azione che sullo stato.",
-            "why_tricky": "Venire qui non significa to come, e il participio deve concordare con il soggetto femminile singolare: pagata."
-          },
-          {
-            "sentence": "Alcuni pensano che questo renda i cittadini meno attenti alla spesa pubblica.",
-            "point": "Congiuntivo dopo pensare che",
-            "explanation": "Dopo pensare che, credere che e sembrare che si usa il congiuntivo. Renda è il congiuntivo presente di rendere, qui nel senso di far diventare.",
-            "why_tricky": "Nella lingua parlata molti italiani usano l'indicativo, ma nella lingua scritta il congiuntivo resta la forma corretta."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "stare peggio di",
-            "meaning": "to be worse off than",
-            "example": "Dopo la crisi molte famiglie stanno peggio di prima."
-          },
-          {
-            "phrase": "il dibattito resta aperto",
-            "meaning": "the question is still unresolved",
-            "example": "Sul lavoro da casa il dibattito resta aperto."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Perché si parla di tasse invisibili?",
-            "type": "open"
-          },
-          {
-            "q": "In che modo la maggior parte delle tasse viene pagata, secondo lo studio?",
-            "type": "open"
-          },
-          {
-            "q": "Quali sono le due opinioni diverse sul sistema automatico?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Secondo te è meglio pagare le tasse in modo automatico o vedere ogni pagamento? Scrivi 100 parole e spiega perché."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-30-lapponia-olga",
-      "title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
-      "source": "ANSA",
-      "date": "2026-08-30",
-      "level": "A2-B1",
-      "topics": [
-        "viaggi",
-        "storie"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-30-lapponia-olga",
-        "revision": 1,
-        "meta": {
-          "title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/marche/notizie/2026/08/29/da-fano-alla-lapponia-in-auto-a-83-anni-lavventura-di-olga-mancurti_99ede620-95ce-4cb3-8e3d-358347d513e3.html",
-          "date_published": "2026-08-29",
-          "date_processed": "2026-08-30",
-          "tags": [
-            "viaggi",
-            "storie"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Olga Mancurti is 83 years old and lives in Fano, in the Marche region. This summer she set off by car and got all the way to Lapland, in the north of Europe. She drove for many days, crossing several countries. On her return her town gave her a scroll to celebrate the achievement. She, however, does not want to stop: I already have the next destination in mind, she said.\n\nHer story has been liked by a lot of people, because it breaks the idea that at a certain age you should stay at home. Travelling alone by car takes patience, good organisation and a bit of courage. Olga says that curiosity is the real engine. Perhaps this is the secret: to keep making plans, even small ones, instead of waiting for time to pass.",
-        "resumen_es": "Olga Mancurti ha 83 anni e vive a Fano, nelle Marche. Quest'estate è partita in auto ed è arrivata fino alla Lapponia, nel nord dell'Europa. Ha guidato per molti giorni e ha attraversato diversi paesi. Al ritorno la sua città le ha dato una pergamena per festeggiare l'impresa. Lei però non vuole fermarsi: 'Ho già in mente la prossima meta', ha detto.\n\nLa sua storia è piaciuta a molte persone, perché rompe l'idea che a una certa età si debba restare a casa. Viaggiare in auto da soli richiede pazienza, una buona organizzazione e un po' di coraggio. Olga dice che la curiosità è il vero motore. Forse è questo il segreto: continuare a fare progetti, anche piccoli, invece di aspettare che il tempo passi.",
-        "vocab": [
-          {
-            "front": "partire",
-            "pos": "verb",
-            "back": "to leave, to set off",
-            "example": "Partiamo domani alle sei.",
-            "tier": "A2"
-          },
-          {
-            "front": "guidare",
-            "pos": "verb",
-            "back": "to drive",
-            "example": "Non mi piace guidare di notte.",
-            "tier": "A2"
-          },
-          {
-            "front": "attraversare",
-            "pos": "verb",
-            "back": "to cross, to go through",
-            "example": "Abbiamo attraversato tutta la Francia in treno.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pergamena",
-            "pos": "noun",
-            "back": "scroll, certificate of honour",
-            "example": "Il sindaco le ha consegnato una pergamena.",
-            "tier": "B2"
-          },
-          {
-            "front": "l'impresa",
-            "pos": "noun",
-            "back": "feat, achievement",
-            "example": "Finire la maratona è stata una vera impresa.",
-            "tier": "B1"
-          },
-          {
-            "front": "fermarsi",
-            "pos": "verb",
-            "back": "to stop, to halt",
-            "example": "Ci fermiamo un attimo a bere un caffè.",
-            "tier": "A2"
-          },
-          {
-            "front": "la meta",
-            "pos": "noun",
-            "back": "destination, goal",
-            "example": "La nostra meta era un piccolo paese di montagna.",
-            "tier": "B1"
-          },
-          {
-            "front": "avere in mente",
-            "pos": "phrase",
-            "back": "to have in mind, to be planning",
-            "example": "Ho in mente un regalo per tua sorella.",
-            "tier": "B1"
-          },
-          {
-            "front": "rompere l'idea",
-            "pos": "phrase",
-            "back": "to break with the notion",
-            "example": "Il suo lavoro rompe l'idea che i musei siano noiosi.",
-            "tier": "B2"
-          },
-          {
-            "front": "richiedere",
-            "pos": "verb",
-            "back": "to require, to demand",
-            "example": "Questo lavoro richiede molta attenzione.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pazienza",
-            "pos": "noun",
-            "back": "patience",
-            "example": "Con i bambini ci vuole pazienza.",
-            "tier": "A2"
-          },
-          {
-            "front": "il coraggio",
-            "pos": "noun",
-            "back": "courage",
-            "example": "Non ho avuto il coraggio di dirglielo.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare progetti",
-            "pos": "phrase",
-            "back": "to make plans",
-            "example": "Mi piace fare progetti per l'estate.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Quest'estate è partita in auto ed è arrivata fino alla Lapponia, nel nord dell'Europa.",
-            "point": "Passato prossimo con essere e accordo del participio",
-            "explanation": "I verbi di movimento come partire e arrivare formano il passato prossimo con essere, e il participio concorda con il soggetto: partita e arrivata sono femminili singolari.",
-            "why_tricky": "Con avere il participio non cambia, quindi lo studente dimentica la a finale quando il soggetto è una donna."
-          },
-          {
-            "sentence": "La sua storia è piaciuta a molte persone, perché rompe l'idea che a una certa età si debba restare a casa.",
-            "point": "Il verbo piacere e il si impersonale con il congiuntivo",
-            "explanation": "Piacere ha come soggetto la cosa che piace, mentre la persona va con a. Nella seconda parte, si debba unisce il si impersonale al congiuntivo richiesto dopo l'idea che.",
-            "why_tricky": "Lo studente costruisce piacere come to like, con la persona soggetto, e usa l'indicativo deve dopo un'espressione di opinione."
-          },
-          {
-            "sentence": "Forse è questo il segreto: continuare a fare progetti, anche piccoli, invece di aspettare che il tempo passi.",
-            "point": "continuare a + infinito e invece di + infinito",
-            "explanation": "Continuare chiede la preposizione a davanti all'infinito. Invece di introduce l'alternativa scartata e va sempre con l'infinito, non con il gerundio.",
-            "why_tricky": "L'inglese usa la forma in -ing in entrambi i casi, quindi è facile scrivere invece di aspettando."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "avere in mente",
-            "meaning": "to have something planned or in your thoughts",
-            "example": "Che cosa hai in mente per il fine settimana?"
-          },
-          {
-            "phrase": "ci vuole coraggio",
-            "meaning": "it takes courage",
-            "example": "Per cambiare lavoro a cinquant'anni ci vuole coraggio."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove è andata Olga Mancurti e come ha viaggiato?",
-            "type": "open"
-          },
-          {
-            "q": "Come ha festeggiato la sua città il ritorno di Olga?",
-            "type": "open"
-          },
-          {
-            "q": "Perché la sua storia piace a molte persone?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Esiste un'età giusta per fare grandi viaggi? Scrivi 100 parole con la tua opinione e un esempio dalla tua vita."
-      }
-    },
-    {
-      "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
-      "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
-      "source": "ANSA",
-      "date": "2026-08-27",
-      "level": "A2-B1",
-      "topics": [
-        "società",
-        "Regno Unito"
-      ],
-      "pack": {
-        "pack_id": "feed-2026-08-29-harry-meghan-cotswolds",
-        "revision": 1,
-        "meta": {
-          "title": "Harry e Meghan nuova vita in Inghilterra, tutto quello che sappiamo",
-          "source": "ANSA",
-          "url": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/08/27/harry-e-meghan-nuova-vita-in-inghilterra-tutto-quello-che-sappiamo_2b9af34e-4bec-43ff-aea1-b5e9c3b6c1d3.html",
-          "date_published": "2026-08-27",
-          "date_processed": "2026-08-29",
-          "tags": [
-            "società",
-            "Regno Unito"
-          ],
-          "level": "A2-B1"
-        },
-        "summary_en": "Harry and Meghan are going back to live in England. According to ANSA, the couple has chosen a house in the countryside, in the Cotswolds area, west of London. It is important news, because the two had been living in the United States for several years. One problem is still open, though: security. It is not yet clear who will pay for the protection team when the family is in the United Kingdom.\n\nThe Cotswolds are a region of green hills, small villages and yellow stone houses. Many famous people live there because the area is quiet and it is not far from the capital. Harry's return also opens other questions: what relationship he will have with the royal family, and how much he will take part in public life. For now the couple has not given many details and the British papers keep making guesses.",
-        "resumen_es": "Harry e Meghan tornano a vivere in Inghilterra. Secondo l'ANSA, la coppia ha scelto una casa in campagna, nella zona dei Cotswolds, a ovest di Londra. È una notizia importante, perché i due vivevano negli Stati Uniti da diversi anni. Resta però un problema aperto: la sicurezza. Non è ancora chiaro chi pagherà la scorta quando la famiglia si trova nel Regno Unito.\n\nI Cotswolds sono una regione di colline verdi, piccoli villaggi e case di pietra gialla. Molte persone famose vivono lì perché il posto è tranquillo e non è lontano dalla capitale. Il ritorno di Harry apre anche altre domande: che rapporto avrà con la famiglia reale e quanto parteciperà alla vita pubblica. Per ora la coppia non ha dato molti dettagli e i giornali britannici continuano a fare ipotesi.",
-        "vocab": [
-          {
-            "front": "la coppia",
-            "pos": "noun",
-            "back": "the couple",
-            "example": "La coppia vive a Roma da due anni.",
-            "tier": "B1"
-          },
-          {
-            "front": "la campagna",
-            "pos": "noun",
-            "back": "the countryside",
-            "example": "D'estate andiamo in campagna dai nonni.",
-            "tier": "B1"
-          },
-          {
-            "front": "la collina",
-            "pos": "noun",
-            "back": "hill",
-            "example": "La casa è su una collina vicino al paese.",
-            "tier": "B1"
-          },
-          {
-            "front": "il villaggio",
-            "pos": "noun",
-            "back": "village",
-            "example": "È un villaggio di trecento abitanti.",
-            "tier": "B1"
-          },
-          {
-            "front": "la pietra",
-            "pos": "noun",
-            "back": "stone",
-            "example": "Le case del centro sono di pietra.",
-            "tier": "B1"
-          },
-          {
-            "front": "la scorta",
-            "pos": "noun",
-            "back": "security detail, bodyguards",
-            "example": "Il ministro viaggia sempre con la scorta.",
-            "tier": "B2"
-          },
-          {
-            "front": "la sicurezza",
-            "pos": "noun",
-            "back": "security, safety",
-            "example": "La sicurezza dei bambini viene prima di tutto.",
-            "tier": "B1"
-          },
-          {
-            "front": "lontano da",
-            "pos": "adj",
-            "back": "far from",
-            "example": "Il mio ufficio non è lontano dalla stazione.",
-            "tier": "B1"
-          },
-          {
-            "front": "il rapporto",
-            "pos": "noun",
-            "back": "relationship (between people)",
-            "example": "Ha un buon rapporto con i colleghi.",
-            "tier": "B1"
-          },
-          {
-            "front": "partecipare a",
-            "pos": "verb",
-            "back": "to take part in",
-            "example": "Molti giovani partecipano al progetto.",
-            "tier": "B1"
-          },
-          {
-            "front": "il dettaglio",
-            "pos": "noun",
-            "back": "detail",
-            "example": "Non conosciamo ancora tutti i dettagli.",
-            "tier": "B1"
-          },
-          {
-            "front": "fare ipotesi",
-            "pos": "phrase",
-            "back": "to speculate, to make guesses",
-            "example": "I giornali fanno ipotesi sul nuovo allenatore.",
-            "tier": "B2"
-          },
-          {
-            "front": "tranquillo",
-            "pos": "adj",
-            "back": "quiet, peaceful, calm",
-            "example": "Cerchiamo un quartiere tranquillo per i bambini.",
-            "tier": "A2"
-          },
-          {
-            "front": "tornare a vivere",
-            "pos": "phrase",
-            "back": "to go back to living somewhere",
-            "example": "Dopo dieci anni è tornata a vivere in Italia.",
-            "tier": "B1"
-          }
-        ],
-        "grammar": [
-          {
-            "sentence": "Secondo l'ANSA, la coppia ha scelto una casa in campagna, nella zona dei Cotswolds, a ovest di Londra.",
-            "point": "Passato prossimo con avere e participio irregolare",
-            "explanation": "Ha scelto è il passato prossimo di scegliere. Il participio è irregolare, scelto, e con avere non cambia mai: ha scelto una casa, ha scelto due case.",
-            "why_tricky": "Molti studenti dicono ha scegliuto per analogia con i verbi regolari, oppure fanno accordare il participio come con essere."
-          },
-          {
-            "sentence": "Non è ancora chiaro chi pagherà la scorta quando la famiglia si trova nel Regno Unito.",
-            "point": "Futuro semplice nella domanda indiretta",
-            "explanation": "Pagherà è futuro semplice di pagare. Attenzione alla h: paghe-rà, perché serve a mantenere il suono duro della g. La frase chi pagherà è una domanda indiretta dopo non è chiaro.",
-            "why_tricky": "In inglese si usa spesso il presente dove l'italiano preferisce il futuro, e la h di pagherò o pagherà viene dimenticata."
-          },
-          {
-            "sentence": "Molte persone famose vivono lì perché il posto è tranquillo e non è lontano dalla capitale.",
-            "point": "Accordo dell'aggettivo e preposizione articolata dalla",
-            "explanation": "Persone è femminile plurale, quindi gli aggettivi diventano molte e famose. Dalla è da + la, davanti a un nome femminile singolare: dalla capitale.",
-            "why_tricky": "Persone è femminile anche quando indica uomini, quindi si dice molte persone famose anche parlando di un gruppo maschile."
-          }
-        ],
-        "idioms": [
-          {
-            "phrase": "restare un nodo da sciogliere",
-            "meaning": "to remain an unresolved problem",
-            "example": "Sul contratto resta ancora un nodo da sciogliere."
-          },
-          {
-            "phrase": "in campagna",
-            "meaning": "in the countryside, out of town",
-            "example": "Il fine settimana andiamo sempre in campagna."
-          }
-        ],
-        "comprehension": [
-          {
-            "q": "Dove hanno deciso di vivere Harry e Meghan?",
-            "type": "open"
-          },
-          {
-            "q": "Qual è il problema che non è ancora risolto?",
-            "type": "open"
-          },
-          {
-            "q": "Come sono i Cotswolds e perché piacciono alle persone famose?",
-            "type": "open"
-          }
-        ],
-        "opinion_prompt": "Scrivi circa 100 parole: secondo te, chi dovrebbe pagare la sicurezza dei membri della famiglia reale che non lavorano più per la Corona? Spiega la tua opinione con due motivi."
       }
     }
   ]
